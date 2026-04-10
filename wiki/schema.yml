@@ -1,0 +1,44 @@
+name: LLM Wiki Test
+description: A research wiki about testing obsidian integration
+profile: research
+topic: testing obsidian integration
+domain_keywords: []
+paths:
+  raw: raw
+  wiki: wiki
+  assets: raw/assets
+taxonomy:
+  sources_dir: sources
+  entities_dir: entities
+  concepts_dir: concepts
+  analyses_dir: analyses
+  contradictions_dir: contradictions
+  tag_categories: {}
+  entity_types:
+  - person
+  - organization
+  - place
+  - product
+  concept_types:
+  - technique
+  - theory
+  - framework
+  - methodology
+mind_map:
+  enabled: true
+  max_nodes: 50
+  routing_nodes: 5
+  words_per_node:
+  - 150
+  - 400
+search:
+  enabled: true
+  backend: grep
+  qmd_path: null
+revision_tracking:
+  enabled: true
+  keep_history: false
+metadata:
+  created_by: llm-wiki
+  created_at: '2026-04-09T17:05:46.762552Z'
+  version: '1.0'

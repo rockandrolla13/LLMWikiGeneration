@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-wiki"
+version = "0.1.0"
+description = "LLM-maintained personal knowledge base"
+readme = "llm-wiki.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = [
+    "pyyaml>=6.0",
+    "python-frontmatter>=1.0.0",
+    "mkdocs>=1.5",
+    "mkdocs-material>=9.0",
+    "watchdog>=3.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+]
+omega = [
+    "omega-memory",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
