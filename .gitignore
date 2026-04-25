@@ -48,3 +48,9 @@ Thumbs.db
 
 # OMEGA local database
 .omega/
+
+# Converted markdown output (regenerable)
+markdown_output/
+
+# Raw source symlinks (local paths)
+wiki/raw/conformal-prediction

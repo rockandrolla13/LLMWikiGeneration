@@ -1,5 +1,15 @@
 Ingest a source document into the wiki. $ARGUMENTS
 
+## PDF Handling - MANDATORY
+
+**If the source is a PDF file (.pdf), you MUST convert it first:**
+1. Run `/wiki-convert <pdf_path>` to convert PDF to markdown
+2. Then ingest the resulting markdown file from `markdown_output/`
+
+**DO NOT attempt to read or ingest PDF files directly.** The wiki ingests markdown only.
+
+## Process
+
 If no source path is provided, list files in raw/ and ask which to ingest.
 
 Before ingesting, read the source and discuss with user:

@@ -1,7 +1,7 @@
-name: LLM Wiki Test
-description: A research wiki about testing obsidian integration
+name: ML Research Wiki
+description: A research wiki covering transformers, conformal prediction, uncertainty quantification, and distribution-free inference
 profile: research
-topic: testing obsidian integration
+topic: transformers, conformal prediction, uncertainty quantification
 domain_keywords: []
 paths:
   raw: raw

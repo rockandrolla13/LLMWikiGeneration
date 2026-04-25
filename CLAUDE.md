@@ -1,5 +1,28 @@
 # LLM Wiki Reference
 
+---
+
+## SESSION STARTUP - DO THIS FIRST
+
+**At the start of EVERY session, Claude MUST:**
+
+1. Call `omega_welcome()` to load context briefing
+2. Call `omega_protocol()` to get operating instructions
+3. Review which wikis exist (check WIKI_REGISTRY.md or query OMEGA)
+
+**If you "forget" things like:**
+- Which wikis exist
+- What concepts have been added
+- Previous decisions or lessons learned
+
+**→ Query OMEGA memory:** `omega_query("wikis")` or `omega_query("carry strategy")`
+
+**Active Wikis:**
+- `LLMWikiGeneration/wiki` - ML/Transformers research
+- `CarryStrategyWiki/wiki` - Fixed income carry/roll strategies
+
+---
+
 **Context:** Read `llm-wiki.md` first to understand the core concept and philosophy before using this operational reference.
 
 **An LLM-maintained personal knowledge base.** You add sources; the LLM maintains wiki pages, extracts entities and concepts, tracks contradictions, and synthesizes knowledge on demand.
@@ -18,8 +41,9 @@ obsidian  # Open wiki/ as vault on first launch
 # Initialize a new wiki
 /wiki-init
 
-# Add a source document
-/wiki-ingest raw/paper.pdf
+# Add a source document (PDF requires conversion first)
+/wiki-convert raw/paper.pdf
+/wiki-ingest markdown_output/paper.md
 
 # Ask questions
 /wiki-query "What is the main contribution?"
@@ -31,8 +55,53 @@ obsidian  # Open wiki/ as vault on first launch
 **Daily workflow:**
 ```
 /wiki                      # Hub - status + navigation
-/wiki-ingest raw/doc.pdf   # Add source
+/wiki-convert raw/doc.pdf  # Convert PDF to markdown (REQUIRED for PDFs)
+/wiki-ingest markdown_output/doc.md  # Ingest the converted markdown
 /wiki-query "question?"    # Search and synthesize
+```
+
+---
+
+## Document Processing Tools
+
+**MANDATORY: Use these tools before ingesting documents.**
+
+| Tool | Purpose | Command | Status |
+|------|---------|---------|--------|
+| **pymupdf4llm** | PDF → Markdown + images | `/wiki-convert <pdf>` | ✓ Installed |
+| **grobid-client** | Citation/reference extraction | Python API | ✓ Installed (needs server) |
+| **pix2text** | Math equation OCR (LaTeX) | Python API | Not installed |
+
+### PDF Conversion (Required)
+
+**PDFs cannot be ingested directly.** Always convert first:
+
+```bash
+# Using skill (recommended)
+/wiki-convert raw/paper.pdf
+
+# Manual command
+conda run -n llm-wiki python test_marker.py "path/to/paper.pdf"
+```
+
+**Output location:** `markdown_output/<filename>.md` + `markdown_output/<filename>_images/`
+
+### Tool Chain for Academic Papers
+
+For complex academic papers with equations, citations, and figures:
+
+1. **Text + Images:** `/wiki-convert` (pymupdf4llm) - fast, CPU-only
+2. **Citations:** `grobid-client` - when GROBID server available
+3. **Equations:** `pix2text` - if installed, converts math to LaTeX
+
+### Installing Additional Tools
+
+```bash
+# Math OCR (Mathpix alternative)
+pip install pix2text
+
+# Start local GROBID (requires Docker)
+docker run -d --name grobid -p 8070:8070 grobid/grobid:0.8.0
 ```
 
 ---
@@ -396,6 +465,39 @@ grep -r "\[\[.*\]\]" wiki/ | grep -v "^wiki/index.md"
 5. **Human directs, LLM executes** - User curates; LLM maintains
 6. **Document execution** - Use checklists; never backfill
 7. **Tiers enforce durability** - T1 = source of truth, T2 = regenerable, T3 = ephemeral
+8. **Symlink, don't copy** - Use symbolic links for source documents to avoid duplication
+
+---
+
+## File Management
+
+**IMPORTANT: Always use symlinks for source documents, never copy files.**
+
+When adding sources from external directories:
+```bash
+# CORRECT - create symlink
+ln -s "/path/to/source/folder" wiki/raw/topic-name
+
+# WRONG - do not copy files
+cp /path/to/files/*.pdf wiki/raw/  # NEVER DO THIS
+```
+
+**Why symlinks:**
+- Avoids duplicating large PDFs (saves disk space)
+- Single source of truth for files
+- Changes to originals automatically reflected
+- Faster than copying
+
+**Current source locations:**
+```
+wiki/raw/
+└── conformal-prediction -> /home/ak/Documents/Conformal Prediction
+```
+
+**Adding new source collections:**
+```bash
+ln -s "/path/to/papers" wiki/raw/topic-name
+```
 
 **Why it works:** LLMs don't get bored with bookkeeping. Maintenance cost is near zero. The wiki stays current because updating cross-references and maintaining consistency is automated.
 
