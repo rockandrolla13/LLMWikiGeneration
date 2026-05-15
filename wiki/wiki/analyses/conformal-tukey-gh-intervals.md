@@ -2,9 +2,9 @@
 title: "Conformal Prediction with Tukey g-h Transformation"
 page_id: analyses/conformal-tukey-gh-intervals
 page_type: analysis
-revision_id: 2
+revision_id: 3
 created: 2026-04-26T03:30:00Z
-updated: 2026-04-26T14:00:00Z
+updated: 2026-05-15T00:00:00Z
 tags: [conformal-prediction, tukey-gh, prediction-intervals, heavy-tails, uncertainty-quantification, research-idea]
 sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/technical-2025-bond-similarity, sources/peters-2026-quantile-diffusions]
 related: [concepts/conformal-prediction, concepts/tukey-gh-transformation, concepts/prediction-intervals, concepts/coverage-guarantee, concepts/uncertainty-quantification, concepts/conformalized-quantile-regression, entities/gareth-peters]
@@ -45,6 +45,89 @@ $$Y = \frac{e^{gZ} - 1}{g} \cdot e^{hZ^2/2}$$
 $$s(x, y) = T_{g,h}^{-1}(\hat{y}(x) - y)$$
 
 where $T_{g,h}^{-1}$ is the inverse g-h transform, produces scores that are approximately $N(0,1)$ distributed.
+
+## Continuous-Time Foundation (Peters 2026)
+
+[[sources/peters-2026-quantile-diffusions|Peters (2026)]] establishes a rigorous continuous-time framework for Tukey g-h quantile processes that provides theoretical foundations for dynamic conformal prediction intervals.
+
+### The Bridge: Probability Integral Transform
+
+Peters' random-level construction provides the conceptual bridge between static distributions and dynamic processes:
+
+$$U_t = F_Y(t, Y_t) \rightarrow Z_t = Q_{\phi_{gh}}(U_t)$$
+
+This two-step transformation maps any process $Y_t$ through its time-varying CDF $F_Y(t, \cdot)$ to uniform $U_t$, then through the g-h quantile function to a standardized process $Z_t$.
+
+**Mapping to conformal prediction**: This construction parallels the conformal workflow:
+1. **Residuals** → prediction errors $r_t = y_t - \hat{y}_t$
+2. **PIT** → transform via estimated CDF: $u_t = \hat{F}_r(r_t)$
+3. **Normalized scores** → apply g-h inverse: $s_t = T_{g,h}^{-1}(Q_N(u_t))$
+4. **Conformal quantile** → find calibration threshold $\hat{q}$
+5. **Back-transform** → interval bounds via $T_{g,h}(\pm\hat{q})$
+
+The PIT ensures that the g-h transformation operates on uniformly distributed inputs regardless of the original residual distribution, providing robustness to distributional misspecification.
+
+### Three Integration Points
+
+Peters' framework offers three levels of integration with conformal prediction:
+
+**1. Random-Level Construction → Static Conformal**
+
+For exchangeable data, Peters' Theorem 2.1 provides exact marginal quantiles:
+
+$$Q_Y(p) = T_{g,h}(Q_Z(p))$$
+
+This directly yields the conformity score transformation: apply $T_{g,h}^{-1}$ to residuals, conformalize the resulting approximately-normal scores, then back-transform. The construction guarantees that if $Z \sim N(0,1)$, the marginal distribution of $Y$ matches the theoretical g-h distribution exactly.
+
+**2. Function-Valued Construction → Adaptive Conformal**
+
+For time-varying residual distributions, Peters' function-valued construction allows $(g_t, h_t)$ to evolve:
+
+$$Y_t = T_{g_t, h_t}(Z_t)$$
+
+This maps directly to [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]] where the conformity score can use time-varying parameters estimated from recent calibration windows. The adaptation captures regime changes in tail behavior (e.g., volatility clustering, crisis periods).
+
+**3. Copula Invariance → Time Series Dependence**
+
+**Proposition 2.4** (Copula Invariance): For monotonic marginal transformations, the copula (dependence structure) is preserved:
+
+$$C_{Y}(u_1, ..., u_n) = C_{Z}(u_1, ..., u_n)$$
+
+**Critical implication for conformal**: When applying g-h transformation to time series residuals, the temporal dependence structure is preserved. This means:
+- Serial correlation in scores is maintained
+- The transformation doesn't create artificial independence
+- [[concepts/spci|SPCI]] and other dependent-data conformal methods remain valid after g-h normalization
+
+### Key Theorems from Peters (2026)
+
+| Theorem | Statement | Conformal Relevance |
+|---------|-----------|---------------------|
+| **Theorem 2.1** | Exact marginal quantile control: $Q_Y(p) = T_{g,h}(Q_Z(p))$ | Provides exact quantiles for interval construction |
+| **Proposition 2.4** | Copula invariance under monotonic transforms | Preserves temporal dependence for time series CP |
+| **Proposition 2.6** | Itô dynamics: $dY_t = \mu_{Y,t}dt + \sigma_{Y,t}dW_t$ | Enables continuous-time interval evolution |
+
+**Proposition 2.6 details**: Peters derives the SDE for g-h quantile processes:
+
+$$dY_t = \left[\mu_{g,h}(Z_t) + \frac{1}{2}\sigma_{g,h}''(Z_t)\sigma_Z^2\right]dt + \sigma_{g,h}(Z_t)\sigma_Z dW_t$$
+
+where $\sigma_{g,h}(z) = \frac{\partial T_{g,h}}{\partial z}$. This enables continuous-time evolution of prediction intervals, with drift and diffusion terms that capture how interval bounds evolve.
+
+### What Peters Adds Beyond Static g-h
+
+| Aspect | Static g-h Conformal | Peters (2026) Extension |
+|--------|---------------------|------------------------|
+| **Interval dynamics** | Fixed $(g, h)$ | Time-varying $(g_t, h_t)$ via SDE |
+| **Asymmetry** | Empirical from data | Principled via g-h parametrization |
+| **Theoretical basis** | Heuristic transformation | Rigorous quantile diffusion theory |
+| **Risk measures** | Post-hoc VaR/TVaR | Direct VaR/TVaR from quantile process |
+| **Temporal structure** | Assumes exchangeability | Explicit copula preservation |
+
+**VaR/TVaR Connection**: Peters' framework directly produces Value-at-Risk and Tail Value-at-Risk from the quantile process. For conformal prediction, this means:
+- VaR at level $\alpha$: $\text{VaR}_\alpha(Y) = T_{g,h}(z_\alpha)$
+- Conformalized VaR: Apply conformal correction to the quantile threshold
+- TVaR: Integrate the g-h quantile function above VaR level
+
+This provides a principled bridge between conformal prediction intervals and regulatory risk measures used in finance.
 
 ## Methods
 
@@ -391,5 +474,6 @@ Combining conformal prediction with Tukey g-h transformation offers a principled
 
 ## Changelog
 
+- **2026-05-15 (v3)**: Added "Continuous-Time Foundation (Peters 2026)" section covering PIT bridge, three integration points (random-level/function-valued/copula invariance), key theorems (2.1, 2.4, 2.6), and VaR/TVaR connections
 - **2026-04-26 (v2)**: Added Key Research Questions, Research Directions, Proposed Experiments sections based on ideation analysis
 - **2026-04-26 (v1)**: Initial analysis exploring g-h + conformal combination
