@@ -1,13 +1,22 @@
 ---
-title: Spread Per Turn of Leverage
+created: 2026-05-05 23:20:00+00:00
 page_id: concepts/spread-per-turn-of-leverage
 page_type: concept
-revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, relative-value, credit-analysis, leverage]
-sources: [sources/spec-2012-single-name-fundamental]
-related: [concepts/relative-value-analysis, concepts/leverage-ratios, concepts/credit-spread-curve]
+related:
+- concepts/credit-spread-curve
+- concepts/hyperscaler-data-center-bond-relative-value
+- concepts/leverage-ratios
+- concepts/relative-value-analysis
+revision_id: 2
+sources:
+- sources/spec-2012-single-name-fundamental
+tags:
+- creditETF
+- relative-value
+- credit-analysis
+- leverage
+title: Spread Per Turn of Leverage
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Spread Per Turn of Leverage
@@ -87,3 +96,7 @@ Similar analysis frameworks use:
 - [[concepts/relative-value-analysis]]
 - [[concepts/leverage-ratios]]
 - [[sources/spec-2012-single-name-fundamental]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/hyperscaler-data-center-bond-relative-value|hyperscaler-data-center-bond-relative-value]]

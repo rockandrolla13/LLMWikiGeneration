@@ -2,16 +2,20 @@
 title: Conformal Risk Control
 page_id: concepts/conformal-risk-control
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, uncertainty-quantification, risk-control, loss-functions]
-sources: [sources/farinhas-2024-non-exchangeable-crc]
+sources: [sources/bates-2021-rcps, sources/farinhas-2024-non-exchangeable-crc]
 related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/exchangeability, concepts/distribution-drift]
 mind_map_priority: high
 ---
 
 # Conformal Risk Control
+
+## Primary Source
+
+Primary source: [[sources/bates-2021-rcps|Bates, Angelopoulos, Lei, Malik & Jordan (2021), "Distribution-Free, Risk-Controlling Prediction Sets"]] (JACM). This paper introduces the risk-controlling prediction set (RCPS) framework — the calibration recipe that selects the threshold λ̂ from monotone calibration losses to bound the test-time expected loss — which is the foundation the CRC procedure formalised below generalises.
 
 **Conformal Risk Control (CRC)** extends [[concepts/conformal-prediction|conformal prediction]] from guaranteeing coverage to controlling the expected value of arbitrary monotone loss functions.
 

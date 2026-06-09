@@ -1,11 +1,24 @@
 ---
-title: "Momentum Spillover Effect"
+created: 2026-04-26 02:25:00+00:00
 page_id: concepts/spillover-effect
 page_type: concept
-created: 2026-04-26T02:25:00Z
-updated: 2026-04-26T02:25:00Z
-tags: [momentum, spillover, equities, corporate-bonds, cross-asset]
-related: [concepts/bond-momentum, concepts/residual-momentum, sources/haesen-2017-momentum-spillover]
+related:
+- concepts/asian-financial-crisis-1997
+- concepts/bond-momentum
+- concepts/dsge-threshold-bvar-counterfactual-analysis
+- concepts/early-warning-indicators
+- concepts/residual-momentum
+- concepts/twin-crises
+- sources/haesen-2017-momentum-spillover
+revision_id: 2
+tags:
+- momentum
+- spillover
+- equities
+- corporate-bonds
+- cross-asset
+title: Momentum Spillover Effect
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Momentum Spillover Effect
@@ -84,3 +97,10 @@ Haesen, Houweling, and van Zundert (2017):
 
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/asian-financial-crisis-1997|asian-financial-crisis-1997]]
+- [[concepts/dsge-threshold-bvar-counterfactual-analysis|dsge-threshold-bvar-counterfactual-analysis]]
+- [[concepts/early-warning-indicators|early-warning-indicators]]
+- [[concepts/twin-crises|twin-crises]]

@@ -1,14 +1,44 @@
 ---
-title: "ETF Flows"
+created: 2026-05-06 23:35:00+00:00
+mind_map_priority: high
 page_id: concepts/etf-flows
 page_type: concept
-revision_id: 1
-created: 2026-05-06T23:35:00Z
-updated: 2026-05-06T23:35:00Z
-tags: [etf, passive-investing, market-microstructure, price-impact, return-predictability]
-sources: [sources/optiver-2025-corporate-bond-etf-contraflow, sources/petit-2025-data-driven-flow-etf, sources/chao-2019-etf-flows-prices]
-related: [concepts/flow-decomposition, concepts/index-reconstitution, concepts/order-imbalance, concepts/mean-reversion]
-mind_map_priority: high
+related:
+- concepts/bond-index-inclusion-criteria
+- concepts/corporate-bonds
+- concepts/cross-asset-rotation
+- concepts/etf-creation-redemption-arbitrage
+- concepts/etf-flow-anomalies
+- concepts/etf-flow-tactical-asset-allocation
+- concepts/flow-decomposition
+- concepts/government-bond-spreads
+- concepts/index-reconstitution
+- concepts/mean-reversion
+- concepts/non-fundamental-demand-shocks
+- concepts/order-imbalance
+revision_id: 3
+sources:
+- sources/chao-2019-etf-flows-prices
+- sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits
+- sources/ms-2017-06-23-hy-leveraged-finance-playbook
+- sources/ms-2017-07-10-european-credit-watch
+- sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers
+- sources/ms-2019-01-28-european-credit-watch
+- sources/ms-2019-02-01-cross-asset-january-recap
+- sources/ms-2019-02-11-fx-positioning-tracker
+- sources/ms-2019-02-24-china-current-account-turning-point
+- sources/ms-2019-03-01-global-in-the-flow-february-recap
+- sources/ms-2019-04-01-cross-asset-1q-recap
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/petit-2025-data-driven-flow-etf
+tags:
+- etf
+- passive-investing
+- market-microstructure
+- price-impact
+- return-predictability
+title: ETF Flows
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # ETF Flows
@@ -61,3 +91,15 @@ Clustering trades based on ETF-constituent co-occurrence patterns for portfolio 
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019)]]
 - [[sources/petit-2025-data-driven-flow-etf|Petit et al. (2025)]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/bond-index-inclusion-criteria|bond-index-inclusion-criteria]]
+- [[concepts/etf-creation-redemption-arbitrage|etf-creation-redemption-arbitrage]]
+- [[concepts/etf-flow-anomalies|etf-flow-anomalies]]
+- [[concepts/etf-flow-tactical-asset-allocation|etf-flow-tactical-asset-allocation]]
+- [[concepts/non-fundamental-demand-shocks|non-fundamental-demand-shocks]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits]], [[sources/ms-2017-06-23-hy-leveraged-finance-playbook]], [[sources/ms-2017-07-10-european-credit-watch]], [[sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers]], [[sources/ms-2019-01-28-european-credit-watch]], [[sources/ms-2019-02-01-cross-asset-january-recap]], [[sources/ms-2019-02-11-fx-positioning-tracker]], [[sources/ms-2019-02-24-china-current-account-turning-point]], [[sources/ms-2019-03-01-global-in-the-flow-february-recap]], [[sources/ms-2019-04-01-cross-asset-1q-recap]]

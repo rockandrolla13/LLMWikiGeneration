@@ -2,11 +2,11 @@
 title: "Limit Order Book"
 page_id: concepts/limit-order-book
 page_type: concept
-revision_id: 2
+revision_id: 3
 created: 2026-04-25T22:00:00Z
-updated: 2026-04-26T03:00:00Z
+updated: 2026-05-21T12:00:00Z
 tags: [market-microstructure, trading, order-flow, price-discovery, liquidity]
-sources: [sources/xu-2020-mlofi, sources/ellersgaard-2018-hedge-tracking-lob, sources/wang-2018-cross-responses, sources/brigida-2019-trade-intensity-liquidity, sources/abergel-2017-algorithmic-trading-lob, sources/gould-2016-long-memory-fx, sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities]
+sources: [sources/xu-2020-mlofi, sources/ellersgaard-2018-hedge-tracking-lob, sources/wang-2018-cross-responses, sources/brigida-2019-trade-intensity-liquidity, sources/abergel-2017-algorithmic-trading-lob, sources/gould-2016-long-memory-fx, sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities, sources/cartea-2025-statistical-predictions-trading]
 related: [concepts/market-making, concepts/optimal-execution, concepts/fill-probability, concepts/avellaneda-stoikov-model, concepts/inventory-risk, entities/alvaro-cartea, entities/sebastian-jaimungal]
 mind_map_priority: high
 ---
@@ -132,3 +132,4 @@ The LOB is central to understanding how prices form:
 - [[entities/alvaro-cartea|Alvaro Cartea]]
 - [[entities/sebastian-jaimungal|Sebastian Jaimungal]]
 - [[sources/abergel-2017-algorithmic-trading-lob|Abergel (2017) Algorithmic Trading]]
+- [[sources/cartea-2025-statistical-predictions-trading|Cartea et al. (2025) Statistical Predictions of Trading Strategies]] — algorithm-level order-flow prediction in Euronext Amsterdam LOB

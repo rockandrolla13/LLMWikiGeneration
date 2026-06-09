@@ -2,11 +2,11 @@
 title: "Market Making"
 page_id: concepts/market-making
 page_type: concept
-revision_id: 2
+revision_id: 3
 created: 2026-04-25T22:00:00Z
-updated: 2026-04-26T03:00:00Z
+updated: 2026-05-21T12:00:00Z
 tags: [trading, liquidity-provision, bid-ask-spread, inventory-risk, optimal-control, fx, stochastic-control]
-sources: [sources/ellersgaard-2018-hedge-tracking-lob, sources/fermanian-2017-md2c-corporate-bonds, sources/gueant-2019-particle-filtering-bonds, sources/brigida-2019-trade-intensity-liquidity, sources/lu-2018-market-making, sources/avellaneda-2008-market-making, sources/bergault-2019-multi-asset-market-making, sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2022-multi-currency-inventory, sources/barzykin-2024-precious-metals, sources/barzykin-2025-adverse-selection, sources/bergault-2023-rfq-pricing, sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities]
+sources: [sources/ellersgaard-2018-hedge-tracking-lob, sources/fermanian-2017-md2c-corporate-bonds, sources/gueant-2019-particle-filtering-bonds, sources/brigida-2019-trade-intensity-liquidity, sources/lu-2018-market-making, sources/avellaneda-2008-market-making, sources/bergault-2019-multi-asset-market-making, sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2022-multi-currency-inventory, sources/barzykin-2024-precious-metals, sources/barzykin-2025-adverse-selection, sources/bergault-2023-rfq-pricing, sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities, sources/cartea-2025-statistical-predictions-trading]
 related: [concepts/limit-order-book, concepts/liquidity-risk, concepts/inventory-risk, concepts/adverse-selection, concepts/optimal-execution, concepts/avellaneda-stoikov-model, concepts/internalization-externalization, concepts/client-tiering, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin, entities/alvaro-cartea, entities/sebastian-jaimungal]
 mind_map_priority: high
 ---
@@ -209,3 +209,7 @@ See [[concepts/optimal-execution|Optimal Execution]] for execution-focused appro
 - [[entities/olivier-gueant|Olivier Guéant]]
 - [[entities/philippe-bergault|Philippe Bergault]]
 - [[entities/alexander-barzykin|Alexander Barzykin]]
+
+## Empirical Behavioral Clustering of Market Makers
+
+[[sources/cartea-2025-statistical-predictions-trading|Cartea et al. (2025)]] use Euronext Amsterdam regulatory data (with algorithm- and member-level identifiers) to identify that only about one-third of Liquidity Providers behave as market makers — the rest cluster into directional and opportunistic styles despite sharing a single dealing capacity.

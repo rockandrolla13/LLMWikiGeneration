@@ -1,12 +1,59 @@
 ---
-title: "Mean Reversion"
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/mean-reversion
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [time-series, statistical-properties, trading-strategies, stochastic-processes]
-related: [concepts/statistical-arbitrage, concepts/pairs-trading, concepts/cointegration, concepts/ornstein-uhlenbeck-process, concepts/hurst-exponent]
-sources: [sources/triantafyllopoulos-2011-mean-reverting-spreads, sources/moura-2016-pairs-trading-kalman, sources/zhang-2021-pairs-general-ssm]
+related:
+- concepts/alpha-correlation-turnover
+- concepts/arima-garch-models
+- concepts/behavioral-finance
+- concepts/cointegration
+- concepts/contrarian-market-timing
+- concepts/credit-relative-value
+- concepts/credit-spread-curve
+- concepts/cross-asset-rotation
+- concepts/earnings-growth-persistence
+- concepts/ewmac-carry-trading-rules
+- concepts/expectations-hypothesis-term-structure
+- concepts/fast-mean-reversion
+- concepts/great-moderation
+- concepts/hidden-markov-models
+- concepts/hurst-exponent
+- concepts/law-of-active-management
+- concepts/market-integration-concordance-measure
+- concepts/market-timing
+- concepts/mean-reversion-in-profitability
+- concepts/ornstein-uhlenbeck-process
+- concepts/pairs-trading
+- concepts/regime-switching-models
+- concepts/regression-to-the-mean
+- concepts/relative-value-spread-trading
+- concepts/statistical-arbitrage
+- concepts/strategy-robustness
+- concepts/style-premia
+- concepts/term-structure-risk-premium
+- concepts/trend-following
+- concepts/value-premium
+revision_id: 3
+sources:
+- sources/moura-2016-pairs-trading-kalman
+- sources/ms-2011-03-28-high-grade-mid-cycle
+- sources/ms-2018-06-05-emfx-risk-premia-two-factor
+- sources/ms-2019-02-03-self-catalysing-dollar-weakness
+- sources/ms-2019-02-17-goldilocks-whiplash
+- sources/ms-2019-02-28-selling-the-rally
+- sources/ms-2019-03-03-an-easing-trio
+- sources/ms-2020-03-19-volatility-peaks-before-markets-trough
+- sources/ms-2020-04-01-what-do-recoveries-look-like
+- sources/ms-2022-11-04-end-of-trends
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- sources/zhang-2021-pairs-general-ssm
+tags:
+- time-series
+- statistical-properties
+- trading-strategies
+- stochastic-processes
+title: Mean Reversion
+updated: '2026-06-09T12:00:00Z'
 ---
 
 ## Definition
@@ -155,3 +202,29 @@ Non-linear models can capture:
 - [[concepts/cointegration|Cointegration]] - long-run equilibrium
 - [[concepts/hurst-exponent|Hurst Exponent]] - alternative test
 - [[concepts/stationarity|Stationarity]] - statistical property
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/alpha-correlation-turnover|alpha-correlation-turnover]]
+- [[concepts/arima-garch-models|arima-garch-models]]
+- [[concepts/contrarian-market-timing|contrarian-market-timing]]
+- [[concepts/credit-relative-value|credit-relative-value]]
+- [[concepts/earnings-growth-persistence|earnings-growth-persistence]]
+- [[concepts/ewmac-carry-trading-rules|ewmac-carry-trading-rules]]
+- [[concepts/expectations-hypothesis-term-structure|expectations-hypothesis-term-structure]]
+- [[concepts/fast-mean-reversion|fast-mean-reversion]]
+- [[concepts/hidden-markov-models|hidden-markov-models]]
+- [[concepts/law-of-active-management|law-of-active-management]]
+- [[concepts/market-integration-concordance-measure|market-integration-concordance-measure]]
+- [[concepts/mean-reversion-in-profitability|mean-reversion-in-profitability]]
+- [[concepts/pairs-trading|pairs-trading]]
+- [[concepts/regression-to-the-mean|regression-to-the-mean]]
+- [[concepts/relative-value-spread-trading|relative-value-spread-trading]]
+- [[concepts/strategy-robustness|strategy-robustness]]
+- [[concepts/style-premia|style-premia]]
+- [[concepts/term-structure-risk-premium|term-structure-risk-premium]]
+- [[concepts/value-premium|value-premium]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-02-03-self-catalysing-dollar-weakness]], [[sources/ms-2019-02-17-goldilocks-whiplash]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-03-03-an-easing-trio]], [[sources/ms-2020-03-19-volatility-peaks-before-markets-trough]], [[sources/ms-2020-04-01-what-do-recoveries-look-like]], [[sources/ms-2022-11-04-end-of-trends]]

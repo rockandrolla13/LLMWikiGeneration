@@ -3,10 +3,12 @@ title: "Álvaro Cartea"
 page_id: entities/alvaro-cartea
 page_type: entity
 entity_type: person
+revision_id: 2
 created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
+updated: 2026-05-21T12:00:00Z
 tags: [researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance]
 affiliations: [University of Oxford, University College London]
+sources: [sources/cartea-2015-optimal-execution, sources/cartea-2025-statistical-predictions-trading]
 related: [entities/sebastian-jaimungal, concepts/optimal-execution, concepts/market-making]
 ---
 
@@ -37,6 +39,7 @@ Co-author of **"Algorithmic and High-Frequency Trading"** (Cambridge University 
 
 ### Papers in This Wiki
 - [[sources/cartea-2015-optimal-execution]] - Optimal execution with limit and market orders
+- [[sources/cartea-2025-statistical-predictions-trading|Statistical Predictions of Trading Strategies in Electronic Markets (2025)]] — algorithm-level order-flow prediction and trader behavioral clustering on Euronext Amsterdam
 
 ## Key Methodological Contributions
 

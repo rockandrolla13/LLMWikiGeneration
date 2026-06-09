@@ -1,14 +1,28 @@
 ---
-title: Quantile Regression
+created: 2026-04-26 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/quantile-regression
 page_type: concept
-revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [regression, statistics, prediction-intervals, econometrics]
-sources: [sources/chernozhukov-2021-distributional-cp]
-related: [concepts/distributional-conformal-prediction, concepts/prediction-intervals, concepts/probability-integral-transform]
-mind_map_priority: medium
+related:
+- concepts/distributional-conformal-prediction
+- concepts/nonparametric-conditional-moment-test
+- concepts/optimum-score-estimation
+- concepts/prediction-intervals
+- concepts/probability-integral-transform
+- concepts/quantile-treatment-effects
+- concepts/tick-loss
+revision_id: 4
+sources:
+- sources/chernozhukov-2021-distributional-cp
+- sources/peiris-2025-rnn-har-var
+- sources/barendse-2026-efficient-tail-interquantile
+tags:
+- regression
+- statistics
+- prediction-intervals
+- econometrics
+title: Quantile Regression
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Quantile Regression
@@ -94,3 +108,15 @@ Quantile regression was introduced by Roger Koenker and Gilbert Bassett in 1978,
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/probability-integral-transform|Probability Integral Transform]]
 - [[sources/chernozhukov-2021-distributional-cp|Chernozhukov et al. (2021)]]
+- [[sources/peiris-2025-rnn-har-var|Peiris, Tran, Wang, Gerlach (2025)]] — quantile loss (asymmetric Laplace) used as the working pseudo-likelihood for RNN-HAR Value-at-Risk forecasting under generalized Bayesian inference
+- [[sources/barendse-2026-efficient-tail-interquantile|Barendse (2026)]] — first-stage quantile-regression nuisance estimation feeds into the efficient joint estimation of tail and interquantile expectations under Fissler-Ziegel loss
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/optimum-score-estimation|optimum-score-estimation]]
+- [[concepts/quantile-treatment-effects|quantile-treatment-effects]]
+- [[concepts/tick-loss|tick-loss]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/nonparametric-conditional-moment-test|nonparametric-conditional-moment-test]]

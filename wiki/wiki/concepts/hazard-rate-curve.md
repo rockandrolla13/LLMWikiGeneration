@@ -1,13 +1,24 @@
 ---
-title: Hazard Rate Curve
+created: 2026-05-05 23:20:00+00:00
 page_id: concepts/hazard-rate-curve
 page_type: concept
-revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, credit-curves, default-probability, CDS, bonds]
-sources: [sources/ubs-2012-next-gen-credit-curves]
-related: [concepts/credit-spread-curve, concepts/cds-bond-basis, concepts/market-implied-ratings, concepts/survival-probability]
+related:
+- concepts/cds-bond-basis
+- concepts/credit-spread-curve
+- concepts/market-implied-ratings
+- concepts/reduced-form-credit-models
+- concepts/survival-probability
+revision_id: 2
+sources:
+- sources/ubs-2012-next-gen-credit-curves
+tags:
+- creditETF
+- credit-curves
+- default-probability
+- CDS
+- bonds
+title: Hazard Rate Curve
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Hazard Rate Curve
@@ -79,3 +90,7 @@ Using issuer hazard rates, market surfaces can be built covering every rating an
 - [[concepts/cds-bond-basis]]
 - [[concepts/survival-probability]]
 - [[sources/ubs-2012-next-gen-credit-curves]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/reduced-form-credit-models|reduced-form-credit-models]]

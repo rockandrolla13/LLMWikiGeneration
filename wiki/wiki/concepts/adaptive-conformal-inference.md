@@ -2,16 +2,20 @@
 title: Adaptive Conformal Inference
 page_id: concepts/adaptive-conformal-inference
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, time-series, distribution-shift, online-learning]
-sources: [sources/zaffran-2022-aci, sources/zaffran-phd, sources/koukorinis-2026-draci]
+sources: [sources/gibbs-2021-aci, sources/zaffran-2022-aci, sources/zaffran-phd, sources/koukorinis-2026-draci]
 related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/coverage-guarantee, concepts/exchangeability, concepts/doubly-robust-estimation, concepts/beta-mixing, concepts/causal-inference]
 mind_map_priority: high
 ---
 
 # Adaptive Conformal Inference
+
+## Primary Source
+
+Primary source: [[sources/gibbs-2021-aci|Gibbs & Candès (2021), "Adaptive Conformal Inference Under Distribution Shift"]]. This NeurIPS paper introduces the online α-update rule formalised below and proves the deterministic long-run coverage guarantee; it is the foundational reference for ACI.
 
 **Adaptive Conformal Inference (ACI)** is an extension of [[concepts/conformal-prediction|conformal prediction]] designed to handle time series data and distribution shifts, where the standard [[concepts/exchangeability|exchangeability]] assumption does not hold.
 

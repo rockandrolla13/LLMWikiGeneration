@@ -1,18 +1,19 @@
 ---
-title: Mental Model of Code
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/mental-model-of-code
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related:
+- concepts/mental-models
+revision_hash: sha256:f363726c57f87ea9
+revision_id: 2
 sources:
 - sources/hermans-2024-code-reading-in-practice
-related: []
-mind_map_priority: medium
-revision_hash: sha256:f363726c57f87ea9
+tags:
+- ai-engineering
+title: Mental Model of Code
+updated: '2026-06-09T12:00:00Z'
+updated_by: wiki-batch-ai-engineering-2026-05-17
 ---
 
 # Mental Model of Code
@@ -24,3 +25,7 @@ An internal representation of components, dependencies, and execution flow that 
 ## Sources
 
 - [[sources/hermans-2024-code-reading-in-practice|Code Reading in Practice]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/mental-models|mental-models]]

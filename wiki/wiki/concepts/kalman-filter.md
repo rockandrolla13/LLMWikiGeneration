@@ -1,14 +1,27 @@
 ---
-title: "Kalman Filter"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/kalman-filter
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [filtering, estimation, time-series, signal-processing]
-sources: [sources/he-2024-functional-regression]
-related: [concepts/state-space-models, concepts/schwartz-smith-model, concepts/functional-data-analysis]
-mind_map_priority: medium
+related:
+- concepts/functional-data-analysis
+- concepts/kalman-filter-state-space
+- concepts/linear-quadratic-control-kalman-filter
+- concepts/mcmc-bayesian-inference
+- concepts/pairs-trading
+- concepts/schwartz-smith-model
+- concepts/state-space-models
+revision_id: 2
+sources:
+- sources/halls-moore-advanced-algorithmic-trading
+- sources/he-2024-functional-regression
+tags:
+- filtering
+- estimation
+- time-series
+- signal-processing
+title: Kalman Filter
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Kalman Filter
@@ -68,3 +81,7 @@ $$\mathbf{P}_{t|t} = (\mathbf{I} - \mathbf{K}_t\mathbf{H})\mathbf{P}_{t|t-1}$$
 - [[concepts/schwartz-smith-model|Schwartz-Smith Model]]
 - [[concepts/functional-data-analysis|Functional Data Analysis]]
 - [[sources/he-2024-functional-regression|Multi-Factor Function-on-Function Regression (2024)]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]

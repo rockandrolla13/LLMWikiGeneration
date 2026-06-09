@@ -1,12 +1,30 @@
 ---
-title: "Pairs Trading"
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/pairs-trading
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [quantitative-finance, trading-strategies, mean-reversion, market-neutral, statistical-arbitrage]
-related: [concepts/statistical-arbitrage, concepts/cointegration, concepts/mean-reversion, concepts/kalman-filter, concepts/spread]
-sources: [sources/moura-2016-pairs-trading-kalman, sources/triantafyllopoulos-2011-mean-reverting-spreads, sources/he-2023-hf-pairs-chinese-futures, sources/zhang-2021-pairs-general-ssm]
+related:
+- concepts/capital-structure-arbitrage
+- concepts/cointegration
+- concepts/credit-relative-value
+- concepts/kalman-filter
+- concepts/mean-reversion
+- concepts/spread
+- concepts/statistical-arbitrage
+revision_id: 2
+sources:
+- sources/halls-moore-advanced-algorithmic-trading
+- sources/he-2023-hf-pairs-chinese-futures
+- sources/moura-2016-pairs-trading-kalman
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- sources/zhang-2021-pairs-general-ssm
+tags:
+- quantitative-finance
+- trading-strategies
+- mean-reversion
+- market-neutral
+- statistical-arbitrage
+title: Pairs Trading
+updated: '2026-06-09T12:00:00Z'
 ---
 
 ## Definition
@@ -139,3 +157,7 @@ Time for spread to revert halfway to mean.
 - [[concepts/mean-reversion|Mean Reversion]] underlying assumption
 - [[concepts/kalman-filter|Kalman Filter]] for dynamic estimation
 - [[concepts/spread|Spread]] as trading instrument
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]

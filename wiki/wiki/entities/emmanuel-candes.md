@@ -3,11 +3,11 @@ title: Emmanuel Candès
 page_id: entities/emmanuel-candes
 page_type: entity
 entity_type: person
-revision_id: 1
+revision_id: 2
 created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [researcher, statistics, conformal-prediction, compressed-sensing]
-sources: [sources/zaffran-2022-aci]
+sources: [sources/zaffran-2022-aci, sources/tibshirani-2019-covariate-shift, sources/barber-2021-jackknife-plus, sources/barber-2023-beyond-exchangeability, sources/romano-2019-cqr, sources/romano-2020-aps, sources/angelopoulos-2021-learn-then-test, sources/gibbs-2021-aci, sources/gibbs-2024-online-aci, sources/gibbs-2023-conditional-guarantees, sources/angelopoulos-2023-conformal-pid, sources/bates-2021-rcps]
 related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference]
 mind_map_priority: medium
 ---

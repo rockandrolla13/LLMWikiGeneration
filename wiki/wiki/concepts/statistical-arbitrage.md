@@ -1,12 +1,43 @@
 ---
-title: "Statistical Arbitrage"
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/statistical-arbitrage
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [quantitative-finance, trading-strategies, mean-reversion, market-neutral]
-related: [concepts/pairs-trading, concepts/cointegration, concepts/mean-reversion, concepts/kalman-filter, concepts/market-neutral]
-sources: [sources/montana-2009-flexible-least-squares, sources/triantafyllopoulos-2011-mean-reverting-spreads, sources/he-2023-hf-pairs-chinese-futures, sources/zhang-2021-pairs-general-ssm]
+related:
+- concepts/algorithmic-trading
+- concepts/alpha-correlation-turnover
+- concepts/alpha-signal
+- concepts/capital-structure-arbitrage
+- concepts/cointegration
+- concepts/credit-relative-value
+- concepts/cross-sectional-momentum
+- concepts/etf-creation-redemption-arbitrage
+- concepts/factor-investing
+- concepts/factor-signals-in-credit
+- concepts/kalman-filter
+- concepts/limits-to-arbitrage
+- concepts/liquidity-risk
+- concepts/market-integration-concordance-measure
+- concepts/market-neutral
+- concepts/mean-reversion
+- concepts/non-fundamental-demand-shocks
+- concepts/pairs-trading
+- concepts/regime-switching-models
+- concepts/relative-value-spread-trading
+- concepts/systematic-credit-relative-value
+revision_id: 3
+sources:
+- sources/he-2023-hf-pairs-chinese-futures
+- sources/montana-2009-flexible-least-squares
+- sources/ms-2018-07-09-em-risk-indicator-regime-switching
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- sources/zhang-2021-pairs-general-ssm
+tags:
+- quantitative-finance
+- trading-strategies
+- mean-reversion
+- market-neutral
+title: Statistical Arbitrage
+updated: '2026-06-09T12:00:00Z'
 ---
 
 ## Definition
@@ -104,3 +135,25 @@ Papers in this wiki applying statistical arbitrage:
 - **2000s**: High-frequency implementation
 - **2007-2008**: August 2007 "quant quake" - widespread losses
 - **2010s-present**: Machine learning integration
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/algorithmic-trading|algorithmic-trading]]
+- [[concepts/alpha-correlation-turnover|alpha-correlation-turnover]]
+- [[concepts/alpha-signal|alpha-signal]]
+- [[concepts/capital-structure-arbitrage|capital-structure-arbitrage]]
+- [[concepts/credit-relative-value|credit-relative-value]]
+- [[concepts/cross-sectional-momentum|cross-sectional-momentum]]
+- [[concepts/etf-creation-redemption-arbitrage|etf-creation-redemption-arbitrage]]
+- [[concepts/factor-signals-in-credit|factor-signals-in-credit]]
+- [[concepts/limits-to-arbitrage|limits-to-arbitrage]]
+- [[concepts/liquidity-risk|liquidity-risk]]
+- [[concepts/market-integration-concordance-measure|market-integration-concordance-measure]]
+- [[concepts/non-fundamental-demand-shocks|non-fundamental-demand-shocks]]
+- [[concepts/pairs-trading|pairs-trading]]
+- [[concepts/relative-value-spread-trading|relative-value-spread-trading]]
+- [[concepts/systematic-credit-relative-value|systematic-credit-relative-value]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2018-07-09-em-risk-indicator-regime-switching]]

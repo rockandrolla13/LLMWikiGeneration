@@ -3,12 +3,12 @@ title: Vladimir Vovk
 page_id: entities/vladimir-vovk
 page_type: entity
 entity_type: person
-revision_id: 1
+revision_id: 2
 created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [researcher, conformal-prediction, machine-learning, statistics]
-sources: []
-related: [concepts/conformal-prediction, concepts/exchangeability]
+updated: 2026-05-24T16:00:00Z
+tags: [researcher, conformal-prediction, machine-learning, statistics, game-theoretic-probability, foundational]
+sources: [sources/vovk-2005-algorithmic-learning, sources/shafer-2007-cp-tutorial, sources/vovk-2012-cross-conformal]
+related: [concepts/conformal-prediction, concepts/exchangeability, concepts/cross-conformal-prediction, concepts/venn-predictors, concepts/on-line-compression-models, concepts/mondrian-conformal-prediction, entities/alexander-gammerman, entities/glenn-shafer]
 mind_map_priority: high
 ---
 
@@ -46,7 +46,16 @@ Vovk's work on conformal prediction has enabled:
 
 His framework is now widely used in machine learning for applications requiring reliable uncertainty estimates.
 
+## Publications in This Wiki
+
+- [[sources/vovk-2005-algorithmic-learning]] — foundational CP textbook with [[entities/alexander-gammerman|Gammerman]] and [[entities/glenn-shafer|Shafer]].
+- [[sources/shafer-2007-cp-tutorial]] — canonical 58-page CP tutorial with [[entities/glenn-shafer|Shafer]].
+- [[sources/vovk-2012-cross-conformal]] — primary source for [[concepts/cross-conformal-prediction|cross-conformal prediction]].
+
 ## See Also
 
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/exchangeability|Exchangeability]]
+- [[concepts/venn-predictors|Venn Predictors]]
+- [[concepts/on-line-compression-models|On-Line Compression Models]]
+- [[entities/alexander-gammerman]], [[entities/glenn-shafer]] — co-inventors.

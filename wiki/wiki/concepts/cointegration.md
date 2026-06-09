@@ -1,12 +1,26 @@
 ---
-title: "Cointegration"
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/cointegration
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [econometrics, time-series, stationarity, error-correction, unit-root]
-related: [concepts/pairs-trading, concepts/statistical-arbitrage, concepts/mean-reversion, concepts/stationarity]
-sources: [sources/moura-2016-pairs-trading-kalman, sources/he-2023-hf-pairs-chinese-futures]
+related:
+- concepts/mean-reversion
+- concepts/pairs-trading
+- concepts/stationarity
+- concepts/statistical-arbitrage
+- concepts/vector-error-correction-model
+revision_id: 2
+sources:
+- sources/duasa-2010-predicting-crisis-recovery
+- sources/he-2023-hf-pairs-chinese-futures
+- sources/moura-2016-pairs-trading-kalman
+tags:
+- econometrics
+- time-series
+- stationarity
+- error-correction
+- unit-root
+title: Cointegration
+updated: '2026-06-09T12:00:00Z'
 ---
 
 ## Definition
@@ -134,3 +148,7 @@ OLS estimator of cointegrating vector:
 - [[concepts/pairs-trading|Pairs Trading]] - primary application
 - [[concepts/mean-reversion|Mean Reversion]] - implied by cointegration
 - [[concepts/error-correction-model|Error Correction Model]] - ECM representation
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/duasa-2010-predicting-crisis-recovery]]

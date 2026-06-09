@@ -1,11 +1,27 @@
 ---
-title: "Bond Momentum"
+created: 2026-04-26 02:20:00+00:00
 page_id: concepts/bond-momentum
 page_type: concept
-created: 2026-04-26T02:20:00Z
-updated: 2026-04-26T02:20:00Z
-tags: [momentum, corporate-bonds, factor-investing, anomalies]
-related: [concepts/factor-investing, concepts/spillover-effect, concepts/residual-momentum, sources/houweling-2017-factor-investing, sources/haesen-2017-momentum-spillover]
+related:
+- concepts/carry-rolldown
+- concepts/cross-sectional-momentum
+- concepts/ewmac-carry-trading-rules
+- concepts/factor-investing
+- concepts/momentum-trend-following
+- concepts/residual-momentum
+- concepts/spillover-effect
+- concepts/style-premia
+- concepts/trend-following
+- sources/haesen-2017-momentum-spillover
+- sources/houweling-2017-factor-investing
+revision_id: 2
+tags:
+- momentum
+- corporate-bonds
+- factor-investing
+- anomalies
+title: Bond Momentum
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Bond Momentum
@@ -64,3 +80,12 @@ Using firm-specific (idiosyncratic) returns rather than total returns
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/carry-rolldown|carry-rolldown]]
+- [[concepts/cross-sectional-momentum|cross-sectional-momentum]]
+- [[concepts/ewmac-carry-trading-rules|ewmac-carry-trading-rules]]
+- [[concepts/momentum-trend-following|momentum-trend-following]]
+- [[concepts/style-premia|style-premia]]
+- [[concepts/trend-following|trend-following]]

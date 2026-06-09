@@ -1,14 +1,67 @@
 ---
-title: "Causal Inference"
+created: 2026-04-28 14:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/causal-inference
 page_type: concept
-revision_id: 1
-created: 2026-04-28T14:00:00Z
-updated: 2026-04-28T14:00:00Z
-tags: [causal-inference, statistics, treatment-effects, econometrics]
-sources: [sources/koukorinis-2026-draci]
-related: [concepts/doubly-robust-estimation, concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/beta-mixing, concepts/temporal-cross-fitting]
-mind_map_priority: medium
+related:
+- concepts/adaptive-conformal-inference
+- concepts/at-at-theory-causal-influence
+- concepts/average-treatment-effect
+- concepts/back-door-front-door-adjustment
+- concepts/backward-causation
+- concepts/bayesian-additive-regression-trees
+- concepts/beta-mixing
+- concepts/causal-dags-confounding-selection-bias
+- concepts/causal-diagram
+- concepts/causal-identifiability-conditions
+- concepts/causal-theory-of-time-direction
+- concepts/conditional-independence-assumption
+- concepts/conditional-independence-test
+- concepts/conformal-prediction
+- concepts/confounding
+- concepts/correlation-vs-causation
+- concepts/counterfactual-conditional
+- concepts/counterfactuals
+- concepts/difference-in-differences
+- concepts/do-operator
+- concepts/doubly-robust-estimation
+- concepts/empirical-evaluation-causal-inference
+- concepts/feedback-loops
+- concepts/g-methods-time-varying-treatments
+- concepts/heterogeneous-treatment-effects
+- concepts/humes-problem-of-causation
+- concepts/instrumental-variables
+- concepts/interaction-analysis
+- concepts/interrupted-time-series-design
+- concepts/inverse-probability-weighting
+- concepts/ip-weighting-marginal-structural-models
+- concepts/ladder-of-causation
+- concepts/mediation-analysis
+- concepts/potential-outcomes
+- concepts/probabilistic-causality
+- concepts/propensity-score
+- concepts/quantile-treatment-effects
+- concepts/quasi-experimental-design
+- concepts/randomised-controlled-trial
+- concepts/regression-discontinuity
+- concepts/regression-to-the-mean
+- concepts/scientific-explanation
+- concepts/singularist-causation
+- concepts/spillover-interference-effects
+- concepts/systems-thinking
+- concepts/temporal-cross-fitting
+- concepts/unconfoundedness-assumption
+- concepts/unmeasured-confounding-sensitivity-analysis
+revision_id: 3
+sources:
+- sources/koukorinis-2026-draci
+tags:
+- causal-inference
+- statistics
+- treatment-effects
+- econometrics
+title: Causal Inference
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Causal Inference
@@ -108,3 +161,56 @@ Standard causal inference assumes independent observations. Extensions to time s
 - [[concepts/beta-mixing|Beta-Mixing]]
 - [[concepts/temporal-cross-fitting|Temporal Cross-Fitting]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/at-at-theory-causal-influence|at-at-theory-causal-influence]]
+- [[concepts/back-door-front-door-adjustment|back-door-front-door-adjustment]]
+- [[concepts/backward-causation|backward-causation]]
+- [[concepts/causal-dags-confounding-selection-bias|causal-dags-confounding-selection-bias]]
+- [[concepts/causal-diagram|causal-diagram]]
+- [[concepts/causal-identifiability-conditions|causal-identifiability-conditions]]
+- [[concepts/causal-theory-of-time-direction|causal-theory-of-time-direction]]
+- [[concepts/conditional-independence-assumption|conditional-independence-assumption]]
+- [[concepts/confounding|confounding]]
+- [[concepts/correlation-vs-causation|correlation-vs-causation]]
+- [[concepts/counterfactual-conditional|counterfactual-conditional]]
+- [[concepts/counterfactuals|counterfactuals]]
+- [[concepts/difference-in-differences|difference-in-differences]]
+- [[concepts/do-operator|do-operator]]
+- [[concepts/doubly-robust-estimation|doubly-robust-estimation]]
+- [[concepts/feedback-loops|feedback-loops]]
+- [[concepts/g-methods-time-varying-treatments|g-methods-time-varying-treatments]]
+- [[concepts/humes-problem-of-causation|humes-problem-of-causation]]
+- [[concepts/instrumental-variables|instrumental-variables]]
+- [[concepts/interaction-analysis|interaction-analysis]]
+- [[concepts/ip-weighting-marginal-structural-models|ip-weighting-marginal-structural-models]]
+- [[concepts/ladder-of-causation|ladder-of-causation]]
+- [[concepts/mediation-analysis|mediation-analysis]]
+- [[concepts/potential-outcomes|potential-outcomes]]
+- [[concepts/probabilistic-causality|probabilistic-causality]]
+- [[concepts/quantile-treatment-effects|quantile-treatment-effects]]
+- [[concepts/regression-discontinuity|regression-discontinuity]]
+- [[concepts/regression-to-the-mean|regression-to-the-mean]]
+- [[concepts/scientific-explanation|scientific-explanation]]
+- [[concepts/singularist-causation|singularist-causation]]
+- [[concepts/spillover-interference-effects|spillover-interference-effects]]
+- [[concepts/systems-thinking|systems-thinking]]
+- [[concepts/unmeasured-confounding-sensitivity-analysis|unmeasured-confounding-sensitivity-analysis]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/average-treatment-effect|average-treatment-effect]]
+- [[concepts/bayesian-additive-regression-trees|bayesian-additive-regression-trees]]
+- [[concepts/causal-identifiability-conditions|causal-identifiability-conditions]]
+- [[concepts/conditional-independence-test|conditional-independence-test]]
+- [[concepts/confounding|confounding]]
+- [[concepts/empirical-evaluation-causal-inference|empirical-evaluation-causal-inference]]
+- [[concepts/heterogeneous-treatment-effects|heterogeneous-treatment-effects]]
+- [[concepts/interrupted-time-series-design|interrupted-time-series-design]]
+- [[concepts/inverse-probability-weighting|inverse-probability-weighting]]
+- [[concepts/potential-outcomes|potential-outcomes]]
+- [[concepts/propensity-score|propensity-score]]
+- [[concepts/quasi-experimental-design|quasi-experimental-design]]
+- [[concepts/randomised-controlled-trial|randomised-controlled-trial]]
+- [[concepts/unconfoundedness-assumption|unconfoundedness-assumption]]

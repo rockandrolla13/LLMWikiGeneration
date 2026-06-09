@@ -3,11 +3,11 @@ title: Yaniv Romano
 page_id: entities/yaniv-romano
 page_type: entity
 entity_type: person
-revision_id: 1
+revision_id: 2
 created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [researcher, conformal-prediction, uncertainty-quantification, statistics, machine-learning]
-sources: [sources/zaffran-2023-conformal-missing]
+sources: [sources/zaffran-2023-conformal-missing, sources/romano-2019-cqr, sources/romano-2020-aps]
 related: [concepts/conformal-prediction, concepts/conformalized-quantile-regression, concepts/coverage-guarantee, entities/margaux-zaffran, entities/emmanuel-candes]
 mind_map_priority: high
 ---

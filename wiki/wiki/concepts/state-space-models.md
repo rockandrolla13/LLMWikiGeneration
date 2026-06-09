@@ -1,14 +1,28 @@
 ---
-title: "State-Space Models"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/state-space-models
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [time-series, filtering, econometrics, latent-variables]
-sources: [sources/he-2024-functional-regression]
-related: [concepts/kalman-filter, concepts/schwartz-smith-model, concepts/functional-data-analysis, concepts/nelson-siegel-model, entities/gareth-peters]
-mind_map_priority: high
+related:
+- concepts/beta-mixing-processes
+- concepts/functional-data-analysis
+- concepts/hidden-markov-models
+- concepts/kalman-filter
+- concepts/linear-quadratic-control-kalman-filter
+- concepts/nelson-siegel-model
+- concepts/recursive-methods-dynamic-programming
+- concepts/schwartz-smith-model
+- entities/gareth-peters
+revision_id: 3
+sources:
+- sources/he-2024-functional-regression
+tags:
+- time-series
+- filtering
+- econometrics
+- latent-variables
+title: State-Space Models
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # State-Space Models
@@ -78,3 +92,14 @@ Observe many series, few latent factors:
 - [[concepts/functional-data-analysis|Functional Data Analysis]]
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]]
 - [[sources/he-2024-functional-regression|Multi-Factor Function-on-Function Regression (2024)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/hidden-markov-models|hidden-markov-models]]
+- [[concepts/kalman-filter|kalman-filter]]
+- [[concepts/linear-quadratic-control-kalman-filter|linear-quadratic-control-kalman-filter]]
+- [[concepts/recursive-methods-dynamic-programming|recursive-methods-dynamic-programming]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/beta-mixing-processes|beta-mixing-processes]]

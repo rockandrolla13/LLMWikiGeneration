@@ -1,14 +1,24 @@
 ---
-title: Probability Integral Transform
+created: 2026-04-26 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/probability-integral-transform
 page_type: concept
-revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [probability, statistics, uniformity, transformations]
-sources: [sources/chernozhukov-2021-distributional-cp]
-related: [concepts/distributional-conformal-prediction, concepts/quantile-regression, concepts/conditional-validity]
-mind_map_priority: medium
+related:
+- concepts/conditional-validity
+- concepts/copula-sklar-theorem
+- concepts/distributional-conformal-prediction
+- concepts/marginal-copula-score
+- concepts/quantile-regression
+revision_id: 2
+sources:
+- sources/chernozhukov-2021-distributional-cp
+tags:
+- probability
+- statistics
+- uniformity
+- transformations
+title: Probability Integral Transform
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Probability Integral Transform
@@ -89,3 +99,8 @@ This enables construction of valid prediction intervals by calibrating the thres
 - [[concepts/quantile-regression|Quantile Regression]]
 - [[concepts/calibration|Calibration]]
 - [[sources/chernozhukov-2021-distributional-cp|Chernozhukov et al. (2021)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/copula-sklar-theorem|copula-sklar-theorem]]
+- [[concepts/marginal-copula-score|marginal-copula-score]]

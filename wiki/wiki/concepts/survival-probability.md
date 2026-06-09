@@ -1,14 +1,24 @@
 ---
-title: "Survival Probability"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/survival-probability
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [credit-risk, default-modelling, fixed-income, probability]
-sources: [sources/martin-2024-credit-curve]
-related: [concepts/credit-spread-curve, concepts/z-spread, concepts/longevity-risk]
-mind_map_priority: medium
+related:
+- concepts/credit-spread-curve
+- concepts/longevity-risk
+- concepts/merton-model
+- concepts/reduced-form-credit-models
+- concepts/z-spread
+revision_id: 2
+sources:
+- sources/martin-2024-credit-curve
+tags:
+- credit-risk
+- default-modelling
+- fixed-income
+- probability
+title: Survival Probability
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Survival Probability
@@ -60,3 +70,8 @@ The survival probability curve $Q(t)$ defines the term structure of credit risk:
 - [[concepts/z-spread|Z-Spread]]
 - [[concepts/longevity-risk|Longevity Risk]]
 - [[sources/martin-2024-credit-curve|The Credit Curve Spread I (Martin, 2024)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/merton-model|merton-model]]
+- [[concepts/reduced-form-credit-models|reduced-form-credit-models]]

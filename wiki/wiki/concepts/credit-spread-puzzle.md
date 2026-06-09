@@ -1,11 +1,34 @@
 ---
-title: "Credit Spread Puzzle"
+created: 2026-04-26 02:20:00+00:00
 page_id: concepts/credit-spread-puzzle
 page_type: concept
-created: 2026-04-26T02:20:00Z
-updated: 2026-04-26T02:20:00Z
-tags: [credit-spreads, structural-models, Merton-model, bond-pricing, liquidity]
-related: [concepts/structural-models, concepts/bond-liquidity, sources/huang-2025-global-credit-spread-puzzle]
+related:
+- concepts/baa-corporate-bond-spread
+- concepts/banking-crisis-early-warning-indicators
+- concepts/bond-liquidity
+- concepts/cds-bond-basis
+- concepts/corporate-bonds
+- concepts/credit-default-swap-spread
+- concepts/credit-hedge-ratios-equity-options
+- concepts/credit-risk-premium
+- concepts/credit-spread-changes
+- concepts/credit-spread-curve
+- concepts/credit-spread-forecasting
+- concepts/merton-model
+- concepts/option-implied-credit-information
+- concepts/structural-models
+- sources/huang-2025-global-credit-spread-puzzle
+revision_id: 2
+sources:
+- sources/avramov-2007-changes-corporate-credit-spreads
+tags:
+- credit-spreads
+- structural-models
+- Merton-model
+- bond-pricing
+- liquidity
+title: Credit Spread Puzzle
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Credit Spread Puzzle
@@ -83,3 +106,7 @@ Japan shows little evidence of the credit spread puzzle, warranting further inve
 
 - [[sources/huang-2025-global-credit-spread-puzzle|Huang et al. (2025)]]
 - [[sources/krishnan-2007-credit-spread-forecast|Krishnan et al. (2007)]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/avramov-2007-changes-corporate-credit-spreads]]

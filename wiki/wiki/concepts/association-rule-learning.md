@@ -1,14 +1,22 @@
 ---
-title: "Association Rule Learning"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/association-rule-learning
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [machine-learning, data-mining, pattern-discovery, market-basket]
-sources: [sources/sehatpour-2024-green-bonds]
-related: [concepts/green-bond-spreads, concepts/yield-to-maturity]
-mind_map_priority: medium
+related:
+- concepts/cluster-analysis-and-association-rules
+- concepts/green-bond-spreads
+- concepts/yield-to-maturity
+revision_id: 2
+sources:
+- sources/sehatpour-2024-green-bonds
+tags:
+- machine-learning
+- data-mining
+- pattern-discovery
+- market-basket
+title: Association Rule Learning
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Association Rule Learning
@@ -70,3 +78,7 @@ Sehatpour et al. (2024) use association rules to:
 - [[concepts/green-bond-spreads|Green Bond Spreads]]
 - [[concepts/yield-to-maturity|Yield to Maturity]]
 - [[sources/sehatpour-2024-green-bonds|Anatomy of Municipal Green Bond Yield Spreads (2024)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/cluster-analysis-and-association-rules|cluster-analysis-and-association-rules]]

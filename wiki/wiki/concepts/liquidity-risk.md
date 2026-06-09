@@ -1,14 +1,39 @@
 ---
-title: "Liquidity Risk"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/liquidity-risk
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [fixed-income, risk-management, market-microstructure, trading]
-sources: [sources/dickerson-2023-bond-risk]
-related: [concepts/bond-capm, concepts/factor-models, concepts/credit-spread-curve]
-mind_map_priority: medium
+related:
+- concepts/bond-capm
+- concepts/capital-structure-arbitrage
+- concepts/corporate-bond-liquidity-premium
+- concepts/corporate-bonds
+- concepts/credit-default-swap-spread
+- concepts/credit-spread-curve
+- concepts/default-rates
+- concepts/factor-models
+- concepts/illiquidity-premium
+- concepts/limits-to-arbitrage
+- concepts/liquidity-scoring-mechanism
+- concepts/market-crash-liquidity-crisis
+- concepts/private-credit
+- concepts/risk-premia
+- concepts/statistical-arbitrage
+- concepts/term-structure-risk-premium
+revision_id: 4
+sources:
+- sources/coppola-2025-asset-class-liquidity-indicators
+- sources/dickerson-2023-bond-risk
+- sources/kapadia-2012-limited-arbitrage-equity-credit
+- sources/ms-2016-03-22-xccy-basis-primer
+- sources/ms-2019-03-04-a-premium-for-size
+tags:
+- fixed-income
+- risk-management
+- market-microstructure
+- trading
+title: Liquidity Risk
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Liquidity Risk
@@ -58,3 +83,12 @@ Corporate bonds are particularly illiquid because:
 - [[concepts/factor-models|Factor Models]]
 - [[concepts/credit-spread-curve|Credit Spread Curve]]
 - [[sources/dickerson-2023-bond-risk|Corporate Bond Risk Factor Pricing (2023)]]
+- [[sources/coppola-2025-asset-class-liquidity-indicators|Coppola, Urga & Varaldo (2025) Asset Class Liquidity Risk Indicators]] — endogenous Markov-switching liquidity regimes across European/US equity and bond markets with funding-vs-market liquidity decomposition
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/kapadia-2012-limited-arbitrage-equity-credit]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms-2019-03-04-a-premium-for-size]]

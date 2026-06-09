@@ -1,14 +1,24 @@
 ---
-title: "Gaussian Processes"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/gaussian-processes
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [machine-learning, bayesian-methods, non-parametric, spatial-statistics]
-sources: [sources/huynh-2021-mogp-longevity]
-related: [concepts/kriging, concepts/multi-population-mortality, concepts/uncertainty-quantification, entities/mike-ludkovski]
-mind_map_priority: high
+related:
+- concepts/bayesian-nonparametrics
+- concepts/kriging
+- concepts/multi-population-mortality
+- concepts/uncertainty-quantification
+- entities/mike-ludkovski
+revision_id: 2
+sources:
+- sources/huynh-2021-mogp-longevity
+tags:
+- machine-learning
+- bayesian-methods
+- non-parametric
+- spatial-statistics
+title: Gaussian Processes
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Gaussian Processes
@@ -62,3 +72,7 @@ Extend to multiple correlated outputs via:
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
 - [[sources/huynh-2021-mogp-longevity|Multi-output Gaussian Processes for Multi-population Longevity Modelling (2021)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/bayesian-nonparametrics|bayesian-nonparametrics]]

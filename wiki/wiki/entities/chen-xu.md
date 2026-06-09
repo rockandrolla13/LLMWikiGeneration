@@ -3,11 +3,12 @@ title: Chen Xu
 page_id: entities/chen-xu
 page_type: entity
 entity_type: person
-revision_id: 1
+revision_id: 2
 created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [researcher, conformal-prediction, time-series, georgia-tech]
 affiliation: Georgia Institute of Technology
+sources: [sources/kim-2020-jackknife-plus-after-bootstrap]
 related: [entities/yao-xie, concepts/conformal-prediction, concepts/spci]
 mind_map_priority: medium
 ---

@@ -1,14 +1,25 @@
 ---
-title: Missing Data Imputation
+created: 2026-04-26 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/missing-data-imputation
 page_type: concept
-revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [missing-data, imputation, statistics, machine-learning, conformal-prediction]
-sources: [sources/zaffran-2023-conformal-missing]
-related: [concepts/conformal-prediction, concepts/mask-conditional-validity, concepts/heteroskedasticity, entities/julie-josse]
-mind_map_priority: medium
+related:
+- concepts/conformal-prediction
+- concepts/heteroskedasticity
+- concepts/ip-weighting-marginal-structural-models
+- concepts/mask-conditional-validity
+- entities/julie-josse
+revision_id: 2
+sources:
+- sources/zaffran-2023-conformal-missing
+tags:
+- missing-data
+- imputation
+- statistics
+- machine-learning
+- conformal-prediction
+title: Missing Data Imputation
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Missing Data Imputation
@@ -132,3 +143,7 @@ Oracle interval length: L*_α(m) ∝ √(β_mis(m)^T Σ_{mis|obs} β_mis(m) + σ
 - [[concepts/mask-conditional-validity|Mask-Conditional Validity]]
 - [[concepts/heteroskedasticity|Heteroskedasticity]]
 - [[entities/julie-josse|Julie Josse]] - Leading researcher in missing data
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/ip-weighting-marginal-structural-models|ip-weighting-marginal-structural-models]]

@@ -1,14 +1,23 @@
 ---
-title: Copulas
+created: 2026-04-26 10:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/copulas
 page_type: concept
-revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [probability, dependency-modeling, multivariate, statistics]
-sources: [sources/sun-2022-copula-cpts]
-related: [concepts/conformal-prediction, concepts/multi-step-conformal-prediction, concepts/uncertainty-quantification]
-mind_map_priority: medium
+related:
+- concepts/conformal-prediction
+- concepts/copula-sklar-theorem
+- concepts/multi-step-conformal-prediction
+- concepts/uncertainty-quantification
+revision_id: 2
+sources:
+- sources/sun-2022-copula-cpts
+tags:
+- probability
+- dependency-modeling
+- multivariate
+- statistics
+title: Copulas
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Copulas
@@ -101,3 +110,7 @@ The [[sources/sun-2022-copula-cpts|CopulaCPTS]] algorithm:
 - [[concepts/multi-step-conformal-prediction|Multi-step Conformal Prediction]]
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
 - [[sources/sun-2022-copula-cpts|CopulaCPTS]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/copula-sklar-theorem|copula-sklar-theorem]]

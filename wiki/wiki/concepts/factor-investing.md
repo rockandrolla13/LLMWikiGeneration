@@ -1,11 +1,56 @@
 ---
-title: "Factor Investing in Corporate Bonds"
+created: 2026-04-26 02:25:00+00:00
 page_id: concepts/factor-investing
 page_type: concept
-created: 2026-04-26T02:25:00Z
-updated: 2026-04-26T02:25:00Z
-tags: [factor-investing, corporate-bonds, quantitative-investing, size, value, momentum, low-risk]
-related: [concepts/bond-momentum, concepts/credit-spread-curve, sources/houweling-2017-factor-investing]
+related:
+- concepts/alpha-signal
+- concepts/behavioral-finance
+- concepts/bond-momentum
+- concepts/carry-rolldown
+- concepts/credit-spread-curve
+- concepts/cross-asset-rotation
+- concepts/cross-sectional-momentum
+- concepts/etf-flow-tactical-asset-allocation
+- concepts/factor-models
+- concepts/factor-signals-in-credit
+- concepts/global-tactical-asset-allocation
+- concepts/illiquidity-premium
+- concepts/law-of-active-management
+- concepts/low-expected-returns
+- concepts/macro-cycle-cross-asset-allocation
+- concepts/momentum-trend-following
+- concepts/non-fundamental-demand-shocks
+- concepts/quant-factor-driven-markets
+- concepts/risk-premia
+- concepts/robust-portfolio-optimisation
+- concepts/statistical-arbitrage
+- concepts/style-premia
+- concepts/systematic-credit-relative-value
+- concepts/systematic-diversification
+- concepts/taarss
+- concepts/trend-following
+- concepts/value-premium
+- sources/houweling-2017-factor-investing
+revision_id: 4
+sources:
+- sources/cotturo-2026-multifactor-timing-deep-learning
+- sources/dickerson-2024-bond-pitfalls
+- sources/houweling-2017-factor-investing
+- sources/ilmanen-2022-investing-amid-low-expected-returns
+- sources/ms-2016-09-27-momentum-for-diversification
+- sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks
+- sources/ms-2019-04-14-low-beta-defensiveness-scorecard
+- sources/ms-2019-06-03-emfx-quants-lab-carry-performs
+tags:
+- factor-investing
+- corporate-bonds
+- quantitative-investing
+- size
+- value
+- momentum
+- low-risk
+title: Factor Investing in Corporate Bonds
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Factor Investing in Corporate Bonds
@@ -72,3 +117,12 @@ Factor investing applies systematic, rules-based strategies to corporate bond ma
 
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
+- [[sources/cotturo-2026-multifactor-timing-deep-learning|Cotturo, Liu & Proner (2026)]] — multifactor timing with multitask deep learning across size/value/momentum/profitability/investment factors
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ilmanen-2022-investing-amid-low-expected-returns]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2016-09-27-momentum-for-diversification]], [[sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]], [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs]]

@@ -1,20 +1,25 @@
 ---
-title: Data Leakage
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/data-leakage
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/bias-variance-tradeoff
+- concepts/look-ahead-bias
+- concepts/look-ahead-bias-data-mining
+- concepts/overfitting-in-alpha-research
+- concepts/trading-strategy-overfitting
+- concepts/walk-forward-analysis
+revision_hash: sha256:ffed8585f7b91f99
+revision_id: 2
+sources:
+- sources/huyen-2022-designing-ml-systems
 tags:
 - ai-engineering
 - look-ahead-bias
-sources:
-- sources/huyen-2022-designing-ml-systems
-related:
-- concepts/look-ahead-bias
-mind_map_priority: medium
-revision_hash: sha256:ffed8585f7b91f99
+title: Data Leakage
+updated: '2026-06-09T12:00:00Z'
+updated_by: wiki-batch-ai-engineering-2026-05-17
 ---
 
 # Data Leakage
@@ -30,3 +35,11 @@ The unintended exposure of information from outside the training distribution (e
 ## Related Concepts
 
 - [[concepts/look-ahead-bias]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/bias-variance-tradeoff|bias-variance-tradeoff]]
+- [[concepts/look-ahead-bias-data-mining|look-ahead-bias-data-mining]]
+- [[concepts/overfitting-in-alpha-research|overfitting-in-alpha-research]]
+- [[concepts/trading-strategy-overfitting|trading-strategy-overfitting]]
+- [[concepts/walk-forward-analysis|walk-forward-analysis]]

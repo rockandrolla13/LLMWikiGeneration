@@ -1,14 +1,28 @@
 ---
-title: Uncertainty Quantification
+created: 2026-04-10 18:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/uncertainty-quantification
 page_type: concept
-revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [machine-learning, statistics, decision-making]
-sources: [sources/zaffran-phd, sources/johnstone-2025-multioutput]
-related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/calibration, concepts/coverage-guarantee]
-mind_map_priority: medium
+related:
+- concepts/bayesian-updating
+- concepts/calibration
+- concepts/conformal-prediction
+- concepts/continuous-ranked-probability-score
+- concepts/coverage-guarantee
+- concepts/energy-score
+- concepts/logarithmic-score
+- concepts/prediction-intervals
+- concepts/strictly-proper-scoring-rules
+revision_id: 2
+sources:
+- sources/zaffran-phd
+- sources/johnstone-2025-multioutput
+tags:
+- machine-learning
+- statistics
+- decision-making
+title: Uncertainty Quantification
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Uncertainty Quantification
@@ -75,3 +89,11 @@ Key applications:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/calibration|Calibration]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/bayesian-updating|bayesian-updating]]
+- [[concepts/continuous-ranked-probability-score|continuous-ranked-probability-score]]
+- [[concepts/energy-score|energy-score]]
+- [[concepts/logarithmic-score|logarithmic-score]]
+- [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]

@@ -1,20 +1,22 @@
 ---
-title: Generative AI
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/generative-ai
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/ai-capex-funding
+- concepts/ai-disruption-software-business-models
+- concepts/transformers
+revision_hash: sha256:ae9cc9c202424f29
+revision_id: 2
+sources:
+- sources/thomas-2025-ai-value-creators
 tags:
 - ai-engineering
 - transformers
-sources:
-- sources/thomas-2025-ai-value-creators
-related:
-- concepts/transformers
-mind_map_priority: medium
-revision_hash: sha256:ae9cc9c202424f29
+title: Generative AI
+updated: '2026-06-09T12:00:00Z'
+updated_by: wiki-batch-ai-engineering-2026-05-17
 ---
 
 # Generative AI
@@ -30,3 +32,8 @@ AI systems built on large language and multimodal models that produce new conten
 ## Related Concepts
 
 - [[concepts/transformers]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/ai-capex-funding|ai-capex-funding]]
+- [[concepts/ai-disruption-software-business-models|ai-disruption-software-business-models]]

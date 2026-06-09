@@ -1,14 +1,30 @@
 ---
-title: Calibration
+created: 2026-04-10 18:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/calibration
 page_type: concept
-revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [probability, uncertainty-quantification, model-evaluation]
-sources: [sources/zaffran-phd]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/uncertainty-quantification, concepts/split-conformal-prediction]
-mind_map_priority: medium
+related:
+- concepts/base-rates-reference-class-forecasting
+- concepts/bayesian-inference
+- concepts/conformal-prediction
+- concepts/continuous-ranked-probability-score
+- concepts/coverage-guarantee
+- concepts/energy-score
+- concepts/interval-score
+- concepts/null-hypothesis-significance-testing
+- concepts/split-conformal-prediction
+- concepts/strictly-proper-scoring-rules
+- concepts/superforecasting
+- concepts/uncertainty-quantification
+revision_id: 2
+sources:
+- sources/zaffran-phd
+tags:
+- probability
+- uncertainty-quantification
+- model-evaluation
+title: Calibration
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Calibration
@@ -79,3 +95,14 @@ The calibration set in split conformal prediction is used to:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/base-rates-reference-class-forecasting|base-rates-reference-class-forecasting]]
+- [[concepts/bayesian-inference|bayesian-inference]]
+- [[concepts/continuous-ranked-probability-score|continuous-ranked-probability-score]]
+- [[concepts/energy-score|energy-score]]
+- [[concepts/interval-score|interval-score]]
+- [[concepts/null-hypothesis-significance-testing|null-hypothesis-significance-testing]]
+- [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+- [[concepts/superforecasting|superforecasting]]

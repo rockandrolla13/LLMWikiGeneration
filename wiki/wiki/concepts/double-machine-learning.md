@@ -1,13 +1,21 @@
 ---
-title: "Double Machine Learning"
+created: 2026-04-28 12:45:00+00:00
 page_id: concepts/double-machine-learning
 page_type: concept
-revision_id: 1
-created: 2026-04-28T12:45:00Z
-updated: 2026-04-28T12:45:00Z
-sources: [sources/koukorinis-2026-draci]
-related: [concepts/doubly-robust-estimation, concepts/conformal-prediction]
-tags: [causal-inference, machine-learning, methodology]
+related:
+- concepts/back-door-front-door-adjustment
+- concepts/conformal-prediction
+- concepts/doubly-robust-estimation
+- concepts/empirical-evaluation-causal-inference
+revision_id: 3
+sources:
+- sources/koukorinis-2026-draci
+tags:
+- causal-inference
+- machine-learning
+- methodology
+title: Double Machine Learning
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Double Machine Learning (DML)
@@ -73,3 +81,13 @@ Under geometric β-mixing and standard nuisance convergence (ζ_e + ζ_μ > 1/2)
 - [[concepts/doubly-robust-estimation|Doubly Robust Estimation]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
 - [[concepts/beta-mixing|β-Mixing]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/back-door-front-door-adjustment|back-door-front-door-adjustment]]
+- [[concepts/doubly-robust-estimation|doubly-robust-estimation]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/doubly-robust-estimation|doubly-robust-estimation]]
+- [[concepts/empirical-evaluation-causal-inference|empirical-evaluation-causal-inference]]

@@ -1,11 +1,21 @@
 ---
-title: "Residual Momentum"
+created: 2026-04-26 02:25:00+00:00
 page_id: concepts/residual-momentum
 page_type: concept
-created: 2026-04-26T02:25:00Z
-updated: 2026-04-26T02:25:00Z
-tags: [momentum, residual-returns, idiosyncratic, risk-management, corporate-bonds]
-related: [concepts/bond-momentum, concepts/spillover-effect, sources/haesen-2017-momentum-spillover]
+related:
+- concepts/bond-momentum
+- concepts/spillover-effect
+- concepts/style-premia
+- sources/haesen-2017-momentum-spillover
+revision_id: 2
+tags:
+- momentum
+- residual-returns
+- idiosyncratic
+- risk-management
+- corporate-bonds
+title: Residual Momentum
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Residual Momentum
@@ -90,3 +100,7 @@ From Haesen et al. (2017):
 ## Sources
 
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/style-premia|style-premia]]

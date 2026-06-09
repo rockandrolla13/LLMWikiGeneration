@@ -1,14 +1,24 @@
 ---
-title: "Andreas Koukorinis"
+created: 2026-04-28 12:45:00+00:00
+entity_type: person
 page_id: entities/andreas-koukorinis
 page_type: entity
-entity_type: person
-revision_id: 1
-created: 2026-04-28T12:45:00Z
-updated: 2026-04-28T12:45:00Z
-sources: [sources/koukorinis-2026-draci]
-related: [concepts/conformal-prediction, concepts/doubly-robust-estimation, concepts/adaptive-conformal-inference]
-tags: [researcher, ucl, conformal-prediction, causal-inference]
+related:
+- concepts/conformal-prediction
+- concepts/doubly-robust-estimation
+- concepts/adaptive-conformal-inference
+revision_id: 2
+sources:
+- sources/ahmad-2014-alaph-liquid-macro-credit-fund
+- sources/koukorinis-2024-xantium-business-plan
+- sources/koukorinis-2026-draci
+tags:
+- researcher
+- ucl
+- conformal-prediction
+- causal-inference
+title: Andreas Koukorinis
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Andreas Koukorinis
@@ -50,3 +60,7 @@ The variance-standardized version (VS-DR-ACI) achieves 63% narrower intervals th
 ## See Also
 
 - [[sources/koukorinis-2026-draci|DR-ACI Paper (2026)]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Also appears in: [[sources/ahmad-2014-alaph-liquid-macro-credit-fund]], [[sources/koukorinis-2024-xantium-business-plan]]

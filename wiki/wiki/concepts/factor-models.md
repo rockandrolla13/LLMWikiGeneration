@@ -1,14 +1,47 @@
 ---
-title: "Factor Models"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/factor-models
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [asset-pricing, risk-management, portfolio-theory, quantitative-finance]
-sources: [sources/dickerson-2023-bond-risk]
-related: [concepts/bond-capm, concepts/liquidity-risk, concepts/credit-spread-curve]
-mind_map_priority: medium
+related:
+- concepts/bayesian-model-averaging
+- concepts/bond-capm
+- concepts/composite-cyclical-indicators
+- concepts/credit-risk-premium
+- concepts/credit-spread-curve
+- concepts/expectations-hypothesis-term-structure
+- concepts/factor-investing
+- concepts/illiquidity-premium
+- concepts/information-ratio
+- concepts/liquidity-risk
+- concepts/machine-learning-credit-modeling
+- concepts/market-timing
+- concepts/one-factor-term-structure-model
+- concepts/panel-data-fixed-random-effects
+- concepts/principal-components-analysis
+- concepts/risk-premia
+- concepts/risk-vs-mispricing
+- concepts/style-premia
+- concepts/trend-following
+revision_id: 4
+sources:
+- sources/andreou-2020-mixed-frequency-macro-finance
+- sources/bodilsen-2025-hf-dynamic-factor-portfolio
+- sources/cotturo-2026-multifactor-timing-deep-learning
+- sources/dickerson-2023-bond-risk
+- sources/ms-2015-03-06-bond-market-indicators
+- sources/ms-2017-06-15-bmi2-xbmi-models
+- sources/ms-2018-03-16-credit-bmi
+- sources/ms-2018-04-16-credit-bmi-update
+- sources/ms-2018-06-05-emfx-risk-premia-two-factor
+- sources/ms-2019-04-14-low-beta-defensiveness-scorecard
+tags:
+- asset-pricing
+- risk-management
+- portfolio-theory
+- quantitative-finance
+title: Factor Models
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Factor Models
@@ -63,3 +96,28 @@ Corporate bond factor models face difficulties:
 - [[concepts/bond-capm|Bond CAPM]]
 - [[concepts/liquidity-risk|Liquidity Risk]]
 - [[sources/dickerson-2023-bond-risk|Corporate Bond Risk Factor Pricing (2023)]]
+
+## Additional Sources
+
+- [[sources/andreou-2020-mixed-frequency-macro-finance|Mixed-Frequency Macro-Finance Factor Models (2020)]] — group factor models for macro-finance with mixed-frequency data, comparing aggregation-first vs PCA-first procedures
+- [[sources/bodilsen-2025-hf-dynamic-factor-portfolio|HF Dynamic Factor Portfolio (2025)]] — high-frequency-based dynamic factor model with observable ETF factors and hierarchical-clustering-derived block idiosyncratic covariance
+- [[sources/cotturo-2026-multifactor-timing-deep-learning|Multifactor Timing with Deep Learning (2026)]] — multitask deep-learning architecture for forecasting multiple style-factor returns jointly
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/bayesian-model-averaging|bayesian-model-averaging]]
+- [[concepts/composite-cyclical-indicators|composite-cyclical-indicators]]
+- [[concepts/credit-risk-premium|credit-risk-premium]]
+- [[concepts/expectations-hypothesis-term-structure|expectations-hypothesis-term-structure]]
+- [[concepts/factor-investing|factor-investing]]
+- [[concepts/illiquidity-premium|illiquidity-premium]]
+- [[concepts/information-ratio|information-ratio]]
+- [[concepts/one-factor-term-structure-model|one-factor-term-structure-model]]
+- [[concepts/panel-data-fixed-random-effects|panel-data-fixed-random-effects]]
+- [[concepts/principal-components-analysis|principal-components-analysis]]
+- [[concepts/risk-premia|risk-premia]]
+- [[concepts/risk-vs-mispricing|risk-vs-mispricing]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sources/ms-2017-06-15-bmi2-xbmi-models]], [[sources/ms-2018-03-16-credit-bmi]], [[sources/ms-2018-04-16-credit-bmi-update]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]]

@@ -1,13 +1,24 @@
 ---
-title: LBO Risk
+created: 2026-05-05 23:20:00+00:00
 page_id: concepts/lbo-risk
 page_type: concept
-revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, event-risk, LBO, corporate-credit]
-sources: [sources/trinh-2006-lever-framework, sources/lehman-2007-qcr-quarterly]
-related: [concepts/lever-score, concepts/event-risk, concepts/leveraged-recapitalization]
+related:
+- concepts/event-risk
+- concepts/high-performance-computing-credit-subsector
+- concepts/lever-score
+- concepts/leveraged-recapitalization
+- concepts/private-credit
+revision_id: 2
+sources:
+- sources/trinh-2006-lever-framework
+- sources/lehman-2007-qcr-quarterly
+tags:
+- creditETF
+- event-risk
+- LBO
+- corporate-credit
+title: LBO Risk
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # LBO Risk
@@ -92,3 +103,8 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 - [[concepts/event-risk]]
 - [[concepts/leveraged-recapitalization]]
 - [[sources/trinh-2006-lever-framework]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/high-performance-computing-credit-subsector|high-performance-computing-credit-subsector]]
+- [[concepts/private-credit|private-credit]]

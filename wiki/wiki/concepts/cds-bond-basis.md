@@ -1,13 +1,40 @@
 ---
-title: CDS-Bond Basis
+created: 2026-05-05 23:20:00+00:00
 page_id: concepts/cds-bond-basis
 page_type: concept
-revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, CDS, bonds, basis-trading, relative-value]
-sources: [sources/ubs-2012-next-gen-credit-curves, sources/pullirsch-2006-credit-spread-risk]
-related: [concepts/hazard-rate-curve, concepts/credit-spread-curve, concepts/z-spread]
+related:
+- concepts/corporate-bonds
+- concepts/credit-hedge-ratios-equity-options
+- concepts/credit-spread-curve
+- concepts/credit-spread-puzzle
+- concepts/default-rates
+- concepts/hazard-rate-curve
+- concepts/mark-to-market-credit-hedging
+- concepts/option-implied-credit-information
+- concepts/z-spread
+revision_id: 3
+sources:
+- sources/avino-2024-hedging-credit-equity-options
+- sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging
+- sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
+- sources/ms-2012-03-12-what-were-watching
+- sources/ms-2018-11-25-the-bear-has-begun
+- sources/ms-2019-02-01-credit-strategy-chartbook
+- sources/ms-2019-03-22-high-yield-hedge
+- sources/ms-2019-04-12-meet-in-the-middle
+- sources/ms-2020-03-25-global-volatility-playbook
+- sources/ms-2020-03-27-add-to-credit
+- sources/ms-2020-03-27-add-to-credit-markets-lead-economy
+- sources/pullirsch-2006-credit-spread-risk
+- sources/ubs-2012-next-gen-credit-curves
+tags:
+- creditETF
+- CDS
+- bonds
+- basis-trading
+- relative-value
+title: CDS-Bond Basis
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # CDS-Bond Basis
@@ -84,3 +111,11 @@ Post-crisis, the importance of basis modeling increased significantly.
 - [[concepts/credit-spread-curve]]
 - [[concepts/z-spread]]
 - [[sources/ubs-2012-next-gen-credit-curves]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/avino-2024-hedging-credit-equity-options]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging]], [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook]], [[sources/ms-2012-03-12-what-were-watching]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-02-01-credit-strategy-chartbook]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2020-03-25-global-volatility-playbook]], [[sources/ms-2020-03-27-add-to-credit]], [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy]]

@@ -1,14 +1,25 @@
 ---
-title: Prediction Intervals
+created: 2026-04-10 18:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/prediction-intervals
 page_type: concept
-revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [uncertainty-quantification, regression, forecasting]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/johnstone-2025-multioutput]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/uncertainty-quantification, concepts/calibration]
-mind_map_priority: medium
+related:
+- concepts/calibration
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/interval-score
+- concepts/uncertainty-quantification
+revision_id: 2
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/johnstone-2025-multioutput
+tags:
+- uncertainty-quantification
+- regression
+- forecasting
+title: Prediction Intervals
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Prediction Intervals
@@ -74,3 +85,7 @@ For heteroskedastic data, intervals should be wider where uncertainty is higher.
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/interval-score|interval-score]]

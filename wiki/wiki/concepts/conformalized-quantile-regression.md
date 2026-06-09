@@ -2,16 +2,20 @@
 title: Conformalized Quantile Regression
 page_id: concepts/conformalized-quantile-regression
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
+updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, quantile-regression, prediction-intervals, uncertainty-quantification]
-sources: [sources/zaffran-2023-conformal-missing]
+sources: [sources/romano-2019-cqr, sources/zaffran-2023-conformal-missing]
 related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/coverage-guarantee, entities/yaniv-romano]
 mind_map_priority: high
 ---
 
 # Conformalized Quantile Regression (CQR)
+
+## Primary Source
+
+Primary source: [[sources/romano-2019-cqr|Romano, Patterson & Candès (2019), "Conformalized Quantile Regression"]]. This NeurIPS paper introduces CQR — the conformal calibration of paired quantile regressors with the symmetric score s(x,y) = max(q̂_low(x) − y, y − q̂_upp(x)) — and proves the marginal coverage guarantee formalised below.
 
 **Conformalized Quantile Regression (CQR)** combines quantile regression with [[concepts/conformal-prediction|conformal prediction]] to produce prediction intervals that are both adaptive to local data characteristics and satisfy marginal coverage guarantees.
 

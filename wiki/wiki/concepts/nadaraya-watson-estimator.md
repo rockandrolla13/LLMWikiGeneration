@@ -1,14 +1,24 @@
 ---
-title: Nadaraya-Watson Estimator
+created: 2026-04-26 10:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/nadaraya-watson-estimator
 page_type: concept
-revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [nonparametric-statistics, kernel-methods, regression, time-series, quantile-regression]
-sources: [sources/lee-2024-kowcpi]
-related: [concepts/kowcpi, concepts/conformal-prediction, concepts/kernel-methods]
-mind_map_priority: medium
+related:
+- concepts/conformal-prediction
+- concepts/kernel-methods
+- concepts/kowcpi
+- concepts/local-regression
+revision_id: 2
+sources:
+- sources/lee-2024-kowcpi
+tags:
+- nonparametric-statistics
+- kernel-methods
+- regression
+- time-series
+- quantile-regression
+title: Nadaraya-Watson Estimator
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Nadaraya-Watson Estimator
@@ -104,3 +114,7 @@ Common choices: Epanechnikov kernel $K(u) = k(\|u\|)$ with $k(t) = \frac{3}{4}(1
 - [[concepts/kowcpi|KOWCPI]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/kernel-methods|Kernel Methods]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/local-regression|local-regression]]

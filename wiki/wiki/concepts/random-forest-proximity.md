@@ -1,14 +1,22 @@
 ---
-title: "Random Forest Proximity"
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/random-forest-proximity
 page_type: concept
-revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [machine-learning, random-forests, similarity-measures, ensemble-methods]
-sources: [sources/technical-2025-bond-similarity]
-related: [concepts/nelson-siegel-model, concepts/factor-models]
-mind_map_priority: medium
+related:
+- concepts/decision-trees
+- concepts/factor-models
+- concepts/nelson-siegel-model
+revision_id: 2
+sources:
+- sources/technical-2025-bond-similarity
+tags:
+- machine-learning
+- random-forests
+- similarity-measures
+- ensemble-methods
+title: Random Forest Proximity
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Random Forest Proximity
@@ -66,3 +74,7 @@ Ranges from 0 (never in same leaf) to 1 (always in same leaf).
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]]
 - [[concepts/factor-models|Factor Models]]
 - [[sources/technical-2025-bond-similarity|Bond Similarity Framework (2025)]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/decision-trees|decision-trees]]

@@ -1,18 +1,20 @@
 ---
-title: Feature Engineering
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/feature-engineering
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related:
+- concepts/automated-alpha-search
+- concepts/splines-and-additive-models
+revision_hash: sha256:38b769e21350bd61
+revision_id: 2
 sources:
 - sources/huyen-2022-designing-ml-systems
-related: []
-mind_map_priority: medium
-revision_hash: sha256:38b769e21350bd61
+tags:
+- ai-engineering
+title: Feature Engineering
+updated: '2026-06-09T12:00:00Z'
+updated_by: wiki-batch-ai-engineering-2026-05-17
 ---
 
 # Feature Engineering
@@ -24,3 +26,8 @@ The process of transforming raw data into model inputs through operations such a
 ## Sources
 
 - [[sources/huyen-2022-designing-ml-systems|Designing Machine Learning Systems]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/automated-alpha-search|automated-alpha-search]]
+- [[concepts/splines-and-additive-models|splines-and-additive-models]]

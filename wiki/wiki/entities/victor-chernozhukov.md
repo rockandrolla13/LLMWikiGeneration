@@ -1,15 +1,26 @@
 ---
-title: Victor Chernozhukov
+created: 2026-04-26 12:00:00+00:00
+entity_type: person
+mind_map_priority: medium
 page_id: entities/victor-chernozhukov
 page_type: entity
-entity_type: person
-revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [econometrics, statistics, quantile-regression, machine-learning, causal-inference]
-sources: [sources/chernozhukov-2021-distributional-cp]
-related: [entities/kaspar-wuthrich, entities/yinchu-zhu, concepts/distributional-conformal-prediction, concepts/quantile-regression]
-mind_map_priority: medium
+related:
+- entities/kaspar-wuthrich
+- entities/yinchu-zhu
+- concepts/distributional-conformal-prediction
+- concepts/quantile-regression
+revision_id: 2
+sources:
+- sources/angrist-2009-mostly-harmless-econometrics
+- sources/chernozhukov-2021-distributional-cp
+tags:
+- econometrics
+- statistics
+- quantile-regression
+- machine-learning
+- causal-inference
+title: Victor Chernozhukov
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Victor Chernozhukov
@@ -55,3 +66,7 @@ National Science Foundation support acknowledged in the distributional conformal
 - [[sources/chernozhukov-2021-distributional-cp|Distributional Conformal Prediction (2021)]]
 - [[concepts/distributional-conformal-prediction|Distributional Conformal Prediction]]
 - [[concepts/quantile-regression|Quantile Regression]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Also appears in: [[sources/angrist-2009-mostly-harmless-econometrics]]

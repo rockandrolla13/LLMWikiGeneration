@@ -1,11 +1,27 @@
 ---
-title: "Structural Vector Autoregression"
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/structural-vector-autoregression
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [time-series, causal-inference, econometrics, dag-learning]
-related: [concepts/graph-signal-processing, sources/misiakos-2025-dag-tfrc, entities/markus-puschel]
+related:
+- concepts/causal-dags-confounding-selection-bias
+- concepts/causal-diagram
+- concepts/dsge-threshold-bvar-counterfactual-analysis
+- concepts/graph-signal-processing
+- concepts/instrumental-variables
+- concepts/linear-quadratic-control-kalman-filter
+- concepts/panel-vector-autoregression
+- concepts/system-gmm-dynamic-panel
+- concepts/vector-error-correction-model
+- entities/markus-puschel
+- sources/misiakos-2025-dag-tfrc
+revision_id: 2
+tags:
+- time-series
+- causal-inference
+- econometrics
+- dag-learning
+title: Structural Vector Autoregression
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Structural Vector Autoregression
@@ -170,3 +186,14 @@ def estimate_svar_cholesky(X, p=1):
 - [[sources/misiakos-2025-dag-tfrc|DAG-TFRC Paper]]
 - [[entities/markus-puschel|Markus Püschel]]
 - [[sources/yu-2024-graph-learning-financial|Financial Network Analysis]]
+
+## Related (credit-macro ingest, 2026-06-09)
+
+- [[concepts/causal-dags-confounding-selection-bias|causal-dags-confounding-selection-bias]]
+- [[concepts/causal-diagram|causal-diagram]]
+- [[concepts/dsge-threshold-bvar-counterfactual-analysis|dsge-threshold-bvar-counterfactual-analysis]]
+- [[concepts/instrumental-variables|instrumental-variables]]
+- [[concepts/linear-quadratic-control-kalman-filter|linear-quadratic-control-kalman-filter]]
+- [[concepts/panel-vector-autoregression|panel-vector-autoregression]]
+- [[concepts/system-gmm-dynamic-panel|system-gmm-dynamic-panel]]
+- [[concepts/vector-error-correction-model|vector-error-correction-model]]

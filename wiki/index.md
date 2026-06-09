@@ -26,6 +26,32 @@ Master catalog of all pages in this wiki.
 - [[sources/johnstone-2025-multioutput|Multi-Output Conformal Regression (2025)]] — Exact and approximate methods for multivariate responses
 - [[sources/bao-2025-review|Review of Conformal Regression Methods (2025)]] — Comprehensive survey and benchmark
 - [[sources/adams-2025-functional|Functional Data Anomaly Detection (2025)]] — Conformal methods with elastic distances
+- [[sources/angelopoulos-2022-gentle-intro|A Gentle Introduction to Conformal Prediction (2022)]] — Angelopoulos & Bates, canonical practitioner tutorial; APS/RAPS, CQR, CRC, weighted CP, Learn Then Test
+- [[sources/xu-2023-enbpi|Conformal prediction for time series / EnbPI (2023)]] — Xu & Xie, bootstrap-ensemble CP without exchangeability; asymptotic conditional coverage under β-mixing
+- [[sources/stocker-2025-conformal-timeseries-intro|A Gentle Introduction to Conformal Time Series Forecasting (2025)]] — Stocker et al., four-family taxonomy (WCP / EnbPI / ACI / BCP)
+- [[sources/dieuleveut-zaffran-2025-cp-tutorial|Conformal Prediction: A Tutorial (Hi! PARIS 2025)]] — Dieuleveut & Zaffran, 91-slide UAI/ICML tutorial deck
+- [[sources/vovk-2005-algorithmic-learning|Algorithmic Learning in a Random World (2005)]] — Vovk, Gammerman, Shafer; foundational CP monograph (Springer; 2nd ed. 2022)
+- [[sources/shafer-2007-cp-tutorial|A Tutorial on Conformal Prediction (2007)]] — Shafer & Vovk, 58-page foundational tutorial (arXiv 0706.3188 / JMLR)
+- [[sources/vovk-2012-cross-conformal|Cross-conformal predictors (2012)]] — Vovk, primary source for cross-conformal prediction (arXiv 1208.0806)
+- [[sources/fontana-2023-cp-unified-review|Conformal prediction: A unified review (2023, Bernoulli)]] — Fontana, Zeni, Vantini; theory-focused review of post-2005 developments
+- [[sources/zhou-2025-cp-data-perspective|Conformal Prediction: A Data Perspective (2025, ACM CSUR)]] — Zhou, Chen, Gui, Cheng; data-modality-organised survey (NLP, vision, graphs, LLMs)
+- [[sources/tibshirani-2019-covariate-shift|Conformal Prediction Under Covariate Shift (2019, NeurIPS)]] — Tibshirani, Barber, Candès, Ramdas; primary source for weighted CP
+- [[sources/barber-2021-jackknife-plus|Predictive Inference with the Jackknife+ (2021, AoS)]] — Barber-Candès-Ramdas-Tibshirani; 1−2α distribution-free LOO coverage
+- [[sources/barber-2023-beyond-exchangeability|Conformal Prediction Beyond Exchangeability (2023, AoS)]] — Barber-Candès-Ramdas-Tibshirani; NexCP with fixed weights and TV-bounded coverage gap
+- [[sources/lei-2018-distribution-free-regression|Distribution-Free Predictive Inference for Regression (2018, JASA)]] — Lei-G'Sell-Rinaldo-Tibshirani-Wasserman; pre-Angelopoulos canonical CP-regression
+- [[sources/angelopoulos-2023-conformal-pid|Conformal PID Control for Time Series Prediction (2023, NeurIPS)]] — Angelopoulos-Candès-Tibshirani; PID controller for online CP
+- [[sources/romano-2019-cqr|Conformalized Quantile Regression (2019, NeurIPS)]] — Romano-Patterson-Candès; primary source for CQR
+- [[sources/romano-2020-aps|Classification with Valid and Adaptive Coverage / APS (2020, NeurIPS)]] — Romano-Sesia-Candès; primary source for APS
+- [[sources/angelopoulos-2021-raps|Uncertainty Sets for Image Classifiers / RAPS (2021, ICLR)]] — Angelopoulos-Bates-Malik-Jordan; primary source for RAPS
+- [[sources/bates-2021-rcps|Distribution-Free Risk-Controlling Prediction Sets / RCPS (2021, JACM)]] — Bates-Angelopoulos-Lei-Malik-Jordan; primary source for RCPS and CRC
+- [[sources/angelopoulos-2021-learn-then-test|Learn Then Test (2021)]] — Angelopoulos-Bates-Candès-Jordan-Lei; risk control via FWER over discretised λ-grid
+- [[sources/gibbs-2021-aci|Adaptive Conformal Inference Under Distribution Shift (2021, NeurIPS)]] — Gibbs-Candès; the original ACI paper
+- [[sources/gibbs-2024-online-aci|Conformal Inference for Online Prediction with Arbitrary Distribution Shifts (2024, JMLR)]] — Gibbs-Candès; DtACI with dynamic-regret bounds
+- [[sources/gibbs-2023-conditional-guarantees|Conformal Prediction with Conditional Guarantees (2023)]] — Gibbs-Cherian-Candès; PAC-style conditional coverage via shift-class
+- [[sources/kim-2020-jackknife-plus-after-bootstrap|Predictive Inference Is Free with J+aB (2020, NeurIPS)]] — Kim-Xu-Barber; J+aB ensemble construction (precursor to EnbPI)
+- [[sources/nguyen-2026-gammerman-festschrift|The Importance of Being Learnable (Gammerman Festschrift, 2026)]] — Nguyen & Luo eds.; Springer LNCS 16290, 478 pp
+- [[sources/lemaire-2024-aaltd-workshop|Advanced Analytics and Learning on Temporal Data / AALTD 2024]] — Lemaire et al. eds.; ECML PKDD workshop proceedings
+- [[sources/tibshirani-2023-cp-lecture-notes|Conformal Prediction (Tibshirani CMU lecture notes, Spring 2023)]] — Graduate statistician-style introduction; two "key ideas", Beta calibration-conditional coverage, Lei-Wasserman impossibility, local adaptivity
 
 ### Fixed Income & Credit
 - [[sources/martin-2024-credit-curve|The Credit Curve Spread I (2024)]] — Credit spread curve construction and bond valuation
@@ -105,6 +131,35 @@ Master catalog of all pages in this wiki.
 - [[entities/andre-martins|André F.T. Martins]] — NLP, uncertainty quantification, Instituto Superior Técnico
 - [[entities/aymeric-dieuleveut|Aymeric Dieuleveut]] — Learning theory, EPFL/École Polytechnique
 - [[entities/julie-josse|Julie Josse]] — Missing data, Inria PreMeDICaL
+- [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]] — Practitioner-facing CP, APS/RAPS, EECS UC Berkeley
+- [[entities/stephen-bates|Stephen Bates]] — Conformal risk control, Learn Then Test, MIT
+- [[entities/m-stocker|M. Stocker]] — CP for time series, Karlsruhe Institute of Technology
+- [[entities/wiktoria-malgorzewicz|Wiktoria Małgorzewicz]] — CP time-series, Royal Holloway University of London
+- [[entities/matteo-fontana|Matteo Fontana]] — Functional CP, Royal Holloway University of London
+- [[entities/souhaib-ben-taieb|Souhaib Ben Taieb]] — Probabilistic forecasting, MBZUAI / U. of Mons
+- [[entities/alexander-gammerman|Alexander Gammerman]] — Co-inventor of CP, head of Computer Learning Research Centre, Royal Holloway
+- [[entities/glenn-shafer|Glenn Shafer]] — Co-inventor of CP; coined "conformal predictor"; game-theoretic probability, Rutgers
+- [[entities/gianluca-zeni|Gianluca Zeni]] — CP theory, MOX Politecnico di Milano
+- [[entities/simone-vantini|Simone Vantini]] — Functional CP, MOX Politecnico di Milano
+- [[entities/xiaofan-zhou|Xiaofan Zhou]] — Data-centric CP survey, UIC
+- [[entities/baiting-chen|Baiting Chen]] — CP for modern data modalities, UCLA
+- [[entities/yu-gui|Yu Gui]] — Conformal alignment for LLMs, University of Chicago
+- [[entities/lu-cheng|Lu Cheng]] — Responsible-AI CP, UIC
+- [[entities/ryan-tibshirani|Ryan J. Tibshirani]] — Modern CP theory (weighted, jackknife+, beyond-exchangeability, PID), UC Berkeley/CMU. Distinct from Robert Tibshirani (lasso, Stanford)
+- [[entities/rina-foygel-barber|Rina Foygel Barber]] — Jackknife+, NexCP, J+aB, University of Chicago
+- [[entities/aaditya-ramdas|Aaditya Ramdas]] — Sequential testing, anytime-valid inference, non-exchangeable CP, CMU
+- [[entities/jing-lei|Jing Lei]] — CP-regression foundations, CMU. Distinct from Lihua Lei (Stanford GSB)
+- [[entities/max-gsell|Max G'Sell]] — JASA 2018 CP-regression co-author, CMU
+- [[entities/alessandro-rinaldo|Alessandro Rinaldo]] — High-dimensional inference, CP-regression theory, UT Austin
+- [[entities/larry-wasserman|Larry Wasserman]] — Distribution-free inference, conditional-coverage impossibility, CMU
+- [[entities/evan-patterson|Evan Patterson]] — CQR co-author, Topos Institute / Stanford
+- [[entities/matteo-sesia|Matteo Sesia]] — APS, FDR control, knockoffs, USC Marshall
+- [[entities/jitendra-malik|Jitendra Malik]] — RAPS / RCPS co-author; computer vision, UC Berkeley
+- [[entities/michael-i-jordan|Michael I. Jordan]] — Senior on Berkeley CP-risk-control line, UC Berkeley
+- [[entities/lihua-lei|Lihua Lei]] — RCPS / LTT co-author, Stanford GSB. Distinct from Jing Lei (CMU)
+- [[entities/isaac-gibbs|Isaac Gibbs]] — Originator of ACI / DtACI / conditional guarantees, Stanford
+- [[entities/byol-kim|Byol Kim]] — J+aB lead author, University of Washington
+- [[entities/john-cherian|John J. Cherian]] — Conformal conditional guarantees, Stanford
 
 ### Researchers - Fixed Income & Quantitative Finance
 - [[entities/richard-martin|Richard J. Martin]] — Credit spreads, Imperial College London
@@ -143,12 +198,42 @@ Master catalog of all pages in this wiki.
 ### Conformal Prediction
 - [[concepts/conformal-prediction|Conformal Prediction]] — Framework for distribution-free prediction sets with coverage guarantees
 - [[concepts/split-conformal-prediction|Split Conformal Prediction]] — Computationally efficient variant using data splitting
+- [[concepts/full-conformal-prediction|Full Conformal Prediction]] — Transductive variant; refits per candidate label
+- [[concepts/cross-conformal-prediction|Cross-Conformal / Jackknife+ / CV+]] — Computational compromises between split and full CP
+- [[concepts/jackknife-plus-after-bootstrap|Jackknife+ after Bootstrap (J+aB)]] — LOO via bootstrap ensemble, basis for EnbPI
+- [[concepts/enbpi|EnbPI (Ensemble batch Prediction Intervals)]] — CP for time series via bootstrap-LOO; non-exchangeable
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]] — Extension for time series and distribution shift
+- [[concepts/agaci|AgACI (Aggregated ACI)]] — Parameter-free ACI via online expert aggregation
+- [[concepts/conformal-pid-control|Conformal PID Control]] — PID controller for online α-adaptation
+- [[concepts/weighted-conformal-prediction|Weighted Conformal Prediction]] — CP under covariate shift via likelihood reweighting
+- [[concepts/block-conformal-prediction|Block Conformal Prediction (BCP)]] — Block-level CP for β-mixing time series
 - [[concepts/conformal-risk-control|Conformal Risk Control]] — Control expected value of arbitrary monotone loss functions
+- [[concepts/learn-then-test|Learn Then Test]] — Distribution-free control of non-monotone risks via FWER
 - [[concepts/conformalized-quantile-regression|Conformalized Quantile Regression]] — Adaptive prediction intervals with coverage guarantees
+- [[concepts/adaptive-prediction-sets|Adaptive Prediction Sets (APS)]] — Classification score that adapts set size to input difficulty
+- [[concepts/regularized-adaptive-prediction-sets|Regularized APS (RAPS)]] — APS with low-rank-class penalty for large-class problems
+- [[concepts/conformal-outlier-detection|Conformal Outlier Detection]] — Distribution-free type-1 error control
+- [[concepts/conformal-predictive-distribution|Conformal Predictive Distribution]] — Full predictive CDF from conformal p-values
+- [[concepts/group-balanced-conformal-prediction|Group-Balanced CP]] — Coverage conditional on observed group feature
+- [[concepts/class-conditional-conformal-prediction|Class-Conditional CP]] — Per-class coverage for imbalanced classification
+- [[concepts/marginal-coverage|Marginal Coverage]] — Coverage averaged over the joint randomness
+- [[concepts/conditional-coverage|Conditional Coverage]] — Coverage pointwise in covariates (distribution-free impossible)
+- [[concepts/nonconformity-score|Nonconformity Score]] — Function `s(x,y)` measuring deviation from calibration sample
 - [[concepts/mask-conditional-validity|Mask-Conditional Validity]] — Coverage conditional on missing value patterns
 - [[concepts/distribution-drift|Distribution Drift]] — Covariate, label, and concept drift in non-stationary data
+- [[concepts/non-exchangeable-conformal-prediction|Non-Exchangeable Conformal Prediction (NexCP)]] — Fixed-weight CP with TV-bounded coverage gap (Barber et al. 2023)
+- [[concepts/online-conformal-prediction|Online Conformal Prediction]] — Umbrella for ACI / AgACI / DtACI / PID / EnbPI / NexCP families
+- [[concepts/risk-controlling-prediction-sets|Risk-Controlling Prediction Sets (RCPS)]] — PAC-style (α, δ) high-probability risk control via UCB calibration
+- [[concepts/dtaci|DtACI (Dynamically-tuned ACI)]] — Parameter-free ACI via dynamic-regret expert aggregation (Gibbs-Candès 2024)
 - [[concepts/missing-data-imputation|Missing Data Imputation]] — Methods for handling missing values in conformal prediction
+- [[concepts/jackknife-plus|Jackknife+ Prediction]] — Barber-Candès-Ramdas-Tibshirani LOO variant with 1−2α coverage
+- [[concepts/mondrian-conformal-prediction|Mondrian Conformal Prediction]] — Taxonomy-conditional CP (parent of group/class-conditional variants)
+- [[concepts/venn-predictors|Venn Predictors]] — Multi-probability distribution-free probabilistic predictors
+- [[concepts/on-line-compression-models|On-Line Compression Models (OCM)]] — Vovk's generalisation beyond exchangeability
+- [[concepts/cp-for-nlp|CP for NLP]] — Conformal prediction for text classification, QA, NLU
+- [[concepts/cp-for-vision|CP for Computer Vision]] — RAPS at ImageNet scale, segmentation, image-to-image
+- [[concepts/cp-for-graphs|CP for Graph Data]] — Inductive/transductive, NAPS, conformalized link prediction
+- [[concepts/cp-for-llms|CP for Large Language Models]] — Conformal RAG, factuality filtering, conformal alignment
 
 ### Causal Inference & Dependence
 - [[concepts/causal-inference|Causal Inference]] — Treatment effect estimation from observational data
@@ -230,7 +315,8 @@ Master catalog of all pages in this wiki.
 ## Analyses
 *Comparisons, syntheses, query answers.*
 
-(No analyses yet)
+- [[analyses/conformal-prediction-for-hft-traders|Conformal Prediction for Algorithmic and HFT Traders]] — Practitioner guide. CP vs QR, σ̂-scaled scores, three trading use cases, tree-model combinations, simulation recipes
+- *(See also analyses [161] AI Engineering as a Discipline, [162] CP × Tukey g-h, [163] ETF Contraflow in MIND_MAP.md — not all analyses are listed in this curated index.)*
 
 ## Contradictions
 *Disagreements between sources.*
@@ -240,9 +326,11 @@ Master catalog of all pages in this wiki.
 ---
 
 **Stats**
-- Total sources: 54
-- Total entities: 27
-- Total concepts: 65
-- Total analyses: 0
-- Total pages: 146
-- Last updated: 2026-05-05
+- Total sources: 142 (wiki/wiki/sources/)
+- Total entities: 245 (wiki/wiki/entities/)
+- Total concepts: 388 (wiki/wiki/concepts/)
+- Total analyses: 4 (wiki/wiki/analyses/)
+- Total pages: ~779
+- Last updated: 2026-05-24 (CP primary-source backbone: 14 arXiv papers including the Tibshirani-group quartet + Romano-Candès classification line + Berkeley risk-control trilogy + Gibbs-Candès online-CP trilogy + Kim-Xu-Barber J+aB; plus Gammerman Festschrift and AALTD 2024 workshop)
+
+*Note: This index lists curated highlights, not every page in the wiki. For exhaustive listings, see `find wiki/wiki/<type>/ -name "*.md"` or the MIND_MAP graph.*

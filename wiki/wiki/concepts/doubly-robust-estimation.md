@@ -1,13 +1,27 @@
 ---
-title: "Doubly Robust Estimation"
+created: 2026-04-28 12:45:00+00:00
 page_id: concepts/doubly-robust-estimation
 page_type: concept
-revision_id: 1
-created: 2026-04-28T12:45:00Z
-updated: 2026-04-28T12:45:00Z
-sources: [sources/koukorinis-2026-draci]
-related: [concepts/conformal-prediction, concepts/double-machine-learning, concepts/adaptive-conformal-inference]
-tags: [causal-inference, statistics, methodology]
+related:
+- concepts/adaptive-conformal-inference
+- concepts/average-treatment-effect
+- concepts/causal-inference
+- concepts/conformal-prediction
+- concepts/confounding
+- concepts/double-machine-learning
+- concepts/ip-weighting-marginal-structural-models
+revision_id: 3
+sources:
+- sources/gentzel-2021-osrct-evaluation
+- sources/hernan-2020-causal-inference-what-if
+- sources/hill-2011-bart-causal-inference
+- sources/koukorinis-2026-draci
+tags:
+- causal-inference
+- statistics
+- methodology
+title: Doubly Robust Estimation
+updated: '2026-06-09T12:00:00Z'
 ---
 
 # Doubly Robust Estimation
@@ -73,3 +87,11 @@ The product-bias property extends to β-mixing time series via **temporal block 
 - [[concepts/double-machine-learning|Double Machine Learning]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/hernan-2020-causal-inference-what-if]]
+
+## Added by credit-macro ingest (2026-06-09)
+
+Now also discussed in: [[sources/gentzel-2021-osrct-evaluation]], [[sources/hill-2011-bart-causal-inference]]
