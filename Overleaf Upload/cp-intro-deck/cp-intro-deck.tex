@@ -1,0 +1,387 @@
+\documentclass[11pt, aspectratio=169, xcolor={dvipsnames}, usepdftitle=false]{beamer}
+\usepackage{presentation}
+\hypersetup{pdfpagemode=UseNone, hidelinks, pdfdisplaydoctitle=true,%
+%
+pdftitle={Simple Overview of Conformal Prediction}}
+
+\newcommand{\pdf}{figures.pdf}
+
+\title{Simple Overview of Conformal Prediction}
+\author{Andreas Koukorinis}
+\date{}
+
+% \paperurl{https://github.com/pmichaillat/latex-presentation}
+
+\begin{document}
+\frame{\titlepage}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Why prediction intervals?}
+\begin{itemize}
+\item ML models return \al{point predictions} $\hat{f}(x)$ but quantify no uncertainty
+\item Bayesian posteriors, bootstrap, quantile regression: all need \al{model assumptions} or \al{asymptotics}
+\item \al{Conformal prediction} (CP) returns a \al{set} $\mathcal{C}(x)$ with a hard guarantee
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \mathcal{C}(X_{n+1})\bigr)}_{\substack{\text{probability the true label}\\\text{is in the set}}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\substack{\text{user-chosen}\\\text{miscoverage level}}}
+\end{equation*}
+\item \alg{Distribution-free} (\textsb{no assumption on the data law}), \alg{finite-sample} (\textsb{works at any $n$}), \alg{model-agnostic} (\textsb{wraps any predictor})
+\item Only assumption: \al{exchangeability} of $(X_i, Y_i)_{i=1}^{n+1}$ -- the data are interchangeable
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Background: three terms that do all the work}
+\begin{itemize}
+\item \al{Predictor} $\hat{f}: \mathcal{X} \to \mathcal{Y}$~--- any black-box model (linear, XGBoost, deep network). CP \alg{never inspects} $\hat{f}$'s internals.
+\item \al{Exchangeability}~--- the joint distribution of $(Z_1, \ldots, Z_{n+1})$ is invariant under permutation. \textsb{Strictly weaker than i.i.d.}: any reshuffling of i.i.d.\ data is exchangeable.
+\item \al{Calibration set} $\{(X_i, Y_i)\}_{i=1}^n$~--- a held-out subset, \alg{disjoint} from training data. Used to compute the cutoff.
+\item \al{Miscoverage level} $\alpha \in (0, 1)$~--- the maximum allowed failure probability. $\alpha = 0.1 \Rightarrow 90\%$ prediction sets.
+\item \al{Nonconformity score} $s(x, y) \in \mathbb{R}$~--- ``how surprising is the pair $(x, y)$ given $\hat{f}$?'' Larger means more surprising. The user designs this.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The recipe -- Step 1: heuristic uncertainty}
+\begin{itemize}
+\item Start with \al{any} predictor $\hat{f}$. Nothing else is required of it.
+\item Examples:
+\begin{itemize}
+\item Regression: $\hat{f}(x)$ is a point estimate $\in \mathbb{R}$
+\item Classification: $\hat{f}_y(x) \in [0,1]$ is the softmax probability of class $y$
+\item Quantile regression: $\hat{f}$ returns the conditional $\alpha/2$ and $1-\alpha/2$ quantiles
+\end{itemize}
+\item \alg{No assumption on $\hat{f}$.} It can be \al{miscalibrated}~--- its raw probabilities can be meaningless~--- and CP still works.
+\item The role of $\hat{f}$ is just to provide a \al{heuristic} sense of where the true $y$ might lie. CP then \al{calibrates} that heuristic into a valid set.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The recipe -- Step 2: nonconformity score $s(x,y)$}
+\begin{itemize}
+\item Design a function $s: \mathcal{X} \times \mathcal{Y} \to \mathbb{R}$ measuring \al{``how surprising is $(x,y)$ given $\hat{f}$?''}
+\item Regression~--- absolute residual:
+\begin{equation*}
+\underbrace{s(x, y)}_{\text{score}}
+\;=\;
+\underbrace{|\,y - \hat{f}(x)\,|}_{\substack{\text{distance from}\\\text{point prediction}}}
+\end{equation*}
+\item Classification~--- one minus the true-class probability:
+\begin{equation*}
+s(x, y) \;=\; 1 - \hat{f}_y(x)
+\end{equation*}
+\item \al{Score design $=$ user's choice.} The \alg{coverage guarantee survives} \emph{any} choice. The choice affects \alr{set shape and size}, not validity.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The recipe -- Step 3: calibration quantile $\hat{q}$}
+Compute calibration scores $s_i = s(X_i, Y_i)$ for $i = 1, \ldots, n$ and take the \emph{adjusted} empirical quantile:
+\begin{equation*}
+\underbrace{\hat{q}}_{\substack{\text{cutoff that}\\\text{calibrates the set}}}
+\;=\;
+\text{Quantile}\Bigl(
+\underbrace{\{s_i\}_{i=1}^{n}}_{\substack{\text{scores on}\\\text{held-out data}}}
+\,;\;
+\underbrace{\tfrac{\lceil (n+1)(1-\alpha)\rceil}{n}}_{\substack{\text{slightly above } 1-\alpha;\\\text{the }+1\text{ corrects for the}\\\text{unseen test point}}}
+\Bigr)
+\end{equation*}
+\begin{itemize}
+\item The \al{$(n+1)$ correction} is why CP works at \emph{finite} $n$. It accounts for the test point becoming the $(n{+}1)$-th observation.
+\item Without it (just $\lceil n(1-\alpha)\rceil$): you \alr{under-cover} at small $n$.
+\item With it: \alg{coverage is at least $1 - \alpha$ exactly}, not asymptotically.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The recipe -- Step 4: prediction set $\mathcal{C}(X_{n+1})$}
+\begin{equation*}
+\underbrace{\mathcal{C}(X_{n+1})}_{\substack{\text{set we hand to}\\\text{the user}}}
+\;=\;
+\Bigl\{\, y \in \mathcal{Y} \;:\;
+\underbrace{s(X_{n+1}, y)}_{\substack{\text{score of candidate } y\\\text{against } \hat{f}}}
+\;\leq\;
+\underbrace{\hat{q}}_{\substack{\text{calibrated}\\\text{cutoff}}}
+\,\Bigr\}
+\end{equation*}
+\begin{itemize}
+\item \al{All $y$ values that the score function declares not-too-surprising.}
+\item Regression with absolute-residual score: $\mathcal{C}(x) = [\hat{f}(x) - \hat{q},\; \hat{f}(x) + \hat{q}]$~--- a \al{fixed-width band}.
+\item Classification with one-minus-softmax score: $\mathcal{C}(x) = \{y : 1 - \hat{f}_y(x) \leq \hat{q}\}$~--- a \al{set of labels}.
+\item In both cases the set is \alg{automatic} once you've fixed $s$ and computed $\hat{q}$.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The coverage theorem}
+\begin{theorem}[Marginal coverage]
+If $(X_i, Y_i)_{i=1}^{n+1}$ are \al{exchangeable}, then
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \mathcal{C}(X_{n+1})\bigr)}_{\substack{\text{probability the true label}\\\text{is in the set}}}
+\;\in\;
+\Bigl[\,
+\underbrace{1 - \alpha}_{\substack{\text{lower bound;}\\\text{always achieved}}}
+\,,\;
+\underbrace{1 - \alpha + \tfrac{1}{n+1}}_{\substack{\text{upper bound;}\\\text{discreteness slack}}}
+\,\Bigr].
+\end{equation*}
+\end{theorem}
+\begin{itemize}
+\item \alg{Always at least} $1 - \alpha$~--- the lower bound holds for any data law and any $\hat{f}$.
+\item \alr{No more than $1/(n+1)$ over} -- at $n = 100$ the slack is $\sim 1\%$; at $n = 1000$ it's $\sim 0.1\%$.
+\item \al{Marginal:} averaged over the joint draw of test point \emph{and} calibration set. Conditional coverage is a separate (and harder) question.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Proof sketch + Beta corollary}
+\begin{itemize}
+\item \al{Three-sentence proof:} (1) Exchangeability means the test point is interchangeable with any calibration point. (2) So the rank of $s(X_{n+1}, Y_{n+1})$ among all $n{+}1$ scores is uniform on $\{1, \dots, n+1\}$. (3) Setting the cutoff at rank $\lceil(n+1)(1-\alpha)\rceil$ bounds the probability that the test rank exceeds it.
+\item \al{Corollary -- Beta-distributed coverage:} for a \emph{fixed} calibration set, the realised coverage is itself random:
+\begin{equation*}
+\underbrace{C}_{\substack{\text{realised coverage}\\\text{for this cal.\ set}}}
+\;\sim\;
+\text{Beta}\bigl(\,
+\underbrace{\lceil(n+1)(1-\alpha)\rceil}_{\text{shape 1}},\;
+\underbrace{n+1-\lceil(n+1)(1-\alpha)\rceil}_{\text{shape 2}}
+\,\bigr)
+\end{equation*}
+\item \al{Rule of thumb:} $n \approx 1{,}000$ keeps realised coverage within $\pm 1\%$ of nominal with high probability. At $n = 100$ the standard deviation is $\sim 3\%$~--- meaningfully wide.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Score catalogue -- classification}
+\begin{itemize}
+\item \al{Plain softmax score:} $s(x, y) = 1 - \hat{f}_y(x)$. \alg{Fixed-size sets} (every class either in or out at the cutoff).
+\item \al{APS} (Adaptive Prediction Sets, Sadinle--Lei--Wasserman 2019): rank softmax probabilities, accumulate until total mass $\geq \hat{q}$:
+\begin{equation*}
+s(x, y) \;=\; \sum_{k \,:\, \hat{f}_k(x) \,\geq\, \hat{f}_y(x)} \hat{f}_k(x)
+\end{equation*}
+\quad \al{Sets grow on hard inputs and shrink on easy inputs}~--- input-difficulty adaptive.
+\item \al{RAPS} (Regularised APS, Angelopoulos--Bates 2022): adds a penalty term to prevent pathologically large sets on tail classes.
+\item All three: \alg{same marginal coverage theorem}; differ only in set shape.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Score catalogue -- regression and CQR}
+\begin{itemize}
+\item \al{Plain absolute-residual:} $s(x, y) = |y - \hat{f}(x)|$. \alg{Constant-width intervals.}
+\item \al{$\sigma$-scaled:} $s(x, y) = |y - \hat{f}(x)| / \hat{\sigma}(x)$ with a separately fitted scale $\hat{\sigma}$. \alg{Locally adaptive width.}
+\item \al{CQR} (Conformalised Quantile Regression, Romano--Patterson--Cand\`es 2019): fit a quantile regressor returning $\hat{q}_{\alpha/2}(x)$ and $\hat{q}_{1-\alpha/2}(x)$, define
+\begin{equation*}
+s(x, y) \;=\;
+\max\bigl(
+\underbrace{\hat{q}_{\alpha/2}(x) - y}_{\substack{\text{undershoot}\\\text{of lower quantile}}}
+\,,\;
+\underbrace{y - \hat{q}_{1-\alpha/2}(x)}_{\substack{\text{overshoot}\\\text{of upper quantile}}}
+\bigr)
+\end{equation*}
+\quad Intervals are \alg{asymmetric} and \alg{adapt to heteroscedasticity} (locally varying width).
+\item All three: \alg{same coverage guarantee}; CQR usually narrowest on heteroscedastic data.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Conformal Risk Control (CRC)}
+\begin{itemize}
+\item \al{Replace the indicator coverage loss with any bounded \alg{monotone} loss} $L(\lambda) \in [0, 1]$. Tune the cutoff $\lambda$ so that the expected loss meets a budget:
+\begin{equation*}
+\underbrace{\mathbb{E}[L(\lambda)]}_{\substack{\text{expected loss}\\\text{at cutoff } \lambda}}
+\;\leq\;
+\underbrace{\alpha}_{\substack{\text{user-chosen}\\\text{risk budget}}}
+\end{equation*}
+\item Applications:
+\begin{itemize}
+\item \al{FNR control} in image segmentation (limit missed pixels)
+\item \al{FDR control} in multi-label classification
+\item \al{Mass coverage} in distributional prediction
+\end{itemize}
+\item \al{Learn-Then-Test} (LTT): extends CRC to \alr{non-monotone} risks via multiple-testing corrections on a grid of $\lambda$.
+\item Generalises the coverage recipe~--- any time you can name a controllable bounded risk, there's now a distribution-free recipe to bound its expectation.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Beyond split CP -- compute/statistics spectrum}
+\begin{itemize}
+\item \al{Split CP}: one fit; calibration set is \alr{wasted} for training. \textsb{Default for big data.}
+\item \al{Full Conformal} (Vovk 2005): retrain $\hat{f}$ for \emph{each candidate} $y \in \mathcal{Y}$ on the augmented dataset. \alg{Exact}, but $O(|\mathcal{Y}|)$ refits per test point~--- usually infeasible.
+\item \al{Cross-Conformal / CV+}: $K$-fold variant. Modest extra compute, recovers most of the lost data efficiency.
+\item \al{Jackknife+} (Barber--Cand\`es--Ramdas--Tibshirani 2021):
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \mathcal{C}^{\text{J+}}(X_{n+1})\bigr)}_{\substack{\text{coverage of}\\\text{Jackknife+ interval}}}
+\;\geq\;
+\underbrace{1 - 2\alpha}_{\substack{\text{factor-2 looser bound;}\\\text{LOO from one fit via}\\\text{comparison-matrix argument}}}
+\end{equation*}
+\quad \alg{Distribution-free}, no retraining at test time. \textsb{Default when data is scarce.}
+\item Rule of thumb: \al{lots of data} $\Rightarrow$ Split. \al{Scarce data} $\Rightarrow$ Jackknife+.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Time series: where exchangeability breaks}
+Two structurally distinct failure modes:
+\begin{enumerate}
+\item \al{Temporal dependence}~--- the process has memory:
+\begin{itemize}
+\item AR / ARMA: $Y_t$ depends on past values $Y_{t-1}, Y_{t-2}, \ldots$
+\item GARCH: conditional variance $\text{Var}(Y_t \mid Y_{<t})$ depends on past
+\item Latent state, regime switching, hidden Markov\ldots
+\end{itemize}
+\quad Even \alg{stationary} series violate exchangeability if they have dependence.
+\item \alr{Distribution shift}~--- the joint law itself moves:
+\begin{itemize}
+\item \al{Abrupt} breaks (regulatory changes, regime shifts, 2020/2021 crises)
+\item \al{Gradual} drift (slow trends, evolving user behaviour)
+\item \al{Seasonal} cycles (daily, weekly, annual)
+\end{itemize}
+\end{enumerate}
+\al{Either failure breaks the finite-sample coverage guarantee.} Different fixes target different failures.
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{The four-family taxonomy (Stocker et al.\ 2025)}
+Every modern CP-for-time-series method modifies \alg{exactly one object} of the SCP procedure:
+\begin{enumerate}
+\item \al{Reweight calibration data} ($\to$ \textsb{WCP}, \textsb{NexCP}): down-weight stale scores via a recency kernel
+\item \al{Refresh residual pool} ($\to$ \textsb{EnbPI}, \textsb{SPCI}): bootstrap LOO residuals and slide a fresh window
+\item \al{Adapt $\alpha_t$ online} ($\to$ \textsb{ACI}, \textsb{AgACI}, \textsb{Conformal PID}): update the target miscoverage after each observation
+\item \al{Randomise over blocks} ($\to$ \textsb{Block CP}): shuffle contiguous chunks to restore block-level exchangeability
+\end{enumerate}
+Under \alr{abrupt mean shift}: SCP, Block-SCP, WCP-window \alr{fail to cover}; ACI, EnbPI, WCP-exp, WCP-linear \alg{self-correct}.
+
+\al{Hybrid methods compose families} (e.g., ACI + SPCI conditional quantiles).
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{EnbPI (Xu \& Xie 2023) -- bootstrap LOO}
+\begin{itemize}
+\item \al{Train $B$ bootstrap predictors} $\{\hat{f}^{(b)}\}_{b=1}^B$. For each training index $t$, aggregate \alg{only} the bootstrap models that didn't see $t$:
+\begin{equation*}
+\underbrace{\hat{f}^{-t}(x)}_{\substack{\text{LOO estimator}\\\text{at index } t}}
+\;=\;
+\frac{1}{|\{b : t \notin \mathcal{I}_b\}|}
+\sum_{b : t \notin \mathcal{I}_b}
+\underbrace{\hat{f}^{(b)}(x)}_{\substack{\text{bootstrap}\\\text{model}}}.
+\end{equation*}
+\item \al{LOO residuals:} $\hat{\varepsilon}_t = Y_t - \hat{f}^{-t}(X_t)$.
+\item \al{Test-time interval:} sliding-window quantile of recent residuals; asymmetric via inner optimisation over $\beta \in [0, \alpha]$.
+\item \alg{No data split, no retraining.} One ensemble fit upfront; $O(1)$ per test point.
+\item \alg{Asymptotic conditional + marginal coverage} under $\beta$-mixing~--- rare for CP-on-time-series.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{ACI (Gibbs--Cand\`es 2021) -- online $\alpha$-update}
+At each time $t$, observe whether the interval covered, then update the target:
+\begin{equation*}
+\underbrace{\alpha_{t+1}}_{\substack{\text{next target}\\\text{miscoverage}}}
+\;=\;
+\underbrace{\alpha_t}_{\substack{\text{current}\\\text{target}}}
+\;+\;
+\underbrace{\gamma}_{\substack{\text{learning}\\\text{rate}}}
+\,\Bigl(\,
+\underbrace{\alpha}_{\substack{\text{nominal}\\\text{target}}}
+\;-\;
+\underbrace{\mathbb{1}\{Y_t \notin \hat{C}_t\}}_{\substack{\text{1 if missed,}\\\text{0 if covered}}}
+\,\Bigr)
+\end{equation*}
+\begin{itemize}
+\item \al{Cover $\to$ tighten} ($\alpha_{t+1} > \alpha_t$); \al{miss $\to$ loosen} ($\alpha_{t+1} < \alpha_t$).
+\item \alg{Long-run miscoverage $\to \alpha$} for \emph{any} sequence~--- adversarial, drifting, exchangeable, all of it.
+\item \al{$\gamma$ trade-off:} large $\gamma$ adapts fast but wastes interval width on stationary data; small $\gamma$ is stable but slow to react.
+\item \al{AgACI:} aggregate ACI instances at multiple $\gamma$ values via online experts~--- parameter-free.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Coverage hierarchy -- three flavours, weakest to strongest}
+\begin{enumerate}
+\item \alg{Marginal} (what standard CP gives):
+\begin{equation*}
+\mathbb{P}\bigl(Y \in \mathcal{C}(X)\bigr) \;\geq\; 1 - \alpha
+\quad
+\underbrace{\text{(averaged over } X, Y)}_{\text{joint test draw}}
+\end{equation*}
+\item \al{Calibration-conditional} (PAC-style, Vovk 2012; Bian--Barber 2023): fix a calibration set; coverage holds w.p.\ $\geq 1 - \delta$ over calibration draws.
+\item \alr{X-conditional} (what you want):
+\begin{equation*}
+\mathbb{P}\bigl(Y \in \mathcal{C}(X) \mid X = x\bigr) \;\geq\; 1 - \alpha
+\quad
+\underbrace{\forall\, x}_{\text{every input}}
+\end{equation*}
+\end{enumerate}
+\al{Approximate substitutes for X-conditional} (since the real thing is impossible):
+\begin{itemize}
+\item Class-conditional / group-conditional / Mondrian CP
+\item Local adaptivity (CQR, $\sigma$-scaled)
+\item Asymptotic conditional via consistent quantile regression
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Vovk impossibility -- the negative result that frames the field}
+\begin{lemma}[Vovk 2012, paraphrased]
+Distribution-free X-conditional coverage at non-trivial level is achievable \alr{only by prediction sets of infinite Lebesgue measure} on a positive-probability subset of $\mathcal{X}$.
+\end{lemma}
+\begin{itemize}
+\item \al{Translation:} you cannot have \emph{per-individual} coverage guarantees distribution-free. Full stop.
+\item Every ``approximate conditional'' CP method is an \al{honest engineering compromise} around this hard fact:
+\begin{itemize}
+\item \textsb{Local adaptivity} ($\sigma$-scaled, CQR): intervals that \emph{look right} at each $x$, even if not formally guaranteed at $x$.
+\item \textsb{Partition} (Mondrian / class-cond.\ / group-balanced): per-cell coverage, not per-point.
+\item \textsb{PAC slack} (calibration-conditional): coverage that holds w.p.\ $1 - \delta$ over cal.\ draws.
+\item \textsb{Asymptotic} (consistent quantile regression): conditional coverage in the $n \to \infty$ limit, at the cost of distribution-freeness.
+\end{itemize}
+\item The impossibility is a \alg{constraint on \emph{any} distribution-free method}, not a flaw in CP specifically.
+\end{itemize}
+\end{frame}
+
+% ----------------------------------------------------------------
+\begin{frame}
+\frametitle{Take-home and reading order}
+\begin{itemize}
+\item CP is a \al{wrapper}, not a model~--- drops on top of any predictor.
+\item Pick the variant by data regime:
+\begin{itemize}
+\item \textsb{IID, lots of data} $\Rightarrow$ Split CP
+\item \textsb{IID, scarce data} $\Rightarrow$ Jackknife+ or CV+
+\item \textsb{Time series, stationary} $\Rightarrow$ EnbPI / SPCI
+\item \textsb{Time series, drift} $\Rightarrow$ ACI / AgACI / Conformal PID
+\item \textsb{Asymmetric / heteroscedastic regression} $\Rightarrow$ CQR
+\item \textsb{Missing covariates} $\Rightarrow$ CP-MDA-Nested
+\end{itemize}
+\item Libraries: \texttt{MAPIE}, \texttt{crepes}, \texttt{conformal-prediction} (Angelopoulos)
+\item \al{Reading order:}
+\begin{enumerate}
+\item Angelopoulos \& Bates (2022) -- \emph{A Gentle Introduction to CP}
+\item Tibshirani (2023) -- CMU lecture notes (statistician's view)
+\item Stocker et al.\ (2025) -- \emph{Gentle Introduction to Conformal Time Series Forecasting}
+\item Xu \& Xie (2023) -- EnbPI (the canonical time-series method)
+\item Bao et al.\ (2025) -- \emph{Review of Conformal Regression Methods} (benchmark)
+\end{enumerate}
+\end{itemize}
+\end{frame}
+
+\end{document}

@@ -1,0 +1,203 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Dieuleveut and Zaffran 2025 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+\newtheorem*{propstar}{Proposition}
+
+\title{Dieuleveut \& Zaffran (2025)\\\textit{Conformal Prediction: A Tutorial} (Hi! PARIS Summer School)\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this document exists}\label{s:intro}
+
+Dieuleveut and Zaffran's Hi!~PARIS tutorial \cite{dieuleveut2025tutorial} is a 91-slide deck distilling their joint UAI/ICML tutorial into a single pedagogical artifact. It is the cleanest entry point to the Zaffran--Dieuleveut research line on conformal prediction (CP).
+
+\begin{keyinsight}
+\textbf{Why a slide deck deserves a reader's guide.} Slides compress reasoning; this overview unpacks what the deck assumes you can fill in for yourself. The deck's distinctive contribution is its \emph{explicit coverage hierarchy}~--- marginal vs.~conditional vs.~calibration-conditional~--- and its formal treatment of the Vovk impossibility result. Both topics appear only briefly in the Angelopoulos--Bates tutorial; here they are central.
+\end{keyinsight}
+
+The deck's pedagogical arc has two halves. The first half builds the framework from motivation through split conformal in both regression and classification, introducing CQR and APS as canonical score choices. The second half tackles the questions the first half can't answer: \emph{when} does conformal coverage really hold, \emph{how} should one think about its limits, and \emph{what} happens when exchangeability fails outright. Applied case studies (healthcare image-to-image regression; French day-ahead electricity prices) ground the theory in deployment contexts.
+
+\section{The pedagogical arc}\label{s:arc}
+
+\paragraph{First half (slides 1--45 ish): the standard framework.}
+\begin{itemize}
+\item Motivation: black-box ML predictors return point estimates; downstream decisions need calibrated uncertainty.
+\item Miscoverage level $\alpha$, marginal coverage guarantee, exchangeability as the minimal assumption.
+\item Split conformal in regression with absolute-residual scores, then in classification with one-minus-softmax scores.
+\item Conformalised quantile regression (CQR) for locally adaptive regression intervals.
+\item Adaptive Prediction Sets (APS) for classification with input-difficulty-adaptive set sizes.
+\end{itemize}
+
+\begin{explain}
+\textbf{What the first half teaches.} The standard split-conformal recipe, the two canonical score choices for regression (CQR) and classification (APS), and the marginal-coverage guarantee under exchangeability. A practitioner who only reads the first half can deploy CP in production.
+\end{explain}
+
+\paragraph{Second half (slides 46--91 ish): the deeper questions.}
+\begin{itemize}
+\item Coverage hierarchy: marginal vs.~conditional vs.~calibration-conditional.
+\item Vovk's distribution-free X-conditional impossibility \cite{vovk2012conditional}; PAC-style calibration-conditional bounds \cite{bian2023calibration}.
+\item Full conformal (transductive) prediction, Jackknife+ \cite{barber2021jackknifeplus} as data-efficient alternatives.
+\item Breaking exchangeability: weighted CP under covariate shift \cite{tibshirani2019weighted}; OSSCP and ACI \cite{gibbs2021aci} for time series.
+\item Two applied case studies: healthcare image-to-image regression with conformal masks; French day-ahead electricity price forecasting with ACI under drift.
+\item Recent Dieuleveut-group results: CP-MDA-Nested for missing values \cite{zaffran2024missing}; Valid Selection among Conformal Sets.
+\end{itemize}
+
+\begin{explain}
+\textbf{What the second half teaches.} The theoretical limits of the recipe, the algorithms that survive when exchangeability fails, and the open research questions. A researcher who reads only the second half misses the recipe but gets the map of the field.
+\end{explain}
+
+\section{The proof architecture}\label{s:proof}
+
+The deck's clearest pedagogical contribution is its emphasis that all CP coverage results trace back to a single technical workhorse: the \emph{quantile lemma}.
+
+\begin{lemstar}[Quantile lemma, paraphrased]
+Let $S_1, \dots, S_{n+1}$ be exchangeable real-valued random variables. Then for any $\beta \in (0, 1)$,
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(S_{n+1} \leq \hat{q}_{\beta}\bigr)}_{\substack{\text{probability future score}\\\text{falls under the cutoff}}}
+\;\geq\;
+\underbrace{\beta}_{\text{requested level}},
+\end{equation*}
+where $\hat{q}_{\beta}$ is the $\lceil(n+1)\beta\rceil$-th smallest of $S_1, \dots, S_n$.
+\end{lemstar}
+
+\begin{definitionexplain}
+\textbf{What the quantile lemma actually says.} If your scores are exchangeable, then the rank of the unknown future score among all $n+1$ scores is uniform. Therefore: taking a calibration quantile at level $\lceil(n+1)\beta\rceil/n$ controls the probability that the future score exceeds the cutoff at the $\beta$ level. Every coverage statement in CP is this lemma applied to a specific score construction.
+\end{definitionexplain}
+
+Apply this lemma to scores constructed via the split-conformal mechanism and you get split-conformal marginal coverage. Apply it to scores from the augmented dataset used in full conformal and you get full-conformal coverage. Apply it to leave-one-out residuals with a comparison-matrix (tournament) argument and you get the Jackknife+ $1 - 2\alpha$ guarantee. Apply it to reweighted scores from likelihood-ratio weights and you get weighted CP. The deck makes this lineage explicit; once seen, every variant looks like a corollary rather than a separate invention.
+
+\begin{theoremexplain}
+\textbf{Jackknife+ as a corollary, not a separate invention.} Standard CP gives the lower bound $1 - \alpha$ on marginal coverage. Jackknife+ gives $1 - 2\alpha$ from leave-one-out residuals without holding out a calibration set. The proof uses the same quantile-lemma machinery applied to a comparison matrix of LOO residuals: each test-time prediction is compared against every LOO prediction; the $\alpha$ slack absorbs the doubled risk of the comparison. Cost: factor-2 looser bound; benefit: full use of all training data.
+\end{theoremexplain}
+
+\section{The coverage hierarchy and the impossibility}\label{s:hierarchy}
+
+\paragraph{Three flavours of coverage, weakest to strongest.}
+\begin{enumerate}
+\item \textbf{Marginal}: $\mathbb{P}(Y \in \hat{C}(X)) \geq 1-\alpha$, averaged over both the test draw and the calibration set. \emph{What standard CP gives.}
+\item \textbf{Calibration-conditional}: for a fixed calibration set, $\mathbb{P}_{\text{test}}(Y \in \hat{C}(X)) \geq 1-\alpha-\varepsilon(n,\delta)$ with probability $\geq 1-\delta$ over calibration draws. \emph{What PAC bounds give} (\cite{vovk2012conditional}, \cite{bian2023calibration}).
+\item \textbf{X-conditional}: $\mathbb{P}(Y \in \hat{C}(X) \mid X = x) \geq 1-\alpha$ for every $x$. \emph{What you'd like but cannot have distribution-free}.
+\end{enumerate}
+
+\begin{definitionexplain}
+\textbf{The three flavours in plain English.} Marginal: averaged over everything. Calibration-conditional: for the specific calibration set you actually have, with a small slack. X-conditional: at every individual input $x$~--- a per-individual guarantee. These are nested in strength; achieving the strongest one is what every CP method is implicitly trying to approximate.
+\end{definitionexplain}
+
+\begin{lemstar}[Vovk impossibility, paraphrased]
+Distribution-free X-conditional coverage at non-trivial level is achievable only by prediction sets that have infinite Lebesgue measure on a set of $X$ of positive probability.
+\end{lemstar}
+
+\begin{whymatters}
+\textbf{The negative result that frames the field.} You cannot have per-individual distribution-free coverage. Full stop. Every practical CP method that aims for ``conditional'' coverage is approximating one of:
+\begin{itemize}
+\item \emph{Approximate} X-conditional via local adaptivity (CQR, $\sigma$-scaled).
+\item \emph{Partitioned} X-conditional via Mondrian / class-conditional / group-balanced CP.
+\item \emph{Calibration-conditional} via PAC-style bounds.
+\item \emph{Asymptotic} X-conditional via consistent quantile regression.
+\end{itemize}
+The impossibility is not a flaw in CP~--- it is a constraint on what \emph{any} distribution-free method can give.
+\end{whymatters}
+
+\section{Breaking exchangeability and case studies}\label{s:break}
+
+The deck's third arc tackles the regimes where exchangeability fails outright.
+
+\paragraph{Known covariate shift} ($P_X \neq Q_X$, $P_{Y \mid X} = Q_{Y \mid X}$): Tibshirani et al.\ \cite{tibshirani2019weighted} reweight scores by the likelihood ratio $w(x) = dQ_X(x)/dP_X(x)$. Marginal coverage holds on $Q$ at the cost of an effective-sample-size penalty proportional to the variance of $w$.
+
+\paragraph{Time series, online setting:} OSSCP (window-based SCP) and ACI \cite{gibbs2021aci}. The ACI update $\alpha_{t+1} = \alpha_t + \gamma(\alpha - \mathbb{1}\{Y_t \notin \hat{C}_t\})$ delivers long-run miscoverage $\to \alpha$ for \emph{any} sequence, exchangeable or not.
+
+\begin{explain}
+\textbf{Why these two settings are the most common failures.}
+\begin{itemize}
+\item Covariate shift: training and deployment distributions differ. Standard in transfer learning, domain adaptation, fairness audits.
+\item Time series: data has temporal structure or drift. Standard in forecasting, sequential decision-making, online deployment.
+\end{itemize}
+The deck shows that each failure has a tailored CP variant that recovers as much of the original guarantee as can survive.
+\end{explain}
+
+\paragraph{Case studies in the deck.}
+\begin{itemize}
+\item \emph{Healthcare image-to-image regression}: conformal masks around per-pixel predictions for medical imaging; coverage gives clinicians defensible per-pixel uncertainty bands.
+\item \emph{French day-ahead electricity spot prices}: ACI under genuine distribution drift (the 2021 European energy crisis is in the data); standard SCP under-covers during the crisis, ACI self-corrects.
+\end{itemize}
+
+\section{Recent Dieuleveut-group results and outlook}\label{s:discussion}
+
+The final slides preview three lines of research from the Dieuleveut group:
+
+\begin{itemize}
+\item \textbf{CP-MDA-Nested} (Zaffran et al.\ 2024 \cite{zaffran2024missing}): mask-conditional validity under MCAR/MAR missingness via missing-data augmentation. Covered separately in this collection.
+\item \textbf{Valid Selection among Conformal Sets}: test-time selection of one prediction set from a candidate pool, preserving the coverage guarantee. Addresses the practical issue that practitioners often want to pick the ``best'' set rather than commit to one ex ante.
+\item \textbf{Aggregation of conformal sets}: combining multiple prediction sets while preserving validity. Connects to Gasparin--Ramdas-style aggregation theory.
+\end{itemize}
+
+\begin{keyinsight}
+\textbf{Why the case studies in this deck punch above their weight.} The healthcare and electricity-prices examples are not just demos; they exemplify the deck's central methodological point. Each domain breaks exchangeability in a specific way (pixel structure, temporal drift), and each is handled by a specific CP variant tailored to the failure mode (conformal masks, ACI). The pattern~--- diagnose the failure, deploy the matching variant~--- is the working methodology of the Zaffran--Dieuleveut research line.
+\end{keyinsight}
+
+For the wiki context, this deck pairs naturally with Angelopoulos--Bates \cite{angelopoulos2022gentle} (which gives the same material from the ML-practitioner angle) and with Zaffran's PhD thesis \cite{zaffran2024phd} (which gives the long-form treatment with full proofs). The Tibshirani 2023 CMU lecture notes are the statistician's-eye counterpart. Read all four together and you have a complete picture of post-hoc UQ via CP as it stood at the end of 2024.
+
+\bibliography{\bib}
+
+\end{document}

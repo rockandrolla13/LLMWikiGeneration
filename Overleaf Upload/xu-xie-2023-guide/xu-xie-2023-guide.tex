@@ -1,0 +1,190 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Xu and Xie 2023 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+\newtheorem*{propstar}{Proposition}
+
+\title{Xu \& Xie (2023)\\\textit{Conformal Prediction for Time Series} (EnbPI, IEEE TPAMI)\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Standard conformal prediction (CP) for regression requires either (a) holding out a calibration set (split conformal) or (b) refitting the predictor once per candidate $y$ (full conformal). Neither plays well with time series. Splitting a time series throws away the most recent data; refitting an arbitrary forecasting model (LSTM, GBM) per candidate is computationally infeasible. The plain jackknife is asymptotic-only and requires a stability assumption that's rarely satisfiable for modern ML predictors.
+
+\begin{keyinsight}
+\textbf{The bootstrap-LOO trick.} Xu and Xie \cite{xu2023enbpi} exploit a structural observation: a bootstrap ensemble \emph{already contains leave-one-out information}. For each training index $i$, the bootstrap models whose training sets did not include index $i$ jointly form a leave-one-out estimator $\hat{f}^{-i}$~--- with zero extra computational cost beyond the original bootstrap fit. EnbPI rides this insight to give time-series CP that requires \emph{no data split} and \emph{no retraining at test time}.
+\end{keyinsight}
+
+The result is EnbPI (\emph{Ensemble batch Prediction Intervals}): a wrapper around any ensemble-trainable predictor that gives distribution-free prediction intervals with asymptotic coverage guarantees under $\beta$-mixing weak dependence. The paper is published in IEEE TPAMI and is the canonical reference for what Stocker et al.\ \cite{stocker2025gentle} call the ``refresh residual pool'' family of CP-for-time-series methods.
+
+\section{The bootstrap-LOO insight}\label{s:insight}
+
+The core insight is structural rather than algorithmic. A standard bootstrap ensemble trains $B$ predictors on $B$ resampled training sets. By the bootstrap design, each individual training point $i$ is excluded from approximately $B/e \approx 0.368 B$ of the resamples. The predictors trained on those $\approx 0.368 B$ resamples constitute a \emph{leave-one-out estimator} of $\hat{f}$ at index $i$:
+\begin{equation*}
+\underbrace{\hat{f}^{-i}(x)}_{\substack{\text{LOO estimator}\\\text{at training index } i}}
+\;=\;
+\frac{1}{|\{b : i \notin \mathcal{I}_b\}|}
+\sum_{b\,:\,i \notin \mathcal{I}_b}
+\underbrace{\hat{f}^{(b)}(x)}_{\substack{\text{bootstrap model}\\b}}.
+\end{equation*}
+
+\begin{algorithmexplain}
+\textbf{Why this is "essentially free".} A standard bootstrap ensemble is what you'd build for variance reduction anyway. The leave-one-out structure is a side product: it costs nothing beyond the bootstrap fit itself, no retraining required. The plain jackknife would need $n$ separate model fits; the jackknife-after-bootstrap construction (J+aB) of Kim, Xu, and Barber \cite{kim2020jpb} obtains $n$ LOO estimators from a single $B$-bootstrap fit. EnbPI extends J+aB to time series.
+\end{algorithmexplain}
+
+\section{The algorithm}\label{s:algorithm}
+
+Given training data $\{(X_t, Y_t)\}_{t=1}^T$, ensemble size $B$, and target miscoverage $\alpha$:
+
+\paragraph{Step 1: bootstrap ensemble.} Train $B$ point predictors $\{\hat{f}^{(b)}\}_{b=1}^B$ on bootstrap resamples $\{\mathcal{I}_b\}_{b=1}^B$ of the training data.
+
+\paragraph{Step 2: per-index LOO aggregation.} For each training index $t$,
+\begin{equation*}
+\hat{f}^{-t}(x)
+\;=\;
+\frac{1}{|\{b : t \notin \mathcal{I}_b\}|}
+\sum_{b\,:\,t \notin \mathcal{I}_b}
+\hat{f}^{(b)}(x).
+\end{equation*}
+
+\paragraph{Step 3: LOO residuals.}
+\begin{equation*}
+\underbrace{\hat{\varepsilon}_t}_{\substack{\text{LOO residual}\\\text{at index } t}}
+\;=\;
+\underbrace{Y_t - \hat{f}^{-t}(X_t)}_{\substack{\text{out-of-bag}\\\text{prediction error}}}.
+\end{equation*}
+
+\paragraph{Step 4: test-time interval.} For a new $X_{T+h}$, form
+\begin{equation*}
+\underbrace{\hat{C}_h(X_{T+h})}_{\substack{\text{prediction interval}\\\text{at horizon } h}}
+\;=\;
+\hat{f}(X_{T+h}) \,+\, \Bigl[\,
+\underbrace{\hat{Q}_{\beta}\bigl(\{\hat{\varepsilon}\}\bigr)}_{\text{lower endpoint}}
+\,,\;
+\underbrace{\hat{Q}_{1-\alpha+\beta}\bigl(\{\hat{\varepsilon}\}\bigr)}_{\text{upper endpoint}}
+\,\Bigr]
+\end{equation*}
+where $\beta \in [0, \alpha]$ is chosen by inner optimisation to minimise the interval width~--- yielding \emph{asymmetric} intervals when the residual distribution is skewed.
+
+\paragraph{Step 5: sliding-window update.} As new observations arrive, append them to the residual window and (optionally) drop the oldest. \emph{Crucially, $\hat{f}$ is never retrained.}
+
+\begin{algorithmexplain}
+\textbf{Cost analysis.} One ensemble fit upfront (the bootstrap cost~--- typically what you'd pay for variance reduction anyway). $O(1)$ per test point thereafter (just a quantile of a sliding window). This is much cheaper than full conformal ($|\mathcal{Y}|$ refits per test point) or the plain jackknife ($n$ refits total). EnbPI's compute profile is what makes it deployable in streaming forecasting systems.
+\end{algorithmexplain}
+
+\section{Coverage results}\label{s:coverage}
+
+\begin{thmstar}[Asymptotic coverage gap, informal]
+Under $\beta$-mixing of $(X_t, Y_t)$ and consistency of the bootstrap LOO estimator, both the \emph{marginal} and \emph{conditional} coverage gaps of EnbPI converge to zero as $T \to \infty$:
+\begin{equation*}
+\bigl|\,\mathbb{P}(Y_{T+h} \in \hat{C}_h(X_{T+h})) - (1 - \alpha)\,\bigr| \;\xrightarrow[T\to\infty]{} \;0.
+\end{equation*}
+The paper also bounds the symmetric difference between EnbPI's interval and the oracle (narrowest conditionally valid) interval, controlling \emph{efficiency} in addition to validity.
+\end{thmstar}
+
+\begin{theoremexplain}
+\textbf{What's unusual about this theorem.} Conditional coverage~--- $\mathbb{P}(Y \in \hat{C}(X) \mid X = x) \to 1-\alpha$~--- is usually impossible at finite $n$ in distribution-free CP (Lei--Wasserman 2014 impossibility). EnbPI obtains it \emph{asymptotically} by paying two prices: (1) consistency of the bootstrap LOO estimator (a non-trivial assumption that effectively rules out distribution-free guarantees), and (2) $\beta$-mixing dependence on the data process. The price is worth paying because the conditional guarantee is what time-series practitioners actually need~--- intervals that are valid \emph{at each time point}, not just on average across time.
+\end{theoremexplain}
+
+\paragraph{Why $\beta$-mixing rather than i.i.d.} $\beta$-mixing is a quantitative weak-dependence condition that holds for stationary ARMA, many GARCH variants, and finite-state Markov chains. It is strictly weaker than i.i.d.~but quantitatively controllable, which is what the proof needs. The mixing rate appears in the convergence rate of the coverage gap.
+
+\begin{assumptionexplain}
+\textbf{What $\beta$-mixing gives up.} The guarantee fails (or degrades) on processes with long memory (e.g., fractionally integrated processes, ARFIMA with $d > 0$), non-stationary noise (e.g., unit-root processes), or strongly persistent regime-switching. In those settings, methods that adapt online (ACI \cite{gibbs2021aci, zaffran2022aci}) are the safer choice~--- they trade EnbPI's conditional coverage for long-run marginal coverage on \emph{any} sequence.
+\end{assumptionexplain}
+
+\section{Empirical findings, limitations, and connections}\label{s:empirics}
+
+\paragraph{Benchmark suite.} EnbPI is evaluated on five high-stakes time-series domains:
+\begin{itemize}
+\item Solar and wind energy generation (forecasting renewable supply).
+\item Multivariate anomaly detection (intrusion / fault detection).
+\item Greenhouse-gas concentration (environmental monitoring).
+\item Appliance energy consumption (smart-grid demand).
+\item Beijing air quality (PM2.5 forecasting under regime shifts).
+\end{itemize}
+
+\paragraph{Baselines beaten.} Against ARIMA, ICP (inductive conformal prediction~--- vanilla split CP), WeightedICP, QOOB, AdaptCI (the original Gibbs--Cand\`es ACI), and J+aB (Kim, Xu, Barber):
+\begin{itemize}
+\item EnbPI delivers shorter intervals at nominal coverage.
+\item Robust to missing data (the sliding window absorbs gaps gracefully).
+\item Handles change points via sliding-window length (shorter window $\to$ faster adaptation).
+\end{itemize}
+
+\begin{whymatters}
+\textbf{Why the benchmark matters beyond academic publishability.} Each of the five domains is a real deployment context where uncertainty calibration has direct consequences~--- grid operators rely on solar-wind forecasts for dispatch decisions, environmental regulators rely on GHG forecasts for policy, public-health authorities rely on PM2.5 forecasts for advisories. A method that delivers nominal coverage \emph{and} short intervals across all five is robust to most real-world time-series structures, not just toy AR(1) simulations.
+\end{whymatters}
+
+\paragraph{Limitations and follow-up work.}
+
+\begin{itemize}
+\item Degrades as $\beta$-mixing slows toward long memory. For non-mixing processes, the consistency assumption fails and the conditional-coverage guarantee no longer holds.
+\item For abrupt distribution shift, pair with ACI (online $\alpha$-update). The hybrid ACI + EnbPI inherits ACI's any-sequence guarantee while keeping EnbPI's conditional-coverage advantage in the stable regime.
+\item For heteroskedasticity, use the SPCI follow-up \cite{xu2022spci}, which replaces the empirical residual quantile with a learned quantile-regression score. SPCI handles scale-dependent residual distributions that EnbPI's empirical-quantile approach cannot.
+\end{itemize}
+
+\paragraph{Connections.} EnbPI anchors the ``refresh residual pool'' family in Stocker et al.'s \cite{stocker2025gentle} four-family taxonomy. Its direct predecessor is Kim, Xu, and Barber's J+aB \cite{kim2020jpb}, which establishes the bootstrap-LOO trick for the exchangeable setting; EnbPI extends it to non-exchangeable time series. The complementary ``adapt-$\alpha$'' family (ACI \cite{gibbs2021aci, zaffran2022aci}) targets the same problem via online updates instead of residual refresh; the two families compose into hybrid methods that have become the working frontier of CP for forecasting. For applications to causal estimands, DR-ACI (Koukorinis 2026) combines EnbPI-style residual refresh with doubly-robust treatment-effect estimation under temporal dependence, building on the double-machine-learning framework of Chernozhukov et al.~\cite{chernozhukov2018double}.
+
+\bibliography{\bib}
+
+\end{document}

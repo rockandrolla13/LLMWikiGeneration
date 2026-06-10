@@ -1,0 +1,36 @@
+\begin{thebibliography}{5}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Angelopoulos and Bates(2022)}]{angelopoulos2022gentle}
+Angelopoulos, Anastasios~N.\ and Stephen Bates. 2022.
+\newblock \enquote{A Gentle Introduction to Conformal Prediction and
+  Distribution-Free Uncertainty Quantification.}
+\newblock \emph{Foundations and Trends in Machine Learning}.
+
+\bibitem[{Rubin(1976)}]{rubin1976missing}
+Rubin, Donald~B. 1976.
+\newblock \enquote{Inference and Missing Data.}
+\newblock \emph{Biometrika}.
+
+\bibitem[{Tibshirani et~al.(2019)Tibshirani, Barber, Cand{\`e}s, and
+  Ramdas}]{tibshirani2019weighted}
+Tibshirani, Ryan~J.\, Rina~Foygel Barber, Emmanuel~J.\ Cand{\`e}s, and Aaditya
+  Ramdas. 2019.
+\newblock \enquote{Conformal Prediction Under Covariate Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Zaffran(2024)}]{zaffran2024phd}
+Zaffran, Margaux. 2024.
+\newblock \emph{Post-hoc Predictive Uncertainty Quantification: Methods with
+  Applications to Electricity Price Forecasting}.
+\newblock PhD thesis, Institut Polytechnique de Paris.
+
+\bibitem[{Zaffran et~al.(2024)Zaffran, Dieuleveut, Josse, and
+  Romano}]{zaffran2024missing}
+Zaffran, Margaux, Aymeric Dieuleveut, Julie Josse, and Yaniv Romano. 2024.
+\newblock \enquote{Conformal Prediction with Missing Values.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\end{thebibliography}

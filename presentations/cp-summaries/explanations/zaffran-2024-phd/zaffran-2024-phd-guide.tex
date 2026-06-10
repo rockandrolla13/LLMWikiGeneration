@@ -1,0 +1,204 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Zaffran 2024 PhD Thesis -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{propstar}{Proposition}
+
+\title{Zaffran (2024) PhD Thesis\\\textit{Post-hoc Predictive Uncertainty Quantification: Methods with Applications to Electricity Price Forecasting}\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this thesis exists}\label{s:intro}
+
+Margaux Zaffran's 2024 PhD thesis \cite{zaffran2024phd} synthesises her conformal-prediction research into a single agenda: \emph{post-hoc} predictive uncertainty quantification~--- prediction intervals that wrap any already-fitted model without retraining it~--- when the exchangeability assumption fails.
+
+\begin{keyinsight}
+\textbf{What ``post-hoc'' means here.} You have a trained model. You cannot retrain it~--- maybe it's expensive, maybe it's owned by someone else, maybe you don't have the training data anymore. Post-hoc UQ wraps an already-fitted model in a procedure that delivers prediction intervals with guarantees. This rules out methods like Bayesian neural networks or ensemble disagreement (which require training-time changes) and rules in the conformal-prediction family.
+\end{keyinsight}
+
+The applied context is European electricity price forecasting, a domain where the failure modes are concrete and economically consequential. Renewable energy injection makes spot prices volatile; long-term planning requires calibrated uncertainty, not just point forecasts; the 2021 European energy crisis represented a textbook distribution-shift event that broke conventional forecasting pipelines. Two specific exchangeability failures dominate the setting: \emph{temporal dependence with drift} (the price process is autocorrelated and non-stationary) and \emph{missing covariates} (regulatory data feeds, weather observations, and trader-side inputs are not always available at decision time).
+
+\begin{explain}
+\textbf{Why electricity prices are the right testbed.} European spot electricity prices give you both failure modes that the thesis addresses in a single dataset: (i) strong time-series structure (daily/weekly cycles + weather-driven drift), and (ii) genuinely missing covariates (data feeds drop, regulatory updates lag). The 2021 energy crisis adds an unambiguous out-of-sample distribution-shift event to validate against. A method that handles all three is robust to most real-world deployment conditions.
+\end{explain}
+
+The thesis develops conformal methods for both failures. The ACI / AgACI work \cite{zaffran2022aci} addresses the time-series failure. The CP-MDA work \cite{zaffran2024missing} addresses the missing-values failure. The thesis assembles these into a unified post-hoc framework and demonstrates it end-to-end on real electricity price data. This overview is a chapter-by-chapter map plus a synthesis of the central theorems.
+
+\section{The structure of the thesis}\label{s:structure}
+
+The six chapters trace a methodological progression from problem statement to algorithm to deployment. Chapter 1 (introduction) frames the electricity-market application and the post-hoc UQ research question: given an already-fitted predictor whose construction we cannot influence, what prediction intervals can we wrap around it with guarantees? The framing matters: post-hoc rules out methods (Bayesian neural networks, ensemble disagreement) that require modifying the underlying model.
+
+\begin{definitionexplain}
+\textbf{The post-hoc constraint in one sentence.} You may not touch the predictor's training procedure. You may only observe its outputs. The whole CP toolbox respects this constraint by construction; most alternative UQ approaches do not.
+\end{definitionexplain}
+
+Chapter 2 (CP background) introduces the Vovk--Gammerman--Shafer framework \cite{vovk2005algorithmic} at the level of detail needed for the rest of the thesis: split conformal, full conformal, the rank-based coverage argument, exchangeability as the minimal assumption, the marginal vs.\ conditional distinction. The treatment is closer to a textbook chapter than to the Angelopoulos--Bates practitioner tutorial \cite{angelopoulos2022gentle}~--- it gives proofs rather than cookbook recipes.
+
+Chapter 3 (ACI for time series) is the published ACI / AgACI work \cite{zaffran2022aci}. The chapter analyses Gibbs--Cand\`es ACI \cite{gibbs2021aci} theoretically~--- showing that the learning rate $\gamma$ deteriorates efficiency on exchangeable data but improves it on autoregressive data~--- and introduces AgACI as a parameter-free aggregation that eliminates the $\gamma$-tuning problem via online expert aggregation.
+
+\begin{explain}
+\textbf{What Chapter 3 gives you.} A complete analysis of online-adaptive CP for time series: how the learning rate trades off responsiveness vs efficiency, why a single $\gamma$ is never optimal across regimes, and how AgACI sidesteps the choice via expert aggregation. The chapter validates the analysis on French electricity prices including the 2021 distribution shift.
+\end{explain}
+
+Chapter 4 (missing data and CP) and Chapter 5 (conditional coverage with missing values) together are the published CP-MDA work \cite{zaffran2024missing}. Chapter 4 establishes that the naive impute-then-predict + conformalise pipeline is marginally valid; Chapter 5 develops mask-conditional validity, proves that CP-MDA-Exact and CP-MDA-Nested achieve it, and shows asymptotic conditional coverage via consistent quantile regression on imputed data.
+
+\begin{explain}
+\textbf{What Chapters 4--5 give you.} A full treatment of CP under missing covariates: the marginal-validity free lunch (impute, conformalise, done), the mask-conditional-validity gap (where the free lunch breaks), and the CP-MDA framework that closes the gap. The medical application (TraumaBase) is the validation; the electricity application is where the technique deploys in the broader thesis.
+\end{explain}
+
+Chapter 6 (applications to electricity forecasting) deploys both ACI/AgACI and CP-MDA on French day-ahead electricity prices, including a case study of the 2021 price explosion. The chapter is where the methodological pieces meet operational constraints: rolling windows, real-time recalibration, latency budgets for the online aggregator.
+
+\section{The central guarantees in compact form}\label{s:guarantees}
+
+The thesis revolves around three theorems and one impossibility result. All four are worth keeping in mind as the through-line.
+
+\paragraph{The marginal coverage baseline.} Standard split conformal under exchangeability:
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \hat{C}(X_{n+1})\bigr)}_{\substack{\text{marginal coverage on}\\\text{joint draw of test } (X,Y)}}
+\;\in\;
+\Bigl[\,
+\underbrace{1 - \alpha}_{\text{lower bound}}
+\,,\;
+\underbrace{1 - \alpha + \tfrac{1}{n+1}}_{\text{upper bound}}
+\,\Bigr].
+\end{equation*}
+This is the result every CP construction in the thesis seeks to preserve or generalise.
+
+\begin{theoremexplain}
+\textbf{The baseline marginal guarantee.} Finite-sample, distribution-free, model-agnostic. Holds under exchangeability of the data, which is satisfied for i.i.d.~draws and for any random reshuffling of i.i.d.~data. Everything else in the thesis is an attempt to recover something like this guarantee when exchangeability fails (time series, missing data) or to strengthen it (mask-conditional, long-run, conditional).
+\end{theoremexplain}
+
+\paragraph{Long-run coverage under arbitrary sequences (ACI).} The Gibbs--Cand\`es deterministic guarantee that ACI inherits:
+\begin{equation*}
+\underbrace{\left| \tfrac{1}{T} \sum_{t=1}^{T} \mathbb{1}\{Y_t \notin \hat{C}_t(X_t)\} - \alpha \right|}_{\substack{\text{empirical long-run miscoverage}\\\text{minus nominal level}}}
+\;\xrightarrow[T \to \infty]{}\;
+0
+\qquad
+\underbrace{\text{for any sequence } (X_t, Y_t)_{t \geq 1}}_{\text{distribution-free}}.
+\end{equation*}
+The point: this guarantee requires \emph{no} distributional assumption. ACI converts marginal coverage on exchangeable data into long-run coverage on adversarial sequences~--- at the price of a wider expected interval width when the data are exchangeable.
+
+\begin{theoremexplain}
+\textbf{What the ACI guarantee buys.} The long-run miscoverage fraction goes to $\alpha$ for \emph{any} sequence, even adversarial. This is a strictly weaker guarantee than the marginal one (which holds at finite $n$, not just asymptotically) but it holds in settings where the marginal one fails entirely. The trade-off: ACI wastes some interval width on truly exchangeable data, because the algorithm always thinks it might need to adapt.
+\end{theoremexplain}
+
+\paragraph{Mask-conditional validity (CP-MDA).} The stronger coverage notion needed when missing patterns themselves carry information:
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y \in \hat{C}_{\alpha}(X, M) \mid M = m\bigr)}_{\substack{\text{coverage conditional on}\\\text{specific missing pattern } m}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\text{nominal level}}
+\quad
+\underbrace{\forall\, m \in \mathcal{M}.}_{\substack{\text{for every possible}\\\text{mask}}}
+\end{equation*}
+CP-MDA-Exact achieves MCV under MCAR and exchangeability; CP-MDA-Nested achieves MCV under MCAR, exchangeability, and a stochastic-domination assumption on conditional quantiles. The trade-off mirrors the one in CP generally: Exact is statistically tightest but data-hungry (rare pattern matching in high dimensions); Nested uses more calibration data at the cost of slight conservativeness.
+
+\begin{theoremexplain}
+\textbf{Why MCV is the right thing to demand.} Marginal coverage averages over masks; a method satisfying it can still systematically under-cover patients with rare missing patterns. MCV demands coverage \emph{per mask}, which is the fairness property that matters in clinical or actuarial deployments. The CP-MDA framework achieves MCV at finite sample size, which is rare for any conformal extension.
+\end{theoremexplain}
+
+\paragraph{The Lei--Wasserman X-conditional impossibility.} The negative result that frames the entire post-hoc enterprise. Distribution-free \emph{X-conditional} coverage~--- $\mathbb{P}(Y \in \hat{C}(X) \mid X = x) \geq 1 - \alpha$ for every $x$~--- is impossible at non-trivial level. Any procedure that achieves it must produce infinite-measure sets on a non-null subset of $\mathcal{X}$. This is why the thesis pursues approximate substitutes (long-run coverage, mask-conditional validity, asymptotic conditional coverage via consistent quantile regression) rather than the unattainable target itself.
+
+\begin{whymatters}
+\textbf{Why the impossibility frames everything.} You cannot get per-individual coverage guarantees in the distribution-free post-hoc setting. Full stop. The thesis's strategy~--- and the strategy of most of modern CP~--- is to pick the strongest \emph{achievable} guarantee for each failure mode: long-run for adversarial sequences, mask-conditional for missing data, asymptotic conditional for the consistent-regressor case. None of these are X-conditional in the strict Lei--Wasserman sense, but all are useful substitutes for it in their respective settings.
+\end{whymatters}
+
+\section{The methodological through-line}\label{s:throughline}
+
+A reader who treats ACI and CP-MDA as unrelated will miss the point of the thesis. Both are responses to a structurally similar problem: standard CP assumes exchangeability, the real-world setting violates exchangeability in a specific identifiable way, and the question is what guarantee survives.
+
+For \emph{ACI}, the violation is temporal dependence and drift. The remedy abandons the finite-sample marginal-coverage guarantee in favour of a long-run-average guarantee that survives \emph{any} sequence~--- a strictly weaker statement, but one that holds where the original cannot.
+
+For \emph{CP-MDA}, the violation is mask-dependent heteroscedasticity~--- coverage averaged over masks hides catastrophic failure on the rare-mask subpopulations. The remedy restricts calibration to mask-consistent calibration points (Exact) or augments masks systematically (Nested), recovering mask-conditional coverage~--- a strictly stronger statement than marginal coverage, achievable because the mask is an observed grouping variable.
+
+\begin{keyinsight}
+\textbf{The thesis's methodological pattern.} Three steps applied repeatedly:
+\begin{enumerate}
+\item Identify the exchangeability failure (time-series, missing data, anything else).
+\item Decompose the standard guarantee into the piece that fails and the piece that survives.
+\item Engineer a procedure that recovers as much of the surviving piece as possible.
+\end{enumerate}
+ACI and CP-MDA are two instances of this pattern. The same recipe applies to any new failure mode (multivariate time series, censored data, network data, etc.).
+\end{keyinsight}
+
+The pattern is the same in both cases: identify the exchangeability failure, decompose the original guarantee into the piece that fails and the piece that survives, then engineer a procedure that recovers as much of the surviving guarantee as possible. The thesis is the canonical example of this approach applied to two different failure modes.
+
+\section{Connections and what to read next}\label{s:discussion}
+
+The thesis is the bridge between the foundational CP literature (Vovk \cite{vovk2005algorithmic}, the Lei--Tibshirani--Wasserman CMU lineage) and the applied time-series / missing-data CP literature. For the practitioner-facing companion, read Angelopoulos and Bates \cite{angelopoulos2022gentle} alongside Chapter 2. For the time-series cluster, the original ACI paper of Gibbs and Cand\`es \cite{gibbs2021aci} is the predecessor of Chapter 3; the EnbPI line \cite{xu2023enbpi} is the alternative ``residual-refresh'' approach to the same problem (Stocker et al.\ taxonomise both into a four-family picture). For the missing-data cluster, the standard reference for missingness mechanisms is Rubin's 1976 paper \cite{rubin1976missing}; the published version of Chapters 4--5 \cite{zaffran2024missing} contains the proofs in compact form.
+
+\begin{explain}
+\textbf{The reading order for going further.}
+\begin{enumerate}
+\item This overview (you're reading it).
+\item Angelopoulos--Bates 2022 \cite{angelopoulos2022gentle} for the practitioner CP recipe.
+\item Tibshirani 2023 CMU notes for the statistician's view (covered separately in this collection).
+\item Zaffran 2022 ACI paper \cite{zaffran2022aci} for the time-series extension.
+\item Zaffran 2024 CP-MDA paper \cite{zaffran2024missing} for the missing-data extension.
+\item The thesis itself for the unified treatment and the electricity-prices empirical chapter.
+\end{enumerate}
+\end{explain}
+
+The thesis's particular contribution to the field~--- beyond the specific algorithms~--- is the framing of post-hoc UQ as a research programme. Each new domain whose exchangeability fails in a new way (multivariate time series, censored data, network data) becomes a target for the same methodological pattern: diagnose the failure, decompose the guarantee, engineer the procedure. The follow-up work in conformal PID control, multi-distribution-robust CP, and conformal forecasting on functional time series all sits inside this framing, though they were published after the thesis itself.
+
+\bibliography{\bib}
+
+\end{document}

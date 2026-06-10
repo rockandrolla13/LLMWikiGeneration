@@ -1,0 +1,166 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Stocker, Malgorzewicz, Fontana, Ben Taieb 2025 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+\newtheorem*{propstar}{Proposition}
+\newtheorem*{assstar}{Assumption}
+
+\title{Stocker, Ma\l{}gorzewicz, Fontana, Ben Taieb (2025)\\\textit{A Gentle Introduction to Conformal Time Series Forecasting}\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Stocker, Ma\l{}gorzewicz, Fontana, and Ben Taieb \cite{stocker2025gentle} is the time-series companion to Angelopoulos--Bates \cite{angelopoulos2022gentle}. Where that monograph assumes exchangeability throughout, this paper systematically organises the post-exchangeability landscape for forecasting into a navigable map.
+
+\begin{keyinsight}
+\textbf{Why we need a time-series-specific tutorial.} Standard CP assumes exchangeability~--- the dataset's joint distribution is invariant under reshuffling. Time series violate this assumption in two structurally distinct ways, and the algorithms that fix one failure don't necessarily fix the other. Without a unifying map, practitioners face a confusing zoo of methods (EnbPI, ACI, AgACI, SPCI, WCP, BCP, NexCP, Conformal PID\ldots) with overlapping motivations and unclear relative merits. This paper gives the map.
+\end{keyinsight}
+
+The paper does three things. First, it formally identifies the two ways time series break exchangeability: \emph{temporal dependence} (the process has memory) and \emph{distribution shift} (the joint law is not stationary). Second, it proves finite-sample marginal and conditional coverage for split conformal under $\beta$-mixing weak dependence, generalising Oliveira et al.\ \cite{oliveira2024split} with explicit proofs. Third~--- the headline contribution~--- it classifies all modern CP-for-time-series methods into a \emph{four-family mechanistic taxonomy}, with controlled simulation results showing which family helps under which failure mode.
+
+\section{How time series breaks exchangeability}\label{s:break}
+
+Two independent failure modes:
+
+\paragraph{Temporal dependence.} The process has memory. AR, GARCH, latent-state, regime-switching, or even just autocorrelated noise all carry information from past to present. Adjacent observations are not interchangeable; reshuffling alters the joint distribution. Even strictly stationary processes (the marginal distribution doesn't drift) can violate exchangeability via dependence alone.
+
+\paragraph{Distribution shift.} The joint distribution itself moves over time. Abrupt breaks (regulatory changes, regime shifts), gradual drift (slow trends, evolving consumer behaviour), seasonality (weekday/weekend, summer/winter). Standard CP assumes the test point comes from the same distribution as the calibration set; under drift this fails outright.
+
+\begin{definitionexplain}
+\textbf{Two failures, two remedy families.} Temporal dependence requires methods that work \emph{within} a stationary dependent process~--- usually via $\beta$-mixing or near-exchangeability assumptions. Distribution shift requires methods that \emph{adapt} as the distribution moves~--- via reweighting, online updates, or block randomisation. Stocker's taxonomy is built around which failure mode each family is designed for.
+\end{definitionexplain}
+
+The paper proves that vanilla split conformal still works under purely $\beta$-mixing dependence (Theorem A.3.1, with Assumptions A1--A5 in the appendix). This is a cleaner version of the Oliveira et al.\ \cite{oliveira2024split} framework, with full proofs.
+
+\begin{theoremexplain}
+\textbf{Why the $\beta$-mixing result matters in practice.} It tells you that if your time series is \emph{stationary} and the dependence decays fast enough (geometrically $\beta$-mixing, satisfied by stationary ARMA and many GARCH variants), then plain split conformal still delivers finite-sample marginal and conditional coverage~--- no method change needed. The need for fancier methods arises only when stationarity itself fails (distribution shift) or when dependence is too strong (long memory, non-mixing processes).
+\end{theoremexplain}
+
+\section{The four-family taxonomy}\label{s:taxonomy}
+
+The paper's central contribution: every modern CP-for-time-series method lives in exactly one of four families, distinguished by \emph{which object the method modifies}.
+
+\paragraph{Family 1: Reweight the calibration data.} Methods that down-weight stale calibration points via a recency kernel. Includes weighted CP (WCP) \cite{tibshirani2019weighted}, Nex-CP, and learned-weight variants of NexCP \cite{barber2023beyond}. Mechanism: scores are weighted by a known or learned weight $w_i$ so that the effective calibration distribution matches the test distribution.
+
+\paragraph{Family 2: Refresh the residual pool via OOB bootstrap.} Methods that bootstrap leave-one-out residuals and slide the residual window forward as new data arrive. Includes EnbPI \cite{xu2023enbpi}, SPCI \cite{xu2022spci}, and SPCI-T. Mechanism: the bootstrap-LOO trick provides residuals essentially for free, and the sliding window avoids both data splitting and retraining at test time.
+
+\paragraph{Family 3: Adapt the target miscoverage online.} Methods that update $\alpha_t$ after each observation via a gradient-style rule. Includes ACI \cite{gibbs2021aci}, AgACI \cite{zaffran2022aci}, time-varying step sizes, and Conformal PID Control. Mechanism: cover/miss feedback drives $\alpha_t$ toward the level that keeps long-run miscoverage at the nominal target, regardless of how the data process behaves.
+
+\paragraph{Family 4: Randomise over blocks rather than points.} Methods that shuffle contiguous chunks to restore exchangeability between blocks. Includes Block CP (transductive and split variants). Mechanism: the calibration set is partitioned into blocks; block-level exchangeability replaces point-level exchangeability, preserving the rank-based coverage argument at coarser granularity.
+
+\begin{keyinsight}
+\textbf{Why the taxonomy is mechanistic, not just descriptive.} The four families operate on \emph{four distinct objects} of the SCP procedure: (1) the calibration weights, (2) the residual pool, (3) the target miscoverage level, (4) the block ordering. Hybrid methods (e.g., ACI + SPCI, EnbPI with online $\alpha$-updates) compose families by modifying multiple objects simultaneously. This mechanistic decomposition is what makes the taxonomy actually useful for picking a method~--- you choose based on which object you can afford to modify and which failure mode you face.
+\end{keyinsight}
+
+\section{Empirical findings}\label{s:empirics}
+
+A controlled simulation study compares SCP, WCP (3 variants), ACI (3 step sizes), EnbPI (3 refresh rates), and Block-SCP on four processes:
+\begin{itemize}
+\item AR(1) and ARMA(1,1) (stationary, weakly dependent~--- the easy regime).
+\item GARCH(1,1) (stationary in distribution but with volatility clustering).
+\item Mean-shift (abrupt distribution change~--- the hard regime).
+\end{itemize}
+
+\paragraph{Headline empirical findings.}
+
+\begin{itemize}
+\item On stationary $\beta$-mixing data (AR, ARMA): vanilla SCP is \emph{valid and efficient}. WCP, ACI, and EnbPI match coverage at varying widths and compute costs but provide no advantage.
+\item On abrupt mean shift: \emph{SCP, Block-SCP, and WCP-window all fail to cover}~--- their intervals don't track the new distribution. ACI, EnbPI, WCP-exp, and WCP-linear \emph{self-correct} via their explicit recency mechanisms.
+\item \emph{Non-obvious failure}: Block-SCP under-covers even on stationary $\beta$-mixing data. The block-randomisation step appears to discard useful information about local dependence structure.
+\end{itemize}
+
+\begin{whymatters}
+\textbf{Why the Block-SCP failure is the most instructive finding.} A practitioner reading the methodology might assume that block randomisation is a ``safer'' generalisation of SCP~--- after all, if blocks are exchangeable, the rank argument should still go through. The simulation shows this intuition is wrong: blocks throw away point-level information that vanilla SCP exploits successfully, even when both procedures' assumptions hold. This is the kind of finding only a controlled simulation can surface~--- the theoretical guarantees alone wouldn't reveal it.
+\end{whymatters}
+
+\section{Practitioner defaults and connections}\label{s:practice}
+
+\paragraph{Defaults from the paper's discussion.}
+\begin{itemize}
+\item \textbf{Stationary $\beta$-mixing} $\to$ vanilla SCP. Cheap, valid, efficient.
+\item \textbf{Cheap shift-robustness} $\to$ WCP-exp or WCP-linear. One pass, recency weights, no retraining.
+\item \textbf{Active feedback / unknown drift} $\to$ ACI (or AgACI for aggregation over multiple $\gamma$).
+\item \textbf{Heteroskedasticity matters, compute available} $\to$ EnbPI or SPCI. Bootstrap-LOO trick, asymptotic conditional coverage.
+\end{itemize}
+
+\paragraph{Open research frontier flagged by the paper.}
+\begin{itemize}
+\item Hybrid methods composing two families (ACI + SPCI's conditional quantiles, EnbPI + online $\alpha$-updates, learned WCP weights).
+\item Distributional conformal forecasting~--- predicting the full predictive distribution, not just intervals.
+\item Multivariate and functional time series.
+\item Multi-step-ahead horizons.
+\item Long-memory processes that violate $\beta$-mixing.
+\end{itemize}
+
+\begin{explain}
+\textbf{What to read after this paper.} If you want the algorithm details of any specific family, the Stocker survey points to the canonical reference (EnbPI \cite{xu2023enbpi}, ACI \cite{gibbs2021aci, zaffran2022aci}, NexCP \cite{barber2023beyond}). If you want the i.i.d.~companion, read Angelopoulos--Bates \cite{angelopoulos2022gentle}. If you want the full theoretical treatment of CP under dependence, read the original Oliveira et al.\ \cite{oliveira2024split}; the Stocker paper presents a cleaner subset of the same results with explicit proofs.
+\end{explain}
+
+\paragraph{Code reproducibility.} An accompanying GitHub repo (by Ma\l{}gorzewicz) reproduces every simulation experiment. This pairs nicely with the four-family taxonomy: a practitioner can clone the repo, identify their failure mode, and run their data through the matching family without re-implementing anything.
+
+For the wiki context, Stocker et al.\ is the taxonomy paper that organises the rest of the time-series-CP literature. Read it first to understand the landscape, then read the canonical references for each family (EnbPI for Family 2, Zaffran 2022 ACI for Family 3, etc.) for the algorithmic details.
+
+\bibliography{\bib}
+
+\end{document}

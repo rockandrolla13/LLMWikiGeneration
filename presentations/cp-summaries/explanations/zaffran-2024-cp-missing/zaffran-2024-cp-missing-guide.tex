@@ -1,0 +1,251 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Zaffran, Dieuleveut, Josse, Romano 2024 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+\newtheorem*{propstar}{Proposition}
+\newtheorem*{defstar}{Definition}
+
+\title{Zaffran, Dieuleveut, Josse, Romano (2024)\\\textit{Conformal Prediction with Missing Values}\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Standard conformal prediction (CP) assumes the covariates $X$ are fully observed at training, calibration, and test time. In real-world problems~--- medical records, sensor arrays, survey data~--- this is almost never true: some features are missing for some observations, and the \emph{pattern} of missingness can itself depend on the underlying state of the world (a missing lab test typically means the doctor didn't think it was needed, which is informative).
+
+\begin{keyinsight}
+\textbf{The central observation.} Missing values induce \emph{heteroscedasticity}: a patient with many missing features has a fundamentally wider conditional distribution of $Y$ than a patient with no missing features. A constant-width interval that ignores this systematically over-covers the easy cases and under-covers the hard cases. The marginal coverage average can still hit $1-\alpha$, but the per-mask coverage profile is catastrophic on the rare masks~--- the ones that often correspond to the most clinically interesting patients.
+\end{keyinsight}
+
+Zaffran, Dieuleveut, Josse, and Romano \cite{zaffran2024missing} give the first systematic treatment of CP under missing covariates. The central insight: \emph{missing values induce heteroscedasticity}~--- prediction uncertainty depends on \emph{which} features are observed, not just their values. A constant-width interval that ignores this systematically over-covers easy cases (many features observed) and under-covers hard cases (few observed), violating a basic fairness property.
+
+The paper proves three main results: (i) the naive ``impute-then-predict + conformalise'' pipeline is \emph{marginally} valid under almost no assumptions, (ii) but it fails a stronger notion called \emph{mask-conditional validity}, and (iii) a new framework called CP-MDA (Missing Data Augmentation) restores mask-conditional validity at finite sample size. The companion application is a medical dataset (TraumaBase, platelet-level prediction in trauma patients) where missing patterns correlate with hospital procedures and patient conditions, and equitable coverage across patterns is clinically essential.
+
+\begin{explain}
+\textbf{Three contributions in one sentence each.}
+\begin{enumerate}
+\item Marginal coverage is essentially free: impute then conformalise and you're done.
+\item But marginal coverage hides catastrophic per-mask coverage gaps~--- a fairness failure.
+\item CP-MDA (two variants, Exact and Nested) restores per-mask coverage at finite sample size under MCAR + mild conditions.
+\end{enumerate}
+\end{explain}
+
+\section{Background and terminology}\label{s:background}
+
+Let $(X, M, Y)$ be the data triple where $X \in \mathbb{R}^d$ is the covariate vector, $M \in \{0, 1\}^d$ is the \emph{missing mask}~--- $M_j = 1$ if $X_j$ is missing (\texttt{NA}), $M_j = 0$ if observed~--- and $Y \in \mathbb{R}$ is the target. Given a mask $m$, write $X_{\text{obs}(m)}$ for the observed components and $X_{\text{mis}(m)}$ for the missing components. A predictor at test time sees only $(X_{\text{obs}(m)}, m)$.
+
+\begin{definitionexplain}
+\textbf{Notation in one sentence.} $M$ is a $\{0,1\}$ vector with the same length as your feature vector, with $1$ where a feature is missing. $X_{\text{obs}(m)}$ is the visible part of $X$ given mask $m$; $X_{\text{mis}(m)}$ is the hidden part. The predictor sees the visible part plus the mask itself (it knows \emph{which} features are missing, just not their values).
+\end{definitionexplain}
+
+The three classical missingness mechanisms (Rubin \cite{rubin1976missing}):
+\begin{itemize}
+\item \textbf{MCAR} (Missing Completely At Random): $\mathbb{P}(M = m \mid X) = \mathbb{P}(M = m)$.
+\item \textbf{MAR} (Missing At Random): $\mathbb{P}(M = m \mid X) = \mathbb{P}(M = m \mid X_{\text{obs}(m)})$.
+\item \textbf{MNAR} (Missing Not At Random): neither of the above.
+\end{itemize}
+The standard practical approach is \emph{impute-then-predict}: fill in the missing components $X_{\text{mis}(m)}$ using an imputer $\Phi(X_{\text{obs}(m)}, m)$, then apply a standard regression on the imputed feature vector.
+
+\begin{definitionexplain}
+\textbf{The three missingness regimes, ordered by severity.}
+\begin{itemize}
+\item \textbf{MCAR}: missingness is pure coin-flip noise, unrelated to anything. Best case.
+\item \textbf{MAR}: missingness depends only on the observed features. Mostly tractable.
+\item \textbf{MNAR}: missingness depends on the missing features themselves~--- e.g., people with high blood pressure are more likely to refuse to report their blood pressure. Worst case, hardest to handle.
+\end{itemize}
+The paper's main theorems hold under MCAR; the asymptotic conditional-coverage result holds under any missingness mechanism.
+\end{definitionexplain}
+
+\section{Two notions of validity}\label{s:construction}
+
+\paragraph{Marginal validity.} The standard CP target:
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y \in \hat{C}_{\alpha}(X, M)\bigr)}_{\substack{\text{probability over the joint}\\\text{draw of test } (X, M, Y)}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\text{nominal level}}.
+\end{equation*}
+This averages over all possible missing patterns.
+
+\paragraph{Mask-conditional validity (MCV).} The stronger target:
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y \in \hat{C}_{\alpha}(X, M) \mid M = m\bigr)}_{\substack{\text{coverage conditional on}\\\text{the specific mask } m}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\text{nominal level}}
+\quad \forall\, m \in \mathcal{M}.
+\end{equation*}
+MCV guarantees that patients with any specific missing pattern $m$ receive prediction intervals that cover their true outcome with probability $\geq 1 - \alpha$. Marginal validity says nothing about this~--- the marginal guarantee can be achieved by over-covering easy patterns and dramatically under-covering hard ones.
+
+\begin{definitionexplain}
+\textbf{Marginal validity vs MCV in plain English.} Marginal validity: ``on average over all my patients, the interval covers $90\%$ of the time.'' MCV: ``for any specific missing pattern $m$ (any specific combination of \texttt{NA}s), patients with that pattern have $90\%$ coverage.'' The marginal version can be satisfied by trading off coverage between patterns~--- e.g., $99\%$ coverage on easy patterns and $70\%$ on hard ones still averages to $90\%$.
+\end{definitionexplain}
+
+\paragraph{Why marginal validity is easy and MCV is hard.}
+
+\begin{propstar}[Marginal validity, paraphrased Proposition 3.3 of \cite{zaffran2024missing}]
+Under exchangeability of the data and a \emph{symmetric} imputation $\Phi$ (one that treats all observations identically), the impute-then-predict-then-conformalise pipeline satisfies $\mathbb{P}(Y \in \hat{C}_{\alpha}) \geq 1 - \alpha$ for \emph{any} imputation method and \emph{any} missingness mechanism (MCAR, MAR, or MNAR).
+\end{propstar}
+
+\begin{theoremexplain}
+\textbf{Why this is unusually permissive.} Marginal validity holds under \emph{any} missingness mechanism (including MNAR, the worst case) and \emph{any} imputation method (including naive ones like mean imputation). The only requirements are exchangeability of the data and that the imputer treats all observations the same way. This is a much stronger free-lunch result than CP usually gives.
+\end{theoremexplain}
+
+The catch: nothing in this proposition restricts \emph{where} the coverage probability concentrates. The pipeline can easily over-cover masks with few missing values (where the predictor is accurate) and under-cover masks with many missing values (where it is not), as long as the average works out to $1 - \alpha$.
+
+\section{Induced heteroscedasticity}\label{s:hetero}
+
+The reason MCV fails for vanilla impute-then-predict is structural. Consider the simplest setting: a Gaussian linear model $Y = \beta^{\top} X + \varepsilon$ with $X \mid M = m \sim \mathcal{N}(\mu^m, \Sigma^m)$. Even though the noise $\varepsilon$ is homoscedastic by construction, the \emph{oracle} interval length~--- the narrowest interval that achieves $1 - \alpha$ coverage conditional on the mask~--- depends on $m$:
+\begin{equation*}
+\underbrace{L_{\alpha}^{\star}(m)}_{\substack{\text{oracle interval length}\\\text{at mask } m}}
+\;=\;
+2 q_{1 - \alpha/2}^{\mathcal{N}(0, 1)}
+\sqrt{
+\underbrace{\beta_{\text{mis}(m)}^{\top} \Sigma^{m}_{\text{mis} \mid \text{obs}} \beta_{\text{mis}(m)}}_{\substack{\text{prediction variance from}\\\text{the missing components}}}
+\;+\;
+\underbrace{\sigma_{\varepsilon}^{2}}_{\substack{\text{irreducible}\\\text{noise}}}
+}.
+\end{equation*}
+The first term under the square root vanishes when no components are missing ($m = 0$) and grows as more covariates with large $|\beta_j|$ go missing. A constant-width interval simply cannot track this~--- it must be too wide for some masks or too narrow for others.
+
+\begin{explain}
+\textbf{What this formula tells you.} The right interval width depends on the mask. If you're missing only low-importance features (small $|\beta_j|$), the width hardly changes. If you're missing a high-importance feature, the width grows substantially. A method that returns the same width regardless of mask is therefore guaranteed to be miscalibrated per-mask~--- the only question is whether it's over-covering the easy masks or under-covering the hard ones.
+\end{explain}
+
+\section{The CP-MDA framework}\label{s:cpmda}
+
+CP-MDA (Missing Data Augmentation) restores MCV. The idea: when calibrating, restrict to calibration points whose mask is consistent with the test point's mask.
+
+\subsection*{CP-MDA-Exact}
+
+Given a test point with mask $m^{\star}$, keep only the calibration points with the \emph{exact same} mask, conformalise on this subset.
+
+\begin{thmstar}[Theorem 5.3 of \cite{zaffran2024missing}, MCV of CP-MDA-Exact]
+Under MCAR and exchangeability, CP-MDA-Exact achieves \emph{exact} mask-conditional validity.
+\end{thmstar}
+
+\begin{theoremexplain}
+\textbf{CP-MDA-Exact in plain English.} For a test patient with pattern $m^{\star}$ (say: missing blood-pressure, missing weight), use \emph{only} calibration patients with the exact same pattern (also missing blood-pressure and weight). Conformalise on this subset. The exchangeability now holds \emph{within the mask cell}, so coverage conditional on the mask is exactly $1 - \alpha$.
+\end{theoremexplain}
+
+\paragraph{Catch.} In high dimensions, exact mask matching is rare~--- the number of distinct masks is $2^d$ and most are observed only a few times. The exact variant becomes statistically inefficient.
+
+\subsection*{CP-MDA-Nested}
+
+A relaxation that keeps all calibration points whose mask is \emph{contained in} the test point's mask (i.e., calibration points with at least the missing values that the test point has). For each retained calibration point, the prediction at the test point is augmented to share the test point's mask:
+\begin{equation*}
+\underbrace{\hat{C}_{\alpha}^{\text{nest}}(X_{\text{obs}(m^{\star})}, m^{\star})}_{\substack{\text{prediction interval for}\\\text{test point with mask } m^{\star}}}
+\;=\;
+\text{Aggregate}_q\Bigl(
+\underbrace{\{\hat{g}_i(X_{\text{obs}(m^{\star})}, m^{\star})\}_{i : m_i \supseteq m^{\star}}}_{\substack{\text{per-calibration-point predictions}\\\text{using augmented masks}}}
+\Bigr).
+\end{equation*}
+
+\begin{thmstar}[Theorem 5.3 of \cite{zaffran2024missing}, MCV of CP-MDA-Nested]
+Under MCAR, exchangeability, and the \emph{stochastic-domination} assumption (A4) below, CP-MDA-Nested achieves mask-conditional validity. The intervals are slightly conservative.
+\end{thmstar}
+
+\paragraph{Assumption A4: stochastic domination.} For masks $\mathring{m} \subset \breve{m}$ (i.e., $\breve{m}$ has strictly more missing values than $\mathring{m}$), and for any quantile level $\delta \in [0, 1/2]$:
+\begin{equation*}
+\underbrace{q_{\delta}^{Y \mid X_{\text{obs}(\mathring{m})}, M = \mathring{m}}}_{\substack{\text{lower } \delta\text{-quantile,}\\\text{less missing}}}
+\leq
+\underbrace{q_{\delta}^{Y \mid X_{\text{obs}(\breve{m})}, M = \breve{m}}}_{\substack{\text{lower } \delta\text{-quantile,}\\\text{more missing}}}
+\leq
+\underbrace{q_{1-\delta}^{Y \mid X_{\text{obs}(\breve{m})}, M = \breve{m}}}_{\substack{\text{upper } (1-\delta)\text{-quantile,}\\\text{more missing}}}
+\leq
+\underbrace{q_{1-\delta}^{Y \mid X_{\text{obs}(\mathring{m})}, M = \mathring{m}}}_{\substack{\text{upper } (1-\delta)\text{-quantile,}\\\text{less missing}}}.
+\end{equation*}
+The intuition is just: more missing values means a wider conditional distribution of $Y$. The assumption is plausible in most regression settings.
+
+\begin{assumptionexplain}
+\textbf{What stochastic domination really means.} Going from mask $\mathring{m}$ to a strictly more-missing mask $\breve{m}$ should widen (or at least not narrow) the conditional distribution of $Y$. The lower quantile shifts down, the upper quantile shifts up, the conditional spread grows. This holds whenever ``more missing = more uncertainty'', which is the normal case. It can be violated in pathological cases where a single missing feature \emph{reduces} uncertainty (e.g., a noisy feature whose absence is more informative than its presence)~--- those cases break CP-MDA-Nested.
+\end{assumptionexplain}
+
+\section{Asymptotic conditional coverage}\label{s:asymptotic}
+
+Going further than mask-conditional validity, the paper shows that a \emph{universally consistent} quantile regressor trained on imputed data achieves asymptotic conditional coverage~--- $\mathbb{P}(Y \in \hat{C}_{\alpha}(X, M) \mid X = x, M = m) \to 1 - \alpha$ as the sample size grows~--- for \emph{any} missingness mechanism (Corollary 6.2 of \cite{zaffran2024missing}). This is striking because it sidesteps the Lei--Wasserman X-conditional impossibility result: the trick is to absorb the missingness into the covariate vector itself (by concatenating the mask $m$ as additional features) so that consistency in the augmented feature space delivers asymptotic conditional coverage in the original problem.
+
+\begin{keyinsight}
+\textbf{How this dodges the Lei--Wasserman impossibility.} Lei--Wasserman 2014 says distribution-free X-conditional coverage is impossible at non-trivial level. The trick here is to \emph{not be distribution-free}: by concatenating the mask $m$ as a feature and using a consistent quantile regressor on the augmented input, the construction trades distribution-freeness for asymptotic conditional coverage. The price is the consistency assumption (which is non-trivial for high-dimensional data) but the reward is per-individual coverage in the limit.
+\end{keyinsight}
+
+The practical recipe combining the theoretical insights:
+\begin{enumerate}
+\item Choose any sensible imputation method $\Phi$.
+\item Train a \emph{quantile regression} model on the imputed features concatenated with the mask. (Quantile regression handles the heteroscedasticity that mask-dependent uncertainty induces.)
+\item Conformalise using CP-MDA-Nested with the test point's mask.
+\end{enumerate}
+
+\section{Empirical findings and connections}\label{s:discussion}
+
+On synthetic Gaussian-linear data, CQR (without mask correction) is marginally valid but its coverage on the \emph{worst} mask falls dramatically below $1 - \alpha$. CQR-MDA-Exact and CQR-MDA-Nested both maintain coverage near $1 - \alpha$ for every mask, with Nested slightly conservative (over-covers) on the masks where exact matching would have been most data-starved. On four real benchmarks (MEPS, Bio, Concrete, Bike) and on TraumaBase, the same pattern holds: CQR-MDA delivers equitable coverage across masks; the additional cost is moderate (intervals are slightly wider than CQR's marginal-valid intervals on the easy masks, but the coverage gap on the hard masks vanishes).
+
+\begin{whymatters}
+\textbf{Why the TraumaBase application is the validation that matters.} TraumaBase is a French registry of trauma patients used to predict platelet levels. Missing patterns correlate with hospital procedures (which lab tests the doctor ordered) and patient conditions (whether the patient was stable enough for testing). Standard CP gives intervals that are systematically too narrow for the highest-risk patients~--- exactly the wrong direction of failure for a medical decision-support system. CP-MDA fixes this: intervals are equally calibrated across patient profiles, regardless of how complete their record is. The fairness property is medically essential, not just statistically nice.
+\end{whymatters}
+
+\paragraph{Why this matters beyond CP.} The framework is a general template for what one might call \emph{group-conditional validity} in the presence of natural groupings induced by data structure. The construction translates with minor adaptation to any setting where the test point has a discrete attribute (mask, group, treatment arm) that the calibration set also contains: restrict to consistent-attribute calibration points, conformalise. The paper makes this connection explicit, drawing the lineage to group-balanced and class-conditional CP variants \cite{angelopoulos2022gentle} and to weighted CP under covariate shift \cite{tibshirani2019weighted}.
+
+For the wiki context, the missing-values work is the major theoretical contribution of Zaffran's PhD thesis \cite{zaffran2024phd}~--- the other being the ACI analysis covered separately in this collection. Together they trace a particular methodological agenda: take the standard split-conformal recipe and adapt it to settings where exchangeability fails in an identifiable, controllable way, recovering as much of the original guarantee as can survive the failure.
+
+\bibliography{\bib}
+
+\end{document}

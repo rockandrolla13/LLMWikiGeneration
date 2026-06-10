@@ -54,3 +54,10 @@ markdown_output/
 
 # Raw source symlinks (local paths)
 wiki/raw/conformal-prediction
+
+# embedded template repos (track upstream separately if needed)
+templates/latex-paper/
+templates/latex-presentation/
+
+# held back: needs token with 'workflow' scope to push
+.github/workflows/deploy-wiki.yml

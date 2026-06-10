@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Angelopoulos and Bates(2022)}]{angelopoulos2022gentle}
+Angelopoulos, Anastasios~N.\ and Stephen Bates. 2022.
+\newblock \enquote{A Gentle Introduction to Conformal Prediction and
+  Distribution-Free Uncertainty Quantification.}
+\newblock \emph{Foundations and Trends in Machine Learning}.
+
+\bibitem[{Barber et~al.(2021)Barber, Cand{\`e}s, Ramdas, and
+  Tibshirani}]{barber2021jackknifeplus}
+Barber, Rina~Foygel, Emmanuel~J.\ Cand{\`e}s, Aaditya Ramdas, and Ryan~J.
+  Tibshirani. 2021.
+\newblock \enquote{Predictive Inference with the Jackknife+.}
+\newblock \emph{Annals of Statistics}.
+
+\bibitem[{Barber et~al.(2023)Barber, Cand{\`e}s, Ramdas, and
+  Tibshirani}]{barber2023beyond}
+Barber, Rina~Foygel, Emmanuel~J.\ Cand{\`e}s, Aaditya Ramdas, and Ryan~J.
+  Tibshirani. 2023.
+\newblock \enquote{Conformal Prediction Beyond Exchangeability.}
+\newblock \emph{Annals of Statistics}.
+
+\bibitem[{Lei et~al.(2018)Lei, G'Sell, Rinaldo, Tibshirani, and
+  Wasserman}]{lei2018distribution}
+Lei, Jing, Max G'Sell, Alessandro Rinaldo, Ryan~J.\ Tibshirani, and Larry
+  Wasserman. 2018.
+\newblock \enquote{Distribution-Free Predictive Inference for Regression.}
+\newblock \emph{Journal of the American Statistical Association}.
+
+\bibitem[{Lei and Wasserman(2014)}]{lei2014distribution}
+Lei, Jing and Larry Wasserman. 2014.
+\newblock \enquote{Distribution-Free Prediction Bands for Non-Parametric
+  Regression.}
+\newblock \emph{Journal of the Royal Statistical Society: Series B}.
+
+\bibitem[{Romano, Patterson, and Cand{\`e}s(2019)}]{romano2019cqr}
+Romano, Yaniv, Evan Patterson, and Emmanuel Cand{\`e}s. 2019.
+\newblock \enquote{Conformalized Quantile Regression.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Sadinle, Lei, and Wasserman(2019)}]{sadinle2019aps}
+Sadinle, Mauricio, Jing Lei, and Larry Wasserman. 2019.
+\newblock \enquote{Least Ambiguous Set-Valued Classifiers with Bounded Error
+  Levels.}
+
+\bibitem[{Tibshirani(2023)}]{tibshirani2023cp}
+Tibshirani, Ryan~J. 2023.
+\newblock \enquote{Conformal Prediction (Lecture Notes for Advanced Topics in
+  Statistical Learning).}
+\newblock Spring 2023, Carnegie Mellon University. 15 pages.
+
+\bibitem[{Tibshirani et~al.(2019)Tibshirani, Barber, Cand{\`e}s, and
+  Ramdas}]{tibshirani2019weighted}
+Tibshirani, Ryan~J.\, Rina~Foygel Barber, Emmanuel~J.\ Cand{\`e}s, and Aaditya
+  Ramdas. 2019.
+\newblock \enquote{Conformal Prediction Under Covariate Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Vovk, Gammerman, and Shafer(2005)}]{vovk2005algorithmic}
+Vovk, Vladimir, Alexander Gammerman, and Glenn Shafer. 2005.
+\newblock \emph{Algorithmic Learning in a Random World}.
+\newblock Springer.
+
+\end{thebibliography}

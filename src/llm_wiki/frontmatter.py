@@ -23,6 +23,14 @@ from .io.page_io import (
     get_content,
     validate_frontmatter,
 )
+from .io.dedup import (
+    DuplicateCheckResult,
+    compute_source_content_hash,
+    get_existing_sources_hashes,
+    get_source_by_slug,
+    check_duplicate,
+    format_duplicate_result,
+)
 
 __all__ = [
     # Hashing (from io.hashing)
@@ -40,4 +48,11 @@ __all__ = [
     "get_frontmatter",
     "get_content",
     "validate_frontmatter",
+    # Duplicate Detection (from io.dedup)
+    "DuplicateCheckResult",
+    "compute_source_content_hash",
+    "get_existing_sources_hashes",
+    "get_source_by_slug",
+    "check_duplicate",
+    "format_duplicate_result",
 ]

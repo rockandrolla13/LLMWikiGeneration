@@ -1,0 +1,50 @@
+\begin{thebibliography}{7}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Chernozhukov et~al.(2018)Chernozhukov, Chetverikov, Demirer, Duflo,
+  Hansen, Newey, and Robins}]{chernozhukov2018double}
+Chernozhukov, Victor, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian
+  Hansen, Whitney Newey, and James Robins. 2018.
+\newblock \enquote{Double/Debiased Machine Learning for Treatment and
+  Structural Parameters.}
+\newblock \emph{The Econometrics Journal}.
+
+\bibitem[{Gibbs and Cand{\`e}s(2021)}]{gibbs2021aci}
+Gibbs, Isaac and Emmanuel Cand{\`e}s. 2021.
+\newblock \enquote{Adaptive Conformal Inference Under Distribution Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Kim, Xu, and Barber(2020)}]{kim2020jpb}
+Kim, Byol, Chen Xu, and Rina~Foygel Barber. 2020.
+\newblock \enquote{Predictive Inference Is Free with the
+  Jackknife+-After-Bootstrap.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Stocker et~al.(2025)Stocker, Ma{\l}gorzewicz, Fontana, and
+  Ben~Taieb}]{stocker2025gentle}
+Stocker, M.\, Wiktoria Ma{\l}gorzewicz, Matteo Fontana, and Souhaib Ben~Taieb.
+  2025.
+\newblock \enquote{A Gentle Introduction to Conformal Time Series Forecasting.}
+\newblock \emph{arXiv preprint arXiv:2511.13608}.
+
+\bibitem[{Xu and Xie(2023{\natexlab{a}})}]{xu2023enbpi}
+Xu, Chen and Yao Xie. 2023{\natexlab{a}}.
+\newblock \enquote{Conformal Prediction for Time Series.}
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}.
+
+\bibitem[{Xu and Xie(2023{\natexlab{b}})}]{xu2022spci}
+Xu, Chen and Yao Xie. 2023{\natexlab{b}}.
+\newblock \enquote{Sequential Predictive Conformal Inference for Time Series.}
+\newblock In \emph{International Conference on Machine Learning}.
+
+\bibitem[{Zaffran et~al.(2022)Zaffran, Dieuleveut, F{\'e}ron, Goude, and
+  Josse}]{zaffran2022aci}
+Zaffran, Margaux, Aymeric Dieuleveut, Olivier F{\'e}ron, Yannig Goude, and
+  Julie Josse. 2022.
+\newblock \enquote{Adaptive Conformal Predictions for Time Series.}
+\newblock \emph{arXiv preprint arXiv:2202.07282}.
+
+\end{thebibliography}

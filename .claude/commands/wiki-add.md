@@ -1,6 +1,15 @@
 Add a document to the wiki end-to-end. $ARGUMENTS
 
-**This skill handles the complete pipeline: PDF conversion → wiki ingestion → page creation.**
+**This skill handles the complete pipeline: PDF conversion → duplicate check → wiki ingestion → page creation.**
+
+## Duplicate Detection (SHA-256 Idempotency)
+
+Before creating source pages, content is hashed with SHA-256 to detect:
+- **Duplicates**: Same content hash → Skip (enables safe batch re-runs)
+- **Updates**: Same slug, different hash → Update existing page
+- **New**: No match → Create new page
+
+The `content_hash` field is stored in source frontmatter for tracking.
 
 ## Usage
 
@@ -80,7 +89,8 @@ Process each file sequentially, reporting:
 ## Options
 
 - `--dry-run`: Show what would be created without writing
-- `--skip-existing`: Skip sources already in wiki
+- `--skip-existing`: Skip sources already in wiki (by slug)
+- `--skip-duplicates`: Skip sources with matching content hash (default: enabled)
 - `--no-entities`: Skip entity extraction
 - `--no-concepts`: Skip concept extraction
 

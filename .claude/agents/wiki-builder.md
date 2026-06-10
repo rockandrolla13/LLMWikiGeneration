@@ -78,6 +78,7 @@ title: "<Paper Title>"
 page_id: sources/<slug>
 page_type: source
 source_type: paper
+content_hash: sha256:<hexdigest>  # SHA-256 hash of source document
 authors: ["<Author 1>", "<Author 2>"]
 year: 2024
 created: <ISO timestamp>
@@ -152,10 +153,45 @@ related: [concepts/<related1>, entities/<person1>]
 - [[concepts/<related>]] - <relationship>
 ```
 
+## Duplicate Detection (SHA-256 Idempotency)
+
+Before creating any source page, check for duplicates using content hashing:
+
+```python
+from llm_wiki import check_duplicate, format_duplicate_result
+from pathlib import Path
+
+# Check before creating
+wiki_sources = Path("wiki/wiki/sources")
+result = check_duplicate(wiki_sources, source_content, slug)
+
+if result.is_duplicate:
+    print(f"SKIP: Duplicate of {result.existing_path}")
+    # Do not create page
+elif result.is_update:
+    print(f"UPDATE: Content changed for {slug}")
+    # Update existing page, include new content_hash in frontmatter
+else:
+    print(f"NEW: Creating {slug}")
+    # Create new page with content_hash in frontmatter
+```
+
+**Include `content_hash` in frontmatter:**
+```yaml
+---
+title: "<Paper Title>"
+page_id: sources/<slug>
+page_type: source
+content_hash: sha256:abc123...  # Hash of source document content
+# ... other fields
+---
+```
+
 ## Error Handling
 
 - PDF conversion fails → Log error, continue with next
-- Duplicate source → Skip or merge based on content hash
+- Duplicate source (same hash) → Skip, report existing path
+- Content update (same slug, different hash) → Update page with new hash
 - Missing frontmatter → Generate from content analysis
 - Broken wikilinks → Create stub pages
 

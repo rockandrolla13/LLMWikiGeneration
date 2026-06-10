@@ -1,0 +1,215 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={R. J. Tibshirani 2023 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+
+\title{R. J. Tibshirani (2023)\\\textit{Conformal Prediction} (CMU Lecture Notes)\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this document exists}\label{s:intro}
+
+Ryan Tibshirani's 2023 CMU lecture notes \cite{tibshirani2023cp} are the statistician's introduction to conformal prediction (CP). Where Angelopoulos--Bates \cite{angelopoulos2022gentle} optimise for ML-practitioner accessibility, Tibshirani teaches CP \emph{as a statistician}, in the Vovk \cite{vovk2005algorithmic} $\to$ Wasserman $\to$ Lei $\to$ Tibshirani CMU lineage.
+
+\begin{keyinsight}
+\textbf{Two flavours of intro: which to read.} Angelopoulos--Bates is the ML-practitioner intro: it gives the recipe, the Python notebooks, the catalogue of scores you can swap in. Tibshirani 2023 is the statistician's intro: it derives the rank-based machinery from first principles, isolates the two ``key ideas'' that organise everything, and dedicates real space to the calibration-conditional Beta distribution and the Lei--Wasserman impossibility. Read both. The first builds confidence in deploying CP; the second builds confidence in extending it.
+\end{keyinsight}
+
+The notes are short (15 pages) and dense. They build the framework from first principles via two organising \emph{key ideas}, derive split and full conformal as direct consequences, and then dedicate substantial space to the questions a statistician actually asks: how variable is the realised coverage on a single calibration set? What can we say about coverage conditional on the test input $X$? When can we trust the rank-based machinery and when does it fail?
+
+\begin{explain}
+\textbf{Why a statistician's view matters even if you're an engineer.} The Angelopoulos--Bates tutorial gives you the recipe. The statistician's view tells you what \emph{else} you should worry about: the variance of realised coverage on a single calibration set draw, the conditional-coverage impossibility, the distinction between symmetric and naive score construction. These are the things that bite in deployment but don't appear in the recipe.
+\end{explain}
+
+This overview walks through the construction in the order Tibshirani presents it, makes the two key ideas explicit, and points at the connections to the rest of the wiki.
+
+\section{The two key ideas}\label{s:keyideas}
+
+The notes are organised around two ideas that, once isolated, make every subsequent construction in CP a corollary rather than a new invention.
+
+\subsection*{Key idea 1: rank-based adjusted-level quantiles}
+
+Suppose we observe i.i.d.\ samples $Y_1, \dots, Y_n$ from some unknown distribution and want a prediction interval for a future observation $Y_{n+1}$. The standard textbook construction~--- empirical quantile of $Y_1, \dots, Y_n$~--- under-covers at finite sample size because it treats $Y_{n+1}$ as drawn from an estimated distribution rather than as a genuinely random new point. The fix is to take the quantile at level $\lceil(n+1)(1-\alpha)\rceil / n$ rather than $1 - \alpha$:
+\begin{equation*}
+\underbrace{\hat{q}}_{\substack{\text{adjusted-level}\\\text{quantile}}}
+\;=\;
+\text{Quantile}\Bigl(
+\underbrace{\{Y_i\}_{i=1}^{n}}_{\text{calibration data}}
+\,;\;
+\underbrace{\tfrac{\lceil (n+1)(1-\alpha)\rceil}{n}}_{\substack{\text{the }+1\text{ accounts for the}\\\text{unseen test point}}}
+\Bigr).
+\end{equation*}
+Under exchangeability of $Y_1, \dots, Y_{n+1}$~--- which i.i.d.\ already implies~--- the rank of $Y_{n+1}$ among the $n+1$ observations is uniformly distributed on $\{1, \dots, n+1\}$. This single fact yields:
+\begin{equation*}
+\underbrace{\mathbb{P}(Y_{n+1} \leq \hat{q})}_{\substack{\text{probability test point}\\\text{falls under cutoff}}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\text{nominal level}}.
+\end{equation*}
+The argument never uses any property of the distribution of $Y$~--- the guarantee is genuinely distribution-free at finite $n$. Auxiliary randomisation gives exact $1 - \alpha$ coverage; without randomisation, the upper bound is $1 - \alpha + 1/(n+1)$ (the discreteness slack).
+
+\begin{explain}
+\textbf{The trick in one sentence.} Use a quantile slightly above $1-\alpha$ to compensate for the fact that the test point is one of $n+1$ exchangeable observations, not the $(n+1)$-th draw from an estimated distribution. The whole CP framework is corollaries of this idea.
+\end{explain}
+
+\subsection*{Key idea 2: symmetric score construction}
+
+Now suppose we have covariates $X$ as well, and want a prediction set for $Y_{n+1}$ given $X_{n+1}$. The naive approach is: fit $\hat{\mu}$ on training data, compute residuals $R_i = Y_i - \hat{\mu}(X_i)$ on the \emph{same} training data, take the residual quantile, and form $[\hat{\mu}(X_{n+1}) \pm \hat{q}]$. This \emph{undercovers}~--- often substantially~--- because the training-set residuals are smaller than they should be (the model has been fit to minimise them) while the test-set residual hasn't been.
+
+\begin{whymatters}
+\textbf{Why naive training-residual quantiles fail in practice.} Take a flexible model (random forest, neural net) trained to small training error. Its training residuals are artificially small~--- the model has memorised. Quantiles of these residuals dramatically underestimate the test residuals' spread. A naive ``$\pm$ residual quantile'' band built from training residuals can deliver $50\%$ coverage when you asked for $90\%$. The fix is the symmetric-score discipline below.
+\end{whymatters}
+
+The fix is to construct the score $s(X, Y)$ \emph{symmetrically} with respect to the entire dataset including the test point. The standard implementation is the split-conformal trick: hold out a calibration set $\{(X_i, Y_i)\}_{i=1}^n$ from the training data so the residuals
+\begin{equation*}
+\underbrace{R_i}_{\text{calibration residual}}
+\;=\;
+\underbrace{|Y_i - \hat{\mu}(X_i)|}_{\substack{\hat{\mu}\text{ never saw }(X_i, Y_i)\\\text{during fitting}}}
+\end{equation*}
+are exchangeable with the (unobservable) test residual $R_{n+1} = |Y_{n+1} - \hat{\mu}(X_{n+1})|$. Now Key Idea 1 applies to $R_1, \dots, R_n, R_{n+1}$, and the rank-based machinery delivers
+\begin{equation*}
+\underbrace{\hat{C}(X_{n+1})}_{\substack{\text{prediction interval}}}
+\;=\;
+\Bigl\{\,y :
+\underbrace{|y - \hat{\mu}(X_{n+1})|}_{\text{score at candidate }y}
+\;\leq\;
+\underbrace{\hat{q}}_{\substack{\text{calibration}\\\text{quantile}}}
+\,\Bigr\}.
+\end{equation*}
+Tibshirani's emphasis is that this is not a new construction~--- it is Key Idea 1 \emph{applied to scores rather than raw observations}.
+
+\begin{definitionexplain}
+\textbf{What ``symmetric score'' means.} A score $s(\cdot, \cdot)$ is symmetric with respect to a dataset if its distribution doesn't change when you swap any data point with any other. Concretely: the score must treat the test point and any calibration point identically~--- neither can have been ``used'' more by the fitting procedure than the other. Split conformal achieves this by simply not letting $\hat{\mu}$ see calibration data.
+\end{definitionexplain}
+
+\section{From split to full to classification}\label{s:construction}
+
+The notes derive three families of conformal sets as variations on the same theme:
+
+\paragraph{Split conformal.} The construction above. One fit, fast, loses calibration data.
+
+\paragraph{Full (transductive) conformal.} For each candidate $y \in \mathbb{R}$, refit $\hat{\mu}$ on the augmented dataset $\{(X_1, Y_1), \dots, (X_n, Y_n), (X_{n+1}, y)\}$, compute all $n+1$ residuals (including the augmented one), and include $y$ in the set if its residual is among the smallest $\lceil(n+1)(1-\alpha)\rceil$. Costs $|\mathcal{Y}|$ refits per test point but loses no data. The notes give the elegant \emph{p-value} interpretation: the conformal set is the set of $y$ for which the augmented hypothesis ``$Y_{n+1} = y$'' would not be rejected at level $\alpha$ using a rank-based test.
+
+\begin{algorithmexplain}
+\textbf{Full conformal as a hypothesis test.} For each candidate $y$, ask: ``if the true value were $y$, would the augmented dataset still look exchangeable?'' The rank-based test answers this; the prediction set collects all the $y$ values for which the answer is yes. This recasts CP as inverting a hypothesis test, in the classical Neyman--Pearson sense.
+\end{algorithmexplain}
+
+\paragraph{Classification.} The construction extends to discrete $Y \in \{1, \dots, K\}$ via either likelihood scores $s(x, y) = 1 - \hat{f}_y(x)$ (one minus the predicted softmax probability of the true class) or the cumulative-likelihood APS construction \cite{sadinle2019aps}. RAPS regularises APS to prevent pathological tail-class sets. Both inherit the rank-based coverage guarantee directly~--- the symmetric-score construction is what does the work, the underlying classifier is irrelevant.
+
+\section{Calibration-conditional coverage and the impossibility result}\label{s:result}
+
+Tibshirani dedicates substantial space to two questions that go beyond the marginal-coverage guarantee.
+
+\subsection*{Calibration-set-conditional coverage is Beta-distributed}
+
+The marginal coverage statement averages over both the test point \emph{and} the calibration set draw. On a single fixed calibration set, the realised coverage $C$ is itself a random variable, and Tibshirani derives its distribution explicitly:
+\begin{equation*}
+\underbrace{C}_{\substack{\text{realised coverage on}\\\text{this calibration set}}}
+\;\sim\;
+\text{Beta}\bigl(
+\underbrace{\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 1}}
+,\;
+\underbrace{n+1-\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 2}}
+\bigr).
+\end{equation*}
+This has practical consequences. The marginal coverage is $1 - \alpha$ \emph{averaged} over calibration draws, but the \emph{variance} of $C$ around that mean is non-negligible at small $n$. The rule of thumb that drops out: calibration set size $n \approx 1{,}000$ is required to keep realised coverage within $\pm 1\%$ of nominal with high probability. Smaller calibration sets give wider variability and~--- in the unlucky tail of the Beta~--- realised coverage substantially below nominal.
+
+\begin{theoremexplain}
+\textbf{What the Beta result really says for a deployed system.} You typically have one calibration set in production, not many. The Beta distribution tells you exactly how much your realised coverage can drift away from nominal because of that single-set randomness. At $n = 100$, the standard deviation is $\sim 3\%$, so you could easily be running at $85\%$ coverage when you think you're at $90\%$. At $n = 1000$, the standard deviation is $\sim 1\%$. Calibration-set size matters far more than most practitioners realise.
+\end{theoremexplain}
+
+\subsection*{The X-conditional impossibility (Lei--Wasserman 2014)}
+
+The deeper question is whether the marginal guarantee can be strengthened to \emph{conditional} coverage: $\mathbb{P}(Y \in \hat{C}(X) \mid X = x) \geq 1 - \alpha$ for every $x$. Lei and Wasserman \cite{lei2014distribution} proved this is impossible in the distribution-free setting at non-trivial level: any procedure that achieves conditional coverage uniformly over a non-atomic distribution must produce sets of infinite Lebesgue measure on a set of $X$ of positive probability.
+
+\begin{whymatters}
+\textbf{Why this impossibility is the right negative result to internalise.} If you want a per-individual coverage guarantee, you must give up either distribution-freeness (assume something about $P(Y|X)$) or non-triviality (allow infinite-measure sets, which means giving up). There is no middle ground in the worst case. Every ``approximate conditional coverage'' construction in CP (Mondrian, group-conditional, $\sigma$-scaled, CQR) is an honest engineering compromise around this hard fact, not a workaround.
+\end{whymatters}
+
+Tibshirani's response is to reframe the practical goal as \emph{local adaptivity}. The marginal-coverage guarantee says nothing about \emph{where} the prediction set is wide or narrow; the locally-adaptive variants choose scores so that the set width tracks the conditional spread of $Y \mid X$. The studentised-residual variant (a special case of the $\sigma$-scaled construction of \cite{lei2018distribution}) and CQR \cite{romano2019cqr} are the canonical regression solutions; APS/RAPS \cite{sadinle2019aps} play the same role for classification by varying set size with input difficulty.
+
+\begin{keyinsight}
+\textbf{Local adaptivity as the practical substitute for conditional coverage.} You can't get genuine per-$x$ coverage distribution-free, but you can get \emph{set widths that track the difficulty of each $x$}. A CQR interval at a hard $x$ is wider than at an easy $x$; the marginal coverage is unchanged, but the per-$x$ coverage is approximately equalised. ``Local adaptivity'' is the right thing to aim for in practice.
+\end{keyinsight}
+
+\section{Limits, extensions, and connections}\label{s:discussion}
+
+Tibshirani is careful to delineate what conformal prediction \emph{does not} give you: any meaningful conditional guarantee (the impossibility theorem), validity under distribution shift (handled separately by weighted CP \cite{tibshirani2019weighted}), or validity under temporal dependence (handled by the non-exchangeable construction of \cite{barber2023beyond}, the ACI updates discussed in Zaffran's work, or the EnbPI residual-refresh approach). Each of these limits is the entry point to a separate body of research, and the notes flag the literature as such rather than pretending the basic framework suffices.
+
+\begin{explain}
+\textbf{Where the simple framework stops working.}
+\begin{itemize}
+\item Conditional coverage: ruled out by Lei--Wasserman in general; approximated by local adaptivity.
+\item Distribution shift: handled by weighted CP if shift is known, by ACI / NexCP / EnbPI otherwise.
+\item Time series: exchangeability fails; the four-family taxonomy of Stocker et al.\ organises the remedies.
+\item Missing values: CP-MDA (Zaffran et al.) restores mask-conditional validity.
+\end{itemize}
+Each item is a research literature in its own right.
+\end{explain}
+
+The notes also clarify the relationship to other distribution-free prediction approaches: the Jackknife+ construction \cite{barber2021jackknifeplus} (distribution-free $1 - 2\alpha$ guarantee from leave-one-out residuals) is presented as the natural data-efficient alternative to split conformal, recovering most of the statistical efficiency of full CP at the cost of a single additional logical step (compare each LOO prediction to the test point's potential predictions). Non-exchangeable CP via fixed weights \cite{barber2023beyond} extends the same machinery to settings where the exchangeability of the underlying data fails outright.
+
+For the wiki context: this paper is the statistician's-eye view of the same material covered in much greater applied detail by Angelopoulos and Bates. Read both. The statistician's emphasis on Beta-distributed calibration-conditional coverage, the symmetric-score discipline, and the X-conditional impossibility is missing from the practitioner tutorial and is exactly what a researcher building on CP needs to internalise.
+
+\bibliography{\bib}
+
+\end{document}

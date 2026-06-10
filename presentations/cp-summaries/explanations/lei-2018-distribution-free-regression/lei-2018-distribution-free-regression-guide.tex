@@ -1,0 +1,232 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Lei, G'Sell, Rinaldo, Tibshirani, Wasserman 2018 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+
+\title{Lei, G'Sell, Rinaldo, Tibshirani, Wasserman (2018)\\\textit{Distribution-Free Predictive Inference for Regression}\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+From 2018 to 2022, this was \emph{the} practitioner reference for conformal prediction (CP) in regression. Lei, G'Sell, Rinaldo, Tibshirani, and Wasserman \cite{lei2018distribution} adapted the abstract Vovk--Gammerman--Shafer framework \cite{vovk2005algorithmic} to real-valued regression with a fitted point predictor $\hat{\mu}: \mathcal{X} \to \mathbb{R}$, producing three things the field needed.
+
+\begin{keyinsight}
+\textbf{What this paper unlocked.} Vovk's original CP framework was algorithmic and very general, but it required full conformal prediction~--- refitting the underlying model once per candidate $y$. This is computationally infeasible for any modern regression model. Lei et al.~showed that a much cheaper variant (\emph{split conformal}) preserves the finite-sample marginal coverage guarantee exactly. This single observation turned CP from a theoretical curiosity into a deployable tool.
+\end{keyinsight}
+
+First, a formal proof that \emph{split conformal regression}~--- where the data is partitioned into a training set used to fit $\hat{\mu}$ and a calibration set used to compute residuals~--- enjoys the same finite-sample marginal coverage guarantee as full conformal but at a fraction of the computational cost. Second, the \emph{locally-weighted} (or $\sigma$-scaled) variant, which rescales calibration residuals by an estimate of the conditional spread $\hat{\sigma}(x)$ so that interval width varies with $x$~--- a forerunner of the quantile-regression-based score in CQR \cite{romano2019cqr}. Third, the \emph{LOCO} (leave-one-covariate-out) notion of model-free variable importance, which sits independently of the entire selective-inference / debiased-lasso machinery.
+
+\begin{explain}
+\textbf{Three concrete contributions, in order of practical impact:}
+\begin{enumerate}
+\item Split conformal regression: marginal coverage at the cost of one model fit (instead of one fit per test point).
+\item $\sigma$-scaled (locally adaptive) variant: intervals that widen in noisy regions and narrow in quiet ones.
+\item LOCO: a way to ask ``does feature $j$ matter?'' without committing to any model class.
+\end{enumerate}
+The accompanying R package \texttt{conformalInference} bundled all three and was for years the dominant CP-in-R implementation.
+\end{explain}
+
+\section{Background and terminology}\label{s:background}
+
+A \emph{predictor} $\hat{\mu}: \mathcal{X} \to \mathbb{R}$ is any regression function fitted on training data~--- the paper treats $\hat{\mu}$ as a \emph{black box} and inspects only its outputs. The data are assumed \emph{exchangeable}: any reshuffling produces the same joint distribution. This is strictly weaker than i.i.d., though i.i.d.\ data are exchangeable.
+
+\begin{definitionexplain}
+\textbf{Exchangeability is the only thing the proof needs.} It is strictly weaker than i.i.d.~(which requires both identical distribution AND independence). Practical consequence: any random reshuffling of your data yields an exchangeable sequence, so as long as you train/calibrate/test on randomly-split data you can apply CP. Time-ordered splits break exchangeability~--- a separate body of work (Stocker et al., Zaffran et al.) handles that case.
+\end{definitionexplain}
+
+A \emph{calibration set} is a held-out subset $\{(X_i, Y_i)\}_{i=n_1+1}^{n_1+n_2}$ disjoint from the training set used to fit $\hat{\mu}$. The split-conformal variant produces its cutoff from this set alone, so it never has to refit $\hat{\mu}$ at test time. The \emph{miscoverage level} $\alpha \in (0,1)$ is the maximum acceptable failure probability; setting $\alpha = 0.1$ asks for $90\%$ prediction intervals.
+
+\section{The constructions}\label{s:construction}
+
+\subsection*{Split conformal regression}
+
+Given a training set, a calibration set $\{(X_i, Y_i)\}_{i=1}^{n}$ disjoint from it, a fitted predictor $\hat{\mu}$, and a target miscoverage $\alpha$:
+
+\paragraph{Step 1: residuals on calibration.} Compute $R_i = |Y_i - \hat{\mu}(X_i)|$ for $i = 1, \dots, n$.
+
+\paragraph{Step 2: adjusted-level quantile.}
+\begin{equation*}
+\underbrace{\hat{q}}_{\substack{\text{cutoff that}\\\text{calibrates the interval}}}
+\;=\;
+\text{Quantile}\Bigl(
+\underbrace{\{R_i\}_{i=1}^{n}}_{\substack{\text{absolute residuals}\\\text{on held-out data}}}
+\,;\;
+\underbrace{\tfrac{\lceil (n+1)(1-\alpha)\rceil}{n}}_{\substack{\text{slightly above }1-\alpha;\\\text{the }+1\text{ corrects for the}\\\text{unseen test point}}}
+\Bigr).
+\end{equation*}
+
+\paragraph{Step 3: prediction interval.} For a fresh input $X_{n+1}$,
+\begin{equation*}
+\underbrace{\hat{C}(X_{n+1})}_{\substack{\text{prediction interval}\\\text{handed to the user}}}
+\;=\;
+\Bigl[\,
+\underbrace{\hat{\mu}(X_{n+1}) - \hat{q}}_{\text{lower endpoint}}
+\,,\;
+\underbrace{\hat{\mu}(X_{n+1}) + \hat{q}}_{\text{upper endpoint}}
+\,\Bigr].
+\end{equation*}
+
+\begin{algorithmexplain}
+\textbf{The recipe in three sentences.} Hold out a calibration set. Take absolute residuals on that set. Quantile them at the slightly-adjusted level $\lceil(n+1)(1-\alpha)\rceil/n$ and use that as a $\pm$ band around any prediction. The model $\hat{\mu}$ is never inspected, never refit, never modified~--- it is wrapped from the outside.
+\end{algorithmexplain}
+
+\paragraph{What changed from full conformal.} The full-conformal construction (originally in \cite{vovk2005algorithmic}) requires refitting $\hat{\mu}$ once for every candidate value $y \in \mathbb{R}$ to test whether $y$ belongs to the prediction set. This is computationally infeasible for general regression. The split variant refits $\hat{\mu}$ \emph{zero} extra times: the price is that calibration data must be set aside and cannot be re-used for training.
+
+\subsection*{Locally-weighted ($\sigma$-scaled) conformal regression}
+
+A constant cutoff $\hat{q}$ produces intervals of constant width $2\hat{q}$. This is wasteful when the conditional variance $\text{Var}(Y \mid X = x)$ varies substantially across $\mathcal{X}$~--- a typical setting being heteroscedastic financial returns or seasonal energy demand. The paper proposes rescaling residuals by an estimate $\hat{\sigma}(x)$ of conditional spread (e.g., a separately fitted scale function):
+\begin{equation*}
+\underbrace{R_i}_{\text{score}}
+\;=\;
+\frac{
+\underbrace{|Y_i - \hat{\mu}(X_i)|}_{\text{residual}}
+}{
+\underbrace{\hat{\sigma}(X_i)}_{\substack{\text{local scale}\\\text{at } X_i}}
+}.
+\end{equation*}
+The resulting prediction interval becomes
+\begin{equation*}
+\hat{C}^{\sigma}(X_{n+1})
+\;=\;
+\Bigl[\,
+\hat{\mu}(X_{n+1}) - \underbrace{\hat{q}\,\hat{\sigma}(X_{n+1})}_{\text{locally rescaled half-width}}\,,\;
+\hat{\mu}(X_{n+1}) + \hat{q}\,\hat{\sigma}(X_{n+1})
+\,\Bigr],
+\end{equation*}
+so the width is now $2\hat{q}\,\hat{\sigma}(X_{n+1})$~--- narrow where $\hat{\sigma}$ is small, wide where it is large. CQR \cite{romano2019cqr} later generalises this from a separately fitted scale function to a fully quantile-regression-based predictor.
+
+\begin{keyinsight}
+\textbf{Why $\sigma$-scaling matters.} Constant-width intervals are statistically valid but practically wasteful: they're too wide for easy inputs and too narrow for hard ones. The $\sigma$-scaled variant gets the same marginal coverage guarantee \emph{plus} a degree of conditional adaptivity~--- intervals that look right at each input. CQR generalises the trick: instead of estimating the conditional scale, estimate the conditional quantiles directly.
+\end{keyinsight}
+
+\subsection*{Jackknife predictive intervals}
+
+The paper also analyses the leave-one-out (jackknife) construction: fit $\hat{\mu}_{-i}$ on the data with $(X_i, Y_i)$ held out, compute the LOO residual $R_i^{\text{LOO}} = |Y_i - \hat{\mu}_{-i}(X_i)|$, and form
+\begin{equation*}
+\hat{C}^{\text{jack}}(X_{n+1})
+\;=\;
+\bigl[\,\hat{\mu}(X_{n+1}) - \hat{q}^{\text{LOO}},\; \hat{\mu}(X_{n+1}) + \hat{q}^{\text{LOO}}\,\bigr],
+\end{equation*}
+where $\hat{q}^{\text{LOO}}$ is the quantile of the LOO residuals. The catch: jackknife coverage is established only \emph{asymptotically}, under stability/MSE assumptions on the base estimator $\hat{\mu}$. This is strictly weaker than split conformal's finite-sample distribution-free guarantee. The Jackknife+ construction of Barber, Cand\`es, Ramdas, and Tibshirani \cite{barber2021jackknifeplus} later closes this gap, recovering a finite-sample distribution-free $1 - 2\alpha$ guarantee.
+
+\begin{assumptionexplain}
+\textbf{Why the jackknife is weaker than split conformal here.} Split conformal works at finite $n$, distribution-free, with only exchangeability needed. The plain jackknife adds an \emph{asymptotic} guarantee and requires the base estimator to satisfy a stability condition (small changes in training data $\to$ small changes in predictions). In high-dimensional or modern-ML settings, these stability conditions are usually not verifiable. The takeaway: prefer split conformal unless you have a specific reason for the jackknife.
+\end{assumptionexplain}
+
+\section{The coverage results}\label{s:result}
+
+\begin{thmstar}[Marginal coverage, split conformal]
+If $(X_i, Y_i)_{i=1}^{n+1}$ are exchangeable, then the split-conformal interval $\hat{C}(X_{n+1})$ satisfies
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \hat{C}(X_{n+1})\bigr)}_{\substack{\text{probability the true label}\\\text{lies in the interval}}}
+\;\geq\;
+\underbrace{1 - \alpha}_{\text{nominal level}}.
+\end{equation*}
+The upper bound $1 - \alpha + 1/(n+1)$ holds under the additional assumption that the calibration scores have no ties.
+\end{thmstar}
+
+\begin{theoremexplain}
+\textbf{The shape of the guarantee in this paper:}
+\begin{itemize}
+\item Finite-sample (works for any $n$, not just large).
+\item Distribution-free (no assumption on the law of $(X, Y)$).
+\item Model-agnostic (no assumption on $\hat{\mu}$).
+\item Marginal (averaged over the joint draw of test point and calibration set).
+\item Only \emph{lower}-bounded: actual coverage is between $1 - \alpha$ and $1 - \alpha + 1/(n+1)$.
+\end{itemize}
+\end{theoremexplain}
+
+\paragraph{Proof intuition.} Under exchangeability of $(X_i, Y_i)_{i=1}^{n+1}$, the rank of the unobserved test residual $|Y_{n+1} - \hat{\mu}(X_{n+1})|$ among the $n+1$ residuals (the $n$ calibration residuals plus the test residual) is uniformly distributed on $\{1, \dots, n+1\}$. Setting the cutoff at the $\lceil(n+1)(1-\alpha)\rceil$-th smallest calibration residual exactly bounds the probability that the test rank exceeds the cutoff. The $\sigma$-scaled variant has the same proof: rescaling preserves exchangeability of the scores.
+
+\paragraph{Oracle bounds.} The paper goes further than marginal coverage. Under stability assumptions on $\hat{\mu}$, Theorems 3.2 and 3.3 of \cite{lei2018distribution} bound the symmetric difference between the conformal interval and the \emph{oracle band} (the narrowest band achieving the same coverage at the population level). Under consistency of $\hat{\mu}$ (Theorems 3.4 and 3.5), the conformal interval approaches the \emph{super-oracle} (the narrowest band achieving conditional coverage). These results explain why the locally-weighted variant works in practice: when $\hat{\sigma}$ is consistent for the conditional spread, the $\sigma$-scaled interval converges to the oracle locally adaptive band.
+
+\begin{explain}
+\textbf{What the oracle bounds give you that the basic coverage theorem doesn't.} Marginal coverage says the interval is valid \emph{on average}. The oracle bounds say something stronger: when the base model is well-fit, the conformal interval is also \emph{narrow}~--- close to the narrowest possible interval that achieves the same coverage. So a well-calibrated $\sigma$-estimator yields intervals that are not just valid but also close-to-optimal in width.
+\end{explain}
+
+\paragraph{Rank-One-Out (ROO).} A subsidiary contribution: an extension that produces valid \emph{in-sample} prediction intervals (intervals around each training point's own label) at essentially the cost of split conformal. Useful for diagnostics and residual analysis.
+
+\section{LOCO: model-free variable importance}\label{s:loco}
+
+The paper additionally introduces \emph{LOCO} (leave-one-covariate-out) as a distribution-free notion of variable importance. For covariate $j$, refit $\hat{\mu}$ on the dataset with $X_j$ removed; the increase in prediction error is the LOCO importance of $j$. The construction is intentionally model-free: it requires neither linearity, sparsity, nor exchangeability beyond what conformal coverage already needs. LOCO inference exploits the same rank-based ideas as the prediction-set construction, producing valid finite-sample confidence intervals for the importance score under no further assumptions on $\hat{\mu}$.
+
+\begin{keyinsight}
+\textbf{LOCO is the spiritual ancestor of permutation importance and SHAP.} It asks ``how much worse does my model do if I throw away feature $j$?''~--- and gives a distribution-free confidence interval for that answer. Unlike SHAP (which decomposes a fitted model's predictions) or selective inference (which requires linearity assumptions), LOCO works for any black-box $\hat{\mu}$ and any data distribution.
+\end{keyinsight}
+
+\section{Limits, extensions, and connections}\label{s:discussion}
+
+The construction has the same fundamental limit as all distribution-free CP: marginal coverage is not conditional coverage. Lei and Wasserman \cite{lei2014distribution} established the formal X-conditional impossibility result in 2014: distribution-free conditional coverage at non-trivial level is achievable only by sets of infinite Lebesgue measure. The paper's locally-weighted variant is an \emph{approximate} approach to this problem~--- when $\hat{\sigma}$ is well-estimated, the marginal-coverage interval is also approximately conditionally valid (the formal sense is the super-oracle bound).
+
+\begin{whymatters}
+\textbf{The honest limit you should know about.} CP cannot give you \emph{per-point} coverage guarantees in the distribution-free setting~--- the Lei-Wasserman result rules it out. The $\sigma$-scaled variant is the practitioner's best honest answer: it tracks the conditional spread approximately, so the marginal-coverage interval is also \emph{approximately} conditionally valid when your scale estimator is good. If you need genuine per-point guarantees, you must give up distribution-freeness and assume something specific about $P(Y \mid X)$.
+\end{whymatters}
+
+The jackknife analysis identifies a weakness that the field would spend the next three years closing. The Jackknife+ paper \cite{barber2021jackknifeplus} proves a finite-sample distribution-free $1 - 2\alpha$ guarantee using a comparison-matrix (tournament) argument, and extends to $K$-fold CV+. The same authors later generalise CP to non-exchangeable data via fixed weights, building on the weighted-CP construction of Tibshirani et al.\ \cite{tibshirani2019weighted}. The lineage from this paper through these extensions is recognisable.
+
+The other reader's guides in this collection extend the foundation in specific directions. Angelopoulos and Bates \cite{angelopoulos2022gentle} is the modern ML-practitioner companion to this paper. Romano, Patterson, and Cand\`es \cite{romano2019cqr} replace the $\sigma$-scaled residual with a full quantile-regression score, producing CQR. The Tibshirani 2023 CMU lecture notes give the statistician's-eye view of the same construction, with explicit Beta-distributed calibration-conditional coverage analysis and a careful presentation of the Lei--Wasserman impossibility.
+
+\bibliography{\bib}
+
+\end{document}

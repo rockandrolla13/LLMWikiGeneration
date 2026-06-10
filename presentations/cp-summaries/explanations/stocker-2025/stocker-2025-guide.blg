@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: stocker-2025-guide.aux
+The style file: paper.bst
+Database file #1: paper.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 9 entries,
+            3145 wiz_defined-function locations,
+            610 strings with 5415 characters,
+and the built_in function-call counts, 6045 in all, are:
+= -- 475
+> -- 417
+< -- 0
++ -- 299
+- -- 106
+* -- 386
+:= -- 947
+add.period$ -- 45
+call.type$ -- 9
+change.case$ -- 71
+chr.to.int$ -- 10
+cite$ -- 9
+duplicate$ -- 402
+empty$ -- 351
+format.name$ -- 132
+if$ -- 1176
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 74
+newline$ -- 51
+num.names$ -- 36
+pop$ -- 261
+preamble$ -- 1
+purify$ -- 65
+quote$ -- 0
+skip$ -- 214
+stack$ -- 0
+substring$ -- 103
+swap$ -- 166
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 81
+warning$ -- 0
+while$ -- 36
+width$ -- 0
+write$ -- 119

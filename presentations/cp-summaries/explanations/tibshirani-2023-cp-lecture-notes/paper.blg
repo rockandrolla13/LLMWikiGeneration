@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: paper.bst
+Database file #1: paper.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty booktitle in sadinle2019aps
+You've used 10 entries,
+            3145 wiz_defined-function locations,
+            612 strings with 5437 characters,
+and the built_in function-call counts, 6517 in all, are:
+= -- 510
+> -- 453
+< -- 0
++ -- 316
+- -- 116
+* -- 418
+:= -- 1029
+add.period$ -- 48
+call.type$ -- 10
+change.case$ -- 76
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 426
+empty$ -- 377
+format.name$ -- 142
+if$ -- 1266
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 81
+newline$ -- 55
+num.names$ -- 40
+pop$ -- 285
+preamble$ -- 1
+purify$ -- 71
+quote$ -- 0
+skip$ -- 230
+stack$ -- 0
+substring$ -- 114
+swap$ -- 173
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 87
+warning$ -- 1
+while$ -- 40
+width$ -- 0
+write$ -- 128
+(There was 1 warning)

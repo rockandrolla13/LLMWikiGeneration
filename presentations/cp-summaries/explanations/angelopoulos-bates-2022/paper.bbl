@@ -1,0 +1,50 @@
+\begin{thebibliography}{7}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Angelopoulos and Bates(2022)}]{angelopoulos2022gentle}
+Angelopoulos, Anastasios~N. and Stephen Bates. 2022.
+\newblock \enquote{A Gentle Introduction to Conformal Prediction and
+  Distribution-Free Uncertainty Quantification.}
+\newblock \emph{Foundations and Trends in Machine Learning}.
+\newblock ArXiv:2107.07511.
+
+\bibitem[{Angelopoulos et~al.(2024)Angelopoulos, Bates, Fisch, Lei, and
+  Schuster}]{angelopoulos2024conformal}
+Angelopoulos, Anastasios~N.\, Stephen Bates, Adam Fisch, Lihua Lei, and Tal
+  Schuster. 2024.
+\newblock \enquote{Conformal Risk Control.}
+\newblock \emph{International Conference on Learning Representations}.
+
+\bibitem[{Barber et~al.(2021)Barber, Cand{\`e}s, Ramdas, and
+  Tibshirani}]{barber2021jackknifeplus}
+Barber, Rina~Foygel, Emmanuel~J.\ Cand{\`e}s, Aaditya Ramdas, and Ryan~J.
+  Tibshirani. 2021.
+\newblock \enquote{Predictive Inference with the Jackknife+.}
+\newblock \emph{Annals of Statistics}.
+
+\bibitem[{Romano, Patterson, and Cand{\`e}s(2019)}]{romano2019cqr}
+Romano, Yaniv, Evan Patterson, and Emmanuel Cand{\`e}s. 2019.
+\newblock \enquote{Conformalized Quantile Regression.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Sadinle, Lei, and Wasserman(2019)}]{sadinle2019aps}
+Sadinle, Mauricio, Jing Lei, and Larry Wasserman. 2019.
+\newblock \enquote{Least Ambiguous Set-Valued Classifiers with Bounded Error
+  Levels.}
+\newblock \emph{Journal of the American Statistical Association}.
+
+\bibitem[{Tibshirani et~al.(2019)Tibshirani, Barber, Cand{\`e}s, and
+  Ramdas}]{tibshirani2019weighted}
+Tibshirani, Ryan~J.\, Rina~Foygel Barber, Emmanuel~J.\ Cand{\`e}s, and Aaditya
+  Ramdas. 2019.
+\newblock \enquote{Conformal Prediction Under Covariate Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Vovk, Gammerman, and Shafer(2005)}]{vovk2005algorithmic}
+Vovk, Vladimir, Alexander Gammerman, and Glenn Shafer. 2005.
+\newblock \emph{Algorithmic Learning in a Random World}.
+\newblock Springer.
+
+\end{thebibliography}

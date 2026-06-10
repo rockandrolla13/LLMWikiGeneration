@@ -47,6 +47,10 @@ from .frontmatter import (
     compute_file_hash,
     extract_wikilinks,
     normalize_page_id,
+    # Duplicate detection
+    DuplicateCheckResult,
+    check_duplicate,
+    format_duplicate_result,
 )
 from .derived import (
     compile_index,
@@ -181,6 +185,10 @@ __all__ = [
     "compute_file_hash",
     "extract_wikilinks",
     "normalize_page_id",
+    # Duplicate Detection
+    "DuplicateCheckResult",
+    "check_duplicate",
+    "format_duplicate_result",
     # Core protocols (extensibility)
     "Registry",
     "VerificationCheck",

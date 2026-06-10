@@ -1,0 +1,63 @@
+\begin{thebibliography}{9}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Angelopoulos and Bates(2022)}]{angelopoulos2022gentle}
+Angelopoulos, Anastasios~N.\ and Stephen Bates. 2022.
+\newblock \enquote{A Gentle Introduction to Conformal Prediction and
+  Distribution-Free Uncertainty Quantification.}
+\newblock \emph{Foundations and Trends in Machine Learning}.
+
+\bibitem[{Barber et~al.(2023)Barber, Cand{\`e}s, Ramdas, and
+  Tibshirani}]{barber2023beyond}
+Barber, Rina~Foygel, Emmanuel~J.\ Cand{\`e}s, Aaditya Ramdas, and Ryan~J.
+  Tibshirani. 2023.
+\newblock \enquote{Conformal Prediction Beyond Exchangeability.}
+\newblock \emph{Annals of Statistics}.
+
+\bibitem[{Gibbs and Cand{\`e}s(2021)}]{gibbs2021aci}
+Gibbs, Isaac and Emmanuel Cand{\`e}s. 2021.
+\newblock \enquote{Adaptive Conformal Inference Under Distribution Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Oliveira et~al.(2024)Oliveira, Orenstein, Ramos, and
+  Romano}]{oliveira2024split}
+Oliveira, Roberto~I.\, Paulo Orenstein, Thiago Ramos, and Jo{\~a}o~V. Romano.
+  2024.
+\newblock \enquote{Split Conformal Prediction and Non-Exchangeable Data.}
+\newblock \emph{Journal of Machine Learning Research}.
+
+\bibitem[{Stocker et~al.(2025)Stocker, Ma{\l}gorzewicz, Fontana, and
+  Ben~Taieb}]{stocker2025gentle}
+Stocker, M.\, Wiktoria Ma{\l}gorzewicz, Matteo Fontana, and Souhaib Ben~Taieb.
+  2025.
+\newblock \enquote{A Gentle Introduction to Conformal Time Series Forecasting.}
+\newblock \emph{arXiv preprint arXiv:2511.13608}.
+
+\bibitem[{Tibshirani et~al.(2019)Tibshirani, Barber, Cand{\`e}s, and
+  Ramdas}]{tibshirani2019weighted}
+Tibshirani, Ryan~J.\, Rina~Foygel Barber, Emmanuel~J.\ Cand{\`e}s, and Aaditya
+  Ramdas. 2019.
+\newblock \enquote{Conformal Prediction Under Covariate Shift.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Xu and Xie(2023{\natexlab{a}})}]{xu2023enbpi}
+Xu, Chen and Yao Xie. 2023{\natexlab{a}}.
+\newblock \enquote{Conformal Prediction for Time Series.}
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}.
+
+\bibitem[{Xu and Xie(2023{\natexlab{b}})}]{xu2022spci}
+Xu, Chen and Yao Xie. 2023{\natexlab{b}}.
+\newblock \enquote{Sequential Predictive Conformal Inference for Time Series.}
+\newblock In \emph{International Conference on Machine Learning}.
+
+\bibitem[{Zaffran et~al.(2022)Zaffran, Dieuleveut, F{\'e}ron, Goude, and
+  Josse}]{zaffran2022aci}
+Zaffran, Margaux, Aymeric Dieuleveut, Olivier F{\'e}ron, Yannig Goude, and
+  Julie Josse. 2022.
+\newblock \enquote{Adaptive Conformal Predictions for Time Series.}
+\newblock \emph{arXiv preprint arXiv:2202.07282}.
+
+\end{thebibliography}

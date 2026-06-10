@@ -2,6 +2,18 @@
 
 ---
 
+## ⚠️ CRITICAL RULES
+
+**1. Do NOT create or change any code unless Andreas confirms clearly.**
+
+Ask first. Wait for explicit approval before writing, editing, or creating files.
+
+**2. No fabricated details.**
+
+Never invent citations, page numbers, equation forms, theorem statements, function names, file paths, API signatures, dates, author affiliations, or any other factual detail. If a fact is not present in source material (wiki pages, files in the repo, web fetch, prior conversation), say so explicitly rather than guess. Flag uncertainty inline (e.g., "wiki summary is thin here; supplementing from paper-level knowledge — verify against the PDF before relying on this").
+
+---
+
 ## SESSION STARTUP - DO THIS FIRST
 
 **At the start of EVERY session, Claude MUST:**

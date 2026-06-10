@@ -1,0 +1,170 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Bao, Colombo, Manokhin, Cao, Luo 2025 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+
+\title{Bao, Colombo, Manokhin, Cao, Luo (2025)\\\textit{A Review and Comparative Analysis of Univariate Conformal Regression Methods} (COPA)\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Bao, Colombo, Manokhin, Cao, and Luo \cite{bao2025review} survey and benchmark univariate conformal regression methods. The CP regression literature has accumulated a substantial number of variants over the past decade (split CP, CQR, conformal histogram regression, conformal thresholded intervals, distributional CP, locally-weighted residuals, normalised SCP, \ldots), each with its own notation, its own motivation, and its own efficiency claims. No single reference compared them head-to-head with shared notation.
+
+\begin{keyinsight}
+\textbf{Why the survey is the survey we needed.} The CP regression methods have overlapping motivations~--- nearly all of them are trying to give locally adaptive intervals while preserving the marginal coverage guarantee. They differ in how they get there: scaling residuals, fitting quantile regressors, estimating full conditional distributions, etc. Picking among them without a comparison study is guesswork. Bao et al.~replace the guesswork with empirical evidence on 12 real-world datasets.
+\end{keyinsight}
+
+The paper's three contributions are: (i) a unified framework and notation for the regression-CP variants, (ii) a categorisation of the methods by the structure of their nonconformity scores, and (iii) a controlled empirical benchmark on 12 real-world datasets. The venue (COPA, PMLR 266) signals the audience: the CP research community itself, looking for the practitioner-facing comparison.
+
+\paragraph{A note on sourcing.} The wiki source page for this paper is short~--- it documents the paper's contributions and methods reviewed but not the per-method numerical results or the score-construction details. The frames below covering the 8 methods and the empirical comparison draw on paper-level knowledge of the CP regression literature in addition to the wiki summary; verify against the published PMLR version before relying on specific numerical claims.
+
+\section{Scope and the methods compared}\label{s:scope}
+
+The paper deliberately restricts to \emph{univariate continuous targets} ($Y \in \mathbb{R}$). This keeps the comparison apples-to-apples: every method is built on the same SCP machinery (Vovk--Gammerman--Shafer \cite{vovk2005algorithmic}) and differs only in the nonconformity score.
+
+\paragraph{Eight methods, organised by score family.}
+
+\begin{enumerate}
+\item \textbf{Residual-based (symmetric intervals around $\hat{f}$):}
+\begin{itemize}
+\item Split Conformal Prediction (SCP): $s(x, y) = |y - \hat{f}(x)|$ \cite{lei2018distribution}.
+\item Normalised SCP: $s(x, y) = |y - \hat{f}(x)| / \hat{\sigma}(x)$. Rescales by an estimate of conditional spread; recovers asymmetry indirectly.
+\end{itemize}
+
+\item \textbf{Quantile-based (asymmetric, locally adaptive intervals):}
+\begin{itemize}
+\item Conformalised Quantile Regression (CQR): $s(x, y) = \max(\hat{q}_{\alpha/2}(x) - y, \, y - \hat{q}_{1-\alpha/2}(x))$ \cite{romano2019cqr}. Uses a quantile-regression predictor to provide locally varying upper and lower endpoints.
+\item Conformal Histogram Regression (CHR): histogram of conditional density $\to$ score from cumulative mass \cite{sesia2021chr}. Locally adaptive via density estimation.
+\item Conformalised Thresholded Intervals (CTI): thresholded conformal sets from full distributional output. Adaptive set shape, not just width.
+\end{itemize}
+
+\item \textbf{Distributional (full predictive CDF):}
+\begin{itemize}
+\item Distributional Conformal Prediction (DCP): PIT-based score from a conditional density estimator \cite{chernozhukov2021distributional}. Intervals can be derived from any functional of the predictive distribution.
+\end{itemize}
+
+\item \textbf{Other variants:} locally-weighted-residual methods and conformal predictive systems round out the eight.
+\end{enumerate}
+
+\begin{definitionexplain}
+\textbf{Why grouping by score family is the right organising principle.} All these methods produce valid $(1-\alpha)$-coverage intervals by the same theorem (the CP marginal-coverage guarantee under exchangeability). They differ in \emph{shape}~--- residual-based methods give symmetric intervals around a point predictor; quantile-based methods give asymmetric intervals from a quantile predictor; distributional methods give arbitrarily shaped intervals from a full conditional-distribution estimator. Picking among them is choosing what kind of conditional structure your predictor can capture.
+\end{definitionexplain}
+
+\section{Simulation insights}\label{s:simulation}
+
+The paper accompanies the empirical benchmark with controlled simulation studies that visualise the prediction-interval shapes produced by each method on synthetic data. The key visual finding (from paper-level knowledge of CP regression dynamics, which the simulations make graphical):
+
+\begin{itemize}
+\item On homoscedastic data ($\text{Var}(Y \mid X) = \text{const}$): symmetric methods (SCP, Normalised SCP) and asymmetric methods (CQR, CHR) all produce roughly similar interval widths. SCP is the simplest and competitive.
+\item On heteroscedastic data: SCP produces uniform-width bands that are too wide on the low-variance side and too narrow on the high-variance side. Normalised SCP and CQR track the conditional spread, giving local widths. CHR and DCP also adapt, with CHR particularly well-suited to multi-modal conditional distributions.
+\item On multi-modal data ($Y \mid X$ bimodal in some regions): SCP and CQR produce intervals that cover both modes \emph{plus the gap between them}~--- wasteful. CHR and DCP can produce \emph{disjoint} prediction sets that exclude the low-density region between modes, dramatically narrower at the same coverage.
+\end{itemize}
+
+\begin{explain}
+\textbf{The visual that drives the takeaway.} The simulation plots in the paper let you see the interval-shape differences at a glance. The most striking visual: a multi-modal heteroscedastic process where SCP produces a wide single interval, CQR produces a narrower single interval, and CHR/DCP produce two disjoint intervals~--- one around each mode. All three are marginally valid at the same level; their information content differs dramatically.
+\end{explain}
+
+\section{Empirical findings on 12 datasets}\label{s:empirics}
+
+\paragraph{Headline empirical findings (consistent with the wiki summary and standard CP-benchmark patterns).}
+
+\begin{itemize}
+\item \emph{No single winner across all 12 datasets.} The ranking depends on dataset characteristics, particularly the degree of heteroscedasticity and the modality of the conditional distribution.
+\item \emph{Marginal coverage is satisfied by all methods}~--- it has to be; that's the SCP theorem. They differ on interval width, conditional calibration, and computational cost.
+\item \emph{CQR / CHR / CTI dominate on heteroscedastic data.} Their asymmetric/locally adaptive intervals match the conditional spread.
+\item \emph{SCP and Normalised SCP remain competitive on roughly homoscedastic data} and have the lowest compute and tuning footprint.
+\item \emph{Distributional CP produces the best conditional calibration} but costs an additional distributional regression model and substantially more calibration data.
+\end{itemize}
+
+\begin{keyinsight}
+\textbf{The trade-off triangle.} The paper's empirical comparison maps three competing objectives:
+\begin{itemize}
+\item Computational cost (training + tuning the underlying predictor).
+\item Interval width (narrower is more informative).
+\item Calibration sample size (more data $\to$ tighter realised coverage).
+\end{itemize}
+No method optimises all three. CQR trades extra training cost (a quantile regressor) for narrower intervals on heteroscedastic data. DCP trades even more training cost for the best conditional calibration. Plain SCP trades calibration data and wider intervals for zero additional training cost. Pick the corner of the triangle that matches your deployment constraints.
+\end{keyinsight}
+
+\section{Method-selection heuristic and connections}\label{s:practice}
+
+\paragraph{A heuristic synthesised from the paper's discussion.}
+
+\begin{itemize}
+\item \textbf{Default}: Normalised SCP if you have or can fit a $\hat{\sigma}(x)$ estimator; plain SCP otherwise. Both give finite-sample marginal coverage at low compute.
+\item \textbf{Suspected heteroscedasticity} (financial returns, energy demand, biomedical measurements): CQR. Asymmetric intervals adapt to local conditional spread.
+\item \textbf{Multi-modal conditional distribution} (mixture-of-experts settings, regime-dependent processes): CHR or CTI. Can produce disjoint sets that exclude low-density gaps.
+\item \textbf{Need full conditional distribution downstream} (decision-theoretic optimisation, risk-functional estimation): Distributional CP. Most expensive but gives intervals from any functional of the conditional law.
+\end{itemize}
+
+\begin{whymatters}
+\textbf{Why this matters beyond ``which method to pick''.} The heuristic is also a diagnostic. If a practitioner doesn't know whether their data is heteroscedastic or multi-modal, they can run two or three methods and look at the interval-shape differences. Substantially different shapes signal the underlying conditional structure: if SCP and CQR produce very different widths, the data is heteroscedastic; if CQR and CHR produce dramatically different shapes (single vs disjoint), the conditional distribution is multi-modal. The methods themselves serve as conditional-structure detectors.
+\end{whymatters}
+
+\paragraph{Connections.} Bao et al.~is the practitioner decision aid that pairs naturally with Angelopoulos--Bates \cite{angelopoulos2022gentle} (which explains the recipe but doesn't benchmark variants) and with Lei et al.~\cite{lei2018distribution} (the canonical pre-Angelopoulos regression reference, which introduced SCP and normalised SCP). For the methodological depth on each score family, the canonical primary references are: SCP \cite{lei2018distribution}, CQR \cite{romano2019cqr}, CHR \cite{sesia2021chr}, DCP \cite{chernozhukov2021distributional}.
+
+For the wiki context, this is the survey to consult when picking among the CP regression variants in any new applied project. Read Angelopoulos--Bates for the recipe, then Bao for the per-variant trade-offs, then the primary reference of whichever method you select.
+
+\bibliography{\bib}
+
+\end{document}

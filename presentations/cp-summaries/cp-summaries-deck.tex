@@ -1,0 +1,392 @@
+\documentclass[11pt, aspectratio=169, xcolor={dvipsnames}, usepdftitle=false]{beamer}
+\usepackage{presentation}
+\hypersetup{pdfpagemode=UseNone, hidelinks, pdfdisplaydoctitle=true,%
+%
+pdftitle={Conformal Prediction -- Paper Summaries}}
+
+\newcommand{\pdf}{figures.pdf}
+
+\title{Conformal Prediction -- Paper Summaries}
+\author{Andreas Koukorinis}
+\date{}
+
+% \paperurl{https://github.com/pmichaillat/latex-presentation}
+
+\begin{document}
+
+% ================================================================
+% PAPER 1 -- Angelopoulos & Bates (2022)
+% ================================================================
+\begin{frame}
+\frametitle{Angelopoulos \& Bates (2022) -- A Gentle Introduction to CP}
+\textsb{Foundations and Trends in ML} (arXiv:2107.07511). \al{De-facto practitioner reference.}
+\begin{itemize}
+\item Thesis: any black-box $\hat{f}$ + an exchangeable calibration set + a chosen \al{nonconformity score} $s(x,y)$ yields finite-sample valid prediction sets, \alg{no distributional assumptions}.
+\item Three layers: \alg{recipe} (4 steps) \quad+\quad \alg{score catalogue} (APS, RAPS, CQR, conformal Bayes, \ldots) \quad+\quad \alg{extension survey} (risk control, weighted CP, Jackknife+, group-conditional, \ldots).
+\item \al{Every method ships with a Python notebook}~--- the engineering hook that drove adoption.
+\item Authors: Anastasios Angelopoulos (UC Berkeley), Stephen Bates (MIT).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Angelopoulos--Bates: the four-step recipe in formulas}
+\begin{enumerate}
+\item Heuristic uncertainty: any predictor $\hat{f}$.
+\item Nonconformity score $s(x, y) \in \mathbb{R}$.
+\item Calibration quantile:
+\begin{equation*}
+\underbrace{\hat{q}}_{\text{cutoff}}
+\;=\;
+\text{Quantile}\Bigl(
+\underbrace{\{s_i\}_{i=1}^n}_{\text{cal.\ scores}}
+\,;\;
+\underbrace{\tfrac{\lceil (n+1)(1-\alpha)\rceil}{n}}_{\substack{\text{slightly above }1-\alpha;\\\text{+1 corrects for test point}}}
+\Bigr).
+\end{equation*}
+\item Prediction set $\mathcal{C}(X_{n+1}) = \{y : s(X_{n+1}, y) \leq \hat{q}\}$.
+\end{enumerate}
+\al{Score design is the user's choice}; the \alg{coverage guarantee survives any} choice.
+\end{frame}
+
+\begin{frame}
+\frametitle{Angelopoulos--Bates: coverage theorem + Beta corollary}
+\begin{theorem}[Marginal coverage]
+$(X_i, Y_i)_{i=1}^{n+1}$ exchangeable $\Rightarrow$ $\mathbb{P}(Y_{n+1} \in \mathcal{C}(X_{n+1})) \in [1{-}\alpha,\, 1{-}\alpha + \tfrac{1}{n+1}]$.
+\end{theorem}
+\begin{itemize}
+\item Realised coverage on a \emph{fixed} calibration set:
+\begin{equation*}
+\underbrace{C}_{\substack{\text{realised}\\\text{coverage}}}
+\;\sim\;
+\text{Beta}\bigl(
+\underbrace{\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 1}},\;
+\underbrace{n+1-\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 2}}
+\bigr).
+\end{equation*}
+\item \al{Rule of thumb:} $n \approx 1{,}000$ keeps realised coverage within $\pm 1\%$ of nominal.
+\item \al{Diagnostics:} size-stratified and feature-stratified coverage as proxies for X-conditional validity.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Angelopoulos--Bates: score catalogue at a glance}
+\begin{itemize}
+\item Classification: $s = 1 - \hat{f}_y(x)$ (fixed sets) \quad/\quad APS (ranked cumulative softmax, \al{input-difficulty adaptive}) \quad/\quad RAPS (regularised APS, \alg{prevents pathological tail sets}).
+\item Regression: $s = |y - \hat{f}(x)|$ (constant width) \quad/\quad $s = |y - \hat{f}(x)|/\hat{\sigma}(x)$ (\al{$\sigma$-scaled}) \quad/\quad CQR:
+\begin{equation*}
+s(x, y) = \max\bigl(\hat{q}_{\alpha/2}(x) - y,\; y - \hat{q}_{1-\alpha/2}(x)\bigr).
+\end{equation*}
+\item Bayes: $s = -\log p_\theta(y \mid x)$ (\al{conformalises any posterior predictive}).
+\item Distributional: $s = $ PIT score (intervals from any functional of the predictive distribution).
+\item All four: \alg{same theorem}, different set shapes.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Angelopoulos--Bates: beyond coverage + connections}
+\begin{itemize}
+\item \al{Conformal Risk Control}: replace coverage with any \alg{monotone} loss $L(\lambda) \in [0,1]$; tune $\lambda$ so $\mathbb{E}[L] \leq \alpha$. Generalises FNR, FDR, mask coverage.
+\item \al{Learn-Then-Test}: extends risk control to \alr{non-monotone} risks via multiple testing on a grid of $\lambda$.
+\item \al{Approximate conditional coverage}: class-conditional, group-balanced, Mondrian CP.
+\item \al{Compute--statistics spectrum:} Full CP (exact, $O(|\mathcal{Y}|)$ refits) $\to$ Cross/CV+ ($K$-fold) $\to$ Jackknife+ ($1{-}2\alpha$) $\to$ Split CP (one fit, loses cal.\ data).
+\item \al{Reading prerequisite for} Stocker (time-series companion) and Dieuleveut--Zaffran (advanced tutorial).
+\end{itemize}
+\end{frame}
+
+% ================================================================
+% PAPER 2 -- Dieuleveut & Zaffran (2025)
+% ================================================================
+\begin{frame}
+\frametitle{Dieuleveut \& Zaffran (2025) -- Hi! PARIS tutorial (91 slides)}
+Joint UAI/ICML tutorial, delivered Hi!~PARIS Summer School (\'Ecole Polytechnique, July 2025). \al{Cleanest entry to the Zaffran research line.}
+\begin{itemize}
+\item Pedagogical arc: motivation $\to$ SCP regression+classification $\to$ CQR/APS $\to$ \al{coverage hierarchy} $\to$ Full CP \& Jackknife+ $\to$ \alr{breaking exchangeability} $\to$ applied case studies.
+\item \al{Distinguishing feature vs.\ Angelopoulos--Bates:} explicit mathematical treatment of \alg{when CP coverage really holds}~--- conditional impossibility, PAC bounds, online-update guarantees.
+\item Pairs with Zaffran PhD (2024) for full proofs and Angelopoulos--Bates for the i.i.d.\ recipe.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dieuleveut--Zaffran: the quantile lemma as workhorse}
+\begin{lemma}[Quantile lemma, paraphrased]
+$S_1, \dots, S_{n+1}$ exchangeable $\Rightarrow$ $\mathbb{P}(S_{n+1} \leq \hat{q}_\beta) \geq \beta$ where $\hat{q}_\beta$ is the $\lceil (n+1)\beta\rceil$-th smallest of $S_1, \dots, S_n$.
+\end{lemma}
+\begin{itemize}
+\item \al{Single technical workhorse} behind every CP variant.
+\item Apply to SCP scores $\to$ split conformal coverage.
+\item Apply to augmented scores $\to$ full conformal coverage.
+\item Apply to LOO residuals + comparison-matrix $\to$ \alg{Jackknife+} $\geq 1 - 2\alpha$.
+\item Apply to reweighted scores $\to$ \alg{weighted CP under covariate shift}.
+\end{itemize}
+\al{Once you see the lemma, every variant looks like a corollary, not a separate invention.}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dieuleveut--Zaffran: the coverage hierarchy (weakest to strongest)}
+\begin{enumerate}
+\item \alg{Marginal:} $\mathbb{P}(Y \in \hat{C}(X)) \geq 1 - \alpha$ (over joint draw of test \emph{and} cal.\ set).
+\item \al{Calibration-conditional} (Vovk 2012, Bian--Barber 2023): for fixed cal.\ set, $\mathbb{P}_{\text{test}}(Y \in \hat{C}(X)) \geq 1 - \alpha - \varepsilon(n, \delta)$ w.p.\ $\geq 1 - \delta$.
+\item \alr{X-conditional:} $\mathbb{P}(Y \in \hat{C}(X) \mid X = x) \geq 1 - \alpha\ \forall x$.
+\end{enumerate}
+\begin{lemma}[Vovk impossibility, paraphrased]
+Distribution-free X-conditional coverage at non-trivial level $\Rightarrow$ \alr{sets of infinite Lebesgue measure} on positive-probability subsets.
+\end{lemma}
+\al{Approximate substitutes:} class-/group-conditional CP, local adaptivity (CQR), asymptotic conditional via consistent QR.
+\end{frame}
+
+\begin{frame}
+\frametitle{Dieuleveut--Zaffran: breaking exchangeability + Jackknife+}
+\begin{itemize}
+\item \al{Jackknife+} (Barber--Cand\`es--Ramdas--Tibshirani 2021):
+\begin{equation*}
+\mathbb{P}\bigl(Y_{n+1} \in \mathcal{C}^{\text{J+}}(X_{n+1})\bigr) \geq 1 - 2\alpha
+\quad
+\underbrace{\text{(distribution-free, no split)}}_{\text{LOO + comparison-matrix argument}}
+\end{equation*}
+\item \al{Known covariate shift} (Tibshirani et al.\ 2019): reweight scores by $w(x) = dQ_X(x)/dP_X(x)$; marginal coverage on $Q$ at cost of effective-sample-size penalty.
+\item \al{Time series, online} (Gibbs--Cand\`es 2021): \textsb{ACI} updates $\alpha_t$ via gradient rule; long-run miscoverage $\to \alpha$ for \emph{any} sequence.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dieuleveut--Zaffran: applied case studies + frontier}
+\begin{itemize}
+\item \al{Healthcare image-to-image regression} (Angelopoulos et al.\ 2022): conformal masks around pixel-wise predictions for medical imaging; per-pixel coverage gives clinicians defensible uncertainty.
+\item \al{French day-ahead electricity prices:} ACI handles spike-driven distribution drift better than rolling SCP; 2021 European energy crisis as in-sample stress test.
+\item \al{Recent Dieuleveut-group results:}
+\begin{itemize}
+\item \textsb{CP-MDA-Nested} (Zaffran--Josse--Romano--Dieuleveut 2024): mask-conditional validity under MCAR/MAR missingness.
+\item \textsb{Valid Selection among Conformal Sets}: test-time set choice preserving coverage.
+\end{itemize}
+\item \al{Outlook:} selective inference + FDR control, beyond-indicator risk control, aggregation of predictive sets (Gasparin--Ramdas).
+\end{itemize}
+\end{frame}
+
+% ================================================================
+% PAPER 3 -- Stocker et al. (2025)
+% ================================================================
+\begin{frame}
+\frametitle{Stocker, Malgorzewicz, Fontana, Ben Taieb (2025) -- CP for time series}
+\textsb{arXiv:2511.13608}~--- the \al{time-series companion} to Angelopoulos--Bates.
+\begin{itemize}
+\item Diagnosis: time series violates \alr{exchangeability} via two independent mechanisms:
+\begin{enumerate}
+\item \al{Temporal dependence} (ARMA-style filtration); observations carry info through time.
+\item \al{Distribution shift} (abrupt breaks, gradual drift, seasonality).
+\end{enumerate}
+\item \al{Headline contribution:} a four-family mechanistic taxonomy of all modern CP-for-time-series methods.
+\item Self-contained re-derivation of finite-sample marginal + conditional SCP coverage under $\beta$-mixing.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Stocker et al.: SCP under $\beta$-mixing (Theorem A.3.1)}
+\begin{theorem}[Informal, paraphrased]
+Under stationarity + $\beta$-mixing of $(X_t, Y_t)$ (Assumptions A1--A5),
+\begin{equation*}
+\underbrace{\bigl|\mathbb{P}\bigl(Y_t \in \hat{C}_t(X_t)\bigr) - (1 - \alpha)\bigr|}_{\substack{\text{coverage gap of}\\\text{vanilla SCP at index } t}}
+\;\to\;
+0 \quad \text{as the calibration window grows}.
+\end{equation*}
+Similar result for X-conditional coverage under additional assumptions.
+\end{theorem}
+\begin{itemize}
+\item \alg{Practical implication:} on stationary $\beta$-mixing data, \al{vanilla SCP still works}. No fancy methods needed.
+\item Cleaner version of Oliveira et al.\ (2024); full proofs in appendix.
+\item Justifies SCP as the default for forecasting in stable regimes (stationary ARMA, many GARCH variants).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Stocker et al.: the four-family taxonomy}
+Every CP-for-time-series method modifies \alg{exactly one} object of the SCP procedure:
+\begin{enumerate}
+\item \al{Reweight calibration data} ($\to$ \textsb{WCP}, \textsb{NexCP}): recency weights or learned weights.
+\item \al{Refresh residual pool via OOB bootstrap} ($\to$ \textsb{EnbPI}, \textsb{SPCI}): bootstrap LOO + sliding window.
+\item \al{Adapt $\alpha_t$ online} ($\to$ \textsb{ACI}, \textsb{AgACI}, \textsb{Conformal PID}): gradient update on target miscoverage.
+\item \al{Randomise over blocks} ($\to$ \textsb{Block CP}): block-level exchangeability replaces point-level.
+\end{enumerate}
+\al{Four objects, four families.} Hybrid methods compose families.
+\end{frame}
+
+\begin{frame}
+\frametitle{Stocker et al.: simulation findings}
+Controlled study: SCP, WCP$\times$3, ACI$\times$3, EnbPI$\times$3, Block-SCP on AR(1), ARMA(1,1), mean-shift, GARCH(1,1).
+\begin{itemize}
+\item \al{Stationary $\beta$-mixing} (AR, ARMA): \alg{vanilla SCP is valid and efficient}. WCP, ACI, EnbPI match coverage with no gain.
+\item \alr{Abrupt mean shift:} SCP, Block-SCP, WCP-window \alr{fail to cover}. ACI, EnbPI, WCP-exp, WCP-linear \alg{self-correct}.
+\item \alr{Non-obvious failure:} Block-SCP under-covers \emph{even on stationary $\beta$-mixing data}~--- counter-intuitive cost of randomising blocks.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Stocker et al.: practitioner defaults + frontier}
+\al{Defaults from the paper's discussion:}
+\begin{itemize}
+\item Stationary $\to$ \textsb{SCP}.
+\item Cheap shift-robustness $\to$ \textsb{WCP-exp} or \textsb{WCP-linear}.
+\item Active feedback / unknown drift $\to$ \textsb{ACI} (or AgACI).
+\item Heteroskedasticity matters, compute available $\to$ \textsb{EnbPI} / \textsb{SPCI}.
+\end{itemize}
+\al{Research frontier:}
+\begin{itemize}
+\item Hybrid methods (ACI + SPCI conditional quantiles, learned WCP weights).
+\item Distributional conformal forecasting.
+\item Multivariate / functional time series, multi-step horizons.
+\item Long-memory processes (where $\beta$-mixing fails).
+\end{itemize}
+\al{Code reproducibility:} accompanying GitHub repo by Malgorzewicz.
+\end{frame}
+
+% ================================================================
+% PAPER 4 -- Xu & Xie (2023) EnbPI
+% ================================================================
+\begin{frame}
+\frametitle{Xu \& Xie (2023) -- EnbPI (IEEE TPAMI)}
+\textsb{arXiv:2010.09107.} \al{The canonical ``refresh residual pool'' method} in Stocker's taxonomy.
+\begin{itemize}
+\item Problem: time series breaks exchangeability $\to$ naive SCP loses guarantees; ARIMA needs parametric assumptions; quantile regression needs heavy retraining.
+\item \al{Core insight:} a \alg{bootstrap ensemble} already contains LOO information~--- for each $i$, the bootstrap models that didn't see $i$ aggregate to a leave-one-out estimator $\hat{f}^{-i}$ \alg{for free}.
+\item Result: \alg{no data split}, \alg{no retraining at test time}, and \alg{asymptotic conditional coverage} under $\beta$-mixing.
+\item Authors: Chen Xu (Bloomberg, ex-Georgia Tech), Yao Xie (Georgia Tech). Follow-up: SPCI (2022).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{EnbPI: the bootstrap-LOO algorithm}
+\textsb{Training} $(X_t, Y_t)_{t=1}^T$, ensemble size $B$:
+\begin{enumerate}
+\item Train $B$ bootstrap predictors $\{\hat{f}^{(b)}\}_{b=1}^B$ on resampled training sets.
+\item For each $t$, aggregate \alg{only} the bootstrap models that didn't see $t$:
+\begin{equation*}
+\underbrace{\hat{f}^{-t}(x)}_{\substack{\text{LOO estimator}\\\text{at index } t}}
+\;=\;
+\frac{1}{|\{b : t \notin \mathcal{I}_b\}|}
+\sum_{b : t \notin \mathcal{I}_b}
+\hat{f}^{(b)}(x).
+\end{equation*}
+\item LOO residuals $\hat{\varepsilon}_t = Y_t - \hat{f}^{-t}(X_t)$.
+\item \al{Test-time interval:} sliding-window quantile of $\{\hat{\varepsilon}\}$; asymmetric via inner optimisation over $\beta \in [0, \alpha]$ to minimise width.
+\item As new $Y_t$ arrives, append to residual window. \alg{$\hat{f}$ never retrained.}
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{EnbPI: coverage theorem + cost analysis}
+\begin{theorem}[Asymptotic coverage gap, informal]
+Under $\beta$-mixing of $(X_t, Y_t)$ and consistency of the bootstrap LOO estimator,
+\begin{equation*}
+\underbrace{\bigl|\mathbb{P}(Y_{T+h} \in \hat{C}_h(X_{T+h})) - (1 - \alpha)\bigr|}_{\substack{\text{coverage gap}\\\text{at horizon } h}}
+\;\xrightarrow[T\to\infty]{}\;
+0.
+\end{equation*}
+Holds for \al{both marginal and X-conditional} coverage. Bounds also given on interval-width gap vs.\ oracle.
+\end{theorem}
+\begin{itemize}
+\item \al{Cost:} one ensemble fit upfront, $O(1)$ per test point thereafter.
+\item \al{Conditional guarantee} is rare for CP-on-time-series~--- usually impossible at finite $n$.
+\item Price: needs consistency of $\hat{f}^{-t}$ (a non-trivial assumption that gives up distribution-freeness).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{EnbPI: empirical benchmark}
+Evaluated on five high-stakes domains:
+\begin{itemize}
+\item Solar/wind energy generation (renewable supply forecasting).
+\item Multivariate anomaly detection (intrusion / fault).
+\item Greenhouse-gas concentration (environmental monitoring).
+\item Appliance energy consumption (smart grid).
+\item Beijing air quality (PM2.5 forecasting under regime shifts).
+\end{itemize}
+Beats: \al{ARIMA, ICP, WeightedICP, QOOB, AdaptCI (Gibbs--Cand\`es), J+aB}.
+\begin{itemize}
+\item \alg{Shorter intervals at nominal coverage}, \alg{robust to missing data}, \alg{handles change points} via sliding-window length.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{EnbPI: limitations + connections}
+\begin{itemize}
+\item \alr{Degrades as $\beta$-mixing slows toward long memory.}
+\item For \al{abrupt shift}, pair with ACI (online $\alpha$-update). Hybrid: ACI + EnbPI.
+\item For \al{heteroskedasticity}, use SPCI follow-up (learned QR score).
+\item \al{Lineage:}
+\begin{itemize}
+\item Predecessor: Kim--Xu--Barber 2020 J+aB (\textsb{exchangeable} bootstrap LOO).
+\item Successor: SPCI 2022 (\textsb{learned quantile regressor} as score).
+\item Causal extension: DR-ACI (Koukorinis 2026) for treatment-effect estimation under temporal dependence + DML.
+\end{itemize}
+\item Slots into Stocker's taxonomy as the headline \al{``residual refresh''} method.
+\end{itemize}
+\end{frame}
+
+% ================================================================
+% PAPER 5 -- Bao et al. (2025) Review
+% ================================================================
+\begin{frame}
+\frametitle{Bao, Colombo, Manokhin, Cao, Luo (2025) -- conformal regression review}
+\textsb{Proc.~Conformal and Probabilistic Prediction and Applications (COPA), PMLR 266:1--23.} \al{The practitioner decision aid} for univariate regression.
+\begin{itemize}
+\item Problem: regression branch of CP literature has \alr{inconsistent notation} and a \alr{proliferation of methods} (SCP, CQR, CHR, CTI, DCP, normalised SCP\ldots) with no head-to-head benchmark.
+\item Contribution: \al{unified notation} + \al{categorisation by score family} + \al{empirical benchmark} on 12 real-world datasets.
+\item Stays focused on \al{univariate continuous targets}~--- deliberately narrow scope keeps comparisons apples-to-apples.
+\item Pairs with Angelopoulos--Bates for foundations $\to$ Bao tells you \emph{which} regression score to pick.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Bao et al.: the 8 methods organised by score family}
+\begin{itemize}
+\item \al{Residual-based (symmetric):}
+\begin{itemize}
+\item \textsb{SCP} (Papadopoulos 2002, Lei et al.\ 2018): $s = |y - \hat{f}(x)|$.
+\item \textsb{Normalised SCP}: $s = |y - \hat{f}(x)|/\hat{\sigma}(x)$.
+\end{itemize}
+\item \al{Quantile-based (asymmetric, locally adaptive):}
+\begin{itemize}
+\item \textsb{CQR} (Romano et al.\ 2019): $s = \max(\hat{q}_{\alpha/2} - y, y - \hat{q}_{1-\alpha/2})$.
+\item \textsb{CHR} (Sesia--Romano 2021): histogram of conditional density.
+\item \textsb{CTI}: thresholded conformal sets from full distributional output.
+\end{itemize}
+\item \al{Distributional (full predictive CDF):}
+\begin{itemize}
+\item \textsb{DCP} (Chernozhukov et al.\ 2021): PIT-based score.
+\end{itemize}
+\item Plus locally-weighted-residual variants and conformal predictive systems.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Bao et al.: simulation insights}
+\begin{itemize}
+\item \al{Homoscedastic data:} symmetric (SCP) and asymmetric (CQR, CHR) methods all produce similar widths. SCP is simplest and competitive.
+\item \al{Heteroscedastic data:} SCP gives \alr{uniform-width bands} (too wide low-var, too narrow high-var). Normalised SCP and CQR \alg{track the conditional spread}, giving local widths.
+\item \al{Multi-modal $Y \mid X$:} SCP and CQR cover both modes \alr{plus the gap between them} (wasteful). CHR and DCP can produce \alg{disjoint sets} excluding the low-density region~--- dramatically narrower at the same coverage.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Bao et al.: empirical findings + trade-off triangle}
+\begin{itemize}
+\item \alg{No single winner} across 12 datasets~--- ranking depends on data characteristics.
+\item \al{Marginal coverage satisfied by all methods} (theorem); they differ on \al{interval width}, \al{conditional calibration}, \al{compute cost}.
+\item CQR / CHR / CTI dominate on heteroscedastic / multi-modal data.
+\item SCP / Normalised SCP competitive on roughly homoscedastic data; \al{lowest compute and tuning footprint}.
+\item DCP produces \alg{best conditional calibration} but costs extra distributional regressor + more calibration data.
+\end{itemize}
+\al{Trade-off triangle:} computational cost $\leftrightarrow$ interval width $\leftrightarrow$ calibration sample size.
+\end{frame}
+
+\begin{frame}
+\frametitle{Bao et al.: method-selection heuristic}
+\begin{itemize}
+\item \textsb{Default:} \al{Normalised SCP} if $\hat{\sigma}(x)$ available; \al{plain SCP} otherwise. Both have lowest compute, finite-sample marginal coverage.
+\item \textsb{Suspected heteroscedasticity} (financial returns, energy, biomedical): \al{CQR}.
+\item \textsb{Multi-modal $Y \mid X$ or downstream needs full distribution}: \al{CHR} or \al{DCP}.
+\item \al{Diagnostic use:} run two or three methods; substantially different shapes signal underlying conditional structure (different widths $\to$ heteroscedasticity; different shapes $\to$ multi-modality).
+\item \al{Pairs with:} Angelopoulos--Bates for the recipe (read first), then Bao for per-variant trade-offs, then the primary reference of whichever method you select.
+\end{itemize}
+\end{frame}
+
+\end{document}

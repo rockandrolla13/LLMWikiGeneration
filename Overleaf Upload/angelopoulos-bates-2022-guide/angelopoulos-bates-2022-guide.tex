@@ -1,0 +1,219 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+% ---- Colored overview boxes (tcolorbox + xcolor) ----
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Angelopoulos and Bates 2022 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+
+\title{Angelopoulos \& Bates (2022)\\\textit{A Gentle Introduction to Conformal Prediction}\\[2pt]\large Paper Overview}
+
+\author{}
+
+\date{}
+
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Modern machine-learning models return \emph{point predictions} but tell you nothing about how much to trust each one. Bayesian posteriors, bootstrap confidence intervals, and quantile regression all give you a notion of uncertainty, but each comes with assumptions: a prior, a noise model, exchangeable resamples, or a correctly-specified quantile family. \emph{Conformal prediction} (CP)~--- introduced by Vladimir Vovk and collaborators \cite{vovk2005algorithmic}~--- gets you a guarantee that is \emph{distribution-free} (works for any data distribution), \emph{finite-sample} (works for any sample size, not just asymptotically), and \emph{model-agnostic} (works around any predictor).
+
+\begin{keyinsight}
+\textbf{The promise of conformal prediction in one sentence:} wrap any predictor in a procedure that turns its point output into a \emph{set} of plausible outputs, with a hard mathematical guarantee that the true answer is inside the set at least $1 - \alpha$ of the time. You do not have to trust the model, the data distribution, or large-sample asymptotics. The guarantee only requires that your data points be \emph{exchangeable} (the order they arrived in doesn't matter).
+\end{keyinsight}
+
+The Angelopoulos--Bates monograph \cite{angelopoulos2022gentle}\footnote{\textit{Foundations and Trends in Machine Learning}; \texttt{arXiv:2107.07511}.} is the de-facto practitioner entry point to CP. It has three layers: (i) a four-step \emph{recipe} producing valid prediction sets around \emph{any} model, (ii) a catalogue of nonconformity scores for classification, regression, and full distributional output, and (iii) a survey of extensions to risk control, conditional coverage, covariate shift, and data-efficient variants. Every method ships with a Python notebook.
+
+\begin{explain}
+\textbf{Why this is the field's standard reference.} Before Angelopoulos--Bates, CP literature was scattered across two communities: theoretical statisticians (Vovk--Gammerman--Shafer, Lei--Wasserman, Barber--Cand\`es) writing in classical-statistics language, and a smaller ML-practitioner community using ad-hoc bootstrap variants. This monograph translated the theory into a recipe-card format that ML engineers could pick up in an afternoon, paired with executable notebooks. Practitioner adoption of CP roughly tripled in the two years after its release.
+\end{explain}
+
+This overview walks through the constructions, makes the underlying intuition explicit, and points at the connections to the rest of the cp-summaries collection.
+
+\section{Background and terminology}\label{s:background}
+
+Three terms do most of the work.
+
+A \emph{predictor} $\hat{f}: \mathcal{X} \to \mathcal{Y}$ is any function that has been fitted on training data~--- linear regression, gradient-boosted trees, a deep network. CP treats $\hat{f}$ as a \emph{black box}: it does not inspect $\hat{f}$'s internals.
+
+A sequence $(Z_1, \dots, Z_{n+1})$ is \emph{exchangeable} if its joint distribution is invariant under permutation. This is \emph{strictly weaker} than independent and identically distributed (i.i.d.): for example, draws from a P\'olya urn are exchangeable but not independent. The practical implication is what matters: \emph{any random reshuffling of an i.i.d.\ dataset is exchangeable}. CP's coverage guarantee needs this and nothing more.
+
+\begin{definitionexplain}
+\textbf{Exchangeability in one sentence.} A dataset is exchangeable if you could shuffle its rows and end up with a dataset that has the same statistical properties. The standard i.i.d.\ assumption is one (strong) way to get this; CP works with the weaker, more realistic version.
+\end{definitionexplain}
+
+A \emph{calibration set} is a held-out subset of the data, not used for training $\hat{f}$. In the split-conformal variant the calibration set produces the cutoff used to construct prediction sets. Finally, the \emph{miscoverage level} $\alpha \in (0, 1)$ is the maximum allowed failure probability: setting $\alpha = 0.1$ asks for $90\%$ prediction sets.
+
+\section{The four-step recipe}\label{s:construction}
+
+Given a fitted predictor $\hat{f}$, a calibration set $\{(X_i, Y_i)\}_{i=1}^n$ disjoint from $\hat{f}$'s training data, and a target miscoverage level $\alpha$:
+
+\paragraph{Step 1: heuristic uncertainty.} Start with any $\hat{f}$. Nothing further is required of the model.
+
+\paragraph{Step 2: nonconformity score.} Design a function $s: \mathcal{X} \times \mathcal{Y} \to \mathbb{R}$ that quantifies \emph{``how surprising would the pair $(x, y)$ be given $\hat{f}$?''}~--- larger means more surprising. For regression a natural choice is the absolute residual $s(x, y) = |y - \hat{f}(x)|$; for classification, $s(x, y) = 1 - \hat{f}_y(x)$ (one minus the predicted softmax probability of the true class).
+
+\begin{explain}
+\textbf{The score is the user's design choice.} The coverage guarantee holds for \emph{any} score function. The choice you make affects the \emph{shape} and \emph{size} of the resulting prediction sets~--- for example, simple absolute residuals give constant-width intervals, while $\sigma$-scaled residuals or CQR-style scores give locally adaptive intervals. Validity is automatic; everything else is engineering judgment.
+\end{explain}
+
+\paragraph{Step 3: calibration quantile.} Compute the scores on the calibration data $s_i = s(X_i, Y_i)$ for $i = 1, \dots, n$, and take a specific empirical quantile:
+\begin{equation*}
+\underbrace{\hat{q}}_{\substack{\text{cutoff that calibrates}\\\text{the prediction set}}}
+\;=\;
+\text{Quantile}\Bigl(
+\underbrace{\{s_i\}_{i=1}^{n}}_{\substack{\text{scores on}\\\text{held-out data}}}
+\,;\;
+\underbrace{\frac{\lceil (n+1)(1-\alpha) \rceil}{n}}_{\substack{\text{slightly above } 1-\alpha;\\\text{the }+1\text{ fixes a finite-}n\text{ bias}}}
+\Bigr).
+\end{equation*}
+The peculiar $(n+1)$-correction is the entire reason CP works at \emph{finite} sample size: it accounts for the fact that the unseen test point will become the $(n+1)$th observation.
+
+\begin{algorithmexplain}
+\textbf{Why the $(n+1)$ adjustment.} The conventional empirical $(1-\alpha)$ quantile of $n$ samples slightly under-covers because it treats the test point as if it were drawn from an estimated distribution. CP instead asks: what cutoff guarantees that the future test point's score will be among the $\lceil (n+1)(1-\alpha)\rceil$ smallest scores out of all $n+1$ scores (calibration + test)? The answer is the formula above. As $n \to \infty$ the $+1$ vanishes; at small $n$ (say $n = 100$) it's the difference between actual $89.1\%$ coverage and the nominal $90\%$.
+\end{algorithmexplain}
+
+\paragraph{Step 4: prediction set.} For a fresh input $X_{n+1}$, return
+\begin{equation*}
+\underbrace{\mathcal{C}(X_{n+1})}_{\substack{\text{the set we hand}\\\text{to the user}}}
+\;=\;
+\Bigl\{\, y \in \mathcal{Y} \;:\;
+\underbrace{s(X_{n+1},\, y)}_{\substack{\text{score of candidate } y\\\text{against } \hat{f}}}
+\;\leq\;
+\underbrace{\hat{q}}_{\substack{\text{calibrated}\\\text{cutoff}}}
+\,\Bigr\}.
+\end{equation*}
+
+\paragraph{The score catalogue.} Step 2 is where domain knowledge enters. For classification with a deep network the choice $s(x, y) = 1 - \hat{f}_y(x)$ produces fixed-size sets; \emph{Adaptive Prediction Sets} (APS) \cite{sadinle2019aps} instead rank softmax probabilities and cumulate until they exceed $\hat{q}$, yielding sets that \emph{grow} on hard inputs and \emph{shrink} on easy ones. \emph{RAPS} regularises APS to prevent pathological large sets on rare classes. For regression \emph{Conformalised Quantile Regression} (CQR) \cite{romano2019cqr} uses score
+\begin{equation*}
+s(x, y) \;=\; \max\bigl(\underbrace{\hat{q}_{\alpha/2}(x) - y}_{\text{undershoot}},\; \underbrace{y - \hat{q}_{1-\alpha/2}(x)}_{\text{overshoot}}\bigr),
+\end{equation*}
+yielding intervals that adapt to heteroscedasticity~--- their width varies locally with the conditional spread.
+
+\begin{keyinsight}
+\textbf{Score choice trades coverage for adaptivity.} All scores produce valid $1-\alpha$ marginal coverage. They differ in interval shape:
+\begin{itemize}
+\item Plain $|y - \hat{f}(x)|$: fixed-width intervals; under-covers in high-variance regions, over-covers in low-variance regions, but \emph{averaged across all $x$} still hits $1-\alpha$.
+\item $\sigma$-scaled or CQR: width varies locally; closer to \emph{conditional} coverage when the scale model is good.
+\item APS / RAPS for classification: set size varies with input difficulty; easy inputs get singletons, hard inputs get larger sets.
+\end{itemize}
+The validity proof is identical for all four. The choice is purely about whether the user wants constant-width or adaptive intervals.
+\end{keyinsight}
+
+\section{The coverage guarantee}\label{s:result}
+
+\begin{thmstar}[Marginal coverage, \cite{angelopoulos2022gentle}]
+If $(X_i, Y_i)_{i=1}^{n+1}$ are exchangeable, then the prediction set defined above satisfies
+\begin{equation*}
+\underbrace{\mathbb{P}\bigl(Y_{n+1} \in \mathcal{C}(X_{n+1})\bigr)}_{\substack{\text{probability the true label}\\\text{falls inside the set}}}
+\;\in\;
+\Bigl[\,
+\underbrace{1 - \alpha}_{\text{lower bound}}
+\,,\;
+\underbrace{1 - \alpha + \tfrac{1}{n+1}}_{\substack{\text{upper bound}\\(\text{discreteness slack})}}
+\,\Bigr].
+\end{equation*}
+\end{thmstar}
+
+\begin{theoremexplain}
+\textbf{The shape of the guarantee:}
+\begin{itemize}
+\item It's a \emph{lower} bound (the procedure may over-cover, never systematically under-cover).
+\item The upper bound $1 - \alpha + 1/(n+1)$ comes from the fact that ranks are integers~--- at small $n$ you might land a little above nominal.
+\item Crucially: this averages over both the test point \emph{and} the calibration set draw. On a single fixed calibration set, the realised coverage is a random variable (see Beta corollary below).
+\end{itemize}
+\end{theoremexplain}
+
+\paragraph{Proof sketch.} Exchangeability of $(X_i, Y_i)_{i=1}^{n+1}$ implies that the rank of the test score $s(X_{n+1}, Y_{n+1})$ among the $n+1$ scores $\{s_1, \dots, s_n, s(X_{n+1}, Y_{n+1})\}$ is uniformly distributed on $\{1, \dots, n+1\}$. Choosing the cutoff at the $\lceil (n+1)(1-\alpha)\rceil$-th smallest calibration score exactly bounds the probability that the test rank exceeds the cutoff. The upper bound $1 - \alpha + 1/(n+1)$ comes from the discrete nature of the rank.
+
+\begin{explain}
+\textbf{The proof in three sentences.} Exchangeability means the unobserved test point is interchangeable with any of the $n$ calibration points; therefore its score's rank among all $n+1$ scores is uniform on $\{1, \dots, n+1\}$. The cutoff is set so that the test rank exceeds the cutoff with probability at most $\alpha$. Equivalently, the test score falls under the cutoff with probability at least $1 - \alpha$~--- which is exactly the event that the test point is in the prediction set.
+\end{explain}
+
+The coverage is \emph{marginal}: it averages over both the test point \emph{and} the calibration set draw. Conditional on a single calibration set, the realised coverage is itself random and follows a Beta distribution:
+\begin{equation*}
+\underbrace{C}_{\substack{\text{realised coverage}\\\text{for this cal.\ set}}}
+\;\sim\;
+\text{Beta}\bigl(\underbrace{\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 1}},\;\underbrace{n+1-\lceil (n+1)(1-\alpha)\rceil}_{\text{shape 2}}\bigr).
+\end{equation*}
+A rule of thumb that drops out: calibration set size $n \approx 1{,}000$ keeps realised coverage within $\pm 1\%$ of nominal with high probability.
+
+\begin{whymatters}
+\textbf{Why this Beta corollary matters for practice.} The marginal coverage statement averages over calibration draws. In deployment you typically have \emph{one} calibration set and live with whatever coverage that draw produced. If $n = 100$ and $\alpha = 0.1$, the realised coverage on a single calibration set has a standard deviation of roughly $3\%$~--- so coverage can easily land at $85\%$ or $93\%$ instead of nominal $90\%$. Push $n$ to $1{,}000$ and the standard deviation drops to ${\sim}1\%$. The $n \approx 1{,}000$ rule of thumb comes directly from solving for the calibration size that keeps the Beta standard deviation small enough for practical comfort.
+\end{whymatters}
+
+\section{Limits, extensions, and connections}\label{s:discussion}
+
+The construction has three honest limitations. First, \emph{marginal coverage} is weaker than \emph{conditional coverage}, the property $\mathbb{P}(Y \in \mathcal{C}(X) \mid X = x) \geq 1 - \alpha$ for every $x$. Vovk has shown distribution-free conditional coverage is achievable only by trivial (infinite-measure) sets; CP gives you approximate substitutes (size-stratified or group-conditional coverage) but never the real thing in general. Second, the split-conformal variant wastes calibration data; the paper discusses \emph{Full Conformal} (retraining for each candidate $y$, exact but expensive) and \emph{Jackknife+} \cite{barber2021jackknifeplus} (leave-one-out residuals, distribution-free $1 - 2\alpha$ guarantee) as the data-efficient alternatives. Third, exchangeability breaks under distribution shift; \emph{Weighted CP} \cite{tibshirani2019weighted} extends the guarantee to known covariate shift by reweighting calibration scores with likelihood ratios.
+
+\begin{whymatters}
+\textbf{The three honest limits of marginal-coverage CP.}
+\begin{itemize}
+\item \textbf{Marginal $\neq$ conditional}: a $90\%$ marginal interval may cover $99\%$ of easy cases and $80\%$ of hard cases. If your downstream decision depends on per-individual reliability, you need approximate-conditional variants (Mondrian, group-balanced, class-conditional).
+\item \textbf{Calibration data is sacrificed}: split CP leaves potential model accuracy on the table. Jackknife+ and Cross-CP recover most of it at modest extra compute.
+\item \textbf{Exchangeability is a strong assumption in production}: any time series, any drifting feature distribution, any selection effect can violate it. Specialised methods (ACI, EnbPI, weighted CP, NexCP) exist for the most common violation modes.
+\end{itemize}
+\end{whymatters}
+
+The paper also surveys \emph{Conformal Risk Control} \cite{angelopoulos2024conformal}~--- replacing the indicator coverage loss with any bounded \emph{monotone} loss and tuning a threshold so that the expected loss meets a budget~--- and \emph{Learn-Then-Test} for non-monotone risks. These extensions are why CP keeps spreading: any time you can name a controllable risk, there is now a recipe to bound its expectation in a distribution-free way.
+
+The other reader's guides in this collection extend the foundation in specific directions. Dieuleveut \& Zaffran (2025) give the proof architecture and coverage hierarchy in more detail. Stocker et al.~(2025) organise the post-exchangeability landscape for time series into a four-family taxonomy. Xu \& Xie (2023) develop EnbPI, the canonical bootstrap-ensemble method for time series. Bao et al.~(2025) benchmark the regression variants head-to-head.
+
+\bibliography{\bib}
+
+\end{document}

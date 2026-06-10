@@ -1,0 +1,47 @@
+\begin{thebibliography}{7}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+
+\bibitem[{Angelopoulos and Bates(2022)}]{angelopoulos2022gentle}
+Angelopoulos, Anastasios~N.\ and Stephen Bates. 2022.
+\newblock \enquote{A Gentle Introduction to Conformal Prediction and
+  Distribution-Free Uncertainty Quantification.}
+\newblock \emph{Foundations and Trends in Machine Learning}.
+
+\bibitem[{Bao et~al.(2025)Bao, Colombo, Manokhin, Cao, and Luo}]{bao2025review}
+Bao, Jie, Nicolo Colombo, Valery Manokhin, Suqun Cao, and Rui Luo. 2025.
+\newblock \enquote{A Review and Comparative Analysis of Univariate Conformal
+  Regression Methods.}
+\newblock In \emph{Conformal and Probabilistic Prediction and Applications
+  (COPA), PMLR}.
+
+\bibitem[{Chernozhukov, W{\"u}thrich, and
+  Zhu(2021)}]{chernozhukov2021distributional}
+Chernozhukov, Victor, Kaspar W{\"u}thrich, and Yinchu Zhu. 2021.
+\newblock \enquote{Distributional Conformal Prediction.}
+\newblock \emph{Proceedings of the National Academy of Sciences}.
+
+\bibitem[{Lei et~al.(2018)Lei, G'Sell, Rinaldo, Tibshirani, and
+  Wasserman}]{lei2018distribution}
+Lei, Jing, Max G'Sell, Alessandro Rinaldo, Ryan~J.\ Tibshirani, and Larry
+  Wasserman. 2018.
+\newblock \enquote{Distribution-Free Predictive Inference for Regression.}
+\newblock \emph{Journal of the American Statistical Association}.
+
+\bibitem[{Romano, Patterson, and Cand{\`e}s(2019)}]{romano2019cqr}
+Romano, Yaniv, Evan Patterson, and Emmanuel Cand{\`e}s. 2019.
+\newblock \enquote{Conformalized Quantile Regression.}
+\newblock In \emph{Advances in Neural Information Processing Systems}.
+
+\bibitem[{Sesia and Romano(2021)}]{sesia2021chr}
+Sesia, Matteo and Yaniv Romano. 2021.
+\newblock \enquote{Conformal Histogram Regression.}
+\newblock In \emph{International Conference on Machine Learning}.
+
+\bibitem[{Vovk, Gammerman, and Shafer(2005)}]{vovk2005algorithmic}
+Vovk, Vladimir, Alexander Gammerman, and Glenn Shafer. 2005.
+\newblock \emph{Algorithmic Learning in a Random World}.
+\newblock Springer.
+
+\end{thebibliography}

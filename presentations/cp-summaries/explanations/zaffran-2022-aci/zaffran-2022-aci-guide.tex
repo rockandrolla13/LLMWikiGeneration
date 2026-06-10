@@ -1,0 +1,205 @@
+\documentclass[letterpaper,11pt,leqno]{article}
+\usepackage{paper}
+\usepackage{amsthm}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\newtcolorbox{explain}{
+  colback=blue!5!white, colframe=blue!40!black,
+  fonttitle=\bfseries, title={\small Plain English},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{keyinsight}{
+  colback=green!5!white, colframe=green!40!black,
+  fonttitle=\bfseries, title={\small Key Insight},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{definitionexplain}{
+  colback=violet!5!white, colframe=violet!40!black,
+  fonttitle=\bfseries, title={\small What This Definition Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{theoremexplain}{
+  colback=orange!5!white, colframe=orange!40!black,
+  fonttitle=\bfseries, title={\small What This Result Says},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{algorithmexplain}{
+  colback=gray!5!white, colframe=gray!40!black,
+  fonttitle=\bfseries, title={\small How This Works},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{whymatters}{
+  colback=red!5!white, colframe=red!40!black,
+  fonttitle=\bfseries, title={\small Why This Matters},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+\newtcolorbox{assumptionexplain}{
+  colback=yellow!8!white, colframe=yellow!60!black,
+  fonttitle=\bfseries, title={\small What This Assumption Means},
+  breakable, before skip=8pt, after skip=8pt,
+  left=6pt, right=6pt, arc=2pt, boxrule=0.5pt
+}
+
+\bibliographystyle{paper}
+
+\hypersetup{pdftitle={Zaffran, Dieuleveut, Feron, Goude, Josse 2022 -- Paper Overview}}
+
+\newcommand{\bib}{paper.bib}
+\newcommand{\pdf}{figures.pdf}
+
+\newtheorem*{thmstar}{Theorem}
+\newtheorem*{lemstar}{Lemma}
+\newtheorem*{propstar}{Proposition}
+
+\title{Zaffran, Dieuleveut, F\'eron, Goude, Josse (2022)\\\textit{Adaptive Conformal Predictions for Time Series}\\[2pt]\large Paper Overview}
+
+\author{}
+\date{}
+\paperurl{}
+
+\begin{document}
+\maketitle
+
+\section{Why this paper exists}\label{s:intro}
+
+Standard conformal prediction (CP) relies on \emph{exchangeability}: the joint distribution of the data is invariant under permutation. Time series violate this assumption in two distinct ways. First, observations carry temporal dependence~--- $Y_t$ at adjacent time points are not interchangeable, since they share information through the underlying process (AR, GARCH, latent state). Second, the distribution can drift over time~--- the joint law itself is not stationary, with abrupt breaks, gradual drift, or seasonality. Either failure mode breaks CP's finite-sample coverage guarantee.
+
+\begin{keyinsight}
+\textbf{Two ways time series break CP.} Either (i) observations are dependent through time (the process has memory), or (ii) the distribution itself shifts (regime change, drift, seasonality). Vanilla split CP assumes neither. This paper addresses both via online updates to the target coverage level, not by changing the score function.
+\end{keyinsight}
+
+Gibbs and Cand\`es \cite{gibbs2021aci} proposed \emph{Adaptive Conformal Inference} (ACI) in 2021 as a remedy for the distribution-shift failure: maintain a running miscoverage estimate $\alpha_t$ and update it after each observation using an online-gradient-style rule. This achieves a long-run miscoverage equal to the user-specified target $\alpha$ for \emph{any} sequence~--- adversarial or stochastic, exchangeable or not.
+
+Zaffran, Dieuleveut, F\'eron, Goude, and Josse \cite{zaffran2022aci} do two things. First, they analyse ACI on time series with general (autoregressive, mixing) dependency: the learning rate $\gamma$ \emph{deteriorates efficiency} on exchangeable data but \emph{improves} it on autoregressive data with the right $\gamma$. Second, they introduce \emph{AgACI}~--- a parameter-free variant that runs multiple ACI instances at different $\gamma$ values and aggregates them via online expert aggregation, eliminating the need to tune $\gamma$.
+
+\begin{explain}
+\textbf{Two contributions, in plain English.} (1) A theoretical analysis showing that ACI's only hyperparameter $\gamma$ is a real engineering decision: too large $\to$ wastes interval width on exchangeable data; too small $\to$ slow to react under drift. (2) AgACI: a parameter-free aggregation of ACI instances at different $\gamma$ values that picks the right one implicitly via online expert weights. The user no longer has to commit to a $\gamma$ before knowing how the data behave.
+\end{explain}
+
+The paper is the canonical reference cited from Stocker et al.\ (2025) as the headline ``adapt-$\alpha$'' family in the four-family time-series CP taxonomy. The empirical case study is French day-ahead electricity spot prices~--- a setting where distribution drift is genuine and economically consequential.
+
+\section{Background and terminology}\label{s:background}
+
+Let $(X_t, Y_t)_{t \geq 1}$ be a stochastic process where at each $t$ we want to predict $Y_t$ from $X_t$ using a fitted point predictor (typically refit on a rolling window). A prediction \emph{set} $\hat{C}_t(X_t) \subseteq \mathbb{R}$ is valid at level $\alpha$ if it contains $Y_t$ with high probability. The \emph{long-run miscoverage} is
+\begin{equation*}
+\underbrace{\tfrac{1}{T} \sum_{t=1}^{T} \mathbb{1}\{Y_t \notin \hat{C}_t(X_t)\}}_{\substack{\text{empirical fraction of}\\\text{intervals that miss }Y_t}}
+\end{equation*}
+which we would like to converge (in some sense) to the nominal $\alpha$ as $T \to \infty$.
+
+\begin{definitionexplain}
+\textbf{Long-run miscoverage in plain English.} Over $T$ time steps, what fraction of the time did the true value fall \emph{outside} the prediction interval? Vanilla SCP guarantees this is $\leq \alpha$ \emph{in expectation over the data-generating process}. ACI guarantees a much stronger thing: it's $\to \alpha$ \emph{for any sequence}, even if the process is non-stationary or adversarial.
+\end{definitionexplain}
+
+A target $\alpha_t$ is the \emph{current effective miscoverage level} the algorithm is trying to achieve at time $t$. In ACI, $\alpha_t$ adapts based on past miss/cover events. The \emph{learning rate} $\gamma > 0$ controls how aggressively $\alpha_t$ responds to feedback: large $\gamma$ adapts quickly but introduces variance; small $\gamma$ is stable but slow.
+
+\section{The ACI update rule}\label{s:construction}
+
+ACI's update is a single online-gradient step. At each time $t$:
+
+\paragraph{Step 1: predict.} Form a prediction set $\hat{C}_t(X_t)$ using the standard split-conformal recipe with the current effective miscoverage $\alpha_t$ (rather than the nominal $\alpha$).
+
+\paragraph{Step 2: observe.} Record whether $Y_t$ fell inside or outside the set:
+\begin{equation*}
+\underbrace{\text{err}_t}_{\substack{\text{miss indicator}}}
+\;=\;
+\underbrace{\mathbb{1}\{Y_t \notin \hat{C}_t(X_t)\}}_{\substack{\text{1 if missed, 0 if covered}}}.
+\end{equation*}
+
+\paragraph{Step 3: update.}
+\begin{equation*}
+\underbrace{\alpha_{t+1}}_{\substack{\text{next effective}\\\text{miscoverage level}}}
+\;=\;
+\underbrace{\alpha_t}_{\substack{\text{current}\\\text{target}}}
+\;+\;
+\underbrace{\gamma}_{\substack{\text{learning}\\\text{rate}}}
+\Bigl(
+\underbrace{\alpha}_{\substack{\text{nominal target}\\\text{(user-chosen)}}}
+\;-\;
+\underbrace{\text{err}_t}_{\substack{\text{just-observed}\\\text{miss indicator}}}
+\Bigr).
+\end{equation*}
+
+\begin{algorithmexplain}
+\textbf{The update is one line of code.} \texttt{alpha\_t1 = alpha\_t + gamma * (alpha\_nominal - err\_t)}. That's it. The algorithm maintains a single scalar $\alpha_t$, updates it after each observation, and uses it as the target miscoverage for the next SCP interval. No model retraining, no data structure beyond the running $\alpha_t$ value.
+\end{algorithmexplain}
+
+\paragraph{Reading the update.} If the interval just covered ($\text{err}_t = 0$), then $\alpha - \text{err}_t = \alpha > 0$, so $\alpha_{t+1} > \alpha_t$: the algorithm pushes towards a \emph{narrower} interval next time (a higher $\alpha_t$ means accepting more miscoverage). If the interval just missed ($\text{err}_t = 1$), then $\alpha - \text{err}_t = \alpha - 1 < 0$, so $\alpha_{t+1} < \alpha_t$: the algorithm pushes towards a \emph{wider} interval. Over a long run, the cover/miss feedback balances to keep the long-run miscoverage near $\alpha$~--- regardless of how the data process behaves.
+
+\begin{explain}
+\textbf{The intuition behind the sign.} If you just covered, the interval was either correct or unnecessarily wide; tighten next time. If you just missed, the interval was too narrow; loosen next time. The learning-rate $\gamma$ controls how much you tighten or loosen per step. Over time, the cover/miss feedback equalises around the nominal $\alpha$.
+\end{explain}
+
+\paragraph{Long-run coverage.} The original Gibbs--Cand\`es analysis \cite{gibbs2021aci} proves that for \emph{any} sequence (no distributional assumption),
+\begin{equation*}
+\underbrace{\left| \tfrac{1}{T} \sum_{t=1}^{T} \text{err}_t - \alpha \right|}_{\substack{\text{deviation from}\\\text{nominal miscoverage}}}
+\;\leq\;
+\underbrace{O(1/T)}_{\substack{\text{shrinks at rate } 1/T\\\text{regardless of distribution}}}.
+\end{equation*}
+This is a deterministic, distribution-free guarantee~--- much stronger than typical conformal results, but only at the \emph{long-run average} level, not pointwise.
+
+\begin{theoremexplain}
+\textbf{What this guarantee gives you and what it doesn't.}
+\begin{itemize}
+\item \emph{Gives:} the long-run fraction of misses converges to $\alpha$ at rate $1/T$, on \emph{any} sequence, even adversarial.
+\item \emph{Doesn't give:} per-point coverage. A 5-out-of-10 burst of consecutive misses is fully compatible with the guarantee, as long as the long-run rate balances out.
+\item \emph{Doesn't give:} interval-width control. The intervals might be very wide for the algorithm to recover from a drift episode.
+\end{itemize}
+This is fundamentally a long-run-average result, not a per-step one.
+\end{theoremexplain}
+
+\section{Theoretical analysis and AgACI}\label{s:result}
+
+\subsection*{Why $\gamma$ matters}
+
+The Zaffran et al.\ analysis makes precise how $\gamma$ should be chosen as a function of the underlying data process.
+
+\begin{propstar}[Informal, from \cite{zaffran2022aci}]
+For \emph{exchangeable} data, ACI with $\gamma > 0$ produces \emph{wider} intervals on average than vanilla split conformal (i.e., $\gamma = 0$). The penalty is a function of $\gamma$ and vanishes as $\gamma \to 0$.
+
+For \emph{autoregressive} data with persistent drift, there exists an optimal $\gamma^{\star} > 0$ such that ACI with $\gamma = \gamma^{\star}$ produces \emph{narrower} intervals at the nominal coverage than vanilla split conformal.
+\end{propstar}
+
+\begin{explain}
+\textbf{The $\gamma$ trade-off in practice.}
+\begin{itemize}
+\item On exchangeable data: any $\gamma > 0$ \emph{hurts} you (wider intervals than vanilla SCP). The optimal is $\gamma = 0$.
+\item On autoregressive / drifting data: the optimal $\gamma^{\star} > 0$ \emph{helps} you (narrower intervals than vanilla SCP). But you don't know $\gamma^{\star}$ ex ante.
+\end{itemize}
+The practitioner pain: you have to commit to a single $\gamma$ before knowing the data's true autocorrelation structure.
+\end{explain}
+
+This explains the practitioner pain point: $\gamma$ has to be chosen as a function of unknown properties of the data-generating process. Too aggressive on stationary data and you waste interval width; too conservative on drifting data and you under-cover.
+
+\subsection*{AgACI: parameter-free aggregation}
+
+The remedy is to avoid the choice altogether. AgACI runs an ensemble of ACI instances at different $\gamma$ values $\{\gamma^{(k)}\}_{k=1}^K$ in parallel, then aggregates their outputs at each time step via an online expert-aggregation rule (in the standard ``prediction with expert advice'' sense \cite{cesabianchi2006prediction}). The aggregator gives more weight to ACI instances that have produced narrower-yet-valid intervals over the recent past, and downweights instances that have systematically over- or under-covered.
+
+\begin{keyinsight}
+\textbf{AgACI's promise.} You pick a grid of plausible $\gamma$ values; AgACI runs all of them in parallel and lets the online aggregator pick the right one implicitly via expert weights. Coverage and efficiency match the \emph{best} fixed $\gamma$ in hindsight, up to a regret bound. You no longer have to know the data's autocorrelation structure before deploying.
+\end{keyinsight}
+
+The advantage is that AgACI's coverage and efficiency match the \emph{best} ACI instance in hindsight, up to a regret bound from the aggregation algorithm. The user no longer has to commit to a single $\gamma$; the algorithm performs the implicit model selection online.
+
+\section{Empirical findings and connections}\label{s:discussion}
+
+The empirical comparison covers EnbPI (Xu \& Xie 2023) \cite{xu2023enbpi}, online split conformal (a rolling-window SCP), and ACI at multiple $\gamma$ values, plus the new AgACI. On synthetic AR/ARMA processes, the theoretical $\gamma$-dependence predicted by the analysis is borne out: AgACI matches the best fixed $\gamma$ without needing tuning. EnbPI also performs well on stationary data but is slower to recover from distribution shift~--- a point that Stocker et al.\ later formalise into the ``residual-refresh vs adapt-$\alpha$'' distinction.
+
+On French electricity prices, the deployment context that motivated the work, AgACI delivers nominal coverage under genuine distribution drift (the 2021 European energy crisis is in-sample for some splits in the dataset). Static SCP under-covers when prices spike; ACI at any single $\gamma$ either under-covers or wastes interval width; AgACI tracks the appropriate $\gamma$ implicitly.
+
+\begin{whymatters}
+\textbf{Why the electricity case study is the right validation.} European electricity prices are a notorious distribution-shift environment: regular daily/weekly patterns, occasional weather-driven spikes, and the 2021 energy crisis as a hard regime change. A method that delivers nominal coverage on this data is robust to most real-world drift scenarios. AgACI is the only method in the paper's benchmark that maintains coverage across the 2021 spike without re-tuning. That's the headline practical result.
+\end{whymatters}
+
+\paragraph{Connections.} This paper anchors the ``adapt-$\alpha$'' family of CP-for-time-series methods. Its theoretical observation that $\gamma$ trades off responsiveness against efficiency on exchangeable data has driven a substantial follow-up literature on adaptive learning rates (time-varying $\gamma$, Conformal PID control). The empirical contrast with EnbPI~--- residual-refresh vs adapt-$\alpha$~--- is what motivates the hybrid methods (ACI + SPCI, ACI + EnbPI) discussed in the Stocker et al.\ taxonomy. For the long-form treatment, see Zaffran's PhD thesis \cite{zaffran2024phd}, which assembles ACI, AgACI, and CP-with-missing-values into a unified framework with applications to electricity forecasting.
+
+\bibliography{\bib}
+
+\end{document}
