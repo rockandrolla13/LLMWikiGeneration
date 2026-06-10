@@ -1,0 +1,346 @@
+# Dealing with multi-currency inventory risk in FX cash markets Alexander Barzykin[∗] Philippe Bergault[†] Olivier Guéant[‡] 
+
+## **Abstract** 
+
+In FX cash markets, market makers provide liquidity to clients for a wide variety of currency pairs. Because of flow uncertainty and market volatility, they face inventory risk. To mitigate this risk, they typically skew their prices to attract or divert the flow and trade with their peers on the dealer-todealer segment of the market for hedging purposes. This paper offers a mathematical framework to FX dealers willing to maximize their expected profit while controlling their inventory risk. Approximation techniques are proposed which make the framework scalable to any number of currency pairs. 
+
+**Key words:** Market making, foreign exchange market, internalization, stochastic optimal control, Riccati equations, closed-form approximations. 
+
+## **Introduction** 
+
+As all market makers, FX dealers are naturally portfolio managers. By providing liquidity to clients in multiple currency pairs, they build inventory and have to manage the ensuing inventory risk which is a subtle combination of uncertainty of the client flow, market liquidity and market price risk at the portfolio level. 
+
+The management of inventory risk in financial markets has been a topic of recent interest in the academic field of quantitative finance, starting with the seminal paper [1] by Avellaneda[1] and Stoikov who revived an old economic literature on the topic that dated back to the 1980s (see, for instance, Ho and Stoll [11]). Avellaneda and Stoikov paved the way to a long list of contributions. In a nutshell,[2] Guéant et al. provided in [10] a detailed analysis of the stochastic optimal control problem introduced in [1] and proposed closedform approximations of the optimal quotes. New features were then progressively added to get closer and closer to reality: several trade sizes, client tiering, risk externalization through hedging, etc. Cartea and Jaimungal, along with various coauthors, replaced in [7] the original expected utility framework of [1] by a more intuitive one closer to mean-variance optimization and added new features while studying the impact of parameters ambiguity in a series of papers. 
+
+To be used in practice, market making models need to take into account the dependence structure between assets since market makers or market making algorithms typically cover dozens or hundreds of assets. A mathematical framework for multi-asset market making has been proposed in [8, 9], but computing the optimal quotes almost always requires to solve differential equations in very high dimension (the number of equations typically grows exponentially with the number of assets). Several techniques have been proposed to tackle the curse of dimensionality: the use of a few numbers of risk factors, the use of neural networks and reinforcement learning techniques, and the use of a reduction technique toward a linear-quadratic control problem (see [4]) that provides surprisingly good approximations of the optimal market making strategy. 
+
+> ∗HSBC, 8 Canada Square, Canary Wharf, London E14 5HQ, United Kingdom, alexander.barzykin@hsbc.com. 
+
+> †École Polytechnique, CMAP, 91128, Palaiseau, France, philippe.bergault@polytechnique.edu. 
+
+> ‡Université Paris 1 Panthéon-Sorbonne, Centre d’Economie de la Sorbonne, 106 Boulevard de l’Hôpital, 75642 Paris Cedex 13, France, olivier.gueant@univ-paris1.fr. 
+
+> 1Marco Avellaneda passed away while we were finishing this paper. This paper is therefore a natural opportunity to pay him a tribute for his major contributions to the field and beyond. 
+
+> 2See the books [6] and [8] for a detailed bibliography. 
+
+1 
+
+Existing multi-asset market making models consider assets labelled in the same currency. This is typically consistent with the problem faced by market makers in most asset classes (e.g. corporate bonds in Europe or in the US). However, the problem faced by FX dealers is different: each currency pair provides indeed a valuation of one currency in terms of the other. The inventory of a given currency is usually managed in the most liquid, so-called direct currency pair, typically against USD. However, non-USD pairs, so-called crosses, are also very important. The presence of crosses introduces both complexity and opportunities since there are several ways to achieve the same result (e.g. buying EURGBP is equivalent to buying EURUSD and selling GBPUSD). Our model is, to our knowledge, the first to address the problem faced by an FX dealer who quotes a wide variety of currency pairs, including crosses, and can mitigate inventory risk by hedging on dealer-to-dealer (D2D) and/or all-to-all platforms. In particular it answers subtle questions where liquidity and correlation issues are intertwined, e.g. for positively correlated EURUSD and GBPUSD legs, what should be the spread of EURGBP? How should it compare to the sum of leg spreads? How to attract offsetting client flow or deter risky client flow in an optimal way when the marker maker is active in both direct pairs and crosses? How to optimally hedge the portfolio when trading platforms exist for direct pairs and some crosses? 
+
+As a consequence of FX market specific characteristics, our model differs from classical market making models in many ways, going from price dynamics to how trade sizes are defined, to the choice of the mathematically relevant state variables. To obtain optimal quotes and optimal hedging rates, one needs to solve a high-dimensional differential equation, but the techniques proposed in [4] can be adapted so that approximations of the optimal strategies can be obtained by solving a low-dimensional matrix Riccati-like differential equation (the dimensionality of the differential equations to solve only grows quadratically with the number of currencies, hence linearly with the maximal number of currency pairs). 
+
+We start by presenting our multi-currency market making model and show that, through a smart choice of the state variables, the problem boils down to solving a partial differential equation. We then demonstrate how the ideas developed in [4] can be adapted to approximate the true value function in closed form up to the computation of the solution of a matrix Riccati-like differential equation. We hereby claim that our approach is sufficiently scalable for practical use since the size of the (square) matrix mentioned above corresponds to the number of currencies. We further discuss the relevance of our closed-form approximations and illustrate numerically the resulting market making strategy in a market with 5 major currencies: USD, EUR, JPY, GBP and CHF. In particular, we demonstrate how correlated currency pairs are engaged through pricing and hedging when managing the risk in a single pair and show the impact of the presence of several currency pairs on the internalization vs. externalization dilemma faced by FX dealers [5]. With the help of Monte Carlo simulations, we confirm that the inventory probability distribution is shaped up by the portfolio risk profile and that the observed risk autocorrelation time is much shorter than any of the currency pair position autocorrelation times, leading to cost savings. 
+
+## **Multi-currency market making model** 
+
+We consider a market with _d_ currencies over a time interval of length _T_ . We regard currency 1 as the reference currency, typically USD, and consider _d_ price processes ( _St_[1][)] _t∈_ [0 _,T_ ] _[, . . . ,]_[ (] _[S] t[d]_[)] _t∈_ [0 _,T_ ][modelling][the] evolution of the market price (exchange rate) of each of the _d_ currencies in terms of the reference currency.[3] 
+
+We consider an FX dealer in this market. The dealer has inventories in _d_ currencies modelled by _d_ processes ( _qt_[1][)] _t∈_ [0 _,T_ ] _[, . . . ,]_[ (] _[q] t[d]_[)] _t∈_ [0 _,T_ ][.][We][assume][they][divide][their][clients][into] _[N]_[tiers][and][stream][them][pricing] ladders at the bid and at the ask for each currency pair. For each tier _n ∈{_ 1 _, . . . , N }_ and each couple ( _i, j_ ) _∈{_ 1 _, . . . , d}_[2] with _i ̸_ = _j_ , we introduce a R _[∗]_ + _[−]_[marked point process] _[ J][n,i,j]_[(] _[dt, dz]_[)][ modelling transactions] with clients from tier _n_ regarding the currency pair ( _i, j_ ), where _z_ is the size variable measured in reference currency. Formally, if _J[n,i,j]_ ( _dt, dz_ ) has a jump corresponding to size _z_ at time _t_ , it means that the market maker sells to the client a “quantity” _z/St[j]_[of][currency] _[j]_[and][receives][in][exchange][a][payment][in][currency] _[i]_ in line with the corresponding streamed pricing ladder. To build our model, we assume that this payment 
+
+> 3Of course ( _St_ 1[)] _t∈_ [0 _,T_ ][is][constant][with] _[S] t_[1][= 1] _[,][ ∀][t][ ∈]_[[0] _[, T]_[]][.] 
+
+2 
+
+is decomposed into a “quantity” _z/St[i]_[of][currency] _[i]_[and][fees,][denoted][by] _[zδ][n,i,j]_[(] _[t, z]_[)][,][that][are][accumulated] on a separate account labeled in reference currency – hence _δ[n,i,j]_ represents the markup (possibly negative) in percentage or basis points. 
+
+For each _n ∈{_ 1 _, . . . , N }_ and each couple ( _i, j_ ) _∈{_ 1 _, . . . , d}_[2] with _i_ = _j_ , the process _J[n,i,j]_ ( _dt, dz_ ) has an intensity kernel ( _νt[n,i,j]_ ( _dz_ )) _t∈_ [0 _,T_ ] verifying 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0003-02.png)
+
+
+where Λ _[n,i,j]_ is called the intensity function of the process _J[n,i,j]_ ( _dt, dz_ ). Following [3], we assume that the function Λ _[n,i,j]_ is of the logistic type:[4] 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0003-04.png)
+
+
+In addition to skewing quotes (internalization) to attract or divert client flow, the FX dealer can trade currency _i_ against currency _j_ on the D2D segment of the market (externalization). To model this form of hedging we introduce for each couple ( _i, j_ ) _∈{_ 1 _, . . . , d}_[2] with _i < j_ a process _ξt[i,j]_[models][the] � � _t∈_ [0 _,T_ ][which] amount (expressed in reference currency) per unit of time of currency _i_ bought by the dealer and paid in currency _j_ . Unlike what happened for pricing, we only consider couples ( _i, j_ ) with _i < j_ : _ξt[i,j]_ can be negative if the dealer buys currency _j_ and pays in currency _i_ . When trading at rate _ξt[i,j]_[,][we][assume][that][the][dealer] incurs execution costs[5] modeled by a term _L[i,j]_ ( _ξt[i,j]_[)][(accounted][in][reference][currency][like][the][above][fees),] where the function _L[i,j]_ is chosen of the form _L[i,j]_ ( _ξ_ ) = _ψ[i,j] |ξ|_ + _η[i,j] |ξ|_[1+] _[φ][i,j]_ ( _φ[i,j]_ = 1 throughout this paper). 
+
+Wrapping up, we get that the dynamics of inventories is given by 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0003-07.png)
+
+
+and the dynamics of the account where fees and execution costs are accounted for is 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0003-09.png)
+
+
+Let us now come to the dynamics of exchange rates with respect to the reference currency. We assume that 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0003-11.png)
+
+
+where ( _µ[i] t_[)] _t∈_ [0 _,T_ ][is][a][deterministic][drift,] _[σ][i][≥]_[0][is][the][volatility][of][currency] _[i]_[with][respect][to][the][reference] currency, _k[i]_ is a linear permanent market impact parameter, and � _Wt_[1] _[, . . . , W] t[ d]_ � _t∈_ [0 _,T_ ][is][a] _[d]_[-dimensional] correlated Brownian motion. Of course, _µ_[1] = _σ_[1] = _k_[1] = 0. 
+
+It is convenient for what follows to use vector and matrix notations: 
+
+_St_ = � _St_[1] _[, . . . , S] t[d]_ �⊺ _∈_ R _d, µ_ ( _t_ ) = _µt_ = � _µ_[1] _t[, µ]_[2] _t[, . . . , µ][d] t_ �⊺ _∈_ R _d_ and Σ = ( _ρ[i,j] σ[i] σ[j]_ )1 _≤i,j≤d ∈Sd_[+][(][R][)] _[,]_ where _ρ[i,j]_ = _[d][⟨][W][ i] dt[,][W][ j][⟩]_ . 
+
+> 4Generalizations are of course straightforward. 
+
+> 5In reality, not all pairs are available for trading on D2D platforms. This would correspond to very high execution cost in our model. 
+
+3 
+
+Given this dynamics for prices, we conclude that for all _i ∈{_ 1 _, . . . , d}_ , the process � _Yt[i]_ � _t∈_ [0 _,T_ ][=] � _qt[i][S] t[i]_ � _t∈_ [0 _,T_ ] corresponding to the inventory of currency _i_ measured in reference currency has the following Markovian dynamics: 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-01.png)
+
+
+In what follows, we denote by ( _Yt_ ) _t∈_ [0 _,T_ ] the vector of inventories measured in reference currency, i.e. _Yt_ = � _Yt_[1] _[, . . . , Y] t[d]_ �⊺ _∈_ R _d_ . 
+
+The FX dealer wants to maximize the Mark-to-Market value of their portfolio at time _T_ , while mitigating inventory risk. Mathematically, we assume that they want to maximize 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-04.png)
+
+
+over the admissible controls ( _δ[n,i,j]_ )1 _≤n≤N,_ 1 _≤i_ = _j≤d_ and ( _ξ[i,j]_ )1 _≤i<j≤d_ , where _γ >_ 0 represents the risk aversion of the market maker and _ℓ_ is a penalty for the remaining inventory at time _T_ .[6] Applying Ito’s formula to the process _Xt_ +[�] _[d] i_ =1 _[Y] t[i]_[us][to][see][that][this][problem][is][equivalent][to][maximizing] � � _t∈_ [0 _,T_ ][allows] 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-06.png)
+
+
+We denote by _θ_ : [0 _, T_ ] _×_ R _[d] →_ R the value function of this stochastic control problem. The associated Hamilton-Jacobi-Bellman equation is 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-08.png)
+
+
+where 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-10.png)
+
+
+and _D_ ( _y_ ) denotes the diagonal _d × d_ matrix such that _D_ ( _y_ ) _i,i_ = _yi_ for all _i ∈{_ 1 _, . . . , d}._ 
+
+It _δ_ ¯ _[n,i,j]_ is proved( _z, p_ ) = (in _f_ [9] _[n,i,j]_ that) _[−]_[1][�] for _−∂_ all _pH_ ( _[n,i,j] n, i, j_ ( _z, p_ ), )the� and this function can easily be computed numerically in the logisticsupremum in the definition of _H[n,i,j]_ ( _z, p_ ) is reached at a unique case we consider. If _θ_ is known, we therefore obtain the optimal quotes in the following form 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0004-13.png)
+
+
+> 6 _ℓ_ could account for the market impact when unwinding. 
+
+4 
+
+Similarly, the optimal trading rates are given by 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-01.png)
+
+
+## **Approximation of the value function and the optimal strategy** 
+
+Following the same ideas as in [4], we now approximate for _n ∈{_ 1 _, . . . , N }_ and for each couple ( _i, j_ ) _∈ {_ 1 _, . . . , d}_[2] with _i ̸_ = _j_ the Hamiltonian function _H[n,i,j]_ by a quadratic function _H_[ˇ] _[n,i,j]_ : 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-04.png)
+
+
+where a natural choice is of course 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-06.png)
+
+
+The structure of the problem leads us to approximate the Hamiltonian terms associated with _H[i,j]_ by 0 since _H[i,j]_ is typically flat around 0 when _ψ[i,j] >_ 0. 
+
+We then consider the new equation 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-09.png)
+
+
+which can be written as 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-11.png)
+
+
+Ifˇ _ℓ_ ( _y_ ) = _y_[⊺] _κy_ with _κ_ a semi-definite positive symmetric matrix, then Eq. (5) has a solution of the form _θ_ ( _t, y_ ) = _−y_[⊺] _A_ ( _t_ ) _y − y_[⊺] _B_ ( _t_ ) _− C_ ( _t_ ) where _t �→ A_ ( _t_ ) _∈Sd_ , _t �→ B_ ( _t_ ) _∈_ R _[d]_ and _t �→ C_ ( _t_ ) _∈_ R solve differential equations. As the value of _C_ is irrelevant for what follows, we only report here the equations for _A_ and _B_ : 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-13.png)
+
+
+where _⊙_ denotes the Hadamard product, 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-15.png)
+
+
+and 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-17.png)
+
+
+with _U_ = (1 _, . . . ,_ 1)[⊺] _∈_ R _[d]_ , _M_ a _d × d_ matrix such that 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0005-19.png)
+
+
+5 
+
+_M_ a _d × d_ matrix such that 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0006-01.png)
+
+
+and 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0006-03.png)
+
+
+where _D_ ( _A_ ) is a _d × d_ diagonal matrix with the same diagonal as _A_ , and _P_ is a _d × d_ matrix such that 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0006-05.png)
+
+
+The ODE system (6) involves a matrix Riccati-like differential equation whose solution can be approximated very easily using an Euler scheme. Once _A_ and _B_ are obtained, approximations of the optimal strategies can be obtained by replacing _θ_ by _θ_[ˇ] in Eqs. (2) and (3). We thereby obtain 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0006-07.png)
+
+
+and 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0006-09.png)
+
+
+## **Numerical results and discussion** 
+
+Before illustrating the market making strategy proposed above, it is noteworthy that we have validated, when _d_ = 2, our approximations against the optimal strategy computed thanks to the solution of Eq. (1) approximated with a monotone implicit Euler scheme on an inventory grid. Using parameters inspired from earlier work [2, 3], we studied both the strategies and the corresponding efficient frontier. Only under extreme conditions which are not practically relevant, such as strong order flow asymmetry (as high as fivefold) and very high or very low risk aversion, have we detected significant deviations. 
+
+For our illustrations, we consider a market with 5 major currencies: USD, EUR, JPY, GBP and CHF. We considered two tiers and a discretization of trade sizes corresponding to 1, 5, 10, 20 and 50 M$ for all currency pairs. We used the parameters documented in Table 1 unless specified otherwise. These parameters have been selected by analysing a subset of HSBC market making franchise, as previously described in [3]. However, they should not be considered as representative of HSBC but rather of a typical FX dealer. Standard currency pair naming convention is respected except that we used CHFUSD and JPYUSD instead of USDCHF and USDJPY to be consistent with our model (USD being the reference currency in our examples). 
+
+In what follows, both the drift vector _µ_ and the terminal penalty _κ_ are assumed to be 0. The time horizon is set to _T_ = 0 _._ 05 days (72 minutes) that ensures convergence towards stationary quotes and hedging strategy at time _t_ = 0. In particular, to compute the market making strategy, we used _A_ (0) and _B_ (0) instead of _A_ ( _t_ ) and _B_ ( _t_ ) throughout to mimic what would happen in the stationary case.[7] 
+
+Fig. 1 illustrates top of book pricing (i.e. for a size of 1M$) of EURUSD, GBPUSD and EURGBP as functions of GBP inventory, keeping the other inventories at 0, for tier 1. GBPUSD pricing looks familiar, with a skew to attract risk-offsetting flow and divert risky flow. Without correlation and without the cross, EURUSD pricing would be unaffected by GBP inventory. Here, instead, positive correlation leads to a protective pricing strategy for EURUSD. The pricing of the cross pair EURGBP also attracts or diverts the flow as a function of the GBP inventory, and this in turn influences the pricing of EURUSD. 
+
+> 7The dynamics of _A_ ( _t_ ) and _B_ ( _t_ ) would matter if _µ_ was not constant. 
+
+6 
+
+**Direct pairs** 
+
+|**Direct pairs**||
+|---|---|
+|Pair<br>_σ_<br>�<br>bps<br>~~_√_~~<br>day<br>�<br>_λ_(_z_)<br>�<br>1<br>day<br>�<br>_α_<br>_β_<br>�<br>1<br>bps<br>�<br>_ψ_ (bps)<br>_η_<br>�|bps_·_day<br>M$ �<br>_k_<br>�<br>bps<br>M$ �|
+|EURUSD<br>80<br>900, 540, 234, 90, 36<br>-1.9, -0.3<br>11, 3.5<br>0.1<br>10_−_5<br>5_·_10_−_3<br>GBPUSD<br>70<br>600, 200, 150, 40, 10<br>-1.4, 0.0<br>5.5, 2.0<br>0.15<br>1_._5_·_10_−_5<br>7_·_10_−_3<br>CHFUSD<br>60<br>420, 140, 105, 28, 7<br>-1.2, 0.0<br>4.5, 1.9<br>0.25<br>2_._5_·_10_−_5<br>8_·_10_−_3<br>JPYUSD<br>60<br>825, 375, 180, 105, 15<br>-1.6, -0.1<br>9.0, 3.0<br>0.1<br>1_._5_·_10_−_5<br>6_·_10_−_3||
+|**Crosses**<br>Pair<br>_ρ_<br>_λ_(_z_)<br>�<br>1<br>day<br>�<br>_α_<br>_β_<br>�<br>1<br>bps<br>�<br>_ψ_ (bps)<br>_η_<br>�<br>bps_·_day<br>M$ �<br>EURGBP<br>0.6<br>400, 50, 25, 20, 5<br>-0.5, 0.5<br>3.5, 2.5<br>0.25<br>3_·_10_−_5<br>EURCHF<br>0.5<br>400, 50, 25, 20, 5<br>-0.5, 0.5<br>3.5, 2.5<br>0.25<br>3_·_10_−_5<br>EURJPY<br>0.3<br>400, 50, 25, 20, 5<br>-0.5, 0.5<br>3.5, 2.5<br>0.25<br>3_·_10_−_5<br>GBPCHF<br>0.3<br>160, 20, 10, 8, 2<br>-0.5, 0.5<br>3.5, 2.5<br>0.4<br>5_·_10_−_5<br>GBPJPY<br>0.2<br>160, 20, 10, 8, 2<br>-0.5, 0.5<br>3.5, 2.5<br>0.4<br>5_·_10_−_5<br>CHFJPY<br>0.4<br>80, 10, 5, 4, 1<br>-0.5, 0.5<br>3.5, 2.5<br>0.4<br>5_·_10_−_5<br>Table 1:<br>Parameters for the currency pairs. The correlation coefcient _ρ_ provided for crosses describe<br>correlation between the corresponding dollar-based legs. Size ladders are the same for all pairs in referenc<br>currency, i.e. _z_ = 1_,_5_,_10_,_20_,_50 M$. Two client tiers with diferent _α_ and _β_ parameters (independent of _z_<br>are considered for each pair. Intensity amplitudes _λ_(_z_) are taken to be the same for each tier.<br>100<br>75<br>50<br>25<br>0<br>25<br>50<br>75<br>100<br>GBP Inventory (M$)<br>2.0<br>1.5<br>1.0<br>0.5<br>0.0<br>0.5<br>1.0<br>1.5<br>2.0<br>Bid and Ask Quotes (bps)<br>Optimal Top of Book Quotes<br>GBPUSD<br>EURUSD<br>EURGBP||
+
+
+
+Table 1: Parameters for the currency pairs. The correlation coefficient _ρ_ provided for crosses describes correlation between the corresponding dollar-based legs. Size ladders are the same for all pairs in reference currency, i.e. _z_ = 1 _,_ 5 _,_ 10 _,_ 20 _,_ 50 M$. Two client tiers with different _α_ and _β_ parameters (independent of _z_ ) are considered for each pair. Intensity amplitudes _λ_ ( _z_ ) are taken to be the same for each tier. 
+
+Figure 1: Optimal top of book pricing for the currency pairs EURUSD, GBPUSD and EURGBP as functions of GBP inventory with other inventories set to 0 (tier 1). The curves represent respectively _δ_[1] _[,X,Y]_ and _−δ_[1] _[,Y,X]_ for each currency pair XY. Risk aversion: _γ_ = 20 (M$) _[−]_[1] . 
+
+Fig. 2 shows optimal hedging strategy as a function of EUR inventory when other inventories are equal to zero. EURUSD execution rate displays a familiar pattern with pure internalization area in the middle and nearly linear growth for larger positions. Understandably, when the inventory becomes very large the dealer may want to offload part of the risk into other correlated direct currency pairs and crosses. The main reason is that for large inventories the price skew has likely already been exploited and one cannot expect much different client flow when skewing further. 
+
+7 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0008-00.png)
+
+
+**----- Start of picture text -----**<br>
+Optimal Externalization Strategy<br>JPYUSD<br>CHFUSD<br>0.4 GBPUSD<br>EURUSD<br>CHFJPY<br>GBPJPY<br>GBPCHF<br>0.2<br>EURJPY<br>EURCHF<br>EURGBP<br>0.0<br>1.0<br>0.8<br>0.2<br>0.6<br>0.4<br>0.2<br>0.4<br>0.0<br>JPY CHF GBP EUR<br>100 75 50 25 0 25 50 75 100<br>EUR Inventory (M$)<br>)<br>1<br>s<br>JPY<br>Execution Rate (M$  CHF<br>GBP<br>EUR<br>**----- End of picture text -----**<br>
+
+
+Figure 2: Optimal execution rates for the different currency pairs as functions of EUR inventory with other inventories set to 0. Insert: correlation matrix. Risk aversion: _γ_ = 20 (M$) _[−]_[1] . 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0008-02.png)
+
+
+**----- Start of picture text -----**<br>
+Correlation Dependence of Pure Internalization Area<br> = 0<br> = 0.6<br>40<br>20<br>0<br>20<br>40<br>100 75 50 25 0 25 50 75 100<br>EUR Inventory (M$)<br>GBP Inventory Thresholds (M$)<br>**----- End of picture text -----**<br>
+
+
+Figure 3: Pure internalization area thresholds for GBP as functions of EUR inventory in a market with USD, EUR and GBP. Different correlation levels are color coded as labeled. Dashed line correspond to a market without the cross, i.e. only EURUSD and GBPUSD. Risk aversion: _γ_ = 20 (M$) _[−]_[1] . 
+
+Fig. 3 explores the effect of correlation and the influence of the cross pair on the pure internalization area in the case of the three currencies USD, EUR and GBP. In line with intuition, the pure internalization area is slanted because of correlation: it is not always optimal for a dealer to start hedging externally when positions in correlated currencies already mitigate part of the risk. The pure internalization area is even more slanted in the presence of the cross pair which can attract client flow on its own and limit the necessity 
+
+8 
+
+to hedge externally. Interestingly, the presence of the cross influences the internalization area even without correlation: it is slanted and not horizontal even when _ρ_ = 0. 
+
+Once the optimal strategy has been computed, one can follow [3] and simulate the inventories resulting from the use of the market making strategy via standard Monte Carlo procedure. Fig. 4 illustrates the probability distribution of inventories in EUR and GBP in the case of a market with the three currencies USD, EUR and GBP. This empirical distribution is superimposed onto the risk contour plot and we clearly see that risk drives the inventory distribution. 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0009-02.png)
+
+
+**----- Start of picture text -----**<br>
+Inventory Risk and Probability Distribution<br>30<br>20<br>10<br>0<br>10<br>20<br>30<br>30 20 10 0 10 20 30<br>GBP Inventory (M$)<br>EUR Inventory (M$)<br>**----- End of picture text -----**<br>
+
+
+Figure 4: Inventory risk (countour plot) defined as _[γ]_ 2 _[y]_[⊺][Σ] _[y]_[and inventory probability distribution associated] with simulations of the market making strategy (2d histogram on the basis of a 10[6] second long Monte Carlo trajectory) in a market with EURUSD, GBPUSD and EURGBP. Risk aversion: _γ_ = 20 (M$) _[−]_[1] . 
+
+Fig. 5 returns to the case of a market with the 5 currencies and shows that the inventory autocorrelation functions of individual pairs decay much slower than the risk autocorrelation function. This means that the dealer is able to offload risk fast while essentially trading slower and thus saving on impact and transaction cost. The figure also provides information on volume share, P&L share and internalization ratio. The latter is consistent with previously reported typical internalization levels of about 80% for G10 currencies by top-tier banks [12]. 
+
+9 
+
+
+![](markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c_images/Dealing_with_multi-currency_inventory_risk_in_FX_c.pdf-0010-00.png)
+
+
+**----- Start of picture text -----**<br>
+Inventory Autocorrelation and Volume Share<br>1.0<br>EURJPY<br>EURGBP<br>EURUSD EURCHF<br>0.8 CHF<br>USDCHF<br>JPY<br>T1<br>GBP H CHFJPY<br>0.6<br>T2<br>GBPCHF<br>GBPJPY EUR<br>0.4 USDJPY<br>GBPUSD<br>0.2<br>Risk<br>0.0<br>0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0<br>Time (min)<br>ACF<br>**----- End of picture text -----**<br>
+
+
+Figure 5: Component inventory and portfolio risk autocorrelation functions on the basis of a 5 _·_ 10[6] second long Monte Carlo trajectory. Insert pie chart shows the corresponding volume share by currency pair (outer layer), P&L share by currency outside of USD (middle layer) and traded volume distribution among client tiers and hedging (inner layer, _H_ denotes external hedging, _T_ 1 and _T_ 2 stand for the tiers). Risk aversion: _γ_ = 20 (M$) _[−]_[1] . 
+
+## **Concluding Remarks** 
+
+We have introduced and analyzed in detail numerically a multi-currency market making model incorporating fundamental risk controls taking into account correlations, client tiering, pricing ladders and external hedging with transaction cost and market impact. Approximation techniques are proposed which make the framework scalable to any number of currency pairs and thus offering immediate practical application to the FX industry. The results obtained demonstrate efficient risk reduction due to optimization at portfolio rather than individual currency pair level. 
+
+## **Statement and acknowledgment** 
+
+The results presented in this paper are part of the research works carried out within the HSBC FX Research Initiative. The views expressed are those of the authors and do not necessarily reflect the views or the practices at HSBC. The authors are grateful to Richard Anthony (HSBC) for helpful discussions and support throughout the project. 
+
+10 
+
+## **References** 
+
+- [1] Marco Avellaneda and Sasha Stoikov. High-frequency trading in a limit order book. _Quantitative Finance_ , 8(3):217–224, 2008. 
+
+- [2] Alexander Barzykin, Philippe Bergault, and Olivier Guéant. Algorithmic market making in foreign exchange cash markets: a new model for active market makers. _arXiv preprint arXiv:2106.06974_ , 2021. 
+
+- [3] Alexander Barzykin, Philippe Bergault, and Olivier Guéant. Market making by an fx dealer: tiers, pricing ladders and hedging rates for optimal risk control. _arXiv preprint arXiv:2112.02269_ , 2021. 
+
+- [4] P. Bergault, D. Evangelista, O. Guéant, and D. Vieira. Closed-form approximations in multi-asset market making. _Applied Mathematical Finance_ , 28(2):101–142, 2021. 
+
+- [5] Maximilian Butz and Roel Oomen. Internalisation by electronic fx spot dealers. _Quantitative Finance_ , 19(1):35–56, 2019. 
+
+- [6] Álvaro Cartea, Sebastian Jaimungal, and José Penalva. _Algorithmic and high-frequency trading_ . Cambridge University Press, 2015. 
+
+- [7] Álvaro Cartea, Sebastian Jaimungal, and Jason Ricci. Buy low, sell high: A high frequency trading perspective. _SIAM Journal on Financial Mathematics_ , 5(1):415–444, 2014. 
+
+- [8] Olivier Guéant. _The Financial Mathematics of Market Liquidity: From optimal execution to market making_ , volume 33. CRC Press, 2016. 
+
+- [9] Olivier Guéant. Optimal market making. _Applied Mathematical Finance_ , 24(2):112–154, 2017. 
+
+- [10] Olivier Guéant, Charles-Albert Lehalle, and Joaquin Fernandez-Tapia. Dealing with the inventory risk: a solution to the market making problem. _Mathematics and financial economics_ , 7(4):477–507, 2013. 
+
+- [11] Thomas Ho and Hans R Stoll. Optimal dealer pricing under transactions and return uncertainty. _Journal of Financial economics_ , 9(1):47–73, 1981. 
+
+- [12] Andreas Schrimpf and Vladyslav Sushko. Fx trade execution: complex and highly fragmented. _BIS Quarterly Review, December_ , 2019. 
+
+11 
+
