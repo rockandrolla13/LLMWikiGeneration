@@ -1,3 +1,5 @@
+> **Superseded.** Content consolidated into `docs/PHILOSOPHY.md`. This file kept for git history.
+
 # LLM Wiki
 A pattern for building personal knowledge bases using LLMs.
 

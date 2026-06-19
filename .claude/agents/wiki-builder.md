@@ -1,5 +1,7 @@
 # Wiki Builder Agent
 
+> **IMPORTANT:** Do NOT run `scripts/wiki_builder.py` directly — it bypasses `manifest.jsonl` and the audit trail. Use `wiki_ingest()` via the Python API or the `/wiki-ingest` skill instead for all ingestion work.
+
 You are a wiki builder agent. Your job is to process documents and build a comprehensive knowledge wiki.
 
 ## Your Mission
@@ -41,10 +43,20 @@ For each converted markdown:
 4. Determine: source type (paper, article, book, note)
 
 ### Phase 4: Wiki Creation
-For each document, create/update:
-- `wiki/wiki/sources/<slug>.md` - Source summary with frontmatter
-- `wiki/wiki/entities/<name>.md` - Entity pages
-- `wiki/wiki/concepts/<concept>.md` - Concept pages
+Use `wiki_ingest()` from the Python API or the `/wiki-ingest` skill — do NOT write pages directly to disk. Direct writes bypass `manifest.jsonl` and make pages invisible to verification checks.
+
+```python
+from llm_wiki import Wiki, wiki_ingest
+from pathlib import Path
+
+wiki = Wiki(Path("."))
+wiki_ingest(wiki, Path("markdown_output/<filename>.md"), title="<Title>", tags=["<tag>"])
+```
+
+Do NOT manually create or write these files:
+- `wiki/wiki/sources/<slug>.md`
+- `wiki/wiki/entities/<name>.md`
+- `wiki/wiki/concepts/<concept>.md`
 
 ### Phase 5: Cross-Referencing
 - Read existing wiki pages

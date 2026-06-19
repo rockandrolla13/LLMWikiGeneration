@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 """
+DEPRECATED: This script writes wiki pages directly, bypassing wiki_ingest() and
+manifest.jsonl. Pages created here are invisible to verification checks and the
+audit trail. Use wiki_ingest() from the llm_wiki package instead.
+
+Kept for reference only. Do not use for new ingestion work.
+
+---
+
 Wiki Builder - End-to-end document processing pipeline.
 
 Usage:

@@ -42,7 +42,7 @@ Create/update wiki pages:
 - `wiki/entities/<name>.md` - For each person/org mentioned
 - `wiki/concepts/<concept>.md` - For each key concept
 - Update `wiki/wiki/index.md` with new entries
-- Update `MIND_MAP.md` with new nodes
+- Do NOT update `MIND_MAP.md` inline — MIND_MAP is T1/handcrafted; update deferred to explicit rebuild
 
 ### 4. Cross-Reference Check
 - Find related existing pages

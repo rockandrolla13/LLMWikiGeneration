@@ -1,3 +1,5 @@
+> **Archive.** This is a historical planning document. Current operational spec is `CLAUDE.md` + `docs/REFERENCE.md`.
+
 # LLM Wiki: Implementation Plan v2
 
 **Markdown as Single Source of Truth**

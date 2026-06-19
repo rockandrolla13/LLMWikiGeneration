@@ -1,9 +1,10 @@
 <!--
-AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-06-19T23:27:51.294152Z
-Generator: llm-wiki 0.1.0
-Source hash: sha256:8bd98b848e3483b6
-Rebuild with: wiki:rebuild
+TIER 1 - HANDCRAFTED - DO NOT OVERWRITE WITH wiki_rebuild()
+This file is maintained manually and contains 211+ thematic nodes curated over time.
+The Python MindMapCompiler generates only a 50-node routing stub and would destroy
+the navigational value of this file if run. Update nodes explicitly during dedicated
+rebuild sessions, not inline during ingest.
+Last significant edit: 2026-06-19
 -->
 
 

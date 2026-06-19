@@ -323,3 +323,5 @@
 {"op":"batch_ingest","op_id":"batch_ingest_6_2026_06_19","timestamp":"2026-06-19T22:40:00Z","batch":6,"sources":["hastie-2009-elements-statistical-learning","yegge-2025-vibe-coding"],"count":2,"note":"Final batch — completes Technical Books To Ingest ingestion"}
 
 {"op":"maintenance","op_id":"fix_contradictions_dir_2026_06_20","timestamp":"2026-06-20T00:00:00Z","note":"Created wiki/wiki/contradictions/ directory and made contradiction detection a required ingest step"}
+
+{"op":"maintenance","op_id":"deprecate_wiki_builder_2026_06_20","timestamp":"2026-06-20T00:00:00Z","note":"Deprecated scripts/wiki_builder.py — direct page writes bypass manifest.jsonl; use wiki_ingest() instead"}
