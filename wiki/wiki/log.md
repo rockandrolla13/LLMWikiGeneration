@@ -1,6 +1,47 @@
 
 ---
 
+## [batch_ingest_6_2026_06_19] 2026-06-19T22:40:00Z
+
+**Operation:** batch_ingest  
+**Batch:** 6 of 6 (FINAL)  
+**Added sources:** hastie-2009-elements-statistical-learning, yegge-2025-vibe-coding  
+**Result:** 2 source pages created — completing full Technical Books To Ingest ingestion (35 new sources total across batches 1-6).
+
+---
+
+## [batch_ingest_5_2026_06_19] Batch 5: MLOps, RL, Stats Books
+**Date:** 2026-06-19
+**Sources:** Multi-Agent Coordination: A Reinforcement Learning Approach, Practical MLOps: Operationalizing Machine Learning Models, Simulation Models for Data Science, Software Testing with Generative AI, Statistical Rethinking: A Bayesian Course with Examples in R and STAN
+
+---
+
+## [batch_ingest_4_2026_06_19] Batch 4: Math/Deep-Learning Books
+**Date:** 2026-06-19
+**Sources:** Math and Architectures of Deep Learning, Mathematical Engineering of Deep Learning
+
+---
+
+## [batch_ingest_3_2026_06_19] Batch Ingest: Technical Books Batch 3
+**Date:** 2026-06-19
+**Sources:** Introduction to Machine Learning Systems, Learning AutoML, Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals
+
+---
+
+## [batch_ingest_2_2026_06_19] Batch Ingest: Technical Books Batch 2
+**Date:** 2026-06-19  
+**Sources:** Designing Financial Data Architectures, Datenverwaltung mit Unity Catalog auf Databricks, Financial Theory with Python: A Gentle Introduction, Graph Neural Networks in Action, Hands-on Small Language Models, Fundamentals of Data Engineering, How We Built Our Multi-Agent Research System, Introduction to Agents, How OpenAI Uses Codex, Financial Data Engineering: Design and Build Data-Driven Financial Products
+
+---
+
+## [batch_ingest_technical_books_2026_06_19] Batch Ingest: Technical Books Collection
+**Date:** 2026-06-19  
+**Type:** batch_ingest  
+**Sources:** 13 books ingested  
+**Books:** Agentic Coding for Beginners, A Practical Guide to Building Agents, Beyond Vibe Coding: From Coder to AI-Era Developer, Build a DeepSeek Model From Scratch, Building Embodied AI Systems, Building LLMs for Production, Building Modern Data Applications Using Databricks Lakehouse, Claude Code: The Definitive Guide to Agentic Development, Coding with AI, Databricks Certified Data Engineer Associate Study Guide, Databricks Spark Knowledge Base, Data Quality Engineering in Financial Services, Databricks Spark Knowledge Base (Chinese Edition)
+
+---
+
 ## [2026-05-15] ingest | Conformal Prediction with Tukey g-h batch (2 PDFs)
 
 Operation ID: op_conformal_gh_20260515

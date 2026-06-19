@@ -12,6 +12,9 @@ Ask first. Wait for explicit approval before writing, editing, or creating files
 
 Never invent citations, page numbers, equation forms, theorem statements, function names, file paths, API signatures, dates, author affiliations, or any other factual detail. If a fact is not present in source material (wiki pages, files in the repo, web fetch, prior conversation), say so explicitly rather than guess. Flag uncertainty inline (e.g., "wiki summary is thin here; supplementing from paper-level knowledge — verify against the PDF before relying on this").
 
+Compile, don't quote (unless explicitly requested)." Synthesize the new information in its own words and merge it seamlessly into existing concept pages.
+
+
 ---
 
 ## SESSION STARTUP - DO THIS FIRST
