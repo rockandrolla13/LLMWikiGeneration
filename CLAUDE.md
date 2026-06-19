@@ -278,7 +278,7 @@ grep -i "transformer" MIND_MAP.md      # Find by keyword
 #### Verify Phase
 - [ ] All pages have required frontmatter fields
 - [ ] All wikilinks resolve to existing pages (no broken links)
-- [ ] Contradictions flagged in `wiki/contradictions/` if found
+- [ ] Contradiction check completed and documented (even if result is none found)
 - [ ] Operation logged in `manifest.jsonl`
 - [ ] Human-readable entry appended to `wiki/log.md`
 
@@ -302,7 +302,9 @@ grep -i "transformer" MIND_MAP.md      # Find by keyword
   - Questions raised
 - [ ] Create or update entity pages in `wiki/entities/`
 - [ ] Create or update concept pages in `wiki/concepts/`
-- [ ] If contradictions found, create page in `wiki/contradictions/`
+- [ ] Search existing concept pages for claims conflicting with new source's key claims
+- [ ] If contradictions found: create page in `wiki/contradictions/` (REQUIRED, not optional)
+- [ ] If no contradictions: note "No contradictions found" in ingest log
 
 #### Answer a Query
 

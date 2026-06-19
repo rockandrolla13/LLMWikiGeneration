@@ -25,8 +25,7 @@ Before ingesting, read the source and discuss with user:
 1. What is the main thesis or contribution?
 2. What entities (people, orgs, places) are mentioned?
 3. What concepts does this relate to?
-4. Does this contradict anything already in the wiki?
-5. What should be emphasized?
+4. What should be emphasized?
 
 Then execute:
 
@@ -77,4 +76,7 @@ After ingestion:
 1. Show the source summary page created
 2. List entity and concept pages created/updated
 3. Show updated links in index.md
-4. Suggest next sources to add or questions to explore
+4. **REQUIRED - Contradiction check:** Search existing concept pages for claims that directly conflict with the new source's key claims. Grep for the overlapping concept names in `wiki/wiki/concepts/`, then read those pages and compare claims.
+   - If a contradiction is found: create a contradiction page in `wiki/wiki/contradictions/` before completing the ingest. The page must use `page_type: contradiction` frontmatter and cite both source pages.
+   - If no contradiction is found: state explicitly "No contradictions found" in the ingest summary.
+5. Suggest next sources to add or questions to explore

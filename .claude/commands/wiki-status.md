@@ -51,6 +51,11 @@ else:
     print("Not installed. Install with: pip install omega-memory[server]")
 ```
 
+Index files:
+- wiki/wiki/index.md — lightweight summary (one line per page), used by /wiki-query
+- wiki/wiki/index.full.md — full catalog with summaries and stats, use this for detailed
+  maintenance inspection (page counts, summaries, broken links, etc.)
+
 Offer next actions:
 - /wiki-ingest to add more sources
 - /wiki-query to search

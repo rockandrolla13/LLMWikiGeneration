@@ -5,8 +5,11 @@ If no question provided, ask what the user wants to know.
 Process:
 1. First check OMEGA for relevant past queries and learnings
 2. Read MIND_MAP.md for orientation
-3. Search wiki pages for relevant content
-4. Synthesize an answer with citations
+3. Read wiki/wiki/index.md (the lightweight summary index — one line per page) to identify
+   relevant pages by page_id and title. Do NOT read wiki/wiki/index.full.md here; that file
+   is large (~120 KB) and is reserved for maintenance/status operations only.
+4. Search the relevant wiki pages for content
+5. Synthesize an answer with citations
 
 ```python
 from pathlib import Path

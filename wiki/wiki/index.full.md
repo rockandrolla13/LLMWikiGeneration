@@ -1,0 +1,1592 @@
+---
+generated: true
+page_type: index
+title: Wiki Index (Full)
+updated: '2026-06-19T23:27:50.952518Z'
+---
+
+<!--
+AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
+Generated: 2026-06-19T23:27:50.950870Z
+Generator: llm-wiki 0.1.0
+Source hash: sha256:8bd98b848e3483b6
+Rebuild with: wiki:rebuild
+-->
+
+
+# ML Research Wiki
+
+Master catalog of all pages in this wiki.
+
+## Sources
+*Summary pages for ingested source documents.*
+
+- [[2019 US Credit Outlook: The Bear Has Begun]] - **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[2026: Steady, but AI & the Hawks are Circling (Software)]] - **Authors:** Steve Caprio, Jim Reid, Karthik Nagalingam, Cem Keltek, Emilie Calder · **Year:** 2026 · **Venue:** Deutsche Bank Research - Global Credit Strategy Default Study · **Type:** report
+- [[4Q18 US Credit Fundamental Review]] - **Authors:** Adam Richmond, Vishwas Patkar, Fred Fuchs, Felician Stratmann, Aleks Nozhnitskiy, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[A Birdie for the Balance Sheet — Duration and Curves]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Researc...
+- [[A Combination Forecasting Model Using Machine Learning and Kalman Filter for Statistical Arbitrage]] - This paper evaluates the combination of Extreme Learning Machine (ELM) and Support Vector Regression (SVR) with a Kalman filter regression model for financial time series forecasting in the context of...
+- [[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification]] - **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]]
+- [[A Gentle Introduction to Conformal Time Series Forecasting]] - **Authors:** [[entities/m-stocker|M. Stocker]], [[entities/wiktoria-malgorzewicz|Wiktoria Małgorzewicz]], [[entities/matteo-fontana|Matteo Fontana]], [[entities/souhaib-ben-taieb|Souhaib Ben Taieb]]
+- [[A High Yield Hedge]] - **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Aleksandr Nozhnitskiy, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[A Pairs Trading Strategy Based on Linear State Space Models]] - Proposes a pairs trading strategy based on linear state space models using the Kalman filter to calculate conditional probabilities of spread mean-reversion. Extends Elliott et al. (2005) framework by...
+- [[A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter]] - This paper proposes a pairs trading strategy entirely based on linear state space models for modeling the spread between paired assets. The methodology uses the Kalman filter to calculate conditional ...
+- [[A Practical Guide to Building Agents]] - **Authors:** OpenAI
+- [[A Review and Comparative Analysis of Univariate Conformal Regression Methods]] - **Authors:** Jie Bao, Nicolo Colombo, Valery Manokhin, Suqun Cao, Rui Luo
+- [[A Tutorial on Conformal Prediction]] - **Authors:** [[entities/glenn-shafer|Glenn Shafer]], [[entities/vladimir-vovk|Vladimir Vovk]]
+- [[Adaptive Conformal Inference Under Distribution Shift]] - **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
+- [[Adaptive Conformal Predictions for Time Series]] - **Authors:** [[entities/margaux-zaffran|Margaux Zaffran]], Aymeric Dieuleveut, Olivier Féron, Yannig Goude, Julie Josse
+- [[Add to Credit – and How Much Do Markets Lead the Economy?]] - **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Advanced Algorithmic Trading]] - **Authors:** Michael L. Halls-Moore · **Venue:** QuantStart · **Type:** book
+- [[Advanced Analytics and Learning on Temporal Data (AALTD 2024)]] - **Editors:** Vincent Lemaire, Georgiana Ifrim, Anthony Bagnall, Thomas Guyet, Simon Malinowski, Patrick Schäfer, Romain Tavenard
+- [[Advanced Futures Trading Strategies]] - **Authors:** Robert Carver · **Year:** 2023 · **Venue:** Harriman House · **Type:** book
+- [[Agentic Coding for Beginners]] - **Authors:** Wasi
+- [[AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]] - **Authors:** Tarek Hamid, Nathaniel Rosenbaum, Nelson Jantzen, Thomas Egan, Erica R. Spear, Silvi Mantri · **Year:** 2026 · **Venue:** J.P. Morgan North America Credit Research · **Type:** report
+- [[AI Engineering]] - *Building Applications with Foundation Models*
+- [[AI Value Creators]] - *Beyond the Generative AI User Mindset*
+- [[AI-Assisted Programming]] - *Better Planning, Coding, Testing, and Deployment*
+- [[Algorithmic Learning in a Random World]] - **Authors:** [[entities/vladimir-vovk|Vladimir Vovk]], [[entities/alexander-gammerman|Alexander Gammerman]], [[entities/glenn-shafer|Glenn Shafer]]
+- [[Algorithmic market making in foreign exchange cash markets]] - This foundational paper introduces the concept of **active market making** where dealers can not only set quotes but also actively trade in liquidity pools. This extends the [[concepts/avellaneda-stoi...
+- [[Algorithmic Market Making in Spot Precious Metals]] - This paper introduces a novel [[concepts/market-making]] framework for spot precious metals that leverages the **cointegration** between spot and futures prices. The key innovation is modeling the Exc...
+- [[Algorithmic trading in a microstructural limit order book model]] - **Authors:** Frederic Abergel, Come Hure, Huyen Pham
+- [[An Easing Trio (Sunday Start: What's Next in Global Macro)]] - **Authors:** Chetan Ahya · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[An Innovative High-Frequency Statistical Arbitrage in Chinese Futures Market]] - This paper establishes an innovative pairs trading framework for the Chinese commodity futures market using cointegration tests, Kalman filter, and Hurst index filtering. The framework is tested on mi...
+- [[Anatomy of Municipal Green Bond Yield Spreads]] - **Authors:** Mohammad Hadi Sehatpour, Marta Campi, [[entities/christina-nikitopoulos|Christina S. Nikitopoulos]], [[entities/gareth-peters|Gareth W. Peters]], Kylie-Anne Richards
+- [[Another Turning Point (Sunday Start: What's Next in Global Macro)]] - **Authors:** James K Lord · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Architecture Patterns with Python]] - *Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices*
+- [[Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach]] - **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets]] - **Authors:** [[entities/anna-coppola|Anna Coppola]], [[entities/giovanni-urga|Giovanni Urga]], [[entities/alessandro-varaldo|Alessandro Varaldo]]
+- [[Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference]] - Peters, Xu, Zhu, and He (April 2026, two drafts in circulation) develop a multivariate spot-rate modelling framework where each rate follows CIR-type dynamics while regimes switch **asynchronously** a...
+- [[Attention Is All You Need]] - The Transformer architecture relies entirely on [[self-attention]] mechanisms. This paper introduced the foundation for modern LLMs.
+- [[Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]] - **Authors:** Jan Babecky, Tomas Havranek, Jakub Mateju, Marek Rusnak, Katerina Smidkova, Borek Vasicek · **Year:** 2014 · **Venue:** Journal of Financial Stability · **Type:** paper
+- [[Bayes and Base Rates: How History Can Guide Our Assessment of the Future]] - **Authors:** Michael J. Mauboussin, Dan Callahan · **Year:** 2026 · **Venue:** Counterpoint Global Insights (Morgan Stanley Investment Management) · **Type:** report
+- [[Bayesian Nonparametric Modeling for Causal Inference]] - **Authors:** Jennifer L. Hill · **Year:** 2011 · **Venue:** Journal of Computational and Graphical Statistics · **Type:** paper
+- [[Bayesian On-line Change-point Detection: Spatio-temporal point processes]] - **Author:** Ioannis Zachos
+- [[Bayesian Reconstruction and Regression with Multivariate Graph Signals]] - PhD thesis advancing Graph Signal Processing (GSP) theory for Bayesian reconstruction and regression with multivariate graph signals. Develops efficient algorithms for Cartesian product graphs, extend...
+- [[Beyond Vibe Coding: From Coder to AI-Era Developer]] - **Authors:** Addy Osmani
+- [[Build a DeepSeek Model From Scratch]] - **Authors:** Raj Abhijit Dandekar, Rajat Dandekar
+- [[Build a Large Language Model (From Scratch)]] - **Authors:** [[entities/sebastian-raschka|Sebastian Raschka]]
+- [[Building Embodied AI Systems]] - **Authors:** Pethuru Raj, Alvaro Rocha
+- [[Building Knowledge Graphs]] - *A Practitioner's Guide*
+- [[Building LLMs for Production]] - **Authors:** Louis-François Bouchard
+- [[Building Modern Data Applications Using Databricks Lakehouse]] - **Authors:** Will Girten
+- [[Business Plan Details for Xantium: Systematic Spread Fixed Income Trading]] - **Authors:** Andreas Koukorinis · **Year:** 2024 · **Type:** business-plan
+- [[Causal Inference: What If]] - **Authors:** Miguel A. Hernán, James M. Robins · **Year:** 2020 · **Venue:** Chapman & Hall/CRC · **Type:** book
+- [[Causality and Explanation]] - **Authors:** Wesley C. Salmon · **Year:** 1998 · **Venue:** Oxford University Press · **Type:** book
+- [[China – Doing whatever it takes]] - **Authors:** Chetan Ahya, Robin Xing, Derrick Y Kam, Nora Wassermann · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Citi Global Theme Book]] - **Venue:** Citigroup Global Markets · **Type:** report
+- [[Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]] - **Authors:** Mark Schofield, Benjamin Nabarro · **Year:** 2019 · **Venue:** Citi Research (Citigroup Global Markets) · **Type:** report
+- [[Classification with Valid and Adaptive Coverage]] - **Authors:** [[entities/yaniv-romano|Yaniv Romano]], [[entities/matteo-sesia|Matteo Sesia]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
+- [[Claude Code: The Definitive Guide to Agentic Development]] - **Authors:** Anthropic
+- [[Closed-form approximations in multi-asset market making]] - This paper addresses the computational challenge of implementing [[concepts/market-making]] algorithms for portfolios of multiple assets. While the [[concepts/avellaneda-stoikov-model]] and its extens...
+- [[Code Reading in Practice]] - *Hands-On Techniques to Understand, Refactor and Improve How You Work With Code*
+- [[Coding with AI]] - **Authors:** Jeremy C. Morgan
+- [[Common Pitfalls in the Evaluation of Corporate Bond Strategies]] - A critical methodological paper demonstrating that large abnormal returns documented for many corporate bond strategies are artifacts of (1) ignoring market microstructure noise in TRACE transaction p...
+- [[Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics]] - **Authors:** Jason Adams, Brandon Berman, Joshua Michalenko, J. Derek Tucker (Sandia National Laboratories)
+- [[Conformal Inference for Online Prediction with Arbitrary Distribution Shifts]] - **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
+- [[Conformal PID Control for Time Series Prediction]] - **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
+- [[Conformal Prediction (CMU Lecture Notes, Spring 2023)]] - **Author:** [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
+- [[Conformal Prediction Beyond Exchangeability]] - **Authors:** [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ramdas]], [[entities/ryan-tibshirani|Ryan J. Tibshir...
+- [[Conformal prediction for time series]] - **Authors:** [[entities/chen-xu|Chen Xu]], [[entities/yao-xie|Yao Xie]]
+- [[Conformal Prediction Under Covariate Shift]] - **Authors:** [[entities/ryan-tibshirani|Ryan J. Tibshirani]], [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ram...
+- [[Conformal Prediction with Conditional Guarantees]] - **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/john-cherian|John J. Cherian]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
+- [[Conformal Prediction with Missing Values]] - **Zaffran, M., Dieuleveut, A., Josse, J., & Romano, Y. (2023).** Conformal Prediction with Missing Values. *NeurIPS 2023*.
+- [[Conformal Prediction: A Data Perspective]] - **Authors:** [[entities/xiaofan-zhou|Xiaofan Zhou]], [[entities/baiting-chen|Baiting Chen]], [[entities/yu-gui|Yu Gui]], [[entities/lu-cheng|Lu Cheng]]
+- [[Conformal Prediction: A Tutorial (Hi! PARIS Summer School)]] - **Authors / Presenters:** [[entities/aymeric-dieuleveut|Aymeric Dieuleveut]] (delivering), [[entities/margaux-zaffran|Margaux Zaffran]] (co-developer)
+- [[Conformal prediction: A unified review of theory and new challenges]] - **Authors:** [[entities/matteo-fontana|Matteo Fontana]], [[entities/gianluca-zeni|Gianluca Zeni]], [[entities/simone-vantini|Simone Vantini]]
+- [[Conformalized Quantile Regression]] - **Authors:** [[entities/yaniv-romano|Yaniv Romano]], [[entities/evan-patterson|Evan Patterson]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
+- [[Contingent Claims and Hedging of Credit Risk with Equity Options]] - **Authors:** Davide E. Avino, Enrique Salvador · **Year:** 2024 · **Venue:** The Review of Asset Pricing Studies, 14(2) · **Type:** paper
+- [[Copula Conformal Prediction for Multi-step Time Series Forecasting]] - This paper introduces **CopulaCPTS** (Copula Conformal Prediction for Time Series), a method for constructing valid confidence regions that cover the **entire forecast horizon** in multivariate, multi...
+- [[Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passive Flow Distortions]] - **Authors:** Optiver Credit Team
+- [[Corporate Credit Research: Meet in the Middle]] - **Authors:** Adam S. Richmond, Vishwas Patkar, Felician G. Stratmann, Frederick T. Fuchs, Jingli Li, Aleksandr Nozhnitskiy · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Corporate Credit Research: The Cause of the Pause]] - **Authors:** Adam S. Richmond, Vishwas Patkar, Frederick T. Fuchs, Felician G. Stratmann, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Correction: Global Futures Rolls Report: Eurex Futures Rolls - Mar 19 / Jun 19 Roll]] - **Authors:** Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Counterfactuals and Probability]] - **Authors:** Moritz Schulz · **Venue:** Oxford University Press · **Type:** book
+- [[Credit Strategy: Corporate Hybrid Primer - 2014 Edition]] - **Authors:** Serena Tang, Andrew Sheets, Phanikiran Naraparaju, Shrina B Poojara · **Year:** 2014 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Brief: Risk Parity — Worst Behind Us]] - **Authors:** Phanikiran L Naraparaju, Wanting Low, Andrew Sheets, Serena W Tang, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Brief: Taking Stock — Recent Moves in Context]] - **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]] - **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: Are You Sure That's 'Low Beta'?]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran L Naraparaju, Naomi Z Poole, Serena W Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: Could Dollar Weakness Be Self-Catalysing?]] - **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: Melting Up Is Hard to Do]] - **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Wanting Low, Naomi Z Poole, Serena W Tang, Adam Virgadamo · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: Volatility Peaks Before Markets Trough]] - **Authors:** Phanikiran L Naraparaju, Andrew Sheets, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Dispatches: What Do Recoveries Usually Look Like?]] - **Authors:** Serena W Tang, Naomi Z Poole, Andrew Sheets, Phanikiran L Naraparaju, Wanting Low · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – April 2019: Late-Cycle and Weaker Dollar]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – February 2019: Fundamental Problems]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – February 2019: Fundamental Problems]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – January 2019: Turning Points Intact]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Wanting Low, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – March 2019: Overpricing Goldilocks, Underpricing Tails]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Playbook – March 2020: Brace for Recession]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-Asset Strategy: Global In the Flow — Highlights from January]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Cross-conformal predictors]] - **Authors:** [[entities/vladimir-vovk|Vladimir Vovk]]
+- [[Cross-correlations between price and volume in Chinese gold markets]] - **Authors:** Qingsong Ruan, Wei Jiang, Guofeng Ma
+- [[Crossing the Rubicon (Government Bonds)]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Researc...
+- [[Data Analysis and Data Mining: An Introduction]] - **Authors:** Adelchi Azzalini, Bruno Scarpa · **Year:** 2012 · **Venue:** Oxford University Press · **Type:** book
+- [[Data Quality Engineering in Financial Services]] - **Authors:** Brian Buzzelli
+- [[Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents]] - **Authors:** Nicolas Petit, Mihai Cucuringu, Alvaro Cartea
+- [[Databricks Certified Data Engineer Associate Study Guide]] - **Authors:** Derar Alhussein
+- [[Databricks Spark Knowledge Base]] - **Authors:** Databricks
+- [[Databricks Spark Knowledge Base (Chinese Edition)]] - **Authors:** Databricks
+- [[Datenverwaltung mit Unity Catalog auf Databricks]] - **Authors:** Kiran Sreekumar, Karthik Subbarao
+- [[Dealing with multi-currency inventory risk in FX cash markets]] - This paper extends [[concepts/market-making]] models to handle the specific challenges of FX dealers who quote multiple currency pairs, including **cross rates**. The key insight is that FX market mak...
+- [[Designing Financial Data Architectures]] - **Authors:** Tamer Khraisha
+- [[Designing Machine Learning Systems]] - *An Iterative Process for Production-Ready Applications*
+- [[Developing Apps with GPT-4 and ChatGPT]] - *Build Intelligent Chatbots, Content Generators, and More*
+- [[Differentiation and Divergence]] - **Authors:** Sivan Mahadevan, Christopher R Metli, Peter Mallik, Jay Sole, Praveen Singh, Viktor Hjort, Gaurav Rastogi · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Distribution-Free Predictive Inference for Regression]] - **Authors:** [[entities/jing-lei|Jing Lei]], [[entities/max-gsell|Max G'Sell]], [[entities/alessandro-rinaldo|Alessandro Rinaldo]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]], [[entities/larry-wa...
+- [[Distribution-Free, Risk-Controlling Prediction Sets]] - **Authors:** [[entities/stephen-bates|Stephen Bates]], [[entities/anastasios-angelopoulos|Anastasios Angelopoulos]], [[entities/lihua-lei|Lihua Lei]], [[entities/jitendra-malik|Jitendra Malik]], [[ent...
+- [[Distributional Conformal Prediction]] - This paper proposes **Distributional Conformal Prediction (DCP)**, a robust method for constructing prediction intervals that are approximately valid conditional on the full vector of predictors. Unli...
+- [[Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence]] - **Authors:** [[entities/andreas-koukorinis|Andreas Koukorinis]]
+- [[Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage]] - This paper extends the state-space framework for modeling mean-reverting spreads in statistical arbitrage, introducing time-varying parameters and a Bayesian on-line estimation algorithm. The approach...
+- [[ECB Preview: TLTRO Funding on its Way]] - **Authors:** Daniele Antonucci, Joao Almeida, Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Economic Analysis Through Mathematics: Tools and Techniques for Decision Making]] - **Authors:** Zrinka Lukač · **Year:** 2026 · **Venue:** Springer Texts in Business and Economics · **Type:** book
+- [[Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]] - **Authors:** Christopher D. Piros, Jerald E. Pinto · **Year:** 2013 · **Venue:** John Wiley & Sons (CFA Institute Investment Series) · **Type:** book
+- [[Efficiently Weighted Estimation of Tail and Interquantile Expectations]] - **Authors:** [[entities/sander-barendse|Sander Barendse]]
+- [[EM Quant Strategy: EM Risk Indicator - A Regime-Switching Model Approach]] - **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[EM Quant Strategy: EMFX Quant's Lab - Carry Performs]] - **Authors:** Andres Jaime · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[EM Strategy Update: No Rush for the Exits]] - **Authors:** Rashique Rahman, Vandit D. Shah · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy]] - **Authors:** Rogerio Oliveira, Rashique Rahman, Paolo Batori, Chuan Lim, Juha Seppala · **Year:** 2010 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[EMFX Quant's Lab: Steady Path]] - **Authors:** Andres Jaime · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity, Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation]] - **Source:** Technical Research Division
+- [[Essential GraphRAG]] - *Knowledge Graph-Enhanced RAG*
+- [[Europe Economics: Recession Returns]] - **Authors:** Elga Bartsch, Daniele Antonucci, Olivier Bizimana, Tomasz Pietrzak · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Europe looks set to surprise on the upside]] - **Authors:** Graham Secker, Ross A MacDonald, Daniele Antonucci, Srikanth Sankaran, Hans W Redeker, Gek Teng Khoo, Tony Small, David S. Adams · **Year:** 2019 · **Venue:** Morgan Stanley Research · **...
+- [[European Banks - Equity & Credit: Untested Cycle - watch for corporate risk]] - **Authors:** Magdalena L Stoklosa, Izabel Dobreva, Antonio Reale, Srikanth Sankaran, Max S Blass, Bruce Hamilton, Alvaro Serrano, Giulia Aurora Miotto, Alice Timperley · **Year:** 2019 · **Venue:** Mo...
+- [[European Banks: Autumn AT1 Primer – Extension and Par Calls]] - **Authors:** Joe Hopkins, Jackie Ineke · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Banks: CRR2 Agreed; ADI Boost for AT1]] - **Authors:** Jackie Ineke, Joe Hopkins · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Banks: Facing the Cycle – Picking Swiss]] - **Authors:** Jackie Ineke, Joe Hopkins · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Banks: Hunting for Value in Tier 2 and Seniors]] - **Authors:** Joe Hopkins, Jackie Ineke · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Playbook: A Reluctant Rally]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy — What We're Watching]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy — What We're Watching]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy: A Premium for Size]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy: Corporate Hybrids Playbook]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2015 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy: Corporate Hybrids Playbook — Staying in Short Calls, Revisiting Call Risks]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy: IG Fundamentals — In Good Shape]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Credit Strategy: What We're Watching]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber, Joerund Holterud Aarsnes · **Year:** 2012 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Economics Weekly — Bank Funding Focus]] - **Authors:** Matthew Pennill, Bruna Skarica, Jacob Nell, Jan Kozak, Joao Almeida, Daniele Antonucci · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Economics Weekly — Ongoing Weakness]] - **Authors:** Jacob Nell, Jan Kozak, Joao Almeida, Matthew Pennill, Bruna Skarica, Daniele Antonucci · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Economics: A Practitioner's Guide to European Macro Indicators]] - **Authors:** Elga Bartsch, Daniele Antonucci, Melanie Baker, Cath Sleeman · **Year:** 2010 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European Equity Strategy: Global growth momentum starts to recover: what is priced in?]] - **Authors:** Sebastian Raedler, Andreas Bruckner, Thomas Pearce · **Year:** 2019 · **Venue:** Deutsche Bank Research · **Type:** report
+- [[European High Yield Strategy Monthly Leveraged Finance Playbook — Performance]] - **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[European High Yield Strategy Monthly Leveraged Finance Playbook — Returns]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber, Joerund Holterud Aarsnes · **Year:** 2012 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Evidence of Intraday Multifractality in European Stock Markets during COVID-19 (2020)]] - Aslam et al. (2020) apply Multifractal Detrended Fluctuation Analysis (MFDFA) to high-frequency (5-minute) data from eight European stock markets during the COVID-19 outbreak (January-March 2020). The...
+- [[Exact and Approximate Conformal Inference for Multi-Output Regression]] - **Authors:** Chancellor Johnstone (GE Aerospace / Air Force Institute of Technology), Eugene Ndiaye (Apple / Georgia Tech)
+- [[Expected Returns: An Investor's Guide to Harvesting Market Rewards]] - **Authors:** Antti Ilmanen · **Year:** 2011 · **Venue:** Wiley (Wiley Finance Series) · **Type:** book
+- [[Explanation in Causal Inference: Methods for Mediation and Interaction]] - **Authors:** Tyler J. VanderWeele · **Year:** 2015 · **Venue:** Oxford University Press · **Type:** book
+- [[Extreme Conformal Prediction: Reliable Intervals for High-Impact Events]] - **Pasche, Lam, and Engelke (2025)** propose a novel method bridging [[concepts/extreme-value-theory|extreme value statistics]] and [[concepts/conformal-prediction|conformal prediction]] to construct r...
+- [[Factor Investing in the Corporate Bond Market]] - Comprehensive study of Size, Low-Risk, Value, and Momentum factors in corporate bonds using Barclays US Corporate Investment Grade and High Yield indexes (Jan 1994 - Jun 2015). First paper to provide ...
+- [[FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Shrina B Poojara · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]] - **Authors:** Colin Lancaster · **Year:** 2021 · **Type:** book
+- [[Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows]] - This paper develops semi-analytical expressions for computing **fill probabilities** of limit orders at various price levels in a [[concepts/limit-order-book]]. The framework uses state-dependent stoc...
+- [[Financial Data Engineering: Design and Build Data-Driven Financial Products]] - **Authors:** Tamer Khraisha
+- [[Financial Theory with Python: A Gentle Introduction]] - **Authors:** Yves Hilpisch
+- [[Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second Edition)]] - **Authors:** Igor Tulchinsky · **Year:** 2020 · **Venue:** John Wiley & Sons · **Type:** book
+- [[Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage]] - This paper demonstrates that Flexible Least Squares (FLS), a penalized version of ordinary least squares accommodating time-varying regression coefficients, is algebraically equivalent to the Kalman f...
+- [[For Whom the Tariffs Toll]] - **Authors:** Matthew Hornbach, Guneet Dhingra, David Harris, Kelcie Gerson, Tony Small, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Resear...
+- [[Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach]] - This paper develops a unified dynamic factor approach based on the Diebold-Li (2006) and Nelson-Siegel (1987) three-factor model to forecast yield curve movements. The key innovation is treating the d...
+- [[From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets]] - **Authors:** Dominique M. Guillaume, Michel M. Dacorogna, Rakhal R. Dave, Ulrich A. Muller, Richard B. Olsen, Olivier V. Pictet
+- [[Fundamentals of Data Engineering]] - **Authors:** Joe Reis, Matt Housley
+- [[Gaussian Processes on Graphs (Zhi 2024)]] - **Author:** [[entities/yin-cong-zhi|Yin-Cong Zhi]]
+- [[Generalizing Graph Laplacian Learning (Shi 2024)]] - **Author:** [[entities/changhao-shi|Changhao Shi]]
+- [[Global Growth Tracker – DMs Underperform More than Expected]] - **Authors:** Chetan Ahya, Derrick Y Kam, Nora Wassermann · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]] - **Authors:** Wanting Low, Naomi Poole, Andrew Sheets, Phanikiran Naraparaju, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global In the Flow: 2018 by the Numbers]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global In the Flow: February Recap]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global In the Flow: First Quarter Recap]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global In the Flow: October Recap]] - **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Naomi Poole · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Insights Day 2019 - Polling Results]] - **Authors:** Andrew Sheets, Chetan Ahya, Hans W Redeker, Jonathan F Garner, Graham Secker, Neil McLeish, Jeremy J Nalewaik, Matthew Hornbach, Adam S Richmond, Michael J Wilson, Michael D Zezas, Vishwa...
+- [[Global Interest Rate Strategist: Don't Miss the Bull Market]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Researc...
+- [[Global Interest Rate Strategist: The Bullish 'Bond Cyclone']] - **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Researc...
+- [[Global Interest Rate Strategist: Toward More Tightening]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Sean Wan, Sam Elprince, Elaine Lin, Shreya Chander, Koichi Sugisaki, Shoki Omori, Jesper Rooth · **Year:** 2018 · **Venue:** Morgan Stanley Research · **...
+- [[Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Sam Elprince, Johanna Trost, Anton Heese, Elaine Lin, Federico Manicardi, Shreya Chander, Koichi Sugisaki, Kritika Kashyap, Jesper Rooth · **Year:** 2017...
+- [[Global Interest Rate Strategy: Euro Sovereign Bond Market Indicators (eBMIs)]] - **Authors:** Jesper Rooth, Anton Heese, Matthew Hornbach · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Interest Rate Strategy: Introducing BMI(2) and xBMI, Improving BMI(10) and iBMI]] - **Authors:** Jesper Rooth, Federico Manicardi, Matthew Hornbach, Guneet Dhingra, Anton Heese, Koichi Sugisaki · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Interest Rate Strategy: XCCY Basis Primer]] - **Authors:** Alexander Wojt, Koichi Sugisaki · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Macro Briefing: 1937-38 Redux?]] - **Authors:** Chetan Ahya, Elga Bartsch, Jonathan Ashworth · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Macro Commentary | April 2]] - **Authors:** Edward von der Schmidt, Matthew Hornbach, Andrew M Watrous, Gilberto A Hernandez-Gomez, Sarah A Wolfe, Filip Denchev, Gek Teng Khoo, Alina Zaytseva, Shoki Omori, Belle Chang · **Year:** 2...
+- [[Global Macro Strategist | The End of Trends]] - **Authors:** Matthew Hornbach, Guneet Dhingra, Andrew M Watrous, Efrain A Tejeda, Francesco Grechi, Martin W Tobias, James K Lord, David S. Adams, Eric S Oynoyan, Theologis Chapsalis, Wanting Low, Lor...
+- [[Global Volatility Playbook: A Market of Many Extremes]] - **Authors:** Phanikiran Naraparaju, Sheena Shah, Wanting Low, Vishwas Patkar, Ailing Deng, Andres Jaime, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Global Volatility Playbook: What's Wrong with FX Volatility]] - **Authors:** Phanikiran Naraparaju, Sheena Shah, Wanting Low, Vishwas Patkar, Kelcie Gerson · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Goldilocks Whiplash (Sunday Start: What's Next in Global Macro)]] - **Authors:** Andrew Sheets · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Government Bond Auction Pipeline | The Month Ahead]] - **Authors:** Matthew Hornbach, David Harris, Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Graph Learning for Financial Networks (Yu 2024)]] - **Author:** Shui Yu
+- [[Graph Neural Networks in Action]] - **Authors:** Keita Broadwater, Namid Stillman
+- [[Graph Signal Processing for Machine Learning: A Review and New Perspectives]] - **Authors:** [[entities/xiaowen-dong|Xiaowen Dong]], Dorina Thanou, Laura Toni, Michael Bronstein, Pascal Frossard
+- [[Hands-On Large Language Models]] - *Language Understanding and Generation*
+- [[Hands-On RAG for Production]] - *Design, Develop, and Deploy*
+- [[Hands-on Small Language Models]] - **Authors:** Alexander Thomas
+- [[Hierarchical Credibility Model]] - **Authors:** F. Namora, S. Nurrohmah, I. Fithriani
+- [[High Frequency Multifractal Properties of Bitcoin]] - **Authors:** Stavros Stavroyiannis, Vassilios Babalos, Stelios Bekiros, Salim Lahmiri, Gazi Salah Uddin
+- [[High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers]] - **Authors:** [[entities/simona-boffelli|Simona Boffelli]], [[entities/vasiliki-skintzi|Vasiliki D. Skintzi]], [[entities/giovanni-urga|Giovanni Urga]]
+- [[How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]] - **Authors:** Amanda Gentzel, Purva Pruthi, David Jensen · **Year:** 2021 · **Venue:** Proceedings of the 38th International Conference on Machine Learning (ICML), PMLR 139 · **Type:** paper
+- [[How Not to Be Wrong: The Power of Mathematical Thinking]] - **Authors:** Jordan Ellenberg · **Year:** 2014 · **Venue:** The Penguin Press · **Type:** book
+- [[How OpenAI Uses Codex]] - **Authors:** OpenAI
+- [[How We Built Our Multi-Agent Research System]] - **Authors:** Anthropic
+- [[Incorporating hierarchical credibility theory into modelling of multi-country mortality rates]] - **Authors:** [[entities/cary-tsai|Cary Chi-Liang Tsai]], Adelaide Di Wu
+- [[Information Flows in Trading Networks]] - **Authors:** [[entities/stefan-huber|Stefan J. Huber]], [[entities/edward-watts|Edward M. Watts]], [[entities/christina-zhu|Christina Zhu]]
+- [[Insight into the Balance Sheet]] - **Authors:** Matthew Hornbach, Sam Elprince, Vishwanath Tirupattur, Chetan Ahya, Ellen Zentner, Adam S Richmond, Jay Bacow · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Introducing LEVER: A Framework for Scoring LEVeraging Event Risk]] - **Authors:** [[entities/minh-trinh|Minh Trinh]], [[entities/bodha-bhattacharya|Bodha Bhattacharya]]
+- [[Introducing the Credit Bond Market Indicator (credit-BMI)]] - **Authors:** Meghan G. Robson, Adam S. Richmond, Vishwas Patkar, Frederick T. Fuchs, Felician G. Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Introduction to Agents]] - **Authors:** Alan Blount, Antonio Gulli, Shubham Saboo
+- [[Introduction to Machine Learning Systems]] - **Authors:** Vijay Janapa Reddi
+- [[Introduction to the Alaph Capital Liquid Macro Credit Fund]] - **Authors:** Shahraab Ahmad, Andreas Koukorinis · **Year:** 2014 · **Venue:** Alaph Capital (private fund presentation) · **Type:** presentation
+- [[Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least]] - **Authors:** Antti Ilmanen · **Year:** 2022 · **Venue:** John Wiley & Sons · **Type:** book
+- [[Jump Clustering, Information Flows, and Stock Price Efficiency]] - **Authors:** [[entities/jian-chen|Jian Chen]]
+- [[Kernel Two-Sample and Independence Tests for Nonstationary Random Processes]] - **Authors:** Felix Laumann, Julius von Kügelgen, Mauricio Barahona
+- [[Kernel-based Optimally Weighted Conformal Prediction Intervals]] - **Lee, Xu, and Xie (2024)** propose KOWCPI, a novel conformal prediction method for time-series data that learns optimal data-adaptive weights using the Reweighted Nadaraya-Watson (RNW) estimator for ...
+- [[Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model]] - **Authors:** [[entities/simon-t-bodilsen|Simon T. Bodilsen]]
+- [[Leading indicators of crisis incidence: Evidence from developed countries]] - **Authors:** Jan Babecky, Tomas Havranek, Jakub Mateju, Marek Rusnak, Katerina Smidkova, Borek Vasicek · **Year:** 2013 · **Venue:** Journal of International Money and Finance · **Type:** paper
+- [[Learn Then Test: Calibrating Predictive Algorithms to Achieve Risk Control]] - **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/michael-i-jordan|Mic...
+- [[Learning AutoML]] - **Authors:** Kerem Tomak
+- [[Learning DAGs and Root Causes from Time-Series Data (Misiakos 2025)]] - **Authors:** Panagiotis Misiakos, [[entities/markus-puschel|Markus Püschel]]
+- [[Learning LangChain]] - *Building AI and LLM Applications with LangChain and LangGraph*
+- [[Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals]] - **Authors:** Diana Montalion
+- [[Limited arbitrage between equity and credit markets]] - **Authors:** Nikunj Kapadia, Xiaoling Pu · **Year:** 2012 · **Venue:** Journal of Financial Economics · **Type:** paper
+- [[Long-Dated Vol Lines Up]] - **Authors:** Phanikiran L Naraparaju, Andrew Sheets, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory and Non-Linear Realized Volatility Model]] - **Authors:** [[entities/rangika-peiris|Rangika Peiris]], [[entities/minh-ngoc-tran|Minh-Ngoc Tran]], [[entities/chao-wang|Chao Wang]], [[entities/richard-gerlach|Richard Gerlach]]
+- [[Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management]] - PhD thesis applying machine learning to fixed income markets, covering yield curve forecasting with MLPs and LSTMs, and portfolio management with reinforcement learning. Demonstrates ML superiority ov...
+- [[Machine Learning in the Corporate Bond Market: A New Classifier]] - Develops a Random Forest-based trade classification algorithm for corporate bonds using TRACE signed trade data. The ML classifier outperforms traditional methods (Tick Rule, Lee-Ready) in both bond a...
+- [[Machine Learning-based Relative Valuation of Municipal Bonds]] - Proposes a supervised similarity framework using CatBoost for relative valuation in the municipal bond market. Addresses the challenge of valuing illiquid bonds (less than 10% trade >25 days/year) by ...
+- [[Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces]] - This paper analyzes the co-movement between the Credit Default Index (CDX) curve and the S&P 500 index's option volatility surface. Using the Unscented Kalman Filter (UKF) with Nelson-Siegel parameter...
+- [[Market making by an FX dealer: tiers, pricing ladders and hedging rates]] - This paper develops a comprehensive [[concepts/market-making]] framework for foreign exchange (FX) dealers that addresses both pricing and hedging decisions. The key innovation is the explicit modelin...
+- [[Math and Architectures of Deep Learning]] - **Authors:** Krishnendu Chaudhury
+- [[Mathematical Engineering of Deep Learning]] - **Authors:** Benoit Liquet, Sarat Moka, Yoni Nazarathy
+- [[Measuring Credit-Spread Risk on a Single Issuer Basis]] - **Author:** [[entities/rainer-pullirsch|Rainer Pullirsch]], Bank Austria Creditanstalt
+- [[Methodology and reporting characteristics of studies using interrupted time series design in healthcare]] - **Authors:** Jemma Hudson, Shona Fielding, Craig R. Ramsay · **Year:** 2019 · **Venue:** BMC Medical Research Methodology · **Type:** paper
+- [[Microscopic Understanding of Cross-Responses Between Stocks]] - **Authors:** Shanshan Wang, Thomas Guhr
+- [[Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach]] - **Authors:** Olivier Gueant, Jiang Pu
+- [[Mixed-Frequency Macro-Finance Factor Models: Theory and Applications]] - **Authors:** [[entities/elena-andreou|Elena Andreou]], [[entities/patrick-gagliardini|Patrick Gagliardini]], [[entities/eric-ghysels|Eric Ghysels]], [[entities/mirco-rubin|Mirco Rubin]]
+- [[MODs: Machine Learning on Drivers]] - **Authors:** Jeen Ng, James Egan, Vishwanath Tirupattur · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Momentum for Diversification]] - **Authors:** Andrew Sheets, Wanting Low · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Momentum Spillover from Stocks to Corporate Bonds]] - Investigates and improves momentum spillover from stocks to corporate bonds - the phenomenon that past equity winners become future bond winners. Finds that ranking companies on residual (firm-specifi...
+- [[Monetary Policy after the Great Recession: The Role of Interest Rates]] - **Authors:** Arkadiusz Sieroń · **Year:** 2021 · **Venue:** Routledge International Studies in Money and Banking · **Type:** book
+- [[Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]] - **Authors:** Massimo Rostagno, Carlo Altavilla, Giacomo Carboni, Wolfgang Lemke, Roberto Motto, Arthur Saint Guilhem, Jonathan Yiangou · **Year:** 2021 · **Venue:** Oxford University Press · **Type:**...
+- [[Money, Bank Credit, and Economic Cycles]] - **Authors:** Jesús Huerta de Soto · **Year:** 2006 · **Venue:** Ludwig von Mises Institute · **Type:** book
+- [[Morgan Stanley FX Positioning Tracker]] - **Authors:** Gek Teng Khoo, Andrew M Watrous · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]] - **Authors:** Vishwas Patkar, Vishy Tirupattur, David Hamburger, Aron Becker, Kelvin Pang · **Year:** 2026 · **Venue:** Morgan Stanley Research (Global Credit Webcast) · **Type:** report
+- [[Mostly Harmless Econometrics: An Empiricist's Companion]] - **Authors:** Joshua D. Angrist, Jörn-Steffen Pischke · **Year:** 2009 · **Venue:** Princeton University Press · **Type:** book
+- [[MREL – Raising the Subordination Stakes]] - **Authors:** Jackie Ineke, Joe Hopkins, Alvaro Serrano, Izabel Dobreva · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Multi-Agent Coordination: A Reinforcement Learning Approach]] - **Authors:** Arup Kumar Sadhu, Amit Konar
+- [[Multi-Distribution Robust Conformal Prediction]] - This paper introduces **Multi-Distribution Conformal Prediction (MDCP)**, a framework for constructing prediction sets that achieve valid coverage simultaneously across multiple heterogeneous source d...
+- [[Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commodity Futures Term Structure Dynamics]] - **Authors:** Peilun He, [[entities/gareth-peters|Gareth W. Peters]], Nino Kordzakhia, [[entities/pavel-shevchenko|Pavel V. Shevchenko]]
+- [[Multi-Level Order-Flow Imbalance in a Limit Order Book]] - **Authors:** Ke Xu, Martin D. Gould, Sam D. Howison
+- [[Multi-output Gaussian processes for multi-population longevity modelling]] - **Authors:** Nhan Huynh, [[entities/mike-ludkovski|Mike Ludkovski]]
+- [[Multi-scale Representation of High Frequency Market Liquidity]] - **Authors:** Anton Golub, Gregor Chliamovitch, Alexandre Dupuis, Bastien Chopard
+- [[Multifactor Timing with Deep Learning]] - **Authors:** [[entities/paul-cotturo|Paul Cotturo]], [[entities/fred-liu|Fred Liu]], [[entities/robert-proner|Robert Proner]]
+- [[Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules]] - **Authors:** Florian Ziel, Kevin Berk · **Year:** 2019 · **Venue:** arXiv preprint (arXiv:1910.07325) · **Type:** paper
+- [[Next-Generation Credit Curves]] - **Authors:** [[entities/lindsey-matthews|Lindsey Matthews]], [[entities/luca-bosatta|Luca Bosatta]]
+- [[Non-Exchangeable Conformal Risk Control]] - **Farinhas, A., Zerva, C., Ulmer, D., & Martins, A.F.T. (2024).** Non-Exchangeable Conformal Risk Control. *ICLR 2024*.
+- [[On Forecasting the Term Structure of Credit Spreads]] - Investigates firm-by-firm credit spread forecasting using the shape of credit-spread curves and riskless yield curves. Finds that current credit-spread and riskless-yield curves contain essentially al...
+- [[One Size Doesn't Fit All]] - **Authors:** Pasquale M Diana, Georgi Deyanov, Matthew Pennill, Gek Teng Khoo, Filip Denchev, James K Lord · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Optimal execution with limit and market orders]] - This paper develops an [[concepts/optimal-execution]] strategy that optimally combines limit orders and market orders. Unlike traditional execution models (e.g., Almgren-Chriss) that only use market o...
+- [[Optimal Hedge Tracking Portfolios in a Limit Order Book]] - **Authors:** Simon Ellersgaard, Martin Tegner
+- [[Optimal Quoting under Adverse Selection and Price Reading]] - This paper tackles two critical but often overlooked challenges in [[concepts/market-making]]: **adverse selection** from informed traders and **price reading** (or skew sniffing) where the market mak...
+- [[Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)]] - Murphy & Izzeldin (2006) critically examine the empirical procedure used by Ané and Geman (2000) to recover the moments of information flow from high-frequency data. Using Monte Carlo experiments, the...
+- [[Order-book modelling and market making strategies]] - **Authors:** Xiaofei Lu, Frederic Abergel
+- [[Our Bond Market Indicators: A Powerful Systematic Approach]] - **Authors:** Matthew Hornbach, Anthony O'Brien, Anton Heese, Jesper Rooth, Kewei Yang, Geoffrey Kendrick, Kenro Kawano · **Year:** 2015 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Pairs Trading with General State Space Models]] - This paper proposes a general state space model framework for pairs trading that accommodates non-Gaussianity, heteroscedasticity, and nonlinearity in the mean-reverting spread. The approach uses Mont...
+- [[Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting]] - **Author:** [[entities/margaux-zaffran|Margaux Zaffran]]
+- [[Practical MLOps: Operationalizing Machine Learning Models]] - **Authors:** Noah Gift, Alfredo Deza
+- [[Predicting Individual Corporate Bond Returns]] - Applies machine learning to predict corporate bond returns using 45 years of data (1976-2020) including both public and private bonds. Achieves out-of-sample R² of 4.48% and annualized Sharpe ratio of...
+- [[Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis]] - **Authors:** Jarita Duasa, Nursilah Ahmad · **Year:** 2010 · **Venue:** Global Economic Review, Vol. 39, No. 1 · **Type:** paper
+- [[Predictive Inference Is Free with the Jackknife+-after-Bootstrap]] - **Authors:** [[entities/byol-kim|Byol Kim]], [[entities/chen-xu|Chen Xu]], [[entities/rina-foygel-barber|Rina Foygel Barber]]
+- [[Predictive Inference with the Jackknife+]] - **Authors:** [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ramdas]], [[entities/ryan-tibshirani|Ryan J. Tibshir...
+- [[Priced risk in corporate bonds]] - **Authors:** Alexander Dickerson, Philippe Mueller, [[entities/cesare-robotti|Cesare Robotti]]
+- [[Prompt Engineering]] - **Authors:** [[entities/lee-boonstra|Lee Boonstra]]
+- [[Prompt Engineering for LLMs]] - *The Art and Science of Building Large Language Model-Based Applications*
+- [[QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk]] - **Institution:** [[entities/lehman-brothers|Lehman Brothers]]
+- [[Quantile Processes for Dynamic Risk Modelling in Finance and Insurance]] - Peters, Macrina, and Brannelly (April 2026, two drafts in circulation including a 16.03.2026 first-author rewrite) develop a novel continuous-time framework for **Tukey g-h quantile diffusions**—stoch...
+- [[Realized Probability Index is a Better Market Timing Indicator]] - **Authors:** [[entities/haibin-xie|Haibin Xie]], [[entities/boyao-wu|Boyao Wu]], [[entities/yuying-sun|Yuying Sun]], [[entities/shouyang-wang|Shouyang Wang]]
+- [[Recursive Macroeconomic Theory]] - **Authors:** Lars Ljungqvist, Thomas J. Sargent · **Year:** 2012 · **Venue:** The MIT Press (3rd edition) · **Type:** book
+- [[Revisiting stylised facts: information clock, persistence, long memory and dependence]] - **Authors:** Andreas Koukorinis, Gareth W. Peters, Guido Germano
+- [[RFQ Impact Pricing and Liquidity Dynamics]] - This paper addresses the challenge of pricing illiquid securities in over-the-counter (OTC) markets based on **requests for quotes (RFQs)**. It extends the concept of micro-price from limit order book...
+- [[Right Tail Hedging: Managing Risk When Markets Melt Up]] - **Authors:** Vineer Bhansali · **Year:** 2018 · **Venue:** The Journal of Portfolio Management · **Type:** article
+- [[Risk premia in the term structure of interest rates: a panel data approach]] - **Authors:** Dennis Bams, Christian C.P. Wolff · **Year:** 2003 · **Venue:** Journal of International Financial Markets, Institutions & Money · **Type:** paper
+- [[Robust and Adaptive Algorithms for Online Portfolio Selection]] - This paper presents online approaches to portfolio selection within the context of algorithmic trading, which demands fast and recursive updates of portfolio allocations as new data arrives. The autho...
+- [[Sequential Predictive Conformal Inference for Time Series]] - This paper introduces **Sequential Predictive Conformal Inference (SPCI)**, a distribution-free conformal prediction algorithm specifically designed for time series data. Unlike traditional conformal ...
+- [[Simulation Models for Data Science]] - **Authors:** Dan Sullivan
+- [[Software Engineering for Data Scientists]] - *From Notebooks to Scalable Systems*
+- [[Software Testing with Generative AI]] - **Authors:** Mark Winteringham
+- [[Sovereign Subjects: Europe in the Balance]] - **Authors:** Arnaud Marès · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Specification Draft: Single Name Fundamental Analysis]] - **Type:** Internal specification document
+- [[Statistical Predictions of Trading Strategies in Electronic Markets]] - **Authors:** [[entities/alvaro-cartea|Alvaro Cartea]], [[entities/samuel-n-cohen|Samuel N. Cohen]], [[entities/robert-graumans|Robert Graumans]], [[entities/saad-labyad|Saad Labyad]], [[entities/leand...
+- [[Statistical Rethinking: A Bayesian Course with Examples in R and STAN]] - **Authors:** Richard McElreath
+- [[Strictly Proper Scoring Rules, Prediction, and Estimation]] - **Authors:** Tilmann Gneiting, Adrian E. Raftery · **Year:** 2007 · **Venue:** Journal of the American Statistical Association · **Type:** paper
+- [[Sunday Start | What's Next in Global Macro: A Full-Court Policy Press]] - **Authors:** Chetan Ahya · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Systematic Trading: A unique new method for designing trading and investing systems]] - **Authors:** Robert Carver · **Year:** 2015 · **Venue:** Harriman House · **Type:** book
+- [[Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model]] - This paper implements the Arbitrage-Free Nelson-Siegel (AFNS) model for Indian Government bonds while explicitly incorporating liquidity effects. Using the Unscented Kalman Filter in a nonlinear state...
+- [[Testing Conditional Independence in Causal Inference for Time Series Data]] - **Authors:** Zongwu Cai, Ying Fang, Ming Lin, Shengfang Tang · **Year:** 2023 · **Venue:** Statistica Neerlandica · **Type:** paper
+- [[The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms]] - **Authors:** Jean-David Fermanian, Olivier Gueant, Jiang Pu
+- [[The Book of Why: The New Science of Cause and Effect]] - **Authors:** Judea Pearl, Dana Mackenzie · **Year:** 2018 · **Venue:** Basic Books (Hachette Book Group) · **Type:** book
+- [[The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return]] - **Author:** [[entities/richard-martin|Richard J. Martin]]
+- [[The Determinants of Credit Spread Changes]] - **Authors:** Pierre Collin-Dufresne, Robert S. Goldstein, J. Spencer Martin · **Year:** 2001 · **Venue:** The Journal of Finance, Vol. 56, No. 6 (2001); SSRN working paper, 1999 · **Type:** paper
+- [[The Developer's Playbook for Large Language Model Security]] - *Building Secure AI Applications*
+- [[The Elements of Statistical Learning]] - **Authors:** Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [[The Evaluation and Optimization of Trading Strategies]] - **Authors:** Robert Pardo · **Year:** 2008 · **Venue:** John Wiley & Sons (Wiley Trading Series), 2nd edition · **Type:** book
+- [[The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1]] - **Authors:** Sebastian Mercado · **Year:** 2015 · **Venue:** Deutsche Bank Markets Research (Global Synthetic Equity & Index Strategy) · **Type:** report
+- [[The Global Credit Spread Puzzle]] - This landmark paper examines whether structural models can predict credit spreads in eight developed economies (Australia, Canada, France, Germany, Italy, Japan, UK, US) using global default data from...
+- [[The Global Macro Analyst: Japanification or Salvation]] - **Authors:** Joachim Fels, Manoj Pradhan, Patryk Drozdzik, Sung Woen Kang, Philipp Erfurth · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman]] - **Editors:** Khuong An Nguyen, Zhiyuan Luo (both Royal Holloway, University of London)
+- [[The Level and Persistence of Growth Rates]] - **Authors:** Louis K. C. Chan, Jason Karceski, Josef Lakonishok · **Year:** 2001 · **Venue:** NBER Working Paper No. 8282 · **Type:** paper
+- [[The Long Memory of Order Flow in the Foreign Exchange Spot Market]] - **Authors:** Martin D. Gould, Mason A. Porter, Sam D. Howison
+- [[Thinking in Systems and Mental Models: Think Like a Super Thinker]] - **Authors:** Marcus P. Dawson · **Year:** 2020 · **Type:** book
+- [[Thinking in Systems: A Primer]] - **Authors:** Donella H. Meadows · **Year:** 2008 · **Venue:** Chelsea Green Publishing · **Type:** book
+- [[Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?]] - **Authors:** Michael D Zezas, Ellen Zentner · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Time, Tense, and Causation]] - **Authors:** Michael Tooley · **Year:** 1997 · **Venue:** Clarendon Press / Oxford University Press · **Type:** book
+- [[Trade Intensity and Liquidity]] - **Authors:** Matt Brigida, William Pratt
+- [[Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel Intensity Approach]] - **Authors:** [[entities/ingmar-nolte|Ingmar Nolte]], [[entities/valeri-voev|Valeri Voev]]
+- [[Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)]] - **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Treasury Market Commentary, January 25]] - **Authors:** Tony Small, Matthew Hornbach, Robert Rosener, Molly Wharton, Guneet Dhingra, Sam Elprince, David Harris · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[UK Interest Rate Strategist: Gilt Futures: The Return of the Option]] - **Authors:** Mayank Gargh, Laurence Mutkin, Owen Roberts, Michelle Bradley · **Year:** 2008 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Uncertainty Sets for Image Classifiers using Conformal Prediction]] - **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]], [[entities/jitendra-malik|Jitendra Malik]], [[entities/michael-i-jordan|Michael ...
+- [[Understanding Changes in Corporate Credit Spreads]] - **Authors:** Doron Avramov, Gergana Jostova, Alexander Philipov · **Year:** 2007 · **Venue:** Financial Analysts Journal, Vol. 63, No. 2 · **Type:** paper
+- [[Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks]] - Examines multiscale comovement between green bonds in developed countries and international oil-driven shocks using wavelet techniques. Uses structural VAR to decompose oil shocks into demand, supply,...
+- [[US Corporate Credit Strategy Brief: Selling the Rally]] - **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Jingli Li, Aleksandr Nozhnitskiy · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Corporate Credit Strategy Chartbook]] - **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Corporate Credit Strategy: MS Credit-BMI Updated Reading]] - **Authors:** Meghan G. Robson, Adam S. Richmond, Vishwas Patkar, Frederick T. Fuchs, Felician G. Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Economics: Deeper Drop, Slower Climb]] - **Authors:** Ellen Zentner, Robert Rosener, Jan Kozak, Sarah A. Wolfe · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Interest Rate Strategist: Stay Close to Home]] - **Authors:** Jim Caron · **Year:** 2009 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Interest Rate Strategist: Top 10 Surprises for 2014]] - **Authors:** Matthew Hornbach, Vipul Jain, Subadra Rajappa, Michael Ortiz · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts]] - **Authors:** Matthew Hornbach · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Interest Rate Strategy: Funding Market Signals (Correction)]] - **Authors:** Sam Elprince, Matthew Hornbach, Sean Wan · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[US Interest Rate Strategy: Who Is Going to Buy Treasuries?]] - **Authors:** Matthew Hornbach · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Utilizing Vector Databases to Enhance RAG Models]] - *Revolutionizing Text Generation, Search Engines, and Chatbots through Vector-Enhanced RAG Models*
+- [[Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond]] - **Authors:** Gene Kim, Steve Yegge
+- [[Weekly Credit Wrap: High Grade, Mid-Cycle]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Weekly Credit Wrap: High Yield — Pricing Tomorrow's Deleveraging Today]] - **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
+- [[Why Do ETF Flows Move Prices?]] - **Authors:** Alex Chao, Ronnie Shah, Hallie Martin, Shuan Wei, Jessica Zhang
+
+## Entities
+*People, organizations, places.*
+
+- [[A. Philip Dawid]]
+- [[Aaditya Ramdas]] `researcher, conformal-prediction, statistics, cmu, sequential-testing`
+- [[Abraham Wald]]
+- [[Adam S Richmond]]
+- [[Adam Virgadamo]]
+- [[Adelchi Azzalini]]
+- [[Adrian E. Raftery]]
+- [[Adrian Pizzinga]] `researcher, kalman-filter, state-space-models, pairs-trading, brazil`
+- [[AHL (Man Group)]]
+- [[Alaph Capital]]
+- [[Albert Ziegler]] `ai-engineering, person`
+- [[Alec Radford]] `ai-engineering, person`
+- [[Aleksandr Nozhnitskiy]]
+- [[Alessandro Rinaldo]] `researcher, statistics, high-dimensional, conformal-prediction`
+- [[Alessandro Varaldo]] `researcher`
+- [[Alexander Barzykin]] `practitioner, market-making, fx, quantitative-finance, hsbc`
+- [[Alexander Dickerson]] `researcher, corporate-bonds, market-microstructure, empirical-finance, methodology`
+- [[Alexander Gammerman]] `researcher, conformal-prediction, foundational, royal-holloway`
+- [[Alexander Philipov]]
+- [[Alexander Wojt]]
+- [[Alvaro Serrano]]
+- [[Amanda Gentzel]]
+- [[Amazon CodeWhisperer]] `ai-engineering, tool`
+- [[Anastasios N. Angelopoulos]] `researcher, conformal-prediction, uncertainty-quantification, machine-learning`
+- [[Andre F.T. Martins]] `researcher, nlp, machine-learning, uncertainty-quantification, conformal-prediction`
+- [[Andreas Bruckner]]
+- [[Andreas Koukorinis]] `researcher, ucl, conformal-prediction, causal-inference`
+- [[Andres Jaime]]
+- [[Andrew M Watrous]]
+- [[Andrew Patton]] `researcher`
+- [[Andrew Sheets]]
+- [[Anna Coppola]] `researcher`
+- [[Anthropic]] `ai-engineering, organization`
+- [[Anthropic Claude]] `ai-engineering, tool`
+- [[Anton Heese]]
+- [[Antonio Farinhas]] `researcher, conformal-prediction, uncertainty-quantification, nlp`
+- [[Antti Ilmanen]]
+- [[Apache Flink]] `ai-engineering, tool`
+- [[Apache Kafka]] `ai-engineering, tool`
+- [[Apache Spark]] `ai-engineering, tool`
+- [[AQR Capital Management]]
+- [[Arkadiusz Sieroń]]
+- [[Arnaud Marès]]
+- [[Aron Becker]]
+- [[Arthur Saint Guilhem]]
+- [[Arturo Geigel]] `ai-engineering, person`
+- [[Ashish Vaswani]] `researcher, google`
+- [[Aymeric Dieuleveut]] `researcher, machine-learning, optimization, statistics, conformal-prediction`
+- [[Baiting Chen]] `researcher, conformal-prediction, machine-learning, ucla`
+- [[Benjamin Nabarro]]
+- [[Bent Flyvbjerg]]
+- [[BERTopic]] `ai-engineering, tool`
+- [[BMC Medical Research Methodology]]
+- [[Bob Gregory]] `ai-engineering, person`
+- [[Bodha Bhattacharya]] `creditETF, quantitative-credit, LBO-risk`
+- [[Borek Vasicek]]
+- [[Boyao Wu]] `researcher`
+- [[Bruna Skarica]]
+- [[Bruno Scarpa]]
+- [[Bryan Kelly]] `researcher`
+- [[Byol Kim]] `researcher, conformal-prediction, statistics, university-of-washington`
+- [[Campbell Harvey]]
+- [[Carlo Altavilla]]
+- [[Cary Chi-Liang Tsai]] `actuarial-science, mortality-modelling, credibility-theory, longevity-risk`
+- [[Cath Sleeman]]
+- [[Catherine Nelson]] `ai-engineering, person`
+- [[Cem Keltek]]
+- [[CFA Institute]]
+- [[Changhao Shi]] `researcher, graph-learning, graph-signal-processing, ucsd`
+- [[Chao Wang]] `researcher`
+- [[Chapman & Hall/CRC]]
+- [[ChatGPT]] `ai-engineering, tool`
+- [[Chelsea Green Publishing]]
+- [[Chen Xu]] `researcher, conformal-prediction, time-series, georgia-tech`
+- [[Chetan Ahya]]
+- [[Chip Huyen]] `ai-engineering, person`
+- [[Christian C.P. Wolff]]
+- [[Christina D. Romer]]
+- [[Christina S. Nikitopoulos]] `sustainable-finance, green-bonds, quantitative-finance, yield-curves`
+- [[Christina Zhu]] `researcher`
+- [[Christopher A. Sims]]
+- [[Christopher D. Piros]]
+- [[Christopher R Metli]]
+- [[Chuan Lim]]
+- [[Citigroup]]
+- [[Claudio Borio]]
+- [[Claypot AI]] `ai-engineering, person`
+- [[Cliff Asness]]
+- [[Code Llama]] `ai-engineering, tool`
+- [[Cohere]] `ai-engineering, tool`
+- [[Colin Lancaster]]
+- [[Contrast Security]] `ai-engineering, person`
+- [[Craig R. Ramsay]]
+- [[Cursor]] `ai-engineering, tool`
+- [[Dacheng Xiu]] `researcher`
+- [[Dan Callahan]]
+- [[Dana Mackenzie]]
+- [[Daniel Kahneman]]
+- [[Daniele Antonucci]]
+- [[Darrell Duffie]] `researcher`
+- [[David Card]]
+- [[David H. Romer]]
+- [[David Hamburger]]
+- [[David Harris]]
+- [[David Hume]]
+- [[David Jensen]]
+- [[David Lewis]]
+- [[Davide E. Avino]]
+- [[DeepSeek]] `ai-engineering, organization`
+- [[Dennis Bams]]
+- [[Derrick Y Kam]]
+- [[Deutsche Bank]]
+- [[Deutsche Bank Research]]
+- [[Didier Sornette]]
+- [[Donald B. Rubin]]
+- [[Donella H. Meadows]]
+- [[Doron Avramov]]
+- [[Dror Feitelson]] `ai-engineering, person`
+- [[Edward George]]
+- [[Edward Hu]] `ai-engineering, person`
+- [[Edward M. Watts]] `researcher`
+- [[Edward von der Schmidt]]
+- [[Elaine Lin]]
+- [[Elena Andreou]] `researcher`
+- [[Elga Bartsch]]
+- [[Ellen Zentner]]
+- [[Emilie Calder]]
+- [[Emmanuel Candès]] `researcher, statistics, conformal-prediction, compressed-sensing`
+- [[Enrique Salvador]]
+- [[Eric Evans]] `ai-engineering, person`
+- [[Eric Ghysels]] `researcher`
+- [[Erica R. Spear]]
+- [[Ernest Adams]]
+- [[European Central Bank]]
+- [[Evan Patterson]] `researcher, conformal-prediction, statistics, stanford, applied-category-theory`
+- [[FAISS]] `ai-engineering, tool`
+- [[Federal Reserve]]
+- [[Federico Manicardi]]
+- [[Felician G Stratmann]]
+- [[Felienne Hermans]] `ai-engineering, person`
+- [[Flask]] `ai-engineering, tool`
+- [[Florian Ziel]]
+- [[Forrest Bao]] `ai-engineering, person`
+- [[Francis Galton]]
+- [[Francis Longstaff]]
+- [[Francis X. Diebold]] `researcher`
+- [[Fred Liu]] `researcher`
+- [[Frederick T Fuchs]]
+- [[Friedrich A. Hayek]]
+- [[Fulvio Corsi]] `researcher`
+- [[Gal Mishne]] `researcher, professor, graph-signal-processing, machine-learning, ucsd`
+- [[Gareth W. Peters]] `statistics, actuarial-science, quantitative-finance, state-space-models, tukey-gh, quantile-diffusions`
+- [[Gek Teng Khoo]]
+- [[Gemini]] `ai-engineering, tool`
+- [[Gergana Jostova]]
+- [[Giacomo Carboni]]
+- [[Gianluca Zeni]] `researcher, conformal-prediction, statistics, politecnico-di-milano`
+- [[Giovanni Montana]] `researcher, statistical-arbitrage, kalman-filter, time-series, imperial-college`
+- [[Giovanni Urga]] `researcher`
+- [[GitHub Copilot]] `ai-engineering, tool`
+- [[Glenn Shafer]] `researcher, conformal-prediction, foundational, game-theoretic-probability, dempster-shafer`
+- [[Glenn W. Brier]]
+- [[Google]] `ai-engineering, organization`
+- [[Google Gemini]] `ai-engineering, tool`
+- [[Graham Secker]]
+- [[Gregory R. Duffee]]
+- [[Guang Zhang]] `researcher, pairs-trading, state-space-models, econometrics, boston-university`
+- [[Guido M. Kuersteiner]]
+- [[Guido W. Imbens]]
+- [[Guneet Dhingra]]
+- [[Haibin Xie]] `researcher`
+- [[Hamel Husain]] `ai-engineering, person`
+- [[Hans W Redeker]]
+- [[Hans W Redeker]]
+- [[Harriman House]]
+- [[Harrison Chase]] `ai-engineering, person`
+- [[Harry Percival]] `ai-engineering, person`
+- [[Hedy]] `ai-engineering, tool`
+- [[Henry Lam]] `researcher, operations-research, uncertainty-quantification, simulation, machine-learning`
+- [[Hugging Face]] `ai-engineering, tool`
+- [[Hugging Face Transformers]] `ai-engineering, tool`
+- [[Hugh Chipman]]
+- [[Hutchin Hill Capital]]
+- [[Ian Cooper]] `ai-engineering, person`
+- [[IBM]] `ai-engineering, organization`
+- [[Igor Tulchinsky]]
+- [[Ingmar Nolte]] `researcher`
+- [[InstructLab]] `ai-engineering, tool`
+- [[Isaac Gibbs]] `researcher, conformal-prediction, statistics, stanford, adaptive-conformal-inference`
+- [[J. Spencer Martin]]
+- [[J.P. Morgan]]
+- [[Jackie Ineke]]
+- [[Jacob Nell]]
+- [[Jakub Mateju]]
+- [[James Egan]]
+- [[James K Lord]]
+- [[James K Lord]]
+- [[James M. Robins]]
+- [[Jan Babecky]]
+- [[Jan Kozak]]
+- [[Jarita Duasa]]
+- [[Jason Karceski]]
+- [[Jason Wei]] `ai-engineering, person`
+- [[Jay Alammar]] `ai-engineering, person`
+- [[Jay Forrester]]
+- [[Jeen Ng]]
+- [[Jeff Williams]] `ai-engineering, person`
+- [[Jemma Hudson]]
+- [[Jennifer Hill]]
+- [[Jerald E. Pinto]]
+- [[Jeroen van Zundert]] `researcher, Robeco, corporate-bonds, factor-investing, momentum`
+- [[Jerome Powell]]
+- [[Jesper Rooth]]
+- [[Jesus Barrasa]] `ai-engineering, person`
+- [[Jesús Huerta de Soto]]
+- [[Jian Chen]] `researcher`
+- [[Jianqing Fan]] `researcher`
+- [[Jim Caron]]
+- [[Jim Reid]]
+- [[Jim Simons]]
+- [[Jim Webber]] `ai-engineering, person`
+- [[Jing Lei]] `researcher, conformal-prediction, statistics, cmu, high-dimensional`
+- [[Jingli Li]]
+- [[Jitendra Malik]] `researcher, computer-vision, uc-berkeley, deep-learning, conformal-prediction`
+- [[Joachim Fels]]
+- [[Joao Almeida]]
+- [[Joe Hopkins]]
+- [[Joerund Holterud Aarsnes]]
+- [[Johanna Trost]]
+- [[Johanna Ziegel]] `researcher`
+- [[John Anderson]] `ai-engineering, person`
+- [[John Berryman]] `ai-engineering, person`
+- [[John J. Cherian]] `researcher, conformal-prediction, statistics, stanford`
+- [[John Maynard Keynes]]
+- [[John McTaggart]]
+- [[John Ousterhout]] `ai-engineering, person`
+- [[John Wiley & Sons]]
+- [[Jonathan Ashworth]]
+- [[Jonathan Graber]]
+- [[Jonathan Yiangou]]
+- [[Jonghyeok Lee]] `researcher, conformal-prediction, time-series, kernel-methods, machine-learning`
+- [[Jordan Ellenberg]]
+- [[Jorge Zubelli]] `researcher, mathematical-finance, inverse-problems, impa, brazil`
+- [[Josef Lakonishok]]
+- [[Joshua D. Angrist]]
+- [[Judea Pearl]]
+- [[Juha Seppala]]
+- [[Julie Josse]] `researcher, missing-data, statistics, machine-learning, conformal-prediction`
+- [[Jörn-Steffen Pischke]]
+- [[Karl Pearson]]
+- [[Karthik Nagalingam]]
+- [[Kaspar Wüthrich]] `econometrics, prediction-intervals, conformal-prediction`
+- [[Kate Soule]] `ai-engineering, person`
+- [[Katerina Smidkova]]
+- [[Kelcie Gerson]]
+- [[Kelvin Pang]]
+- [[Kevin Berk]]
+- [[Koichi Sugisaki]]
+- [[Kostas Triantafyllopoulos]] `researcher, bayesian-statistics, state-space-models, kalman-filter, sheffield`
+- [[Kritika Kashyap]]
+- [[LangChain]] `ai-engineering, tool`
+- [[LangGraph]] `ai-engineering, tool`
+- [[LangSmith]] `ai-engineering, tool`
+- [[Larry Wasserman]] `researcher, statistics, cmu, nonparametric, conformal-prediction, foundational`
+- [[Lars Ljungqvist]]
+- [[Lars Peter Hansen]]
+- [[Laurence Mutkin]]
+- [[Leandro Sanchez-Betancourt]] `researcher`
+- [[Lee Boonstra]] `ai-engineering, person`
+- [[Lehman Brothers]] `creditETF, investment-bank, quantitative-research`
+- [[Leon van Veldhuijzen]] `researcher`
+- [[Leonard J. Savage]]
+- [[Lightning AI]] `ai-engineering, organization`
+- [[Lihua Lei]] `researcher, statistics, stanford-gsb, conformal-prediction, causal-inference`
+- [[Lindsey Matthews]] `creditETF, risk-management, credit-curves`
+- [[LlamaIndex]] `ai-engineering, tool`
+- [[LongTail Alpha, LLC]]
+- [[Louis K. C. Chan]]
+- [[Lu Cheng]] `researcher, conformal-prediction, machine-learning, responsible-ai, uic`
+- [[Luc Bauwens]] `researcher`
+- [[Luca Bosatta]] `creditETF, risk-modelling, credit-curves`
+- [[Ludwig von Mises]]
+- [[Ludwig von Mises Institute]]
+- [[Luke Metz]] `ai-engineering, person`
+- [[M. Stocker]] `researcher, conformal-prediction, time-series, forecasting`
+- [[Maarten Grootendorst]] `ai-engineering, person`
+- [[MADE.com]] `ai-engineering, person`
+- [[Magdalena L Stoklosa]]
+- [[Manning Publications]] `ai-engineering, organization`
+- [[Manoj Pradhan]]
+- [[Marcos Lopez de Prado]]
+- [[Marcus P. Dawson]]
+- [[Marek Rusnak]]
+- [[Margaux Zaffran]] `researcher, conformal-prediction, time-series, electricity-forecasting, missing-data`
+- [[Marie-Alice Blete]] `ai-engineering, person`
+- [[Mario Draghi]]
+- [[Mark Schofield]]
+- [[Markus Brunnermeier]] `researcher`
+- [[Markus Püschel]] `researcher, professor, signal-processing, causal-discovery, eth-zurich`
+- [[Martin D. Gould]] `researcher, market-microstructure, limit-order-book, foreign-exchange, long-memory`
+- [[Martin Fowler]] `ai-engineering, person`
+- [[Massimo Rostagno]]
+- [[Matteo Fontana]] `researcher, conformal-prediction, statistics, time-series, functional-data-analysis`
+- [[Matteo Sesia]] `researcher, conformal-prediction, statistics, usc, knockoffs`
+- [[Matthew Harrison]]
+- [[Matthew Hornbach]]
+- [[Matthew Pennill]]
+- [[Max Blass]]
+- [[Max G'Sell]] `researcher, statistics, cmu, conformal-prediction`
+- [[Maya Natarajan]] `ai-engineering, person`
+- [[Mayank Gargh]]
+- [[Mayo Oshin]] `ai-engineering, person`
+- [[Meghan G. Robson]]
+- [[Melanie Baker]]
+- [[Meta AI]] `ai-engineering, person`
+- [[Meta Llama]] `ai-engineering, tool`
+- [[Michael D Zezas]]
+- [[Michael E. Porter]]
+- [[Michael I. Jordan]] `researcher, machine-learning, uc-berkeley, statistics, foundational, conformal-prediction`
+- [[Michael J Wilson]]
+- [[Michael J. Mauboussin]]
+- [[Michael L. Halls-Moore]]
+- [[Michael Tooley]]
+- [[Michael Zezas]]
+- [[Microsoft]] `ai-engineering, organization`
+- [[Microsoft GraphRAG]] `ai-engineering, person`
+- [[Microsoft Tay]] `ai-engineering, person`
+- [[Miguel A. Hernán]]
+- [[Mike Ludkovski]] `gaussian-processes, actuarial-science, mortality-modelling, machine-learning`
+- [[Min Dai]]
+- [[Ming Lin]]
+- [[Minh Trinh]] `creditETF, quantitative-credit, LBO-risk`
+- [[Minh-Ngoc Tran]] `researcher`
+- [[Mirco Rubin]] `researcher`
+- [[Molly Wharton]]
+- [[Moody's]]
+- [[Morgan Stanley]]
+- [[Moritz Schulz]]
+- [[Murray N. Rothbard]]
+- [[Naomi Poole]]
+- [[Nathaniel Rosenbaum]]
+- [[National Bureau of Economic Research]]
+- [[Neil Shephard]] `researcher`
+- [[Nelson Jantzen]]
+- [[Neo4j]] `ai-engineering, tool`
+- [[Nicola Vitucci]] `ai-engineering, person`
+- [[Nikolaus Hautsch]] `researcher`
+- [[Nikunj Kapadia]]
+- [[Nils Reimers]] `ai-engineering, person`
+- [[Nora Wassermann]]
+- [[Nuno Campos]] `ai-engineering, person`
+- [[Nursilah Ahmad]]
+- [[O'Reilly Media]] `ai-engineering, organization`
+- [[Ofer Mendelevitch]] `ai-engineering, person`
+- [[Ole Barndorff-Nielsen]] `researcher`
+- [[Olivier Bizimana]]
+- [[Olivier C. Pasche]] `researcher, conformal-prediction, extreme-value-theory, flood-risk, machine-learning`
+- [[Olivier Caelen]] `ai-engineering, person`
+- [[Olivier Guéant]] `researcher, market-making, optimal-execution, mathematical-finance, stochastic-control, fx`
+- [[OpenAI]] `ai-engineering, organization`
+- [[Oscar Jorda]]
+- [[Oskar Hane]] `ai-engineering, person`
+- [[OWASP]] `ai-engineering, organization`
+- [[Owen Roberts]]
+- [[Oxford University Press]]
+- [[Paco Nathan]] `ai-engineering, person`
+- [[Pandas]] `ai-engineering, tool`
+- [[Paolo Batori]]
+- [[Pascal Lavergne]]
+- [[Pasquale M Diana]]
+- [[Patrick Gagliardini]] `researcher`
+- [[Patrick Houweling]] `researcher, Robeco, corporate-bonds, factor-investing, quantitative-finance`
+- [[Patrick Lewis]] `ai-engineering, person`
+- [[Patryk Drozdzik]]
+- [[Paul Cotturo]] `researcher`
+- [[Paul R. Rosenbaum]]
+- [[Paul Zikopoulos]] `ai-engineering, person`
+- [[People's Bank of China]]
+- [[Peter Carr]]
+- [[Phanikiran Naraparaju]]
+- [[Philip E. Tetlock]]
+- [[Philipp Erfurth]]
+- [[Philippe Bergault]] `researcher, market-making, stochastic-control, quantitative-finance`
+- [[Pierre Collin-Dufresne]]
+- [[Pierre Pinson]]
+- [[Princeton University Press]]
+- [[Purva Pruthi]]
+- [[PyTorch]] `ai-engineering, tool`
+- [[Qi Li]]
+- [[Quang Vuong]]
+- [[QuantStart]]
+- [[Rainer Pullirsch]] `creditETF, credit-risk, quantitative-research`
+- [[Rangika Peiris]] `researcher`
+- [[Rasa]] `ai-engineering, tool`
+- [[Rashique Rahman]]
+- [[Redis]] `ai-engineering, tool`
+- [[Replit]] `ai-engineering, tool`
+- [[Richard Gerlach]] `researcher`
+- [[Richard J. Martin]] `fixed-income, credit-spreads, quantitative-finance`
+- [[Rina Foygel Barber]] `researcher, conformal-prediction, statistics, university-of-chicago`
+- [[Rob Thomas]] `ai-engineering, person`
+- [[Robert C. Merton]]
+- [[Robert Carver]]
+- [[Robert Engle]] `researcher`
+- [[Robert Geske]]
+- [[Robert Graumans]] `researcher`
+- [[Robert J Brown]]
+- [[Robert McCulloch]]
+- [[Robert Pardo]]
+- [[Robert Proner]] `researcher`
+- [[Robert Rosener]]
+- [[Robert S. Goldstein]]
+- [[Robert Stalnaker]]
+- [[Roberto Motto]]
+- [[Robin Xing]]
+- [[Roger Koenker]]
+- [[Rogerio Oliveira]]
+- [[Rose Yu]] `professor, deep-learning, spatiotemporal, time-series, ucsd`
+- [[Routledge]]
+- [[Ryan J. Tibshirani]] `researcher, conformal-prediction, statistics, machine-learning, uc-berkeley, cmu`
+- [[Saad Labyad]] `researcher`
+- [[Sam Elprince]]
+- [[Samuel N. Cohen]] `researcher`
+- [[Sander Barendse]] `researcher`
+- [[Sarah A. Wolfe]]
+- [[scikit-learn]] `ai-engineering, tool`
+- [[Sebastian Engelke]] `researcher, extreme-value-theory, statistics, flood-risk, graphical-models`
+- [[Sebastian Jaimungal]] `researcher, optimal-execution, market-making, algorithmic-trading, stochastic-control`
+- [[Sebastian Mercado]]
+- [[Sebastian Raedler]]
+- [[Sebastian Raschka]] `ai-engineering, person`
+- [[Serena Tang]]
+- [[Sewall Wright]]
+- [[Shahraab Ahmad]]
+- [[Sheena Shah]]
+- [[Shengfang Tang]]
+- [[Shihao Gu]] `researcher`
+- [[Shona Fielding]]
+- [[Shouyang Wang]] `researcher`
+- [[Shreya Chander]]
+- [[Shrina B Poojara]]
+- [[Shunyu Yao]] `ai-engineering, person`
+- [[Silvi Mantri]]
+- [[Simon T. Bodilsen]] `researcher`
+- [[Simona Boffelli]] `researcher`
+- [[Simone Vantini]] `researcher, conformal-prediction, functional-data-analysis, statistics, politecnico-di-milano`
+- [[Sivan Mahadevan]]
+- [[Snorkel AI]] `ai-engineering, tool`
+- [[Sophia Sun]] `researcher, conformal-prediction, time-series, copulas, ucsd`
+- [[Souhaib Ben Taieb]] `researcher, forecasting, time-series, machine-learning, conformal-prediction`
+- [[spaCy]] `ai-engineering, tool`
+- [[Sphinx]] `ai-engineering, tool`
+- [[Springer Nature]]
+- [[SQLAlchemy]] `ai-engineering, tool`
+- [[Srikanth Sankaran]]
+- [[Stanford CS 329S]] `ai-engineering, person`
+- [[Stanley Druckenmiller]]
+- [[Stefan J. Huber]] `researcher`
+- [[Stefan Wager]]
+- [[Stephen Bates]] `researcher, conformal-prediction, statistics, uncertainty-quantification`
+- [[Steve Caprio]]
+- [[Steve Wilson]] `ai-engineering, person`
+- [[Subadra Rajappa]]
+- [[Sung Woen Kang]]
+- [[Susan Athey]]
+- [[Tabnine]] `ai-engineering, tool`
+- [[Tarek Hamid]]
+- [[Teresa Busjahn]] `ai-engineering, person`
+- [[The Journal of Portfolio Management]]
+- [[The MIT Press]]
+- [[The Penguin Press]]
+- [[Thomas Egan]]
+- [[Thomas J. Sargent]]
+- [[Thomas Pearce]]
+- [[tiktoken]] `ai-engineering, tool`
+- [[Tilmann Gneiting]]
+- [[Tim Peters]] `ai-engineering, person`
+- [[Tobias Fissler]] `researcher`
+- [[Tom Brown]] `ai-engineering, person`
+- [[Tom Taulli]] `ai-engineering, person`
+- [[Tomas Havranek]]
+- [[Tomasz Pietrzak]]
+- [[Tomaz Bratanic]] `ai-engineering, person`
+- [[Tony Small]]
+- [[TVM]] `ai-engineering, tool`
+- [[Tyler J. VanderWeele]]
+- [[UBS Delta]] `creditETF, risk-management, portfolio-analytics`
+- [[University of Aberdeen]]
+- [[Valeri Voev]] `researcher`
+- [[Vandit D. Shah]]
+- [[Vasiliki D. Skintzi]] `researcher`
+- [[Vectara]] `ai-engineering, organization`
+- [[Venera Arnaoudova]] `ai-engineering, person`
+- [[Vertex AI]] `ai-engineering, tool`
+- [[Victor Chernozhukov]] `econometrics, statistics, quantile-regression, machine-learning, causal-inference`
+- [[Viktor Hjort]]
+- [[Vineer Bhansali]]
+- [[Vipul Jain]]
+- [[Vishwanath Tirupattur]]
+- [[Vishwas Patkar]]
+- [[Vishy Tirupattur]]
+- [[Vladimir Vovk]] `researcher, conformal-prediction, machine-learning, statistics, game-theoretic-probability, foundational`
+- [[Wanting Low]]
+- [[Warren Buffett]]
+- [[Weights and Biases]] `ai-engineering, tool`
+- [[Wesley C. Salmon]]
+- [[Wiktoria Małgorzewicz]] `researcher, conformal-prediction, time-series`
+- [[Wolfgang Lemke]]
+- [[WordNet]] `ai-engineering, organization`
+- [[Worldline]] `ai-engineering, organization`
+- [[WorldQuant]]
+- [[Xantium]]
+- [[Xiaofan Zhou]] `researcher, conformal-prediction, machine-learning, uic`
+- [[Xiaoling Pu]]
+- [[Xiaowen Dong]] `researcher, graph-signal-processing, machine-learning, oxford`
+- [[Xuezhi Wang]] `ai-engineering, person`
+- [[Yacine Aït-Sahalia]] `researcher`
+- [[Yakov Amihud]] `researcher`
+- [[Yaniv Romano]] `researcher, conformal-prediction, uncertainty-quantification, statistics, machine-learning`
+- [[Yanqin Fan]]
+- [[Yao Xie]] `researcher, conformal-prediction, time-series, georgia-tech, professor, kernel-methods`
+- [[Yin-Cong Zhi]] `researcher, gaussian-processes, graph-signal-processing, oxford`
+- [[Yinchu Zhu]] `statistics, econometrics, conformal-prediction`
+- [[Ying Fang]]
+- [[Ying Jin]] `statistics, conformal-prediction, uncertainty-quantification, robustness`
+- [[Yu Gui]] `researcher, conformal-prediction, statistics, university-of-chicago`
+- [[Yuqi Yang]] `statistics, conformal-prediction, machine-learning`
+- [[Yuying Sun]] `researcher`
+- [[Zongwu Cai]]
+- [[Zrinka Lukač]]
+- [[Álvaro Cartea]] `researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance`
+
+## Concepts
+*Ideas, themes, topics.*
+
+- [[100-Percent Reserve Requirement]] (1 sources)
+- [[3D Challenge]] (1 sources)
+- [[Absolutely Regular (Beta-Mixing) Processes]] (1 sources)
+- [[Adams's Thesis]] (1 sources)
+- [[Adaptive Conformal Inference]] (4 sources)
+- [[Adaptive Prediction Sets (APS)]] (3 sources)
+- [[Additional Tier 1 capital]] (5 sources)
+- [[Adverse Selection]] (2 sources)
+- [[AgACI (Aggregated Adaptive Conformal Inference)]] (2 sources)
+- [[Agent-Based Models]] (1 sources)
+- [[Agentic AI]] (1 sources)
+- [[Agentic RAG]] (2 sources)
+- [[Aggregate Pattern]] (1 sources)
+- [[AI Agents]] (1 sources)
+- [[AI Capex Funding]] (2 sources)
+- [[AI Disruption of Software Business Models]] (1 sources)
+- [[AI Engineering]] (1 sources)
+- [[AI Governance]] (1 sources)
+- [[AI Hallucination]] (2 sources)
+- [[AI Value Creator]] (1 sources)
+- [[AI-Assisted Programming]] (1 sources)
+- [[Algorithmic Trading]] (2 sources)
+- [[Alpha (Predictive Trading Signal)]] (1 sources)
+- [[Alpha Correlation and Turnover]] (1 sources)
+- [[Amihud Illiquidity]] (1 sources)
+- [[Analyst Forecast Optimism Bias]] (1 sources)
+- [[Approximate Factor Models]] (1 sources)
+- [[ARIMA and GARCH Volatility Models]] (1 sources)
+- [[Asian Financial Crisis of 1997]] (1 sources)
+- [[Asset Purchase Programme and Duration Extraction]] (1 sources)
+- [[Association Rule Learning]] (1 sources)
+- [[Asymmetric Laplace Density]] (1 sources)
+- [[At-At Theory of Causal Influence]] (1 sources)
+- [[Austrian Business Cycle Theory]] (1 sources)
+- [[Autocorrelation in Time Series]] (1 sources)
+- [[Automated Alpha Search]] (1 sources)
+- [[Automatic Prompt Engineering]] (1 sources)
+- [[Autonomous AI Agents]] (1 sources)
+- [[Avellaneda-Stoikov Model]] (3 sources)
+- [[Average treatment effect (ATE)]] (1 sources)
+- [[BAA Corporate Bond Spread]] (2 sources)
+- [[Back-door and Front-door Adjustment]] (1 sources)
+- [[Backtesting]] (1 sources)
+- [[Backward Causation]] (1 sources)
+- [[Balance sheet recession]] (1 sources)
+- [[Bank capital structure seniority]] (1 sources)
+- [[Bank Resolution and Bail-in]] (1 sources)
+- [[Banking Crisis Early Warning Indicators]] (1 sources)
+- [[Base Correlation]] (1 sources)
+- [[Base Rates and Reference-Class Forecasting]] (1 sources)
+- [[Batch vs Online Prediction]] (1 sources)
+- [[Bayesian Additive Regression Trees (BART)]] (1 sources)
+- [[Bayesian Inference]] (1 sources)
+- [[Bayesian Model Averaging]] (2 sources)
+- [[Bayesian Nonparametrics]] (1 sources)
+- [[Bayesian Updating]] (1 sources)
+- [[Behavioral Finance]] (8 sources)
+- [[Bias-Variance Trade-off and Model Selection]] (1 sources)
+- [[Block Conformal Prediction (BCP)]] (1 sources)
+- [[Bond CAPM]] (1 sources)
+- [[Bond Index Inclusion Criteria]] (1 sources)
+- [[Bond Market Segmentation]] (1 sources)
+- [[Bond Momentum]]
+- [[Bounded Rationality]] (1 sources)
+- [[Bregman Divergence]] (1 sources)
+- [[Bubble Detection]] (1 sources)
+- [[Business Cycles]] (1 sources)
+- [[Byte Pair Encoding]] (1 sources)
+- [[Bühlmann-Straub Model]] (1 sources)
+- [[Calibration]] (1 sources)
+- [[Canonical Correlation Analysis]] (1 sources)
+- [[Cantillon Effect and Non-Neutrality of Money]] (1 sources)
+- [[Capital Structure Arbitrage]] (2 sources)
+- [[Carry and Rolldown]] (23 sources)
+- [[Causal Attention]] (1 sources)
+- [[Causal DAGs and Structural Classification of Bias]] (1 sources)
+- [[Causal Diagram (DAG)]] (1 sources)
+- [[Causal Inference]] (1 sources)
+- [[Causal Theory of the Direction of Time]] (1 sources)
+- [[Causation versus Unification in Explanation]] (1 sources)
+- [[CDS-Bond Basis]] (13 sources)
+- [[Chain-of-Thought Prompting]] (6 sources)
+- [[Chaos Theory and Non-linearity]] (1 sources)
+- [[ChatGPT]] (1 sources)
+- [[Cheapest-to-Deliver Optionality]] (1 sources)
+- [[Chunking]] (2 sources)
+- [[Class Imbalance Handling]] (1 sources)
+- [[Class-Conditional Conformal Prediction]] (1 sources)
+- [[Classification Fine-Tuning]] (1 sources)
+- [[Client Tiering]] (2 sources)
+- [[Cluster Analysis and Association Rules]] (1 sources)
+- [[Code Completion]] (1 sources)
+- [[Code Linting and Formatting]] (1 sources)
+- [[Code Reading]] (1 sources)
+- [[Code Refactoring]] (1 sources)
+- [[Code Smells]] (1 sources)
+- [[Cointegration]] (3 sources)
+- [[Command-Query Responsibility Segregation]] (1 sources)
+- [[Community Detection for GraphRAG]] (1 sources)
+- [[Composite Cyclical Indicators]] (1 sources)
+- [[Conditional Coverage]] (4 sources)
+- [[Conditional Independence Assumption]] (1 sources)
+- [[Conditional Independence Test]] (1 sources)
+- [[Conditional Unconfoundedness / Conditional Independence Assumption]] (1 sources)
+- [[Conditional Validity]] (2 sources)
+- [[Conformal Outlier Detection]] (1 sources)
+- [[Conformal PID Control]] (2 sources)
+- [[Conformal Prediction]] (11 sources)
+- [[Conformal Prediction for Computer Vision]] (2 sources)
+- [[Conformal Prediction for Graph Data]] (1 sources)
+- [[Conformal Prediction for Large Language Models]] (1 sources)
+- [[Conformal Prediction for NLP]] (1 sources)
+- [[Conformal Predictive Distribution]] (1 sources)
+- [[Conformal Risk Control]] (2 sources)
+- [[Conformalized Quantile Regression]] (2 sources)
+- [[Confounding]] (2 sources)
+- [[Confounding and Sensitivity Analysis]] (1 sources)
+- [[Constrained Optimization in Economics]] (1 sources)
+- [[Context Window]] (1 sources)
+- [[Contextual Embeddings]] (1 sources)
+- [[Continual Learning]] (1 sources)
+- [[Continuous Ranked Probability Score (CRPS)]] (1 sources)
+- [[Contrarian Market Timing]] (1 sources)
+- [[Contrastive Learning]] (1 sources)
+- [[Conversational AI]] (1 sources)
+- [[Copula and Sklar's Theorem]] (1 sources)
+- [[Copulas]] (1 sources)
+- [[Corporate Bond Liquidity Premium]] (1 sources)
+- [[Corporate Bonds]] (35 sources)
+- [[Corporate Credit Debt Bubble]] (1 sources)
+- [[Corporate Credit Fundamentals]] (1 sources)
+- [[Corporate Hybrid Bonds]] (4 sources)
+- [[Correlation Is Not Causation]] (1 sources)
+- [[Counterfactual Chance]] (1 sources)
+- [[Counterfactual Conditional]] (1 sources)
+- [[Counterfactuals]] (1 sources)
+- [[Coverage Guarantee]] (3 sources)
+- [[Credibility Theory]] (2 sources)
+- [[Credible Government Policy and Time Consistency]] (1 sources)
+- [[Credit Default Swap Spread]] (1 sources)
+- [[Credit growth]] (1 sources)
+- [[Credit Hedge Ratios with Equity Options]] (1 sources)
+- [[Credit Relative Value]] (1 sources)
+- [[Credit Risk Premium]] (2 sources)
+- [[Credit Spread Changes]] (1 sources)
+- [[Credit Spread Compression]] (2 sources)
+- [[Credit Spread Curve]] (22 sources)
+- [[Credit Spread Forecasting]] (5 sources)
+- [[Credit Spread Puzzle]] (1 sources)
+- [[Credit-to-GDP Gap]] (1 sources)
+- [[Crisis Incidence and Real Costs]] (1 sources)
+- [[Crisis Signaling Approach]] (1 sources)
+- [[Cross-Asset Rotation Strategy]] (30 sources)
+- [[Cross-Conformal Prediction / Jackknife+ / CV+]] (4 sources)
+- [[Cross-Currency Basis Swap]] (1 sources)
+- [[Cross-Sectional Momentum]] (1 sources)
+- [[Currency Exchange Rates and Forecasting]] (1 sources)
+- [[Curse of Dimensionality]] (1 sources)
+- [[Cypher Query Language]] (1 sources)
+- [[Data Engineering for ML]] (1 sources)
+- [[Data Fabric]] (1 sources)
+- [[Data Leakage]] (1 sources)
+- [[Data Poisoning]] (1 sources)
+- [[Dataset Engineering]] (1 sources)
+- [[Dawid-Sebastiani Score]] (1 sources)
+- [[DCC-MIDAS]] (1 sources)
+- [[Dealer Networks]] (1 sources)
+- [[Debt Overhang and Balance-Sheet Recession]] (1 sources)
+- [[Decision Trees]] (1 sources)
+- [[Decoding Strategies]] (1 sources)
+- [[Deep Learning for Finance]] (1 sources)
+- [[Default Rates]] (9 sources)
+- [[Deflation trap]] (1 sources)
+- [[Demand and Supply Analysis]] (1 sources)
+- [[Dense Retrieval]] (1 sources)
+- [[Dependency Inversion Principle]] (1 sources)
+- [[Diebold-Mariano Test]] (1 sources)
+- [[Differences-in-Differences]] (1 sources)
+- [[Directional Forecasting]] (1 sources)
+- [[Discriminant Analysis and Classification]] (1 sources)
+- [[Disposition Effect]] (2 sources)
+- [[Distressed Exchange]] (3 sources)
+- [[Distribution Drift]] (3 sources)
+- [[Distributional Conformal Prediction]] (1 sources)
+- [[do-operator and do-calculus]] (1 sources)
+- [[Docstrings]] (1 sources)
+- [[Domain Events]] (1 sources)
+- [[Domain-Driven Design]] (1 sources)
+- [[Don't Repeat Yourself (DRY)]] (1 sources)
+- [[Double Machine Learning]] (1 sources)
+- [[Doubly Robust Estimation]] (4 sources)
+- [[DSGE and Threshold BVAR Counterfactual Analysis]] (1 sources)
+- [[DtACI (Dynamically-tuned Adaptive Conformal Inference)]] (2 sources)
+- [[Dynamic Equicorrelation]] (1 sources)
+- [[Early Warning Indicators]] (1 sources)
+- [[Earnings Growth Persistence]] (1 sources)
+- [[ECB Price Stability Definition]] (1 sources)
+- [[ECDF Aggregation]] (1 sources)
+- [[Efficient Importance Sampling]] (1 sources)
+- [[Elasticity]] (1 sources)
+- [[Embeddings]] (3 sources)
+- [[Empirical evaluation of causal inference methods]] (1 sources)
+- [[EnbPI (Ensemble batch Prediction Intervals)]] (3 sources)
+- [[Energy Score]] (2 sources)
+- [[Entity Resolution]] (2 sources)
+- [[Entry Point Analysis]] (1 sources)
+- [[Epsilon-Operator Semantics for Counterfactuals]] (1 sources)
+- [[Equity Forward Pricing]] (1 sources)
+- [[Error Handling and Logging]] (1 sources)
+- [[ETF Creation/Redemption Arbitrage]] (1 sources)
+- [[ETF Flow Anomalies (Create-to-Lend)]] (1 sources)
+- [[ETF Flow-Based Tactical Asset Allocation]] (1 sources)
+- [[ETF Flows]] (13 sources)
+- [[Evaluation Constraint on Counterfactuals]] (1 sources)
+- [[Event-Driven Microservices]] (1 sources)
+- [[EWMAC and Carry Trading Rules]] (1 sources)
+- [[Exchangeability]] (2 sources)
+- [[Expectations Hypothesis of the Term Structure]] (6 sources)
+- [[Expected Shortfall]] (1 sources)
+- [[Experiment Tracking]] (1 sources)
+- [[Explanatory Asymmetry]] (1 sources)
+- [[Extreme Value Theory]] (1 sources)
+- [[Eye Tracking in Code Reading]] (1 sources)
+- [[Factor Investing in Corporate Bonds]] (8 sources)
+- [[Factor Models]] (10 sources)
+- [[Factor Signals in Credit]] (1 sources)
+- [[Factor Timing]] (1 sources)
+- [[Fama-French Factors]] (1 sources)
+- [[Fast Mean Reversion]] (1 sources)
+- [[Feature Engineering]] (1 sources)
+- [[Feature Store]] (1 sources)
+- [[Feedback Loops]] (2 sources)
+- [[Few-Shot Learning]] (2 sources)
+- [[Few-shot Prompting]] (2 sources)
+- [[Fill Probability]] (2 sources)
+- [[Financial conditions]] (1 sources)
+- [[Fine-Tuning]] (1 sources)
+- [[Fissler-Ziegel Loss]] (1 sources)
+- [[Flexible Least Squares]] (2 sources)
+- [[Flow Decomposition]] (3 sources)
+- [[Forecast Scaling and Combination]] (1 sources)
+- [[Forward Rate]] (7 sources)
+- [[Foundation Model]] (1 sources)
+- [[Foundation Models]] (1 sources)
+- [[Four-Way Effect Decomposition]] (1 sources)
+- [[Fractional Kelly Position Sizing]] (1 sources)
+- [[Fractional-Reserve Banking]] (1 sources)
+- [[Full (Transductive) Conformal Prediction]] (2 sources)
+- [[Function Calling]] (1 sources)
+- [[Functional Data Analysis]] (1 sources)
+- [[Funding Liquidity]] (1 sources)
+- [[Futures Carry]] (1 sources)
+- [[G-Methods for Time-Varying Treatments]] (1 sources)
+- [[GARCH-MIDAS]] (1 sources)
+- [[Gaussian Processes]] (1 sources)
+- [[Gegenbauer Processes]] (1 sources)
+- [[GELU Activation]] (1 sources)
+- [[Generalized Bayesian Inference]] (1 sources)
+- [[Generalized Pareto Distribution]] (1 sources)
+- [[Generative AI]] (1 sources)
+- [[Generative Computing]] (1 sources)
+- [[Generative Language Modeling]] (1 sources)
+- [[Geske Compound Option Model]] (1 sources)
+- [[Global growth differentials]] (1 sources)
+- [[Global Macro Investing]] (1 sources)
+- [[Global Tactical Asset Allocation]] (6 sources)
+- [[Government Bond Spreads]] (31 sources)
+- [[GPT Plug-ins]] (1 sources)
+- [[GPT-4]] (1 sources)
+- [[Graph Convolutional Networks]]
+- [[Graph Data Science]] (1 sources)
+- [[Graph Fourier Transform]]
+- [[Graph Laplacian]]
+- [[Graph Neural Networks]]
+- [[Graph Signal Processing]]
+- [[Graph-Native Machine Learning]] (1 sources)
+- [[GraphRAG]] (1 sources)
+- [[GraphRAG]] (1 sources)
+- [[Great Moderation]] (4 sources)
+- [[Green Bond Spreads]] (1 sources)
+- [[Group Factor Models]] (1 sources)
+- [[Group-Balanced Conformal Prediction]] (1 sources)
+- [[Growing-Block / Unreality of the Future]] (1 sources)
+- [[Half-Life of Adjustment]] (1 sources)
+- [[Hallucination]] (1 sources)
+- [[Hallucination as a Security Risk]] (1 sources)
+- [[Hawkes Processes]] (1 sources)
+- [[Hazard Rate Curve]] (1 sources)
+- [[Heterogeneous Autoregressive Model]] (2 sources)
+- [[Heterogeneous Treatment Effects]] (1 sources)
+- [[Hexagonal Architecture]] (1 sources)
+- [[Hidden Markov Models for Regime Detection]] (1 sources)
+- [[Hierarchical Clustering]] (1 sources)
+- [[Hierarchical Credibility Model]] (2 sources)
+- [[High Performance Computing Credit Subsector]] (1 sources)
+- [[High-Dimensional Data]] (1 sources)
+- [[High-Frequency Data]] (1 sources)
+- [[High-Frequency Trading]] (1 sources)
+- [[Historical Simulation (Backtesting)]] (1 sources)
+- [[Human-in-the-Loop]] (1 sources)
+- [[Hume's Problem of Causation]] (1 sources)
+- [[Hurst Exponent]] (1 sources)
+- [[Hybrid Search]] (2 sources)
+- [[Hyperscaler-Data Center Bond Relative Value]] (1 sources)
+- [[Iceberg Model]] (1 sources)
+- [[Identifiability Conditions]] (2 sources)
+- [[Illiquidity Premium]] (2 sources)
+- [[Imaging]] (1 sources)
+- [[Implied Volatility Skew]] (2 sources)
+- [[In-Context Learning]] (2 sources)
+- [[Incomplete-Markets Heterogeneous-Agent (Bewley) Models]] (1 sources)
+- [[Index Reconstitution]] (2 sources)
+- [[Inference Optimization]] (1 sources)
+- [[Information Ratio]] (1 sources)
+- [[Informed Trading]] (1 sources)
+- [[Input-Output Analysis]] (1 sources)
+- [[Insecure Output Handling]] (1 sources)
+- [[Instruction Fine-Tuning]] (1 sources)
+- [[Instrumental Variables]] (3 sources)
+- [[Interaction Analysis]] (1 sources)
+- [[Internalization vs Externalization]] (3 sources)
+- [[International Trade and Capital Flows]] (1 sources)
+- [[Interquantile Expectation]] (1 sources)
+- [[Interrupted Time Series Design]] (1 sources)
+- [[Interval Score]] (1 sources)
+- [[Inventory Risk]] (6 sources)
+- [[Inverse Probability Weighting]] (1 sources)
+- [[IP Weighting and Marginal Structural Models]] (2 sources)
+- [[Jackknife+ after Bootstrap (J+aB)]] (3 sources)
+- [[Jackknife+ Prediction]] (3 sources)
+- [[Jailbreaking]] (1 sources)
+- [[Jump Clustering]] (1 sources)
+- [[Jump-Diffusion Option Pricing]] (1 sources)
+- [[Kalman Filter]] (2 sources)
+- [[Kalman Filter State-Space Estimation]] (1 sources)
+- [[Knowledge Graph]] (1 sources)
+- [[Knowledge Graph Construction]] (1 sources)
+- [[Knowledge Lake]] (1 sources)
+- [[KOWCPI]] (1 sources)
+- [[Kriging]] (1 sources)
+- [[Ladder of Causation]] (1 sources)
+- [[Lagrange Multipliers Method]] (1 sources)
+- [[LangChain]] (2 sources)
+- [[LangGraph]] (1 sources)
+- [[LangSmith]] (1 sources)
+- [[Language Model Pretraining]] (1 sources)
+- [[Large Language Model]] (1 sources)
+- [[Large Language Models]] (1 sources)
+- [[Law of Active Management]] (1 sources)
+- [[Layer Normalization]] (1 sources)
+- [[LBO Risk]] (2 sources)
+- [[Learn Then Test]] (2 sources)
+- [[Lee-Carter Model]] (2 sources)
+- [[Lender of Last Resort]] (1 sources)
+- [[LEVER Score]] (2 sources)
+- [[Leverage Points]] (1 sources)
+- [[Libor-OIS spread]] (1 sources)
+- [[Limit Order Book]] (9 sources)
+- [[Limits to Arbitrage]] (1 sources)
+- [[Linear-Quadratic Control and the Kalman Filter]] (1 sources)
+- [[Linguistic Anti-Patterns]] (1 sources)
+- [[Liquidity Risk]] (5 sources)
+- [[Liquidity Scoring Mechanism]] (1 sources)
+- [[LLM Agent]] (1 sources)
+- [[LLM Application Architecture]] (1 sources)
+- [[LLM Evaluation]] (1 sources)
+- [[LLM Hallucination]] (1 sources)
+- [[LLM Memory]] (1 sources)
+- [[LLM Sampling Controls]] (1 sources)
+- [[LLM Supply Chain Security]] (1 sources)
+- [[LLM Workflows]] (1 sources)
+- [[LLM-as-a-Judge]] (2 sources)
+- [[LLM-as-Judge]] (1 sources)
+- [[Local Average Treatment Effect (LATE)]] (1 sources)
+- [[Log-Periodic Power Law Market Model]] (1 sources)
+- [[Logarithmic Score]] (1 sources)
+- [[Long Memory]] (4 sources)
+- [[Longevity Risk]] (2 sources)
+- [[Look-ahead Bias]]
+- [[Look-Ahead Bias and Data Mining]] (1 sources)
+- [[Low Expected Returns Challenge]] (1 sources)
+- [[Low-Rank Adaptation]] (1 sources)
+- [[LSTM Networks]] (1 sources)
+- [[Machine Learning for Credit Modeling]] (1 sources)
+- [[Macro Cycle Cross-Asset Allocation]] (1 sources)
+- [[Macroeconomic Indicators]] (3 sources)
+- [[Malinvestment and Forced Saving]] (1 sources)
+- [[Marginal Analysis]] (1 sources)
+- [[Marginal Coverage]] (4 sources)
+- [[Marginal-Copula Score]] (1 sources)
+- [[Mark-to-Market Credit Hedging]] (1 sources)
+- [[Market Crash and Liquidity Crisis Dynamics]] (1 sources)
+- [[Market Integration Concordance Measure]] (1 sources)
+- [[Market Making]] (16 sources)
+- [[Market Microstructure Noise]]
+- [[Market Structures]] (1 sources)
+- [[Market Timing]] (13 sources)
+- [[Markov-Switching Models]] (1 sources)
+- [[Mask-Conditional Validity]] (1 sources)
+- [[Material Non-Public Information]] (1 sources)
+- [[Mathematics of Finance]] (1 sources)
+- [[Max-p Aggregation]] (1 sources)
+- [[MCMC Bayesian Inference]] (2 sources)
+- [[Mean Reversion]] (12 sources)
+- [[Mean Reversion in Profitability]] (1 sources)
+- [[Mediation Analysis]] (2 sources)
+- [[Mental Model of Code]] (1 sources)
+- [[Mental Models for Decision-Making]] (1 sources)
+- [[Merton Structural Model]] (4 sources)
+- [[Message Bus]] (1 sources)
+- [[Metadata Knowledge Graph]] (1 sources)
+- [[MIDAS Regression]] (2 sources)
+- [[Minimum Requirement for Own Funds and Eligible Liabilities (MREL)]] (1 sources)
+- [[Minimum Variance Portfolio]] (1 sources)
+- [[Missing Data Imputation]] (1 sources)
+- [[Mixed-Frequency Data]] (1 sources)
+- [[ML Monitoring and Observability]] (1 sources)
+- [[ML System Design]] (1 sources)
+- [[Model Compression]] (1 sources)
+- [[Model Offline Evaluation]] (1 sources)
+- [[Modular Code Design]] (1 sources)
+- [[Modular Programming]] (1 sources)
+- [[Modular Systematic Trading Framework]] (1 sources)
+- [[Momentum and Trend Following]] (1 sources)
+- [[Momentum Spillover Effect]]
+- [[Mondrian Conformal Prediction]] (3 sources)
+- [[Monetary and Fiscal Policy]] (1 sources)
+- [[Monetary Irregular-Deposit Contract]] (1 sources)
+- [[Monetary policy easing]] (1 sources)
+- [[Monetary Transmission Mechanism]] (1 sources)
+- [[Multi-Distribution Robust Conformal Prediction]] (1 sources)
+- [[Multi-Head Attention]] (1 sources)
+- [[Multi-Population Mortality Modelling]] (2 sources)
+- [[Multi-step Conformal Prediction]] (2 sources)
+- [[Multifractal Detrended Fluctuation Analysis (MFDFA)]] (4 sources)
+- [[Multimodal Embeddings]] (1 sources)
+- [[Multimodal RAG]] (1 sources)
+- [[Multimodal Retrieval]] (1 sources)
+- [[Multitask Learning]] (1 sources)
+- [[Multivariate Realized Kernel]] (1 sources)
+- [[Nadaraya-Watson Estimator]] (1 sources)
+- [[Name Molds]] (1 sources)
+- [[Naming Conventions]] (1 sources)
+- [[Natural vs Neutral Interest Rate]] (1 sources)
+- [[Negative Interest Rate Policy and Forward Guidance]] (1 sources)
+- [[Negative Interest Rate Policy and the Zero Lower Bound]] (1 sources)
+- [[Nelson-Siegel Model]] (1 sources)
+- [[No-Arbitrage Restrictions]] (1 sources)
+- [[Non-Exchangeable Conformal Prediction (NexCP)]] (3 sources)
+- [[Non-Fundamental Demand Shocks]] (1 sources)
+- [[Nonconformity Score]] (3 sources)
+- [[Nonparametric Conditional Moment Test]] (1 sources)
+- [[Nonparametric Local Regression]] (1 sources)
+- [[Null Hypothesis Significance Testing and p-values]] (1 sources)
+- [[Observational sampling from randomized controlled trials (OSRCT)]] (1 sources)
+- [[On-Line Compression Models (OCM)]] (2 sources)
+- [[One-Factor Term Structure Model]] (1 sources)
+- [[Online Conformal Prediction]] (6 sources)
+- [[Ontology]] (1 sources)
+- [[OpenAI API]] (1 sources)
+- [[Optimal Execution]] (2 sources)
+- [[Optimum Score Estimation]] (1 sources)
+- [[Option-Implied Information in Credit Markets]] (1 sources)
+- [[Order Flow Prediction]] (1 sources)
+- [[Ornstein-Uhlenbeck Process]] (2 sources)
+- [[Outright Monetary Transactions]] (1 sources)
+- [[Over-fitting in Back-testing]] (1 sources)
+- [[Over-the-Counter Markets]] (1 sources)
+- [[Overfitting in Alpha Research]] (1 sources)
+- [[Overfitting of Trading Strategies]] (1 sources)
+- [[OWASP Top 10 for LLM Applications]] (1 sources)
+- [[Pairs Trading]] (5 sources)
+- [[Panel Data Fixed/Random Effects]] (1 sources)
+- [[Panel Intensity Models]] (1 sources)
+- [[Panel Vector Autoregression]] (2 sources)
+- [[Parameter-Efficient Fine-Tuning]] (2 sources)
+- [[Parameter-Efficient Finetuning]] (1 sources)
+- [[Parent Document Retrieval]] (1 sources)
+- [[Particle Filter]] (1 sources)
+- [[PEP 8 Style Guide]] (1 sources)
+- [[Phillips Curve]] (1 sources)
+- [[Positional Embeddings]] (1 sources)
+- [[Potential Outcomes and Counterfactual Causal Effects]] (6 sources)
+- [[Prediction Intervals]] (3 sources)
+- [[Principal Components Analysis]] (2 sources)
+- [[Private Credit / Direct Lending]] (2 sources)
+- [[Private Credit and Leveraged Loans]] (1 sources)
+- [[Probabilistic Causality]] (1 sources)
+- [[Probability Integral Transform]] (1 sources)
+- [[Program Slicing]] (1 sources)
+- [[Project Finance Data Center Bonds]] (1 sources)
+- [[Prompt Assembly]] (1 sources)
+- [[Prompt Engineering]] (6 sources)
+- [[Prompt Injection]] (4 sources)
+- [[Propensity Score]] (2 sources)
+- [[Property Graph Model]] (1 sources)
+- [[Prospect Theory]] (1 sources)
+- [[Quant and Factor-Driven Markets]] (1 sources)
+- [[Quantile Random Forests]] (1 sources)
+- [[Quantile Regression]] (3 sources)
+- [[Quantile Treatment Effects]] (1 sources)
+- [[Quantitative Easing]] (22 sources)
+- [[Quantitative Tightening]] (8 sources)
+- [[Quantum-Safe Cryptography]] (1 sources)
+- [[Quasi-Experimental Design]] (1 sources)
+- [[RAG Evaluation]] (2 sources)
+- [[Ramsey Optimal Taxation]] (1 sources)
+- [[Random Forest Proximity]] (1 sources)
+- [[Randomised Controlled Trial]] (1 sources)
+- [[Ranked Probability Score]] (1 sources)
+- [[ReAct]] (1 sources)
+- [[ReAct Agent]] (1 sources)
+- [[ReAct Prompting]] (1 sources)
+- [[Realized Covariance]] (1 sources)
+- [[Realized Probability Index]] (1 sources)
+- [[Realized Variance]] (1 sources)
+- [[Recurrent Neural Networks]] (1 sources)
+- [[Recursive Competitive Equilibrium]] (1 sources)
+- [[Recursive Contracts]] (1 sources)
+- [[Recursive Methods and Dynamic Programming]] (1 sources)
+- [[Reduced-Form Credit Models]] (1 sources)
+- [[Refactoring]] (1 sources)
+- [[Regime-Switching Models]] (6 sources)
+- [[Regression Discontinuity Design]] (1 sources)
+- [[Regression to the Mean]] (1 sources)
+- [[Regularized Adaptive Prediction Sets (RAPS)]] (2 sources)
+- [[Reinforcement Learning from Human Feedback]] (1 sources)
+- [[Reinforcement Learning from Human Feedback]] (3 sources)
+- [[Relative Value / Spread Trading]] (1 sources)
+- [[Repository Pattern]] (1 sources)
+- [[Reranking]] (2 sources)
+- [[Residual Momentum]]
+- [[Resilience, Self-Organization, and Hierarchy]] (1 sources)
+- [[Resource Description Framework]] (1 sources)
+- [[Responsible AI]] (1 sources)
+- [[Retrieval-Augmented Generation]] (10 sources)
+- [[RFQ Markets]] (3 sources)
+- [[Right Tail Hedging]] (1 sources)
+- [[Risk Parity]] (1 sources)
+- [[Risk Premia (Expected Return Sources)]] (13 sources)
+- [[Risk-Controlling Prediction Sets (RCPS)]] (3 sources)
+- [[Risk-Taking Channel of Monetary Policy]] (1 sources)
+- [[Risk-vs-Mispricing Debate]] (1 sources)
+- [[RNN-HAR]] (1 sources)
+- [[Robust Portfolio Optimisation]] (1 sources)
+- [[Robustness and Walk-Forward Efficiency]] (1 sources)
+- [[Role Prompting]] (1 sources)
+- [[Runs Test for Growth Consistency]] (1 sources)
+- [[Sales Growth Base Rates and Value Creation]] (1 sources)
+- [[Sampling Strategies]] (1 sources)
+- [[Schwartz-Smith Model]] (1 sources)
+- [[Scientific Explanation]] (1 sources)
+- [[Search and Matching Theory of Unemployment]] (1 sources)
+- [[Search and Optimization Methods]] (1 sources)
+- [[Segmented Regression]] (1 sources)
+- [[Self-Attention]] (2 sources)
+- [[Self-Consistency]] (1 sources)
+- [[Self-Stabilizing Inflation Regime]] (1 sources)
+- [[Semantic Embeddings]] (1 sources)
+- [[Semantic Search]] (2 sources)
+- [[Semantic Similarity]] (1 sources)
+- [[Semiparametric Estimation]] (1 sources)
+- [[Sensitive Data Disclosure in LLMs]] (1 sources)
+- [[Separation vs Combination Principle]] (1 sources)
+- [[Sequential Monte Carlo]] (1 sources)
+- [[Sequential Predictive Conformal Inference (SPCI)]] (1 sources)
+- [[Service Layer Pattern]] (1 sources)
+- [[Shapley Values]] (1 sources)
+- [[Sheaf Laplacian]]
+- [[Short Volatility Strategies]] (1 sources)
+- [[Sign Dependence via Volatility]] (1 sources)
+- [[Similarity Search]] (1 sources)
+- [[Simulated Maximum Likelihood]] (1 sources)
+- [[Singularist Theory of Causation]] (1 sources)
+- [[Social Networks in Finance]] (1 sources)
+- [[Software Testing]] (1 sources)
+- [[Sovereign Debt Crisis]] (5 sources)
+- [[Sovereign Debt Sustainability]] (1 sources)
+- [[Spectral Graph Filters]]
+- [[Spectral Graph Wavelets]]
+- [[Speculative-Grade Default Rate]] (1 sources)
+- [[Spillover and Interference Effects]] (1 sources)
+- [[Splines and Generalized Additive Models]] (1 sources)
+- [[Split Conformal Prediction]] (3 sources)
+- [[Spread Per Turn of Leverage]] (1 sources)
+- [[State-Space Models]] (1 sources)
+- [[Statistical Arbitrage]] (5 sources)
+- [[Step-Back Prompting]] (2 sources)
+- [[Stochastic Conditional Intensity]] (1 sources)
+- [[Stochastic Volatility with Jumps]] (1 sources)
+- [[Stock Price Efficiency]] (1 sources)
+- [[Stocks and Flows]] (1 sources)
+- [[Strategy Optimization]] (1 sources)
+- [[Strictly Proper Scoring Rules]] (2 sources)
+- [[Structural Risk (Funding and Redemption Options)]] (1 sources)
+- [[Structural Vector Autoregression]]
+- [[Structure of Production]] (1 sources)
+- [[Structured Output]] (1 sources)
+- [[Style Premia (Value, Momentum, Carry, Defensive)]] (5 sources)
+- [[Sufficient-Cause Interaction (Synergism)]] (1 sources)
+- [[Superforecasting]] (1 sources)
+- [[Survival Probability]] (1 sources)
+- [[Survivorship Bias]] (2 sources)
+- [[System Archetypes]] (2 sources)
+- [[System GMM Dynamic Panel Estimation]] (1 sources)
+- [[System Prompting]] (1 sources)
+- [[Systematic Credit Relative Value]] (1 sources)
+- [[Systematic Diversification]] (1 sources)
+- [[Systems Thinking]] (2 sources)
+- [[Tactical Asset Allocation Relative Strength Signal (TAARSS)]] (1 sources)
+- [[Tail Expectation]] (1 sources)
+- [[Tail Risk and Volatility Selling]] (1 sources)
+- [[Taxonomy]] (1 sources)
+- [[Technical Debt]] (1 sources)
+- [[Temporal Cross-Fitting]] (1 sources)
+- [[Tensed (A-theory) vs Tenseless (B-theory) Time]] (1 sources)
+- [[Term Structure Risk Premium]] (13 sources)
+- [[Test in Production]] (1 sources)
+- [[Test-Driven Development]] (2 sources)
+- [[Text-to-Cypher Generation]] (1 sources)
+- [[The UnRule (Cutting Losses)]] (1 sources)
+- [[Threat Modeling for LLM Applications]] (1 sources)
+- [[Tick (Pinball) Loss]] (1 sources)
+- [[Token Embeddings]] (2 sources)
+- [[Tokenization]] (2 sources)
+- [[Tool Calling]] (1 sources)
+- [[Tool Use]] (1 sources)
+- [[TRACE Data]]
+- [[Trade Classification]]
+- [[Trader Clustering]] (1 sources)
+- [[Training-Serving Skew]] (1 sources)
+- [[Transductive Learning]]
+- [[Transformers]] (3 sources)
+- [[Tree of Thoughts]] (1 sources)
+- [[Trend Following]] (7 sources)
+- [[Trust Boundaries]] (1 sources)
+- [[Truth at a Time]] (1 sources)
+- [[Tukey g-and-h Transformation]] (2 sources)
+- [[Twin Crises]] (1 sources)
+- [[Ubiquitous Language]] (1 sources)
+- [[Uncertainty Quantification]] (2 sources)
+- [[Unit of Work Pattern]] (1 sources)
+- [[Unscented Kalman Filter]] (2 sources)
+- [[Value Premium]] (1 sources)
+- [[Value-at-Risk]] (3 sources)
+- [[Variogram Score]] (1 sources)
+- [[Vector Database]] (2 sources)
+- [[Vector Databases]] (1 sources)
+- [[Vector Error Correction Model]] (1 sources)
+- [[Vector Indexing]] (1 sources)
+- [[Vector Similarity Search]] (1 sources)
+- [[Vector Store]] (1 sources)
+- [[Venn Predictors]] (2 sources)
+- [[Volatility Risk Premia (VIRP)]] (2 sources)
+- [[Volatility Smirk as Informed-Trading Signal]] (1 sources)
+- [[Volatility Targeting]] (1 sources)
+- [[Volatility-Based Position Sizing]] (1 sources)
+- [[Walk-Forward Analysis]] (1 sources)
+- [[Wealth Inequality and Financialized Capitalism]] (1 sources)
+- [[Weighted Conformal Prediction (WCP)]] (4 sources)
+- [[Working Memory in Programming]] (1 sources)
+- [[Worst-Case Coverage]] (1 sources)
+- [[Yield curve steepeners and flatteners]] (1 sources)
+- [[Yield to Maturity]] (1 sources)
+- [[Z-Spread]] (1 sources)
+- [[Zero-shot Prompting]] (1 sources)
+- [[Zombie Firms and Zombification]] (1 sources)
+- [[β-Mixing]] (2 sources)
+
+## Analyses
+*Comparisons, syntheses, query answers.*
+
+- [[A Credit Universe as a Dynamic Sheaf: Representation and Topology]]
+- [[AI Engineering as a Discipline]]
+- [[Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction]]
+- [[Conformal Prediction with Tukey g-h Transformation]]
+- [[Credit-Spread Determinants: An Empirical and Do-Calculus Reading]]
+- [[ETF Contraflow Strategy for Corporate Bonds]]
+- [[Testing Unconfoundedness vs the g-Methods Identifiability Conditions]]
+
+## Contradictions
+*Disagreements between sources.*
+
+(No contradictions yet)
+
+---
+
+**Stats**
+- Total sources: 335
+- Total entities: 531
+- Total concepts: 668
+- Total analyses: 7
+- Total contradictions: 0
+- **Total pages: 1541**
+- Last updated: 2026-06-19

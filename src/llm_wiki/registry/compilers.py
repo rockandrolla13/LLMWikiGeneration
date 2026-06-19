@@ -41,152 +41,47 @@ Rebuild with: wiki:rebuild
 
 
 class IndexCompiler:
-    """Compiler for wiki/index.md master catalog.
+    """Compiler for wiki/index.md (lightweight summary) and wiki/index.full.md (full catalog).
 
-    Generates a deterministic index of all wiki pages,
-    organized by page type with statistics.
+    Writes two files:
+    - index.md: one line per page for query routing (small, fast to load)
+    - index.full.md: full catalog with summaries and stats (for maintenance/status)
     """
 
     @property
     def name(self) -> str:
-        """Artifact filename."""
+        """Artifact filename (primary output)."""
         return "index.md"
 
     def path(self, wiki: "Wiki") -> Path:
-        """Full path where artifact should be written."""
+        """Full path where the primary artifact (lightweight summary) is written."""
         return wiki.wiki_dir / "index.md"
 
     def compile(self, wiki: "Wiki") -> str:
-        """Generate index.md content.
+        """Generate index.md (lightweight summary) and write index.full.md as a side effect.
 
         Args:
             wiki: Wiki instance to compile from
 
         Returns:
-            Markdown content for index.md
+            Markdown content for the lightweight index.md
         """
-        from .. import __version__
-        from ..derived import gather_page_info, compute_source_hash
+        from ..derived import compile_index_summary, compile_index
+        from ..io import write_page
 
-        pages = gather_page_info(wiki)
-        source_hash = compute_source_hash(wiki)
-        now = datetime.utcnow()
-
-        # Group by type
-        by_type: dict[str, list] = {
-            "source": [],
-            "entity": [],
-            "concept": [],
-            "analysis": [],
-            "contradiction": [],
+        # Write the full catalog as a side effect
+        full_content = compile_index(wiki)
+        index_full_path = wiki.wiki_dir / "index.full.md"
+        metadata_full = {
+            "title": "Wiki Index (Full)",
+            "page_type": "index",
+            "generated": True,
+            "updated": datetime.utcnow().isoformat() + "Z",
         }
+        write_page(index_full_path, metadata_full, full_content)
 
-        for page in pages:
-            ptype = page.page_type
-            if ptype in by_type:
-                by_type[ptype].append(page)
-
-        # Sort each group by title for determinism
-        for ptype in by_type:
-            by_type[ptype].sort(key=lambda p: p.title.lower())
-
-        # Build content
-        lines = [
-            GENERATION_HEADER.format(
-                timestamp=now.isoformat() + "Z",
-                version=__version__,
-                source_hash=source_hash,
-            ),
-            f"# {wiki.config.name}",
-            "",
-            "Master catalog of all pages in this wiki.",
-            "",
-        ]
-
-        # Sources section
-        lines.extend([
-            "## Sources",
-            "*Summary pages for ingested source documents.*",
-            "",
-        ])
-        if by_type["source"]:
-            for page in by_type["source"]:
-                lines.append(f"- [[{page.title}]] - {page.summary or '*No summary*'}")
-            lines.append("")
-        else:
-            lines.extend(["(No sources ingested yet)", ""])
-
-        # Entities section
-        lines.extend([
-            "## Entities",
-            "*People, organizations, places.*",
-            "",
-        ])
-        if by_type["entity"]:
-            for page in by_type["entity"]:
-                tags_str = f" `{', '.join(page.tags)}`" if page.tags else ""
-                lines.append(f"- [[{page.title}]]{tags_str}")
-            lines.append("")
-        else:
-            lines.extend(["(No entities yet)", ""])
-
-        # Concepts section
-        lines.extend([
-            "## Concepts",
-            "*Ideas, themes, topics.*",
-            "",
-        ])
-        if by_type["concept"]:
-            for page in by_type["concept"]:
-                sources_str = f" ({page.source_count} sources)" if page.source_count > 0 else ""
-                lines.append(f"- [[{page.title}]]{sources_str}")
-            lines.append("")
-        else:
-            lines.extend(["(No concepts yet)", ""])
-
-        # Analyses section
-        lines.extend([
-            "## Analyses",
-            "*Comparisons, syntheses, query answers.*",
-            "",
-        ])
-        if by_type["analysis"]:
-            for page in by_type["analysis"]:
-                lines.append(f"- [[{page.title}]]")
-            lines.append("")
-        else:
-            lines.extend(["(No analyses yet)", ""])
-
-        # Contradictions section
-        lines.extend([
-            "## Contradictions",
-            "*Disagreements between sources.*",
-            "",
-        ])
-        if by_type["contradiction"]:
-            for page in by_type["contradiction"]:
-                lines.append(f"- [[{page.title}]]")
-            lines.append("")
-        else:
-            lines.extend(["(No contradictions yet)", ""])
-
-        # Statistics
-        total_pages = sum(len(pages) for pages in by_type.values())
-        lines.extend([
-            "---",
-            "",
-            "**Stats**",
-            f"- Total sources: {len(by_type['source'])}",
-            f"- Total entities: {len(by_type['entity'])}",
-            f"- Total concepts: {len(by_type['concept'])}",
-            f"- Total analyses: {len(by_type['analysis'])}",
-            f"- Total contradictions: {len(by_type['contradiction'])}",
-            f"- **Total pages: {total_pages}**",
-            f"- Last updated: {now.strftime('%Y-%m-%d')}",
-            "",
-        ])
-
-        return "\n".join(lines)
+        # Return the lightweight summary for index.md
+        return compile_index_summary(wiki)
 
     @property
     def needs_frontmatter(self) -> bool:

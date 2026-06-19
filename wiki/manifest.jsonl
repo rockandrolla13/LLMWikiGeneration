@@ -321,3 +321,5 @@
 {"op_id":"batch_ingest_4_2026_06_19","op_type":"batch_ingest","timestamp":"2026-06-19T00:00:00Z","sources":["chaudhury-2024-math-architectures-deep-learning","liquet-2024-mathematical-engineering-deep-learning"],"count":2}
 {"op_id":"batch_ingest_5_2026_06_19","op_type":"batch_ingest","timestamp":"2026-06-19T00:00:00Z","sources":["sadhu-2024-multi-agent-coordination-rl","gift-2021-practical-mlops","sullivan-2025-simulation-models-data-science","winteringham-2025-software-testing-generative-ai","mcelreath-2020-statistical-rethinking"],"count":5}
 {"op":"batch_ingest","op_id":"batch_ingest_6_2026_06_19","timestamp":"2026-06-19T22:40:00Z","batch":6,"sources":["hastie-2009-elements-statistical-learning","yegge-2025-vibe-coding"],"count":2,"note":"Final batch — completes Technical Books To Ingest ingestion"}
+
+{"op":"maintenance","op_id":"fix_contradictions_dir_2026_06_20","timestamp":"2026-06-20T00:00:00Z","note":"Created wiki/wiki/contradictions/ directory and made contradiction detection a required ingest step"}

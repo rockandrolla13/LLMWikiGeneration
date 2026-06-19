@@ -131,25 +131,8 @@ def gather_page_info(wiki: Wiki) -> list[PageInfo]:
     return pages
 
 
-def compile_index(wiki: Wiki) -> str:
-    """Compile the index.md master catalog.
-
-    Generates a deterministic index of all wiki pages,
-    organized by page type with statistics.
-
-    Args:
-        wiki: Wiki instance
-
-    Returns:
-        Markdown content for index.md
-    """
-    from . import __version__
-
-    pages = gather_page_info(wiki)
-    source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
-
-    # Group by type
+def _group_and_sort_pages(pages: list[PageInfo]) -> dict[str, list[PageInfo]]:
+    """Group pages by type and sort each group by title."""
     by_type: dict[str, list[PageInfo]] = {
         "source": [],
         "entity": [],
@@ -157,15 +140,102 @@ def compile_index(wiki: Wiki) -> str:
         "analysis": [],
         "contradiction": [],
     }
-
     for page in pages:
         ptype = page.page_type
         if ptype in by_type:
             by_type[ptype].append(page)
-
-    # Sort each group by title for determinism
     for ptype in by_type:
         by_type[ptype].sort(key=lambda p: p.title.lower())
+    return by_type
+
+
+def compile_index_summary(wiki: Wiki) -> str:
+    """Compile a lightweight summary index (index.md) for query routing.
+
+    One line per page — page_id, relative path, and title only.
+    Intended for use during /wiki-query to identify relevant pages
+    without loading the full index. Keep this file small.
+
+    For the full index (maintenance/status), see index.full.md.
+
+    Args:
+        wiki: Wiki instance
+
+    Returns:
+        Markdown content for the lightweight index.md
+    """
+    from . import __version__
+
+    pages = gather_page_info(wiki)
+    source_hash = compute_source_hash(wiki)
+    now = datetime.utcnow()
+
+    by_type = _group_and_sort_pages(pages)
+    total_pages = sum(len(v) for v in by_type.values())
+
+    lines = [
+        GENERATION_HEADER.format(
+            timestamp=now.isoformat() + "Z",
+            version=__version__,
+            source_hash=source_hash,
+        ),
+        "# Wiki Index (Summary)",
+        "*Auto-generated. For full index see [index.full.md](index.full.md).*",
+        "",
+        f"Last updated: {now.strftime('%Y-%m-%d')}",
+        (
+            f"Total pages: {total_pages} "
+            f"(sources: {len(by_type['source'])}, "
+            f"concepts: {len(by_type['concept'])}, "
+            f"entities: {len(by_type['entity'])}, "
+            f"analyses: {len(by_type['analysis'])}, "
+            f"contradictions: {len(by_type['contradiction'])})"
+        ),
+        "",
+    ]
+
+    section_labels = [
+        ("source", "Sources"),
+        ("concept", "Concepts"),
+        ("entity", "Entities"),
+        ("analysis", "Analyses"),
+        ("contradiction", "Contradictions"),
+    ]
+
+    for ptype, heading in section_labels:
+        lines.append(f"## {heading}")
+        if by_type[ptype]:
+            for page in by_type[ptype]:
+                lines.append(f"- {page.page_id} — {page.title}")
+            lines.append("")
+        else:
+            lines.extend([f"*(No {ptype}s yet)*", ""])
+
+    return "\n".join(lines)
+
+
+def compile_index(wiki: Wiki) -> str:
+    """Compile the full index (index.full.md) master catalog.
+
+    Generates a deterministic full index of all wiki pages,
+    organized by page type with summaries and statistics.
+    Use this for maintenance and /wiki-status operations.
+
+    For the lightweight summary used in query routing, see index.md.
+
+    Args:
+        wiki: Wiki instance
+
+    Returns:
+        Markdown content for index.full.md
+    """
+    from . import __version__
+
+    pages = gather_page_info(wiki)
+    source_hash = compute_source_hash(wiki)
+    now = datetime.utcnow()
+
+    by_type = _group_and_sort_pages(pages)
 
     # Build content
     lines = [
@@ -248,7 +318,7 @@ def compile_index(wiki: Wiki) -> str:
         lines.extend(["(No contradictions yet)", ""])
 
     # Statistics
-    total_pages = sum(len(pages) for pages in by_type.values())
+    total_pages = sum(len(v) for v in by_type.values())
     lines.extend([
         "---",
         "",
@@ -454,9 +524,13 @@ def check_freshness(wiki: Wiki) -> dict[str, FreshnessStatus]:
 
     results = {}
 
-    # Check index.md
+    # Check index.md (lightweight summary)
     index_path = wiki.wiki_dir / "index.md"
     results["index.md"] = _check_artifact_freshness(index_path, current_hash)
+
+    # Check index.full.md (full catalog)
+    index_full_path = wiki.wiki_dir / "index.full.md"
+    results["index.full.md"] = _check_artifact_freshness(index_full_path, current_hash)
 
     # Check MIND_MAP.md
     mind_map_path = wiki.root / "MIND_MAP.md"
@@ -522,11 +596,10 @@ def rebuild_derived(wiki: Wiki) -> dict:
         "errors": [],
     }
 
-    # Rebuild index.md
+    # Rebuild index.md (lightweight summary for query routing)
     try:
-        index_content = compile_index(wiki)
+        summary_content = compile_index_summary(wiki)
         index_path = wiki.wiki_dir / "index.md"
-
         # Write with frontmatter
         metadata = {
             "title": "Wiki Index",
@@ -534,10 +607,25 @@ def rebuild_derived(wiki: Wiki) -> dict:
             "generated": True,
             "updated": datetime.utcnow().isoformat() + "Z",
         }
-        write_page(index_path, metadata, index_content)
+        write_page(index_path, metadata, summary_content)
         results["rebuilt"].append("index.md")
     except Exception as e:
         results["errors"].append(f"index.md: {e}")
+
+    # Rebuild index.full.md (full catalog for maintenance/status)
+    try:
+        full_content = compile_index(wiki)
+        index_full_path = wiki.wiki_dir / "index.full.md"
+        metadata_full = {
+            "title": "Wiki Index (Full)",
+            "page_type": "index",
+            "generated": True,
+            "updated": datetime.utcnow().isoformat() + "Z",
+        }
+        write_page(index_full_path, metadata_full, full_content)
+        results["rebuilt"].append("index.full.md")
+    except Exception as e:
+        results["errors"].append(f"index.full.md: {e}")
 
     # Rebuild MIND_MAP.md
     try:
