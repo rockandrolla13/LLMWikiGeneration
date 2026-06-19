@@ -14,7 +14,7 @@ Given a directory of documents (PDFs, markdown), you will:
 
 ## Environment
 
-- Wiki root: `/media/ak/10E1026C4FA6006E/GitRepos/LLMWikiGeneration`
+- Wiki root: repo root (use `git rev-parse --show-toplevel` to resolve at runtime)
 - Conda environment: `llm-wiki`
 - PDF converter: `test_marker.py`
 - Output: `markdown_output/`

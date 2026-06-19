@@ -20,7 +20,7 @@ Convert a PDF to markdown for wiki ingestion. $ARGUMENTS
 
 ```bash
 # Activate the wiki environment and run converter
-conda run -n llm-wiki python /media/ak/10E1026C4FA6006E/GitRepos/LLMWikiGeneration/test_marker.py "<pdf_path>"
+conda run -n llm-wiki python "$(git rev-parse --show-toplevel)/test_marker.py" "<pdf_path>"
 ```
 
 The script outputs:

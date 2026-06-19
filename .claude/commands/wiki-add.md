@@ -41,7 +41,7 @@ Create/update wiki pages:
 - `wiki/sources/<slug>.md` - Source summary
 - `wiki/entities/<name>.md` - For each person/org mentioned
 - `wiki/concepts/<concept>.md` - For each key concept
-- Update `wiki/index.md` with new entries
+- Update `wiki/wiki/index.md` with new entries
 - Update `MIND_MAP.md` with new nodes
 
 ### 4. Cross-Reference Check
@@ -54,7 +54,7 @@ Create/update wiki pages:
 ```bash
 # Step 1: Convert if PDF
 if [[ "$1" == *.pdf ]]; then
-    conda run -n llm-wiki python /media/ak/10E1026C4FA6006E/GitRepos/LLMWikiGeneration/test_marker.py "$1"
+    conda run -n llm-wiki python "$(git rev-parse --show-toplevel)/test_marker.py" "$1"
     SOURCE="markdown_output/$(basename "$1" .pdf).md"
 else
     SOURCE="$1"

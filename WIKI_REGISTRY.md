@@ -10,8 +10,8 @@ This file tracks all LLM Wiki installations on this system.
 
 | Wiki | Path | Topic | Obsidian Vault? |
 |------|------|-------|-----------------|
-| **LLM Wiki** | `/media/ak/10E1026C4FA6006E/GitRepos/LLMWikiGeneration/wiki` | ML/Transformers | ✓ Yes |
-| **Carry Strategy** | `/media/ak/10E1026C4FA6006E/GitRepos/CarryStrategyWiki/wiki` | Fixed Income | ✗ Not added |
+| **LLM Wiki** | `/media/ak/d1c5342e-77c5-411d-a9ac-03660a90ce7d/home/ak/Gitrepos/LLMWikiGeneration/wiki` | ML/Transformers | ✓ Yes |
+| **Carry Strategy** | `/media/ak/d1c5342e-77c5-411d-a9ac-03660a90ce7d/home/ak/Gitrepos/CarryStrategyWiki/wiki` | Fixed Income | ✗ Not added |
 
 ---
 
@@ -60,7 +60,7 @@ Obsidian watches the folder for file changes. If it's not updating:
 
 1. In Obsidian, click the vault icon (bottom left) or press `Ctrl+O` then click "Open another vault"
 2. Click "Open folder as vault"
-3. Navigate to the wiki folder (e.g., `/media/ak/10E1026C4FA6006E/GitRepos/CarryStrategyWiki/wiki`)
+3. Navigate to the wiki folder (e.g., `/media/ak/d1c5342e-77c5-411d-a9ac-03660a90ce7d/home/ak/Gitrepos/CarryStrategyWiki/wiki`)
 4. Click "Open"
 
 Now you can switch between vaults using the vault switcher.
@@ -71,7 +71,7 @@ Now you can switch between vaults using the vault switcher.
 
 ```bash
 # See what wikis exist
-find /media/ak/10E1026C4FA6006E/GitRepos -name "schema.yml" | xargs dirname
+find /media/ak/d1c5342e-77c5-411d-a9ac-03660a90ce7d/home/ak/Gitrepos -name "schema.yml" | xargs dirname
 
 # Convert a PDF
 /wiki-convert path/to/paper.pdf
