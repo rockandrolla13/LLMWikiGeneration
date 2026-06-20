@@ -1,3 +1,4 @@
+schema_version: 2
 name: ML Research Wiki
 description: A research wiki covering transformers, conformal prediction, uncertainty quantification, and distribution-free inference
 profile: research
@@ -38,7 +39,36 @@ search:
 revision_tracking:
   enabled: true
   keep_history: false
+relations:
+  vocabulary:
+  - extends
+  - special-case-of
+  - supersedes
+  - contradicts
+  - refutes
+  - depends-on
+  - was-response-to
+  inverse_map:
+    extends: extended-by
+    special-case-of: generalizes
+    supersedes: superseded-by
+    contradicts: contradicts
+    refutes: refuted-by
+    depends-on: required-by
+    was-response-to: prompted
+authored_region:
+  start_marker: "<!-- AUTHORED REGION START -->"
+  end_marker: "<!-- AUTHORED REGION END -->"
+  hash_scope: authored_only
+verification:
+  statuses:
+  - verified
+  - partial
+  - unverified
+  - in_review
+  default: unverified
 metadata:
   created_by: llm-wiki
   created_at: '2026-04-09T17:05:46.762552Z'
   version: '1.0'
+  schema_version_field: schema_version
