@@ -16,10 +16,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Counterfactuals
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 62544357-731e-5a07-b876-1e5dc1769859
+content_hash: sha256:5ba575c05e0b2f72da3f68d44713848f1e0ddf5224dcf1a6fd5ab7dc6e624112
 ---
 
+<!-- AUTHORED REGION START -->
 # Counterfactuals
 
 ## Definition
@@ -38,3 +42,4 @@ Top-rung causal queries about what would have happened under a scenario that did
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

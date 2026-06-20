@@ -37,10 +37,14 @@ tags:
 - credit
 - tail-risk
 title: 'Expected Returns: An Investor''s Guide to Harvesting Market Rewards'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_f76556d4f11f
+schema_version: 2
+uuid: a95ff182-c70d-5624-9254-c1626693b445
+content_hash: sha256:4ca6d83ad44dd82e81a76923ccad4655a350188f4b20dd7cd484313a7d914ad1
 ---
 
+<!-- AUTHORED REGION START -->
 # Expected Returns: An Investor's Guide to Harvesting Market Rewards
 
 **Authors:** Antti Ilmanen · **Year:** 2011 · **Venue:** Wiley (Wiley Finance Series) · **Type:** book
@@ -85,3 +89,4 @@ Ilmanen's comprehensive cross-asset treatment of where investment rewards come f
 - **Path:** `raw/creditmacro/Expected Returns - An Investors Guide to Harvesting Market Rewards (Antti Ilmanen) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:de58aaf32aadd2c8a...`
+<!-- AUTHORED REGION END -->

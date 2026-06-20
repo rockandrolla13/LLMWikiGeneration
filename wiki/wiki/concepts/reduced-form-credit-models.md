@@ -16,10 +16,14 @@ sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []
 title: Reduced-Form Credit Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1a1dc728-ed4c-556e-8117-388f6f94a2b3
+content_hash: sha256:6891658b42316fe38c222e85c0ba60fb332c0d55d0cf3ea5b76981848867768a
 ---
 
+<!-- AUTHORED REGION START -->
 # Reduced-Form Credit Models
 
 ## Definition
@@ -35,3 +39,4 @@ Credit-risk models that specify the default process directly as a jump (intensit
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/hazard-rate-curve|hazard-rate-curve]]
 - [[concepts/survival-probability|survival-probability]]
+<!-- AUTHORED REGION END -->

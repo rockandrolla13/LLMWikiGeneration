@@ -1,25 +1,42 @@
 ---
-title: "Advanced Analytics and Learning on Temporal Data (AALTD 2024)"
+title: Advanced Analytics and Learning on Temporal Data (AALTD 2024)
 page_id: sources/lemaire-2024-aaltd-workshop
 page_type: source
 source_type: edited-volume
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Vincent Lemaire (ed.)", "Georgiana Ifrim (ed.)", "Anthony Bagnall (ed.)", "Thomas Guyet (ed.)", "Simon Malinowski (ed.)", "Patrick Schäfer (ed.)", "Romain Tavenard (ed.)"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Vincent Lemaire (ed.)
+- Georgiana Ifrim (ed.)
+- Anthony Bagnall (ed.)
+- Thomas Guyet (ed.)
+- Simon Malinowski (ed.)
+- Patrick Schäfer (ed.)
+- Romain Tavenard (ed.)
 year: 2024
-venue: "Springer LNAI 15433, 9th ECML PKDD Workshop AALTD 2024, Vilnius, Lithuania (September 9-13, 2024). ISBN 978-3-031-77066-1."
-tags: [time-series, machine-learning, edited-volume, workshop, ecml-pkdd, aaltd]
-related: [
-  concepts/functional-data-analysis,
-  concepts/state-space-models,
-  concepts/conformal-prediction,
-  sources/stocker-2025-conformal-timeseries-intro,
-  sources/peters-2026-quantile-diffusions
-]
+venue: Springer LNAI 15433, 9th ECML PKDD Workshop AALTD 2024, Vilnius, Lithuania
+  (September 9-13, 2024). ISBN 978-3-031-77066-1.
+tags:
+- time-series
+- machine-learning
+- edited-volume
+- workshop
+- ecml-pkdd
+- aaltd
+related:
+- concepts/functional-data-analysis
+- concepts/state-space-models
+- concepts/conformal-prediction
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/peters-2026-quantile-diffusions
 mind_map_priority: medium
+schema_version: 2
+uuid: 56613505-a003-5bf8-b6db-25f0eab6bcd4
+content_hash: sha256:197c859a54fc1564328c2e6e257f1a38b39fdc581a3a2012385d8ea193e00809
 ---
 
+<!-- AUTHORED REGION START -->
 # Advanced Analytics and Learning on Temporal Data (AALTD 2024)
 
 **Editors:** Vincent Lemaire, Georgiana Ifrim, Anthony Bagnall, Thomas Guyet, Simon Malinowski, Patrick Schäfer, Romain Tavenard
@@ -60,3 +77,5 @@ Per the wiki's standing convention for edited volumes:
 
 - [[concepts/functional-data-analysis]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

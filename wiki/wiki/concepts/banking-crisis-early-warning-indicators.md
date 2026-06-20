@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Banking Crisis Early Warning Indicators
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9cb14fcc-e7ca-5286-afd5-a74f69978431
+content_hash: sha256:fbbb190edb8aba5ff880563a6b3c05b2463b8212b1d81010c58aae9dc67c2812
 ---
 
+<!-- AUTHORED REGION START -->
 # Banking Crisis Early Warning Indicators
 
 ## Definition
@@ -33,3 +37,4 @@ Variables that systematically rise or fall in the quarters preceding a banking c
 
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
 - [[concepts/early-warning-indicators|early-warning-indicators]]
+<!-- AUTHORED REGION END -->

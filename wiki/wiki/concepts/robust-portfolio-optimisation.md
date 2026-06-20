@@ -15,10 +15,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Robust Portfolio Optimisation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ce220494-41e0-5d45-8f61-43a0e1ef79db
+content_hash: sha256:628c59df67ef5558ba77e6e810b72b43671f1afbef7d02b04621a8378a426b07
 ---
 
+<!-- AUTHORED REGION START -->
 # Robust Portfolio Optimisation
 
 ## Definition
@@ -33,3 +37,4 @@ Methods for assigning instrument and forecast weights that avoid the instability
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
+<!-- AUTHORED REGION END -->

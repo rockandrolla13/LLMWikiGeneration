@@ -1,17 +1,34 @@
 ---
-title: "Gareth W. Peters"
+title: Gareth W. Peters
 page_id: entities/gareth-peters
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 affiliation: UC Santa Barbara
-tags: [statistics, actuarial-science, quantitative-finance, state-space-models, tukey-gh, quantile-diffusions]
-related: [sources/peters-2026-quantile-diffusions, sources/peters-2026-asynchronous-cir, sources/he-2024-functional-regression, sources/sehatpour-2024-green-bonds, concepts/state-space-models, concepts/functional-data-analysis, concepts/tukey-gh-transformation]
+tags:
+- statistics
+- actuarial-science
+- quantitative-finance
+- state-space-models
+- tukey-gh
+- quantile-diffusions
+related:
+- sources/peters-2026-quantile-diffusions
+- sources/peters-2026-asynchronous-cir
+- sources/he-2024-functional-regression
+- sources/sehatpour-2024-green-bonds
+- concepts/state-space-models
+- concepts/functional-data-analysis
+- concepts/tukey-gh-transformation
 mind_map_priority: high
+schema_version: 2
+uuid: 7471baa7-a8d8-5c9d-99e9-e2bd0ba32012
+content_hash: sha256:df82347807a787b1e12232df5945b33182bb62f87ee1650e7481696551520ee9
 ---
 
+<!-- AUTHORED REGION START -->
 # Gareth W. Peters
 
 **Affiliation:** Department of Statistics and Applied Probability, UC Santa Barbara
@@ -45,3 +62,5 @@ Frequently collaborates with actuarial and quantitative finance researchers acro
 - [[concepts/functional-data-analysis|Functional Data Analysis]]
 - [[concepts/state-space-models|State-Space Models]]
 - [[entities/pavel-shevchenko|Pavel Shevchenko]]
+
+<!-- AUTHORED REGION END -->

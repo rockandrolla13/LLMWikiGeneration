@@ -18,10 +18,14 @@ sources:
 - sources/ms-2020-03-11-facing-cycle-picking-swiss
 tags: []
 title: Joe Hopkins
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 086826fb-ec3e-5072-a224-f4957ac56451
+content_hash: sha256:4832ae2d0750ecfa5ce942799dcfdf1bde69eb236cf0c9433a905887580c99c7
 ---
 
+<!-- AUTHORED REGION START -->
 # Joe Hopkins
 
 ## Overview
@@ -35,3 +39,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-04-18-mrel-subordination-brrd2|MREL – Raising the Subordination Stakes]]
 - [[sources/ms-2019-05-23-value-tier2-seniors|European Banks: Hunting for Value in Tier 2 and Seniors]]
 - [[sources/ms-2020-03-11-facing-cycle-picking-swiss|European Banks: Facing the Cycle – Picking Swiss]]
+<!-- AUTHORED REGION END -->

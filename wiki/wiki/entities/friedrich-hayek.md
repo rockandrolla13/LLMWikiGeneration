@@ -14,10 +14,14 @@ sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []
 title: Friedrich A. Hayek
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 872bccbd-edb6-59fa-a1a1-b462657da9ca
+content_hash: sha256:c73beec54344c7f6f4faf7b508939ce344695738eade46b00d269ea5694ca847
 ---
 
+<!-- AUTHORED REGION START -->
 # Friedrich A. Hayek
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+<!-- AUTHORED REGION END -->

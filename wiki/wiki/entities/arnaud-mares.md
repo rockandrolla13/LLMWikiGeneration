@@ -14,10 +14,14 @@ sources:
 - sources/ms-2011-11-29-europe-in-the-balance
 tags: []
 title: Arnaud Marès
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f813db50-2eb9-5ef7-aa28-9e32c0f9f5b9
+content_hash: sha256:0b31b0f0ba2f60133d305bbfade26a2589789a2ab5c3054ed2f5a48436031c12
 ---
 
+<!-- AUTHORED REGION START -->
 # Arnaud Marès
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2011-11-29-europe-in-the-balance|Sovereign Subjects: Europe in the Balance]]
+<!-- AUTHORED REGION END -->

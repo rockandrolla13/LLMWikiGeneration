@@ -1,17 +1,33 @@
 ---
-title: "Álvaro Cartea"
+title: Álvaro Cartea
 page_id: entities/alvaro-cartea
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-04-26T03:00:00Z
-updated: 2026-05-21T12:00:00Z
-tags: [researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance]
-affiliations: [University of Oxford, University College London]
-sources: [sources/cartea-2015-optimal-execution, sources/cartea-2025-statistical-predictions-trading]
-related: [entities/sebastian-jaimungal, concepts/optimal-execution, concepts/market-making]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- optimal-execution
+- market-making
+- algorithmic-trading
+- quantitative-finance
+affiliations:
+- University of Oxford
+- University College London
+sources:
+- sources/cartea-2015-optimal-execution
+- sources/cartea-2025-statistical-predictions-trading
+related:
+- entities/sebastian-jaimungal
+- concepts/optimal-execution
+- concepts/market-making
+schema_version: 2
+uuid: b7243421-394c-51a4-b5e7-67d3b6800967
+content_hash: sha256:6b953316827492865d83592978f4c83768a7f071b32eab396f15b11091bf0344
 ---
 
+<!-- AUTHORED REGION START -->
 # Álvaro Cartea
 
 ## Overview
@@ -56,3 +72,5 @@ Primary collaborators:
 
 - Email: a.cartea@ucl.ac.uk (historical)
 - Institution: University of Oxford, Saïd Business School
+
+<!-- AUTHORED REGION END -->

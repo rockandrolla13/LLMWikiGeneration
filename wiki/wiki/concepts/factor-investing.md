@@ -50,9 +50,13 @@ tags:
 - momentum
 - low-risk
 title: Factor Investing in Corporate Bonds
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: d37b4007-5179-5d0b-ba63-0f1957858fcd
+content_hash: sha256:4933941937852f4a985c66469032237282bb550385063320758e8419825f4b3f
 ---
 
+<!-- AUTHORED REGION START -->
 # Factor Investing in Corporate Bonds
 
 ## Definition
@@ -126,3 +130,4 @@ Now also discussed in: [[sources/ilmanen-2022-investing-amid-low-expected-return
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-09-27-momentum-for-diversification]], [[sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]], [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs]]
+<!-- AUTHORED REGION END -->

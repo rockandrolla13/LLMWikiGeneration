@@ -13,10 +13,14 @@ sources:
 - sources/lukac-2026-economic-analysis-through-mathematics
 tags: []
 title: Input-Output Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a44155d7-1249-5441-b86d-be0c72f40c05
+content_hash: sha256:9302e5ddca68b46c063ed57c85303d0e8ad45a6446d4bdf01b9c3e8d5070b5ea
 ---
 
+<!-- AUTHORED REGION START -->
 # Input-Output Analysis
 
 ## Definition
@@ -26,3 +30,4 @@ A linear-algebra-based macroeconomic modeling framework (Leontief) representing 
 ## Sources
 
 - [[sources/lukac-2026-economic-analysis-through-mathematics|Economic Analysis Through Mathematics: Tools and Techniques for Decision Making]]
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,27 @@ title: Class-Conditional Conformal Prediction
 page_id: concepts/class-conditional-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, classification, conditional-validity, class-coverage]
-sources: [sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/conditional-coverage, concepts/group-balanced-conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- classification
+- conditional-validity
+- class-coverage
+sources:
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/conditional-coverage
+- concepts/group-balanced-conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: 592c07d5-1f77-5f04-91e6-924f9b083e67
+content_hash: sha256:27d7bef0a5dcd429cac6e2e5931f3fe01d197765d5842cc48bee85f5864959bd
 ---
 
+<!-- AUTHORED REGION START -->
 # Class-Conditional Conformal Prediction
 
 **Class-conditional CP** (Vovk, 2012; Sadinle, Lei, Wasserman, 2019) is the classification variant of [[concepts/group-balanced-conformal-prediction|group-balanced CP]] where the grouping is the **ground-truth class** `Y`. It calibrates within each class so that:
@@ -47,3 +60,5 @@ Rare classes have small `n_y` → noisy `q̂_y` → wider prediction sets for th
 - [[concepts/split-conformal-prediction]]
 - [[concepts/group-balanced-conformal-prediction]]
 - [[concepts/conditional-coverage]]
+
+<!-- AUTHORED REGION END -->

@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: Volatility Peaks Before Markets Trough'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_6c9f9ed49e2c
+schema_version: 2
+uuid: 42ca1c04-819a-5e11-a786-798b87bd950d
+content_hash: sha256:dc070565b9b13777e71cd5b7382c7bf2aa554244d2c9b76b169eab6ed6af01e0
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: Volatility Peaks Before Markets Trough
 
 **Authors:** Phanikiran L Naraparaju, Andrew Sheets, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley argues that the March 2020 COVID-driven volatility repricing acro
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Volatility Peaks Before Markets Trough - 2020-03-19.md`
 - **Type:** article
 - **Hash:** `sha256:bb25b8b62be02116d...`
+<!-- AUTHORED REGION END -->

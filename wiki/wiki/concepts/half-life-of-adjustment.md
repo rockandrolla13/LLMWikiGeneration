@@ -14,10 +14,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Half-Life of Adjustment
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 785fca71-2b39-51e7-b549-13ae8706f8f0
+content_hash: sha256:7f13f510506fca68b4ee946125496c561de3144045537a754f8bbc97eefef0d3
 ---
 
+<!-- AUTHORED REGION START -->
 # Half-Life of Adjustment
 
 ## Definition
@@ -31,3 +35,4 @@ The time for half of a shock's effect to dissipate, computed from the error-corr
 ## Related Concepts
 
 - [[concepts/vector-error-correction-model|vector-error-correction-model]]
+<!-- AUTHORED REGION END -->

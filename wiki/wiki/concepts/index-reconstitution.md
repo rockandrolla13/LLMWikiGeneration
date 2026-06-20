@@ -1,16 +1,29 @@
 ---
-title: "Index Reconstitution"
+title: Index Reconstitution
 page_id: concepts/index-reconstitution
 page_type: concept
 revision_id: 1
-created: 2026-05-06T23:35:00Z
-updated: 2026-05-06T23:35:00Z
-tags: [etf, index-investing, passive-investing, price-impact, russell-reconstitution]
-sources: [sources/chao-2019-etf-flows-prices, sources/optiver-2025-corporate-bond-etf-contraflow]
-related: [concepts/etf-flows, concepts/flow-decomposition]
+created: 2026-05-06 23:35:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- etf
+- index-investing
+- passive-investing
+- price-impact
+- russell-reconstitution
+sources:
+- sources/chao-2019-etf-flows-prices
+- sources/optiver-2025-corporate-bond-etf-contraflow
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
 mind_map_priority: medium
+schema_version: 2
+uuid: 6e36961f-58a0-50e1-bd20-9a0b05dfb194
+content_hash: sha256:7491c534d3265b80670e720f8adc8adf15534764e13af23091d88d1c9a4474e9
 ---
 
+<!-- AUTHORED REGION START -->
 # Index Reconstitution
 
 Index reconstitution refers to the periodic addition and deletion of securities from benchmark indices, creating predictable trading flows as passive funds adjust their holdings.
@@ -68,3 +81,5 @@ When a security is **deleted** from an index:
 - [[concepts/flow-decomposition|Flow Decomposition]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019)]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025)]]
+
+<!-- AUTHORED REGION END -->

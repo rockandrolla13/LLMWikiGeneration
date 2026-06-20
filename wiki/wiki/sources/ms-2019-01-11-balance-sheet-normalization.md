@@ -30,10 +30,14 @@ source_type: article
 sources: []
 tags: []
 title: Insight into the Balance Sheet
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a106311f8416
+schema_version: 2
+uuid: 3d558b2e-e9ef-5785-9cf8-25d60c477fce
+content_hash: sha256:01d47aef3c16f60c8b2edcbb4ba7305690f34feebe99b2fbc894fad83f74e435
 ---
 
+<!-- AUTHORED REGION START -->
 # Insight into the Balance Sheet
 
 **Authors:** Matthew Hornbach, Sam Elprince, Vishwanath Tirupattur, Chetan Ahya, Ellen Zentner, Adam S Richmond, Jay Bacow · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -67,3 +71,4 @@ A US economics and fixed income strategy note arguing that Fed balance sheet nor
 - **Path:** `raw/creditmacro/Morgan Stanley - Insight into the Balance Sheet - 2019-01-11.md`
 - **Type:** article
 - **Hash:** `sha256:20fb04a984bc29131...`
+<!-- AUTHORED REGION END -->

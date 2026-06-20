@@ -32,10 +32,14 @@ sources:
 - sources/ms-2022-11-04-end-of-trends
 tags: []
 title: Matthew Hornbach
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5f0bf591-23e5-558e-b037-9b64baefb6b8
+content_hash: sha256:4401efdf680e35a295efaee772665a94b60f59d4038beff00123cd654c7864c0
 ---
 
+<!-- AUTHORED REGION START -->
 # Matthew Hornbach
 
 ## Overview
@@ -63,3 +67,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-05-17-tariffs-government-bonds|For Whom the Tariffs Toll]]
 - [[sources/ms-2020-04-03-global-macro-commentary-covid|Global Macro Commentary | April 2]]
 - [[sources/ms-2022-11-04-end-of-trends|Global Macro Strategist | The End of Trends]]
+<!-- AUTHORED REGION END -->

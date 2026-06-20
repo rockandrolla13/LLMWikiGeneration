@@ -1,15 +1,34 @@
 ---
-title: "Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage"
+title: Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage
 page_id: sources/montana-2009-flexible-least-squares
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [statistical-arbitrage, flexible-least-squares, kalman-filter, algorithmic-trading, time-varying-regression, sp500-futures]
-authors: [Giovanni Montana, Kostas Triantafyllopoulos, Theodoros Tsagaris]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistical-arbitrage
+- flexible-least-squares
+- kalman-filter
+- algorithmic-trading
+- time-varying-regression
+- sp500-futures
+authors:
+- Giovanni Montana
+- Kostas Triantafyllopoulos
+- Theodoros Tsagaris
 year: 2009
-related: [concepts/kalman-filter, concepts/statistical-arbitrage, concepts/flexible-least-squares, concepts/time-varying-regression, entities/giovanni-montana, entities/kostas-triantafyllopoulos]
+related:
+- concepts/kalman-filter
+- concepts/statistical-arbitrage
+- concepts/flexible-least-squares
+- concepts/time-varying-regression
+- entities/giovanni-montana
+- entities/kostas-triantafyllopoulos
+schema_version: 2
+uuid: 1c6754fd-b8d6-5d1b-bdaa-34dfb2b2d307
+content_hash: sha256:ae26235c3573a400b8ef3ff5a14d3b42243388461ea245caf09e47307fe38093
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper demonstrates that Flexible Least Squares (FLS), a penalized version of ordinary least squares accommodating time-varying regression coefficients, is algebraically equivalent to the Kalman filter equations. This equivalence enables more efficient algorithms and provides a powerful tool for temporal data mining in statistical arbitrage applications.
@@ -90,3 +109,5 @@ Trading S&P 500 Futures:
 ## Citations
 
 Montana, G., Triantafyllopoulos, K., & Tsagaris, T. (2009). Flexible least squares for temporal data mining and statistical arbitrage. Expert Systems with Applications, 36(2), 2819-2830.
+
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,30 @@ title: Adaptive Prediction Sets (APS)
 page_id: concepts/adaptive-prediction-sets
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, classification, score-design, adaptivity]
-sources: [sources/romano-2020-aps, sources/angelopoulos-2022-gentle-intro, sources/dieuleveut-zaffran-2025-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/regularized-adaptive-prediction-sets, concepts/nonconformity-score, concepts/conditional-coverage]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- classification
+- score-design
+- adaptivity
+sources:
+- sources/romano-2020-aps
+- sources/angelopoulos-2022-gentle-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/regularized-adaptive-prediction-sets
+- concepts/nonconformity-score
+- concepts/conditional-coverage
 mind_map_priority: medium
+schema_version: 2
+uuid: 604884c6-aa66-5f53-8402-72aa89d052a0
+content_hash: sha256:0cbb0faa71194fd91eb41c2ec4c2db00fd5c1872b4f86587021c772e39015c2e
 ---
 
+<!-- AUTHORED REGION START -->
 # Adaptive Prediction Sets (APS)
 
 ## Primary Source
@@ -51,3 +67,5 @@ APS sets can be **larger than necessary** for very large-class problems (e.g., I
 - [[concepts/regularized-adaptive-prediction-sets]]
 - [[concepts/nonconformity-score]]
 - [[concepts/split-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

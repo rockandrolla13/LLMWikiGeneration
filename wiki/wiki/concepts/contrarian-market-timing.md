@@ -16,10 +16,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: Contrarian Market Timing
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: edc4c7b2-8680-5df3-a3bb-b328fe6315b3
+content_hash: sha256:beddc8c2cfc468250addde0ced49316e47314a6de9c6aecd1320a9ff363f053c
 ---
 
+<!-- AUTHORED REGION START -->
 # Contrarian Market Timing
 
 ## Definition
@@ -35,3 +39,4 @@ Tactical adjustment of medium-term exposure based on valuation signals; valuatio
 - [[concepts/market-timing|market-timing]]
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/value-at-risk|value-at-risk]]
+<!-- AUTHORED REGION END -->

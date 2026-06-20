@@ -18,9 +18,13 @@ tags:
 - uniformity
 - transformations
 title: Probability Integral Transform
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 246434d2-b580-5391-ae29-1c0a1a7b90ff
+content_hash: sha256:32d0037e46ab38129d33541822d455766e8e2628201ce93eb3a0c70550c2155b
 ---
 
+<!-- AUTHORED REGION START -->
 # Probability Integral Transform
 
 The **probability integral transform (PIT)** is a fundamental result in probability theory stating that applying a continuous cumulative distribution function (CDF) to a random variable produces a uniformly distributed random variable.
@@ -104,3 +108,4 @@ This enables construction of valid prediction intervals by calibrating the thres
 
 - [[concepts/copula-sklar-theorem|copula-sklar-theorem]]
 - [[concepts/marginal-copula-score|marginal-copula-score]]
+<!-- AUTHORED REGION END -->

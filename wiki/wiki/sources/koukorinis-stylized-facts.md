@@ -1,19 +1,46 @@
 ---
-title: "Revisiting stylised facts: information clock, persistence, long memory and dependence"
+title: 'Revisiting stylised facts: information clock, persistence, long memory and
+  dependence'
 page_id: sources/koukorinis-stylized-facts
 page_type: source
 source_type: working-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Andreas Koukorinis, Gareth W. Peters, Guido Germano]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Andreas Koukorinis
+- Gareth W. Peters
+- Guido Germano
 year: 2022
 venue: Working Paper
-tags: [stylized-facts, high-frequency-trading, mfdfa, information-clock, long-memory, copulas, futures-markets, cryptocurrency]
-related: [concepts/stylized-facts, concepts/information-clock, concepts/long-memory, concepts/mfdfa, concepts/copulas, sources/guillaume-1997-stylized-facts-fx, entities/gareth-peters, sources/aslam-2020-covid-mfdfa, sources/murphy-2006-order-flow-critique, entities/andreas-koukorinis, sources/koukorinis-2026-draci]
+tags:
+- stylized-facts
+- high-frequency-trading
+- mfdfa
+- information-clock
+- long-memory
+- copulas
+- futures-markets
+- cryptocurrency
+related:
+- concepts/stylized-facts
+- concepts/information-clock
+- concepts/long-memory
+- concepts/mfdfa
+- concepts/copulas
+- sources/guillaume-1997-stylized-facts-fx
+- entities/gareth-peters
+- sources/aslam-2020-covid-mfdfa
+- sources/murphy-2006-order-flow-critique
+- entities/andreas-koukorinis
+- sources/koukorinis-2026-draci
 mind_map_priority: high
+schema_version: 2
+uuid: 3f8b5e9e-8843-52ce-a144-05c8886ea25d
+content_hash: sha256:7760e6ab85517705ce19be2c54f67039ce1e5c51fdd459c522cfb9410dbb3b24
 ---
 
+<!-- AUTHORED REGION START -->
 # Revisiting Stylised Facts: Information Clock, Persistence, Long Memory and Dependence
 
 **Authors:** Andreas Koukorinis, Gareth W. Peters, Guido Germano
@@ -96,3 +123,5 @@ This paper examines stylised empirical facts in price and volume processes acros
 - [[sources/murphy-2006-order-flow-critique|Murphy & Izzeldin (2006) Transaction Clock Critique]]
 - [[entities/andreas-koukorinis|Andreas Koukorinis]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper (2026)]]
+
+<!-- AUTHORED REGION END -->

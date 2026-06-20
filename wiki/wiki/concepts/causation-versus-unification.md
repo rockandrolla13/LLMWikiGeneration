@@ -14,10 +14,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: Causation versus Unification in Explanation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1caf8438-32b9-59e4-9154-c7bfdf5c2f49
+content_hash: sha256:87f090bf521d67ef9c342c607215edb0ca0c482d323aafa00e589e16b6e20678
 ---
 
+<!-- AUTHORED REGION START -->
 # Causation versus Unification in Explanation
 
 ## Definition
@@ -31,3 +35,4 @@ The two twentieth-century traditions on what explanation provides - local causal
 ## Related Concepts
 
 - [[concepts/scientific-explanation|scientific-explanation]]
+<!-- AUTHORED REGION END -->

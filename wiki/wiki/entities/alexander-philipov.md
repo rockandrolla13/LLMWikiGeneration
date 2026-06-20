@@ -14,10 +14,14 @@ sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 tags: []
 title: Alexander Philipov
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d9888c1d-ff68-5f60-935c-bcbd3c62aa00
+content_hash: sha256:a843788823d6d4f4fadb8c99e8e1e016a4b9c73083c59e23d06a3fed2cf161c1
 ---
 
+<!-- AUTHORED REGION START -->
 # Alexander Philipov
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avramov-2007-changes-corporate-credit-spreads|Understanding Changes in Corporate Credit Spreads]]
+<!-- AUTHORED REGION END -->

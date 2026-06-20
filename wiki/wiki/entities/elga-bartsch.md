@@ -16,10 +16,14 @@ sources:
 - sources/ms-2016-06-15-1937-38-redux
 tags: []
 title: Elga Bartsch
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4652a3c2-8eaf-53c4-925d-c4d7c58d7319
+content_hash: sha256:14bc7096e8116334d95deacfcac41883dbbcb53a689e70ba19ec74a8f8625efa
 ---
 
+<!-- AUTHORED REGION START -->
 # Elga Bartsch
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2010-06-04-european-macro-indicators-guide|European Economics: A Practitioner's Guide to European Macro Indicators]]
 - [[sources/ms-2011-11-28-europe-economics-recession-returns|Europe Economics: Recession Returns]]
 - [[sources/ms-2016-06-15-1937-38-redux|Global Macro Briefing: 1937-38 Redux?]]
+<!-- AUTHORED REGION END -->

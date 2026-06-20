@@ -22,9 +22,13 @@ tags:
 - prediction-intervals
 - econometrics
 title: Quantile Regression
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 51a92fef-6dc1-5e4e-8fba-e7649a8d024b
+content_hash: sha256:930e98397714085d00518050f1c3c18a777ee42d85a62402321debb8f9b7944b
 ---
 
+<!-- AUTHORED REGION START -->
 # Quantile Regression
 
 **Quantile regression** is a statistical technique for estimating conditional quantile functions, providing a more complete view of the conditional distribution than mean regression alone.
@@ -120,3 +124,4 @@ Quantile regression was introduced by Roger Koenker and Gilbert Bassett in 1978,
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/nonparametric-conditional-moment-test|nonparametric-conditional-moment-test]]
+<!-- AUTHORED REGION END -->

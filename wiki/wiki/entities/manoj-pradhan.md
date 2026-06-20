@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Manoj Pradhan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f415f39a-3a60-5d35-b812-bbcfa877d56e
+content_hash: sha256:36b3d5f4f784752a69d669aa6d252cadac983a2a7fea4c941c24b1acfbc35e12
 ---
 
+<!-- AUTHORED REGION START -->
 # Manoj Pradhan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-10-30-japanification-or-salvation|The Global Macro Analyst: Japanification or Salvation]]
+<!-- AUTHORED REGION END -->

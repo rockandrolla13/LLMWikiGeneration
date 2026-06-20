@@ -1,21 +1,45 @@
 ---
-title: "Mixed-Frequency Macro-Finance Factor Models: Theory and Applications"
+title: 'Mixed-Frequency Macro-Finance Factor Models: Theory and Applications'
 page_id: sources/andreou-2020-mixed-frequency-macro-finance
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Elena Andreou, Patrick Gagliardini, Eric Ghysels, Mirco Rubin]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Elena Andreou
+- Patrick Gagliardini
+- Eric Ghysels
+- Mirco Rubin
 year: 2020
 venue: Journal of Financial Econometrics
-volume_issue_pages: "18(3), 585-628"
+volume_issue_pages: 18(3), 585-628
 doi: 10.1093/jjfinec/nbaa015
-tags: [factor-models, mixed-frequency-data, macro-finance, principal-components, forecasting]
-related: [concepts/factor-models, concepts/mixed-frequency-data, concepts/midas-regression, concepts/principal-components-analysis, concepts/canonical-correlation-analysis, concepts/group-factor-models, concepts/great-moderation, entities/elena-andreou, entities/patrick-gagliardini, entities/eric-ghysels, entities/mirco-rubin]
+tags:
+- factor-models
+- mixed-frequency-data
+- macro-finance
+- principal-components
+- forecasting
+related:
+- concepts/factor-models
+- concepts/mixed-frequency-data
+- concepts/midas-regression
+- concepts/principal-components-analysis
+- concepts/canonical-correlation-analysis
+- concepts/group-factor-models
+- concepts/great-moderation
+- entities/elena-andreou
+- entities/patrick-gagliardini
+- entities/eric-ghysels
+- entities/mirco-rubin
 mind_map_priority: high
+schema_version: 2
+uuid: c33f15c6-1d48-5227-8c9b-565d1c67d449
+content_hash: sha256:2ef5eecce57f9689d5d7e42410b06757427f49170c8a13d29643abed959c6df7
 ---
 
+<!-- AUTHORED REGION START -->
 # Mixed-Frequency Macro-Finance Factor Models: Theory and Applications
 
 **Authors:** [[entities/elena-andreou|Elena Andreou]], [[entities/patrick-gagliardini|Patrick Gagliardini]], [[entities/eric-ghysels|Eric Ghysels]], [[entities/mirco-rubin|Mirco Rubin]]
@@ -47,3 +71,5 @@ Develops asymptotic theory for testing common factors across two large panels of
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

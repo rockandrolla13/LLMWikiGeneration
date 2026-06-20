@@ -36,10 +36,14 @@ tags:
 - hedging
 - volatility-skew
 title: Contingent Claims and Hedging of Credit Risk with Equity Options
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_32f967511f6a
+schema_version: 2
+uuid: d8939cff-e248-5bb9-8bcc-e9ef6a61fa49
+content_hash: sha256:3f331350f75b66420663802c134c860e14f88053e15eb37a6e4d662b5738718a
 ---
 
+<!-- AUTHORED REGION START -->
 # Contingent Claims and Hedging of Credit Risk with Equity Options
 
 **Authors:** Davide E. Avino, Enrique Salvador · **Year:** 2024 · **Venue:** The Review of Asset Pricing Studies, 14(2) · **Type:** paper
@@ -86,3 +90,4 @@ Avino and Salvador use contingent-claims valuation to derive theoretical hedge r
 - **Path:** `raw/creditmacro/raae005.md`
 - **Type:** paper
 - **Hash:** `sha256:d228904f46af96fbf...`
+<!-- AUTHORED REGION END -->

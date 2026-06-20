@@ -1,15 +1,28 @@
 ---
-title: "Jorge Zubelli"
+title: Jorge Zubelli
 page_id: entities/jorge-zubelli
 page_type: entity
 entity_type: researcher
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, mathematical-finance, inverse-problems, impa, brazil]
-affiliations: [IMPA (Instituto Nacional de Matematica Pura e Aplicada), KAUST]
-related: [sources/moura-2016-pairs-trading-kalman, entities/adrian-pizzinga]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- mathematical-finance
+- inverse-problems
+- impa
+- brazil
+affiliations:
+- IMPA (Instituto Nacional de Matematica Pura e Aplicada)
+- KAUST
+related:
+- sources/moura-2016-pairs-trading-kalman
+- entities/adrian-pizzinga
+schema_version: 2
+uuid: a5691f30-9854-5819-bd2e-6be69dede86b
+content_hash: sha256:ae394c289b839956c0fdf7cae7495e286d03f1968565ad8a054f16728d0069d2
 ---
 
+<!-- AUTHORED REGION START -->
 ## Biography
 
 Jorge Zubelli is a mathematician with expertise in inverse problems, mathematical finance, and partial differential equations. He has held positions at IMPA (Instituto Nacional de Matematica Pura e Aplicada) in Brazil and KAUST (King Abdullah University of Science and Technology).
@@ -46,3 +59,5 @@ His interdisciplinary background bridges:
 - Pure mathematics with practical finance applications
 - Inverse problem methodology with model calibration
 - Brazilian academic research with international quantitative finance community
+
+<!-- AUTHORED REGION END -->

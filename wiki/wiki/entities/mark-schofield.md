@@ -14,10 +14,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Mark Schofield
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bbf66b34-05e5-547d-8afd-9b2bbe39f9c6
+content_hash: sha256:283cbd245fea2a21d8ab6a830f837b62ceb1e2a494a7ef1559d94498cbbd26e2
 ---
 
+<!-- AUTHORED REGION START -->
 # Mark Schofield
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/schofield-2019-citi-macro-views|Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]]
+<!-- AUTHORED REGION END -->

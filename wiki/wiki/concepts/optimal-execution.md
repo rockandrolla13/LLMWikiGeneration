@@ -1,14 +1,29 @@
 ---
-title: "Optimal Execution"
+title: Optimal Execution
 page_id: concepts/optimal-execution
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [algorithmic-trading, market-impact, stochastic-control, transaction-costs]
-sources: [sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities]
-related: [concepts/market-making, concepts/limit-order-book, concepts/inventory-risk, entities/alvaro-cartea, entities/sebastian-jaimungal]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- algorithmic-trading
+- market-impact
+- stochastic-control
+- transaction-costs
+sources:
+- sources/cartea-2015-optimal-execution
+- sources/lokin-2024-fill-probabilities
+related:
+- concepts/market-making
+- concepts/limit-order-book
+- concepts/inventory-risk
+- entities/alvaro-cartea
+- entities/sebastian-jaimungal
+schema_version: 2
+uuid: 6305caf8-be81-5252-9dc9-8c625ccf5722
+content_hash: sha256:f89721a8c6ecf3a592af588980d3f6afd8e41a2aebdff5484dabcc92359ae55c
 ---
 
+<!-- AUTHORED REGION START -->
 # Optimal Execution
 
 ## Overview
@@ -141,3 +156,5 @@ Optimal execution and market making are related:
 - [[entities/sebastian-jaimungal|Sebastian Jaimungal]]
 - [[sources/cartea-2015-optimal-execution|Cartea & Jaimungal (2015)]]
 - [[sources/lokin-2024-fill-probabilities|Lokin & Yu (2024)]]
+
+<!-- AUTHORED REGION END -->

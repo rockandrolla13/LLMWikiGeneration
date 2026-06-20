@@ -18,10 +18,14 @@ tags:
 - ai-engineering
 - look-ahead-bias
 title: Data Leakage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
+schema_version: 2
+uuid: d1c07a7c-5b87-51a7-838f-388b4146a1cb
+content_hash: sha256:8222e42f05437bca9a34b9dcaa6f7fa83c3822b053e18069da314093e7b7a928
 ---
 
+<!-- AUTHORED REGION START -->
 # Data Leakage
 
 ## Definition
@@ -43,3 +47,4 @@ The unintended exposure of information from outside the training distribution (e
 - [[concepts/overfitting-in-alpha-research|overfitting-in-alpha-research]]
 - [[concepts/trading-strategy-overfitting|trading-strategy-overfitting]]
 - [[concepts/walk-forward-analysis|walk-forward-analysis]]
+<!-- AUTHORED REGION END -->

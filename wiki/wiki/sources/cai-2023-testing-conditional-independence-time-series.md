@@ -42,10 +42,14 @@ source_type: paper
 sources: []
 tags: []
 title: Testing Conditional Independence in Causal Inference for Time Series Data
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_68215fbeeed9
+schema_version: 2
+uuid: 68b9b547-b689-5ba4-a8e9-c904f6a530c9
+content_hash: sha256:70dd6f3e496c41b8483a60d17757d2bcbdf2352a590c75bb080f83968a534368
 ---
 
+<!-- AUTHORED REGION START -->
 # Testing Conditional Independence in Causal Inference for Time Series Data
 
 **Authors:** Zongwu Cai, Ying Fang, Ming Lin, Shengfang Tang · **Year:** 2023 · **Venue:** Statistica Neerlandica · **Type:** paper
@@ -109,3 +113,4 @@ Monte Carlo simulations across varying autocorrelation, bandwidth, and sample-si
 - **Path:** `raw/causality-testing/Testing_TS.pdf`
 - **Type:** paper
 - **Hash:** `sha256:3d07d42abedd8002e...`
+<!-- AUTHORED REGION END -->

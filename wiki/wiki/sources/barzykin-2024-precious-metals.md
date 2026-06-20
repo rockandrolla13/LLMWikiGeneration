@@ -1,15 +1,35 @@
 ---
-title: "Algorithmic Market Making in Spot Precious Metals"
+title: Algorithmic Market Making in Spot Precious Metals
 page_id: sources/barzykin-2024-precious-metals
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, precious-metals, gold, cointegration, ornstein-uhlenbeck, efp-spread, stochastic-control]
-authors: [Alexander Barzykin, Philippe Bergault, Olivier Guéant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- precious-metals
+- gold
+- cointegration
+- ornstein-uhlenbeck
+- efp-spread
+- stochastic-control
+authors:
+- Alexander Barzykin
+- Philippe Bergault
+- Olivier Guéant
 year: 2024
-related: [concepts/market-making, concepts/cointegration, concepts/inventory-risk, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin]
+related:
+- concepts/market-making
+- concepts/cointegration
+- concepts/inventory-risk
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+schema_version: 2
+uuid: 9cab3ee3-10f7-5cb4-88a7-9c6b113f5158
+content_hash: sha256:fc78c4490660faa6e51d1eeac0f0e351c4c7e069d9c819925891f3a35fa3cdc5
 ---
 
+<!-- AUTHORED REGION START -->
 # Algorithmic Market Making in Spot Precious Metals
 
 ## Summary
@@ -70,3 +90,5 @@ Focused on the gold market:
 ## Citation
 
 Barzykin, A., Bergault, P., & Guéant, O. (2024). Algorithmic Market Making in Spot Precious Metals.
+
+<!-- AUTHORED REGION END -->

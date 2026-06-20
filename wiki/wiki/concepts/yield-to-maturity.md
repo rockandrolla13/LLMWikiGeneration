@@ -1,16 +1,28 @@
 ---
-title: "Yield to Maturity"
+title: Yield to Maturity
 page_id: concepts/yield-to-maturity
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [fixed-income, bond-pricing, yield-measures, fundamentals]
-sources: [sources/sehatpour-2024-green-bonds]
-related: [concepts/credit-spread-curve, concepts/z-spread, concepts/green-bond-spreads]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- fixed-income
+- bond-pricing
+- yield-measures
+- fundamentals
+sources:
+- sources/sehatpour-2024-green-bonds
+related:
+- concepts/credit-spread-curve
+- concepts/z-spread
+- concepts/green-bond-spreads
 mind_map_priority: medium
+schema_version: 2
+uuid: acbd6eea-70af-5d69-908c-3f7b1e5f6568
+content_hash: sha256:19262f51196515009d263ec4f6985b699a8f76d62b268bb29e48d326376b11ae
 ---
 
+<!-- AUTHORED REGION START -->
 # Yield to Maturity (YTM)
 
 Yield to maturity is the internal rate of return of a bond, assuming it is held until maturity and all payments are made as scheduled.
@@ -66,3 +78,5 @@ YTM represents:
 - [[concepts/z-spread|Z-Spread]]
 - [[concepts/green-bond-spreads|Green Bond Spreads]]
 - [[sources/sehatpour-2024-green-bonds|Anatomy of Municipal Green Bond Yield Spreads (2024)]]
+
+<!-- AUTHORED REGION END -->

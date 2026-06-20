@@ -30,10 +30,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Our Bond Market Indicators: A Powerful Systematic Approach'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_5519d02e8a6c
+schema_version: 2
+uuid: c672f57e-ec96-5eed-8767-fb5dacca4641
+content_hash: sha256:d662676930d48ddcce87e4cf12171fd7dbf224d0124dd8e438b7eff632b3f4c5
 ---
 
+<!-- AUTHORED REGION START -->
 # Our Bond Market Indicators: A Powerful Systematic Approach
 
 **Authors:** Matthew Hornbach, Anthony O'Brien, Anton Heese, Jesper Rooth, Kewei Yang, Geoffrey Kendrick, Kenro Kawano · **Year:** 2015 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley Global Rates Strategy product note (March 6, 2015) introducing a 
 - **Path:** `raw/creditmacro/Morgan Stanley - Our Bond Market Indicators A Powerful Systematic Approach - 2015-03-06.md`
 - **Type:** article
 - **Hash:** `sha256:464b8d5efaa1a91dc...`
+<!-- AUTHORED REGION END -->

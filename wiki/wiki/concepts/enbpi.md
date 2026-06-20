@@ -3,14 +3,33 @@ title: EnbPI (Ensemble batch Prediction Intervals)
 page_id: concepts/enbpi
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, time-series, ensemble-methods, bootstrap, prediction-intervals]
-sources: [sources/xu-2023-enbpi, sources/stocker-2025-conformal-timeseries-intro, sources/zaffran-2022-aci]
-related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/exchangeability, concepts/spci, concepts/jackknife-plus-after-bootstrap, concepts/adaptive-conformal-inference, concepts/beta-mixing]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- ensemble-methods
+- bootstrap
+- prediction-intervals
+sources:
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/zaffran-2022-aci
+related:
+- concepts/conformal-prediction
+- concepts/prediction-intervals
+- concepts/exchangeability
+- concepts/spci
+- concepts/jackknife-plus-after-bootstrap
+- concepts/adaptive-conformal-inference
+- concepts/beta-mixing
 mind_map_priority: high
+schema_version: 2
+uuid: 2b7b980d-5b8c-5cd0-8956-b276dab49c02
+content_hash: sha256:92788780cf48751ea635a28e48f740e8686dea1b3547dd9dccefee8c0bd8db57
 ---
 
+<!-- AUTHORED REGION START -->
 # EnbPI (Ensemble batch Prediction Intervals)
 
 **EnbPI** is a conformal-style algorithm by [[entities/chen-xu|Xu]] and [[entities/yao-xie|Xie]] ([[sources/xu-2023-enbpi|2023]]) that wraps an ensemble of bootstrap-trained point predictors to produce sequential, distribution-free [[concepts/prediction-intervals|prediction intervals]] for time series — **without** requiring [[concepts/exchangeability|exchangeability]].
@@ -62,3 +81,5 @@ In Stocker et al. ([[sources/stocker-2025-conformal-timeseries-intro|2025]])'s f
 - [[concepts/spci]] — the authors' heteroskedasticity-aware successor.
 - [[concepts/jackknife-plus-after-bootstrap]] — closely related construction; EnbPI extends J+aB to non-exchangeable data.
 - [[concepts/adaptive-conformal-inference]] — alternative way of handling distribution shift.
+
+<!-- AUTHORED REGION END -->

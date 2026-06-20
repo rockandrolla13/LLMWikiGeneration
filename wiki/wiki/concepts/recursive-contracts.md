@@ -13,10 +13,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Recursive Contracts
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8f74af28-d2ab-539a-b488-b275d8331f30
+content_hash: sha256:f70b516287c69d07d8f9077f5c19720afa12f8663f652864cf0cce852a60a7a0
 ---
 
+<!-- AUTHORED REGION START -->
 # Recursive Contracts
 
 ## Definition
@@ -26,3 +30,4 @@ A method for making history-dependent optimal contracts recursive by using promi
 ## Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

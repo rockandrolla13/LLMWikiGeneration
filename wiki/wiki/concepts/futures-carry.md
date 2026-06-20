@@ -14,10 +14,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: Futures Carry
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6b420f95-b7e3-5dd1-b144-1c1e0c534afa
+content_hash: sha256:7806296ff12275ae0317c0847ba5099b0cc46154988941471461fcd5972bb94d
 ---
 
+<!-- AUTHORED REGION START -->
 # Futures Carry
 
 ## Definition
@@ -31,3 +35,4 @@ A strategy exploiting the shape of the futures term structure to predict and har
 ## Related Concepts
 
 - [[concepts/carry-rolldown|carry-rolldown]]
+<!-- AUTHORED REGION END -->

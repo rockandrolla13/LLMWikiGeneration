@@ -38,9 +38,13 @@ tags:
 - price-impact
 - return-predictability
 title: ETF Flows
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 3f64dd11-6e5e-54ec-8635-501db69705d9
+content_hash: sha256:1060907a55411074920c7c3cf2c873ed2627ef2e91fbd9dfbd363593ccba8213
 ---
 
+<!-- AUTHORED REGION START -->
 # ETF Flows
 
 ETF flows measure the change in ownership of securities by Exchange-Traded Funds, typically scaled by market capitalization or outstanding amount.
@@ -103,3 +107,4 @@ Clustering trades based on ETF-constituent co-occurrence patterns for portfolio 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits]], [[sources/ms-2017-06-23-hy-leveraged-finance-playbook]], [[sources/ms-2017-07-10-european-credit-watch]], [[sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers]], [[sources/ms-2019-01-28-european-credit-watch]], [[sources/ms-2019-02-01-cross-asset-january-recap]], [[sources/ms-2019-02-11-fx-positioning-tracker]], [[sources/ms-2019-02-24-china-current-account-turning-point]], [[sources/ms-2019-03-01-global-in-the-flow-february-recap]], [[sources/ms-2019-04-01-cross-asset-1q-recap]]
+<!-- AUTHORED REGION END -->

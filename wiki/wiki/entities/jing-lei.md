@@ -4,14 +4,30 @@ page_id: entities/jing-lei
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [researcher, conformal-prediction, statistics, cmu, high-dimensional]
-sources: [sources/lei-2018-distribution-free-regression]
-related: [concepts/split-conformal-prediction, concepts/conformal-prediction, entities/larry-wasserman, entities/max-gsell, entities/alessandro-rinaldo, entities/ryan-tibshirani]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- statistics
+- cmu
+- high-dimensional
+sources:
+- sources/lei-2018-distribution-free-regression
+related:
+- concepts/split-conformal-prediction
+- concepts/conformal-prediction
+- entities/larry-wasserman
+- entities/max-gsell
+- entities/alessandro-rinaldo
+- entities/ryan-tibshirani
 mind_map_priority: high
+schema_version: 2
+uuid: f74f4484-c46d-5039-90a0-3bd871cad176
+content_hash: sha256:53d47b540fe7d8cf9e815c85d744f8e7da46657b99ba9bfd608a8e9691cf95c0
 ---
 
+<!-- AUTHORED REGION START -->
 # Jing Lei
 
 **Jing Lei** is Professor of Statistics at Carnegie Mellon University. A foundational contributor to the CMU [[concepts/conformal-prediction|conformal prediction]] school, with influential work on split conformal regression and locally-adaptive variants.
@@ -36,3 +52,5 @@ Distribution-free predictive inference, conformal prediction, high-dimensional r
 
 - [[concepts/split-conformal-prediction]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

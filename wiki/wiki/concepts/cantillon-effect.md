@@ -13,10 +13,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Cantillon Effect and Non-Neutrality of Money
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 192759c9-6aa1-5269-bd32-28be10295e37
+content_hash: sha256:27cdfa4adf6b1520734212fab97499d0d97f4098b241c78e666307cdc78594f5
 ---
 
+<!-- AUTHORED REGION START -->
 # Cantillon Effect and Non-Neutrality of Money
 
 ## Definition
@@ -26,3 +30,4 @@ A distribution and price effect from uneven changes in the money supply; the bas
 ## Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

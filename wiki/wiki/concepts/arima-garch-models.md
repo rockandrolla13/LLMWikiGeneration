@@ -15,10 +15,14 @@ sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []
 title: ARIMA and GARCH Volatility Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 37892063-3305-5f85-82cb-31ed527a431c
+content_hash: sha256:c5333fac797bb2d069575baff63fffa4646a75e277ada9c79157902317cfdc8d
 ---
 
+<!-- AUTHORED REGION START -->
 # ARIMA and GARCH Volatility Models
 
 ## Definition
@@ -33,3 +37,4 @@ ARIMA models for the conditional mean combined with (G)ARCH models for time-vary
 
 - [[concepts/backtesting|backtesting]]
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

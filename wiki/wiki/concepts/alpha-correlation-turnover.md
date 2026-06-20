@@ -15,10 +15,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Alpha Correlation and Turnover
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 74750d24-bacc-5b7a-ac75-ac48d5b3623d
+content_hash: sha256:bf3d2c6a5cc00b7f1cb56c0bda65cf0e007df3f7f5eb1ef3f8ebeea6b823f482
 ---
 
+<!-- AUTHORED REGION START -->
 # Alpha Correlation and Turnover
 
 ## Definition
@@ -33,3 +37,4 @@ Two tradability metrics: correlation measures an alpha's uniqueness relative to 
 
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

@@ -1,16 +1,28 @@
 ---
-title: "Jeroen van Zundert"
+title: Jeroen van Zundert
 page_id: entities/jeroen-van-zundert
 page_type: entity
 entity_type: person
-created: 2026-04-26T02:15:00Z
-updated: 2026-04-26T02:15:00Z
-tags: [researcher, Robeco, corporate-bonds, factor-investing, momentum]
+created: 2026-04-26 02:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- Robeco
+- corporate-bonds
+- factor-investing
+- momentum
 affiliation: Robeco Investment Research
 location: Rotterdam, Netherlands
-related: [entities/patrick-houweling, sources/houweling-2017-factor-investing, sources/haesen-2017-momentum-spillover]
+related:
+- entities/patrick-houweling
+- sources/houweling-2017-factor-investing
+- sources/haesen-2017-momentum-spillover
+schema_version: 2
+uuid: a10fa31e-dd3f-5352-8fd4-d6038c34fafc
+content_hash: sha256:ac524b428470dc3c0cb1ff6d99798049bd51ca95873ee3ae08a33d10e5dcf10b
 ---
 
+<!-- AUTHORED REGION START -->
 # Jeroen van Zundert
 
 ## Overview
@@ -52,3 +64,5 @@ Demonstrated that using residual (firm-specific) equity returns for momentum spi
 - [[concepts/factor-investing|Factor Investing]]
 - [[concepts/bond-momentum|Bond Momentum]]
 - [[concepts/residual-momentum|Residual Momentum]]
+
+<!-- AUTHORED REGION END -->

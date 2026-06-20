@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-06-28-fx-volatility-playbook
 tags: []
 title: Kelcie Gerson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4645725a-b1dd-577f-8a06-c0b42ec241e3
+content_hash: sha256:56a35d4fd76bee24837d0899b57d7208aa966ac6a4228dc8d89ad021c20c8b20
 ---
 
+<!-- AUTHORED REGION START -->
 # Kelcie Gerson
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-05-17-tariffs-government-bonds|For Whom the Tariffs Toll]]
 - [[sources/ms-2019-06-28-fx-volatility-playbook|Global Volatility Playbook: What's Wrong with FX Volatility]]
+<!-- AUTHORED REGION END -->

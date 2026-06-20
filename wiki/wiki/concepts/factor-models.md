@@ -41,9 +41,13 @@ tags:
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
+content_hash: sha256:886896ad51178288af97d84e9c1b542f6d9c7012e0f8590af7f60b58c9515685
 ---
 
+<!-- AUTHORED REGION START -->
 # Factor Models
 
 Factor models decompose asset returns into systematic components (factors) and idiosyncratic noise, providing a framework for risk attribution and expected return estimation.
@@ -121,3 +125,4 @@ Corporate bond factor models face difficulties:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sources/ms-2017-06-15-bmi2-xbmi-models]], [[sources/ms-2018-03-16-credit-bmi]], [[sources/ms-2018-04-16-credit-bmi-update]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]]
+<!-- AUTHORED REGION END -->

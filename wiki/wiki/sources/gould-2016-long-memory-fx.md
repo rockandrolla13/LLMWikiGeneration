@@ -1,19 +1,37 @@
 ---
-title: "The Long Memory of Order Flow in the Foreign Exchange Spot Market"
+title: The Long Memory of Order Flow in the Foreign Exchange Spot Market
 page_id: sources/gould-2016-long-memory-fx
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Martin D. Gould, Mason A. Porter, Sam D. Howison]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Martin D. Gould
+- Mason A. Porter
+- Sam D. Howison
 year: 2016
 venue: Market Microstructure and Liquidity
-tags: [long-memory, order-flow, foreign-exchange, market-microstructure, hurst-exponent, autocorrelation]
-related: [concepts/long-memory, concepts/order-flow, concepts/hurst-exponent, concepts/limit-order-book, concepts/market-microstructure]
+tags:
+- long-memory
+- order-flow
+- foreign-exchange
+- market-microstructure
+- hurst-exponent
+- autocorrelation
+related:
+- concepts/long-memory
+- concepts/order-flow
+- concepts/hurst-exponent
+- concepts/limit-order-book
+- concepts/market-microstructure
 mind_map_priority: high
+schema_version: 2
+uuid: aa018536-bade-5bd9-9132-1e30d5956566
+content_hash: sha256:5421bc9f162f69f1fa11ad40bb329a38c9befb4bb9d9cdd37934a915c8f9ca03
 ---
 
+<!-- AUTHORED REGION START -->
 # The Long Memory of Order Flow in the Foreign Exchange Spot Market
 
 **Authors:** Martin D. Gould, Mason A. Porter, Sam D. Howison
@@ -85,3 +103,5 @@ This paper provides strong empirical evidence for long memory in order flow in t
 - [[concepts/order-flow|Order Flow]]
 - [[concepts/hurst-exponent|Hurst Exponent]]
 - [[concepts/limit-order-book|Limit Order Book]]
+
+<!-- AUTHORED REGION END -->

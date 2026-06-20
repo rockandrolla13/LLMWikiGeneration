@@ -3,14 +3,33 @@ title: Adaptive Conformal Inference
 page_id: concepts/adaptive-conformal-inference
 page_type: concept
 revision_id: 2
-created: 2026-04-10T18:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, time-series, distribution-shift, online-learning]
-sources: [sources/gibbs-2021-aci, sources/zaffran-2022-aci, sources/zaffran-phd, sources/koukorinis-2026-draci]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/coverage-guarantee, concepts/exchangeability, concepts/doubly-robust-estimation, concepts/beta-mixing, concepts/causal-inference]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- distribution-shift
+- online-learning
+sources:
+- sources/gibbs-2021-aci
+- sources/zaffran-2022-aci
+- sources/zaffran-phd
+- sources/koukorinis-2026-draci
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/coverage-guarantee
+- concepts/exchangeability
+- concepts/doubly-robust-estimation
+- concepts/beta-mixing
+- concepts/causal-inference
 mind_map_priority: high
+schema_version: 2
+uuid: bdc3f5a3-72df-5e46-a4be-2e144815a092
+content_hash: sha256:3e854e8f9c23bb3446f296721834889f2fc2f86ebf7a95b706026450bdc5e9b1
 ---
 
+<!-- AUTHORED REGION START -->
 # Adaptive Conformal Inference
 
 ## Primary Source
@@ -96,3 +115,5 @@ This guarantee holds for any score sequence, making it applicable to dependent d
 - [[entities/margaux-zaffran|Margaux Zaffran]]
 - [[entities/andreas-koukorinis|Andreas Koukorinis]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
+
+<!-- AUTHORED REGION END -->

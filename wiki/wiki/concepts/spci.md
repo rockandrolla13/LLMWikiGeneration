@@ -3,14 +3,28 @@ title: Sequential Predictive Conformal Inference (SPCI)
 page_id: concepts/spci
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, quantile-regression, adaptive]
-sources: [sources/xu-2022-spci]
-related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/quantile-random-forest, concepts/prediction-intervals, concepts/exchangeability]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- quantile-regression
+- adaptive
+sources:
+- sources/xu-2022-spci
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/quantile-random-forest
+- concepts/prediction-intervals
+- concepts/exchangeability
 mind_map_priority: high
+schema_version: 2
+uuid: 93db1f27-273c-505e-bc4a-1a7322d5b7b0
+content_hash: sha256:af663b08d632935b6383b1cf44d4724d98208ae7f73bead5b90f659c5043435a
 ---
 
+<!-- AUTHORED REGION START -->
 # Sequential Predictive Conformal Inference (SPCI)
 
 **Sequential Predictive Conformal Inference (SPCI)** is a distribution-free conformal prediction algorithm for time series that constructs prediction intervals by explicitly modeling the temporal dependence among prediction residuals. Introduced by [[entities/chen-xu|Chen Xu]] and [[entities/yao-xie|Yao Xie]] ([[sources/xu-2022-spci]]), SPCI addresses the fundamental challenge that time series violate the [[concepts/exchangeability|exchangeability]] assumption required by traditional [[concepts/conformal-prediction|conformal prediction]].
@@ -101,3 +115,5 @@ This provides **asymptotic conditional coverage** for dependent data.
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]] - Alternative for distribution shift
 - [[concepts/quantile-random-forest|Quantile Random Forests]] - Core estimation method
 - [[sources/sun-2022-copula-cpts|CopulaCPTS]] - Alternative for multi-step multivariate forecasting
+
+<!-- AUTHORED REGION END -->

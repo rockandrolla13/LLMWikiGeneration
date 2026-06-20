@@ -1,17 +1,43 @@
 ---
-title: "Olivier Guéant"
+title: Olivier Guéant
 page_id: entities/olivier-gueant
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, market-making, optimal-execution, mathematical-finance, stochastic-control, fx]
-sources: [sources/fermanian-2017-md2c-corporate-bonds, sources/gueant-2019-particle-filtering-bonds, sources/bergault-2019-multi-asset-market-making, sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2022-multi-currency-inventory, sources/barzykin-2024-precious-metals, sources/barzykin-2025-adverse-selection, sources/bergault-2023-rfq-pricing]
-related: [concepts/market-making, concepts/optimal-execution, concepts/inventory-risk, concepts/internalization-externalization, concepts/avellaneda-stoikov-model, entities/philippe-bergault, entities/alexander-barzykin]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- market-making
+- optimal-execution
+- mathematical-finance
+- stochastic-control
+- fx
+sources:
+- sources/fermanian-2017-md2c-corporate-bonds
+- sources/gueant-2019-particle-filtering-bonds
+- sources/bergault-2019-multi-asset-market-making
+- sources/barzykin-2020-algorithmic-fx-market-making
+- sources/barzykin-2021-fx-dealer-tiers
+- sources/barzykin-2022-multi-currency-inventory
+- sources/barzykin-2024-precious-metals
+- sources/barzykin-2025-adverse-selection
+- sources/bergault-2023-rfq-pricing
+related:
+- concepts/market-making
+- concepts/optimal-execution
+- concepts/inventory-risk
+- concepts/internalization-externalization
+- concepts/avellaneda-stoikov-model
+- entities/philippe-bergault
+- entities/alexander-barzykin
 mind_map_priority: high
+schema_version: 2
+uuid: cbcb1e95-c93c-56a2-ab56-59754d3d8159
+content_hash: sha256:89cd723418ae87ab102d8ea9eb5dd8de8d4bb735616b798f32f90a859b1c5e45
 ---
 
+<!-- AUTHORED REGION START -->
 # Olivier Guéant
 
 **Olivier Guéant** is a French applied mathematician and quantitative finance researcher specializing in market microstructure, optimal execution, and market making. He is a leading figure in the mathematical theory of market making and algorithmic trading, with particular expertise in stochastic optimal control applications to financial markets.
@@ -123,3 +149,5 @@ His textbook is widely used in graduate programs and by practitioners implementi
 - [[concepts/inventory-risk|Inventory Risk]]
 - [[concepts/avellaneda-stoikov-model|Avellaneda-Stoikov Model]]
 - [[concepts/internalization-externalization|Internalization vs Externalization]]
+
+<!-- AUTHORED REGION END -->

@@ -35,10 +35,14 @@ tags:
 - capital-structure-arbitrage
 - presentation
 title: Introduction to the Alaph Capital Liquid Macro Credit Fund
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_d95e21d08a98
+schema_version: 2
+uuid: 24e0d01a-5b07-5cac-bad5-5eb05452a5d3
+content_hash: sha256:a76d5f1715791d7f2d4c69cb92e71a1933a947cb8bbcb6691788c39e0b07cc89
 ---
 
+<!-- AUTHORED REGION START -->
 # Introduction to the Alaph Capital Liquid Macro Credit Fund
 
 **Authors:** Shahraab Ahmad, Andreas Koukorinis · **Year:** 2014 · **Venue:** Alaph Capital (private fund presentation) · **Type:** presentation
@@ -82,3 +86,4 @@ A July 2014 confidential investor pitch deck for the Alaph Capital Liquid Macro 
 - **Path:** `raw/creditmacro/Alaph Long Presentation Version July 2014.md`
 - **Type:** notes
 - **Hash:** `sha256:2654e9398fc82d71a...`
+<!-- AUTHORED REGION END -->

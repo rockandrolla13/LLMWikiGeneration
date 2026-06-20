@@ -14,10 +14,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Causal Theory of the Direction of Time
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f7a5cf31-eff7-523c-9d82-e23b4f7605df
+content_hash: sha256:18bcdfbe3ade0f480d4d4da819439a7754a071ad02bcf8b2271c3e799a643a45
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal Theory of the Direction of Time
 
 ## Definition
@@ -31,3 +35,4 @@ The view that the direction and order of time is explained in terms of the direc
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

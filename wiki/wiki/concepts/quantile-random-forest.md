@@ -3,14 +3,27 @@ title: Quantile Random Forests
 page_id: concepts/quantile-random-forest
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [machine-learning, quantile-regression, random-forest, uncertainty-quantification]
-sources: [sources/xu-2022-spci]
-related: [concepts/prediction-intervals, concepts/conformal-prediction, concepts/spci, concepts/uncertainty-quantification]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- quantile-regression
+- random-forest
+- uncertainty-quantification
+sources:
+- sources/xu-2022-spci
+related:
+- concepts/prediction-intervals
+- concepts/conformal-prediction
+- concepts/spci
+- concepts/uncertainty-quantification
 mind_map_priority: medium
+schema_version: 2
+uuid: 220c3af6-17b2-50e7-a8ea-3addabf8d8ce
+content_hash: sha256:77ec7dc6c1803724b38088f1f8855a326c954bf51fc41ad8942ed9d6cc569f79
 ---
 
+<!-- AUTHORED REGION START -->
 # Quantile Random Forests
 
 **Quantile Random Forests (QRF)** are an extension of random forests that estimate the full conditional distribution of the response variable, not just the mean. Introduced by Meinshausen (2006), QRF enables prediction of arbitrary quantiles, making them ideal for constructing [[concepts/prediction-intervals|prediction intervals]] and [[concepts/uncertainty-quantification|uncertainty quantification]].
@@ -109,3 +122,5 @@ q_upper = qrf.predict(X_test, quantiles=0.95)
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
+
+<!-- AUTHORED REGION END -->

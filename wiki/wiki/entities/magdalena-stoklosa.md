@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 tags: []
 title: Magdalena L Stoklosa
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e0a4de70-7421-506a-bd33-4f5a24f8fbf6
+content_hash: sha256:98287f3bf99712c0a4d017cc60fafab989bcf2c6c075b714a6131f98eb006ad9
 ---
 
+<!-- AUTHORED REGION START -->
 # Magdalena L Stoklosa
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-03-11-untested-cycle-corporate-risk|European Banks - Equity & Credit: Untested Cycle - watch for corporate risk]]
+<!-- AUTHORED REGION END -->

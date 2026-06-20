@@ -13,9 +13,13 @@ tags:
 - factor-models
 - equity-risk
 title: Fama-French Factors
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 2b63885f-8c75-58cc-b1df-7e262ad2cec2
+content_hash: sha256:d25ec99eb469c18a5df1e29339b6fba5a567142803102aafb03afebb0b3756fc
 ---
 
+<!-- AUTHORED REGION START -->
 # Fama-French Factors
 
 **Fama-French Factors** are equity risk factors (market, size SMB, value HML, plus profitability and investment in 5-factor extension) used as benchmarks for testing abnormal returns and pricing puzzles.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/value-premium|value-premium]]
+<!-- AUTHORED REGION END -->

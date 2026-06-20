@@ -18,10 +18,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Capital Structure Arbitrage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f813e217-43ab-54a4-92f3-7925808567ff
+content_hash: sha256:9afbdf41ba1afa83cdfd848cedabbfe7e9dd2d0e72bc1b53e57921f73d159bf8
 ---
 
+<!-- AUTHORED REGION START -->
 # Capital Structure Arbitrage
 
 ## Definition
@@ -39,3 +43,4 @@ A convergence-trading strategy that bets on the realignment of a firm's equity a
 - [[concepts/liquidity-risk|liquidity-risk]]
 - [[concepts/pairs-trading|pairs-trading]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

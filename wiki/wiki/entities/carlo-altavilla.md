@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Carlo Altavilla
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3b8f48f5-0784-5cd0-adf9-b56a0ebe463c
+content_hash: sha256:189dd10be0e696384bc27bb1ceb41f75346a800481074bf0c67ae67200332f34
 ---
 
+<!-- AUTHORED REGION START -->
 # Carlo Altavilla
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

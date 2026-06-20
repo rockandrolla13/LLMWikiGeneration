@@ -16,10 +16,14 @@ sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []
 title: ETF Creation/Redemption Arbitrage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e19154ba-cc57-553b-9163-52baae07acfb
+content_hash: sha256:e6e481c2ef456d0678a3206d368d1a141319dc397edb3b5afe95c332c0738257
 ---
 
+<!-- AUTHORED REGION START -->
 # ETF Creation/Redemption Arbitrage
 
 ## Definition
@@ -35,3 +39,4 @@ A statistical-arbitrage strategy exploiting mispricing between a corporate bond 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/etf-flows|etf-flows]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

@@ -4,14 +4,29 @@ page_id: entities/glenn-shafer
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [researcher, conformal-prediction, foundational, game-theoretic-probability, dempster-shafer]
-sources: [sources/vovk-2005-algorithmic-learning, sources/shafer-2007-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/on-line-compression-models, entities/vladimir-vovk, entities/alexander-gammerman]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- foundational
+- game-theoretic-probability
+- dempster-shafer
+sources:
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/on-line-compression-models
+- entities/vladimir-vovk
+- entities/alexander-gammerman
 mind_map_priority: high
+schema_version: 2
+uuid: 17a556b6-1ad4-5a27-91b2-e85c9b0f70bb
+content_hash: sha256:facf603bc0b1987c7bfdd2c92da9b4b7e031410654810594c34a5dbde584a1b3
 ---
 
+<!-- AUTHORED REGION START -->
 # Glenn Shafer
 
 **Glenn Shafer** is a statistician and probabilist, co-inventor of [[concepts/conformal-prediction|conformal prediction]] (with [[entities/vladimir-vovk|Vovk]] and [[entities/alexander-gammerman|Gammerman]]) and the person who **coined the term "conformal predictor"**.
@@ -41,3 +56,5 @@ mind_map_priority: high
 
 - [[concepts/conformal-prediction]]
 - [[concepts/on-line-compression-models]]
+
+<!-- AUTHORED REGION END -->

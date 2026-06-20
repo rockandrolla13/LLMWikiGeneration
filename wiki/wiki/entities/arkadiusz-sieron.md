@@ -14,10 +14,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Arkadiusz Sieroń
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ca7577cd-bb68-5e24-a9b2-2911a3c6b0a0
+content_hash: sha256:e00af977a9149c54ce045b1bf30edfd1515170958e787baeaffa0d4ed20c7fc7
 ---
 
+<!-- AUTHORED REGION START -->
 # Arkadiusz Sieroń
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

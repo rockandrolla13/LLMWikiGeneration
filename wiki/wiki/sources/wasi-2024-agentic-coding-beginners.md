@@ -1,20 +1,32 @@
 ---
-title: "Agentic Coding for Beginners"
+title: Agentic Coding for Beginners
 page_id: sources/wasi-2024-agentic-coding-beginners
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [agentic-ai, llm, software-engineering, prompt-engineering, multi-agent-systems, rag]
-sources: [sources/wasi-2024-agentic-coding-beginners]
+tags:
+- agentic-ai
+- llm
+- software-engineering
+- prompt-engineering
+- multi-agent-systems
+- rag
+sources:
+- sources/wasi-2024-agentic-coding-beginners
 related: []
 mind_map_priority: medium
-authors: ["Wasi"]
+authors:
+- Wasi
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 6a37c3c7-7eba-5124-8eaa-4755033508be
+content_hash: sha256:3308359849cbc82c3a82591f5300351c9e66caf07a97f1abe435ad1ec39e98ec
 ---
 
+<!-- AUTHORED REGION START -->
 # Agentic Coding for Beginners
 
 **Authors:** Wasi  
@@ -64,3 +76,5 @@ Agentic Coding for Beginners (Wasi, published on Leanpub, version dated 2025-11-
 - Where is the correct boundary between human judgment and agent autonomy, and how should that boundary shift as models improve?
 - How can developers reliably evaluate and benchmark agentic workflows when outputs are probabilistic and context-dependent?
 - What governance and alignment mechanisms are needed before fully autonomous software development agents can be trusted in production?
+
+<!-- AUTHORED REGION END -->

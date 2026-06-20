@@ -1,48 +1,60 @@
 ---
-title: "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification"
+title: A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty
+  Quantification
 page_id: sources/angelopoulos-2022-gentle-intro
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-authors: ["Anastasios N. Angelopoulos", "Stephen Bates"]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anastasios N. Angelopoulos
+- Stephen Bates
 year: 2022
-venue: "Foundations and Trends in Machine Learning (arXiv:2107.07511)"
-tags: [conformal-prediction, tutorial, uncertainty-quantification, distribution-free, prediction-sets, risk-control]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/conformalized-quantile-regression,
-  concepts/conformal-risk-control,
-  concepts/coverage-guarantee,
-  concepts/exchangeability,
-  concepts/prediction-intervals,
-  concepts/uncertainty-quantification,
-  concepts/conditional-validity,
-  concepts/calibration,
-  concepts/adaptive-prediction-sets,
-  concepts/regularized-adaptive-prediction-sets,
-  concepts/full-conformal-prediction,
-  concepts/cross-conformal-prediction,
-  concepts/weighted-conformal-prediction,
-  concepts/conformal-outlier-detection,
-  concepts/learn-then-test,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  concepts/nonconformity-score,
-  concepts/group-balanced-conformal-prediction,
-  concepts/class-conditional-conformal-prediction,
-  concepts/conformal-predictive-distribution,
-  entities/anastasios-angelopoulos,
-  entities/stephen-bates,
-  sources/zaffran-2022-aci,
-  sources/xu-2022-spci,
-  sources/chernozhukov-2021-distributional-cp
-]
+venue: Foundations and Trends in Machine Learning (arXiv:2107.07511)
+tags:
+- conformal-prediction
+- tutorial
+- uncertainty-quantification
+- distribution-free
+- prediction-sets
+- risk-control
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/conformalized-quantile-regression
+- concepts/conformal-risk-control
+- concepts/coverage-guarantee
+- concepts/exchangeability
+- concepts/prediction-intervals
+- concepts/uncertainty-quantification
+- concepts/conditional-validity
+- concepts/calibration
+- concepts/adaptive-prediction-sets
+- concepts/regularized-adaptive-prediction-sets
+- concepts/full-conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/weighted-conformal-prediction
+- concepts/conformal-outlier-detection
+- concepts/learn-then-test
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- concepts/nonconformity-score
+- concepts/group-balanced-conformal-prediction
+- concepts/class-conditional-conformal-prediction
+- concepts/conformal-predictive-distribution
+- entities/anastasios-angelopoulos
+- entities/stephen-bates
+- sources/zaffran-2022-aci
+- sources/xu-2022-spci
+- sources/chernozhukov-2021-distributional-cp
 mind_map_priority: high
+schema_version: 2
+uuid: 57921415-6938-50da-b420-10fb1f13abc5
+content_hash: sha256:a9317ddc5f628c5aa73eac3f72bf30c75f641e5b03a3ff9dc41b3c8a76ed99d9
 ---
 
+<!-- AUTHORED REGION START -->
 # A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
 
 **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]]
@@ -92,3 +104,5 @@ This is the **canonical practitioner reference** for CP. It bridges the gap betw
 - [[concepts/conformal-prediction]]
 - [[concepts/uncertainty-quantification]]
 - [[entities/anastasios-angelopoulos]], [[entities/stephen-bates]]
+
+<!-- AUTHORED REGION END -->

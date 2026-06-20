@@ -1,20 +1,39 @@
 ---
-title: "How OpenAI Uses Codex"
+title: How OpenAI Uses Codex
 page_id: sources/openai-2025-how-openai-uses-codex
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [codex, openai, agentic-coding, software-engineering, llm-applications, developer-tools, code-generation, refactoring, test-automation, prompt-engineering, internal-workflow, research-preview, 2025]
-sources: [sources/openai-2025-how-openai-uses-codex]
+tags:
+- codex
+- openai
+- agentic-coding
+- software-engineering
+- llm-applications
+- developer-tools
+- code-generation
+- refactoring
+- test-automation
+- prompt-engineering
+- internal-workflow
+- research-preview
+- 2025
+sources:
+- sources/openai-2025-how-openai-uses-codex
 related: []
 mind_map_priority: medium
-authors: ["OpenAI"]
+authors:
+- OpenAI
 year: 2025
 source_type: article
+schema_version: 2
+uuid: fe57be07-d054-5e98-a7a2-668a0cb50797
+content_hash: sha256:61fe71d20ce24519292f460d0a21627ec1b5777fa9212365c14228e3ebd9fcef
 ---
 
+<!-- AUTHORED REGION START -->
 # How OpenAI Uses Codex
 
 **Authors:** OpenAI  
@@ -83,3 +102,5 @@ A 12-page internal guide published by OpenAI in 2025 describing how OpenAI's own
 - How does Codex handle security and secret management when given internet access and environment variable configuration?
 - What is the 'Best-of-N' feature's computational cost and how is the tradeoff managed at scale?
 - How does this 2025 Codex relate to OpenAI's broader agentic product roadmap (e.g., operator/tool-use APIs)?
+
+<!-- AUTHORED REGION END -->

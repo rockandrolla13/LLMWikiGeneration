@@ -14,10 +14,14 @@ sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
 tags: []
 title: Moody's
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4bdd1ffc-f0da-5e4e-b9da-1a00fecaeb76
+content_hash: sha256:73a9b409f85c44638ee37fec343b539291ae71c107cd2da9712762d0d7632794
 ---
 
+<!-- AUTHORED REGION START -->
 # Moody's
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook|European High Yield Strategy Monthly Leveraged Finance Playbook — Returns]]
+<!-- AUTHORED REGION END -->

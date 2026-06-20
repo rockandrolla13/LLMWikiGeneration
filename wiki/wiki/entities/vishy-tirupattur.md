@@ -14,10 +14,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Vishy Tirupattur
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f30774de-dac0-5658-890d-6f74600387f7
+content_hash: sha256:740e100ee276bef419e942c4d7941cdb90981172ff1b5d897f90645b54c35449
 ---
 
+<!-- AUTHORED REGION START -->
 # Vishy Tirupattur
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/patkar-2026-ms-global-credit-midyear|Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]]
+<!-- AUTHORED REGION END -->

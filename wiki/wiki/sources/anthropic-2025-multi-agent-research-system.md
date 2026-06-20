@@ -1,20 +1,44 @@
 ---
-title: "How We Built Our Multi-Agent Research System"
+title: How We Built Our Multi-Agent Research System
 page_id: sources/anthropic-2025-multi-agent-research-system
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [multi-agent-systems, llm-agents, prompt-engineering, agent-evaluation, orchestrator-worker, claude, anthropic, research-automation, tool-use, mcp, production-ai-systems, context-management, parallel-tool-calling, llm-as-judge, extended-thinking, browsecomp, rainbow-deployment, ai-infrastructure]
-sources: [sources/anthropic-2025-multi-agent-research-system]
+tags:
+- multi-agent-systems
+- llm-agents
+- prompt-engineering
+- agent-evaluation
+- orchestrator-worker
+- claude
+- anthropic
+- research-automation
+- tool-use
+- mcp
+- production-ai-systems
+- context-management
+- parallel-tool-calling
+- llm-as-judge
+- extended-thinking
+- browsecomp
+- rainbow-deployment
+- ai-infrastructure
+sources:
+- sources/anthropic-2025-multi-agent-research-system
 related: []
 mind_map_priority: high
-authors: ["Anthropic"]
+authors:
+- Anthropic
 year: 2025
 source_type: article
+schema_version: 2
+uuid: ab2c599b-c540-545a-9cc6-28e2f9580f51
+content_hash: sha256:ac46f42564c74fea04daf52097aa8048efdebb06a67efc1d9e93881a7885ace9
 ---
 
+<!-- AUTHORED REGION START -->
 # How We Built Our Multi-Agent Research System
 
 **Authors:** Anthropic  
@@ -88,3 +112,5 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 - At what point does adding more subagents stop improving performance (diminishing returns on parallelism)?
 - How does the 'rainbow deployment' strategy interact with stateful agent checkpoints during model version upgrades?
 - What specific rubric dimensions did the LLM judge use, and how were calibration and inter-rater reliability assessed?
+
+<!-- AUTHORED REGION END -->

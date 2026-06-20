@@ -3,14 +3,26 @@ title: Learn Then Test
 page_id: concepts/learn-then-test
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-risk-control, multiple-testing, calibration, fwer]
-sources: [sources/angelopoulos-2021-learn-then-test, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-risk-control, concepts/conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-risk-control
+- multiple-testing
+- calibration
+- fwer
+sources:
+- sources/angelopoulos-2021-learn-then-test
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-risk-control
+- concepts/conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: 5058d85d-1382-557a-b724-92f351bb29da
+content_hash: sha256:b57423cbb7f5d5f36d48d820b400e0d45dca4771886c76e6de50caffb9db02a0
 ---
 
+<!-- AUTHORED REGION START -->
 # Learn Then Test
 
 ## Primary Source
@@ -56,3 +68,5 @@ This delivers finite-sample, distribution-free control of arbitrary risk functio
 
 - [[concepts/conformal-risk-control]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,29 @@ title: KOWCPI
 page_id: concepts/kowcpi
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, kernel-methods, uncertainty-quantification, nonparametric-statistics]
-sources: [sources/lee-2024-kowcpi]
-related: [concepts/conformal-prediction, concepts/nadaraya-watson-estimator, concepts/adaptive-conformal-inference, concepts/coverage-guarantee, concepts/prediction-intervals]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- kernel-methods
+- uncertainty-quantification
+- nonparametric-statistics
+sources:
+- sources/lee-2024-kowcpi
+related:
+- concepts/conformal-prediction
+- concepts/nadaraya-watson-estimator
+- concepts/adaptive-conformal-inference
+- concepts/coverage-guarantee
+- concepts/prediction-intervals
 mind_map_priority: medium
+schema_version: 2
+uuid: 52fb157b-d9e4-5671-9ee2-e132d9d2faea
+content_hash: sha256:8f1fdb6e95bdf338493b3270e572e4d54f67e51ff52d13c3c28c65f3b0626b1a
 ---
 
+<!-- AUTHORED REGION START -->
 # KOWCPI
 
 **KOWCPI (Kernel-based Optimally Weighted Conformal Prediction Intervals)** is a [[concepts/conformal-prediction|conformal prediction]] method for time-series data that learns optimal data-adaptive weights using the [[concepts/nadaraya-watson-estimator|Reweighted Nadaraya-Watson (RNW)]] estimator for quantile regression on non-conformity scores.
@@ -91,3 +106,5 @@ $$\text{AIC}(h) = \log(\text{RSS}/n) + 2 \cdot \text{tr}(SS^{\top})/n$$
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

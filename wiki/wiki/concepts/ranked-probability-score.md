@@ -14,9 +14,13 @@ tags:
 - scoring-rules
 - probabilistic-forecasting
 title: Ranked Probability Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 2012a802-f5eb-5b1a-9f55-8c8707eddab3
+content_hash: sha256:e7b1b50fc8596c7579ef80b79e60c13498c0d81ed908fc7b72d4c6038db71227
 ---
 
+<!-- AUTHORED REGION START -->
 # Ranked Probability Score
 
 **Ranked Probability Score (RPS)** is a scoring rule for probabilistic forecasts of ordered or binary events, equal to the mean squared error between forecast probabilities and realized outcomes.
@@ -34,3 +38,4 @@ updated: '2026-06-09T12:00:00Z'
 - [[concepts/continuous-ranked-probability-score|continuous-ranked-probability-score]]
 - [[concepts/energy-score|energy-score]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

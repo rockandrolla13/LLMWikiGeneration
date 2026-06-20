@@ -14,10 +14,14 @@ sources:
 - sources/dawson-2020-systems-mental-models
 tags: []
 title: Marcus P. Dawson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9bb84a09-13ae-51e9-9c78-64cab10633c7
+content_hash: sha256:7e095f1f853849cbd49b7a08440ed3c7c6812a6e67143ffd96ccb24163f7b255
 ---
 
+<!-- AUTHORED REGION START -->
 # Marcus P. Dawson
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/dawson-2020-systems-mental-models|Thinking in Systems and Mental Models: Think Like a Super Thinker]]
+<!-- AUTHORED REGION END -->

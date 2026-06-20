@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Catherine Nelson
@@ -41,8 +41,12 @@ related:
 - entities/weights-and-biases
 mind_map_priority: medium
 revision_hash: sha256:1be67d4ba7625b6b
+schema_version: 2
+uuid: 483e2627-4859-5a0d-b233-a37c0781d9d5
+content_hash: sha256:34121f72c4cbab3a87256786b6347bae56314d6ca3be2c3c8f870814a4c882a1
 ---
 
+<!-- AUTHORED REGION START -->
 # Software Engineering for Data Scientists
 *From Notebooks to Scalable Systems*
 
@@ -112,3 +116,5 @@ Early-career data scientists, self-taught practitioners, and data analysts/ML en
 - [[entities/pandas|Pandas]]
 - [[entities/sphinx|Sphinx]]
 - [[entities/huggingface-transformers|Hugging Face Transformers]]
+
+<!-- AUTHORED REGION END -->

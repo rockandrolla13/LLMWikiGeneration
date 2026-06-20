@@ -1,19 +1,31 @@
 ---
-title: "Exact and Approximate Conformal Inference for Multi-Output Regression"
+title: Exact and Approximate Conformal Inference for Multi-Output Regression
 page_id: sources/johnstone-2025-multioutput
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-authors: [Chancellor Johnstone, Eugene Ndiaye]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Chancellor Johnstone
+- Eugene Ndiaye
 year: 2025
-venue: "Proceedings of Machine Learning Research 266:1-20 (COPA)"
-tags: [conformal-prediction, multi-output-regression, multivariate, computational-efficiency]
-related: [concepts/conformal-prediction, concepts/prediction-intervals]
+venue: Proceedings of Machine Learning Research 266:1-20 (COPA)
+tags:
+- conformal-prediction
+- multi-output-regression
+- multivariate
+- computational-efficiency
+related:
+- concepts/conformal-prediction
+- concepts/prediction-intervals
 mind_map_priority: medium
+schema_version: 2
+uuid: 45d72328-6f8c-527e-8b49-fbafad93a222
+content_hash: sha256:ce208f33dbf48f138b3d40c518c80067ab55d4aa5b8ea6098d7eb2a3d4cbdc5a
 ---
 
+<!-- AUTHORED REGION START -->
 # Exact and Approximate Conformal Inference for Multi-Output Regression
 
 **Authors:** Chancellor Johnstone (GE Aerospace / Air Force Institute of Technology), Eugene Ndiaye (Apple / Georgia Tech)
@@ -75,3 +87,5 @@ Union-based conservative approximation:
 
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

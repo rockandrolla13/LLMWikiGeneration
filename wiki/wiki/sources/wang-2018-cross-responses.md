@@ -1,19 +1,36 @@
 ---
-title: "Microscopic Understanding of Cross-Responses Between Stocks"
+title: Microscopic Understanding of Cross-Responses Between Stocks
 page_id: sources/wang-2018-cross-responses
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Shanshan Wang, Thomas Guhr]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Shanshan Wang
+- Thomas Guhr
 year: 2018
 venue: Market Microstructure and Liquidity
-tags: [price-impact, cross-correlations, trade-signs, limit-order-book, high-frequency, stocks]
-related: [concepts/price-impact, concepts/cross-correlations, concepts/limit-order-book, concepts/market-microstructure, sources/xu-2020-mlofi]
+tags:
+- price-impact
+- cross-correlations
+- trade-signs
+- limit-order-book
+- high-frequency
+- stocks
+related:
+- concepts/price-impact
+- concepts/cross-correlations
+- concepts/limit-order-book
+- concepts/market-microstructure
+- sources/xu-2020-mlofi
 mind_map_priority: high
+schema_version: 2
+uuid: 01142fc0-d0ea-5aa3-9d33-042bb92a69e7
+content_hash: sha256:06463b01a3d0390e36a23ab7fd93eaa5fe1604d221286ac48d30458d2faccfcc
 ---
 
+<!-- AUTHORED REGION START -->
 # Microscopic Understanding of Cross-Responses Between Stocks
 
 **Authors:** Shanshan Wang, Thomas Guhr
@@ -120,3 +137,5 @@ Cross-responses are primarily a "spillover effect" of self-impact through correl
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[sources/xu-2020-mlofi|Xu et al. (2020) MLOFI]]
+
+<!-- AUTHORED REGION END -->

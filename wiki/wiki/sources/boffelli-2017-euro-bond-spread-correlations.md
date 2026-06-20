@@ -1,21 +1,44 @@
 ---
-title: "High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers"
+title: High- and Low-Frequency Correlations in European Government Bond Spreads and
+  Their Macroeconomic Drivers
 page_id: sources/boffelli-2017-euro-bond-spread-correlations
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Simona Boffelli, Vasiliki D. Skintzi, Giovanni Urga]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Simona Boffelli
+- Vasiliki D. Skintzi
+- Giovanni Urga
 year: 2017
 venue: Journal of Financial Econometrics
-volume_issue_pages: "15(1), 62-105"
+volume_issue_pages: 15(1), 62-105
 doi: 10.1093/jjfinec/nbv023
-tags: [sovereign-spreads, midas, dcc-deco, high-frequency-correlation, macroeconomic-drivers]
-related: [concepts/dcc-midas, concepts/dynamic-equicorrelation, concepts/midas-regression, concepts/garch-midas, concepts/sovereign-debt-crisis, concepts/government-bond-spreads, entities/simona-boffelli, entities/vasiliki-skintzi, entities/giovanni-urga, entities/robert-engle]
+tags:
+- sovereign-spreads
+- midas
+- dcc-deco
+- high-frequency-correlation
+- macroeconomic-drivers
+related:
+- concepts/dcc-midas
+- concepts/dynamic-equicorrelation
+- concepts/midas-regression
+- concepts/garch-midas
+- concepts/sovereign-debt-crisis
+- concepts/government-bond-spreads
+- entities/simona-boffelli
+- entities/vasiliki-skintzi
+- entities/giovanni-urga
+- entities/robert-engle
 mind_map_priority: medium
+schema_version: 2
+uuid: c54a4685-1133-5bb0-8d05-83ed8080eee8
+content_hash: sha256:3b869744c514195798dce4316c2ef61d3d195258e9c6a8ef61d61ea0defd565a
 ---
 
+<!-- AUTHORED REGION START -->
 # High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers
 
 **Authors:** [[entities/simona-boffelli|Simona Boffelli]], [[entities/vasiliki-skintzi|Vasiliki D. Skintzi]], [[entities/giovanni-urga|Giovanni Urga]]
@@ -46,3 +69,5 @@ Combines [[concepts/dynamic-equicorrelation|DECO]] and [[concepts/midas-regressi
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

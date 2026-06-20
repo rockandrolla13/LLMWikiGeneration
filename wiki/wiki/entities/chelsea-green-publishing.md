@@ -14,10 +14,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Chelsea Green Publishing
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 62d3f726-37d6-528b-b474-803f84040bbd
+content_hash: sha256:20714a5510826bedd9e9e6c9572bd7dfc51c6b5af10970a98267c45efd779e02
 ---
 
+<!-- AUTHORED REGION START -->
 # Chelsea Green Publishing
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+<!-- AUTHORED REGION END -->

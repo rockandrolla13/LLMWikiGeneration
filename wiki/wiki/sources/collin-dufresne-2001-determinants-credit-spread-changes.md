@@ -38,10 +38,14 @@ tags:
 - market-segmentation
 - fixed-income
 title: The Determinants of Credit Spread Changes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8c5d21d8cada
+schema_version: 2
+uuid: 452380ce-1606-53bd-9b04-a1c67dd473ad
+content_hash: sha256:966e5c5065f30e3cddfd21a573cd8bb86e11932ecb34499857a017af50be4ed4
 ---
 
+<!-- AUTHORED REGION START -->
 # The Determinants of Credit Spread Changes
 
 **Authors:** Pierre Collin-Dufresne, Robert S. Goldstein, J. Spencer Martin · **Year:** 2001 · **Venue:** The Journal of Finance, Vol. 56, No. 6 (2001); SSRN working paper, 1999 · **Type:** paper
@@ -90,3 +94,4 @@ Collin-Dufresne, Goldstein, and Martin investigate which variables explain month
 - **Path:** `raw/creditmacro/ssrn-191668.md`
 - **Type:** paper
 - **Hash:** `sha256:b69ebb9e84faac251...`
+<!-- AUTHORED REGION END -->

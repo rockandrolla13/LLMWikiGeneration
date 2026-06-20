@@ -18,9 +18,13 @@ tags:
 - CDS
 - bonds
 title: Hazard Rate Curve
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 7e076439-9606-5738-94a8-165a08535131
+content_hash: sha256:528a21edc74c501857508cc1d6e388cd9cb6a4bd10cabebcdcfd49306f614f79
 ---
 
+<!-- AUTHORED REGION START -->
 # Hazard Rate Curve
 
 A **hazard rate curve** represents the term structure of instantaneous default probabilities (conditional default intensity) for an issuer. Unlike spread curves, hazard rates provide a consistent framework for comparing credit risk across bonds and CDS in different currencies.
@@ -94,3 +98,4 @@ Using issuer hazard rates, market surfaces can be built covering every rating an
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/reduced-form-credit-models|reduced-form-credit-models]]
+<!-- AUTHORED REGION END -->

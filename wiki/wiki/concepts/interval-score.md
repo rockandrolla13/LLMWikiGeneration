@@ -16,10 +16,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Interval Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ff73f9b0-8885-58cf-b8ad-85e7de685f73
+content_hash: sha256:77b567911d76105ac9e4d4440d5152b011f002cb056fe3ac7fbb6113bc3f0fbe
 ---
 
+<!-- AUTHORED REGION START -->
 # Interval Score
 
 ## Definition
@@ -35,3 +39,4 @@ A proper score for central prediction intervals that rewards narrow width and ad
 - [[concepts/calibration|calibration]]
 - [[concepts/prediction-intervals|prediction-intervals]]
 - [[concepts/value-at-risk|value-at-risk]]
+<!-- AUTHORED REGION END -->

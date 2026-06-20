@@ -13,10 +13,14 @@ sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []
 title: Structure of Production
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2a56f1cc-bb71-5ed2-b1e4-d58bbbca577d
+content_hash: sha256:ef785da9365c3c6c11d48ea561ce31754d72b8ea591ac49af47090f82af11930
 ---
 
+<!-- AUTHORED REGION START -->
 # Structure of Production
 
 ## Definition
@@ -26,3 +30,4 @@ The Austrian-capital-theory view of production as a temporal sequence of higher-
 ## Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+<!-- AUTHORED REGION END -->

@@ -1,53 +1,63 @@
 ---
-title: "AI Engineering as a Discipline"
+title: AI Engineering as a Discipline
 page_id: analyses/ai-engineering-as-a-discipline
 page_type: analysis
 revision_id: 1
-created: 2026-05-17T18:30:00Z
-updated: 2026-05-17T18:30:00Z
+created: 2026-05-17 18:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
-tags: [ai-engineering, llm, foundation-models, ml-engineering, software-engineering, synthesis]
+tags:
+- ai-engineering
+- llm
+- foundation-models
+- ml-engineering
+- software-engineering
+- synthesis
 sources:
-  - sources/huyen-2022-designing-ml-systems
-  - sources/huyen-2025-ai-engineering
-  - sources/raschka-2024-build-llm-from-scratch
-  - sources/alammar-2024-hands-on-llm
-  - sources/berryman-2024-prompt-engineering-llms
-  - sources/mendelevitch-2025-hands-on-rag
-  - sources/oshin-2025-learning-langchain
-  - sources/wilson-2024-llm-security-playbook
-  - sources/thomas-2025-ai-value-creators
-  - sources/percival-2020-architecture-patterns-python
-  - sources/nelson-2024-swe-for-data-scientists
-  - sources/caelen-2023-developing-apps-gpt4
-  - sources/boonstra-2024-google-prompt-engineering
-  - sources/taulli-2024-ai-assisted-programming
-  - sources/bratanic-2025-essential-graphrag
-  - sources/hermans-2024-code-reading-in-practice
-  - sources/anon-2024-vector-databases-rag
-  - sources/barrasa-2023-building-knowledge-graphs
+- sources/huyen-2022-designing-ml-systems
+- sources/huyen-2025-ai-engineering
+- sources/raschka-2024-build-llm-from-scratch
+- sources/alammar-2024-hands-on-llm
+- sources/berryman-2024-prompt-engineering-llms
+- sources/mendelevitch-2025-hands-on-rag
+- sources/oshin-2025-learning-langchain
+- sources/wilson-2024-llm-security-playbook
+- sources/thomas-2025-ai-value-creators
+- sources/percival-2020-architecture-patterns-python
+- sources/nelson-2024-swe-for-data-scientists
+- sources/caelen-2023-developing-apps-gpt4
+- sources/boonstra-2024-google-prompt-engineering
+- sources/taulli-2024-ai-assisted-programming
+- sources/bratanic-2025-essential-graphrag
+- sources/hermans-2024-code-reading-in-practice
+- sources/anon-2024-vector-databases-rag
+- sources/barrasa-2023-building-knowledge-graphs
 related:
-  - concepts/ai-engineering
-  - concepts/foundation-model
-  - concepts/foundation-models
-  - concepts/retrieval-augmented-generation
-  - concepts/prompt-engineering
-  - concepts/fine-tuning
-  - concepts/in-context-learning
-  - concepts/llm-evaluation
-  - concepts/ai-agents
-  - concepts/inference-optimization
-  - concepts/dataset-engineering
-  - concepts/sampling-strategies
-  - concepts/rlhf
-  - concepts/parameter-efficient-fine-tuning
-  - concepts/llm-as-a-judge
-  - concepts/continual-learning
-  - concepts/model-compression
-  - entities/chip-huyen
+- concepts/ai-engineering
+- concepts/foundation-model
+- concepts/foundation-models
+- concepts/retrieval-augmented-generation
+- concepts/prompt-engineering
+- concepts/fine-tuning
+- concepts/in-context-learning
+- concepts/llm-evaluation
+- concepts/ai-agents
+- concepts/inference-optimization
+- concepts/dataset-engineering
+- concepts/sampling-strategies
+- concepts/rlhf
+- concepts/parameter-efficient-fine-tuning
+- concepts/llm-as-a-judge
+- concepts/continual-learning
+- concepts/model-compression
+- entities/chip-huyen
 mind_map_priority: high
+schema_version: 2
+uuid: bf46678c-8d40-546e-893b-1d79987f240e
+content_hash: sha256:24a6c9e34b7a13739fd1df1597241f2366416316af26ea1fed36361acafc3a9f
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Engineering as a Discipline
 
 ## Overview
@@ -394,3 +404,5 @@ AI engineering is the engineering of *adaptation* on top of foundation models. I
 - [[sources/anon-2024-vector-databases-rag|Vector Databases for RAG (Anderson 2024)]]
 - [[sources/barrasa-2023-building-knowledge-graphs|Building Knowledge Graphs (Barrasa & Webber 2023)]]
 - [[../MIND_MAP|MIND_MAP node [2] — AI Engineering]]
+
+<!-- AUTHORED REGION END -->

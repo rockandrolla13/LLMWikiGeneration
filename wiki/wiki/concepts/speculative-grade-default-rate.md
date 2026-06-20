@@ -16,10 +16,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: Speculative-Grade Default Rate
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ad0cfe8b-dc69-5152-9b61-b1ecd0dd5c89
+content_hash: sha256:4d966caaea72bfae2c90589dcf371e76ab63184b70d92a787686bf962e4c5a88
 ---
 
+<!-- AUTHORED REGION START -->
 # Speculative-Grade Default Rate
 
 ## Definition
@@ -35,3 +39,4 @@ The trailing rate at which speculative-grade (high-yield and leveraged-loan) iss
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-curve|credit-spread-curve]]
 - [[concepts/distressed-exchange|distressed-exchange]]
+<!-- AUTHORED REGION END -->

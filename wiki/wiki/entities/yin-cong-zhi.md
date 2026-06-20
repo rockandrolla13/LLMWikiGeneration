@@ -1,16 +1,28 @@
 ---
-title: "Yin-Cong Zhi"
+title: Yin-Cong Zhi
 page_id: entities/yin-cong-zhi
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, gaussian-processes, graph-signal-processing, oxford]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- gaussian-processes
+- graph-signal-processing
+- oxford
 affiliation: University of Oxford
 degree: DPhil
-related: [sources/zhi-2024-gaussian-processes-graphs, entities/xiaowen-dong, concepts/gaussian-processes, concepts/spectral-graph-wavelets]
+related:
+- sources/zhi-2024-gaussian-processes-graphs
+- entities/xiaowen-dong
+- concepts/gaussian-processes
+- concepts/spectral-graph-wavelets
+schema_version: 2
+uuid: 26271a52-125a-5e27-9e5b-0a5a678f2d0f
+content_hash: sha256:9eba09ced2a73a36c8e9feaf1957418630604f10146576d3e11f834b1e557111
 ---
 
+<!-- AUTHORED REGION START -->
 # Yin-Cong Zhi
 
 **Affiliation:** University of Oxford, St Anne's College
@@ -74,3 +86,5 @@ His work provides alternatives to [[concepts/graph-neural-networks|graph neural 
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/spectral-graph-wavelets|Spectral Graph Wavelets]]
 - [[concepts/transductive-learning|Transductive Learning]]
+
+<!-- AUTHORED REGION END -->

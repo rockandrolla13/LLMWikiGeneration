@@ -1,20 +1,35 @@
 ---
-title: "Hierarchical Credibility Model"
+title: Hierarchical Credibility Model
 page_id: sources/namora-2021-hierarchical
 page_type: source
 source_type: conference-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [F. Namora, S. Nurrohmah, I. Fithriani]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- F. Namora
+- S. Nurrohmah
+- I. Fithriani
 year: 2021
 venue: AIP Conference Proceedings
 doi: 10.1063/5.0059047
-tags: [credibility-theory, insurance, premium-calculation, hierarchical-models, buhlmann-straub]
-related: [sources/tsai-2020-hierarchical-mortality, concepts/credibility-theory, concepts/buhlmann-straub-model]
+tags:
+- credibility-theory
+- insurance
+- premium-calculation
+- hierarchical-models
+- buhlmann-straub
+related:
+- sources/tsai-2020-hierarchical-mortality
+- concepts/credibility-theory
+- concepts/buhlmann-straub-model
 mind_map_priority: medium
+schema_version: 2
+uuid: 78bd4ef1-4afb-5499-ac27-95c0b70e6594
+content_hash: sha256:ba1467aee54d1082ea7bc85decf1591d101b3f91f6070f3c1b2154e06f9fedfe
 ---
 
+<!-- AUTHORED REGION START -->
 # Hierarchical Credibility Model
 
 **Authors:** F. Namora, S. Nurrohmah, I. Fithriani
@@ -70,3 +85,5 @@ The credibility estimator takes the form of a weighted mean:
 - [[concepts/credibility-theory|Credibility Theory]]
 - [[concepts/buhlmann-straub-model|Bühlmann-Straub Model]]
 - [[sources/tsai-2020-hierarchical-mortality|Tsai & Wu 2020 (Hierarchical Mortality)]]
+
+<!-- AUTHORED REGION END -->

@@ -19,10 +19,14 @@ sources:
 - sources/ms-2019-03-11-europe-surprise-upside
 tags: []
 title: Daniele Antonucci
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ded67d5f-8208-59f4-9090-e62b23abfd18
+content_hash: sha256:07826dd9e3a0cb5de05cf7f7aeaa5f2006bbc1458143239b95fbed3f880f6be3
 ---
 
+<!-- AUTHORED REGION START -->
 # Daniele Antonucci
 
 ## Overview
@@ -37,3 +41,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-02-28-ecb-preview-tltro-funding|ECB Preview: TLTRO Funding on its Way]]
 - [[sources/ms-2019-03-01-bank-funding-focus|European Economics Weekly — Bank Funding Focus]]
 - [[sources/ms-2019-03-11-europe-surprise-upside|Europe looks set to surprise on the upside]]
+<!-- AUTHORED REGION END -->

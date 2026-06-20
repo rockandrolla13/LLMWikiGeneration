@@ -15,10 +15,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: Private Credit and Leveraged Loans
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d50c105f-4457-5138-b2ad-1b8c50f9787a
+content_hash: sha256:9babefd545f0e4276146f1aac22ec437dee6ff6d8c3d770851aa5555004775ef
 ---
 
+<!-- AUTHORED REGION START -->
 # Private Credit and Leveraged Loans
 
 ## Definition
@@ -33,3 +37,4 @@ Floating-rate corporate debt held in leveraged-loan indices, BDCs, and private-c
 
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/private-credit|private-credit]]
+<!-- AUTHORED REGION END -->

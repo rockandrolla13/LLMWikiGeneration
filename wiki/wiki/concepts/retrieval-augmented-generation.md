@@ -4,7 +4,7 @@ page_id: concepts/retrieval-augmented-generation
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -26,8 +26,12 @@ related:
 - concepts/transformers
 mind_map_priority: high
 revision_hash: sha256:41757c9d69753b26
+schema_version: 2
+uuid: 036ffd72-a47c-5151-b394-2825ba398afd
+content_hash: sha256:4ffb521040646c3f06beee00c7de67a6c8805cfe88b117c7d688394d807a6423
 ---
 
+<!-- AUTHORED REGION START -->
 # Retrieval-Augmented Generation
 
 ## Definition
@@ -51,3 +55,5 @@ An architectural pattern that augments large language models with real-time retr
 
 - [[concepts/self-attention]]
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

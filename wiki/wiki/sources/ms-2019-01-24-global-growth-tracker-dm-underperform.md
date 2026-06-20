@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: Global Growth Tracker – DMs Underperform More than Expected
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cc1501d9a148
+schema_version: 2
+uuid: 6db3e7c6-1b62-5d6c-b02d-bc39a5737601
+content_hash: sha256:6d1749a721563439bef48059d9c0dab4bbb31595f45251dceb9d4958ff7cd783
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Growth Tracker – DMs Underperform More than Expected
 
 **Authors:** Chetan Ahya, Derrick Y Kam, Nora Wassermann · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley's Global Growth Tracker (January 24, 2019) reports that developed
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Economics — Global Growth Tracker – DMs Underperform More than Expected - nd.md`
 - **Type:** article
 - **Hash:** `sha256:fd789256515e92a60...`
+<!-- AUTHORED REGION END -->

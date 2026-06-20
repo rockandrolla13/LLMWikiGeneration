@@ -15,10 +15,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Regression to the Mean
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7df3f787-72c5-5b05-a42f-9a4e53ab9ed0
+content_hash: sha256:e8589e02ad862c8c45da10a5a248c5c6e79ed17ef743967f7ba875c7b2b3d723
 ---
 
+<!-- AUTHORED REGION START -->
 # Regression to the Mean
 
 ## Definition
@@ -33,3 +37,4 @@ Galton's observation that extreme measurements tend to be followed by less extre
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Jan Babecky
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b331e474-631e-5953-a44e-982fb9436aab
+content_hash: sha256:a97c370dadd950b45dda156c478853c84839d0338db9945e06d4e597fcc3379d
 ---
 
+<!-- AUTHORED REGION START -->
 # Jan Babecky
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/babecky-2013-leading-indicators-crisis-incidence|Leading indicators of crisis incidence: Evidence from developed countries]]
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

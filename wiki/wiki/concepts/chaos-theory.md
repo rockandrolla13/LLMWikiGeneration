@@ -14,10 +14,14 @@ sources:
 - sources/dawson-2020-systems-mental-models
 tags: []
 title: Chaos Theory and Non-linearity
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 88fdb284-2e18-51c8-9051-a9e7e3004e08
+content_hash: sha256:0866b9750d145ef34d90a63226465ea847a9ab8ca76b69e5d6b782a0724868c5
 ---
 
+<!-- AUTHORED REGION START -->
 # Chaos Theory and Non-linearity
 
 ## Definition
@@ -31,3 +35,4 @@ The study of non-linear dynamic systems in which small differences in initial co
 ## Related Concepts
 
 - [[concepts/systems-thinking|systems-thinking]]
+<!-- AUTHORED REGION END -->

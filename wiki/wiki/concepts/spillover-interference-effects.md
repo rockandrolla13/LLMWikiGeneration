@@ -14,10 +14,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Spillover and Interference Effects
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ef4657f4-ce62-5431-ba5d-701dd6060515
+content_hash: sha256:e0809ce995fee325c0f9913c5d7a85f8fc9e4e809d171b43e245d037f7caa138
 ---
 
+<!-- AUTHORED REGION START -->
 # Spillover and Interference Effects
 
 ## Definition
@@ -31,3 +35,4 @@ Causal effects arising when one unit's treatment affects another unit's outcome,
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,42 @@
 ---
-title: "Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents"
+title: Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents
 page_id: sources/petit-2025-data-driven-flow-etf
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-06T23:30:00Z
-updated: 2026-05-06T23:30:00Z
-authors: [Nicolas Petit, Mihai Cucuringu, Alvaro Cartea]
+created: 2026-05-06 23:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Nicolas Petit
+- Mihai Cucuringu
+- Alvaro Cartea
 year: 2025
 venue: ICAIF 2025
-tags: [etf-flows, machine-learning, clustering, order-imbalance, portfolio-construction, pca, k-means, market-microstructure]
-related: [concepts/etf-flows, concepts/flow-decomposition, concepts/order-imbalance, concepts/clustering, entities/alvaro-cartea, entities/mihai-cucuringu, sources/optiver-2025-corporate-bond-etf-contraflow, sources/chao-2019-etf-flows-prices]
+tags:
+- etf-flows
+- machine-learning
+- clustering
+- order-imbalance
+- portfolio-construction
+- pca
+- k-means
+- market-microstructure
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
+- concepts/order-imbalance
+- concepts/clustering
+- entities/alvaro-cartea
+- entities/mihai-cucuringu
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/chao-2019-etf-flows-prices
 mind_map_priority: high
+schema_version: 2
+uuid: 9bd42887-7435-5363-904d-ffba6f2ac8ba
+content_hash: sha256:8e7b48338deaa09875ebfd8bd1728f953a9ab2d0a1170fea0546282fcf397250
 ---
 
+<!-- AUTHORED REGION START -->
 # Data-Driven Trade Flow Decomposition for ETFs and their Constituents
 
 **Authors:** Nicolas Petit, Mihai Cucuringu, Alvaro Cartea
@@ -77,3 +100,5 @@ This paper presents a novel data-driven methodology for decomposing trade flow b
 - [[entities/alvaro-cartea|Alvaro Cartea]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025) Corporate Bond ETF Contraflow]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019) Why Do ETF Flows Move Prices]]
+
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,40 @@
 ---
-title: "Why Do ETF Flows Move Prices?"
+title: Why Do ETF Flows Move Prices?
 page_id: sources/chao-2019-etf-flows-prices
 page_type: source
 source_type: report
 revision_id: 1
-created: 2026-05-06T23:30:00Z
-updated: 2026-05-06T23:30:00Z
-authors: [Alex Chao, Ronnie Shah, Hallie Martin, Shuan Wei, Jessica Zhang]
+created: 2026-05-06 23:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Alex Chao
+- Ronnie Shah
+- Hallie Martin
+- Shuan Wei
+- Jessica Zhang
 year: 2019
 venue: Deutsche Bank Quantitative Strategy Research
-tags: [etf-flows, flow-decomposition, index-reconstitution, allocation-flows, weight-reconstitution, contraflow, return-predictability]
-related: [concepts/etf-flows, concepts/flow-decomposition, concepts/index-reconstitution, sources/petit-2025-data-driven-flow-etf, sources/optiver-2025-corporate-bond-etf-contraflow]
+tags:
+- etf-flows
+- flow-decomposition
+- index-reconstitution
+- allocation-flows
+- weight-reconstitution
+- contraflow
+- return-predictability
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
+- concepts/index-reconstitution
+- sources/petit-2025-data-driven-flow-etf
+- sources/optiver-2025-corporate-bond-etf-contraflow
 mind_map_priority: high
+schema_version: 2
+uuid: 200a53b1-dbbf-5e09-be23-d9d433919add
+content_hash: sha256:0408fdf68ed7547345a4500af15dd5b69037f63c682546fd2be9ea4fe7de9451
 ---
 
+<!-- AUTHORED REGION START -->
 # Why Do ETF Flows Move Prices?
 
 **Authors:** Alex Chao, Ronnie Shah, Hallie Martin, Shuan Wei, Jessica Zhang
@@ -74,3 +95,5 @@ This research decomposes ETF flows into three components: (i) allocation, (ii) w
 - [[concepts/index-reconstitution|Index Reconstitution]]
 - [[sources/petit-2025-data-driven-flow-etf|Petit et al. (2025) Data-Driven Flow Decomposition]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025) Corporate Bond ETF Contraflow]]
+
+<!-- AUTHORED REGION END -->

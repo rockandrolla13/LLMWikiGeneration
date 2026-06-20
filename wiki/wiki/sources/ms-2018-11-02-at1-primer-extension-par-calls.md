@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Banks: Autumn AT1 Primer – Extension and Par Calls'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_fd2742aaaaaf
+schema_version: 2
+uuid: bc8e32e3-1e8c-50e4-854e-684c4a3bd744
+content_hash: sha256:7bb3c6f62a69f629fb6e5ae9e933a54f0c0e0bed7165ac11717c39611e5fa629
 ---
 
+<!-- AUTHORED REGION START -->
 # European Banks: Autumn AT1 Primer – Extension and Par Calls
 
 **Authors:** Joe Hopkins, Jackie Ineke · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ Morgan Stanley's AT1 primer argues extension is the key risk for Additional Tier
 - **Path:** `raw/creditmacro/Morgan Stanley - European Banks — Autumn AT1 Primer – Extension and Par Calls - 2018-11-02.md`
 - **Type:** article
 - **Hash:** `sha256:c12b20f64a5f5b9da...`
+<!-- AUTHORED REGION END -->

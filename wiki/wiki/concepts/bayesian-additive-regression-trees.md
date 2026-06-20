@@ -15,10 +15,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Bayesian Additive Regression Trees (BART)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d17c181c-43f3-52ad-b168-7740bb2fdfc2
+content_hash: sha256:f99f9e18fcd962c3fc70b5f61d76f4b36e455e9784a5035358ff3161c15a72c8
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Additive Regression Trees (BART)
 
 ## Definition
@@ -33,3 +37,4 @@ A Bayesian nonparametric sum-of-trees model in which many weak-learner regressio
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/mcmc-bayesian-inference|mcmc-bayesian-inference]]
+<!-- AUTHORED REGION END -->

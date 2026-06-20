@@ -14,10 +14,14 @@ sources:
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults
 tags: []
 title: James Egan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: be9f542f-50ff-5c3c-bed4-414876650192
+content_hash: sha256:8e27223fa3169357a820b2d262584813f6b35f8f88d39b2c45b91fa976018df3
 ---
 
+<!-- AUTHORED REGION START -->
 # James Egan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2017-10-13-machine-learning-loan-mod-redefaults|MODs: Machine Learning on Drivers]]
+<!-- AUTHORED REGION END -->

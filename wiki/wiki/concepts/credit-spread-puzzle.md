@@ -28,9 +28,13 @@ tags:
 - bond-pricing
 - liquidity
 title: Credit Spread Puzzle
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 682793b6-7cd9-5f31-9199-3f410c921991
+content_hash: sha256:7c93b71c742c568e0f8dbea007b0ec860c305cb614326df668d95153abe497d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Spread Puzzle
 
 ## Definition
@@ -110,3 +114,4 @@ Japan shows little evidence of the credit spread puzzle, warranting further inve
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/avramov-2007-changes-corporate-credit-spreads]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Peter Carr
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d6955962-d4ae-5054-8860-7465b16ec518
+content_hash: sha256:2b8c72937891ceedf6571873322b7ef1fc63f48fc256f457be97580d6fc06f91
 ---
 
+<!-- AUTHORED REGION START -->
 # Peter Carr
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
+<!-- AUTHORED REGION END -->

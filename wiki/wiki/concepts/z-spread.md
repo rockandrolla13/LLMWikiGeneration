@@ -1,16 +1,28 @@
 ---
-title: "Z-Spread"
+title: Z-Spread
 page_id: concepts/z-spread
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [fixed-income, credit-risk, bond-pricing, spreads]
-sources: [sources/martin-2024-credit-curve]
-related: [concepts/credit-spread-curve, concepts/survival-probability, concepts/nelson-siegel-model]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- fixed-income
+- credit-risk
+- bond-pricing
+- spreads
+sources:
+- sources/martin-2024-credit-curve
+related:
+- concepts/credit-spread-curve
+- concepts/survival-probability
+- concepts/nelson-siegel-model
 mind_map_priority: medium
+schema_version: 2
+uuid: 5b2595b9-ff36-5fd7-8c7d-7921270fce7f
+content_hash: sha256:fe135d14d3bf0098e6cec1686354acb248f32c843ec4054a0229593e32393d4f
 ---
 
+<!-- AUTHORED REGION START -->
 # Z-Spread (Zero-Volatility Spread)
 
 The Z-spread is the constant spread that, when added to each point on the risk-free spot rate curve, makes the present value of a bond's cash flows equal to its market price.
@@ -56,3 +68,5 @@ The Z-spread captures:
 - [[concepts/credit-spread-curve|Credit Spread Curve]]
 - [[concepts/survival-probability|Survival Probability]]
 - [[sources/martin-2024-credit-curve|The Credit Curve Spread I (Martin, 2024)]]
+
+<!-- AUTHORED REGION END -->

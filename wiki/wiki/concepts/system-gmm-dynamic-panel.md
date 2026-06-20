@@ -14,10 +14,14 @@ sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []
 title: System GMM Dynamic Panel Estimation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d3f11b28-d9e4-5586-b046-e54efecc9926
+content_hash: sha256:6c8a59cad05572281d380ec6bbda3526241c1dc443cce68ae8bfb76ffd3980c5
 ---
 
+<!-- AUTHORED REGION START -->
 # System GMM Dynamic Panel Estimation
 
 ## Definition
@@ -31,3 +35,4 @@ The Arellano-Bover/Blundell-Bond system GMM estimator for dynamic panels, addres
 ## Related Concepts
 
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

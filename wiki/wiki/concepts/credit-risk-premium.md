@@ -18,10 +18,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: Credit Risk Premium
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 28025f6b-c923-5410-a8af-645e6ca8d991
+content_hash: sha256:66eca0d12173a047029f632943b2547b2c926baeb632aa5247af9644eab9401a
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Risk Premium
 
 ## Definition
@@ -39,3 +43,4 @@ The excess return of corporate and non-government debt over default-free governm
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
 - [[concepts/factor-models|factor-models]]
+<!-- AUTHORED REGION END -->

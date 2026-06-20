@@ -1,17 +1,28 @@
 ---
-title: "Mike Ludkovski"
+title: Mike Ludkovski
 page_id: entities/mike-ludkovski
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 affiliation: UC Santa Barbara
-tags: [gaussian-processes, actuarial-science, mortality-modelling, machine-learning]
-related: [sources/huynh-2021-mogp-longevity, concepts/gaussian-processes, concepts/multi-population-mortality]
+tags:
+- gaussian-processes
+- actuarial-science
+- mortality-modelling
+- machine-learning
+related:
+- sources/huynh-2021-mogp-longevity
+- concepts/gaussian-processes
+- concepts/multi-population-mortality
 mind_map_priority: medium
+schema_version: 2
+uuid: 0512acb1-4952-5aed-b739-bcd82b6fddf1
+content_hash: sha256:262efe50581128860fe59cad60d20c88f6631277b7cfa9ffd90ae7ce1f912edb
 ---
 
+<!-- AUTHORED REGION START -->
 # Mike Ludkovski
 
 **Affiliation:** Department of Statistics and Applied Probability, UC Santa Barbara
@@ -39,3 +50,5 @@ Pioneer in applying modern ML/GP methods to traditional actuarial problems, part
 
 - [[concepts/gaussian-processes|Gaussian Processes]]
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
+
+<!-- AUTHORED REGION END -->

@@ -18,10 +18,14 @@ sources:
 - sources/mauboussin-2026-bayes-base-rates
 tags: []
 title: Bayesian Updating
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d05c89c0-8ca7-5ac7-8cee-3fde2401875e
+content_hash: sha256:205ab14159ea2818784bd4feb0fd37595209d426a4ba065a6255c35b049e2ed7
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Updating
 
 ## Definition
@@ -42,3 +46,4 @@ Combining an initial belief (prior) with recent objective data via Bayes' Theore
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/bayesian-nonparametrics|bayesian-nonparametrics]]
+<!-- AUTHORED REGION END -->

@@ -17,10 +17,14 @@ sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []
 title: Systematic Credit Relative Value
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f6afc60f-522f-5506-80b4-8082a7510555
+content_hash: sha256:665f05c6504661743dadbfd8190b8077b6cfeab3143b57e74927a16ee86660f5
 ---
 
+<!-- AUTHORED REGION START -->
 # Systematic Credit Relative Value
 
 ## Definition
@@ -37,3 +41,4 @@ A rules-based trading approach to liquid credit systematically evaluating relati
 - [[concepts/credit-relative-value|credit-relative-value]]
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

@@ -1,16 +1,30 @@
 ---
-title: "Longevity Risk"
+title: Longevity Risk
 page_id: concepts/longevity-risk
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [actuarial-science, risk-management, pensions, insurance]
-sources: [sources/tsai-2020-hierarchical-mortality, sources/huynh-2021-mogp-longevity]
-related: [concepts/lee-carter-model, concepts/multi-population-mortality, concepts/survival-probability, concepts/hierarchical-credibility-model]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- actuarial-science
+- risk-management
+- pensions
+- insurance
+sources:
+- sources/tsai-2020-hierarchical-mortality
+- sources/huynh-2021-mogp-longevity
+related:
+- concepts/lee-carter-model
+- concepts/multi-population-mortality
+- concepts/survival-probability
+- concepts/hierarchical-credibility-model
 mind_map_priority: high
+schema_version: 2
+uuid: 7a0121c0-43e3-5057-a8da-34a22bb7bd6a
+content_hash: sha256:0f535cd417256a6b9d2ffadb4f17fbd4bef501f2ac3642b58a52d896a1c5d1c1
 ---
 
+<!-- AUTHORED REGION START -->
 # Longevity Risk
 
 Longevity risk is the risk that people live longer than expected, creating financial strain on pension plans, annuity providers, and social security systems.
@@ -66,3 +80,5 @@ For a pension plan or annuity provider:
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
 - [[concepts/survival-probability|Survival Probability]]
 - [[sources/tsai-2020-hierarchical-mortality|Hierarchical Credibility Theory for Multi-Country Mortality (2020)]]
+
+<!-- AUTHORED REGION END -->

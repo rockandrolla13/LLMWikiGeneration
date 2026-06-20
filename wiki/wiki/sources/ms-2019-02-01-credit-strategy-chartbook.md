@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: US Corporate Credit Strategy Chartbook
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7806d4e32a0f
+schema_version: 2
+uuid: 1b0e33c4-31d3-517e-a324-2271daf03d10
+content_hash: sha256:ce5bc66b98ee262756bc460210fef0d24bd11fa51d5a1568dab1e8180c6ba000
 ---
 
+<!-- AUTHORED REGION START -->
 # US Corporate Credit Strategy Chartbook
 
 **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ This US Corporate Credit Strategy Chartbook compiles cross-asset and credit mark
 - **Path:** `raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy Chartbook - 2019-02-01.md`
 - **Type:** article
 - **Hash:** `sha256:88803a395c3291391...`
+<!-- AUTHORED REGION END -->

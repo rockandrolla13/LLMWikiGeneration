@@ -1,34 +1,47 @@
 ---
-title: "Conformal PID Control for Time Series Prediction"
+title: Conformal PID Control for Time Series Prediction
 page_id: sources/angelopoulos-2023-conformal-pid
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Anastasios N. Angelopoulos", "Emmanuel J. Candès", "Ryan J. Tibshirani"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anastasios N. Angelopoulos
+- Emmanuel J. Candès
+- Ryan J. Tibshirani
 year: 2023
-venue: "NeurIPS 2023 (arXiv:2307.16895)"
-tags: [conformal-prediction, time-series, online-learning, control-theory, pid-control, distribution-shift, quantile-tracking]
-related: [
-  concepts/conformal-pid-control,
-  concepts/adaptive-conformal-inference,
-  concepts/agaci,
-  concepts/online-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/distribution-drift,
-  entities/anastasios-angelopoulos,
-  entities/emmanuel-candes,
-  entities/ryan-tibshirani,
-  sources/gibbs-2021-aci,
-  sources/gibbs-2024-online-aci,
-  sources/zaffran-2022-aci,
-  sources/xu-2023-enbpi,
-  sources/stocker-2025-conformal-timeseries-intro
-]
+venue: NeurIPS 2023 (arXiv:2307.16895)
+tags:
+- conformal-prediction
+- time-series
+- online-learning
+- control-theory
+- pid-control
+- distribution-shift
+- quantile-tracking
+related:
+- concepts/conformal-pid-control
+- concepts/adaptive-conformal-inference
+- concepts/agaci
+- concepts/online-conformal-prediction
+- concepts/conformal-prediction
+- concepts/distribution-drift
+- entities/anastasios-angelopoulos
+- entities/emmanuel-candes
+- entities/ryan-tibshirani
+- sources/gibbs-2021-aci
+- sources/gibbs-2024-online-aci
+- sources/zaffran-2022-aci
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
 mind_map_priority: high
+schema_version: 2
+uuid: 9f654911-307a-56b3-a95f-d1710717c3a7
+content_hash: sha256:ea08bbb9b1db87e38f4475e1551a4f5031441fbc62996d425b730c17388d3da7
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal PID Control for Time Series Prediction
 
 **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
@@ -82,3 +95,5 @@ The PID iteration achieves `|(1/T) Σ err_t − α| → 0` **deterministically**
 - [[concepts/conformal-pid-control]]
 - [[concepts/adaptive-conformal-inference]]
 - [[entities/ryan-tibshirani]]
+
+<!-- AUTHORED REGION END -->

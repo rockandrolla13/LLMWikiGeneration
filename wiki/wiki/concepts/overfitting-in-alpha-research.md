@@ -16,10 +16,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Overfitting in Alpha Research
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7f3b4cf1-237c-5e32-88e8-fd3effa96088
+content_hash: sha256:c1723ebd86f74d420ac4b3dc4813af291826bcfeca463c6e9e2aad2505f8e768
 ---
 
+<!-- AUTHORED REGION START -->
 # Overfitting in Alpha Research
 
 ## Definition
@@ -35,3 +39,4 @@ The apparent discovery of a price-driving rule that is actually a spurious histo
 - [[concepts/backtesting|backtesting]]
 - [[concepts/data-leakage|data-leakage]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
+<!-- AUTHORED REGION END -->

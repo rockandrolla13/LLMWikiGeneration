@@ -15,10 +15,14 @@ sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []
 title: Regression Discontinuity Design
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ff1d376b-d37d-5aff-9aff-bf429942f142
+content_hash: sha256:1642b6d506baa207eff1cf39ac8010b61bfdb13fc88298f529f3ecde542da916
 ---
 
+<!-- AUTHORED REGION START -->
 # Regression Discontinuity Design
 
 ## Definition
@@ -33,3 +37,4 @@ Identification of a local causal effect by exploiting a discontinuous treatment-
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/instrumental-variables|instrumental-variables]]
+<!-- AUTHORED REGION END -->

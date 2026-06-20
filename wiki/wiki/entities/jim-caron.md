@@ -14,10 +14,14 @@ sources:
 - sources/ms-2009-11-12-us-rate-strategist
 tags: []
 title: Jim Caron
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: afd55004-754b-545e-93dc-7fe61694b28a
+content_hash: sha256:77b166d2d16ae193573ae38a0361110e7fec1cbef6db4b23a63e1e123950b558
 ---
 
+<!-- AUTHORED REGION START -->
 # Jim Caron
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2009-11-12-us-rate-strategist|US Interest Rate Strategist: Stay Close to Home]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []
 title: Christian C.P. Wolff
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 502ce32f-20a3-588d-8960-a73f6fccb390
+content_hash: sha256:1c16643bcb496d922213bcc764d5ef85c7a21adaa25af8cd2f98d9f7fda6fbb5
 ---
 
+<!-- AUTHORED REGION START -->
 # Christian C.P. Wolff
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/bams-2003-risk-premia-term-structure-panel|Risk premia in the term structure of interest rates: a panel data approach]]
+<!-- AUTHORED REGION END -->

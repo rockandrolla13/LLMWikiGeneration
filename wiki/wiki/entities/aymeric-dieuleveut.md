@@ -4,14 +4,29 @@ page_id: entities/aymeric-dieuleveut
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [researcher, machine-learning, optimization, statistics, conformal-prediction]
-sources: [sources/zaffran-2023-conformal-missing, sources/zaffran-2022-aci]
-related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference, entities/margaux-zaffran, entities/julie-josse]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- machine-learning
+- optimization
+- statistics
+- conformal-prediction
+sources:
+- sources/zaffran-2023-conformal-missing
+- sources/zaffran-2022-aci
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- entities/margaux-zaffran
+- entities/julie-josse
 mind_map_priority: medium
+schema_version: 2
+uuid: e6854b9b-fa34-5327-b830-561df88d149a
+content_hash: sha256:52aea9e78e593433ccb90f2f5289f9983030de82d0265679a4dcfd2dd4932dce
 ---
 
+<!-- AUTHORED REGION START -->
 # Aymeric Dieuleveut
 
 **Aymeric Dieuleveut** is a researcher specializing in optimization, statistical learning theory, and uncertainty quantification for machine learning.
@@ -58,3 +73,5 @@ Co-supervisor of [[entities/margaux-zaffran|Margaux Zaffran]]'s PhD thesis on "P
 
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

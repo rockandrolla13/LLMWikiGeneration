@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: A Birdie for the Balance Sheet — Duration and Curves
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7fec3280be2d
+schema_version: 2
+uuid: 5fba082e-ace4-516c-8549-21bc46bc138d
+content_hash: sha256:52d62c0b92c5c21eb86ceed494132b94d58489d2c7fa3cdece151e7a3dab43d7
 ---
 
+<!-- AUTHORED REGION START -->
 # A Birdie for the Balance Sheet — Duration and Curves
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ A Global Interest Rate Strategist note focused on the upcoming FOMC meeting and 
 - **Path:** `raw/creditmacro/Morgan Stanley - A Birdie for the Balance Sheet — Duration and Curves - 2019-01-26.md`
 - **Type:** article
 - **Hash:** `sha256:95e515286afa28ac1...`
+<!-- AUTHORED REGION END -->

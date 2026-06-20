@@ -16,10 +16,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Dawid-Sebastiani Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0320e85d-c101-552d-83ab-1541629650c8
+content_hash: sha256:3a2bc376498affda17acee2cc015386ac13e0fb9d5a4d76d89dbd21aa63b0f7e
 ---
 
+<!-- AUTHORED REGION START -->
 # Dawid-Sebastiani Score
 
 ## Definition
@@ -35,3 +39,4 @@ A multivariate scoring rule based on the log-score under normality, depending on
 - [[concepts/energy-score|energy-score]]
 - [[concepts/realized-covariance|realized-covariance]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

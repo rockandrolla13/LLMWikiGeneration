@@ -14,10 +14,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: John Maynard Keynes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8805ddd0-ab4f-5eaa-a507-152ea4556ff9
+content_hash: sha256:a0a86f0e8eb5a48a5ac5a158236cbf7ace9f04339ce31627f3101c645535ee99
 ---
 
+<!-- AUTHORED REGION START -->
 # John Maynard Keynes
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

@@ -1,13 +1,25 @@
 ---
-title: "Graph Laplacian"
+title: Graph Laplacian
 page_id: concepts/graph-laplacian
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [linear-algebra, graphs, spectral-methods, graph-signal-processing]
-related: [concepts/graph-signal-processing, concepts/graph-fourier-transform, concepts/spectral-graph-filters, sources/shi-2024-graph-laplacian-learning]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- linear-algebra
+- graphs
+- spectral-methods
+- graph-signal-processing
+related:
+- concepts/graph-signal-processing
+- concepts/graph-fourier-transform
+- concepts/spectral-graph-filters
+- sources/shi-2024-graph-laplacian-learning
+schema_version: 2
+uuid: 8b4fc2fa-5a83-5998-8eb8-9ad0ca6251c6
+content_hash: sha256:a0fe3c2ea2a02b3174a54476bb9ff7f954a37e694faf0012c1225cf208368665
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Laplacian
 
 The graph Laplacian is a fundamental matrix representation of a graph that encodes its structure and serves as the discrete analog of the continuous Laplace operator. It is central to [[concepts/graph-signal-processing|graph signal processing]], spectral clustering, and [[concepts/graph-neural-networks|graph neural networks]].
@@ -115,3 +127,5 @@ $\mathbf{Q} = \mathbf{D} + \mathbf{A}$ (uses sum instead of difference).
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/sheaf-laplacian|Sheaf Laplacian]]
 - [[sources/shi-2024-graph-laplacian-learning|Graph Laplacian Learning]]
+
+<!-- AUTHORED REGION END -->

@@ -4,7 +4,7 @@ page_id: concepts/langsmith
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -13,8 +13,12 @@ sources:
 related: []
 mind_map_priority: medium
 revision_hash: sha256:1d6e183c220a31b1
+schema_version: 2
+uuid: 2e07cc3c-665f-53ca-9a30-859bb8858881
+content_hash: sha256:f76a68345ee4bdd03df71b96d6fe8e8d9d2df6a0419c6e2ddecf32fbfbeb2eeb
 ---
 
+<!-- AUTHORED REGION START -->
 # LangSmith
 
 ## Definition
@@ -24,3 +28,5 @@ Observability and evaluation platform for LLM applications, tracing each chain/a
 ## Sources
 
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
+
+<!-- AUTHORED REGION END -->

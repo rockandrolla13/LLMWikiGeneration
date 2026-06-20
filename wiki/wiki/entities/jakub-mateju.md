@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Jakub Mateju
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ede706e8-cf86-5601-9408-25e462c89bb8
+content_hash: sha256:efeaee3ebe74f5bb109bc59783ae318923ddae632a30e2aacc72b3d86337707e
 ---
 
+<!-- AUTHORED REGION START -->
 # Jakub Mateju
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/babecky-2013-leading-indicators-crisis-incidence|Leading indicators of crisis incidence: Evidence from developed countries]]
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

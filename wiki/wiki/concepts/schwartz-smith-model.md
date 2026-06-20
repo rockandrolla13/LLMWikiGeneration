@@ -1,16 +1,28 @@
 ---
-title: "Schwartz-Smith Model"
+title: Schwartz-Smith Model
 page_id: concepts/schwartz-smith-model
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [commodities, futures-pricing, term-structure, factor-models]
-sources: [sources/he-2024-functional-regression]
-related: [concepts/state-space-models, concepts/kalman-filter, concepts/functional-data-analysis]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- commodities
+- futures-pricing
+- term-structure
+- factor-models
+sources:
+- sources/he-2024-functional-regression
+related:
+- concepts/state-space-models
+- concepts/kalman-filter
+- concepts/functional-data-analysis
 mind_map_priority: medium
+schema_version: 2
+uuid: 9a721890-490f-596d-9fab-9fe7ad18cbf5
+content_hash: sha256:75c65723f7dc8f262a2551fa864ec2940f85d3c72d451adc0124fd2d8b33234c
 ---
 
+<!-- AUTHORED REGION START -->
 # Schwartz-Smith Model
 
 The Schwartz-Smith (2000) model decomposes commodity spot prices into two latent factors: a short-term deviation and a long-term equilibrium price level.
@@ -67,3 +79,5 @@ Typically via **Kalman filter**:
 - [[concepts/kalman-filter|Kalman Filter]]
 - [[concepts/functional-data-analysis|Functional Data Analysis]]
 - [[sources/he-2024-functional-regression|Multi-Factor Function-on-Function Regression (2024)]]
+
+<!-- AUTHORED REGION END -->

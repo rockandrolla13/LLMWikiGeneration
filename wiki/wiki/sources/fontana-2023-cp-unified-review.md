@@ -1,41 +1,53 @@
 ---
-title: "Conformal prediction: A unified review of theory and new challenges"
+title: 'Conformal prediction: A unified review of theory and new challenges'
 page_id: sources/fontana-2023-cp-unified-review
 page_type: source
 source_type: review-paper
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-authors: ["Matteo Fontana", "Gianluca Zeni", "Simone Vantini"]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Matteo Fontana
+- Gianluca Zeni
+- Simone Vantini
 year: 2023
-venue: "Bernoulli 29(1), 1-23 (DOI 10.3150/21-BEJ1447)"
-tags: [conformal-prediction, review, theory, nonparametric-statistics, prediction-intervals, exchangeability]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/cross-conformal-prediction,
-  concepts/conformalized-quantile-regression,
-  concepts/conditional-validity,
-  concepts/exchangeability,
-  concepts/nonconformity-score,
-  concepts/mondrian-conformal-prediction,
-  concepts/jackknife-plus,
-  concepts/venn-predictors,
-  concepts/coverage-guarantee,
-  concepts/prediction-intervals,
-  entities/matteo-fontana,
-  entities/gianluca-zeni,
-  entities/simone-vantini,
-  sources/vovk-2005-algorithmic-learning,
-  sources/shafer-2007-cp-tutorial,
-  sources/vovk-2012-cross-conformal,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/stocker-2025-conformal-timeseries-intro
-]
+venue: Bernoulli 29(1), 1-23 (DOI 10.3150/21-BEJ1447)
+tags:
+- conformal-prediction
+- review
+- theory
+- nonparametric-statistics
+- prediction-intervals
+- exchangeability
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/conformalized-quantile-regression
+- concepts/conditional-validity
+- concepts/exchangeability
+- concepts/nonconformity-score
+- concepts/mondrian-conformal-prediction
+- concepts/jackknife-plus
+- concepts/venn-predictors
+- concepts/coverage-guarantee
+- concepts/prediction-intervals
+- entities/matteo-fontana
+- entities/gianluca-zeni
+- entities/simone-vantini
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+- sources/vovk-2012-cross-conformal
+- sources/angelopoulos-2022-gentle-intro
+- sources/stocker-2025-conformal-timeseries-intro
 mind_map_priority: high
+schema_version: 2
+uuid: cb578c9d-f52a-5eaa-8db8-72b3b72ad70e
+content_hash: sha256:7f5445d5cf34eb1be57882cd52aefd44b408617b88c8017ea4768ff42a414fca
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal prediction: A unified review of theory and new challenges
 
 **Authors:** [[entities/matteo-fontana|Matteo Fontana]], [[entities/gianluca-zeni|Gianluca Zeni]], [[entities/simone-vantini|Simone Vantini]]
@@ -98,3 +110,5 @@ This is the canonical theoretical companion to Angelopoulos-Bates and the entry 
 - [[concepts/mondrian-conformal-prediction]]
 - [[concepts/conditional-validity]]
 - [[entities/matteo-fontana]], [[entities/gianluca-zeni]], [[entities/simone-vantini]]
+
+<!-- AUTHORED REGION END -->

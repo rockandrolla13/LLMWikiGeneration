@@ -14,10 +14,14 @@ sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []
 title: Earnings Growth Persistence
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 31b35704-631d-562e-8e9d-415b8255eccf
+content_hash: sha256:51203590ad514563c3aa7101feb0e839c3003d2c68fa5110fa4202ab9a83d6dc
 ---
 
+<!-- AUTHORED REGION START -->
 # Earnings Growth Persistence
 
 ## Definition
@@ -31,3 +35,4 @@ The degree to which a firm's growth in earnings in one period predicts above-ave
 ## Related Concepts
 
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

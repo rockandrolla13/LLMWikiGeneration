@@ -4,16 +4,33 @@ page_id: entities/yao-xie
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [researcher, conformal-prediction, time-series, georgia-tech, professor, kernel-methods]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- time-series
+- georgia-tech
+- professor
+- kernel-methods
 affiliation: Georgia Institute of Technology
 email: yao.xie@isye.gatech.edu
-sources: [sources/lee-2024-kowcpi]
-related: [entities/chen-xu, entities/jonghyeok-lee, concepts/conformal-prediction, concepts/spci, concepts/kowcpi, concepts/nadaraya-watson-estimator]
+sources:
+- sources/lee-2024-kowcpi
+related:
+- entities/chen-xu
+- entities/jonghyeok-lee
+- concepts/conformal-prediction
+- concepts/spci
+- concepts/kowcpi
+- concepts/nadaraya-watson-estimator
 mind_map_priority: medium
+schema_version: 2
+uuid: a91f0bfc-c5da-5b95-9b42-b4b24ad0a27b
+content_hash: sha256:1497821c090e3db1c20977af7a7e38beade9e1d9aca576446310f709b28acd65
 ---
 
+<!-- AUTHORED REGION START -->
 # Yao Xie
 
 **Yao Xie** is a faculty member at the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Institute of Technology. Her research focuses on sequential analysis, change-point detection, and uncertainty quantification for machine learning, with significant contributions to [[concepts/conformal-prediction|conformal prediction]] for time series.
@@ -66,3 +83,5 @@ Her methods have been applied to:
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
+
+<!-- AUTHORED REGION END -->

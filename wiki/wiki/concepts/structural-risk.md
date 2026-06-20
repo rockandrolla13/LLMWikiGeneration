@@ -15,10 +15,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Structural Risk (Funding and Redemption Options)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 45eb4a0d-a2ae-547c-80a3-caa011f19e60
+content_hash: sha256:f397ae9298271a08a3def091e7bbb4b0c7d42d49ec0e118ded0698331b35d30a
 ---
 
+<!-- AUTHORED REGION START -->
 # Structural Risk (Funding and Redemption Options)
 
 ## Definition
@@ -33,3 +37,4 @@ A framework decomposing hedge-fund risk into market risk and structural risk, tr
 
 - [[concepts/funding-liquidity|funding-liquidity]]
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
+<!-- AUTHORED REGION END -->

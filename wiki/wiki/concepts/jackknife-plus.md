@@ -3,14 +3,31 @@ title: Jackknife+ Prediction
 page_id: concepts/jackknife-plus
 page_type: concept
 revision_id: 2
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, jackknife, leave-one-out, prediction-intervals]
-sources: [sources/barber-2021-jackknife-plus, sources/angelopoulos-2022-gentle-intro, sources/fontana-2023-cp-unified-review]
-related: [concepts/conformal-prediction, concepts/cross-conformal-prediction, concepts/jackknife-plus-after-bootstrap, concepts/enbpi, concepts/full-conformal-prediction, concepts/split-conformal-prediction]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- jackknife
+- leave-one-out
+- prediction-intervals
+sources:
+- sources/barber-2021-jackknife-plus
+- sources/angelopoulos-2022-gentle-intro
+- sources/fontana-2023-cp-unified-review
+related:
+- concepts/conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/jackknife-plus-after-bootstrap
+- concepts/enbpi
+- concepts/full-conformal-prediction
+- concepts/split-conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: 0b2d15f7-ccb6-5248-9317-4feb0f917f2d
+content_hash: sha256:b7524902fde9f5e547661a3eb28457312c8f5149e030d93486ffed682b3498f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Jackknife+ Prediction
 
 ## Primary Source
@@ -64,3 +81,5 @@ The `1 − 2α` (rather than `1 − α`) is the theoretical cost of avoiding the
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[concepts/enbpi]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

@@ -1,14 +1,28 @@
 ---
-title: "Ornstein-Uhlenbeck Process"
+title: Ornstein-Uhlenbeck Process
 page_id: concepts/ornstein-uhlenbeck-process
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [stochastic-processes, mean-reversion, continuous-time, diffusion-processes]
-related: [concepts/mean-reversion, concepts/kalman-filter, concepts/pairs-trading, concepts/state-space-models]
-sources: [sources/moura-2016-pairs-trading-kalman, sources/triantafyllopoulos-2011-mean-reverting-spreads]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- stochastic-processes
+- mean-reversion
+- continuous-time
+- diffusion-processes
+related:
+- concepts/mean-reversion
+- concepts/kalman-filter
+- concepts/pairs-trading
+- concepts/state-space-models
+sources:
+- sources/moura-2016-pairs-trading-kalman
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+schema_version: 2
+uuid: 74ecdfa4-1de1-5e5f-9278-aff44d0b328d
+content_hash: sha256:2e8433b327d7980bc491bab3525337e5119fda3fedd073a666b9ca4061f436e6
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 The Ornstein-Uhlenbeck (O-U) process is a continuous-time stochastic process that models mean-reverting behavior. Originally developed to describe the velocity of a particle undergoing Brownian motion with friction, it has become fundamental in financial modeling.
@@ -168,3 +182,5 @@ Multiple O-U processes for yield curve factors:
 - [[concepts/kalman-filter|Kalman Filter]] - estimation method
 - [[concepts/state-space-models|State Space Models]] - modeling framework
 - [[concepts/vasicek-model|Vasicek Model]] - interest rate application
+
+<!-- AUTHORED REGION END -->

@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: European Economics Weekly — Ongoing Weakness
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_1d1064072f9d
+schema_version: 2
+uuid: a57964e5-31f6-5b06-93cf-2aa1955ab707
+content_hash: sha256:df514f9fb7e1e9ce607c3afa66050b6b0781a456865ad516143660c5a0ee3191
 ---
 
+<!-- AUTHORED REGION START -->
 # European Economics Weekly — Ongoing Weakness
 
 **Authors:** Jacob Nell, Jan Kozak, Joao Almeida, Matthew Pennill, Bruna Skarica, Daniele Antonucci · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ A weekly European economics note from Morgan Stanley anticipating continued data
 - **Path:** `raw/creditmacro/Morgan Stanley - European Economics Weekly — Ongoing Weakness - 2019-02-15.md`
 - **Type:** article
 - **Hash:** `sha256:1d19fb733115dfb4c...`
+<!-- AUTHORED REGION END -->

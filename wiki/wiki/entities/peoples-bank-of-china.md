@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes
 tags: []
 title: People's Bank of China
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8ae8636b-3a29-58fa-87fd-53bceb616e91
+content_hash: sha256:e01ef6693b77fa811882f08a8ef19de8df5934586c63b869670beec317a6ada0
 ---
 
+<!-- AUTHORED REGION START -->
 # People's Bank of China
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-01-18-china-doing-whatever-it-takes|China – Doing whatever it takes]]
+<!-- AUTHORED REGION END -->

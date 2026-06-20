@@ -39,10 +39,14 @@ tags:
 - counterfactuals
 - artificial-intelligence
 title: 'The Book of Why: The New Science of Cause and Effect'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9fa651e5a47d
+schema_version: 2
+uuid: 9194db1c-ffe6-533c-b5cd-337d651f9f96
+content_hash: sha256:200a2bfd979ecabcb26c5b24e7bd717e0c5625ba6e4e255c2dcbb018d7af7c46
 ---
 
+<!-- AUTHORED REGION START -->
 # The Book of Why: The New Science of Cause and Effect
 
 **Authors:** Judea Pearl, Dana Mackenzie · **Year:** 2018 · **Venue:** Basic Books (Hachette Book Group) · **Type:** book
@@ -92,3 +96,4 @@ The Book of Why is Judea Pearl's popular-science account of the 'Causal Revoluti
 - **Path:** `raw/creditmacro/The Book of Why (Judea Pearl) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:e067ef7bbe43b52c6...`
+<!-- AUTHORED REGION END -->

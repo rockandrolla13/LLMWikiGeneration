@@ -14,10 +14,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: David Hamburger
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 818bb465-16f0-5f8d-b63d-ef8173d7d53c
+content_hash: sha256:f16f02f96623e0f8ce273233aa2fe833f0c6e622c3f50a2b2b3615fd2b906191
 ---
 
+<!-- AUTHORED REGION START -->
 # David Hamburger
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/patkar-2026-ms-global-credit-midyear|Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]]
+<!-- AUTHORED REGION END -->

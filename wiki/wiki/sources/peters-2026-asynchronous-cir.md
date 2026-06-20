@@ -1,18 +1,40 @@
 ---
-title: "Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference"
+title: Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup
+  Topological HMM Inference
 page_id: sources/peters-2026-asynchronous-cir
 page_type: source
 revision_id: 2
-created: 2026-05-15T22:00:00Z
-updated: 2026-05-24T20:15:00Z
-tags: [cir-models, regime-switching, hmm, interest-rates, copulas, onsager-machlup]
-authors: ["Gareth W. Peters", "Minxing Xu", "Zimo Zhu", "Peilun He"]
+created: 2026-05-15 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- cir-models
+- regime-switching
+- hmm
+- interest-rates
+- copulas
+- onsager-machlup
+authors:
+- Gareth W. Peters
+- Minxing Xu
+- Zimo Zhu
+- Peilun He
 year: 2026
-related: [concepts/state-space-models, concepts/copulas, entities/gareth-peters]
+related:
+- concepts/state-space-models
+- concepts/copulas
+- entities/gareth-peters
 mind_map_priority: medium
-revision_note: "A second draft dated April 26, 2026 is staged at markdown_output/Multivariate_Regime_Switching_Spot_Rate_Models_via_Topological_HMM_and_OM_functionals (2) (1).md. The original draft (ingested 2026-05-15) and the April-26 revision share the same title, authors, and core methodology; differences are likely section-level rewrites rather than new results. A diff has not yet been performed — re-summarise this page if any structural or theoretical change is identified."
+revision_note: A second draft dated April 26, 2026 is staged at markdown_output/Multivariate_Regime_Switching_Spot_Rate_Models_via_Topological_HMM_and_OM_functionals
+  (2) (1).md. The original draft (ingested 2026-05-15) and the April-26 revision share
+  the same title, authors, and core methodology; differences are likely section-level
+  rewrites rather than new results. A diff has not yet been performed — re-summarise
+  this page if any structural or theoretical change is identified.
+schema_version: 2
+uuid: a06c8b86-836b-5f97-b889-3aca05bc064f
+content_hash: sha256:8ee0fac1757a0b17dbb83e21abf104569c04d603822250c219896f1520f94cf3
 ---
 
+<!-- AUTHORED REGION START -->
 # Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models
 
 Peters, Xu, Zhu, and He (April 2026, two drafts in circulation) develop a multivariate spot-rate modelling framework where each rate follows CIR-type dynamics while regimes switch **asynchronously** across assets, with inference via Onsager-Machlup topological HMM.
@@ -136,3 +158,5 @@ This paper and [[sources/peters-2026-quantile-diffusions|Peters (2026) Quantile 
 - [[concepts/state-space-models|State Space Models]]
 - [[concepts/copulas|Copulas]]
 - [[entities/gareth-peters|Gareth W. Peters]]
+
+<!-- AUTHORED REGION END -->

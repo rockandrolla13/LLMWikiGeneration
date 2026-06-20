@@ -1,15 +1,34 @@
 ---
-title: "Optimal Quoting under Adverse Selection and Price Reading"
+title: Optimal Quoting under Adverse Selection and Price Reading
 page_id: sources/barzykin-2025-adverse-selection
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, adverse-selection, price-reading, informational-risk, stochastic-control]
-authors: [Alexander Barzykin, Philippe Bergault, Olivier Guéant, Malo Lemmel]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- adverse-selection
+- price-reading
+- informational-risk
+- stochastic-control
+authors:
+- Alexander Barzykin
+- Philippe Bergault
+- Olivier Guéant
+- Malo Lemmel
 year: 2025
-related: [concepts/market-making, concepts/adverse-selection, concepts/inventory-risk, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin]
+related:
+- concepts/market-making
+- concepts/adverse-selection
+- concepts/inventory-risk
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+schema_version: 2
+uuid: f56b237f-e96c-598a-aa7d-74b95af253cd
+content_hash: sha256:c64e0956e394fb768480a5602089d1c5617c0f23693dabf4937db156248ada90
 ---
 
+<!-- AUTHORED REGION START -->
 # Optimal Quoting under Adverse Selection and Price Reading
 
 ## Summary
@@ -69,3 +88,5 @@ Market makers should:
 ## Citation
 
 Barzykin, A., Bergault, P., Guéant, O., & Lemmel, M. (2025). Optimal Quoting under Adverse Selection and Price Reading.
+
+<!-- AUTHORED REGION END -->

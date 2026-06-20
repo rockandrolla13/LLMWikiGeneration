@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Credit Strategy: A Premium for Size'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_aac3dd6351dc
+schema_version: 2
+uuid: 6f63fd13-6434-574d-a179-28752a30498d
+content_hash: sha256:59c1e511f42ea824bf632b88a17238e9314515ab554506ae18ce56fcc8947a4d
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy: A Premium for Size
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley studies how issuer size affects secondary liquidity and bond perf
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy — A Premium for Size - 2019-03-04.md`
 - **Type:** article
 - **Hash:** `sha256:de6947cfa316e8458...`
+<!-- AUTHORED REGION END -->

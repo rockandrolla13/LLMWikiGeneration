@@ -1,13 +1,26 @@
 ---
-title: "Spectral Graph Wavelets"
+title: Spectral Graph Wavelets
 page_id: concepts/spectral-graph-wavelets
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [graph-signal-processing, wavelets, spectral-methods, multi-scale-analysis]
-related: [concepts/graph-signal-processing, concepts/graph-fourier-transform, concepts/graph-laplacian, concepts/spectral-graph-filters, sources/zhi-2024-gaussian-processes-graphs]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-signal-processing
+- wavelets
+- spectral-methods
+- multi-scale-analysis
+related:
+- concepts/graph-signal-processing
+- concepts/graph-fourier-transform
+- concepts/graph-laplacian
+- concepts/spectral-graph-filters
+- sources/zhi-2024-gaussian-processes-graphs
+schema_version: 2
+uuid: fd814c00-d81d-5283-93fe-865384514429
+content_hash: sha256:6e2cb8edd11139beaf53fddb78951034d24726aa4d1c903e273626e5d7783200
 ---
 
+<!-- AUTHORED REGION START -->
 # Spectral Graph Wavelets
 
 Spectral graph wavelets extend classical wavelet analysis to graph-structured data, enabling multi-scale analysis of graph signals through localized frequency decomposition.
@@ -136,3 +149,5 @@ Windowed graph Fourier transform for joint analysis.
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[sources/zhi-2024-gaussian-processes-graphs|Gaussian Processes on Graphs]]
+
+<!-- AUTHORED REGION END -->

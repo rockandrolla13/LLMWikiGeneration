@@ -15,10 +15,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Mark-to-Market Credit Hedging
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 26d6b20e-6220-5edb-bb6b-ee73cadffd0f
+content_hash: sha256:cb9110df601970156329e9c7af8828a85bf52444ef2c441836c40cce027d1f43
 ---
 
+<!-- AUTHORED REGION START -->
 # Mark-to-Market Credit Hedging
 
 ## Definition
@@ -33,3 +37,4 @@ A hedging approach that neutralizes changes in the market value of a long credit
 
 - [[concepts/cds-bond-basis|cds-bond-basis]]
 - [[concepts/corporate-bonds|corporate-bonds]]
+<!-- AUTHORED REGION END -->

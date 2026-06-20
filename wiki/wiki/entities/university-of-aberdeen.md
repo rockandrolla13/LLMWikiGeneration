@@ -14,10 +14,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: University of Aberdeen
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d37a9cc3-3849-518c-a45b-a6979b8a2ee7
+content_hash: sha256:3247bfae81ef3811181f5fa8a4d92094ba618b33d5681bdbe09f38283458b967
 ---
 
+<!-- AUTHORED REGION START -->
 # University of Aberdeen
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hudson-2019-its-healthcare-reporting|Methodology and reporting characteristics of studies using interrupted time series design in healthcare]]
+<!-- AUTHORED REGION END -->

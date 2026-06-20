@@ -34,10 +34,14 @@ tags:
 - credit
 - emerging-markets
 title: 'Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_20932109df67
+schema_version: 2
+uuid: e437e9f6-2309-5cdb-9809-73b23c4663c3
+content_hash: sha256:cc36a089ed8e958b49c2f61885c0b01210d174eb5be0cde468eefb16b7bdd010
 ---
 
+<!-- AUTHORED REGION START -->
 # Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019
 
 **Authors:** Mark Schofield, Benjamin Nabarro · **Year:** 2019 · **Venue:** Citi Research (Citigroup Global Markets) · **Type:** report
@@ -81,3 +85,4 @@ A Q1 2019 sell-side global macro strategy compendium published by Citi Research,
 - **Path:** `raw/creditmacro/CITI VIEWS MACRO BOOK.md`
 - **Type:** article
 - **Hash:** `sha256:d6ffdbdc3758c2565...`
+<!-- AUTHORED REGION END -->

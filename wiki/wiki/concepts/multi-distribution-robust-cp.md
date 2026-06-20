@@ -3,14 +3,29 @@ title: Multi-Distribution Robust Conformal Prediction
 page_id: concepts/multi-distribution-robust-cp
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, robustness, fairness, multi-source, distribution-shift]
-sources: [sources/yang-2026-multi-distribution-robust-cp]
-related: [concepts/conformal-prediction, concepts/max-p-aggregation, concepts/worst-case-coverage, concepts/distributionally-robust-optimization, concepts/conditional-validity]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- robustness
+- fairness
+- multi-source
+- distribution-shift
+sources:
+- sources/yang-2026-multi-distribution-robust-cp
+related:
+- concepts/conformal-prediction
+- concepts/max-p-aggregation
+- concepts/worst-case-coverage
+- concepts/distributionally-robust-optimization
+- concepts/conditional-validity
 mind_map_priority: high
+schema_version: 2
+uuid: c2332472-be09-53ed-8175-6d3c603dd00c
+content_hash: sha256:12d8951360bcb51cec5dd89268926e23f7f7d2d3d15a25fc40cd20677880afe5
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-Distribution Robust Conformal Prediction
 
 **Multi-Distribution Robust Conformal Prediction (MDCP)** is a framework for constructing prediction sets that achieve valid coverage uniformly across multiple heterogeneous source distributions. This ensures reliability when the test distribution is unknown but comes from one of the sources or a mixture thereof.
@@ -110,3 +125,5 @@ MDCP's score learning addresses cases (2) and (3) by finding overlapping regions
 - [[concepts/worst-case-coverage|Worst-Case Coverage]]
 - [[concepts/distributionally-robust-optimization|Distributionally Robust Optimization]]
 - [[sources/yang-2026-multi-distribution-robust-cp|Yang & Jin (2026)]]
+
+<!-- AUTHORED REGION END -->

@@ -1,34 +1,46 @@
 ---
-title: "Classification with Valid and Adaptive Coverage"
+title: Classification with Valid and Adaptive Coverage
 page_id: sources/romano-2020-aps
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Yaniv Romano", "Matteo Sesia", "Emmanuel J. Candès"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Yaniv Romano
+- Matteo Sesia
+- Emmanuel J. Candès
 year: 2020
-venue: "NeurIPS 2020 (arXiv:2006.02544)"
-tags: [conformal-prediction, classification, adaptive-coverage, conditional-coverage, cv-plus, jackknife-plus]
-related: [
-  concepts/adaptive-prediction-sets,
-  concepts/regularized-adaptive-prediction-sets,
-  concepts/conditional-coverage,
-  concepts/marginal-coverage,
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/jackknife-plus,
-  concepts/cross-conformal-prediction,
-  entities/yaniv-romano,
-  entities/matteo-sesia,
-  entities/emmanuel-candes,
-  sources/angelopoulos-2021-raps,
-  sources/romano-2019-cqr,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: NeurIPS 2020 (arXiv:2006.02544)
+tags:
+- conformal-prediction
+- classification
+- adaptive-coverage
+- conditional-coverage
+- cv-plus
+- jackknife-plus
+related:
+- concepts/adaptive-prediction-sets
+- concepts/regularized-adaptive-prediction-sets
+- concepts/conditional-coverage
+- concepts/marginal-coverage
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/jackknife-plus
+- concepts/cross-conformal-prediction
+- entities/yaniv-romano
+- entities/matteo-sesia
+- entities/emmanuel-candes
+- sources/angelopoulos-2021-raps
+- sources/romano-2019-cqr
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: high
+schema_version: 2
+uuid: eb7d476b-d17d-553f-8067-9a1a378f3fb1
+content_hash: sha256:060d68084827783c963f643e12bdd96def924b3919322fbc358c8a88a95f8eaa
 ---
 
+<!-- AUTHORED REGION START -->
 # Classification with Valid and Adaptive Coverage (APS)
 
 **Authors:** [[entities/yaniv-romano|Yaniv Romano]], [[entities/matteo-sesia|Matteo Sesia]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
@@ -76,3 +88,5 @@ APS variants achieve worst-slice conditional coverage near the nominal `1 − α
 - [[concepts/adaptive-prediction-sets]]
 - [[concepts/regularized-adaptive-prediction-sets]]
 - [[entities/matteo-sesia]]
+
+<!-- AUTHORED REGION END -->

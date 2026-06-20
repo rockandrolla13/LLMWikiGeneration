@@ -1,19 +1,38 @@
 ---
-title: "Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity, Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation"
+title: 'Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity,
+  Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation'
 page_id: sources/technical-2025-bond-similarity
 page_type: source
 source_type: technical-report
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Technical Research Division]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Technical Research Division
 year: 2025
 venue: Technical Document
-tags: [corporate-bonds, random-forest, nelson-siegel, gegenbauer-processes, tukey-gh, bond-clustering, machine-learning]
-related: [sources/martin-2024-credit-curve, sources/dickerson-2023-bond-risk, concepts/nelson-siegel-model, concepts/random-forest-proximity, concepts/gegenbauer-processes, concepts/tukey-gh-transformation]
+tags:
+- corporate-bonds
+- random-forest
+- nelson-siegel
+- gegenbauer-processes
+- tukey-gh
+- bond-clustering
+- machine-learning
+related:
+- sources/martin-2024-credit-curve
+- sources/dickerson-2023-bond-risk
+- concepts/nelson-siegel-model
+- concepts/random-forest-proximity
+- concepts/gegenbauer-processes
+- concepts/tukey-gh-transformation
 mind_map_priority: medium
+schema_version: 2
+uuid: d228ba00-e54b-5fdd-9549-5768de8a93b8
+content_hash: sha256:d631602e0a596fb4ee2aa6bab6dcc48dc6ecc17a58122519de2b55ad1eec5c8e
 ---
 
+<!-- AUTHORED REGION START -->
 # Enhanced Corporate Bond Similarity Framework
 
 **Source:** Technical Research Division
@@ -105,3 +124,5 @@ Flexible framework for:
 - [[concepts/random-forest-proximity|Random Forest Proximity]]
 - [[concepts/gegenbauer-processes|Gegenbauer Processes]]
 - [[concepts/tukey-gh-transformation|Tukey G-H Transformation]]
+
+<!-- AUTHORED REGION END -->

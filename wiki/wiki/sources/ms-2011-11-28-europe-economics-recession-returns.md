@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Europe Economics: Recession Returns'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_52b692fb9029
+schema_version: 2
+uuid: 4f9aae6a-ac99-549f-8714-57d600a1c0c5
+content_hash: sha256:9f92192c09dd4c58a1b7dabb0e7238d82aa29d66ecf8550724344221ca2cfdc2
 ---
 
+<!-- AUTHORED REGION START -->
 # Europe Economics: Recession Returns
 
 **Authors:** Elga Bartsch, Daniele Antonucci, Olivier Bizimana, Tomasz Pietrzak · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ A Europe Economics note cutting Morgan Stanley's euro-area GDP forecasts as fres
 - **Path:** `raw/creditmacro/Morgan Stanley - Europe Economics — Tomasz Pietrzak - 2011-11-28.md`
 - **Type:** article
 - **Hash:** `sha256:2f8e2243d4656b2cd...`
+<!-- AUTHORED REGION END -->

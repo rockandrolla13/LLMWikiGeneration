@@ -32,10 +32,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Volatility Playbook: What''s Wrong with FX Volatility'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_690b7614875d
+schema_version: 2
+uuid: b1854f4d-eb71-5f04-aa08-3221dc86e0e8
+content_hash: sha256:7197c7a91f66c93275de8a9647a81c17138bdf474f275c8d57ac318d33184c65
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Volatility Playbook: What's Wrong with FX Volatility
 
 **Authors:** Phanikiran Naraparaju, Sheena Shah, Wanting Low, Vishwas Patkar, Kelcie Gerson · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ Morgan Stanley's monthly cross-asset volatility playbook for June 2019. Commodit
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global Volatility Playbook What’s Wrong with FX Volatility - 2019-06-28.md`
 - **Type:** article
 - **Hash:** `sha256:d48e5c13e435e351e...`
+<!-- AUTHORED REGION END -->

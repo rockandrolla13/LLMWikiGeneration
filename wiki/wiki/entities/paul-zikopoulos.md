@@ -5,7 +5,7 @@ page_type: entity
 entity_type: person
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ sources:
 mind_map_priority: medium
 affiliation: IBM
 revision_hash: sha256:300fd38b3d1e6b36
+schema_version: 2
+uuid: 5639aed0-5431-576d-ae55-46b5ec838231
+content_hash: sha256:6d3a02f08d7a0e408f9b90efe2b7057ca72a70c51b493db5f05e4ed899a0520a
 ---
 
+<!-- AUTHORED REGION START -->
 # Paul Zikopoulos
 
 **Role:** author
@@ -30,3 +34,5 @@ IBM VP and prolific co-author of multiple O'Reilly/data books; contributes the d
 ## Sources in This Wiki
 
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
+
+<!-- AUTHORED REGION END -->

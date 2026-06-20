@@ -14,10 +14,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: AHL (Man Group)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 614d61d1-af34-5f04-8aee-e0ff4ed86168
+content_hash: sha256:a8ca37c4f1063c946d07f767ec1521c19ad8cd70f64f42298450209b3bdc5c7e
 ---
 
+<!-- AUTHORED REGION START -->
 # AHL (Man Group)
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]
+<!-- AUTHORED REGION END -->

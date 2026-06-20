@@ -15,10 +15,14 @@ sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []
 title: Right Tail Hedging
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ceef5fde-969d-5d4d-93b5-19170949b986
+content_hash: sha256:033a841865b0a43a90257b8bdeb734816437e6620246e68369d046044ee8a4a9
 ---
 
+<!-- AUTHORED REGION START -->
 # Right Tail Hedging
 
 ## Definition
@@ -33,3 +37,4 @@ A risk-management strategy of buying call options to hedge against large upside 
 
 - [[concepts/market-timing|market-timing]]
 - [[concepts/tail-expectation|tail-expectation]]
+<!-- AUTHORED REGION END -->

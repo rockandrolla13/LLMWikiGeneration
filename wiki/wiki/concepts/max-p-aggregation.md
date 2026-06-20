@@ -3,14 +3,26 @@ title: Max-p Aggregation
 page_id: concepts/max-p-aggregation
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, p-values, aggregation, multi-source]
-sources: [sources/yang-2026-multi-distribution-robust-cp]
-related: [concepts/multi-distribution-robust-cp, concepts/conformal-prediction, concepts/worst-case-coverage]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- p-values
+- aggregation
+- multi-source
+sources:
+- sources/yang-2026-multi-distribution-robust-cp
+related:
+- concepts/multi-distribution-robust-cp
+- concepts/conformal-prediction
+- concepts/worst-case-coverage
 mind_map_priority: medium
+schema_version: 2
+uuid: 464136ff-97c8-571b-81f8-4140f9019e1a
+content_hash: sha256:71948a5df7b015852606b8475007461ca9083a954cafffcd1fb293c378b068d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Max-p Aggregation
 
 **Max-p aggregation** is a simple but powerful mechanism for constructing prediction sets that are simultaneously valid across multiple data sources. It works by taking the maximum of per-source conformal p-values and inverting to obtain a prediction set.
@@ -99,3 +111,5 @@ Naive max-p (using standard per-source scores) can be inefficient:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/worst-case-coverage|Worst-Case Coverage]]
 - [[sources/yang-2026-multi-distribution-robust-cp|Yang & Jin (2026)]]
+
+<!-- AUTHORED REGION END -->

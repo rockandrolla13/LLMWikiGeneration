@@ -5,7 +5,7 @@ page_type: entity
 entity_type: person
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -16,8 +16,12 @@ sources:
 mind_map_priority: medium
 affiliation: Princeton
 revision_hash: sha256:0ea3b9f5d24a2078
+schema_version: 2
+uuid: e028753a-c6ba-5c2c-be19-220cb44dc45c
+content_hash: sha256:5609c2b22ade4592f000d45d5749f93a9caac0ad9072060a6bf9bcb82145b671
 ---
 
+<!-- AUTHORED REGION START -->
 # Shunyu Yao
 
 **Role:** mentioned
@@ -32,3 +36,5 @@ First author of the ReAct paper, which the book identifies as the foundational a
 
 - [[sources/boonstra-2024-google-prompt-engineering|Prompt Engineering]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
+
+<!-- AUTHORED REGION END -->

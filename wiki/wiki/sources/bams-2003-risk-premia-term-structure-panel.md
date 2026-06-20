@@ -33,10 +33,14 @@ tags:
 - government-bonds
 - kalman-filter
 title: 'Risk premia in the term structure of interest rates: a panel data approach'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_2de49c1476ac
+schema_version: 2
+uuid: 56257bcc-88f4-55b8-9307-b107bba29330
+content_hash: sha256:328c42afce428e859ec8a4208061657126e9c610a336b1adb410ae9cd0ff6766
 ---
 
+<!-- AUTHORED REGION START -->
 # Risk premia in the term structure of interest rates: a panel data approach
 
 **Authors:** Dennis Bams, Christian C.P. Wolff · **Year:** 2003 · **Venue:** Journal of International Financial Markets, Institutions & Money · **Type:** paper
@@ -79,3 +83,4 @@ Bams and Wolff propose a panel data approach to modeling the risk premium in the
 - **Path:** `raw/creditmacro/1-s2.0-S1042443102000458-main.md`
 - **Type:** paper
 - **Hash:** `sha256:fc63a9a0cb1f9c91d...`
+<!-- AUTHORED REGION END -->

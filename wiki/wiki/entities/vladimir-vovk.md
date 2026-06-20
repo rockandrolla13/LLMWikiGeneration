@@ -4,14 +4,35 @@ page_id: entities/vladimir-vovk
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-04-10T18:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [researcher, conformal-prediction, machine-learning, statistics, game-theoretic-probability, foundational]
-sources: [sources/vovk-2005-algorithmic-learning, sources/shafer-2007-cp-tutorial, sources/vovk-2012-cross-conformal]
-related: [concepts/conformal-prediction, concepts/exchangeability, concepts/cross-conformal-prediction, concepts/venn-predictors, concepts/on-line-compression-models, concepts/mondrian-conformal-prediction, entities/alexander-gammerman, entities/glenn-shafer]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- machine-learning
+- statistics
+- game-theoretic-probability
+- foundational
+sources:
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+- sources/vovk-2012-cross-conformal
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/cross-conformal-prediction
+- concepts/venn-predictors
+- concepts/on-line-compression-models
+- concepts/mondrian-conformal-prediction
+- entities/alexander-gammerman
+- entities/glenn-shafer
 mind_map_priority: high
+schema_version: 2
+uuid: 4ca0b88b-dc14-557f-b5c6-fabc8226c83d
+content_hash: sha256:8040e635f22f0d7b68a7c033854c6636336e6eca56310f71ae30627d69e86065
 ---
 
+<!-- AUTHORED REGION START -->
 # Vladimir Vovk
 
 **Vladimir Vovk** is a Professor at Royal Holloway, University of London, and one of the founders of [[concepts/conformal-prediction|conformal prediction]].
@@ -59,3 +80,5 @@ His framework is now widely used in machine learning for applications requiring 
 - [[concepts/venn-predictors|Venn Predictors]]
 - [[concepts/on-line-compression-models|On-Line Compression Models]]
 - [[entities/alexander-gammerman]], [[entities/glenn-shafer]] — co-inventors.
+
+<!-- AUTHORED REGION END -->

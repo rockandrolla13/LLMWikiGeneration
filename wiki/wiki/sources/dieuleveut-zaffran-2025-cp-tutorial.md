@@ -1,38 +1,56 @@
 ---
-title: "Conformal Prediction: A Tutorial (Hi! PARIS Summer School)"
+title: 'Conformal Prediction: A Tutorial (Hi! PARIS Summer School)'
 page_id: sources/dieuleveut-zaffran-2025-cp-tutorial
 page_type: source
 source_type: tutorial-slides
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-authors: ["Aymeric Dieuleveut", "Margaux Zaffran"]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Aymeric Dieuleveut
+- Margaux Zaffran
 year: 2025
-venue: "Hi! PARIS Summer School, July 8, 2025 (based on Dieuleveut–Zaffran UAI/ICML tutorial)"
-tags: [conformal-prediction, tutorial, slides, split-conformal-prediction, cqr, adaptive-conformal-inference, time-series, covariate-shift, missing-values, full-conformal, jackknife-plus, uncertainty-quantification]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/conformalized-quantile-regression,
-  concepts/adaptive-conformal-inference,
-  concepts/exchangeability,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  concepts/full-conformal-prediction,
-  concepts/nonconformity-score,
-  concepts/adaptive-prediction-sets,
-  concepts/mask-conditional-validity,
-  concepts/uncertainty-quantification,
-  entities/aymeric-dieuleveut,
-  entities/margaux-zaffran,
-  sources/zaffran-2022-aci,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/zaffran-phd,
-  sources/zaffran-2023-conformal-missing
-]
+venue: Hi! PARIS Summer School, July 8, 2025 (based on Dieuleveut–Zaffran UAI/ICML
+  tutorial)
+tags:
+- conformal-prediction
+- tutorial
+- slides
+- split-conformal-prediction
+- cqr
+- adaptive-conformal-inference
+- time-series
+- covariate-shift
+- missing-values
+- full-conformal
+- jackknife-plus
+- uncertainty-quantification
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/conformalized-quantile-regression
+- concepts/adaptive-conformal-inference
+- concepts/exchangeability
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- concepts/full-conformal-prediction
+- concepts/nonconformity-score
+- concepts/adaptive-prediction-sets
+- concepts/mask-conditional-validity
+- concepts/uncertainty-quantification
+- entities/aymeric-dieuleveut
+- entities/margaux-zaffran
+- sources/zaffran-2022-aci
+- sources/angelopoulos-2022-gentle-intro
+- sources/zaffran-phd
+- sources/zaffran-2023-conformal-missing
 mind_map_priority: medium
+schema_version: 2
+uuid: 207c76fd-43b0-52fa-a364-d18f95dc8de5
+content_hash: sha256:d15e969088d3e6c22d61c54082ab26f0d8e0c026c1664025e2320a425af03e8b
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction: A Tutorial (Hi! PARIS Summer School)
 
 **Authors / Presenters:** [[entities/aymeric-dieuleveut|Aymeric Dieuleveut]] (delivering), [[entities/margaux-zaffran|Margaux Zaffran]] (co-developer)
@@ -85,3 +103,5 @@ The second half covers more advanced material: [[concepts/conditional-coverage|c
 - [[entities/aymeric-dieuleveut]], [[entities/margaux-zaffran]]
 - [[concepts/conformal-prediction]]
 - [[concepts/adaptive-conformal-inference]]
+
+<!-- AUTHORED REGION END -->

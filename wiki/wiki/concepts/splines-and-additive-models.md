@@ -14,10 +14,14 @@ sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []
 title: Splines and Generalized Additive Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 94086ab9-a691-51b2-9a57-58fe859a4b2f
+content_hash: sha256:be5d0685426eb3b47f1369844d8a3c454dd915e9f44550ab5ccf49aa0d931991
 ---
 
+<!-- AUTHORED REGION START -->
 # Splines and Generalized Additive Models
 
 ## Definition
@@ -31,3 +35,4 @@ Flexible regression built from piecewise-polynomial spline bases and additive st
 ## Related Concepts
 
 - [[concepts/feature-engineering|feature-engineering]]
+<!-- AUTHORED REGION END -->

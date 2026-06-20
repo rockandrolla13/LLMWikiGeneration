@@ -1,20 +1,37 @@
 ---
-title: "Multi-output Gaussian processes for multi-population longevity modelling"
+title: Multi-output Gaussian processes for multi-population longevity modelling
 page_id: sources/huynh-2021-mogp-longevity
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Nhan Huynh, Mike Ludkovski]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Nhan Huynh
+- Mike Ludkovski
 year: 2021
 venue: Annals of Actuarial Science
 doi: 10.1017/S1748499521000142
-tags: [gaussian-processes, mortality-modelling, multi-population, machine-learning, kriging, longevity]
-related: [sources/tsai-2020-hierarchical-mortality, concepts/gaussian-processes, concepts/multi-population-mortality, concepts/kriging, entities/mike-ludkovski]
+tags:
+- gaussian-processes
+- mortality-modelling
+- multi-population
+- machine-learning
+- kriging
+- longevity
+related:
+- sources/tsai-2020-hierarchical-mortality
+- concepts/gaussian-processes
+- concepts/multi-population-mortality
+- concepts/kriging
+- entities/mike-ludkovski
 mind_map_priority: high
+schema_version: 2
+uuid: f361702c-0fb5-50bb-a729-c2b346719463
+content_hash: sha256:2b965659ad3e85db6d5980ecd621812c9fcfe87fd51ecb3f2a1dff58f4e97ebf
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-output Gaussian Processes for Multi-population Longevity Modelling
 
 **Authors:** Nhan Huynh, [[entities/mike-ludkovski|Mike Ludkovski]]
@@ -87,3 +104,5 @@ For dimension reduction when L ≥ 4:
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
 - [[concepts/kriging|Kriging]]
 - [[sources/tsai-2020-hierarchical-mortality|Tsai & Wu 2020 (Hierarchical Mortality)]]
+
+<!-- AUTHORED REGION END -->

@@ -16,10 +16,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Credit Default Swap Spread
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1cd16a56-7835-5b62-acd6-7a5f71d02f40
+content_hash: sha256:4294453db541d9f1dcf49f4cfe49c662b529c1fe090bed5a35fe7d0a1e8cfb36
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Default Swap Spread
 
 ## Definition
@@ -35,3 +39,4 @@ The annualized cost of insurance against default on a firm's debt, used as the c
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
 - [[concepts/liquidity-risk|liquidity-risk]]
+<!-- AUTHORED REGION END -->

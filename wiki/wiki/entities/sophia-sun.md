@@ -4,15 +4,27 @@ page_id: entities/sophia-sun
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [researcher, conformal-prediction, time-series, copulas, ucsd]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- time-series
+- copulas
+- ucsd
 affiliation: University of California, San Diego
 email: shs066@ucsd.edu
-related: [entities/rose-yu, concepts/conformal-prediction, concepts/copulas]
+related:
+- entities/rose-yu
+- concepts/conformal-prediction
+- concepts/copulas
 mind_map_priority: medium
+schema_version: 2
+uuid: 93002282-7696-5cea-9faf-2433633befe5
+content_hash: sha256:2ac15d9da3f0f84ccddd0d079717f5ce8b30162a63cc47940d89e880ceca0e45
 ---
 
+<!-- AUTHORED REGION START -->
 # Sophia Sun
 
 **Sophia Sun** is a researcher at the University of California, San Diego, working in [[entities/rose-yu|Rose Yu]]'s Spatiotemporal Learning (STL) Lab. Her research focuses on uncertainty quantification for deep learning models, particularly in time series forecasting.
@@ -59,3 +71,5 @@ CopulaCPTS implementation: https://github.com/Rose-STL-Lab/CopulaCPTS
 - [[concepts/copulas|Copulas]]
 - [[concepts/multi-step-conformal-prediction|Multi-step Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
+
+<!-- AUTHORED REGION END -->

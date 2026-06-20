@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Ying Fang
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1fad42cd-3743-5048-9386-f8bbd8365d53
+content_hash: sha256:2b3d656c42c978cd0258d00b1ae9ad313c55278989e9349b392349acf68850ca
 ---
 
+<!-- AUTHORED REGION START -->
 # Ying Fang
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

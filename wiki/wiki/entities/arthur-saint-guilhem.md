@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Arthur Saint Guilhem
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ad0bbbfd-fe20-544b-a513-d41c8e06deab
+content_hash: sha256:bde5c23b8e969886ef07bb5a8e0f6162976d57cb889c32199bcbf0fc04b5a1e9
 ---
 
+<!-- AUTHORED REGION START -->
 # Arthur Saint Guilhem
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

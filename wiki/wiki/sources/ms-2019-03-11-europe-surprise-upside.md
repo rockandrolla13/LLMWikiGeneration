@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: Europe looks set to surprise on the upside
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a174b4a5a3ac
+schema_version: 2
+uuid: a53d7f19-7311-5c68-abd6-5e53f7306b3e
+content_hash: sha256:a550209ad0019c1d4779d3271d91ed17b17fa99e331783eed8a328046906aa8c
 ---
 
+<!-- AUTHORED REGION START -->
 # Europe looks set to surprise on the upside
 
 **Authors:** Graham Secker, Ross A MacDonald, Daniele Antonucci, Srikanth Sankaran, Hans W Redeker, Gek Teng Khoo, Tony Small, David S. Adams · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -71,3 +75,4 @@ Morgan Stanley argues European macro newsflow is set to improve as 2H18 idiosync
 - **Path:** `raw/creditmacro/Morgan Stanley - Europe looks set to surprise on the upside - 2019-03-11.md`
 - **Type:** article
 - **Hash:** `sha256:f897a0a73002086c1...`
+<!-- AUTHORED REGION END -->

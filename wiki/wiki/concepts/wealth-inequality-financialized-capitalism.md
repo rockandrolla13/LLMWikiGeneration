@@ -14,10 +14,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Wealth Inequality and Financialized Capitalism
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a864199c-fed2-597c-a2a9-ec7bf0c16a3e
+content_hash: sha256:96adfe23f943c79a9fd2d68b56b91225f7527ac41ca7d3257feec95c645851dc
 ---
 
+<!-- AUTHORED REGION START -->
 # Wealth Inequality and Financialized Capitalism
 
 ## Definition
@@ -31,3 +35,4 @@ Lancaster's moral-commentary thread on extreme wealth concentration, negative-yi
 ## Related Concepts
 
 - [[concepts/behavioral-finance|behavioral-finance]]
+<!-- AUTHORED REGION END -->

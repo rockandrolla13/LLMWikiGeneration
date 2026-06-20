@@ -13,10 +13,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Negative Interest Rate Policy and Forward Guidance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c33c9676-b0ae-5b13-a5cc-c779baa23929
+content_hash: sha256:323629ddbd04e29b99cf647110f828778d1eb7856bd2dea4696e2b0e452c8403
 ---
 
+<!-- AUTHORED REGION START -->
 # Negative Interest Rate Policy and Forward Guidance
 
 ## Definition
@@ -26,3 +30,4 @@ Complementary unconventional tools: setting the deposit rate below zero (NIRP) t
 ## Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

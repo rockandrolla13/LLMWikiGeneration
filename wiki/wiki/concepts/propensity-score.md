@@ -18,10 +18,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Propensity Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0acab4e3-462d-58a0-8ed9-84262a3201fe
+content_hash: sha256:951cf8b8142d30ce51d0d00f6a54ad0adc7ef50688adc5581144dc8ec86e6b84
 ---
 
+<!-- AUTHORED REGION START -->
 # Propensity Score
 
 ## Definition
@@ -39,3 +43,4 @@ The conditional probability of treatment assignment given observed covariates, e
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/confounding|confounding]]
 - [[concepts/ip-weighting-marginal-structural-models|ip-weighting-marginal-structural-models]]
+<!-- AUTHORED REGION END -->

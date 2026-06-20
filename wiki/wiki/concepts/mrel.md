@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-04-18-mrel-subordination-brrd2
 tags: []
 title: Minimum Requirement for Own Funds and Eligible Liabilities (MREL)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c86d9090-ea4a-5591-bf56-fe0fd79c299e
+content_hash: sha256:2322e9aedef76ccf9c3f92f4442c8103d16ae1bb349625b8bcfdb6897defaed6
 ---
 
+<!-- AUTHORED REGION START -->
 # Minimum Requirement for Own Funds and Eligible Liabilities (MREL)
 
 ## Definition
@@ -35,3 +39,4 @@ EU bank resolution requirement to hold a minimum of own funds and bail-inable li
 - [[concepts/additional-tier-1-capital|additional-tier-1-capital]]
 - [[concepts/bank-resolution-bail-in|bank-resolution-bail-in]]
 - [[concepts/corporate-bonds|corporate-bonds]]
+<!-- AUTHORED REGION END -->

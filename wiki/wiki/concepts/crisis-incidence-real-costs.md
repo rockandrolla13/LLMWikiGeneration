@@ -14,10 +14,14 @@ sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []
 title: Crisis Incidence and Real Costs
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c4fd1ae7-3c3a-549f-a416-91530088eae4
+content_hash: sha256:e2b0092c8a7f1738e6a50d354c881d2b7941a56a1d78cd5f975ff0c227933c79
 ---
 
+<!-- AUTHORED REGION START -->
 # Crisis Incidence and Real Costs
 
 ## Definition
@@ -31,3 +35,4 @@ A continuous measure of the real economic cost of a crisis, combining output los
 ## Related Concepts
 
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
+<!-- AUTHORED REGION END -->

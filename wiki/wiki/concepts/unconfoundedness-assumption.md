@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Conditional Unconfoundedness / Conditional Independence Assumption
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cc7448f2-3b6a-5851-b169-a2f12c836934
+content_hash: sha256:fcd86742e38cee3367d8b1e5be821a48083fee39d4f7f6cdaee43e7085efcb8b
 ---
 
+<!-- AUTHORED REGION START -->
 # Conditional Unconfoundedness / Conditional Independence Assumption
 
 ## Definition
@@ -31,3 +35,4 @@ The identifying assumption that, conditional on a set of predetermined controls,
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

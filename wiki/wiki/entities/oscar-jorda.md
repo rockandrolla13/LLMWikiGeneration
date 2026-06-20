@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Oscar Jorda
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ed611f20-c1d0-56bf-a846-86edfc5fa4ee
+content_hash: sha256:1f60ec59ec95a113cd54b0c3d6e25f09ee687514168d6338aa21976a9300ef72
 ---
 
+<!-- AUTHORED REGION START -->
 # Oscar Jorda
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

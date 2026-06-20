@@ -1,20 +1,32 @@
 ---
-title: "Beyond Vibe Coding: From Coder to AI-Era Developer"
+title: 'Beyond Vibe Coding: From Coder to AI-Era Developer'
 page_id: sources/osmani-2025-beyond-vibe-coding
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [ai-assisted-development, vibe-coding, llm-tools, software-engineering, developer-productivity, prompt-engineering]
-sources: [sources/osmani-2025-beyond-vibe-coding]
+tags:
+- ai-assisted-development
+- vibe-coding
+- llm-tools
+- software-engineering
+- developer-productivity
+- prompt-engineering
+sources:
+- sources/osmani-2025-beyond-vibe-coding
 related: []
 mind_map_priority: high
-authors: ["Addy Osmani"]
+authors:
+- Addy Osmani
 year: 2025
 source_type: book
+schema_version: 2
+uuid: b21d7f69-5a24-5c58-8552-860d1cdb8109
+content_hash: sha256:95fe77a54f537d53a0ffc8ea34d97276659929c91d5c6fe6f28e5985deb790f6
 ---
 
+<!-- AUTHORED REGION START -->
 # Beyond Vibe Coding: From Coder to AI-Era Developer
 
 **Authors:** Addy Osmani  
@@ -63,3 +75,5 @@ Beyond Vibe Coding: From Coder to AI-Era Developer (O'Reilly, August 2025) by Ad
 - If AI amplifies experienced developers disproportionately, does widespread vibe coding widen the skills gap between senior and junior engineers rather than democratize software development?
 - How should engineering organizations define 'quality' and set code review standards when a single developer using AI can produce the volume that previously required a full team?
 - At what point does 'AI-assisted engineering' shade back into vibe coding, and what concrete checkpoints (specs, tests, security audits) are sufficient to prevent accumulation of hidden technical debt?
+
+<!-- AUTHORED REGION END -->

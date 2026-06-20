@@ -15,10 +15,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Back-door and Front-door Adjustment
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9470553b-d0e6-5b7d-9848-4992370dcf13
+content_hash: sha256:4c509f3cd3d833eabbdcb1d0795e927dbb940e8ebd3ffc2c87fdd92b182ac547
 ---
 
+<!-- AUTHORED REGION START -->
 # Back-door and Front-door Adjustment
 
 ## Definition
@@ -33,3 +37,4 @@ Graphical criteria for identifying a set of variables to condition on (back-door
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/double-machine-learning|double-machine-learning]]
+<!-- AUTHORED REGION END -->

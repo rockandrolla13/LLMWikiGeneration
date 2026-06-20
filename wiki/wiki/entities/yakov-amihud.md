@@ -12,9 +12,13 @@ sources:
 tags:
 - researcher
 title: Yakov Amihud
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: a381101e-c6f3-5fd5-bbae-d1b9a71c519b
+content_hash: sha256:87a28f741845dc295d96ecb30932bfaffcbe1dfc7dd372216a622de8283b37cf
 ---
 
+<!-- AUTHORED REGION START -->
 # Yakov Amihud
 
 **Yakov Amihud** is a researcher affiliated with NYU Stern. Originator of the Amihud illiquidity measure (Amihud 2002).
@@ -34,3 +38,4 @@ cited
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/kapadia-2012-limited-arbitrage-equity-credit]]
+<!-- AUTHORED REGION END -->

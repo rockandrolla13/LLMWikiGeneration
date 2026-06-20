@@ -1,19 +1,41 @@
 ---
-title: "Multi-scale Representation of High Frequency Market Liquidity"
+title: Multi-scale Representation of High Frequency Market Liquidity
 page_id: sources/golub-2014-multiscale-liquidity
 page_type: source
 source_type: preprint
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Anton Golub, Gregor Chliamovitch, Alexandre Dupuis, Bastien Chopard]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anton Golub
+- Gregor Chliamovitch
+- Alexandre Dupuis
+- Bastien Chopard
 year: 2014
 venue: arXiv preprint
-tags: [market-microstructure, liquidity, information-theory, high-frequency-trading, intrinsic-time, foreign-exchange]
-related: [concepts/intrinsic-time, concepts/directional-change, concepts/market-liquidity, concepts/limit-order-book, entities/anton-golub, sources/murphy-2006-order-flow-critique, sources/koukorinis-stylized-facts, concepts/stylized-facts]
+tags:
+- market-microstructure
+- liquidity
+- information-theory
+- high-frequency-trading
+- intrinsic-time
+- foreign-exchange
+related:
+- concepts/intrinsic-time
+- concepts/directional-change
+- concepts/market-liquidity
+- concepts/limit-order-book
+- entities/anton-golub
+- sources/murphy-2006-order-flow-critique
+- sources/koukorinis-stylized-facts
+- concepts/stylized-facts
 mind_map_priority: high
+schema_version: 2
+uuid: 900f970b-dd00-5198-b73d-d05dff36a656
+content_hash: sha256:131d71489f89da654e2e27b780087c86972f3c64fb97ed2b3deb98bc4fd191b5
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-scale Representation of High Frequency Market Liquidity
 
 **Authors:** Anton Golub, Gregor Chliamovitch, Alexandre Dupuis, Bastien Chopard
@@ -83,3 +105,5 @@ For Brownian motion price processes:
 - [[concepts/stylized-facts|Stylized Facts]]
 - [[sources/murphy-2006-order-flow-critique|Murphy & Izzeldin (2006) Transaction Clock Critique]]
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. (2022) Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

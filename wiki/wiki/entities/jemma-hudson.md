@@ -14,10 +14,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Jemma Hudson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 00428179-2bae-5720-9877-56a285bb4063
+content_hash: sha256:eb9601429b4c59f745b660ac303d7a3ff95b70104648ce3b1a3cde61fb8c3c87
 ---
 
+<!-- AUTHORED REGION START -->
 # Jemma Hudson
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hudson-2019-its-healthcare-reporting|Methodology and reporting characteristics of studies using interrupted time series design in healthcare]]
+<!-- AUTHORED REGION END -->

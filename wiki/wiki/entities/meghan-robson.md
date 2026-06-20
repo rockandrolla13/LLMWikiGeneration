@@ -15,10 +15,14 @@ sources:
 - sources/ms-2018-04-16-credit-bmi-update
 tags: []
 title: Meghan G. Robson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c82dfba0-203e-5e6b-a269-2d1f8ca21759
+content_hash: sha256:52a9028cd6a1b92015c1fe56b301d236be51391249af1c34d5edfc523aa9eae1
 ---
 
+<!-- AUTHORED REGION START -->
 # Meghan G. Robson
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2018-03-16-credit-bmi|Introducing the Credit Bond Market Indicator (credit-BMI)]]
 - [[sources/ms-2018-04-16-credit-bmi-update|US Corporate Credit Strategy: MS Credit-BMI Updated Reading]]
+<!-- AUTHORED REGION END -->

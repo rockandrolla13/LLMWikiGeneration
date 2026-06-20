@@ -53,9 +53,13 @@ tags:
 - trading-strategies
 - stochastic-processes
 title: Mean Reversion
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: d16f8e8a-9a2f-522d-ba1f-89a050862b70
+content_hash: sha256:e1480d9a2a11037810b90eafc426bbf3c04203541ac818f0f4e2255372d76839
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 Mean reversion is the statistical tendency of a time series to return to its long-run average level after deviations. A mean-reverting process exhibits negative autocorrelation of changes: large positive movements tend to be followed by negative movements, and vice versa.
@@ -228,3 +232,4 @@ Non-linear models can capture:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-02-03-self-catalysing-dollar-weakness]], [[sources/ms-2019-02-17-goldilocks-whiplash]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-03-03-an-easing-trio]], [[sources/ms-2020-03-19-volatility-peaks-before-markets-trough]], [[sources/ms-2020-04-01-what-do-recoveries-look-like]], [[sources/ms-2022-11-04-end-of-trends]]
+<!-- AUTHORED REGION END -->

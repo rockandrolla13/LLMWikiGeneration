@@ -15,10 +15,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Limits to Arbitrage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 57af9647-c416-560e-9d07-fb746bcf81bb
+content_hash: sha256:95b8b9fd47a62f2bac68664b202526cc2a4359a0a8165af514476d5a665585bc
 ---
 
+<!-- AUTHORED REGION START -->
 # Limits to Arbitrage
 
 ## Definition
@@ -33,3 +37,4 @@ Frictions - funding constraints, market illiquidity, idiosyncratic-risk exposure
 
 - [[concepts/liquidity-risk|liquidity-risk]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

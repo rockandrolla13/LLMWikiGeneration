@@ -31,10 +31,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Potential Outcomes and Counterfactual Causal Effects
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6bed43c2-91bb-561a-85e5-43e34c7bb7a4
+content_hash: sha256:6e32537e1620c6e1ba69cd32246176022cc813f6bdead680d73ed6610d1445f3
 ---
 
+<!-- AUTHORED REGION START -->
 # Potential Outcomes and Counterfactual Causal Effects
 
 ## Definition
@@ -56,3 +60,4 @@ Framework defining an individual's causal effect as a contrast between counterfa
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/cai-2023-testing-conditional-independence-time-series]], [[sources/gentzel-2021-osrct-evaluation]], [[sources/hill-2011-bart-causal-inference]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Nursilah Ahmad
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 164452b0-afcd-5ddd-b34f-e230cef2329c
+content_hash: sha256:dcfe53627e2bd1a858106deefa7733e879c8fc5df0a10fecbd86710b5f5fdfd7
 ---
 
+<!-- AUTHORED REGION START -->
 # Nursilah Ahmad
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/duasa-2010-predicting-crisis-recovery|Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis]]
+<!-- AUTHORED REGION END -->

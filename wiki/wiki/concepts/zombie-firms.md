@@ -13,10 +13,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Zombie Firms and Zombification
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: dcc54058-4e6d-56e9-a391-f152e688ca36
+content_hash: sha256:5398cc34399bb95044618f48a729a846a80364cae4c10842ce8c1a6435d07a39
 ---
 
+<!-- AUTHORED REGION START -->
 # Zombie Firms and Zombification
 
 ## Definition
@@ -26,3 +30,4 @@ Nonviable firms kept alive by ultralow rates, forbearance lending, and support; 
 ## Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

@@ -1,13 +1,26 @@
 ---
-title: "Market Microstructure Noise"
+title: Market Microstructure Noise
 page_id: concepts/market-microstructure-noise
 page_type: concept
-created: 2026-04-26T02:20:00Z
-updated: 2026-04-26T02:20:00Z
-tags: [market-microstructure, bid-ask-spread, TRACE, corporate-bonds, data-quality]
-related: [concepts/trace-data, concepts/look-ahead-bias, sources/dickerson-2024-bond-pitfalls, entities/alexander-dickerson]
+created: 2026-04-26 02:20:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-microstructure
+- bid-ask-spread
+- TRACE
+- corporate-bonds
+- data-quality
+related:
+- concepts/trace-data
+- concepts/look-ahead-bias
+- sources/dickerson-2024-bond-pitfalls
+- entities/alexander-dickerson
+schema_version: 2
+uuid: d928d80a-dbf5-59ff-a024-257fee054902
+content_hash: sha256:acff2b235cac04aa2e438806699f25aaf50c3fbbf13963e90a49dcd75bec7921
 ---
 
+<!-- AUTHORED REGION START -->
 # Market Microstructure Noise (MMN)
 
 ## Definition
@@ -71,3 +84,5 @@ Industry-grade dealer quote data (expensive) avoids transaction-based bias.
 
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
 - [[sources/fedenia-2021-ml-trade-classifier|Fedenia et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

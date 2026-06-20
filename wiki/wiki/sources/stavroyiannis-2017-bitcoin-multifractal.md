@@ -1,19 +1,41 @@
 ---
-title: "High Frequency Multifractal Properties of Bitcoin"
+title: High Frequency Multifractal Properties of Bitcoin
 page_id: sources/stavroyiannis-2017-bitcoin-multifractal
 page_type: source
 source_type: conference-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Stavros Stavroyiannis, Vassilios Babalos, Stelios Bekiros, Salim Lahmiri, Gazi Salah Uddin]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Stavros Stavroyiannis
+- Vassilios Babalos
+- Stelios Bekiros
+- Salim Lahmiri
+- Gazi Salah Uddin
 year: 2017
 venue: Econophysics Conference
-tags: [bitcoin, cryptocurrency, multifractal, mfdfa, wtmm, high-frequency, hurst-exponent, long-memory]
-related: [concepts/mfdfa, concepts/long-memory, concepts/stylized-facts, concepts/cryptocurrency, sources/koukorinis-stylized-facts]
+tags:
+- bitcoin
+- cryptocurrency
+- multifractal
+- mfdfa
+- wtmm
+- high-frequency
+- hurst-exponent
+- long-memory
+related:
+- concepts/mfdfa
+- concepts/long-memory
+- concepts/stylized-facts
+- concepts/cryptocurrency
+- sources/koukorinis-stylized-facts
 mind_map_priority: medium
+schema_version: 2
+uuid: 8c2b3732-1a7b-5803-9c96-1689555eb8c5
+content_hash: sha256:dc4dfecaeb6acfe34f42c6413e2db823d05f59eb5df7de2beda99dd28bc2d3c6
 ---
 
+<!-- AUTHORED REGION START -->
 # High Frequency Multifractal Properties of Bitcoin
 
 **Authors:** Stavros Stavroyiannis, Vassilios Babalos, Stelios Bekiros, Salim Lahmiri, Gazi Salah Uddin
@@ -132,3 +154,5 @@ Width Δα = α_max - α_min measures multifractal strength
 - [[concepts/stylized-facts|Stylized Facts]]
 - [[concepts/cryptocurrency|Cryptocurrency]]
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

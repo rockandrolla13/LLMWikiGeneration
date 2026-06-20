@@ -3,14 +3,28 @@ title: Distributional Conformal Prediction
 page_id: concepts/distributional-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, quantile-regression, conditional-validity, heteroskedasticity]
-sources: [sources/chernozhukov-2021-distributional-cp]
-related: [concepts/conformal-prediction, concepts/probability-integral-transform, concepts/conditional-validity, concepts/quantile-regression, concepts/prediction-intervals]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- quantile-regression
+- conditional-validity
+- heteroskedasticity
+sources:
+- sources/chernozhukov-2021-distributional-cp
+related:
+- concepts/conformal-prediction
+- concepts/probability-integral-transform
+- concepts/conditional-validity
+- concepts/quantile-regression
+- concepts/prediction-intervals
 mind_map_priority: high
+schema_version: 2
+uuid: 6026bfad-02fd-5bdd-836d-ad746afec5f2
+content_hash: sha256:f40d814ca9d84014acbd1b5207f55bbc08a59c80e2e277ab998722bb6700161c
 ---
 
+<!-- AUTHORED REGION START -->
 # Distributional Conformal Prediction
 
 **Distributional Conformal Prediction (DCP)** is a method for constructing prediction intervals that achieve approximate [[concepts/conditional-validity|conditional validity]]—that is, valid coverage conditional on the full vector of predictors—by exploiting the [[concepts/probability-integral-transform|probability integral transform]] and permuting estimated ranks.
@@ -82,3 +96,5 @@ When predicting stock returns given realized volatility:
 - [[concepts/probability-integral-transform|Probability Integral Transform]]
 - [[concepts/conditional-validity|Conditional Validity]]
 - [[sources/chernozhukov-2021-distributional-cp|Chernozhukov et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

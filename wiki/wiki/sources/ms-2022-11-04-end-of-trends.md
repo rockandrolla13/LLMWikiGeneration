@@ -40,10 +40,14 @@ source_type: article
 sources: []
 tags: []
 title: Global Macro Strategist | The End of Trends
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_971e640f8729
+schema_version: 2
+uuid: 6c33c6ca-0bc7-590b-9aab-f0479c3a6026
+content_hash: sha256:c8e660d639c9751c15cb492fa67e0bf11aee25a16e2be4d94ba3fae1ac7523c6
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Macro Strategist | The End of Trends
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Andrew M Watrous, Efrain A Tejeda, Francesco Grechi, Martin W Tobias, James K Lord, David S. Adams, Eric S Oynoyan, Theologis Chapsalis, Wanting Low, Lorenzo Testa, John Kalamaras, Marie-Anais C Francois, Koichi Sugisaki · **Year:** 2022 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -78,3 +82,4 @@ A global macro strategy note arguing that the dominant 2022 market trends are en
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Macro Strategist — The End of Trends - 2022-11-04.md`
 - **Type:** article
 - **Hash:** `sha256:056723b026813a479...`
+<!-- AUTHORED REGION END -->

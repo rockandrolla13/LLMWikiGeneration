@@ -15,10 +15,14 @@ sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []
 title: Cluster Analysis and Association Rules
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c35cbd46-1716-5ff4-86d3-263401292de7
+content_hash: sha256:cc1f3db4e7289780d0ac6a019462dc272f2a1ca35b44591d92c0a315cc496244
 ---
 
+<!-- AUTHORED REGION START -->
 # Cluster Analysis and Association Rules
 
 ## Definition
@@ -33,3 +37,4 @@ Unsupervised techniques: clustering groups units by similarity without labels; a
 
 - [[concepts/association-rule-learning|association-rule-learning]]
 - [[concepts/hierarchical-clustering|hierarchical-clustering]]
+<!-- AUTHORED REGION END -->

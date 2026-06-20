@@ -33,10 +33,14 @@ tags:
 - chaos-theory
 - feedback-loops
 title: 'Thinking in Systems and Mental Models: Think Like a Super Thinker'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_65673c42dc71
+schema_version: 2
+uuid: 28965279-b4ea-56aa-9a1c-6fa97a966b95
+content_hash: sha256:e538809b1d2c058a63f62a06461f35cee848af54c298f0d6f6c5806af0d63757
 ---
 
+<!-- AUTHORED REGION START -->
 # Thinking in Systems and Mental Models: Think Like a Super Thinker
 
 **Authors:** Marcus P. Dawson · **Year:** 2020 · **Type:** book
@@ -79,3 +83,4 @@ A popular two-part primer pairing systems thinking (Part 1) with a catalogue of 
 - **Path:** `raw/creditmacro/Thinking in Systems and Mental Models Think Like a Super Thinker. Primer to Learn the Art of Making a Great Decision and… (Marcus P. Dawson) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:1e3ba0b687f3d4881...`
+<!-- AUTHORED REGION END -->

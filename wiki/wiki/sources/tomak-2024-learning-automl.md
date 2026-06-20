@@ -1,20 +1,46 @@
 ---
-title: "Learning AutoML"
+title: Learning AutoML
 page_id: sources/tomak-2024-learning-automl
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_3_2026_06_19
-tags: [automl, machine-learning, autogluon, mlops, hyperparameter-optimisation, neural-architecture-search, tabular-data, nlp, time-series, computer-vision, production-ml, fairness, explainability, healthcare-ai, fraud-detection, demand-forecasting, oreilly, python, citizen-data-science, analytical-ai]
-sources: [sources/tomak-2024-learning-automl]
+tags:
+- automl
+- machine-learning
+- autogluon
+- mlops
+- hyperparameter-optimisation
+- neural-architecture-search
+- tabular-data
+- nlp
+- time-series
+- computer-vision
+- production-ml
+- fairness
+- explainability
+- healthcare-ai
+- fraud-detection
+- demand-forecasting
+- oreilly
+- python
+- citizen-data-science
+- analytical-ai
+sources:
+- sources/tomak-2024-learning-automl
 related: []
 mind_map_priority: high
-authors: ["Kerem Tomak"]
+authors:
+- Kerem Tomak
 year: 2024
 source_type: book
+schema_version: 2
+uuid: fb1e393d-08ec-5354-8135-737086f70910
+content_hash: sha256:ac1877f20f319a29355b107b897b22bf700aa51b7dbddae9b584a6f3b2ace0f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Learning AutoML
 
 **Authors:** Kerem Tomak  
@@ -89,3 +115,5 @@ Learning AutoML by Kerem Tomak (published April 2026 by O'Reilly Media, ISBN 979
 - What are the latency and throughput numbers achieved in the GlobalBank fraud-detection case study, and which AutoML configuration delivered them?
 - How does the book address the reproducibility of AutoML pipelines across different infrastructure environments?
 - At what point does the book recommend professional data scientists over citizen developers, and what criteria are used?
+
+<!-- AUTHORED REGION END -->

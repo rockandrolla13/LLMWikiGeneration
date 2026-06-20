@@ -3,14 +3,31 @@ title: Marginal Coverage
 page_id: concepts/marginal-coverage
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, coverage, validity, uncertainty-quantification]
-sources: [sources/angelopoulos-2022-gentle-intro, sources/xu-2023-enbpi, sources/stocker-2025-conformal-timeseries-intro, sources/zaffran-2022-aci]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/conditional-coverage, concepts/split-conformal-prediction, concepts/exchangeability]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- coverage
+- validity
+- uncertainty-quantification
+sources:
+- sources/angelopoulos-2022-gentle-intro
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/zaffran-2022-aci
+related:
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/conditional-coverage
+- concepts/split-conformal-prediction
+- concepts/exchangeability
 mind_map_priority: high
+schema_version: 2
+uuid: 1dc1d1cb-f3ce-53e1-bdf5-8b8ebf1e0aff
+content_hash: sha256:d74c2977f704984696fd92c1bfadd2b5bfb8666e8ef0a012c75f5d5b1e5cbd97
 ---
 
+<!-- AUTHORED REGION START -->
 # Marginal Coverage
 
 **Marginal coverage** is the basic validity property of [[concepts/conformal-prediction|conformal prediction]]:
@@ -50,3 +67,5 @@ The `+1` in `(n+1)` is the finite-sample adjustment that makes the inequality ho
 - [[concepts/coverage-guarantee]]
 - [[concepts/conditional-coverage]]
 - [[concepts/worst-case-coverage]]
+
+<!-- AUTHORED REGION END -->

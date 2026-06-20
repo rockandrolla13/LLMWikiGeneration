@@ -14,10 +14,14 @@ sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies
 tags: []
 title: Robert Pardo
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3bd2934c-758b-507b-9874-65a5277fbff3
+content_hash: sha256:be37b64c5ea64906e135db6a837e754ac2f6711b31b5ef99e50926af891f2140
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert Pardo
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/pardo-2008-evaluation-optimization-trading-strategies|The Evaluation and Optimization of Trading Strategies]]
+<!-- AUTHORED REGION END -->

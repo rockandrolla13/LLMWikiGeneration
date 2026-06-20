@@ -1,18 +1,33 @@
 ---
-title: "Generalizing Graph Laplacian Learning (Shi 2024)"
+title: Generalizing Graph Laplacian Learning (Shi 2024)
 page_id: sources/shi-2024-graph-laplacian-learning
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [graph-learning, graph-laplacian, graph-signal-processing, exponential-family, product-graphs]
-authors: [Changhao Shi]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-learning
+- graph-laplacian
+- graph-signal-processing
+- exponential-family
+- product-graphs
+authors:
+- Changhao Shi
 year: 2024
 institution: UC San Diego
 degree: PhD
 supervisor: Gal Mishne
-related: [concepts/graph-laplacian, concepts/graph-signal-processing, concepts/graph-fourier-transform, entities/changhao-shi, entities/gal-mishne]
+related:
+- concepts/graph-laplacian
+- concepts/graph-signal-processing
+- concepts/graph-fourier-transform
+- entities/changhao-shi
+- entities/gal-mishne
+schema_version: 2
+uuid: 504b49e1-a2e3-506a-bfe5-688ba77f1f71
+content_hash: sha256:2ba71db3a9458f4180c7b6064e6dd4e96065a18d70a54de295490f19970ae971
 ---
 
+<!-- AUTHORED REGION START -->
 # Generalizing Graph Laplacian Learning: A Graph Signal Processing Perspective
 
 **Author:** [[entities/changhao-shi|Changhao Shi]]
@@ -90,3 +105,5 @@ $$\mathbf{L} = \mathbf{L}_1 \otimes \mathbf{L}_2$$
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/graph-fourier-transform|Graph Fourier Transform]]
+
+<!-- AUTHORED REGION END -->

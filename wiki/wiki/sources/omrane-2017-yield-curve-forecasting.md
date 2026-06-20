@@ -1,15 +1,34 @@
 ---
-title: "Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach"
+title: 'Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach'
 page_id: sources/omrane-2017-yield-curve-forecasting
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [yield-curve, kalman-filter, nelson-siegel, dynamic-factor-model, bond-pricing, forecasting]
-authors: [Walid Ben Omrane, Chao He, Zhongzhi Lawrence He, Samir Trabelsi]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- yield-curve
+- kalman-filter
+- nelson-siegel
+- dynamic-factor-model
+- bond-pricing
+- forecasting
+authors:
+- Walid Ben Omrane
+- Chao He
+- Zhongzhi Lawrence He
+- Samir Trabelsi
 year: 2017
-related: [concepts/kalman-filter, concepts/nelson-siegel-model, concepts/yield-curve, concepts/state-space-models, concepts/dynamic-factor-model]
+related:
+- concepts/kalman-filter
+- concepts/nelson-siegel-model
+- concepts/yield-curve
+- concepts/state-space-models
+- concepts/dynamic-factor-model
+schema_version: 2
+uuid: aeb5e440-9855-5597-8429-aaed943e62c0
+content_hash: sha256:f581062da7a4c21cd10c1ba50e28f4bff2766fe29937bc068eaab9087603294c
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper develops a unified dynamic factor approach based on the Diebold-Li (2006) and Nelson-Siegel (1987) three-factor model to forecast yield curve movements. The key innovation is treating the decay parameter lambda as a free parameter estimated from data, rather than fixing it as in prior literature.
@@ -89,3 +108,5 @@ Lambda(lambda) contains the Nelson-Siegel factor loadings.
 ## Citations
 
 Ben Omrane, W., He, C., He, Z. L., & Trabelsi, S. (2017). Forecasting the yield curve of bonds: A government dynamic factor approach. Managerial Finance, 43(7), 774-793.
+
+<!-- AUTHORED REGION END -->

@@ -34,10 +34,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Corporate Credit Strategy Brief: Selling the Rally'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_656854f2baa7
+schema_version: 2
+uuid: 8b6c8ea6-9655-5e1f-be91-bb4b5baad2e2
+content_hash: sha256:b9988bb9da60ba0dbb36d8a39d35b9141d5284739fd1bdd654e3457fc26f4b51
 ---
 
+<!-- AUTHORED REGION START -->
 # US Corporate Credit Strategy Brief: Selling the Rally
 
 **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Jingli Li, Aleksandr Nozhnitskiy · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -75,3 +79,4 @@ Having turned tactically constructive on US credit in early January, the team ex
 - **Path:** `raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy Brief — Selling the Rally - 2019-02-28.md`
 - **Type:** article
 - **Hash:** `sha256:c732d7f9f49c80f35...`
+<!-- AUTHORED REGION END -->

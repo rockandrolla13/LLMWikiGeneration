@@ -1,33 +1,45 @@
 ---
-title: "Conformal Prediction with Conditional Guarantees"
+title: Conformal Prediction with Conditional Guarantees
 page_id: sources/gibbs-2023-conditional-guarantees
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Isaac Gibbs", "John J. Cherian", "Emmanuel J. Candès"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Isaac Gibbs
+- John J. Cherian
+- Emmanuel J. Candès
 year: 2023
-venue: "arXiv:2305.12616"
-tags: [conformal-prediction, conditional-coverage, covariate-shift, distribution-free, group-conditional, rkhs]
-related: [
-  concepts/conditional-coverage,
-  concepts/conformal-prediction,
-  concepts/mondrian-conformal-prediction,
-  concepts/group-balanced-conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/quantile-regression,
-  entities/isaac-gibbs,
-  entities/john-cherian,
-  entities/emmanuel-candes,
-  sources/gibbs-2021-aci,
-  sources/gibbs-2024-online-aci,
-  sources/tibshirani-2019-covariate-shift,
-  sources/barber-2023-beyond-exchangeability
-]
+venue: arXiv:2305.12616
+tags:
+- conformal-prediction
+- conditional-coverage
+- covariate-shift
+- distribution-free
+- group-conditional
+- rkhs
+related:
+- concepts/conditional-coverage
+- concepts/conformal-prediction
+- concepts/mondrian-conformal-prediction
+- concepts/group-balanced-conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/quantile-regression
+- entities/isaac-gibbs
+- entities/john-cherian
+- entities/emmanuel-candes
+- sources/gibbs-2021-aci
+- sources/gibbs-2024-online-aci
+- sources/tibshirani-2019-covariate-shift
+- sources/barber-2023-beyond-exchangeability
 mind_map_priority: high
+schema_version: 2
+uuid: 0ec018a1-cfb5-593c-be10-72991107622f
+content_hash: sha256:942cc98f44d6592d5ddfcde4dc88010884e42a0ca3612d7f8df2646bcb00f8ed
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction with Conditional Guarantees
 
 **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/john-cherian|John J. Cherian]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
@@ -69,3 +81,5 @@ This is the most direct response to the Lei-Wasserman 2014 / Barber et al. 2021 
 - [[concepts/conditional-coverage]]
 - [[concepts/mondrian-conformal-prediction]]
 - [[entities/john-cherian]]
+
+<!-- AUTHORED REGION END -->

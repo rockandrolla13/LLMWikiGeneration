@@ -15,10 +15,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: Project Finance Data Center Bonds
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: dfe621e5-5037-5673-845f-d018a1ee34e3
+content_hash: sha256:1483c5dad8bae454a38a13de2ecf8f67205e4752e67b60636184e055d29a3bab
 ---
 
+<!-- AUTHORED REGION START -->
 # Project Finance Data Center Bonds
 
 ## Definition
@@ -33,3 +37,4 @@ Bonds issued at the data-center project level backed by single- or multi-tenant 
 
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-curve|credit-spread-curve]]
+<!-- AUTHORED REGION END -->

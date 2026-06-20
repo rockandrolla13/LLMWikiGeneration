@@ -31,10 +31,14 @@ sources:
 - sources/ms-2020-04-01-in-the-flow-q1-recap
 tags: []
 title: Wanting Low
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a3940fda-35ae-59b5-8d91-099f306d82b8
+content_hash: sha256:5eb8a9aec1ad589a1ed405b859eb668d09443416515ce012f1ceaa2256aecad2
 ---
 
+<!-- AUTHORED REGION START -->
 # Wanting Low
 
 ## Overview
@@ -61,3 +65,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2020-03-20-risk-parity-deleveraging|Cross-Asset Brief: Risk Parity — Worst Behind Us]]
 - [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy|Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
+<!-- AUTHORED REGION END -->

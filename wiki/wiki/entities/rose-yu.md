@@ -4,16 +4,28 @@ page_id: entities/rose-yu
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [professor, deep-learning, spatiotemporal, time-series, ucsd]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- professor
+- deep-learning
+- spatiotemporal
+- time-series
+- ucsd
 affiliation: University of California, San Diego
 email: roseyu@ucsd.edu
 lab: Spatiotemporal Learning (STL) Lab
-related: [entities/sophia-sun, concepts/conformal-prediction, concepts/copulas]
+related:
+- entities/sophia-sun
+- concepts/conformal-prediction
+- concepts/copulas
 mind_map_priority: medium
+schema_version: 2
+uuid: 6675e0df-867f-58e6-81f0-f46cf2a6608f
+content_hash: sha256:1d93417d46214c90ba1de509b7dbfce7013adac3d852512022513eb42c27b85f
 ---
 
+<!-- AUTHORED REGION START -->
 # Rose Yu
 
 **Rose Yu** is a faculty member at the University of California, San Diego, where she leads the **Spatiotemporal Learning (STL) Lab**. Her research focuses on machine learning for spatiotemporal data, with applications in transportation, climate science, and healthcare.
@@ -71,3 +83,5 @@ Her lab's work addresses critical applications:
 - [[concepts/uncertainty-quantification|Uncertainty Quantification]]
 - [[concepts/multi-step-conformal-prediction|Multi-step Conformal Prediction]]
 - [[concepts/calibration|Calibration]]
+
+<!-- AUTHORED REGION END -->

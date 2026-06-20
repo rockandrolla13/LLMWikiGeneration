@@ -32,10 +32,14 @@ tags:
 - determinism
 - probabilistic-causality
 title: Causality and Explanation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_1ee15510fea6
+schema_version: 2
+uuid: 4d9f0c1a-aef7-55ca-ae41-e1fa709dec1a
+content_hash: sha256:91433e09391c08bb45e69fa5fb35992caee12a226f980d108a05aaccb97f9de3
 ---
 
+<!-- AUTHORED REGION START -->
 # Causality and Explanation
 
 **Authors:** Wesley C. Salmon · **Year:** 1998 · **Venue:** Oxford University Press · **Type:** book
@@ -79,3 +83,4 @@ A collection of 26 essays by Wesley C. Salmon gathering three decades of his wor
 - **Path:** `raw/creditmacro/Causality and Explanation (Wesley C. Salmon) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:4d0cfc3e2a48449ed...`
+<!-- AUTHORED REGION END -->

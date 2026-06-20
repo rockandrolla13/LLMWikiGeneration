@@ -1,38 +1,51 @@
 ---
-title: "Algorithmic Learning in a Random World"
+title: Algorithmic Learning in a Random World
 page_id: sources/vovk-2005-algorithmic-learning
 page_type: source
 source_type: book
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-authors: ["Vladimir Vovk", "Alexander Gammerman", "Glenn Shafer"]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Vladimir Vovk
+- Alexander Gammerman
+- Glenn Shafer
 year: 2005
-venue: "Springer (1st ed. 2005; substantially revised 2nd ed. 2022)"
-tags: [conformal-prediction, foundational, textbook, exchangeability, on-line-learning, venn-predictors, on-line-compression-models]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/nonconformity-score,
-  concepts/exchangeability,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  concepts/full-conformal-prediction,
-  concepts/mondrian-conformal-prediction,
-  concepts/venn-predictors,
-  concepts/on-line-compression-models,
-  concepts/cross-conformal-prediction,
-  entities/vladimir-vovk,
-  entities/alexander-gammerman,
-  entities/glenn-shafer,
-  sources/shafer-2007-cp-tutorial,
-  sources/vovk-2012-cross-conformal,
-  sources/fontana-2023-cp-unified-review,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: Springer (1st ed. 2005; substantially revised 2nd ed. 2022)
+tags:
+- conformal-prediction
+- foundational
+- textbook
+- exchangeability
+- on-line-learning
+- venn-predictors
+- on-line-compression-models
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/nonconformity-score
+- concepts/exchangeability
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- concepts/full-conformal-prediction
+- concepts/mondrian-conformal-prediction
+- concepts/venn-predictors
+- concepts/on-line-compression-models
+- concepts/cross-conformal-prediction
+- entities/vladimir-vovk
+- entities/alexander-gammerman
+- entities/glenn-shafer
+- sources/shafer-2007-cp-tutorial
+- sources/vovk-2012-cross-conformal
+- sources/fontana-2023-cp-unified-review
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: high
+schema_version: 2
+uuid: df137b6f-155d-5d53-ae28-932aa7300f4d
+content_hash: sha256:06b1e66293b0fe2171baa8b36a4657f8deaa7eea2dabefee3fd79ac2ebd4e875
 ---
 
+<!-- AUTHORED REGION START -->
 # Algorithmic Learning in a Random World
 
 **Authors:** [[entities/vladimir-vovk|Vladimir Vovk]], [[entities/alexander-gammerman|Alexander Gammerman]], [[entities/glenn-shafer|Glenn Shafer]]
@@ -90,3 +103,5 @@ A second edition (Springer, 2022) updates the development with material from the
 - [[concepts/venn-predictors]]
 - [[concepts/on-line-compression-models]]
 - [[entities/vladimir-vovk]], [[entities/alexander-gammerman]], [[entities/glenn-shafer]]
+
+<!-- AUTHORED REGION END -->

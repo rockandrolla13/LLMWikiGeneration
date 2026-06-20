@@ -19,9 +19,13 @@ tags:
 - sampling
 - latent-variable-models
 title: MCMC Bayesian Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 7f292049-c162-5bf3-acea-61d9a552886b
+content_hash: sha256:cce0fed91fbf3fde76088d873cc593dce9868a3eff08040a34176441be68bb88
 ---
 
+<!-- AUTHORED REGION START -->
 # MCMC Bayesian Inference
 
 **MCMC Bayesian Inference** uses Markov chain Monte Carlo sampling (e.g., Metropolis-Hastings, Gibbs) for posterior inference in nonlinear state-space models with latent jumps and volatilities.
@@ -42,3 +46,4 @@ Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]
 
 - [[concepts/bayesian-additive-regression-trees|bayesian-additive-regression-trees]]
 - [[concepts/bayesian-nonparametrics|bayesian-nonparametrics]]
+<!-- AUTHORED REGION END -->

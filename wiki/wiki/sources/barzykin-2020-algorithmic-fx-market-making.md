@@ -1,15 +1,36 @@
 ---
-title: "Algorithmic market making in foreign exchange cash markets"
+title: Algorithmic market making in foreign exchange cash markets
 page_id: sources/barzykin-2020-algorithmic-fx-market-making
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, fx, foreign-exchange, internalization, externalization, viscosity-solutions, stochastic-control]
-authors: [Alexander Barzykin, Philippe Bergault, Olivier Guéant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- fx
+- foreign-exchange
+- internalization
+- externalization
+- viscosity-solutions
+- stochastic-control
+authors:
+- Alexander Barzykin
+- Philippe Bergault
+- Olivier Guéant
 year: 2020
-related: [concepts/market-making, concepts/internalization-externalization, concepts/inventory-risk, concepts/avellaneda-stoikov-model, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin]
+related:
+- concepts/market-making
+- concepts/internalization-externalization
+- concepts/inventory-risk
+- concepts/avellaneda-stoikov-model
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+schema_version: 2
+uuid: b104d529-940b-54eb-85ad-c4db78a226af
+content_hash: sha256:af740e27f7664c6484e40ba1ff0bdb5bf9855ef70d77db8bc4ed7550f906caef
 ---
 
+<!-- AUTHORED REGION START -->
 # Algorithmic market making in foreign exchange cash markets
 
 ## Summary
@@ -67,3 +88,5 @@ Using realistic parameters for USDCNH:
 ## Citation
 
 Barzykin, A., Bergault, P., & Guéant, O. (2020). Algorithmic market making in foreign exchange cash markets: a new model for active market makers.
+
+<!-- AUTHORED REGION END -->

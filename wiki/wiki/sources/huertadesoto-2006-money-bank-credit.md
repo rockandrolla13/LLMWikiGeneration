@@ -35,10 +35,14 @@ tags:
 - fractional-reserve
 - capital-theory
 title: Money, Bank Credit, and Economic Cycles
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_68333b9ca48e
+schema_version: 2
+uuid: befad390-c760-562e-83cf-5cd8eb643a06
+content_hash: sha256:63d65a01cb51c775c724b94b3d9f1b5faac8148d41bf9b13323dc67fe3de1dad
 ---
 
+<!-- AUTHORED REGION START -->
 # Money, Bank Credit, and Economic Cycles
 
 **Authors:** Jesús Huerta de Soto · **Year:** 2006 · **Venue:** Ludwig von Mises Institute · **Type:** book
@@ -84,3 +88,4 @@ A comprehensive Austrian-school treatise arguing that fractional-reserve banking
 - **Path:** `raw/creditmacro/Money, Bank Credit, and Economic Cycles (Jesús Huerta de Soto) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:506b54335b76c4efa...`
+<!-- AUTHORED REGION END -->

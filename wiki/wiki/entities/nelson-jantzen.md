@@ -14,10 +14,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: Nelson Jantzen
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9812b7fe-e2f1-5804-9460-04084c8fc1e2
+content_hash: sha256:931723aaaf5d343983c1c335722f8c32f7620ccac002151da6e100ee2e787a2d
 ---
 
+<!-- AUTHORED REGION START -->
 # Nelson Jantzen
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+<!-- AUTHORED REGION END -->

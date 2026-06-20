@@ -14,10 +14,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Daniel Kahneman
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ddc8df3c-ed42-587a-9810-0c1ed21cdaf4
+content_hash: sha256:192c51744df1a646c45032ee0f98c0cca5ab00d030ec75cec42ec6038de0ce8d
 ---
 
+<!-- AUTHORED REGION START -->
 # Daniel Kahneman
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/carver-2015-systematic-trading|Systematic Trading: A unique new method for designing trading and investing systems]]
+<!-- AUTHORED REGION END -->

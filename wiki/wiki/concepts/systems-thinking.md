@@ -17,10 +17,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Systems Thinking
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 01617fd3-b486-5f3b-8ffe-23aa01c9ae90
+content_hash: sha256:90c1832623941659725a5b8209e15b5cf8913f2210763b6bf6eca87500dd9851
 ---
 
+<!-- AUTHORED REGION START -->
 # Systems Thinking
 
 ## Definition
@@ -37,3 +41,4 @@ A way of seeing the world as interconnected wholes - elements, interconnections,
 - [[concepts/agent-based-models|agent-based-models]]
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/chaos-theory|chaos-theory]]
+<!-- AUTHORED REGION END -->

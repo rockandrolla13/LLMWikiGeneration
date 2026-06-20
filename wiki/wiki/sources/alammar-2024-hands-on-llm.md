@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Jay Alammar
@@ -43,8 +43,12 @@ related:
 - entities/nils-reimers
 mind_map_priority: medium
 revision_hash: sha256:582343ec71d7c232
+schema_version: 2
+uuid: 8c362acb-aa40-58e8-bc08-af2ce6d1bb28
+content_hash: sha256:dbfdca51a1aefbc25b88afb24c53a77883836841c16dfee70a36688cd3e3ddc0
 ---
 
+<!-- AUTHORED REGION START -->
 # Hands-On Large Language Models
 *Language Understanding and Generation*
 
@@ -114,3 +118,5 @@ Python-fluent ML practitioners and data scientists who want a visual, code-along
 - [[entities/nils-reimers|Nils Reimers]]
 - [[entities/ashish-vaswani|Ashish Vaswani]]
 - [[entities/bertopic|BERTopic]]
+
+<!-- AUTHORED REGION END -->

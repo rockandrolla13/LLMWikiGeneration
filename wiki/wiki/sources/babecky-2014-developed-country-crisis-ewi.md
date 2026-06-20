@@ -42,10 +42,14 @@ tags:
 - credit-to-gdp-gap
 title: 'Banking, debt, and currency crises in developed countries: Stylized facts
   and early warning indicators'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_4b956bf11812
+schema_version: 2
+uuid: 38a34af5-5d9e-50aa-91bb-966791582db4
+content_hash: sha256:747db622f510fe3ccd3f8e5c5a28637187be4df69a644ed1222222bd940b147a
 ---
 
+<!-- AUTHORED REGION START -->
 # Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators
 
 **Authors:** Jan Babecky, Tomas Havranek, Jakub Mateju, Marek Rusnak, Katerina Smidkova, Borek Vasicek · **Year:** 2014 · **Venue:** Journal of Financial Stability · **Type:** paper
@@ -92,3 +96,4 @@ This paper constructs a new quarterly dataset of banking, debt, and currency cri
 - **Path:** `raw/creditmacro/1-s2.0-S1572308914000606-main.md`
 - **Type:** paper
 - **Hash:** `sha256:0cd7ccd2f381d4f61...`
+<!-- AUTHORED REGION END -->

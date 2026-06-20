@@ -15,10 +15,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: David Hume
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2a5ff5e2-dc27-5da4-be03-1e7d4a81d58c
+content_hash: sha256:f45339ab9d39e3e77fe55f096b23174abebaf4117d60ca818e2a5ba0f22ff722
 ---
 
+<!-- AUTHORED REGION START -->
 # David Hume
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/pearl-2018-book-of-why|The Book of Why: The New Science of Cause and Effect]]
 - [[sources/salmon-1998-causality-and-explanation|Causality and Explanation]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: Fast Mean Reversion
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4e615088-29b6-5c8d-8512-d8f258ea42e9
+content_hash: sha256:fab47a698d63fda60f4d1d4ed376e1d5fb3c1e7f44c4002ed619a54487a313e7
 ---
 
+<!-- AUTHORED REGION START -->
 # Fast Mean Reversion
 
 ## Definition
@@ -33,3 +37,4 @@ Short-holding-period directional strategies betting on prices reverting toward a
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

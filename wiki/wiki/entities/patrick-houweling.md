@@ -1,16 +1,28 @@
 ---
-title: "Patrick Houweling"
+title: Patrick Houweling
 page_id: entities/patrick-houweling
 page_type: entity
 entity_type: person
-created: 2026-04-26T02:15:00Z
-updated: 2026-04-26T02:15:00Z
-tags: [researcher, Robeco, corporate-bonds, factor-investing, quantitative-finance]
+created: 2026-04-26 02:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- Robeco
+- corporate-bonds
+- factor-investing
+- quantitative-finance
 affiliation: Robeco Investment Research
 location: Rotterdam, Netherlands
-related: [entities/jeroen-van-zundert, sources/houweling-2017-factor-investing, sources/haesen-2017-momentum-spillover]
+related:
+- entities/jeroen-van-zundert
+- sources/houweling-2017-factor-investing
+- sources/haesen-2017-momentum-spillover
+schema_version: 2
+uuid: 6cfddbd8-3429-502a-8949-b545d1316b3d
+content_hash: sha256:ba628399b7acb0faee63efb534e1f08b2aa2a4fecbdcf85359a9c4dbd6d63dcb
 ---
 
+<!-- AUTHORED REGION START -->
 # Patrick Houweling
 
 ## Overview
@@ -52,3 +64,5 @@ Documented and improved momentum spillover from equities to corporate bonds, sho
 - [[concepts/factor-investing|Factor Investing]]
 - [[concepts/bond-momentum|Bond Momentum]]
 - [[concepts/spillover-effect|Spillover Effect]]
+
+<!-- AUTHORED REGION END -->

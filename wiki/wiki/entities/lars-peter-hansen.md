@@ -14,10 +14,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Lars Peter Hansen
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ffff50f8-f1b2-5151-98a9-e63d84ceb42c
+content_hash: sha256:07670df6fb3376018f77a76678d00c799db0a8790dbf29fd36ab2eb96390fe0f
 ---
 
+<!-- AUTHORED REGION START -->
 # Lars Peter Hansen
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

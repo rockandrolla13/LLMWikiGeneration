@@ -1,14 +1,30 @@
 ---
-title: "RFQ Markets"
+title: RFQ Markets
 page_id: concepts/rfq-markets
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-structure, fixed-income, fx, trading, dealer-markets]
-sources: [sources/bergault-2023-rfq-pricing, sources/fermanian-2017-md2c-corporate-bonds, sources/gueant-2019-particle-filtering-bonds]
-related: [concepts/market-making, concepts/adverse-selection, entities/olivier-gueant, entities/philippe-bergault]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-structure
+- fixed-income
+- fx
+- trading
+- dealer-markets
+sources:
+- sources/bergault-2023-rfq-pricing
+- sources/fermanian-2017-md2c-corporate-bonds
+- sources/gueant-2019-particle-filtering-bonds
+related:
+- concepts/market-making
+- concepts/adverse-selection
+- entities/olivier-gueant
+- entities/philippe-bergault
+schema_version: 2
+uuid: 53508e24-2c71-51ca-b8fc-a49711788d72
+content_hash: sha256:7dc9ee06e21e438c808e7cd8cfbdc95342d5c102363d4165439d84400853d8be
 ---
 
+<!-- AUTHORED REGION START -->
 # RFQ Markets
 
 ## Overview
@@ -154,3 +170,5 @@ A critical challenge in RFQ markets: determining fair value when no continuous p
 - [[entities/olivier-gueant|Olivier Guéant]]
 - [[sources/bergault-2023-rfq-pricing|Bergault et al. (2023)]]
 - [[sources/fermanian-2017-md2c-corporate-bonds|Fermanian et al. (2017)]]
+
+<!-- AUTHORED REGION END -->

@@ -14,9 +14,13 @@ tags:
 - sdf
 - machine-learning
 title: No-Arbitrage Restrictions
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 342d92eb-ee02-5664-8734-929c6d9ddca1
+content_hash: sha256:3f3c0c8027c5de1f661f749802406b68e954e2ac7a522a255b2c23351597b126
 ---
 
+<!-- AUTHORED REGION START -->
 # No-Arbitrage Restrictions
 
 **No-Arbitrage Restrictions** are economic constraints imposed on asset-pricing models (e.g., SDF or factor-pricing form) to rule out arbitrage; used in ML to regularize and interpret deep predictors of returns.
@@ -33,3 +37,4 @@ updated: '2026-06-09T12:00:00Z'
 
 - [[concepts/compound-option-model|compound-option-model]]
 - [[concepts/merton-model|merton-model]]
+<!-- AUTHORED REGION END -->

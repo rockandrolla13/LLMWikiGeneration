@@ -3,14 +3,28 @@ title: Generalized Pareto Distribution
 page_id: concepts/generalized-pareto-distribution
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [statistics, extreme-value-theory, probability-distribution, heavy-tails, risk-management]
-sources: [sources/pasche-2025-extreme-conformal]
-related: [concepts/extreme-value-theory, concepts/conformal-prediction, concepts/coverage-guarantee, concepts/prediction-intervals]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistics
+- extreme-value-theory
+- probability-distribution
+- heavy-tails
+- risk-management
+sources:
+- sources/pasche-2025-extreme-conformal
+related:
+- concepts/extreme-value-theory
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/prediction-intervals
 mind_map_priority: medium
+schema_version: 2
+uuid: 948f413d-0df5-5091-a0f0-9fe6d43f4b95
+content_hash: sha256:b49f2ad561c48fad7aaac0b4722f0b9cccccc814fbece6f8c0ef0f9197f0ec39
 ---
 
+<!-- AUTHORED REGION START -->
 # Generalized Pareto Distribution
 
 The **Generalized Pareto Distribution (GPD)** is a fundamental distribution in [[concepts/extreme-value-theory|extreme value theory]] for modeling threshold exceedances. It provides the theoretical basis for extrapolating quantiles beyond the observed data range in applications such as extreme [[concepts/conformal-prediction|conformal prediction]].
@@ -136,3 +150,5 @@ R packages for GPD analysis:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Michael Tooley
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ae2555ff-046b-5278-8ae2-ccfdef43a142
+content_hash: sha256:c5d69407e75f6290ca991e49308f22740cfcc441c91ec23ab409a30e6d592296
 ---
 
+<!-- AUTHORED REGION START -->
 # Michael Tooley
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+<!-- AUTHORED REGION END -->

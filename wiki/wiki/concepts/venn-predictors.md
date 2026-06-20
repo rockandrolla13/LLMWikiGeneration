@@ -3,14 +3,28 @@ title: Venn Predictors
 page_id: concepts/venn-predictors
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, probability-prediction, calibration, vovk]
-sources: [sources/vovk-2005-algorithmic-learning, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/calibration, concepts/conformal-predictive-distribution, concepts/uncertainty-quantification]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- probability-prediction
+- calibration
+- vovk
+sources:
+- sources/vovk-2005-algorithmic-learning
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/calibration
+- concepts/conformal-predictive-distribution
+- concepts/uncertainty-quantification
 mind_map_priority: medium
+schema_version: 2
+uuid: 4526c4bc-60b4-5bca-ad74-c30b6ab93afc
+content_hash: sha256:ea903ca58eb4a2617286be88dd65ce7ed6ca3e0b419d4a1c8e15b31ab4649b61
 ---
 
+<!-- AUTHORED REGION START -->
 # Venn Predictors
 
 **Venn predictors** (Vovk, Shafer, Nouretdinov, 2004; book chapters 6 and 9 of [[sources/vovk-2005-algorithmic-learning|Vovk-Gammerman-Shafer 2005]]) are a distribution-free family of *probabilistic* predictors. Rather than producing prediction sets, they output **multi-probability forecasts** with finite-sample calibration guarantees under [[concepts/exchangeability|exchangeability]].
@@ -48,3 +62,5 @@ A widely-deployed binary-classification specialisation (Vovk & Petej, 2012). Pro
 - [[concepts/conformal-predictive-distribution]]
 - [[concepts/calibration]]
 - [[concepts/mondrian-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

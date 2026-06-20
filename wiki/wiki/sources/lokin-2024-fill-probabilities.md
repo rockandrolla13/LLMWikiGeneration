@@ -1,15 +1,32 @@
 ---
-title: "Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows"
+title: Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order
+  Flows
 page_id: sources/lokin-2024-fill-probabilities
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [limit-order-book, fill-probability, execution-probability, queueing-theory, laplace-transforms, fx-spot]
-authors: [Felix Lokin, Fenghui Yu]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- limit-order-book
+- fill-probability
+- execution-probability
+- queueing-theory
+- laplace-transforms
+- fx-spot
+authors:
+- Felix Lokin
+- Fenghui Yu
 year: 2024
-related: [concepts/limit-order-book, concepts/fill-probability, concepts/optimal-execution, concepts/market-microstructure]
+related:
+- concepts/limit-order-book
+- concepts/fill-probability
+- concepts/optimal-execution
+- concepts/market-microstructure
+schema_version: 2
+uuid: 226c43a3-f529-5bdc-b60f-64f276746486
+content_hash: sha256:b86a2bb7edb0ae6f4f37a07464140ce2ea5f053d668287bcfe6796bc922c99ac
 ---
 
+<!-- AUTHORED REGION START -->
 # Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
 
 ## Summary
@@ -73,3 +90,5 @@ Using FX spot market data:
 ## Citation
 
 Lokin, F., & Yu, F. (2024). Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows.
+
+<!-- AUTHORED REGION END -->

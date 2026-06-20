@@ -39,10 +39,14 @@ sources:
 - sources/ms-2020-04-01-what-do-recoveries-look-like
 tags: []
 title: Serena Tang
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fb28a5aa-fa6f-591a-8bfd-4b3a41be8448
+content_hash: sha256:ba5df3e17a1ab549e42fe44f4127525716b9036a232de40dd0b5fe43ed84ed4c
 ---
 
+<!-- AUTHORED REGION START -->
 # Serena Tang
 
 ## Overview
@@ -77,3 +81,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy|Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
 - [[sources/ms-2020-04-01-what-do-recoveries-look-like|Cross-Asset Dispatches: What Do Recoveries Usually Look Like?]]
+<!-- AUTHORED REGION END -->

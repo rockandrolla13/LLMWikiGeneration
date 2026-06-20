@@ -1,17 +1,41 @@
 ---
-title: "Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks"
+title: Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks
 page_id: sources/rehman-2024-green-bonds
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [green-bonds, oil-shocks, wavelets, time-frequency-analysis, ESG, hedging]
-authors: [Mobeen Ur Rehman, Neeraj Nautiyal, Rami Zeitun, Xuan Vinh Vo, Wafa Ghardallou]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- green-bonds
+- oil-shocks
+- wavelets
+- time-frequency-analysis
+- ESG
+- hedging
+authors:
+- Mobeen Ur Rehman
+- Neeraj Nautiyal
+- Rami Zeitun
+- Xuan Vinh Vo
+- Wafa Ghardallou
 year: 2024
 journal: North American Journal of Economics and Finance
-institution: [SZABIST University, Sohar University, Qatar University, University of Economics Ho Chi Minh City, Princess Nourah bint Abdulrahman University]
-related: [concepts/green-bonds, concepts/oil-shocks, concepts/wavelet-analysis, concepts/hedging]
+institution:
+- SZABIST University
+- Sohar University
+- Qatar University
+- University of Economics Ho Chi Minh City
+- Princess Nourah bint Abdulrahman University
+related:
+- concepts/green-bonds
+- concepts/oil-shocks
+- concepts/wavelet-analysis
+- concepts/hedging
+schema_version: 2
+uuid: a69dd349-51b3-5339-812e-2f64ed1ac629
+content_hash: sha256:cb8865e6e97cc4b5d52dcd4132b13a1929116bef01a916e7c8a8e315d41587a5
 ---
 
+<!-- AUTHORED REGION START -->
 # Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks
 
 ## Summary
@@ -78,3 +102,5 @@ Data: November 2008 - June 2021
 
 - [[sources/huang-2025-global-credit-spread-puzzle|Huang et al. (2025)]] - credit spreads across countries
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]] - bond factors
+
+<!-- AUTHORED REGION END -->

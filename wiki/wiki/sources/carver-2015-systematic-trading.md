@@ -36,10 +36,14 @@ tags:
 - behavioral-finance
 title: 'Systematic Trading: A unique new method for designing trading and investing
   systems'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_4e728a91977f
+schema_version: 2
+uuid: 4bfc72c5-f0e6-5e4c-94e3-e9fcd02dfd32
+content_hash: sha256:3de2cea35798c5b586673747a1144c86f5839d702796742b6ef8afa7ddc967f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Systematic Trading: A unique new method for designing trading and investing systems
 
 **Authors:** Robert Carver · **Year:** 2015 · **Venue:** Harriman House · **Type:** book
@@ -84,3 +88,4 @@ Robert Carver presents a complete, modular framework for designing systematic tr
 - **Path:** `raw/creditmacro/Systematic Trading - A unique new method for designing trading and investing systems (Robert Carver) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:43e1066fe7c787c6d...`
+<!-- AUTHORED REGION END -->

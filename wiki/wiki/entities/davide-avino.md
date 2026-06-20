@@ -14,10 +14,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Davide E. Avino
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2dcd2786-9bc2-5444-bc69-472f5d2d0ee9
+content_hash: sha256:02e4f544d47bf99cb5087ad096b8b779889975da754376985b4a8839d9eea29c
 ---
 
+<!-- AUTHORED REGION START -->
 # Davide E. Avino
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
+<!-- AUTHORED REGION END -->

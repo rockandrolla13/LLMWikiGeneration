@@ -1,20 +1,45 @@
 ---
-title: "Math and Architectures of Deep Learning"
+title: Math and Architectures of Deep Learning
 page_id: sources/chaudhury-2024-math-architectures-deep-learning
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_4_2026_06_19
-tags: [deep-learning, mathematics, linear-algebra, probability, bayesian-inference, neural-networks, cnn, optimization, pytorch, textbook, manning, svd, pca, backpropagation, object-detection, generative-models, vae, manifolds, 2024]
-sources: [sources/chaudhury-2024-math-architectures-deep-learning]
+tags:
+- deep-learning
+- mathematics
+- linear-algebra
+- probability
+- bayesian-inference
+- neural-networks
+- cnn
+- optimization
+- pytorch
+- textbook
+- manning
+- svd
+- pca
+- backpropagation
+- object-detection
+- generative-models
+- vae
+- manifolds
+- 2024
+sources:
+- sources/chaudhury-2024-math-architectures-deep-learning
 related: []
 mind_map_priority: high
-authors: ["Krishnendu Chaudhury"]
+authors:
+- Krishnendu Chaudhury
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 69aa4279-675f-5a85-a9ef-d424035d2590
+content_hash: sha256:3a1a7c4dbe28a79d43a7b1fc54f4bbc0141eab24e6870e16935afa389da6df8f
 ---
 
+<!-- AUTHORED REGION START -->
 # Math and Architectures of Deep Learning
 
 **Authors:** Krishnendu Chaudhury  
@@ -76,3 +101,5 @@ Math and Architectures of Deep Learning (2024, Manning Publications) by Krishnen
 - No explicit prerequisite statement is visible in the first 380 lines; the preface/about-this-book section (page xx) may contain this but was not read
 - Whether transformers/attention mechanisms or LLMs appear later in the book is unknown from this excerpt
 - The audience level (undergraduate, graduate, practitioner) is not explicitly stated in the TOC section; the about-this-book section would clarify this
+
+<!-- AUTHORED REGION END -->

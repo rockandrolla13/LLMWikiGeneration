@@ -44,10 +44,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategist: Trading with Stocks – Duration and Curves'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0cb3597e9aae
+schema_version: 2
+uuid: 94f540d6-2fb9-521c-8d57-8f06b057cbac
+content_hash: sha256:fdc6b0157d13e57d27a139ce1e23f99c6d237ad71025d43b1ff0dbbd0d225989
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategist: Trading with Stocks – Duration and Curves
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Sam Elprince, Johanna Trost, Anton Heese, Elaine Lin, Federico Manicardi, Shreya Chander, Koichi Sugisaki, Kritika Kashyap, Jesper Rooth · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -90,3 +94,4 @@ Morgan Stanley's Global Interest Rate Strategist (January 28, 2017) turns bearis
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist Trading with Stocks — Duration and Curves - 2017-01-28.md`
 - **Type:** article
 - **Hash:** `sha256:75bdc16e6e8c1defa...`
+<!-- AUTHORED REGION END -->

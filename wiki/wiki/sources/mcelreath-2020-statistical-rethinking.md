@@ -1,20 +1,43 @@
 ---
-title: "Statistical Rethinking: A Bayesian Course with Examples in R and STAN"
+title: 'Statistical Rethinking: A Bayesian Course with Examples in R and STAN'
 page_id: sources/mcelreath-2020-statistical-rethinking
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_5_2026_06_19
-tags: [bayesian-statistics, statistical-modeling, r, stan, mcmc, multilevel-models, causal-inference, dag, glm, textbook, rethinking, mcelreath, prior-predictive-simulation, gaussian-process, ode-models, regularization, missing-data]
-sources: [sources/mcelreath-2020-statistical-rethinking]
+tags:
+- bayesian-statistics
+- statistical-modeling
+- r
+- stan
+- mcmc
+- multilevel-models
+- causal-inference
+- dag
+- glm
+- textbook
+- rethinking
+- mcelreath
+- prior-predictive-simulation
+- gaussian-process
+- ode-models
+- regularization
+- missing-data
+sources:
+- sources/mcelreath-2020-statistical-rethinking
 related: []
 mind_map_priority: high
-authors: ["Richard McElreath"]
+authors:
+- Richard McElreath
 year: 2020
 source_type: book
+schema_version: 2
+uuid: 5a56db93-0164-5b97-948a-25023b298fe8
+content_hash: sha256:bdff28ebe6dd39215008c45ba88df7ebada7196a3b9879a7a08bace793d7183c
 ---
 
+<!-- AUTHORED REGION START -->
 # Statistical Rethinking: A Bayesian Course with Examples in R and STAN
 
 **Authors:** Richard McElreath  
@@ -87,3 +110,5 @@ Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed., 
 - How does the phylogenetic regression chapter differ from standard treatments (described as 'heterodox')?
 - Is Chapter 17 ('Horoscopes') a serious technical chapter or a concluding commentary?
 - How does the book's treatment of information criteria (WAIC, LOO-CV) compare to frequentist AIC/BIC?
+
+<!-- AUTHORED REGION END -->

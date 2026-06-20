@@ -14,10 +14,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Ladder of Causation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 95d0b5a9-15e7-5565-9481-47d06284c7e0
+content_hash: sha256:775e6042316d86d517fa158d5c3cadd3f3ecfe1a1ef8cb21ab3ec2a8c2175dfd
 ---
 
+<!-- AUTHORED REGION START -->
 # Ladder of Causation
 
 ## Definition
@@ -31,3 +35,4 @@ Pearl's three-rung hierarchy of causal reasoning - association (seeing), interve
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

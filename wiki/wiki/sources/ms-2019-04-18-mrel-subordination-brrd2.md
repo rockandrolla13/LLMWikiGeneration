@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: MREL – Raising the Subordination Stakes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_572ddb1057e7
+schema_version: 2
+uuid: 4b072666-5b22-54ce-bb24-ed38d255296a
+content_hash: sha256:0b885da63ed78a39796186186735457291ecee597dabcf70fc03bfd793c3d307
 ---
 
+<!-- AUTHORED REGION START -->
 # MREL – Raising the Subordination Stakes
 
 **Authors:** Jackie Ineke, Joe Hopkins, Alvaro Serrano, Izabel Dobreva · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A European bank credit and equity note assessing the impact of the finalised BRR
 - **Path:** `raw/creditmacro/Morgan Stanley - MREL – Raising the Subordination Stakes — Risks - 2019-04-18.md`
 - **Type:** article
 - **Hash:** `sha256:948bb0cde6d2cb1c7...`
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/ms-2020-03-27-fiscal-package-unemployment
 tags: []
 title: Michael Zezas
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 067dc110-b800-5daa-a533-f1f78060236a
+content_hash: sha256:7b432856de4131a3994bfeab5fced83c2eb171ee923f87287ca1681ec31fc0cc
 ---
 
+<!-- AUTHORED REGION START -->
 # Michael Zezas
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-17-goldilocks-whiplash|Goldilocks Whiplash (Sunday Start: What's Next in Global Macro)]]
 - [[sources/ms-2020-03-27-fiscal-package-unemployment|Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?]]
+<!-- AUTHORED REGION END -->

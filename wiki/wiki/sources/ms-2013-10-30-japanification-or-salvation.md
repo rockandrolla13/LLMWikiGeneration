@@ -32,10 +32,14 @@ source_type: article
 sources: []
 tags: []
 title: 'The Global Macro Analyst: Japanification or Salvation'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_afec8e8ddfac
+schema_version: 2
+uuid: a64d5d6d-51f2-53d2-9337-efb483038b1f
+content_hash: sha256:0a7beef75923c8feb1b686ba352d4a21a88cb27e58de98d162d70d5875fe20c4
 ---
 
+<!-- AUTHORED REGION START -->
 # The Global Macro Analyst: Japanification or Salvation
 
 **Authors:** Joachim Fels, Manoj Pradhan, Patryk Drozdzik, Sung Woen Kang, Philipp Erfurth · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ Morgan Stanley's Global Macro Analyst (October 30, 2013) warns that the euro are
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Economics Team — The Global Macro Analyst - nd.md`
 - **Type:** article
 - **Hash:** `sha256:add1769d1606fa6c3...`
+<!-- AUTHORED REGION END -->

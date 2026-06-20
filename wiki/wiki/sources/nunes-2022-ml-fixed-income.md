@@ -1,17 +1,33 @@
 ---
-title: "Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management"
+title: 'Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management'
 page_id: sources/nunes-2022-ml-fixed-income
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [machine-learning, fixed-income, yield-curve, LSTM, reinforcement-learning, portfolio-management, MLP]
-authors: [Manuel Clemente Mendonça Nunes]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- fixed-income
+- yield-curve
+- LSTM
+- reinforcement-learning
+- portfolio-management
+- MLP
+authors:
+- Manuel Clemente Mendonça Nunes
 year: 2022
 journal: PhD Thesis, University of Southampton
 institution: University of Southampton
-related: [concepts/yield-curve-forecasting, concepts/lstm, concepts/reinforcement-learning, concepts/neural-networks]
+related:
+- concepts/yield-curve-forecasting
+- concepts/lstm
+- concepts/reinforcement-learning
+- concepts/neural-networks
+schema_version: 2
+uuid: 9ba408d0-fd3b-57cb-90be-5e1e3310acd0
+content_hash: sha256:275323e5e9e8c989961d77428fc26c3a92383a8db31f6a21db349a35f3f139e6
 ---
 
+<!-- AUTHORED REGION START -->
 # Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management
 
 ## Summary
@@ -75,3 +91,5 @@ PhD thesis applying machine learning to fixed income markets, covering yield cur
 - [[sources/feng-2025-predicting-bond-returns|Feng et al. (2025)]] - ML corporate bond prediction
 - [[sources/krishnan-2007-credit-spread-forecast|Krishnan et al. (2007)]] - yield curve forecasting
 - [[sources/antonian-2024-graph-signal-processing|Antonian (2024)]] - Bayesian methods
+
+<!-- AUTHORED REGION END -->

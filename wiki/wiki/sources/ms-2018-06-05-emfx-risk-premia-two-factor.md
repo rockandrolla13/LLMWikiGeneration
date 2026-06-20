@@ -24,10 +24,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_f76ca169d4c2
+schema_version: 2
+uuid: 83401660-3365-5c46-9fd9-17fdd19b5348
+content_hash: sha256:d136f90bcb94921d348daca61cdec285531cce602c068ff7c19a20612adc2303
 ---
 
+<!-- AUTHORED REGION START -->
 # Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach
 
 **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -60,3 +64,4 @@ An EM Quant Strategy note presenting a two-factor model (USD and a carry-trade f
 - **Path:** `raw/creditmacro/Morgan Stanley - Assessing Risk Premia in EMFX (Part 1) A Two-Factor Model Approach - 2018-06-05.md`
 - **Type:** article
 - **Hash:** `sha256:f7f3f6e2f3a57ca0b...`
+<!-- AUTHORED REGION END -->

@@ -1,13 +1,26 @@
 ---
-title: "Graph Signal Processing"
+title: Graph Signal Processing
 page_id: concepts/graph-signal-processing
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [signal-processing, graphs, spectral-methods, machine-learning]
-related: [concepts/graph-fourier-transform, concepts/graph-laplacian, concepts/spectral-graph-filters, concepts/graph-neural-networks, sources/dong-2020-gsp-for-ml]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- signal-processing
+- graphs
+- spectral-methods
+- machine-learning
+related:
+- concepts/graph-fourier-transform
+- concepts/graph-laplacian
+- concepts/spectral-graph-filters
+- concepts/graph-neural-networks
+- sources/dong-2020-gsp-for-ml
+schema_version: 2
+uuid: 29f13dbc-7ff8-5ea1-8555-531c05457c11
+content_hash: sha256:ea10c40ad268c09fb24e5aa7a925284619fe5187cbdf2b460610ebb5a4f74247
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Signal Processing
 
 Graph Signal Processing (GSP) is a framework that extends classical signal processing concepts to data defined on graphs, enabling the analysis and processing of signals on irregular, non-Euclidean domains.
@@ -116,3 +129,5 @@ Inferring graph structure from smooth signal observations:
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/spectral-graph-wavelets|Spectral Graph Wavelets]]
 - [[concepts/graph-neural-networks|Graph Neural Networks]]
+
+<!-- AUTHORED REGION END -->

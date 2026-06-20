@@ -15,10 +15,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Optimum Score Estimation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9eabc5a4-e431-56a2-85f0-9c5962a67478
+content_hash: sha256:ee8817379d843b4a7ad294eae9e9c0fa157492315792115b1f3ad140719ac64f
 ---
 
+<!-- AUTHORED REGION START -->
 # Optimum Score Estimation
 
 ## Definition
@@ -33,3 +37,4 @@ Parameter estimation by maximizing the mean of a strictly proper scoring rule ov
 
 - [[concepts/logarithmic-score|logarithmic-score]]
 - [[concepts/quantile-regression|quantile-regression]]
+<!-- AUTHORED REGION END -->

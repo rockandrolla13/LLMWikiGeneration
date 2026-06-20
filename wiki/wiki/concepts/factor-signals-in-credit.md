@@ -15,10 +15,14 @@ sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []
 title: Factor Signals in Credit
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a26459ac-6771-5717-8729-439830a98da9
+content_hash: sha256:770f912eb7a911b99856c48ca1ae61337715ddce6678ede2c1608a9acb6c938e
 ---
 
+<!-- AUTHORED REGION START -->
 # Factor Signals in Credit
 
 ## Definition
@@ -33,3 +37,4 @@ Style-factor signals applied to corporate bonds - momentum, value (book-to-price
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

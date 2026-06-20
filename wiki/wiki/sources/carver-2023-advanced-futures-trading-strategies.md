@@ -35,10 +35,14 @@ tags:
 - position-sizing
 - diversification
 title: Advanced Futures Trading Strategies
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_65664026f29b
+schema_version: 2
+uuid: 48d53ba3-8916-545a-8b32-a3a23f328778
+content_hash: sha256:e3f89e1bebe33dca8a6f2fb573ec1b831aab13943b1198b1c9624ec028c012c4
 ---
 
+<!-- AUTHORED REGION START -->
 # Advanced Futures Trading Strategies
 
 **Authors:** Robert Carver · **Year:** 2023 · **Venue:** Harriman House · **Type:** book
@@ -82,3 +86,4 @@ Robert Carver presents 30 fully systematic futures trading strategies, all rule-
 - **Path:** `raw/creditmacro/Advanced Futures Trading Strategies (Robert Carver) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:2e335a54c77646b00...`
+<!-- AUTHORED REGION END -->

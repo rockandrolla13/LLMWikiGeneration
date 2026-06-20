@@ -32,10 +32,14 @@ tags:
 - overfitting
 - trading-systems
 title: The Evaluation and Optimization of Trading Strategies
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_dac7763811d3
+schema_version: 2
+uuid: bbe4c0a5-811c-538b-9957-01c44a7f7ec5
+content_hash: sha256:99c9df5cb95d2b86b3fe7e031094e176c58d05b90601f22a06833a833c9be838
 ---
 
+<!-- AUTHORED REGION START -->
 # The Evaluation and Optimization of Trading Strategies
 
 **Authors:** Robert Pardo · **Year:** 2008 · **Venue:** John Wiley & Sons (Wiley Trading Series), 2nd edition · **Type:** book
@@ -78,3 +82,4 @@ Robert Pardo's practitioner methodology for building, testing, optimizing, and v
 - **Path:** `raw/creditmacro/Evaluation and Optimization of Trading Strategies (Robert Pardo) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:e2deed2d2c8c38f32...`
+<!-- AUTHORED REGION END -->

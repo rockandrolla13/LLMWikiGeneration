@@ -16,10 +16,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: Cross-Sectional Momentum
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e83785e5-3469-5e1e-adc8-24190d7d4569
+content_hash: sha256:af8c9bf2f8695eca73b9215b410605aee5e6e8afa0a07c96b8bded6b9d70f58c
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Sectional Momentum
 
 ## Definition
@@ -35,3 +39,4 @@ A relative strategy ranking instruments by recent performance and going long the
 - [[concepts/bond-momentum|bond-momentum]]
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

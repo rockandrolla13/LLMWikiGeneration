@@ -14,10 +14,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Enrique Salvador
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 21bd79d6-ba26-502a-9434-769cba8634fc
+content_hash: sha256:5e375a9c2f464e52011d6afaa1bffa490d880c54cfd1a7ebcb67821d52ffc718
 ---
 
+<!-- AUTHORED REGION START -->
 # Enrique Salvador
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
+<!-- AUTHORED REGION END -->

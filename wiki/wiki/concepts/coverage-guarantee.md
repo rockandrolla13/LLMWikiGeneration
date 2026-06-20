@@ -3,14 +3,28 @@ title: Coverage Guarantee
 page_id: concepts/coverage-guarantee
 page_type: concept
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [conformal-prediction, statistical-guarantee, validity]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/johnstone-2025-multioutput]
-related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/calibration, concepts/exchangeability]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- statistical-guarantee
+- validity
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/johnstone-2025-multioutput
+related:
+- concepts/conformal-prediction
+- concepts/prediction-intervals
+- concepts/calibration
+- concepts/exchangeability
 mind_map_priority: medium
+schema_version: 2
+uuid: af9439ba-7b2b-5d80-95c9-4711f5426dc1
+content_hash: sha256:fd60ce03b3827f0cacf57e57feac8b8db50100d35d89f1805154519ea7e5aad0
 ---
 
+<!-- AUTHORED REGION START -->
 # Coverage Guarantee
 
 A **coverage guarantee** (also called **validity**) is the statistical property that a prediction interval or set contains the true value with at least a specified probability.
@@ -63,3 +77,5 @@ Coverage is often traded against **efficiency** (interval width):
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/calibration|Calibration]]
+
+<!-- AUTHORED REGION END -->

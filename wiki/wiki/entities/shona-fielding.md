@@ -14,10 +14,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Shona Fielding
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 56429f32-e671-55b4-ab33-cbdfc83bf831
+content_hash: sha256:8cdca4485e6f1c3588ffbd69dde61a44905bd75916a543d8eaf32134835307bc
 ---
 
+<!-- AUTHORED REGION START -->
 # Shona Fielding
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hudson-2019-its-healthcare-reporting|Methodology and reporting characteristics of studies using interrupted time series design in healthcare]]
+<!-- AUTHORED REGION END -->

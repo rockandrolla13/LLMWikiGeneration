@@ -1,21 +1,41 @@
 ---
-title: "Jump Clustering, Information Flows, and Stock Price Efficiency"
+title: Jump Clustering, Information Flows, and Stock Price Efficiency
 page_id: sources/chen-2024-jump-clustering-information-flows
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Jian Chen]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Jian Chen
 year: 2024
 venue: Journal of Financial Econometrics
-volume_issue_pages: "22(5), 1588-1615"
+volume_issue_pages: 22(5), 1588-1615
 doi: 10.1093/jjfinec/nbae009
-tags: [jump-clustering, hawkes-processes, stochastic-volatility, particle-filter, market-efficiency]
-related: [concepts/hawkes-processes, concepts/jump-clustering, concepts/stochastic-volatility-with-jumps, concepts/particle-filter, concepts/stock-price-efficiency, concepts/ranked-probability-score, concepts/mcmc-bayesian-inference, entities/jian-chen, entities/darrell-duffie, entities/yacine-ait-sahalia]
+tags:
+- jump-clustering
+- hawkes-processes
+- stochastic-volatility
+- particle-filter
+- market-efficiency
+related:
+- concepts/hawkes-processes
+- concepts/jump-clustering
+- concepts/stochastic-volatility-with-jumps
+- concepts/particle-filter
+- concepts/stock-price-efficiency
+- concepts/ranked-probability-score
+- concepts/mcmc-bayesian-inference
+- entities/jian-chen
+- entities/darrell-duffie
+- entities/yacine-ait-sahalia
 mind_map_priority: high
+schema_version: 2
+uuid: 7e870ab3-a49c-52d8-a327-2e3931ac3f00
+content_hash: sha256:6496adeef73a2dac0724821bd34bd299d1068cb16507dade9fbfe16c9a6022df
 ---
 
+<!-- AUTHORED REGION START -->
 # Jump Clustering, Information Flows, and Stock Price Efficiency
 
 **Authors:** [[entities/jian-chen|Jian Chen]]
@@ -47,3 +67,5 @@ Models stock-return jumps as a bivariate (positive/negative) self/cross-exciting
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

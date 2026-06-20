@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: Introducing the Credit Bond Market Indicator (credit-BMI)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_17a7cbea0a0d
+schema_version: 2
+uuid: 0edf0cbe-b743-522c-bb1e-93bd163e4599
+content_hash: sha256:b96724381613ecd4c09383636e0495f4aa9e3d15a20024b2f00117694513cc23
 ---
 
+<!-- AUTHORED REGION START -->
 # Introducing the Credit Bond Market Indicator (credit-BMI)
 
 **Authors:** Meghan G. Robson, Adam S. Richmond, Vishwas Patkar, Frederick T. Fuchs, Felician G. Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -63,3 +67,4 @@ Morgan Stanley introduces the Credit Bond Market Indicator (credit-BMI), a frame
 - **Path:** `raw/creditmacro/Morgan Stanley - Credit Bond Market Indicator (credit-BMI) - 2018-03-16.md`
 - **Type:** article
 - **Hash:** `sha256:ce43c189e518ffbc7...`
+<!-- AUTHORED REGION END -->

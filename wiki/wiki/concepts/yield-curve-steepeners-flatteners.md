@@ -14,10 +14,14 @@ sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 tags: []
 title: Yield curve steepeners and flatteners
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cc3f4e1b-6afa-5662-93cc-406b01aaf836
+content_hash: sha256:d9756ebd6e1b3b766d4b9af635553f576411f8aaed65b885b3860c043137a83f
 ---
 
+<!-- AUTHORED REGION START -->
 # Yield curve steepeners and flatteners
 
 ## Definition
@@ -31,3 +35,4 @@ Relative-value trades positioning for changes in the slope of the government bon
 ## Related Concepts
 
 - [[concepts/term-structure-risk-premium|term-structure-risk-premium]]
+<!-- AUTHORED REGION END -->

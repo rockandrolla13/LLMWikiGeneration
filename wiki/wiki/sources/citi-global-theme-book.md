@@ -22,10 +22,14 @@ tags:
 - thematic-research
 - needs-ocr
 title: Citi Global Theme Book
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e01d78c0f933
+schema_version: 2
+uuid: 814080c8-1ef6-5022-b20e-29b819369d8c
+content_hash: sha256:eed7a41bb736dfd68e8db8795dfb31a1fa98d7b86009d4d325c51be6e2a8fa26
 ---
 
+<!-- AUTHORED REGION START -->
 # Citi Global Theme Book
 
 **Venue:** Citigroup Global Markets · **Type:** report
@@ -48,3 +52,4 @@ A markdown conversion of a Citi (Citigroup) sell-side macro/thematic research bo
 - **Path:** `raw/creditmacro/citi global theme book.md`
 - **Type:** article
 - **Hash:** `sha256:56d690c46f29b0ed6...`
+<!-- AUTHORED REGION END -->

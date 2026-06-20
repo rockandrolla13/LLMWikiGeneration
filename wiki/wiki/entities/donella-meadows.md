@@ -14,10 +14,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Donella H. Meadows
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8c2c9840-c5e2-5335-9a0e-614c48fb8415
+content_hash: sha256:7a0b130c183d2e47249810dc113c6834bbd3794e1a92f9728c4df14a461a36ff
 ---
 
+<!-- AUTHORED REGION START -->
 # Donella H. Meadows
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+<!-- AUTHORED REGION END -->

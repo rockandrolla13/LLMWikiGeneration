@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global In the Flow: 2018 by the Numbers'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_358cbe1f9288
+schema_version: 2
+uuid: 4cb97f33-b1c6-5d57-85de-eaff6e0e9569
+content_hash: sha256:da711cc59f6bddab651ed649cea89ab6e443c9662422aee0f81a186c93047ecb
 ---
 
+<!-- AUTHORED REGION START -->
 # Global In the Flow: 2018 by the Numbers
 
 **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's January 2, 2019 'Global In the Flow' note reviews 2018 as a tou
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the Flow 2018 by the Numbers - 2019-01-02.md`
 - **Type:** article
 - **Hash:** `sha256:2b2f6f8292b491cdb...`
+<!-- AUTHORED REGION END -->

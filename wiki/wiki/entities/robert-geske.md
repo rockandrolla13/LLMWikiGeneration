@@ -14,10 +14,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Robert Geske
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bbc9bc50-984a-532f-86f0-ab1c1003db74
+content_hash: sha256:8c13ef3313973f9da36c9b04a9648d057c978fa44cd4590209a73e22bf166b54
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert Geske
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
+<!-- AUTHORED REGION END -->

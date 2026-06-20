@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Interest Rate Strategy: Who Is Going to Buy Treasuries?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7fa805404524
+schema_version: 2
+uuid: 2fa5199d-f8c6-5e21-8c2b-0d613c26054c
+content_hash: sha256:3b56c0370e67d76165b3da8e721ddbfb95fdb858dc0a67f078b7fcc59ebf7607
 ---
 
+<!-- AUTHORED REGION START -->
 # US Interest Rate Strategy: Who Is Going to Buy Treasuries?
 
 **Authors:** Matthew Hornbach · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Morgan Stanley argues that foreign official buyers have resumed purchasing US Tr
 - **Path:** `raw/creditmacro/Morgan Stanley - US Interest Rate Strategy — Who Is Going to Buy Treasuries - 2018-02-27.md`
 - **Type:** article
 - **Hash:** `sha256:bd2cb51b41d1d0eb9...`
+<!-- AUTHORED REGION END -->

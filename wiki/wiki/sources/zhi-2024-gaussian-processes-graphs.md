@@ -1,18 +1,35 @@
 ---
-title: "Gaussian Processes on Graphs (Zhi 2024)"
+title: Gaussian Processes on Graphs (Zhi 2024)
 page_id: sources/zhi-2024-gaussian-processes-graphs
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [gaussian-processes, graph-signal-processing, spectral-methods, machine-learning, bayesian-inference]
-authors: [Yin-Cong Zhi]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- gaussian-processes
+- graph-signal-processing
+- spectral-methods
+- machine-learning
+- bayesian-inference
+authors:
+- Yin-Cong Zhi
 year: 2024
 institution: University of Oxford
 degree: DPhil
 supervisor: Xiaowen Dong
-related: [concepts/gaussian-processes, concepts/graph-signal-processing, concepts/graph-laplacian, concepts/spectral-graph-wavelets, concepts/sheaf-laplacian, entities/xiaowen-dong, entities/yin-cong-zhi]
+related:
+- concepts/gaussian-processes
+- concepts/graph-signal-processing
+- concepts/graph-laplacian
+- concepts/spectral-graph-wavelets
+- concepts/sheaf-laplacian
+- entities/xiaowen-dong
+- entities/yin-cong-zhi
+schema_version: 2
+uuid: 9001f38a-1553-5338-a055-67333699d98c
+content_hash: sha256:88abbd5306fec44f2deb15d352fb18e94e23e22b2ca40d39d5404d96be4db967
 ---
 
+<!-- AUTHORED REGION START -->
 # Gaussian Processes on Graphs
 
 **Author:** [[entities/yin-cong-zhi|Yin-Cong Zhi]]
@@ -88,3 +105,5 @@ This thesis builds on and extends:
 - [[concepts/spectral-graph-wavelets|Spectral Graph Wavelets]]
 - [[concepts/transductive-learning|Transductive Learning]]
 - [[concepts/sheaf-laplacian|Sheaf Laplacian]]
+
+<!-- AUTHORED REGION END -->

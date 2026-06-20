@@ -1,16 +1,27 @@
 ---
-title: "Kriging"
+title: Kriging
 page_id: concepts/kriging
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [spatial-statistics, geostatistics, interpolation, gaussian-processes]
-sources: [sources/huynh-2021-mogp-longevity]
-related: [concepts/gaussian-processes, concepts/multi-population-mortality]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- spatial-statistics
+- geostatistics
+- interpolation
+- gaussian-processes
+sources:
+- sources/huynh-2021-mogp-longevity
+related:
+- concepts/gaussian-processes
+- concepts/multi-population-mortality
 mind_map_priority: medium
+schema_version: 2
+uuid: 32d28f57-9a9c-5afd-8463-40ae3ca278aa
+content_hash: sha256:8b0821510ae65ea4cbe21ba425e030188969a49d689850ecd9a92e005490c238
 ---
 
+<!-- AUTHORED REGION START -->
 # Kriging
 
 Kriging is a geostatistical interpolation method that provides optimal linear predictions at unobserved locations, along with prediction uncertainty estimates.
@@ -58,3 +69,5 @@ Related to covariance: $\gamma(h) = C(0) - C(h)$
 - [[concepts/gaussian-processes|Gaussian Processes]]
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
 - [[sources/huynh-2021-mogp-longevity|Multi-output Gaussian Processes for Multi-population Longevity Modelling (2021)]]
+
+<!-- AUTHORED REGION END -->

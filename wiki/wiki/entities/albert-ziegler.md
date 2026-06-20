@@ -5,7 +5,7 @@ page_type: entity
 entity_type: person
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ sources:
 mind_map_priority: medium
 affiliation: XBOW
 revision_hash: sha256:d96d1ba77eae5df9
+schema_version: 2
+uuid: 3305bec8-824b-57ca-9334-6c1ef2ec3446
+content_hash: sha256:8cec08127158f9ccd21ba7731bc3bce2551cde6fd40ba768ffe906b15003a39b
 ---
 
+<!-- AUTHORED REGION START -->
 # Albert Ziegler
 
 **Role:** author
@@ -30,3 +34,5 @@ Head of AI at AI-cybersecurity firm XBOW. Founding engineer for GitHub Copilot; 
 ## Sources in This Wiki
 
 - [[sources/berryman-2024-prompt-engineering-llms|Prompt Engineering for LLMs]]
+
+<!-- AUTHORED REGION END -->

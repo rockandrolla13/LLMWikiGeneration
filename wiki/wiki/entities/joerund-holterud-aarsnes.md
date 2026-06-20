@@ -14,10 +14,14 @@ sources:
 - sources/ms-2012-03-12-what-were-watching
 tags: []
 title: Joerund Holterud Aarsnes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d0206f7d-f7db-5dea-9788-b6b46ff012ad
+content_hash: sha256:3eac2793464771d67c14bc5d747e12b5ab02470c99f26bc90172c777bb0949ab
 ---
 
+<!-- AUTHORED REGION START -->
 # Joerund Holterud Aarsnes
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2012-03-12-what-were-watching|European Credit Strategy: What We're Watching]]
+<!-- AUTHORED REGION END -->

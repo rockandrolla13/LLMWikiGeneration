@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: One Size Doesn't Fit All
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9d0ac324d82e
+schema_version: 2
+uuid: cb59c0c5-a3a5-5feb-80e3-a9b8317029d2
+content_hash: sha256:49b59fabd3efa9ae4bfda05104fd56effe82981eb0b3b8487e453811fb6ddf79
 ---
 
+<!-- AUTHORED REGION START -->
 # One Size Doesn't Fit All
 
 **Authors:** Pasquale M Diana, Georgi Deyanov, Matthew Pennill, Gek Teng Khoo, Filip Denchev, James K Lord · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley cross-asset note (February 13, 2019) arguing that a softer euro a
 - **Path:** `raw/creditmacro/Morgan Stanley - One Size Doesn't Fit All - 2019-02-13.md`
 - **Type:** article
 - **Hash:** `sha256:e41374bf6d8658d32...`
+<!-- AUTHORED REGION END -->

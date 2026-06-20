@@ -1,16 +1,32 @@
 ---
-title: "Flow Decomposition"
+title: Flow Decomposition
 page_id: concepts/flow-decomposition
 page_type: concept
 revision_id: 1
-created: 2026-05-06T23:35:00Z
-updated: 2026-05-06T23:35:00Z
-tags: [etf, order-flow, signal-construction, factor-investing, market-microstructure]
-sources: [sources/optiver-2025-corporate-bond-etf-contraflow, sources/petit-2025-data-driven-flow-etf, sources/chao-2019-etf-flows-prices]
-related: [concepts/etf-flows, concepts/index-reconstitution, concepts/order-imbalance, concepts/clustering]
+created: 2026-05-06 23:35:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- etf
+- order-flow
+- signal-construction
+- factor-investing
+- market-microstructure
+sources:
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/petit-2025-data-driven-flow-etf
+- sources/chao-2019-etf-flows-prices
+related:
+- concepts/etf-flows
+- concepts/index-reconstitution
+- concepts/order-imbalance
+- concepts/clustering
 mind_map_priority: high
+schema_version: 2
+uuid: d1ee56ba-e677-5c9e-a787-4f8408b30842
+content_hash: sha256:d4dea4756f8d602e728f824959a7628456293dac9b8d3e127f83769257a42355
 ---
 
+<!-- AUTHORED REGION START -->
 # Flow Decomposition
 
 Flow decomposition is the process of partitioning aggregate trade or ETF flows into distinct components with different economic drivers and return predictability.
@@ -71,3 +87,5 @@ Factor-mimicking portfolios based on cluster-specific order imbalances achieve s
 - [[concepts/order-imbalance|Order Imbalance]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019)]]
 - [[sources/petit-2025-data-driven-flow-etf|Petit et al. (2025)]]
+
+<!-- AUTHORED REGION END -->

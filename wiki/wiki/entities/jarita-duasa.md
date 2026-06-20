@@ -14,10 +14,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Jarita Duasa
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 68950911-e6f6-5b82-addd-a4a5a6a07241
+content_hash: sha256:30a3aca325c520feae5a03e67f04208fc4f799f0a0b6366f3f59b0fb1351925a
 ---
 
+<!-- AUTHORED REGION START -->
 # Jarita Duasa
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/duasa-2010-predicting-crisis-recovery|Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis]]
+<!-- AUTHORED REGION END -->

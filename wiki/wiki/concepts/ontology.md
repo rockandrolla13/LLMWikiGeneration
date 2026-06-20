@@ -4,7 +4,7 @@ page_id: concepts/ontology
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -13,8 +13,12 @@ sources:
 related: []
 mind_map_priority: medium
 revision_hash: sha256:032397ff8ba20721
+schema_version: 2
+uuid: d4b820c9-04e5-5850-8368-e710c9121c2d
+content_hash: sha256:2f8be33dc06ec174da59549766782f20e59883ad7c0ee3d80067fa4c33080216
 ---
 
+<!-- AUTHORED REGION START -->
 # Ontology
 
 ## Definition
@@ -24,3 +28,5 @@ A formal classification scheme that defines categories and the rich, non-hierarc
 ## Sources
 
 - [[sources/barrasa-2023-building-knowledge-graphs|Building Knowledge Graphs]]
+
+<!-- AUTHORED REGION END -->

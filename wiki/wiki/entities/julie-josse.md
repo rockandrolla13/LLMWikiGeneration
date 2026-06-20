@@ -4,14 +4,29 @@ page_id: entities/julie-josse
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [researcher, missing-data, statistics, machine-learning, conformal-prediction]
-sources: [sources/zaffran-2023-conformal-missing, sources/zaffran-2022-aci]
-related: [concepts/conformal-prediction, concepts/missing-data-imputation, entities/margaux-zaffran, entities/aymeric-dieuleveut]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- missing-data
+- statistics
+- machine-learning
+- conformal-prediction
+sources:
+- sources/zaffran-2023-conformal-missing
+- sources/zaffran-2022-aci
+related:
+- concepts/conformal-prediction
+- concepts/missing-data-imputation
+- entities/margaux-zaffran
+- entities/aymeric-dieuleveut
 mind_map_priority: medium
+schema_version: 2
+uuid: 388d4ea4-91a6-5175-9a88-f04970e52996
+content_hash: sha256:49bd0d6e250c6098827ee1c238473e0af7e3c7cb78bce200cbbba06bcdb6aa54
 ---
 
+<!-- AUTHORED REGION START -->
 # Julie Josse
 
 **Julie Josse** is a leading researcher in missing data methods, multivariate analysis, and machine learning, with significant contributions to understanding how imputation affects downstream learning tasks.
@@ -75,3 +90,5 @@ Primary supervisor of [[entities/margaux-zaffran|Margaux Zaffran]]'s PhD thesis 
 
 - [[concepts/missing-data-imputation|Missing Data Imputation]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

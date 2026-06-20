@@ -1,36 +1,50 @@
 ---
-title: "Predictive Inference with the Jackknife+"
+title: Predictive Inference with the Jackknife+
 page_id: sources/barber-2021-jackknife-plus
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Rina Foygel Barber", "Emmanuel J. Candès", "Aaditya Ramdas", "Ryan J. Tibshirani"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Rina Foygel Barber
+- Emmanuel J. Candès
+- Aaditya Ramdas
+- Ryan J. Tibshirani
 year: 2021
-venue: "Annals of Statistics 49(1), 486-507 (DOI 10.1214/20-AOS1965). arXiv:1905.02928."
-tags: [conformal-prediction, jackknife, jackknife-plus, cv-plus, leave-one-out, distribution-free, algorithmic-stability]
-related: [
-  concepts/jackknife-plus,
-  concepts/cross-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/exchangeability,
-  concepts/jackknife-plus-after-bootstrap,
-  entities/rina-foygel-barber,
-  entities/emmanuel-candes,
-  entities/aaditya-ramdas,
-  entities/ryan-tibshirani,
-  sources/tibshirani-2019-covariate-shift,
-  sources/barber-2023-beyond-exchangeability,
-  sources/vovk-2012-cross-conformal,
-  sources/kim-2020-jackknife-plus-after-bootstrap,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: Annals of Statistics 49(1), 486-507 (DOI 10.1214/20-AOS1965). arXiv:1905.02928.
+tags:
+- conformal-prediction
+- jackknife
+- jackknife-plus
+- cv-plus
+- leave-one-out
+- distribution-free
+- algorithmic-stability
+related:
+- concepts/jackknife-plus
+- concepts/cross-conformal-prediction
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/exchangeability
+- concepts/jackknife-plus-after-bootstrap
+- entities/rina-foygel-barber
+- entities/emmanuel-candes
+- entities/aaditya-ramdas
+- entities/ryan-tibshirani
+- sources/tibshirani-2019-covariate-shift
+- sources/barber-2023-beyond-exchangeability
+- sources/vovk-2012-cross-conformal
+- sources/kim-2020-jackknife-plus-after-bootstrap
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: high
+schema_version: 2
+uuid: ba486bdd-ecc2-5df3-9001-ef8b3db2f500
+content_hash: sha256:1241e9627798465681a09670cda650c0648a59d2940e7b8cbb449b34534d6266
 ---
 
+<!-- AUTHORED REGION START -->
 # Predictive Inference with the Jackknife+
 
 **Authors:** [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ramdas]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
@@ -81,3 +95,5 @@ Communities and Crime, BlogFeedback, MEPS-2016 datasets with Ridge / Random Fore
 - [[concepts/cross-conformal-prediction]]
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[entities/rina-foygel-barber]]
+
+<!-- AUTHORED REGION END -->

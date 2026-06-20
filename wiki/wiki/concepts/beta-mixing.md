@@ -1,15 +1,31 @@
 ---
-title: "β-Mixing"
+title: β-Mixing
 page_id: concepts/beta-mixing
 page_type: concept
 revision_id: 1
-created: 2026-04-28T12:45:00Z
-updated: 2026-04-28T12:45:00Z
-sources: [sources/koukorinis-2026-draci, sources/lee-2024-kowcpi]
-related: [concepts/long-memory, concepts/state-space-models, concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/doubly-robust-estimation, concepts/temporal-cross-fitting, concepts/causal-inference]
-tags: [time-series, dependence, statistics]
+created: 2026-04-28 12:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+sources:
+- sources/koukorinis-2026-draci
+- sources/lee-2024-kowcpi
+related:
+- concepts/long-memory
+- concepts/state-space-models
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/doubly-robust-estimation
+- concepts/temporal-cross-fitting
+- concepts/causal-inference
+tags:
+- time-series
+- dependence
+- statistics
+schema_version: 2
+uuid: cead07ae-10f3-583c-96d9-fa42915bfa81
+content_hash: sha256:54d165bbcbbd5ed09deeef10ff06f675a9701b5a3b25e8d657ca16ed777cac19
 ---
 
+<!-- AUTHORED REGION START -->
 # β-Mixing (Absolute Regularity)
 
 ## Definition
@@ -85,3 +101,5 @@ From [[sources/koukorinis-2026-draci|DR-ACI simulations]]:
 - [[concepts/long-memory|Long Memory]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

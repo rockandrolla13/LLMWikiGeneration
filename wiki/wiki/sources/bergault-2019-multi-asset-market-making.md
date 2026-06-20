@@ -1,15 +1,34 @@
 ---
-title: "Closed-form approximations in multi-asset market making"
+title: Closed-form approximations in multi-asset market making
 page_id: sources/bergault-2019-multi-asset-market-making
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, multi-asset, stochastic-control, closed-form, avellaneda-stoikov]
-authors: [Philippe Bergault, David Evangelista, Olivier Guéant, Douglas Vieira]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- multi-asset
+- stochastic-control
+- closed-form
+- avellaneda-stoikov
+authors:
+- Philippe Bergault
+- David Evangelista
+- Olivier Guéant
+- Douglas Vieira
 year: 2019
-related: [concepts/market-making, concepts/avellaneda-stoikov-model, concepts/inventory-risk, concepts/stochastic-optimal-control, entities/olivier-gueant, entities/philippe-bergault]
+related:
+- concepts/market-making
+- concepts/avellaneda-stoikov-model
+- concepts/inventory-risk
+- concepts/stochastic-optimal-control
+- entities/olivier-gueant
+- entities/philippe-bergault
+schema_version: 2
+uuid: 4ac227f9-05f7-50e0-92e1-92fb8736c60f
+content_hash: sha256:992e68c05ee2550a8ff69cf6e632bfb2c58b810003803dcdcd674b165b73387e
 ---
 
+<!-- AUTHORED REGION START -->
 # Closed-form approximations in multi-asset market making
 
 ## Summary
@@ -50,3 +69,5 @@ The Hamilton-Jacobi equation characterizing the value function is approximated b
 ## Citation
 
 Bergault, P., Evangelista, D., Guéant, O., & Vieira, D. (2019). Closed-form approximations in multi-asset market making. *Applied Mathematical Finance*.
+
+<!-- AUTHORED REGION END -->

@@ -18,9 +18,13 @@ tags:
 - unit-root
 - phillips-shi-yu
 title: Bubble Detection
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 1f08603a-aa1f-53a0-9fa0-17554c031995
+content_hash: sha256:1dffb78c8b0fdbbc4bf6ac1293b70e8e046a6fbfa107809f2cb38ec58097b243
 ---
 
+<!-- AUTHORED REGION START -->
 # Bubble Detection
 
 **Bubble Detection** is recursive right-tailed unit-root testing (Phillips-Shi-Yu) for identifying explosive episodes in price-to-fundamental ratios; used to time financial bubbles.
@@ -41,3 +45,4 @@ updated: '2026-06-09T12:00:00Z'
 - [[concepts/log-periodic-power-law|log-periodic-power-law]]
 - [[concepts/malinvestment-forced-saving|malinvestment-forced-saving]]
 - [[concepts/market-crash-liquidity-crisis|market-crash-liquidity-crisis]]
+<!-- AUTHORED REGION END -->

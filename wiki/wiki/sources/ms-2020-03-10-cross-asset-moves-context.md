@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Brief: Taking Stock — Recent Moves in Context'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_1c318fb3750a
+schema_version: 2
+uuid: ccfdfa63-ba17-5652-b464-4be1f2b9c68f
+content_hash: sha256:724364cbdd563a57820383dffd939efe9de44cb005259e2f626ea56a867389d5
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Brief: Taking Stock — Recent Moves in Context
 
 **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -74,3 +78,4 @@ Following the worst one-day return for global stocks since 2008, Morgan Stanley 
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Brief — Taking Stock – Recent Moves in Context - 2020-03-10.md`
 - **Type:** article
 - **Hash:** `sha256:46b3ea9e8539fc523...`
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Volatility Smirk as Informed-Trading Signal
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f912325a-0746-5040-a340-606e755e3af0
+content_hash: sha256:80ee096af7c3bd067df6e3beec81916e6a8195229012861202bca33320355824
 ---
 
+<!-- AUTHORED REGION START -->
 # Volatility Smirk as Informed-Trading Signal
 
 ## Definition
@@ -26,3 +30,4 @@ The implied-volatility skew (OTM put IV minus ATM IV) used as a proxy for inform
 ## Sources
 
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
+<!-- AUTHORED REGION END -->

@@ -1,15 +1,33 @@
 ---
-title: "Pairs Trading with General State Space Models"
+title: Pairs Trading with General State Space Models
 page_id: sources/zhang-2021-pairs-general-ssm
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [pairs-trading, state-space-models, kalman-filter, heteroscedasticity, nonlinear-models, monte-carlo, statistical-arbitrage]
-authors: [Guang Zhang]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- pairs-trading
+- state-space-models
+- kalman-filter
+- heteroscedasticity
+- nonlinear-models
+- monte-carlo
+- statistical-arbitrage
+authors:
+- Guang Zhang
 year: 2021
-related: [concepts/kalman-filter, concepts/state-space-models, concepts/pairs-trading, concepts/statistical-arbitrage, concepts/heteroscedasticity, entities/guang-zhang]
+related:
+- concepts/kalman-filter
+- concepts/state-space-models
+- concepts/pairs-trading
+- concepts/statistical-arbitrage
+- concepts/heteroscedasticity
+- entities/guang-zhang
+schema_version: 2
+uuid: dda778c0-7473-5de6-a025-4c5eef6128b4
+content_hash: sha256:6b81eebe68122a246b0e7b8c91c046de3ad9e531ec283871ad41efc47a349e5d
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper proposes a general state space model framework for pairs trading that accommodates non-Gaussianity, heteroscedasticity, and nonlinearity in the mean-reverting spread. The approach uses Monte Carlo methods to determine optimal trading rules and demonstrates significant improvements over conventional methods.
@@ -102,3 +120,5 @@ Key insight: Position sizing based on conditional volatility
 ## Citations
 
 Zhang, G. (2021). Pairs trading with general state space models. Quantitative Finance, 21(9), 1567-1587.
+
+<!-- AUTHORED REGION END -->

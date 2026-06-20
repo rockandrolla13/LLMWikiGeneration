@@ -1,15 +1,26 @@
 ---
-title: "Guang Zhang"
+title: Guang Zhang
 page_id: entities/guang-zhang
 page_type: entity
 entity_type: researcher
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, pairs-trading, state-space-models, econometrics, boston-university]
-affiliations: [Boston University]
-related: [sources/zhang-2021-pairs-general-ssm]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- pairs-trading
+- state-space-models
+- econometrics
+- boston-university
+affiliations:
+- Boston University
+related:
+- sources/zhang-2021-pairs-general-ssm
+schema_version: 2
+uuid: e6c61fb5-a880-5a98-92b2-7d87f0c44ae3
+content_hash: sha256:3bb092e996e2396bd057ba9247828e32128853962a768bebe172ccbb8c927e19
 ---
 
+<!-- AUTHORED REGION START -->
 ## Biography
 
 Guang Zhang is a researcher in the Department of Economics at Boston University. His research focuses on econometric methods for financial applications, particularly state-space models and pairs trading strategies.
@@ -51,3 +62,5 @@ His framework provides:
 - More realistic modeling of spread dynamics
 - Practical algorithms for computing optimal trading rules
 - Evidence that heteroscedasticity information is economically valuable
+
+<!-- AUTHORED REGION END -->

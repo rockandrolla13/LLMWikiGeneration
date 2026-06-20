@@ -14,10 +14,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: Jim Reid
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e65bbb09-116f-53a8-8020-aeac22e76993
+content_hash: sha256:0feeb64752952f2165136e47fb824faf3deae4d1993c19edd641f54c79524411
 ---
 
+<!-- AUTHORED REGION START -->
 # Jim Reid
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/caprio-2026-steady-but-ai|2026: Steady, but AI & the Hawks are Circling (Software)]]
+<!-- AUTHORED REGION END -->

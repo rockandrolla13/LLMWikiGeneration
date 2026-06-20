@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: Are You Sure That''s ''Low Beta''?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_1d33b7e33fa8
+schema_version: 2
+uuid: 84d6046a-7178-5f23-b0de-8eee8b3aa30f
+content_hash: sha256:b2a45a0e34b291b153b2824637211453f08252d839158ee0aa1c65a8224a5aa6
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: Are You Sure That's 'Low Beta'?
 
 **Authors:** Wanting Low, Andrew Sheets, Phanikiran L Naraparaju, Naomi Z Poole, Serena W Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -75,3 +79,4 @@ Morgan Stanley challenges conventional wisdom on which assets are genuinely 'def
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Are You Sure That's 'Low Beta' - 2019-04-14.md`
 - **Type:** article
 - **Hash:** `sha256:2d917f34bb2b2bf34...`
+<!-- AUTHORED REGION END -->

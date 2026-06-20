@@ -13,10 +13,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Incomplete-Markets Heterogeneous-Agent (Bewley) Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c051883e-eaef-535f-8a17-48ef98fa41dc
+content_hash: sha256:48aa3c34c0328502c80dac1288e7c46a580348192d87f3d2f380c2fe395fdf2d
 ---
 
+<!-- AUTHORED REGION START -->
 # Incomplete-Markets Heterogeneous-Agent (Bewley) Models
 
 ## Definition
@@ -26,3 +30,4 @@ Models restricting tradable assets, generating a precautionary savings motive an
 ## Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

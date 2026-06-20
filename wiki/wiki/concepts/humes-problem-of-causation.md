@@ -14,10 +14,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: Hume's Problem of Causation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d5fd7706-10f6-5251-8894-428350cc29a2
+content_hash: sha256:efe13d909b7c03760228548af551b368647520c67236f9d175b40b4de955e9c8
 ---
 
+<!-- AUTHORED REGION START -->
 # Hume's Problem of Causation
 
 ## Definition
@@ -31,3 +35,4 @@ Hume's critique showing no necessary connection between cause and effect can be 
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

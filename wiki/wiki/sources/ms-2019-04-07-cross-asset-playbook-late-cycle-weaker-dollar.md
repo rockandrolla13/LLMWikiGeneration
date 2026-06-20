@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Playbook – April 2019: Late-Cycle and Weaker Dollar'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9bce1c594bdd
+schema_version: 2
+uuid: 71e7ad68-7c1d-54d7-bc05-0d4d1bb856b3
+content_hash: sha256:ca31c76f800293f5c98e8d1bb357cc75eaa73068bd6df7bc11bc0feb280985fe
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Playbook – April 2019: Late-Cycle and Weaker Dollar
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ The April 2019 Cross-Asset Strategy Playbook positions for a late-cycle US marke
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook – April 2019 Late-Cycle and Weaker Dollar - 2019-04-07.md`
 - **Type:** article
 - **Hash:** `sha256:f2a3753fd465e76d6...`
+<!-- AUTHORED REGION END -->

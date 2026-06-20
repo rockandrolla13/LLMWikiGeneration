@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-01-25-treasury-market-commentary
 tags: []
 title: Sam Elprince
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b13007db-3f46-58b8-93d2-f06a7f1dd936
+content_hash: sha256:fdbbbd9a6547957c1d5bbedcf78d8ef5ca7581245c647d32573a52fcc9a45b2a
 ---
 
+<!-- AUTHORED REGION START -->
 # Sam Elprince
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2017-01-28-rates-strategist-duration-and-curves|Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]]
 - [[sources/ms-2018-04-05-funding-market-signals|US Interest Rate Strategy: Funding Market Signals (Correction)]]
 - [[sources/ms-2019-01-25-treasury-market-commentary|Treasury Market Commentary, January 25]]
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Counterfactual Chance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5a1634b7-d26f-55dd-9d53-51a577927679
+content_hash: sha256:cb78780a2aa9b8eb65430041a876f303262b7a71c32848d6f0e9ebc8f766d5d2
 ---
 
+<!-- AUTHORED REGION START -->
 # Counterfactual Chance
 
 ## Definition
@@ -26,3 +30,4 @@ A probability weighting over the set of relevant antecedent-worlds, obtained by 
 ## Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

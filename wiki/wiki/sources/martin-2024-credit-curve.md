@@ -1,19 +1,38 @@
 ---
-title: "The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return"
+title: 'The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread,
+  and expected return'
 page_id: sources/martin-2024-credit-curve
 page_type: source
 source_type: working-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Richard J. Martin]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Richard J. Martin
 year: 2024
 venue: arXiv preprint
-tags: [credit-spread, fixed-income, survival-probability, carry-rolldown, cds, bond-pricing]
-related: [sources/dickerson-2023-bond-risk, sources/sehatpour-2024-green-bonds, concepts/credit-spread-curve, concepts/z-spread, concepts/carry-rolldown, concepts/survival-probability, entities/richard-martin]
+tags:
+- credit-spread
+- fixed-income
+- survival-probability
+- carry-rolldown
+- cds
+- bond-pricing
+related:
+- sources/dickerson-2023-bond-risk
+- sources/sehatpour-2024-green-bonds
+- concepts/credit-spread-curve
+- concepts/z-spread
+- concepts/carry-rolldown
+- concepts/survival-probability
+- entities/richard-martin
 mind_map_priority: high
+schema_version: 2
+uuid: 1d7c3554-c579-5af0-80ed-e4f6328946df
+content_hash: sha256:638fd9f4b1553f64f15a26b252f8bdcd3587a4e915868042d11d6461d17a2bff
 ---
 
+<!-- AUTHORED REGION START -->
 # The Credit Curve Spread I: Fundamental Concepts
 
 **Author:** [[entities/richard-martin|Richard J. Martin]]
@@ -93,3 +112,5 @@ Where:
 - [[concepts/z-spread|Z-Spread]]
 - [[concepts/carry-rolldown|Carry and Rolldown]]
 - [[concepts/survival-probability|Survival Probability]]
+
+<!-- AUTHORED REGION END -->

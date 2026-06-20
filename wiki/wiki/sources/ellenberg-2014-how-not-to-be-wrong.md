@@ -32,10 +32,14 @@ tags:
 - survivorship-bias
 - significance-testing
 title: 'How Not to Be Wrong: The Power of Mathematical Thinking'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_5e764acf4757
+schema_version: 2
+uuid: ac2ca37e-45cf-51c9-acb1-b7ffcf82b80c
+content_hash: sha256:bbbbb4124c77bc142c571987f58702ef4429d7652f42f928e983e8cb81bdafea
 ---
 
+<!-- AUTHORED REGION START -->
 # How Not to Be Wrong: The Power of Mathematical Thinking
 
 **Authors:** Jordan Ellenberg · **Year:** 2014 · **Venue:** The Penguin Press · **Type:** book
@@ -79,3 +83,4 @@ A popular-mathematics book arguing that mathematics is the formalization and dis
 - **Path:** `raw/creditmacro/How Not to Be Wrong The Power of Mathematical Thinking (Jordan Ellenberg) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:2cdba165c503009c1...`
+<!-- AUTHORED REGION END -->

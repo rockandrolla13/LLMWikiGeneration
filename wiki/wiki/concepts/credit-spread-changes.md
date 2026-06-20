@@ -19,10 +19,14 @@ sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []
 title: Credit Spread Changes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ff9b7352-acd0-5765-afd4-078e3632029e
+content_hash: sha256:6cc7082d4b36f5bd3365c0a73b28d14810de8fdf4c0286a580efc4784ece4a76
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Spread Changes
 
 ## Definition
@@ -44,3 +48,4 @@ Monthly changes in the yield difference between a corporate bond and a maturity-
 - [[concepts/baa-corporate-bond-spread|baa-corporate-bond-spread]]
 - [[concepts/credit-spread-compression|credit-spread-compression]]
 - [[concepts/default-rates|default-rates]]
+<!-- AUTHORED REGION END -->

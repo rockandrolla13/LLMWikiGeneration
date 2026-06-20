@@ -1,15 +1,35 @@
 ---
-title: "Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage"
+title: Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage
 page_id: sources/triantafyllopoulos-2011-mean-reverting-spreads
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [statistical-arbitrage, pairs-trading, kalman-filter, state-space-models, time-varying-parameters, bayesian-estimation, mean-reversion]
-authors: [Kostas Triantafyllopoulos, Giovanni Montana]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistical-arbitrage
+- pairs-trading
+- kalman-filter
+- state-space-models
+- time-varying-parameters
+- bayesian-estimation
+- mean-reversion
+authors:
+- Kostas Triantafyllopoulos
+- Giovanni Montana
 year: 2011
-related: [concepts/kalman-filter, concepts/state-space-models, concepts/statistical-arbitrage, concepts/pairs-trading, concepts/mean-reversion, entities/kostas-triantafyllopoulos, entities/giovanni-montana]
+related:
+- concepts/kalman-filter
+- concepts/state-space-models
+- concepts/statistical-arbitrage
+- concepts/pairs-trading
+- concepts/mean-reversion
+- entities/kostas-triantafyllopoulos
+- entities/giovanni-montana
+schema_version: 2
+uuid: 5debdc19-c452-5777-a74f-d9f6faa70a72
+content_hash: sha256:5bdd4b795187a21613bdae1d282c4c6d30b552f86544ffe4a717785b35e101dc
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper extends the state-space framework for modeling mean-reverting spreads in statistical arbitrage, introducing time-varying parameters and a Bayesian on-line estimation algorithm. The approach allows quick adaptation to changes in market dynamics and is suitable for high-frequency trading applications.
@@ -91,3 +111,5 @@ For time-varying model, mean reversion requires:
 ## Citations
 
 Triantafyllopoulos, K., & Montana, G. (2011). Dynamic modeling of mean-reverting spreads for statistical arbitrage. Computational Management Science, 8(1-2), 23-49.
+
+<!-- AUTHORED REGION END -->

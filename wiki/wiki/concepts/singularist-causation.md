@@ -14,10 +14,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Singularist Theory of Causation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 857e8ecb-9260-5329-b00d-4d37a3ea4243
+content_hash: sha256:37fd56b69e1631439948fa684e7b2e1f9bf0ee5f35774200c180cfa3f1e9e62c
 ---
 
+<!-- AUTHORED REGION START -->
 # Singularist Theory of Causation
 
 ## Definition
@@ -31,3 +35,4 @@ A realist, anti-reductionist account on which a causal relation can hold between
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

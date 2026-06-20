@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: European High Yield Strategy Monthly Leveraged Finance Playbook — Performance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_039523490922
+schema_version: 2
+uuid: d37f235d-7d41-5dd5-9600-e7ee3a1fea7d
+content_hash: sha256:49d54d75e75ea11e65967bff037fc893bc9274a948a6c1f95efd3744d6899e9c
 ---
 
+<!-- AUTHORED REGION START -->
 # European High Yield Strategy Monthly Leveraged Finance Playbook — Performance
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -63,3 +67,4 @@ A monthly European high yield strategy data note from Morgan Stanley covering pe
 - **Path:** `raw/creditmacro/Morgan Stanley - European High Yield Strategy Monthly Leveraged Finance Playbook — Performance - 2017-06-23.md`
 - **Type:** article
 - **Hash:** `sha256:b8f853176c8126180...`
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,27 @@ title: Conformal Outlier Detection
 page_id: concepts/conformal-outlier-detection
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, outlier-detection, anomaly-detection, unsupervised]
-sources: [sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/exchangeability, concepts/split-conformal-prediction, concepts/nonconformity-score]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- outlier-detection
+- anomaly-detection
+- unsupervised
+sources:
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/split-conformal-prediction
+- concepts/nonconformity-score
 mind_map_priority: medium
+schema_version: 2
+uuid: 389b5b1b-5e14-5fac-8e76-c3678b52204f
+content_hash: sha256:2bd7674e3bb7855367ea6a8e7510d8c5fd3807a9f64dd2d69f90356a996824d8
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Outlier Detection
 
 The unsupervised variant of [[concepts/conformal-prediction|CP]]: calibrate a [[concepts/nonconformity-score|score]] `s(x)` on clean i.i.d. data `X_1, ..., X_n` and **flag a test point as an outlier** when its score exceeds the empirical `⌈(n+1)(1−α)⌉/n` quantile.
@@ -45,3 +58,5 @@ This is a **finite-sample, distribution-free** false-positive rate guarantee —
 - [[concepts/conformal-prediction]]
 - [[concepts/split-conformal-prediction]]
 - [[concepts/nonconformity-score]]
+
+<!-- AUTHORED REGION END -->

@@ -1,20 +1,43 @@
 ---
-title: "The Elements of Statistical Learning"
+title: The Elements of Statistical Learning
 page_id: sources/hastie-2009-elements-statistical-learning
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_6_2026_06_19
-tags: [statistical-learning, machine-learning, supervised-learning, unsupervised-learning, regression, classification, regularisation, shrinkage, ensemble-methods, high-dimensional-statistics, model-selection, bayesian-methods, data-mining, textbook, stanford]
-sources: [sources/hastie-2009-elements-statistical-learning]
+tags:
+- statistical-learning
+- machine-learning
+- supervised-learning
+- unsupervised-learning
+- regression
+- classification
+- regularisation
+- shrinkage
+- ensemble-methods
+- high-dimensional-statistics
+- model-selection
+- bayesian-methods
+- data-mining
+- textbook
+- stanford
+sources:
+- sources/hastie-2009-elements-statistical-learning
 related: []
 mind_map_priority: high
-authors: ["Trevor Hastie", "Robert Tibshirani", "Jerome Friedman"]
+authors:
+- Trevor Hastie
+- Robert Tibshirani
+- Jerome Friedman
 year: 2009
 source_type: book
+schema_version: 2
+uuid: bee3751e-91b8-534a-a9a3-80fcdf21f453
+content_hash: sha256:0e9723d11dc13206fce54dbe1178898d0e66eabf337847e6f633475b10901fd3
 ---
 
+<!-- AUTHORED REGION START -->
 # The Elements of Statistical Learning
 
 **Authors:** Trevor Hastie, Robert Tibshirani, Jerome Friedman  
@@ -79,3 +102,5 @@ The Elements of Statistical Learning (second edition, 2009) is a comprehensive g
 - Random forests de-correlate trees by random feature subsampling, but the book leaves open how to optimally set the number of features m and the tree depth in practice across problem types.
 - The book treats directed graphical models only briefly; how should practitioners choose between directed and undirected graphical models when both are applicable to a problem?
 - For neural networks trained by backpropagation, the book notes multiple local minima and sensitivity to initialisation — to what extent do modern regularisation and optimisation advances (dropout, batch normalisation, adaptive learning rates) resolve these issues?
+
+<!-- AUTHORED REGION END -->

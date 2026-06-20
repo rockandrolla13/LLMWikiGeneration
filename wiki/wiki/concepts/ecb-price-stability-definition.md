@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: ECB Price Stability Definition
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 37a24627-2ed9-5c2a-8cd2-6e0a2e066cc5
+content_hash: sha256:2061c51a1061fd7c52d90cd083168a0eb21340ebf9e336728e82a45c4514d5b2
 ---
 
+<!-- AUTHORED REGION START -->
 # ECB Price Stability Definition
 
 ## Definition
@@ -31,3 +35,4 @@ The ECB's quantitative operationalization of its mandate, announced in 1998 as H
 ## Related Concepts
 
 - [[concepts/great-moderation|great-moderation]]
+<!-- AUTHORED REGION END -->

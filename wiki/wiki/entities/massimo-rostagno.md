@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Massimo Rostagno
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7a017dbd-82bd-50a8-a639-1ae312743d39
+content_hash: sha256:9b58f50bc47308f73c3041e6aca5b44451386d8e9d8506f53c2417c6489c5fd8
 ---
 
+<!-- AUTHORED REGION START -->
 # Massimo Rostagno
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

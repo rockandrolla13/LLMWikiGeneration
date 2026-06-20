@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: 'UK Interest Rate Strategist: Gilt Futures: The Return of the Option'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9a4a9488cabc
+schema_version: 2
+uuid: 1dd33b1d-d4e8-5f54-aad4-def67f0be398
+content_hash: sha256:ef1a8c2441061ddf98ebba150ebc5ba5807999f8cbe1d0964fa5bca48a18f5f9
 ---
 
+<!-- AUTHORED REGION START -->
 # UK Interest Rate Strategist: Gilt Futures: The Return of the Option
 
 **Authors:** Mayank Gargh, Laurence Mutkin, Owen Roberts, Michelle Bradley · **Year:** 2008 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -63,3 +67,4 @@ A UK Interest Rate Strategist note arguing that the December Gilt futures contra
 - **Path:** `raw/creditmacro/Morgan Stanley - Mayank Gargh — Laurence Mutkin - 2008-08-28.md`
 - **Type:** article
 - **Hash:** `sha256:3f88f6ce1e97cfa6c...`
+<!-- AUTHORED REGION END -->

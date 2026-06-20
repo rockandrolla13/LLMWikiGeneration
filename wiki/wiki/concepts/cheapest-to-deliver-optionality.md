@@ -15,10 +15,14 @@ sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 tags: []
 title: Cheapest-to-Deliver Optionality
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ccf6bbc1-3b24-5584-9c35-2032b6ca88aa
+content_hash: sha256:6b6bfd0f69763dd7e0b678f681852048a2daee3b6210ae24da9eae0484bf667f
 ---
 
+<!-- AUTHORED REGION START -->
 # Cheapest-to-Deliver Optionality
 
 ## Definition
@@ -33,3 +37,4 @@ The embedded option in a bond futures contract arising from the seller's choice 
 
 - [[concepts/forward-rate|forward-rate]]
 - [[concepts/government-bond-spreads|government-bond-spreads]]
+<!-- AUTHORED REGION END -->

@@ -1,15 +1,36 @@
 ---
-title: "Market making by an FX dealer: tiers, pricing ladders and hedging rates"
+title: 'Market making by an FX dealer: tiers, pricing ladders and hedging rates'
 page_id: sources/barzykin-2021-fx-dealer-tiers
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, fx, foreign-exchange, client-tiering, internalization, externalization, stochastic-control]
-authors: [Alexander Barzykin, Philippe Bergault, Olivier Guéant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- fx
+- foreign-exchange
+- client-tiering
+- internalization
+- externalization
+- stochastic-control
+authors:
+- Alexander Barzykin
+- Philippe Bergault
+- Olivier Guéant
 year: 2021
-related: [concepts/market-making, concepts/internalization-externalization, concepts/client-tiering, concepts/inventory-risk, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin]
+related:
+- concepts/market-making
+- concepts/internalization-externalization
+- concepts/client-tiering
+- concepts/inventory-risk
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+schema_version: 2
+uuid: 929ca828-c30a-5dec-825a-f5c5252b832b
+content_hash: sha256:4dd0b3474169a6ac0254c030c94e81d07d772d24df3a56712d8a5c8643b729fc
 ---
 
+<!-- AUTHORED REGION START -->
 # Market making by an FX dealer: tiers, pricing ladders and hedging rates
 
 ## Summary
@@ -59,3 +80,5 @@ $$\Lambda^{b/a}(\delta) = \frac{\lambda}{1 + e^{\alpha + \beta\delta}}$$
 ## Citation
 
 Barzykin, A., Bergault, P., & Guéant, O. (2021). Market making by an FX dealer: tiers, pricing ladders and hedging rates for optimal risk control. *Quantitative Finance*.
+
+<!-- AUTHORED REGION END -->

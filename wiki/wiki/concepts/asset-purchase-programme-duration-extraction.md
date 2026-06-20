@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Asset Purchase Programme and Duration Extraction
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1e88455d-3b9f-5021-a31f-d71d9fb8debf
+content_hash: sha256:ef4e672fac296a6ee87626463bd3e214b42b148d28aa3c55e3ea1ca3f3d5ca20
 ---
 
+<!-- AUTHORED REGION START -->
 # Asset Purchase Programme and Duration Extraction
 
 ## Definition
@@ -31,3 +35,4 @@ The ECB's large-scale asset purchases (PSPP from 2015) calibrated via an inflati
 ## Related Concepts
 
 - [[concepts/government-bond-spreads|government-bond-spreads]]
+<!-- AUTHORED REGION END -->

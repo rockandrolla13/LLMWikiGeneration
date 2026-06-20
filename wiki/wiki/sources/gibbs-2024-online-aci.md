@@ -1,33 +1,45 @@
 ---
-title: "Conformal Inference for Online Prediction with Arbitrary Distribution Shifts"
+title: Conformal Inference for Online Prediction with Arbitrary Distribution Shifts
 page_id: sources/gibbs-2024-online-aci
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Isaac Gibbs", "Emmanuel J. Candès"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Isaac Gibbs
+- Emmanuel J. Candès
 year: 2024
-venue: "Journal of Machine Learning Research 25 (arXiv:2208.08401)"
-tags: [conformal-prediction, adaptive-conformal-inference, online-learning, distribution-shift, expert-aggregation, dynamic-regret, dtaci]
-related: [
-  concepts/adaptive-conformal-inference,
-  concepts/dtaci,
-  concepts/online-conformal-prediction,
-  concepts/agaci,
-  concepts/conformal-prediction,
-  concepts/distribution-drift,
-  entities/isaac-gibbs,
-  entities/emmanuel-candes,
-  sources/gibbs-2021-aci,
-  sources/zaffran-2022-aci,
-  sources/angelopoulos-2023-conformal-pid,
-  sources/barber-2023-beyond-exchangeability,
-  sources/stocker-2025-conformal-timeseries-intro
-]
+venue: Journal of Machine Learning Research 25 (arXiv:2208.08401)
+tags:
+- conformal-prediction
+- adaptive-conformal-inference
+- online-learning
+- distribution-shift
+- expert-aggregation
+- dynamic-regret
+- dtaci
+related:
+- concepts/adaptive-conformal-inference
+- concepts/dtaci
+- concepts/online-conformal-prediction
+- concepts/agaci
+- concepts/conformal-prediction
+- concepts/distribution-drift
+- entities/isaac-gibbs
+- entities/emmanuel-candes
+- sources/gibbs-2021-aci
+- sources/zaffran-2022-aci
+- sources/angelopoulos-2023-conformal-pid
+- sources/barber-2023-beyond-exchangeability
+- sources/stocker-2025-conformal-timeseries-intro
 mind_map_priority: high
+schema_version: 2
+uuid: c5a09a0b-50da-5d86-b3b6-538bfb886beb
+content_hash: sha256:a5809e1fe391ea0165c351b92317e34ef3756616ea85db8fbba4ef0c7116145e
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Inference for Online Prediction with Arbitrary Distribution Shifts (DtACI)
 
 **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
@@ -81,3 +93,5 @@ The method achieves provably small **dynamic regret** over all local time interv
 - [[concepts/adaptive-conformal-inference]]
 - [[concepts/online-conformal-prediction]]
 - [[entities/isaac-gibbs]]
+
+<!-- AUTHORED REGION END -->

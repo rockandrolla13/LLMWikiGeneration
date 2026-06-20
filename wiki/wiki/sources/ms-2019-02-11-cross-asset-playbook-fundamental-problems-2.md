@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Playbook – February 2019: Fundamental Problems'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_65f5528335bf
+schema_version: 2
+uuid: 57952166-c58c-5d78-9b36-204ec4055bb6
+content_hash: sha256:5fc544ae8a7f586468773c33b05b86c3b738e53d5ad5689635cd464d564514fc
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Playbook – February 2019: Fundamental Problems
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -67,3 +71,4 @@ Morgan Stanley's February 2019 cross-asset allocation note argues that a dovish 
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook – February 2019 Fundamental Problems - 2019-02-11.md`
 - **Type:** article
 - **Hash:** `sha256:adf09f116f85b4469...`
+<!-- AUTHORED REGION END -->

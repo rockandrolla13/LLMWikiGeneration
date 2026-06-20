@@ -33,10 +33,14 @@ sources: []
 tags: []
 title: 'Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange
   Strategy'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_c94b39bde1d2
+schema_version: 2
+uuid: 266f583d-3ed8-592a-831f-c88011b277ec
+content_hash: sha256:6085a297e907285b77a312a9375ee81da75023afdd8351769ffb92f59febf1b9
 ---
 
+<!-- AUTHORED REGION START -->
 # Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy
 
 **Authors:** Rogerio Oliveira, Rashique Rahman, Paolo Batori, Chuan Lim, Juha Seppala · **Year:** 2010 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ The first edition of Morgan Stanley's Emerging Markets Quantitative Quarterly (E
 - **Path:** `raw/creditmacro/Morgan Stanley - Emerging Markets Quantitative Quarterly — EM Fixed Income and Foreign Exchange Strategy - 2010.md`
 - **Type:** article
 - **Hash:** `sha256:0f38e9cd410e1642f...`
+<!-- AUTHORED REGION END -->

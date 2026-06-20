@@ -14,10 +14,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: At-At Theory of Causal Influence
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bd436f0d-da6c-5371-bd4f-11d77e2b9c2f
+content_hash: sha256:9a2b86513a33ed2744b58db7395bc2e8804c84c648c61f42dce6a70cda62750a
 ---
 
+<!-- AUTHORED REGION START -->
 # At-At Theory of Causal Influence
 
 ## Definition
@@ -31,3 +35,4 @@ Salmon's theory identifying causal connections with physical processes capable o
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

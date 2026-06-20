@@ -15,10 +15,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Citigroup
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b7dc873a-55f0-55b8-b842-71add8384427
+content_hash: sha256:ed6e409e866b3e7903f9f1a1724883bfaa422ce2106ad80c7cda7ecd9ba793b7
 ---
 
+<!-- AUTHORED REGION START -->
 # Citigroup
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/citi-global-theme-book|Citi Global Theme Book]]
 - [[sources/schofield-2019-citi-macro-views|Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]]
+<!-- AUTHORED REGION END -->

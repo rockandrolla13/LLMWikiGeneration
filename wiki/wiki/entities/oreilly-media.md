@@ -5,7 +5,7 @@ page_type: entity
 entity_type: organization
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -20,8 +20,12 @@ sources:
 mind_map_priority: high
 affiliation: Sebastopol, CA
 revision_hash: sha256:f4c6ee888578b7b7
+schema_version: 2
+uuid: f5979a18-d37d-51f9-a130-aaa799dbc613
+content_hash: sha256:aed944960e70cdc4ffa08f9c26ce9ccc98842947921b6b3a56f351d1b0f06aae
 ---
 
+<!-- AUTHORED REGION START -->
 # O'Reilly Media
 
 **Role:** publisher
@@ -40,3 +44,5 @@ Publisher of the book; first edition released December 2024 with 2025 copyright 
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 - [[sources/nelson-2024-swe-for-data-scientists|Software Engineering for Data Scientists]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
+
+<!-- AUTHORED REGION END -->

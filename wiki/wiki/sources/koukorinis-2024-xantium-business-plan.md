@@ -31,10 +31,14 @@ tags:
 - fixed-income
 - risk-management
 title: 'Business Plan Details for Xantium: Systematic Spread Fixed Income Trading'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0d00a43bc19a
+schema_version: 2
+uuid: 653c8d5d-33aa-55e5-8f4f-8992799b830f
+content_hash: sha256:bddb0961be6b13b5207e9458e2348fe951b5be6d20b7228035cbae6a6a7154c5
 ---
 
+<!-- AUTHORED REGION START -->
 # Business Plan Details for Xantium: Systematic Spread Fixed Income Trading
 
 **Authors:** Andreas Koukorinis · **Year:** 2024 · **Type:** business-plan
@@ -76,3 +80,4 @@ A business plan by Andreas Koukorinis (11 April 2024) proposing Xantium, a syste
 - **Path:** `raw/creditmacro/XantimumBizPlan.md`
 - **Type:** notes
 - **Hash:** `sha256:5620d7a2b54082356...`
+<!-- AUTHORED REGION END -->

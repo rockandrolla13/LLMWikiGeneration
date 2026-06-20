@@ -33,9 +33,13 @@ tags:
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 47e7be12-ab35-5549-b347-0d0a46218226
+content_hash: sha256:a4753fe407bc24456c1619264dfb8fdbfe16d5fd89adc641f6d5d150cf1a244a
 ---
 
+<!-- AUTHORED REGION START -->
 # Liquidity Risk
 
 Liquidity risk is the risk that an investor cannot buy or sell an asset quickly enough at a fair price, or that doing so will significantly impact the market price.
@@ -92,3 +96,4 @@ Now also discussed in: [[sources/kapadia-2012-limited-arbitrage-equity-credit]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms-2019-03-04-a-premium-for-size]]
+<!-- AUTHORED REGION END -->

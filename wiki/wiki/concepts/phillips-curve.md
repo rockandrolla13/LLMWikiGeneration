@@ -14,10 +14,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Phillips Curve
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f9970424-be39-583d-ac76-631a552ed8b6
+content_hash: sha256:0e4d1a18cb14cc692cc88b14b563346c4c560fff05e6bd8ebd2b23544b9b5fa1
 ---
 
+<!-- AUTHORED REGION START -->
 # Phillips Curve
 
 ## Definition
@@ -31,3 +35,4 @@ The relationship between economic slack and inflation/wages; argued to be non-li
 ## Related Concepts
 
 - [[concepts/great-moderation|great-moderation]]
+<!-- AUTHORED REGION END -->

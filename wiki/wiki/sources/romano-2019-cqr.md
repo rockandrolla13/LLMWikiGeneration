@@ -1,34 +1,45 @@
 ---
-title: "Conformalized Quantile Regression"
+title: Conformalized Quantile Regression
 page_id: sources/romano-2019-cqr
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Yaniv Romano", "Evan Patterson", "Emmanuel J. Candès"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Yaniv Romano
+- Evan Patterson
+- Emmanuel J. Candès
 year: 2019
-venue: "NeurIPS 2019 (arXiv:1905.03222)"
-tags: [conformal-prediction, quantile-regression, heteroskedasticity, prediction-intervals, distribution-free]
-related: [
-  concepts/conformalized-quantile-regression,
-  concepts/quantile-regression,
-  concepts/split-conformal-prediction,
-  concepts/nonconformity-score,
-  concepts/conformal-prediction,
-  concepts/marginal-coverage,
-  entities/yaniv-romano,
-  entities/evan-patterson,
-  entities/emmanuel-candes,
-  sources/lei-2018-distribution-free-regression,
-  sources/romano-2020-aps,
-  sources/tibshirani-2019-covariate-shift,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/chernozhukov-2021-distributional-cp
-]
+venue: NeurIPS 2019 (arXiv:1905.03222)
+tags:
+- conformal-prediction
+- quantile-regression
+- heteroskedasticity
+- prediction-intervals
+- distribution-free
+related:
+- concepts/conformalized-quantile-regression
+- concepts/quantile-regression
+- concepts/split-conformal-prediction
+- concepts/nonconformity-score
+- concepts/conformal-prediction
+- concepts/marginal-coverage
+- entities/yaniv-romano
+- entities/evan-patterson
+- entities/emmanuel-candes
+- sources/lei-2018-distribution-free-regression
+- sources/romano-2020-aps
+- sources/tibshirani-2019-covariate-shift
+- sources/angelopoulos-2022-gentle-intro
+- sources/chernozhukov-2021-distributional-cp
 mind_map_priority: high
+schema_version: 2
+uuid: 57f5348b-5747-536c-be6d-828238485d9b
+content_hash: sha256:af7169553bb2847bf4482d25b650c0d1cca4a3919b2b814b69bb353adeb464cf
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformalized Quantile Regression
 
 **Authors:** [[entities/yaniv-romano|Yaniv Romano]], [[entities/evan-patterson|Evan Patterson]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
@@ -86,3 +97,5 @@ CQR is **the canonical CP-meets-QR synthesis** and the workhorse for HFT-style u
 - [[concepts/conformalized-quantile-regression]]
 - [[concepts/quantile-regression]]
 - [[entities/yaniv-romano]]
+
+<!-- AUTHORED REGION END -->

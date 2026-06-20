@@ -1,20 +1,45 @@
 ---
-title: "Practical MLOps: Operationalizing Machine Learning Models"
+title: 'Practical MLOps: Operationalizing Machine Learning Models'
 page_id: sources/gift-2021-practical-mlops
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_5_2026_06_19
-tags: [mlops, devops, machine-learning-engineering, ci/cd, automl, cloud-computing, aws, azure, gcp, containers, edge-computing, onnx, model-deployment, monitoring, microservices, python, o'reilly, 2021]
-sources: [sources/gift-2021-practical-mlops]
+tags:
+- mlops
+- devops
+- machine-learning-engineering
+- ci/cd
+- automl
+- cloud-computing
+- aws
+- azure
+- gcp
+- containers
+- edge-computing
+- onnx
+- model-deployment
+- monitoring
+- microservices
+- python
+- o'reilly
+- 2021
+sources:
+- sources/gift-2021-practical-mlops
 related: []
 mind_map_priority: high
-authors: ["Noah Gift", "Alfredo Deza"]
+authors:
+- Noah Gift
+- Alfredo Deza
 year: 2021
 source_type: book
+schema_version: 2
+uuid: cf52d2ff-cd94-58d0-abb4-0f92d0596d32
+content_hash: sha256:91acd3bc532a00a7ea4074a88246b2aab9bbbbfb908c7ff75009342b3625ad5f
 ---
 
+<!-- AUTHORED REGION START -->
 # Practical MLOps: Operationalizing Machine Learning Models
 
 **Authors:** Noah Gift, Alfredo Deza  
@@ -90,3 +115,5 @@ Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2
 - The preface cites a Forbes article by Noah Gift claiming organizations are not seeing ROI from data science — what evidence or data is provided for this claim?
 - What is the book's concrete definition of the 'MLOps hierarchy of needs' and how does it map to Maslow's hierarchy?
 - Chapter 12 references a case study at Sqor Sports Social Network — how generalizable are those lessons to non-social-media ML use cases?
+
+<!-- AUTHORED REGION END -->

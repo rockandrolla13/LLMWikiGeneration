@@ -37,10 +37,14 @@ tags:
 - ensemble-forecasting
 title: 'Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring
   Rules'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b7a89e800e62
+schema_version: 2
+uuid: 07a9318e-566b-5860-b274-e4c38ceb2d62
+content_hash: sha256:fec90686333b308a232f3e2a3453c85cb5633c9d2e12f9820c8711186b3cbaa3
 ---
 
+<!-- AUTHORED REGION START -->
 # Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules
 
 **Authors:** Florian Ziel, Kevin Berk · **Year:** 2019 · **Venue:** arXiv preprint (arXiv:1910.07325) · **Type:** paper
@@ -88,3 +92,4 @@ Ziel and Berk study scoring rules for evaluating multivariate probabilistic fore
 - **Path:** `raw/creditmacro/1910.07325v1.md`
 - **Type:** paper
 - **Hash:** `sha256:ee5e8436d8ce9438e...`
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,31 @@ title: Conditional Coverage
 page_id: concepts/conditional-coverage
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, coverage, validity, conditional-validity]
-sources: [sources/angelopoulos-2022-gentle-intro, sources/xu-2023-enbpi, sources/stocker-2025-conformal-timeseries-intro, sources/dieuleveut-zaffran-2025-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/marginal-coverage, concepts/conditional-validity, concepts/group-balanced-conformal-prediction, concepts/class-conditional-conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- coverage
+- validity
+- conditional-validity
+sources:
+- sources/angelopoulos-2022-gentle-intro
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/marginal-coverage
+- concepts/conditional-validity
+- concepts/group-balanced-conformal-prediction
+- concepts/class-conditional-conformal-prediction
 mind_map_priority: high
+schema_version: 2
+uuid: 46fd14ce-b49b-5b2d-8d38-e113dee927f1
+content_hash: sha256:4cef07fa7a7d1e51629fc23d9c3fc0e3c0081a005d36c08b7339a09935a7e1d0
 ---
 
+<!-- AUTHORED REGION START -->
 # Conditional Coverage
 
 **Conditional coverage** is the stronger validity property:
@@ -52,3 +69,5 @@ Modern variants partition the covariate space and require marginal coverage with
 - [[concepts/marginal-coverage]]
 - [[concepts/conditional-validity]]
 - [[concepts/coverage-guarantee]]
+
+<!-- AUTHORED REGION END -->

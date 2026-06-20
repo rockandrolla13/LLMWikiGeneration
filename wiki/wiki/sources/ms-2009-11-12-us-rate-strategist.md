@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Interest Rate Strategist: Stay Close to Home'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cefd641e1a9d
+schema_version: 2
+uuid: 552e1c16-e48a-52d0-84c0-1612f032e8dc
+content_hash: sha256:32d6b7959509f178b677c8a0b3ca485cc408f781db4c8c308cbc5e42232c77c3
 ---
 
+<!-- AUTHORED REGION START -->
 # US Interest Rate Strategist: Stay Close to Home
 
 **Authors:** Jim Caron · **Year:** 2009 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Morgan Stanley's US Interest Rate Strategist note (November 12, 2009) by Jim Car
 - **Path:** `raw/creditmacro/Morgan Stanley - Morgan Stanley & Co. Incorporated Jim Caron Head - nd.md`
 - **Type:** article
 - **Hash:** `sha256:805ad6c051d9f0989...`
+<!-- AUTHORED REGION END -->

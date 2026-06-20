@@ -13,10 +13,14 @@ sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []
 title: Demand and Supply Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c0b89d77-942f-559a-ae0c-c105f708a17c
+content_hash: sha256:1432510350c1c38eb70c059120ccd398b653f20a0df1359c357d4cb7b9d87e6d
 ---
 
+<!-- AUTHORED REGION START -->
 # Demand and Supply Analysis
 
 ## Definition
@@ -26,3 +30,4 @@ Microeconomic framework analysing how quantity demanded and supplied respond to 
 ## Sources
 
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
+<!-- AUTHORED REGION END -->

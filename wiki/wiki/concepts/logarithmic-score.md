@@ -16,10 +16,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Logarithmic Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 14aa0b36-4ee9-5db9-beea-dfdb28f5eb4c
+content_hash: sha256:7bff677e3cac28ad7925c330f12ae9cc29b4fd9db187c40f5bb7bc06c214f2f2
 ---
 
+<!-- AUTHORED REGION START -->
 # Logarithmic Score
 
 ## Definition
@@ -35,3 +39,4 @@ The local strictly proper density score S(p,x)=log p(x), associated with Shannon
 - [[concepts/optimum-score-estimation|optimum-score-estimation]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
 - [[concepts/uncertainty-quantification|uncertainty-quantification]]
+<!-- AUTHORED REGION END -->

@@ -4,7 +4,7 @@ page_id: concepts/classification-fine-tuning
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ related:
 - concepts/transformers
 mind_map_priority: medium
 revision_hash: sha256:73d3b40bc3aca716
+schema_version: 2
+uuid: 07a922d0-03e0-55d8-9736-33fbca839757
+content_hash: sha256:78cef4d479c43a1d51d0f3a49403cf7a111f7b1f5cc7418234c891c0c71349ee
 ---
 
+<!-- AUTHORED REGION START -->
 # Classification Fine-Tuning
 
 ## Definition
@@ -30,3 +34,5 @@ Adapting a pretrained LLM to a discrete classification task by replacing the lan
 ## Related Concepts
 
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

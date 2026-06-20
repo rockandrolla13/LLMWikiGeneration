@@ -29,10 +29,14 @@ tags:
 - sell-side-research
 - market-timing
 title: 'The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a565c113018a
+schema_version: 2
+uuid: ce2f74be-bbe3-5f47-a544-5e3be80d8948
+content_hash: sha256:08b054ed359c04688e8e951a3dd55b471f6340645b34d12ca28348de8d3ae6d6
 ---
 
+<!-- AUTHORED REGION START -->
 # The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1
 
 **Authors:** Sebastian Mercado · **Year:** 2015 · **Venue:** Deutsche Bank Markets Research (Global Synthetic Equity & Index Strategy) · **Type:** report
@@ -72,3 +76,4 @@ A Deutsche Bank sell-side strategy note (5 January 2015) presenting the monthly 
 - **Path:** `raw/creditmacro/Taars.md`
 - **Type:** article
 - **Hash:** `sha256:98b1403fad221c780...`
+<!-- AUTHORED REGION END -->

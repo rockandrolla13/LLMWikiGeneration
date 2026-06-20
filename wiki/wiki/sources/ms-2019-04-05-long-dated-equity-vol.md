@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: Long-Dated Vol Lines Up
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cd5c6b007877
+schema_version: 2
+uuid: 0463382d-e570-5c03-9b96-809bf72e96b5
+content_hash: sha256:b53f54e657592e5601869cf1ee242f022182a81b1f4ec23dd85988a8e3feb01f
 ---
 
+<!-- AUTHORED REGION START -->
 # Long-Dated Vol Lines Up
 
 **Authors:** Phanikiran L Naraparaju, Andrew Sheets, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A cross-asset strategy note arguing that long-dated equity options are most attr
 - **Path:** `raw/creditmacro/Morgan Stanley - Long-Dated Vol Lines Up - 2019-04-05.md`
 - **Type:** article
 - **Hash:** `sha256:8b4e66b1f0844891f...`
+<!-- AUTHORED REGION END -->

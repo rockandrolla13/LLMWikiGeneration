@@ -1,16 +1,27 @@
 ---
-title: "Bühlmann-Straub Model"
+title: Bühlmann-Straub Model
 page_id: concepts/buhlmann-straub-model
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [actuarial-science, credibility-theory, insurance-pricing, statistics]
-sources: [sources/namora-2021-hierarchical]
-related: [concepts/credibility-theory, concepts/hierarchical-credibility-model]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- actuarial-science
+- credibility-theory
+- insurance-pricing
+- statistics
+sources:
+- sources/namora-2021-hierarchical
+related:
+- concepts/credibility-theory
+- concepts/hierarchical-credibility-model
 mind_map_priority: medium
+schema_version: 2
+uuid: a4c716f1-9eaf-52be-b914-56768bf62f1c
+content_hash: sha256:02c89f65ef9255005bc4c7f8461f9893feef29fe8108ea997a5159fe0a2c7d0a
 ---
 
+<!-- AUTHORED REGION START -->
 # Bühlmann-Straub Model
 
 The Bühlmann-Straub model extends classical Bühlmann credibility to handle unequal exposures or weights across observations.
@@ -56,3 +67,5 @@ Where $w_0$ is a correction term for unequal weights.
 - [[concepts/credibility-theory|Credibility Theory]]
 - [[concepts/hierarchical-credibility-model|Hierarchical Credibility Model]]
 - [[sources/namora-2021-hierarchical|Hierarchical Credibility Model (2021)]]
+
+<!-- AUTHORED REGION END -->

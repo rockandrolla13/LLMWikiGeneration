@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Yanqin Fan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ecfd3831-1660-5cb4-b153-e52c1c3ba146
+content_hash: sha256:53dfa545362076856566c7e94bb0c2f80a8a635b4b8145992de1914e49986e67
 ---
 
+<!-- AUTHORED REGION START -->
 # Yanqin Fan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

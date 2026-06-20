@@ -3,14 +3,30 @@ title: Weighted Conformal Prediction (WCP)
 page_id: concepts/weighted-conformal-prediction
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, covariate-shift, distribution-shift, weights]
-sources: [sources/tibshirani-2019-covariate-shift, sources/angelopoulos-2022-gentle-intro, sources/stocker-2025-conformal-timeseries-intro, sources/dieuleveut-zaffran-2025-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/exchangeability, concepts/distribution-drift, concepts/split-conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- covariate-shift
+- distribution-shift
+- weights
+sources:
+- sources/tibshirani-2019-covariate-shift
+- sources/angelopoulos-2022-gentle-intro
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/distribution-drift
+- concepts/split-conformal-prediction
 mind_map_priority: high
+schema_version: 2
+uuid: ab1591bc-52d8-50bd-9dac-93bba21f7587
+content_hash: sha256:3a44e1527f74f9b9abf06d48abf0e677f93ec1a6065afc88b194e6d020aa0142
 ---
 
+<!-- AUTHORED REGION START -->
 # Weighted Conformal Prediction (WCP)
 
 ## Primary Source
@@ -67,3 +83,5 @@ In [[sources/stocker-2025-conformal-timeseries-intro|Stocker et al.'s]] taxonomy
 - [[concepts/exchangeability]]
 - [[concepts/distribution-drift]]
 - [[concepts/adaptive-conformal-inference]] — alternative recipe targeting the same problem.
+
+<!-- AUTHORED REGION END -->

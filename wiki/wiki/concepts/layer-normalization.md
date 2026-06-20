@@ -4,7 +4,7 @@ page_id: concepts/layer-normalization
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ related:
 - concepts/transformers
 mind_map_priority: medium
 revision_hash: sha256:089cc0453f23cd95
+schema_version: 2
+uuid: 942f27d5-964a-5992-b9e1-c7b8fdb446f4
+content_hash: sha256:346b718c68b21952d62dd4962bcb4649ffe5e911b468535f5a823ef2cf03a5e6
 ---
 
+<!-- AUTHORED REGION START -->
 # Layer Normalization
 
 ## Definition
@@ -30,3 +34,5 @@ A normalization technique that rescales activations to zero mean and unit varian
 ## Related Concepts
 
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

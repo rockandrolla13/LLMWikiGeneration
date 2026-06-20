@@ -23,10 +23,14 @@ sources:
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 tags: []
 title: Regime-Switching Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 659bca37-0214-556b-b02f-cfc6b272290a
+content_hash: sha256:5a6aea9bb0e3e084a561a196a82fbe0fd910ceec4a5e7e150bf216675ea5a9f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Regime-Switching Models
 
 ## Definition
@@ -49,3 +53,4 @@ Statistical models that classify markets into discrete states (e.g. risk-seeking
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/quantitative-easing|quantitative-easing]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

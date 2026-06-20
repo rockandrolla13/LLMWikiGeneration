@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategy: Euro Sovereign Bond Market Indicators (eBMIs)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_ec5470251428
+schema_version: 2
+uuid: 29cf1dd3-339f-5cbe-b6bf-867b6c98b845
+content_hash: sha256:177fd4b262503faa2af865cb3b7bc08c41176a384af09bdb057fb7e6253dc175
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategy: Euro Sovereign Bond Market Indicators (eBMIs)
 
 **Authors:** Jesper Rooth, Anton Heese, Matthew Hornbach · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -65,3 +69,4 @@ Morgan Stanley extends its suite of systematic Bond Market Indicators (BMIs) to 
 - **Path:** `raw/creditmacro/Morgan Stanley - Euro Sovereign Bond Market Indicators (eBMIs) - 2016-04-13.md`
 - **Type:** article
 - **Hash:** `sha256:cd8fab5bcf41385ec...`
+<!-- AUTHORED REGION END -->

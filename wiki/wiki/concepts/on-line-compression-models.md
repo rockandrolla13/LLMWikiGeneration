@@ -3,14 +3,28 @@ title: On-Line Compression Models (OCM)
 page_id: concepts/on-line-compression-models
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, on-line-learning, sufficient-statistics, kolmogorov, vovk]
-sources: [sources/vovk-2005-algorithmic-learning, sources/shafer-2007-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/exchangeability, concepts/state-space-models]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- on-line-learning
+- sufficient-statistics
+- kolmogorov
+- vovk
+sources:
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/state-space-models
 mind_map_priority: medium
+schema_version: 2
+uuid: 65949810-30fb-56b0-8859-a9d2f39c983a
+content_hash: sha256:a0e98a8b09feac47d1e11f688da0a5e17190f6d1be97a737d0006d5208a09937
 ---
 
+<!-- AUTHORED REGION START -->
 # On-Line Compression Models (OCM)
 
 **On-Line Compression Models** generalise the [[concepts/exchangeability|exchangeability]] assumption underlying [[concepts/conformal-prediction|conformal prediction]] to any data-generating structure expressible via *sufficient statistics that summarise the past*. Introduced by Vovk in Chs. 8-9 of [[sources/vovk-2005-algorithmic-learning|*Algorithmic Learning in a Random World*]], they sit within Kolmogorov's broader programme of statistical modelling via repetitive structures.
@@ -49,3 +63,5 @@ In practice, modern CP-for-time-series methods ([[concepts/enbpi|EnbPI]], [[conc
 - [[concepts/exchangeability]]
 - [[concepts/state-space-models]]
 - [[concepts/mondrian-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

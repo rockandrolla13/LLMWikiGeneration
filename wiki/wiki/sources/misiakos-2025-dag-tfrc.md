@@ -1,17 +1,31 @@
 ---
-title: "Learning DAGs and Root Causes from Time-Series Data (Misiakos 2025)"
+title: Learning DAGs and Root Causes from Time-Series Data (Misiakos 2025)
 page_id: sources/misiakos-2025-dag-tfrc
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [causal-discovery, dag-learning, time-series, structural-vector-autoregression, sparse-methods]
-authors: [Panagiotis Misiakos, Markus Puschel]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- causal-discovery
+- dag-learning
+- time-series
+- structural-vector-autoregression
+- sparse-methods
+authors:
+- Panagiotis Misiakos
+- Markus Puschel
 year: 2025
 institution: ETH Zurich
-arxiv: "2501.03130"
-related: [concepts/structural-vector-autoregression, concepts/graph-laplacian, entities/markus-puschel]
+arxiv: '2501.03130'
+related:
+- concepts/structural-vector-autoregression
+- concepts/graph-laplacian
+- entities/markus-puschel
+schema_version: 2
+uuid: 70f47424-2378-5e74-bed2-f0c8c8e4f5cb
+content_hash: sha256:0f094a8f53f982c0eb6d4b6f73f63f7446509916a7472d74e5544b9a5a03f346
 ---
 
+<!-- AUTHORED REGION START -->
 # Learning DAGs and Root Causes from Time-Series Data
 
 **Authors:** Panagiotis Misiakos, [[entities/markus-puschel|Markus Püschel]]
@@ -95,3 +109,5 @@ where $h$ enforces acyclicity (NOTEARS-style constraint).
 - [[concepts/structural-vector-autoregression|Structural Vector Autoregression]]
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[sources/yu-2024-graph-learning-financial|Graph Learning for Financial Networks]]
+
+<!-- AUTHORED REGION END -->

@@ -18,10 +18,14 @@ sources:
 - sources/ms-2020-03-11-facing-cycle-picking-swiss
 tags: []
 title: Jackie Ineke
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c15fb61d-cb65-502f-be60-68fe775fae1c
+content_hash: sha256:6d5d4d6628a983046010a29b6394cada0201c206d64a2f98cdf5a0578e6dcc18
 ---
 
+<!-- AUTHORED REGION START -->
 # Jackie Ineke
 
 ## Overview
@@ -35,3 +39,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-04-18-mrel-subordination-brrd2|MREL – Raising the Subordination Stakes]]
 - [[sources/ms-2019-05-23-value-tier2-seniors|European Banks: Hunting for Value in Tier 2 and Seniors]]
 - [[sources/ms-2020-03-11-facing-cycle-picking-swiss|European Banks: Facing the Cycle – Picking Swiss]]
+<!-- AUTHORED REGION END -->

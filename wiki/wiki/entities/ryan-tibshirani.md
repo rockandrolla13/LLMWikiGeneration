@@ -4,14 +4,40 @@ page_id: entities/ryan-tibshirani
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T20:00:00Z
-tags: [researcher, conformal-prediction, statistics, machine-learning, uc-berkeley, cmu]
-sources: [sources/tibshirani-2019-covariate-shift, sources/barber-2021-jackknife-plus, sources/barber-2023-beyond-exchangeability, sources/lei-2018-distribution-free-regression, sources/angelopoulos-2023-conformal-pid, sources/tibshirani-2023-cp-lecture-notes]
-related: [concepts/weighted-conformal-prediction, concepts/jackknife-plus, concepts/non-exchangeable-conformal-prediction, concepts/conformal-pid-control, entities/rina-foygel-barber, entities/emmanuel-candes, entities/aaditya-ramdas, entities/jing-lei, entities/larry-wasserman, entities/anastasios-angelopoulos]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- statistics
+- machine-learning
+- uc-berkeley
+- cmu
+sources:
+- sources/tibshirani-2019-covariate-shift
+- sources/barber-2021-jackknife-plus
+- sources/barber-2023-beyond-exchangeability
+- sources/lei-2018-distribution-free-regression
+- sources/angelopoulos-2023-conformal-pid
+- sources/tibshirani-2023-cp-lecture-notes
+related:
+- concepts/weighted-conformal-prediction
+- concepts/jackknife-plus
+- concepts/non-exchangeable-conformal-prediction
+- concepts/conformal-pid-control
+- entities/rina-foygel-barber
+- entities/emmanuel-candes
+- entities/aaditya-ramdas
+- entities/jing-lei
+- entities/larry-wasserman
+- entities/anastasios-angelopoulos
 mind_map_priority: high
+schema_version: 2
+uuid: cfbeb51b-c621-5289-a3bf-9e974b63209b
+content_hash: sha256:5a62b77356440bdf69ba9b8257e9747ddcbc6f9d6e6e0f50d0dce5a46f19563c
 ---
 
+<!-- AUTHORED REGION START -->
 # Ryan J. Tibshirani
 
 **Ryan J. Tibshirani** is a statistician and a central figure in modern [[concepts/conformal-prediction|conformal prediction]] theory. **Not to be confused with Robert Tibshirani (Stanford; lasso, glmnet)** — Ryan is the conformal-prediction-active Tibshirani.
@@ -45,3 +71,5 @@ Distribution-free predictive inference, conformal prediction beyond exchangeabil
 - [[concepts/weighted-conformal-prediction]]
 - [[concepts/jackknife-plus]]
 - [[concepts/non-exchangeable-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

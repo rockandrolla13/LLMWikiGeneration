@@ -14,10 +14,14 @@ sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []
 title: Stefan Wager
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ceceb628-edaf-504e-bd16-50480235965d
+content_hash: sha256:1980c9ed2b3dabd3a2e19e0fefe4a7b690e2c045acac356466ee83595d2335d1
 ---
 
+<!-- AUTHORED REGION START -->
 # Stefan Wager
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/gentzel-2021-osrct-evaluation|How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]]
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Growing-Block / Unreality of the Future
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a5940008-ea7a-5db0-bacb-e03fe4cdd61d
+content_hash: sha256:7c2d2d9407fa1076e5d0c569a44f1ddcb512cb618d51652180db1bccbb16ce61
 ---
 
+<!-- AUTHORED REGION START -->
 # Growing-Block / Unreality of the Future
 
 ## Definition
@@ -26,3 +30,4 @@ The thesis that past and present are real but the future is not, so the totality
 ## Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+<!-- AUTHORED REGION END -->

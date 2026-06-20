@@ -16,10 +16,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Survivorship Bias
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3e887aa9-a345-5175-aaac-73eb69ce4510
+content_hash: sha256:efbfe703463592cebedf22df6d2cc3a37d2759e31b601747539cbd6d05cae2f3
 ---
 
+<!-- AUTHORED REGION START -->
 # Survivorship Bias
 
 ## Definition
@@ -35,3 +39,4 @@ Upward bias in measured growth and persistence arising because calculations cond
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
+<!-- AUTHORED REGION END -->

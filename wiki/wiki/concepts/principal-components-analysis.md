@@ -14,9 +14,13 @@ tags:
 - dimensionality-reduction
 - factor-models
 title: Principal Components Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: bcfa8f60-04a3-5558-b269-c3ab360aa840
+content_hash: sha256:5704be3b161896f0e5632cedb297841a3e6407dd7a564656e03e68db1fc2798f
 ---
 
+<!-- AUTHORED REGION START -->
 # Principal Components Analysis
 
 **Principal Components Analysis (PCA)** is eigen-decomposition of sample covariance to extract latent pervasive factors from large panels. Used to estimate factor spaces in approximate factor models.
@@ -32,3 +36,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/collin-dufresne-2001-determinants-credit-spread-changes]]
+<!-- AUTHORED REGION END -->

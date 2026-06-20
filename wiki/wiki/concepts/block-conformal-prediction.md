@@ -3,14 +3,27 @@ title: Block Conformal Prediction (BCP)
 page_id: concepts/block-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, time-series, block-methods, weak-dependence]
-sources: [sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/exchangeability, concepts/beta-mixing]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- block-methods
+- weak-dependence
+sources:
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/exchangeability
+- concepts/beta-mixing
 mind_map_priority: medium
+schema_version: 2
+uuid: 4c32e18b-0e98-5755-ac55-bcf71e4a3a73
+content_hash: sha256:83819ea0c323b9eb34674662686d2e1349e2451396564aecab374c1d30ea94a4
 ---
 
+<!-- AUTHORED REGION START -->
 # Block Conformal Prediction (BCP)
 
 **Block Conformal Prediction** (Chernozhukov, Wüthrich, Zhu, 2018; Oliveira et al., 2024) handles temporal dependence by performing the conformal construction on **blocks** of consecutive observations rather than on individual points, exploiting the weak dependence between distant blocks.
@@ -43,3 +56,5 @@ This makes BCP **less robust than its theory suggests**; the other families (WCP
 - [[concepts/split-conformal-prediction]]
 - [[concepts/exchangeability]]
 - [[concepts/beta-mixing]]
+
+<!-- AUTHORED REGION END -->

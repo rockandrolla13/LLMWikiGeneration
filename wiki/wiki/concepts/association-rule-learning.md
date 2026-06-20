@@ -16,9 +16,13 @@ tags:
 - pattern-discovery
 - market-basket
 title: Association Rule Learning
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: f9fca25d-4030-538c-b13f-4676ccbcf965
+content_hash: sha256:04bd77380fb2e669aca94636326f69f6aab44a51ab93703cb9d8834184b4c16f
 ---
 
+<!-- AUTHORED REGION START -->
 # Association Rule Learning
 
 Association rule learning discovers interesting relationships between variables in large datasets, originally developed for market basket analysis.
@@ -82,3 +86,4 @@ Sehatpour et al. (2024) use association rules to:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/cluster-analysis-and-association-rules|cluster-analysis-and-association-rules]]
+<!-- AUTHORED REGION END -->

@@ -22,10 +22,14 @@ sources:
 - sources/ms-2022-11-04-end-of-trends
 tags: []
 title: Guneet Dhingra
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b7bbe88a-bef2-51d0-a7d4-2e4b9b8662c2
+content_hash: sha256:d69d4251e0ab0cefc9710000d51f6b0af29db68877c550eb090f1e1fead2e766
 ---
 
+<!-- AUTHORED REGION START -->
 # Guneet Dhingra
 
 ## Overview
@@ -43,3 +47,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-04-05-crossing-the-rubicon-government-bonds|Crossing the Rubicon (Government Bonds)]]
 - [[sources/ms-2019-05-17-tariffs-government-bonds|For Whom the Tariffs Toll]]
 - [[sources/ms-2022-11-04-end-of-trends|Global Macro Strategist | The End of Trends]]
+<!-- AUTHORED REGION END -->

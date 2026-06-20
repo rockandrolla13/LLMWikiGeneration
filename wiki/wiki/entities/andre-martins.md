@@ -4,14 +4,28 @@ page_id: entities/andre-martins
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [researcher, nlp, machine-learning, uncertainty-quantification, conformal-prediction]
-sources: [sources/farinhas-2024-non-exchangeable-crc]
-related: [concepts/conformal-prediction, concepts/conformal-risk-control, entities/antonio-farinhas, entities/chrysoula-zerva]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- nlp
+- machine-learning
+- uncertainty-quantification
+- conformal-prediction
+sources:
+- sources/farinhas-2024-non-exchangeable-crc
+related:
+- concepts/conformal-prediction
+- concepts/conformal-risk-control
+- entities/antonio-farinhas
+- entities/chrysoula-zerva
 mind_map_priority: medium
+schema_version: 2
+uuid: bf85b7ef-fcdf-5721-bfa7-01d142c363a1
+content_hash: sha256:c5feb361ce1d2a58880938b7f2bd6815e147a0f1cf9db771157cb42f6afd8a52
 ---
 
+<!-- AUTHORED REGION START -->
 # Andre F.T. Martins
 
 **Andre F.T. Martins** is a prominent researcher in natural language processing and machine learning, with significant contributions to structured prediction, attention mechanisms, and uncertainty quantification.
@@ -55,3 +69,5 @@ The DEEP-SPIN lab at IST focuses on structured prediction and uncertainty in NLP
 
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/conformal-risk-control|Conformal Risk Control]]
+
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,28 @@ title: Conformal PID Control
 page_id: concepts/conformal-pid-control
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, time-series, control-theory, adaptive-methods, online-learning]
-sources: [sources/angelopoulos-2023-conformal-pid, sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/adaptive-conformal-inference, concepts/agaci, concepts/conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- control-theory
+- adaptive-methods
+- online-learning
+sources:
+- sources/angelopoulos-2023-conformal-pid
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/adaptive-conformal-inference
+- concepts/agaci
+- concepts/conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: cdfd7e20-2b3d-5c6e-a3c5-cc933a13520d
+content_hash: sha256:79dd70695a3b852e1be7cfd30df91ffe14f2ffca6a2e6be46c57af3f63c34068
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal PID Control
 
 ## Primary Source
@@ -55,3 +69,5 @@ In the four-family taxonomy of CP-for-time-series, Conformal PID Control sits in
 - [[concepts/adaptive-conformal-inference]]
 - [[concepts/agaci]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

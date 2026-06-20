@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Playbook – March 2019: Overpricing Goldilocks, Underpricing Tails'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a8f8bedd0578
+schema_version: 2
+uuid: 31ea2e36-b67e-5c26-b840-7ffb20b2b49a
+content_hash: sha256:337f579f458d8a29fce9eac854137e6fd2b015b230329b32a5dcf2d28edbd9cd
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Playbook – March 2019: Overpricing Goldilocks, Underpricing Tails
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's March 2019 cross-asset note argues the market is too confident 
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook – March 2019 - 2019-03-10.md`
 - **Type:** article
 - **Hash:** `sha256:76a3ce94524e34ad6...`
+<!-- AUTHORED REGION END -->

@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: Morgan Stanley FX Positioning Tracker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8fd7d4d4318f
+schema_version: 2
+uuid: 1be481d8-de87-5ad0-a98e-2348afecb8dd
+content_hash: sha256:bc5c652a5018c27eb4eaa24225f69e98c2bdefc250f2cc85b955a566409d8f34
 ---
 
+<!-- AUTHORED REGION START -->
 # Morgan Stanley FX Positioning Tracker
 
 **Authors:** Gek Teng Khoo, Andrew M Watrous · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ Morgan Stanley's FX Positioning Tracker (February 11, 2019) monitors G10 currenc
 - **Path:** `raw/creditmacro/Morgan Stanley - Morgan Stanley FX Positioning Tracker - 2019-02-11.md`
 - **Type:** article
 - **Hash:** `sha256:e02c7fbf59987d2b8...`
+<!-- AUTHORED REGION END -->

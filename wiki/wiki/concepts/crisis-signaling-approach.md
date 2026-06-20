@@ -13,10 +13,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Crisis Signaling Approach
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fb9eb67a-3239-516f-bb94-cac4647cff17
+content_hash: sha256:270ec7e83e00b8e1664e0ed3187c682eaaf0765582217f4dce7bf6a8c9f47423
 ---
 
+<!-- AUTHORED REGION START -->
 # Crisis Signaling Approach
 
 ## Definition
@@ -26,3 +30,4 @@ An evaluation method that sets an indicator threshold and scores it against a po
 ## Sources
 
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

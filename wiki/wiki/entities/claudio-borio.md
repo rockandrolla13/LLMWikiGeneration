@@ -14,10 +14,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Claudio Borio
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e9cd8d70-bd7c-54b0-bbf8-325ef9c56ab6
+content_hash: sha256:c1cbce87cc03172c0402c608c44d0126c37f9f29ba34d15a80d93e3fd80a3357
 ---
 
+<!-- AUTHORED REGION START -->
 # Claudio Borio
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

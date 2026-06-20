@@ -21,9 +21,13 @@ tags:
 - statistics
 - methodology
 title: Doubly Robust Estimation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: e52f4695-f6a1-50a3-96ba-76a82fe6acf3
+content_hash: sha256:9fa5ab0da3ca89ca52f7e2742b818083d12c6c2ad682bbe9fc8b3c89a75261da
 ---
 
+<!-- AUTHORED REGION START -->
 # Doubly Robust Estimation
 
 ## Definition
@@ -95,3 +99,4 @@ Now also discussed in: [[sources/hernan-2020-causal-inference-what-if]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/gentzel-2021-osrct-evaluation]], [[sources/hill-2011-bart-causal-inference]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Hutchin Hill Capital
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bcb14e9f-a3b6-5068-9233-9da49ec466df
+content_hash: sha256:38c1ee5ee50a2fd349a5bb35f78d5e500f6e36a029b380e4a97588c04db5bba0
 ---
 
+<!-- AUTHORED REGION START -->
 # Hutchin Hill Capital
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ahmad-2014-alaph-liquid-macro-credit-fund|Introduction to the Alaph Capital Liquid Macro Credit Fund]]
+<!-- AUTHORED REGION END -->

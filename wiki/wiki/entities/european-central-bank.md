@@ -15,10 +15,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: European Central Bank
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a43ffb16-3218-5bf6-899e-8ed4b59f15e6
+content_hash: sha256:c26149dac1976c97e76d5e52949befaa292ab3161447c9537c6c0b60912422b7
 ---
 
+<!-- AUTHORED REGION START -->
 # European Central Bank
 
 ## Overview
@@ -32,3 +36,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/ms-2019-02-28-ecb-preview-tltro-funding]]
+<!-- AUTHORED REGION END -->

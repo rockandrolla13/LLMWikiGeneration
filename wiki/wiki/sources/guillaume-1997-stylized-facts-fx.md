@@ -1,19 +1,41 @@
 ---
-title: "From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets"
+title: 'From the bird''s eye to the microscope: A survey of new stylized facts of
+  the intra-daily foreign exchange markets'
 page_id: sources/guillaume-1997-stylized-facts-fx
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Dominique M. Guillaume, Michel M. Dacorogna, Rakhal R. Dave, Ulrich A. Muller, Richard B. Olsen, Olivier V. Pictet]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Dominique M. Guillaume
+- Michel M. Dacorogna
+- Rakhal R. Dave
+- Ulrich A. Muller
+- Richard B. Olsen
+- Olivier V. Pictet
 year: 1997
 venue: Finance and Stochastics
-tags: [foreign-exchange, stylized-facts, high-frequency-data, market-microstructure, heterogeneous-agents, intra-daily]
-related: [concepts/stylized-facts, concepts/market-microstructure, concepts/heterogeneous-agents, concepts/volatility-clustering, sources/koukorinis-stylized-facts]
+tags:
+- foreign-exchange
+- stylized-facts
+- high-frequency-data
+- market-microstructure
+- heterogeneous-agents
+- intra-daily
+related:
+- concepts/stylized-facts
+- concepts/market-microstructure
+- concepts/heterogeneous-agents
+- concepts/volatility-clustering
+- sources/koukorinis-stylized-facts
 mind_map_priority: high
+schema_version: 2
+uuid: cfe2d49c-0380-5b4a-9d10-9aa6bcdc63f4
+content_hash: sha256:64c25b721b071479ab1e88365483159617e1df820f50c42e75663b2bcf5a1502
 ---
 
+<!-- AUTHORED REGION START -->
 # From the Bird's Eye to the Microscope: Stylized Facts of Intra-daily FX Markets
 
 **Authors:** Dominique M. Guillaume, Michel M. Dacorogna, Rakhal R. Dave, Ulrich A. Muller, Richard B. Olsen, Olivier V. Pictet
@@ -84,3 +106,5 @@ A foundational survey of empirical regularities in intra-daily foreign exchange 
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[concepts/heterogeneous-agents|Heterogeneous Agents]]
 - [[concepts/volatility-clustering|Volatility Clustering]]
+
+<!-- AUTHORED REGION END -->

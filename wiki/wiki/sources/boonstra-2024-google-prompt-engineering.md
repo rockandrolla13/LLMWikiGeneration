@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Lee Boonstra
@@ -41,8 +41,12 @@ related:
 - entities/xuezhi-wang
 mind_map_priority: medium
 revision_hash: sha256:33e32f4fdcec0b68
+schema_version: 2
+uuid: 9722204b-a660-5315-b1fd-ae8e712ece5f
+content_hash: sha256:bcc5f5235a31fe76efe2c9ed9520f4fbb15bf2dd15d833be31679256b5e6657b
 ---
 
+<!-- AUTHORED REGION START -->
 # Prompt Engineering
 
 **Authors:** [[entities/lee-boonstra|Lee Boonstra]]
@@ -109,3 +113,5 @@ Developers and applied ML engineers building LLM-powered features on Vertex AI (
 - [[entities/shunyu-yao|Shunyu Yao]]
 - [[entities/tom-brown|Tom Brown]]
 - [[entities/xuezhi-wang|Xuezhi Wang]]
+
+<!-- AUTHORED REGION END -->

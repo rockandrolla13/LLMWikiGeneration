@@ -17,10 +17,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: EWMAC and Carry Trading Rules
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1e23c1cd-e8b4-5bef-88e6-4344706f5460
+content_hash: sha256:548334fe5ba07ee33ec1f4277e4625fd1ec9da407a0b2811b9f246dd66fcdd84
 ---
 
+<!-- AUTHORED REGION START -->
 # EWMAC and Carry Trading Rules
 
 ## Definition
@@ -37,3 +41,4 @@ Two generic example rules: EWMAC (exponentially weighted moving average crossove
 - [[concepts/carry-rolldown|carry-rolldown]]
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/trend-following|trend-following]]
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Tensed (A-theory) vs Tenseless (B-theory) Time
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8b863382-efbd-5809-8c2c-cae53c5092a1
+content_hash: sha256:b656cebb0d2b7465058b0133811e2b7f9aba26c3f3ecea7a91557624c8a69d91
 ---
 
+<!-- AUTHORED REGION START -->
 # Tensed (A-theory) vs Tenseless (B-theory) Time
 
 ## Definition
@@ -26,3 +30,4 @@ The metaphysical contrast between dynamic, tensed views of time (past/present/fu
 ## Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+<!-- AUTHORED REGION END -->

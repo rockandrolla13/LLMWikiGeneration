@@ -1,20 +1,45 @@
 ---
-title: "Introduction to Machine Learning Systems"
+title: Introduction to Machine Learning Systems
 page_id: sources/reddi-2024-introduction-ml-systems
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_3_2026_06_19
-tags: [machine-learning-systems, deep-learning, tinyml, edge-ml, cloud-ml, dnn-architectures, transformers, ai-lifecycle, textbook, harvard, vijay-janapa-reddi, socratiq, alphafold, farmbeats, autonomous-vehicles, mlops, inference, neural-networks, ai-engineering]
-sources: [sources/reddi-2024-introduction-ml-systems]
+tags:
+- machine-learning-systems
+- deep-learning
+- tinyml
+- edge-ml
+- cloud-ml
+- dnn-architectures
+- transformers
+- ai-lifecycle
+- textbook
+- harvard
+- vijay-janapa-reddi
+- socratiq
+- alphafold
+- farmbeats
+- autonomous-vehicles
+- mlops
+- inference
+- neural-networks
+- ai-engineering
+sources:
+- sources/reddi-2024-introduction-ml-systems
 related: []
 mind_map_priority: high
-authors: ["Vijay Janapa Reddi"]
+authors:
+- Vijay Janapa Reddi
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 83b45817-3205-5111-814f-7bb742fe88ea
+content_hash: sha256:d8e05bf95b8802253584b190e26717fabfc9339e3e3d26c0e131d0b061086784
 ---
 
+<!-- AUTHORED REGION START -->
 # Introduction to Machine Learning Systems
 
 **Authors:** Vijay Janapa Reddi  
@@ -75,3 +100,5 @@ Introduction to Machine Learning Systems: Principles and Practices of Engineerin
 - What are the 'suggested reading paths' and how are they differentiated by audience?
 - How does the book address ethical considerations in ML systems in depth (only mentioned briefly in section 1.10.4)?
 - What later chapters cover beyond chapter 5 — the TOC is cut off at line 250?
+
+<!-- AUTHORED REGION END -->

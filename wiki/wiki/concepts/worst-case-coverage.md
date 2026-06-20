@@ -3,14 +3,27 @@ title: Worst-Case Coverage
 page_id: concepts/worst-case-coverage
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, robustness, coverage-guarantee, fairness]
-sources: [sources/yang-2026-multi-distribution-robust-cp]
-related: [concepts/multi-distribution-robust-cp, concepts/coverage-guarantee, concepts/conditional-validity, concepts/distributionally-robust-optimization]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- robustness
+- coverage-guarantee
+- fairness
+sources:
+- sources/yang-2026-multi-distribution-robust-cp
+related:
+- concepts/multi-distribution-robust-cp
+- concepts/coverage-guarantee
+- concepts/conditional-validity
+- concepts/distributionally-robust-optimization
 mind_map_priority: medium
+schema_version: 2
+uuid: 997fa767-4cf0-533b-b8ec-6d13ebf7b844
+content_hash: sha256:4c7c7804f9b2e7f27234a6b315936778c9a642fb70e9cb38c6cddd05e1352655
 ---
 
+<!-- AUTHORED REGION START -->
 # Worst-Case Coverage
 
 **Worst-case coverage** refers to the minimum coverage probability of a prediction set across a family of distributions or subgroups. It is the key objective in distributionally robust uncertainty quantification.
@@ -102,3 +115,5 @@ Worst-case coverage is closely related to **equalized coverage** in algorithmic 
 - [[concepts/max-p-aggregation|Max-p Aggregation]]
 - [[concepts/distributionally-robust-optimization|Distributionally Robust Optimization]]
 - [[sources/yang-2026-multi-distribution-robust-cp|Yang & Jin (2026)]]
+
+<!-- AUTHORED REGION END -->

@@ -1,29 +1,39 @@
 ---
-title: "Cross-conformal predictors"
+title: Cross-conformal predictors
 page_id: sources/vovk-2012-cross-conformal
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-authors: ["Vladimir Vovk"]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Vladimir Vovk
 year: 2012
-venue: "arXiv:1208.0806 (also Annals of Mathematics and Artificial Intelligence 74, 2015)"
-tags: [conformal-prediction, cross-validation, cross-conformal-prediction, vovk, foundational]
-related: [
-  concepts/conformal-prediction,
-  concepts/cross-conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/exchangeability,
-  concepts/jackknife-plus,
-  entities/vladimir-vovk,
-  sources/vovk-2005-algorithmic-learning,
-  sources/shafer-2007-cp-tutorial,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: arXiv:1208.0806 (also Annals of Mathematics and Artificial Intelligence 74,
+  2015)
+tags:
+- conformal-prediction
+- cross-validation
+- cross-conformal-prediction
+- vovk
+- foundational
+related:
+- concepts/conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/exchangeability
+- concepts/jackknife-plus
+- entities/vladimir-vovk
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: medium
+schema_version: 2
+uuid: 01769064-8560-5058-91d4-58ccea840e3e
+content_hash: sha256:69805410dd87ec86ef89b3e886855db06ac791cb67c7621399028f69ef370562
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-conformal predictors
 
 **Authors:** [[entities/vladimir-vovk|Vladimir Vovk]]
@@ -74,3 +84,5 @@ Empirical setup. Spambase dataset (4601 examples, binary spam/email classificati
 - [[concepts/cross-conformal-prediction]]
 - [[concepts/jackknife-plus]]
 - [[entities/vladimir-vovk]]
+
+<!-- AUTHORED REGION END -->

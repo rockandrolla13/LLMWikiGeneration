@@ -1,20 +1,33 @@
 ---
-title: "Building Embodied AI Systems"
+title: Building Embodied AI Systems
 page_id: sources/raj-2025-building-embodied-ai-systems
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [embodied-ai, robotics, autonomous-systems, computer-vision, reinforcement-learning, edge-computing]
-sources: [sources/raj-2025-building-embodied-ai-systems]
+tags:
+- embodied-ai
+- robotics
+- autonomous-systems
+- computer-vision
+- reinforcement-learning
+- edge-computing
+sources:
+- sources/raj-2025-building-embodied-ai-systems
 related: []
 mind_map_priority: medium
-authors: ["Pethuru Raj", "Alvaro Rocha"]
+authors:
+- Pethuru Raj
+- Alvaro Rocha
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 5e48f01f-81b1-5876-955d-29ee9daf7c8e
+content_hash: sha256:df65ab9cc5f23509d25098bddde9098b5cbf44f781cbdd8c13b68942e242c0ac
 ---
 
+<!-- AUTHORED REGION START -->
 # Building Embodied AI Systems
 
 **Authors:** Pethuru Raj, Alvaro Rocha  
@@ -58,3 +71,5 @@ Building Embodied AI Systems: The Agents, the Architecture Principles, Challenge
 - How effectively do simulation-trained embodied agents transfer to real-world physical robots, and what is the current sim-to-real gap?
 - What specific architectural principles distinguish embodied AI systems from conventional deep learning pipelines, particularly regarding sensor fusion and real-time decision-making?
 - How do cybersecurity threats to embodied AI systems (drones, autonomous vehicles) differ from traditional software vulnerabilities, and what defenses are addressed in the book?
+
+<!-- AUTHORED REGION END -->

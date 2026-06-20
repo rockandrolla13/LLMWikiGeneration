@@ -16,10 +16,14 @@ sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []
 title: Observational sampling from randomized controlled trials (OSRCT)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 01704bf8-f90f-5216-b721-53657fb407ea
+content_hash: sha256:f2d4df951b4c6dc4b10a66ecaa2fcc0cbdca6658ad4e772558f794142a164a2b
 ---
 
+<!-- AUTHORED REGION START -->
 # Observational sampling from randomized controlled trials (OSRCT)
 
 ## Definition
@@ -35,3 +39,4 @@ A procedure that non-randomly sub-samples RCT data using biasing covariates to s
 - [[concepts/confounding|confounding]]
 - [[concepts/do-operator|do-operator]]
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

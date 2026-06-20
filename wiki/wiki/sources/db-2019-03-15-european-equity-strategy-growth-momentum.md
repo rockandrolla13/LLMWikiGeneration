@@ -27,10 +27,14 @@ sources: []
 tags: []
 title: 'European Equity Strategy: Global growth momentum starts to recover: what is
   priced in?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0b4859a1191a
+schema_version: 2
+uuid: f936b0ba-3401-5f71-b120-4ad2967dcef9
+content_hash: sha256:3589f0e68bef3002d6ba5da900e4ff8445517a052ee4e6fa3b3f363e746aa44d
 ---
 
+<!-- AUTHORED REGION START -->
 # European Equity Strategy: Global growth momentum starts to recover: what is priced in?
 
 **Authors:** Sebastian Raedler, Andreas Bruckner, Thomas Pearce · **Year:** 2019 · **Venue:** Deutsche Bank Research · **Type:** report
@@ -64,3 +68,4 @@ Deutsche Bank Research notes that global growth momentum began recovering in Feb
 - **Path:** `raw/creditmacro/european_equity_strategy_2019-03-15.md`
 - **Type:** article
 - **Hash:** `sha256:4df80efdd86a33cc6...`
+<!-- AUTHORED REGION END -->

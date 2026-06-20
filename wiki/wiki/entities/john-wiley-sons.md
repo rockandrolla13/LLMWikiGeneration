@@ -18,10 +18,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: John Wiley & Sons
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 93e5437b-c594-5d05-83c0-6a0e751d28f6
+content_hash: sha256:0b4f52be4517e53236497b9427bb2f827951c04572d0c263c3b36e9bf36fb8a1
 ---
 
+<!-- AUTHORED REGION START -->
 # John Wiley & Sons
 
 ## Overview
@@ -35,3 +39,4 @@ updated_by: creditmacro-batch
 - [[sources/pardo-2008-evaluation-optimization-trading-strategies|The Evaluation and Optimization of Trading Strategies]]
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
 - [[sources/tulchinsky-2020-finding-alphas|Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second Edition)]]
+<!-- AUTHORED REGION END -->

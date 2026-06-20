@@ -14,10 +14,14 @@ sources:
 - sources/lukac-2026-economic-analysis-through-mathematics
 tags: []
 title: Zrinka Lukač
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a87bf752-7718-5822-a369-8b36cc91847e
+content_hash: sha256:b063027a0d34dc4dc1e47b84d7c2b4fa2e1498d58c1183c500d3a2521c20f2d0
 ---
 
+<!-- AUTHORED REGION START -->
 # Zrinka Lukač
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/lukac-2026-economic-analysis-through-mathematics|Economic Analysis Through Mathematics: Tools and Techniques for Decision Making]]
+<!-- AUTHORED REGION END -->

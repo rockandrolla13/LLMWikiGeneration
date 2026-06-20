@@ -1,20 +1,33 @@
 ---
-title: "Databricks Spark Knowledge Base (Chinese Edition)"
+title: Databricks Spark Knowledge Base (Chinese Edition)
 page_id: sources/databricks-spark-knowledge-base-cn
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [apache-spark, databricks, distributed-computing, rdd, spark-streaming, chinese-translation, best-practices]
-sources: [sources/databricks-spark-knowledge-base-cn]
+tags:
+- apache-spark
+- databricks
+- distributed-computing
+- rdd
+- spark-streaming
+- chinese-translation
+- best-practices
+sources:
+- sources/databricks-spark-knowledge-base-cn
 related: []
 mind_map_priority: low
-authors: ["Databricks"]
+authors:
+- Databricks
 year: 2023
 source_type: book
+schema_version: 2
+uuid: 94476947-693b-50e3-af01-bf50fb7499a9
+content_hash: sha256:63815523ad4dbd2dae129f16c9f236f4a626d963ce6d3e55c9f89d21b401e5a1
 ---
 
+<!-- AUTHORED REGION START -->
 # Databricks Spark Knowledge Base (Chinese Edition)
 
 **Authors:** Databricks  
@@ -57,3 +70,5 @@ The Databricks Spark Knowledge Base (Chinese Edition) is a translated technical 
 - How do the best practices described here map to Spark's DataFrame/Dataset API, which supersedes the RDD API covered in this guide?
 - What version of Spark does this knowledge base target, and which recommendations have been superseded by later Spark releases?
 - Are there equivalent Databricks-published guides for PySpark users, given that all code samples in the first 250 lines are in Scala/Java?
+
+<!-- AUTHORED REGION END -->

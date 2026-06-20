@@ -32,10 +32,14 @@ tags:
 - mathematics-of-finance
 - textbook
 title: 'Economic Analysis Through Mathematics: Tools and Techniques for Decision Making'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_eecfdd0ee8cd
+schema_version: 2
+uuid: f856dc2f-5f13-5dc8-a508-4a3ca7973643
+content_hash: sha256:c293bb6d3f098638ee875353480be4d4041e0aea1129cf72ff6cc358fdcb770a
 ---
 
+<!-- AUTHORED REGION START -->
 # Economic Analysis Through Mathematics: Tools and Techniques for Decision Making
 
 **Authors:** Zrinka Lukač · **Year:** 2026 · **Venue:** Springer Texts in Business and Economics · **Type:** book
@@ -77,3 +81,4 @@ A textbook (Springer, 2026) by Zrinka Lukač of the University of Zagreb. The ce
 - **Path:** `raw/creditmacro/Economic Analysis Through Mathematics Tools and Techniques for Decision Making (Zrinka Lukač) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:71abff598c0492497...`
+<!-- AUTHORED REGION END -->

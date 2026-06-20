@@ -14,10 +14,14 @@ sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 tags: []
 title: Cath Sleeman
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5238d4fb-8bbf-5aea-a306-62eb2736f9aa
+content_hash: sha256:111831460ffea34d1ee8d1814992368ce501520138fa7a5cb20dd24936ac9be6
 ---
 
+<!-- AUTHORED REGION START -->
 # Cath Sleeman
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2010-06-04-european-macro-indicators-guide|European Economics: A Practitioner's Guide to European Macro Indicators]]
+<!-- AUTHORED REGION END -->

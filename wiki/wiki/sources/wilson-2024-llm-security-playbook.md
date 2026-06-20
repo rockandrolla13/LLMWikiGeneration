@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Steve Wilson
@@ -43,8 +43,12 @@ related:
 - entities/steve-wilson
 mind_map_priority: medium
 revision_hash: sha256:788a72e903e004df
+schema_version: 2
+uuid: 777344ed-b13e-5c8c-9607-01aca0d4001a
+content_hash: sha256:942fc1d7cebd30a1a306e554cf1988a63506aabc983f0d1623c3cb2f58c151ed
 ---
 
+<!-- AUTHORED REGION START -->
 # The Developer's Playbook for Large Language Model Security
 *Building Secure AI Applications*
 
@@ -115,3 +119,5 @@ Application developers, security engineers, and architects building or reviewing
 - [[entities/github-copilot|GitHub Copilot]]
 - [[entities/meta-llama|Meta Llama]]
 - [[entities/contrast-security|Contrast Security]]
+
+<!-- AUTHORED REGION END -->

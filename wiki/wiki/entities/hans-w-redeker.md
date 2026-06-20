@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-03-01-global-insights-polling
 tags: []
 title: Hans W Redeker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 19431f1e-d7bf-5f02-acb1-0145dad30001
+content_hash: sha256:d938565c214166331683ec2ba5a6669cf6bae0f8d2f92c61ca05f325de759344
 ---
 
+<!-- AUTHORED REGION START -->
 # Hans W Redeker
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-03-01-global-insights-polling|Global Insights Day 2019 - Polling Results]]
+<!-- AUTHORED REGION END -->

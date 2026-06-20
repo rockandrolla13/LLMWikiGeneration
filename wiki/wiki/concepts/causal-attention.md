@@ -4,7 +4,7 @@ page_id: concepts/causal-attention
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -17,8 +17,12 @@ related:
 - concepts/transformers
 mind_map_priority: medium
 revision_hash: sha256:4f4f972540f142fc
+schema_version: 2
+uuid: 118bac1e-bddf-5bf3-a477-34af50b2b597
+content_hash: sha256:56ef2aea2f1be9f18478d697e7fc3309e63fbab3a0b33dad050d9f387ecbf691
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal Attention
 
 ## Definition
@@ -33,3 +37,5 @@ A masked variant of self-attention used in autoregressive decoders that zeroes o
 
 - [[concepts/self-attention]]
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

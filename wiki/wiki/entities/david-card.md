@@ -14,10 +14,14 @@ sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []
 title: David Card
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 05ff7d70-fdef-57a0-8c87-e428ab481da0
+content_hash: sha256:8caabb7131d15cbd32384058ffce6865e28ab29b05a95ef418f9d49d194959ac
 ---
 
+<!-- AUTHORED REGION START -->
 # David Card
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/angrist-2009-mostly-harmless-econometrics|Mostly Harmless Econometrics: An Empiricist's Companion]]
+<!-- AUTHORED REGION END -->

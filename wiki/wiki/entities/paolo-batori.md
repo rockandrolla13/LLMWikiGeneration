@@ -14,10 +14,14 @@ sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly
 tags: []
 title: Paolo Batori
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1e45b937-fccd-56d1-afd9-6556b3f89c16
+content_hash: sha256:94eaacb7d3008623c76ce96a8be00d71400c4c280c6ce51eba7b824925f12269
 ---
 
+<!-- AUTHORED REGION START -->
 # Paolo Batori
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2010-09-15-em-quantitative-quarterly|Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy]]
+<!-- AUTHORED REGION END -->

@@ -1,15 +1,28 @@
 ---
-title: "Kostas Triantafyllopoulos"
+title: Kostas Triantafyllopoulos
 page_id: entities/kostas-triantafyllopoulos
 page_type: entity
 entity_type: researcher
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, bayesian-statistics, state-space-models, kalman-filter, sheffield]
-affiliations: [University of Sheffield]
-related: [sources/triantafyllopoulos-2011-mean-reverting-spreads, sources/montana-2009-flexible-least-squares, entities/giovanni-montana]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- bayesian-statistics
+- state-space-models
+- kalman-filter
+- sheffield
+affiliations:
+- University of Sheffield
+related:
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- sources/montana-2009-flexible-least-squares
+- entities/giovanni-montana
+schema_version: 2
+uuid: ef367923-56ef-5bcd-b729-f71a48ff4184
+content_hash: sha256:891268cb60edde0aff684b9e55057ddfd32346704844e47dcf52dd11d6f467cc
 ---
 
+<!-- AUTHORED REGION START -->
 ## Biography
 
 Kostas Triantafyllopoulos is a statistician at the University of Sheffield, specializing in Bayesian inference, state-space models, and time series analysis with applications to finance and other domains.
@@ -47,3 +60,5 @@ His work on Bayesian state-space methods has enabled:
 - Real-time monitoring of mean-reversion properties
 - Stop-loss rules based on parameter uncertainty
 - Robust estimation in non-stationary financial markets
+
+<!-- AUTHORED REGION END -->

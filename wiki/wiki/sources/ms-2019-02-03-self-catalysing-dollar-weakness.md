@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: Could Dollar Weakness Be Self-Catalysing?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e2dd321a5012
+schema_version: 2
+uuid: 5d9509d3-9310-5ab6-a081-702d8c4e1408
+content_hash: sha256:9ae49adde5c2ac3423abf98ea44dfd61564a41492461742b48a45bf094f9c7f6
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: Could Dollar Weakness Be Self-Catalysing?
 
 **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -75,3 +79,4 @@ Morgan Stanley maintains a bearish USD view, treating a weaker dollar as a key 2
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Could Dollar Weakness Be SelfCatalysing - 2019-02-03.md`
 - **Type:** article
 - **Hash:** `sha256:9fc5596518022a98c...`
+<!-- AUTHORED REGION END -->

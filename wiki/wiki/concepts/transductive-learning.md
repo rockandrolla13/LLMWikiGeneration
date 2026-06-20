@@ -1,13 +1,26 @@
 ---
-title: "Transductive Learning"
+title: Transductive Learning
 page_id: concepts/transductive-learning
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [machine-learning, semi-supervised-learning, graph-learning, statistical-learning]
-related: [concepts/graph-neural-networks, concepts/graph-convolutional-networks, concepts/graph-signal-processing, sources/dong-2020-gsp-for-ml, sources/zhi-2024-gaussian-processes-graphs]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- semi-supervised-learning
+- graph-learning
+- statistical-learning
+related:
+- concepts/graph-neural-networks
+- concepts/graph-convolutional-networks
+- concepts/graph-signal-processing
+- sources/dong-2020-gsp-for-ml
+- sources/zhi-2024-gaussian-processes-graphs
+schema_version: 2
+uuid: c6f6b1c2-1c8d-588e-b66d-60d63cbeafc0
+content_hash: sha256:1898bc6ea73cd092240ae3c19a47e802707544d8312a04d9f7708ac4863aea21
 ---
 
+<!-- AUTHORED REGION START -->
 # Transductive Learning
 
 Transductive learning is a machine learning paradigm where the model reasons directly from training examples to specific test examples, without constructing a general predictive function.
@@ -158,3 +171,5 @@ def label_propagation(W, y_labeled, labeled_mask, alpha=0.5, max_iter=100):
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[sources/dong-2020-gsp-for-ml|GSP for Machine Learning Review]]
 - [[sources/zhi-2024-gaussian-processes-graphs|Gaussian Processes on Graphs]]
+
+<!-- AUTHORED REGION END -->

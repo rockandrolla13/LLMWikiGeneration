@@ -23,10 +23,14 @@ sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 tags: []
 title: Srikanth Sankaran
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 407d35b8-5f01-5ad9-b41f-f1646e3ddca9
+content_hash: sha256:16ce9baad9597f55877f8d69b9672379ebabf5bf19d33f4f4d9f24e4aea31d68
 ---
 
+<!-- AUTHORED REGION START -->
 # Srikanth Sankaran
 
 ## Overview
@@ -45,3 +49,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-03-04-a-premium-for-size|European Credit Strategy: A Premium for Size]]
 - [[sources/ms-2019-03-11-europe-surprise-upside|Europe looks set to surprise on the upside]]
 - [[sources/ms-2019-03-11-untested-cycle-corporate-risk|European Banks - Equity & Credit: Untested Cycle - watch for corporate risk]]
+<!-- AUTHORED REGION END -->

@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Corporate Credit Strategy: MS Credit-BMI Updated Reading'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_922fa7be662f
+schema_version: 2
+uuid: b3541ccc-3ad4-5759-a5dd-719e50c115de
+content_hash: sha256:ba5a28fcb6d3c87d5dd6b2eb3c8aa0fd0a9f8fd8c131a66647941be072dcfe85
 ---
 
+<!-- AUTHORED REGION START -->
 # US Corporate Credit Strategy: MS Credit-BMI Updated Reading
 
 **Authors:** Meghan G. Robson, Adam S. Richmond, Vishwas Patkar, Frederick T. Fuchs, Felician G. Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley updates its Credit Bond Market Indicator (credit-BMI), a tactical
 - **Path:** `raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy — MS Credit-BMI Updated Reading - 2018-04-16.md`
 - **Type:** article
 - **Hash:** `sha256:4e946d01be6fc6d28...`
+<!-- AUTHORED REGION END -->

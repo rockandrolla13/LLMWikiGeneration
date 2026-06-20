@@ -16,10 +16,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Panel Vector Autoregression
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 35360bad-76e8-5516-863f-090b865089fc
+content_hash: sha256:1eb89cf6a6f81fbd9c0a352362654854bf4e5826ae486605bd8607396ed6d715
 ---
 
+<!-- AUTHORED REGION START -->
 # Panel Vector Autoregression
 
 ## Definition
@@ -35,3 +39,4 @@ A VAR estimated on panel data (Holtz-Eakin et al. 1988) allowing individual hete
 
 - [[concepts/difference-in-differences|difference-in-differences]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

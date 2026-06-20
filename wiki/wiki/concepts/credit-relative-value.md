@@ -18,10 +18,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Credit Relative Value
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6ff378a8-b4dd-56f7-921f-1df9492202a4
+content_hash: sha256:6ddac481f1b4d7161c294dacf2e9f78cc7b438f52d6c04df57364888a8937a2c
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Relative Value
 
 ## Definition
@@ -39,3 +43,4 @@ A discretionary macro-thematic approach that trades mispricings within and acros
 - [[concepts/pairs-trading|pairs-trading]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
 - [[concepts/systematic-credit-relative-value|systematic-credit-relative-value]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Ernest Adams
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 449329a1-24ce-5c97-bf48-471e58ae7a6e
+content_hash: sha256:432e4064cef12c1c312f482c5a67bed72afe86bdfd500e5027e31200d6cc3538
 ---
 
+<!-- AUTHORED REGION START -->
 # Ernest Adams
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

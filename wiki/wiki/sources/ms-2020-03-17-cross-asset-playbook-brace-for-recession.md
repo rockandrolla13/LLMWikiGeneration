@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Playbook – March 2020: Brace for Recession'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8cbca8fb34c9
+schema_version: 2
+uuid: 82245df0-92da-5591-89fe-72695277469c
+content_hash: sha256:d5b42a1e2484c88401a66cc4f22b13975e6eaec111b01097bcee3b7b845d53a7
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Playbook – March 2020: Brace for Recession
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Wanting Low, Naomi Poole, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's March 2020 cross-asset note (dated March 17, 2020) argues the g
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook – March 2020 Brace for Recession - 2020.md`
 - **Type:** article
 - **Hash:** `sha256:6a1eb3dd27d6e96cc...`
+<!-- AUTHORED REGION END -->

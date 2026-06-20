@@ -13,10 +13,14 @@ sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []
 title: 100-Percent Reserve Requirement
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7e4b178d-1c06-5f7c-ac58-5fd7e695e30b
+content_hash: sha256:40c50a23d67efe61c058447310042e1348a24911599d17acbc57927d70522d15
 ---
 
+<!-- AUTHORED REGION START -->
 # 100-Percent Reserve Requirement
 
 ## Definition
@@ -26,3 +30,4 @@ A proposed banking reform requiring banks to hold full reserves against demand d
 ## Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+<!-- AUTHORED REGION END -->

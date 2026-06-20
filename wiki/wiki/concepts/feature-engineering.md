@@ -13,10 +13,14 @@ sources:
 tags:
 - ai-engineering
 title: Feature Engineering
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
+schema_version: 2
+uuid: da993880-a1db-59f2-bc03-5f5acc636aa0
+content_hash: sha256:d6ecd1b51868463c5bdc719d49f26989f9e69c7cfbabae3c21b0ab398d14a88e
 ---
 
+<!-- AUTHORED REGION START -->
 # Feature Engineering
 
 ## Definition
@@ -31,3 +35,4 @@ The process of transforming raw data into model inputs through operations such a
 
 - [[concepts/automated-alpha-search|automated-alpha-search]]
 - [[concepts/splines-and-additive-models|splines-and-additive-models]]
+<!-- AUTHORED REGION END -->

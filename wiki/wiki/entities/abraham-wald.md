@@ -14,10 +14,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Abraham Wald
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9ce2e9f7-4dfa-58be-b5c6-1dd11fe55c5f
+content_hash: sha256:7023d741c7efecbef78239e4ec5fc7b6e92fb3301ddb252a5ef1a5a3d04c35d5
 ---
 
+<!-- AUTHORED REGION START -->
 # Abraham Wald
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ellenberg-2014-how-not-to-be-wrong|How Not to Be Wrong: The Power of Mathematical Thinking]]
+<!-- AUTHORED REGION END -->

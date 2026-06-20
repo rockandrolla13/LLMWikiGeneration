@@ -1,20 +1,42 @@
 ---
-title: "Hands-on Small Language Models"
+title: Hands-on Small Language Models
 page_id: sources/thomas-2025-hands-on-small-language-models
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [small-language-models, slm, agentic-applications, mcp, ollama, litellm, rag, wikidata, knowledge-graphs, practical-ml, oreilly, python, docker, huggingface, sparql, nlp]
-sources: [sources/thomas-2025-hands-on-small-language-models]
+tags:
+- small-language-models
+- slm
+- agentic-applications
+- mcp
+- ollama
+- litellm
+- rag
+- wikidata
+- knowledge-graphs
+- practical-ml
+- oreilly
+- python
+- docker
+- huggingface
+- sparql
+- nlp
+sources:
+- sources/thomas-2025-hands-on-small-language-models
 related: []
 mind_map_priority: medium
-authors: ["Alexander Thomas"]
+authors:
+- Alexander Thomas
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 9d2fad09-0235-5558-b5fa-94b5855fc251
+content_hash: sha256:4c58a50da17f13088091fdf5f9dc48ec562bf31fa88c10973225cd82b350435b
 ---
 
+<!-- AUTHORED REGION START -->
 # Hands-on Small Language Models
 
 **Authors:** Alexander Thomas  
@@ -78,3 +100,5 @@ Early-release O'Reilly book (first release 2026-01-21, first edition January 202
 - How does the book compare multiple SLMs orchestrated together in Chapter 5?
 - Is the Theoros codebase publicly available in a GitHub repository?
 - The ISBN listed (979-8-341-67068-6) differs slightly from the errata URL ISBN (9798341670723) — which is correct?
+
+<!-- AUTHORED REGION END -->

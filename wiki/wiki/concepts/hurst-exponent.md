@@ -1,14 +1,28 @@
 ---
-title: "Hurst Exponent"
+title: Hurst Exponent
 page_id: concepts/hurst-exponent
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [time-series, fractal-analysis, long-memory, mean-reversion, persistence]
-related: [concepts/mean-reversion, concepts/statistical-arbitrage, concepts/pairs-trading, concepts/long-memory]
-sources: [sources/he-2023-hf-pairs-chinese-futures]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- time-series
+- fractal-analysis
+- long-memory
+- mean-reversion
+- persistence
+related:
+- concepts/mean-reversion
+- concepts/statistical-arbitrage
+- concepts/pairs-trading
+- concepts/long-memory
+sources:
+- sources/he-2023-hf-pairs-chinese-futures
+schema_version: 2
+uuid: d556cc5b-27cc-5cac-8914-30e4b08cd2a0
+content_hash: sha256:cf8c6632fa01302430902bd2ae04b97cdb1dbadce7d264f10266c31561163178
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 The Hurst exponent (H) is a measure of long-term memory and self-similarity in time series. Named after hydrologist Harold Edwin Hurst, it quantifies the tendency of a series to either regress to the mean (anti-persistence), trend in one direction (persistence), or behave as a random walk.
@@ -162,3 +176,5 @@ Lower H -> faster mean reversion -> shorter half-life.
 - [[concepts/long-memory|Long Memory]] - persistent autocorrelation
 - [[concepts/pairs-trading|Pairs Trading]] - application
 - [[concepts/mfdfa|MF-DFA]] - multifractal extension
+
+<!-- AUTHORED REGION END -->

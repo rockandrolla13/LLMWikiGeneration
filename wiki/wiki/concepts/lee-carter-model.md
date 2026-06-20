@@ -1,16 +1,30 @@
 ---
-title: "Lee-Carter Model"
+title: Lee-Carter Model
 page_id: concepts/lee-carter-model
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [mortality-modelling, actuarial-science, demography, forecasting]
-sources: [sources/tsai-2020-hierarchical-mortality, sources/huynh-2021-mogp-longevity]
-related: [concepts/hierarchical-credibility-model, concepts/multi-population-mortality, concepts/longevity-risk, entities/cary-tsai]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- mortality-modelling
+- actuarial-science
+- demography
+- forecasting
+sources:
+- sources/tsai-2020-hierarchical-mortality
+- sources/huynh-2021-mogp-longevity
+related:
+- concepts/hierarchical-credibility-model
+- concepts/multi-population-mortality
+- concepts/longevity-risk
+- entities/cary-tsai
 mind_map_priority: high
+schema_version: 2
+uuid: 9a0dc1c6-0bc0-54a8-b0d0-58444adb7e6c
+content_hash: sha256:959ccc9d819551e2486059ff386575fbebf49d126e4a745d40006763477a62f3
 ---
 
+<!-- AUTHORED REGION START -->
 # Lee-Carter Model
 
 The Lee-Carter model is the foundational stochastic mortality model, decomposing log mortality rates into age and period effects.
@@ -63,3 +77,5 @@ This captures continued mortality improvement.
 - [[concepts/multi-population-mortality|Multi-Population Mortality]]
 - [[concepts/longevity-risk|Longevity Risk]]
 - [[sources/tsai-2020-hierarchical-mortality|Hierarchical Credibility Theory for Multi-Country Mortality (2020)]]
+
+<!-- AUTHORED REGION END -->

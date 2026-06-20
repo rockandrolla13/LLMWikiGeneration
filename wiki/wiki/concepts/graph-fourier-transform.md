@@ -1,13 +1,25 @@
 ---
-title: "Graph Fourier Transform"
+title: Graph Fourier Transform
 page_id: concepts/graph-fourier-transform
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [graph-signal-processing, spectral-methods, fourier-analysis, transforms]
-related: [concepts/graph-signal-processing, concepts/graph-laplacian, concepts/spectral-graph-filters, concepts/spectral-graph-wavelets]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-signal-processing
+- spectral-methods
+- fourier-analysis
+- transforms
+related:
+- concepts/graph-signal-processing
+- concepts/graph-laplacian
+- concepts/spectral-graph-filters
+- concepts/spectral-graph-wavelets
+schema_version: 2
+uuid: afddfada-3aa5-554a-aed9-8cbc16609058
+content_hash: sha256:6ba5b010ded45b01b3f7a8f2331992aade662777177bbcd882846f401b1d9a15
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Fourier Transform
 
 The Graph Fourier Transform (GFT) extends the classical Fourier transform to signals defined on graphs, enabling frequency-domain analysis of graph-structured data.
@@ -140,3 +152,5 @@ def inverse_gft(x_hat, U):
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/spectral-graph-wavelets|Spectral Graph Wavelets]]
+
+<!-- AUTHORED REGION END -->

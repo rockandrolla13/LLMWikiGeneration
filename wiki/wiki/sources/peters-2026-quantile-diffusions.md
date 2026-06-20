@@ -1,18 +1,41 @@
 ---
-title: "Quantile Processes for Dynamic Risk Modelling in Finance and Insurance"
+title: Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
 page_id: sources/peters-2026-quantile-diffusions
 page_type: source
 revision_id: 2
-created: 2026-05-15T22:00:00Z
-updated: 2026-05-24T20:15:00Z
-tags: [quantile-diffusions, tukey-gh, stochastic-processes, risk-modelling, insurance, actuarial-science]
-authors: ["Gareth W. Peters", "Andrea Macrina", "Holly Brannelly"]
+created: 2026-05-15 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- quantile-diffusions
+- tukey-gh
+- stochastic-processes
+- risk-modelling
+- insurance
+- actuarial-science
+authors:
+- Gareth W. Peters
+- Andrea Macrina
+- Holly Brannelly
 year: 2026
-related: [concepts/tukey-gh-transformation, analyses/conformal-tukey-gh-intervals, concepts/quantile-regression, concepts/extreme-value-theory]
+related:
+- concepts/tukey-gh-transformation
+- analyses/conformal-tukey-gh-intervals
+- concepts/quantile-regression
+- concepts/extreme-value-theory
 mind_map_priority: high
-revision_note: "An updated draft (April 26, 2026; first author rewrite dated 16.03.2026 noted in the document header) is staged at markdown_output/QD1_IME_March2026 (6) (1).md. The original draft (ingested 2026-05-15) and the April-26 revision share the same title, authors (Peters, Macrina, Brannelly), and Tukey g-h framework; the GWP-rewrite annotation suggests substantive revisions to specific sections rather than the full paper. A diff has not yet been performed — re-summarise this page if any new theoretical contribution or empirical result is identified."
+revision_note: An updated draft (April 26, 2026; first author rewrite dated 16.03.2026
+  noted in the document header) is staged at markdown_output/QD1_IME_March2026 (6)
+  (1).md. The original draft (ingested 2026-05-15) and the April-26 revision share
+  the same title, authors (Peters, Macrina, Brannelly), and Tukey g-h framework; the
+  GWP-rewrite annotation suggests substantive revisions to specific sections rather
+  than the full paper. A diff has not yet been performed — re-summarise this page
+  if any new theoretical contribution or empirical result is identified.
+schema_version: 2
+uuid: 8053fa5d-3cd7-54fb-93e7-9a66f0c3ac96
+content_hash: sha256:32e44857f5077fb02c5667655d7ce7dea165997fa020e16a5ab3f0a270d43e12
 ---
 
+<!-- AUTHORED REGION START -->
 # Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
 
 Peters, Macrina, and Brannelly (April 2026, two drafts in circulation including a 16.03.2026 first-author rewrite) develop a novel continuous-time framework for **Tukey g-h quantile diffusions**—stochastic processes whose marginal distributions are controlled through quantile transformations.
@@ -134,3 +157,5 @@ The new constructions are **constructive** rather than derived—starting from a
 - [[analyses/conformal-tukey-gh-intervals|Conformal Prediction with Tukey g-h]]
 - [[concepts/quantile-regression|Quantile Regression]]
 - [[entities/gareth-peters|Gareth W. Peters]]
+
+<!-- AUTHORED REGION END -->

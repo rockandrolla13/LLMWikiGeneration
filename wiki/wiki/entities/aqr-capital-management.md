@@ -14,10 +14,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: AQR Capital Management
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6ac591a7-7655-53a1-b6c7-b4f33b0e9264
+content_hash: sha256:f931c04200f5ff824fcdbb9105be4da3e1b603d3b98bcbf10db2a059795cc399
 ---
 
+<!-- AUTHORED REGION START -->
 # AQR Capital Management
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ilmanen-2022-investing-amid-low-expected-returns|Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least]]
+<!-- AUTHORED REGION END -->

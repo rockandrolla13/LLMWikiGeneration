@@ -14,10 +14,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Routledge
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 819ae0c6-4e1b-5ce6-8dd9-aac841c86493
+content_hash: sha256:29e7766ae02074688d66b60109ae285349be7ba84a030f911d4bc0b3a5ab7812
 ---
 
+<!-- AUTHORED REGION START -->
 # Routledge
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

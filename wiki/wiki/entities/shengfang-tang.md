@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Shengfang Tang
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ff11dcd8-9c11-59b3-a334-fc6be15f37e6
+content_hash: sha256:5b2f4408e7345d9722069277f4ae290da379a7005f262af91d3d52ab9c980520
 ---
 
+<!-- AUTHORED REGION START -->
 # Shengfang Tang
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

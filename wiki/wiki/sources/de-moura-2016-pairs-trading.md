@@ -1,17 +1,37 @@
 ---
-title: "A Pairs Trading Strategy Based on Linear State Space Models"
+title: A Pairs Trading Strategy Based on Linear State Space Models
 page_id: sources/de-moura-2016-pairs-trading
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [pairs-trading, state-space-models, Kalman-filter, statistical-arbitrage, mean-reversion, cointegration]
-authors: [Carlos Eduardo de Moura, Adrian Pizzinga, Jorge Zubelli]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- pairs-trading
+- state-space-models
+- Kalman-filter
+- statistical-arbitrage
+- mean-reversion
+- cointegration
+authors:
+- Carlos Eduardo de Moura
+- Adrian Pizzinga
+- Jorge Zubelli
 year: 2016
 journal: Quantitative Finance
-institution: [IMPA, Fluminense Federal University]
-related: [concepts/pairs-trading, concepts/state-space-models, concepts/kalman-filter, concepts/statistical-arbitrage, concepts/cointegration]
+institution:
+- IMPA
+- Fluminense Federal University
+related:
+- concepts/pairs-trading
+- concepts/state-space-models
+- concepts/kalman-filter
+- concepts/statistical-arbitrage
+- concepts/cointegration
+schema_version: 2
+uuid: 09e2f8c7-d83f-5547-bee4-18254f642b16
+content_hash: sha256:e0c682b9c6b21dbbee2086e4a8dcfbf757bdd7a8da385df128605f558473f9dc
 ---
 
+<!-- AUTHORED REGION START -->
 # A Pairs Trading Strategy Based on Linear State Space Models
 
 ## Summary
@@ -71,3 +91,5 @@ Spread modeled as Ornstein-Uhlenbeck process in continuous time, discretized to 
 
 - [[sources/krishnan-2007-credit-spread-forecast|Krishnan et al. (2007)]] - term structure forecasting
 - [[sources/nunes-2022-ml-fixed-income|Nunes (2022)]] - ML in fixed income
+
+<!-- AUTHORED REGION END -->

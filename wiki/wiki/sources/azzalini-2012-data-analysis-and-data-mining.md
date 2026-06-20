@@ -35,10 +35,14 @@ tags:
 - clustering
 - model-selection
 title: 'Data Analysis and Data Mining: An Introduction'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_517152a99a7e
+schema_version: 2
+uuid: 388a2fff-6213-5fa9-9549-ad7b523ec587
+content_hash: sha256:f3746709e8cfd201cd8aa8274b62da4b406501f8aa137e95ce93bdf7394e7bb9
 ---
 
+<!-- AUTHORED REGION START -->
 # Data Analysis and Data Mining: An Introduction
 
 **Authors:** Adelchi Azzalini, Bruno Scarpa · **Year:** 2012 · **Venue:** Oxford University Press · **Type:** book
@@ -83,3 +87,4 @@ A graduate introductory textbook positioning data mining at the intersection of 
 - **Path:** `raw/creditmacro/Data Analysis and Data Mining An Introduction (Azzalini A., Scarpa B.) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:2d781fb8503063db8...`
+<!-- AUTHORED REGION END -->

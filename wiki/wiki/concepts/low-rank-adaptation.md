@@ -4,7 +4,7 @@ page_id: concepts/low-rank-adaptation
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ related:
 - concepts/transformers
 mind_map_priority: medium
 revision_hash: sha256:af2cfd9120201933
+schema_version: 2
+uuid: 44466d0b-7ada-5ae2-8366-c182cddb238d
+content_hash: sha256:d19e699df9348d4b31d6000a897683ae1613b11f2933baffc40e89c61496504a
 ---
 
+<!-- AUTHORED REGION START -->
 # Low-Rank Adaptation
 
 ## Definition
@@ -30,3 +34,5 @@ A parameter-efficient fine-tuning method (LoRA, Hu et al. 2021) that freezes the
 ## Related Concepts
 
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

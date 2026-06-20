@@ -1,16 +1,28 @@
 ---
-title: "Nelson-Siegel Model"
+title: Nelson-Siegel Model
 page_id: concepts/nelson-siegel-model
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [yield-curves, fixed-income, econometrics, term-structure]
-sources: [sources/technical-2025-bond-similarity]
-related: [concepts/credit-spread-curve, concepts/z-spread, concepts/state-space-models]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- yield-curves
+- fixed-income
+- econometrics
+- term-structure
+sources:
+- sources/technical-2025-bond-similarity
+related:
+- concepts/credit-spread-curve
+- concepts/z-spread
+- concepts/state-space-models
 mind_map_priority: medium
+schema_version: 2
+uuid: 602bad2d-4f43-5b11-8554-a8c0a24b8f12
+content_hash: sha256:a9692945a3235a0c7bf0ac87a406c9ce05cb88fada88b4cecb5aeed6cad208d4
 ---
 
+<!-- AUTHORED REGION START -->
 # Nelson-Siegel Model
 
 The Nelson-Siegel model is a parsimonious parametric model for fitting yield curves using just three factors that correspond to level, slope, and curvature.
@@ -58,3 +70,5 @@ Treats $\beta_t$ as time-varying state variables:
 - [[concepts/credit-spread-curve|Credit Spread Curve]]
 - [[concepts/state-space-models|State-Space Models]]
 - [[sources/technical-2025-bond-similarity|Bond Similarity Framework (2025)]]
+
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,33 @@
 ---
-title: "Bayesian On-line Change-point Detection: Spatio-temporal point processes"
+title: 'Bayesian On-line Change-point Detection: Spatio-temporal point processes'
 page_id: sources/zachos-2018-change-point-detection
 page_type: source
 source_type: dissertation
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Ioannis Zachos]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Ioannis Zachos
 year: 2018
 venue: University of Warwick BSc Thesis
-tags: [change-point-detection, bayesian-inference, point-processes, spatio-temporal, machine-learning]
-related: [concepts/change-point-detection, concepts/bayesian-inference, concepts/point-processes, concepts/poisson-process]
+tags:
+- change-point-detection
+- bayesian-inference
+- point-processes
+- spatio-temporal
+- machine-learning
+related:
+- concepts/change-point-detection
+- concepts/bayesian-inference
+- concepts/point-processes
+- concepts/poisson-process
 mind_map_priority: medium
+schema_version: 2
+uuid: ac98b369-0cb5-54ec-82e6-f6378d6d1097
+content_hash: sha256:7c2833bdf8c46e3999afcbe4ef88acf2816ab79d530b5e928b540ff36bb20765
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian On-line Change-point Detection
 
 **Author:** Ioannis Zachos
@@ -85,3 +99,5 @@ This thesis develops an approach for on-line (real-time) Bayesian change-point d
 - [[concepts/change-point-detection|Change-point Detection]]
 - [[concepts/bayesian-inference|Bayesian Inference]]
 - [[concepts/point-processes|Point Processes]]
+
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: Emilie Calder
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 405610c3-05b4-5d29-a20a-d78c4c279ad9
+content_hash: sha256:6b49d6de238ec1d639f6081a9519a4da7fe607bd0ed086052a18b42a9ad6e346
 ---
 
+<!-- AUTHORED REGION START -->
 # Emilie Calder
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/caprio-2026-steady-but-ai|2026: Steady, but AI & the Hawks are Circling (Software)]]
+<!-- AUTHORED REGION END -->

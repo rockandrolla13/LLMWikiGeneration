@@ -15,10 +15,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Interaction Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bc54eddd-65da-5448-a2a7-bccced0d440a
+content_hash: sha256:f08f3f932efd02b1b341cf28487d6c056193be8ad328336b94b807a3dd8c4143
 ---
 
+<!-- AUTHORED REGION START -->
 # Interaction Analysis
 
 ## Definition
@@ -33,3 +37,4 @@ Study of how the joint effect of two exposures departs from their separate effec
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/four-way-effect-decomposition|four-way-effect-decomposition]]
+<!-- AUTHORED REGION END -->

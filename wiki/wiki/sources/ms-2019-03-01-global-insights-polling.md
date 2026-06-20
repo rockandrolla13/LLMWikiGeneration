@@ -40,10 +40,14 @@ source_type: article
 sources: []
 tags: []
 title: Global Insights Day 2019 - Polling Results
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_533f61919f1b
+schema_version: 2
+uuid: c7cabbb6-d479-5d0b-a436-b04fa8d293e1
+content_hash: sha256:14c081577c2e7eded204809e5c3b049a6cd0e3de25cbbff877bafddbde3c6fef
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Insights Day 2019 - Polling Results
 
 **Authors:** Andrew Sheets, Chetan Ahya, Hans W Redeker, Jonathan F Garner, Graham Secker, Neil McLeish, Jeremy J Nalewaik, Matthew Hornbach, Adam S Richmond, Michael J Wilson, Michael D Zezas, Vishwanath Tirupattur, Chiente Hsu · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -80,3 +84,4 @@ A Global Cross-Asset Strategy note summarizing informal investor polling at Morg
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Cross-Asset Strategy — Global Insights Day 2019 – Polling Results - 2019-03-01.md`
 - **Type:** article
 - **Hash:** `sha256:34b9e0fae0b0e9693...`
+<!-- AUTHORED REGION END -->

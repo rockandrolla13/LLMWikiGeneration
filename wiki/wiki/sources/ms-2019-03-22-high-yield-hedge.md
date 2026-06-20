@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: A High Yield Hedge
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_dc673497112e
+schema_version: 2
+uuid: 88a1ac3c-f45d-5d48-877b-6eca544a8c6a
+content_hash: sha256:2013d56eb56f2530fb058abe85d3d7440e607fd7e681a47a522db9f7183f3abd
 ---
 
+<!-- AUTHORED REGION START -->
 # A High Yield Hedge
 
 **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann, Aleksandr Nozhnitskiy, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A North America Corporate Credit and Derivatives Research note recommending buyi
 - **Path:** `raw/creditmacro/Morgan Stanley - A High Yield Hedge - 2019-03-22.md`
 - **Type:** article
 - **Hash:** `sha256:e23e7980fab98887a...`
+<!-- AUTHORED REGION END -->

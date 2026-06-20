@@ -15,10 +15,14 @@ sources:
 - sources/mercado-2015-taarss-flow-whisperer
 tags: []
 title: Tactical Asset Allocation Relative Strength Signal (TAARSS)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f6f2b793-933c-5569-b23e-ab6b402abaac
+content_hash: sha256:49eb1f26125bfb5c2ae3c5bf135c48af539b9f58cd0702ac0bf6da0d7104968c
 ---
 
+<!-- AUTHORED REGION START -->
 # Tactical Asset Allocation Relative Strength Signal (TAARSS)
 
 ## Definition
@@ -33,3 +37,4 @@ Deutsche Bank's proprietary signal scoring each asset class's ETF flow trend as 
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/market-timing|market-timing]]
+<!-- AUTHORED REGION END -->

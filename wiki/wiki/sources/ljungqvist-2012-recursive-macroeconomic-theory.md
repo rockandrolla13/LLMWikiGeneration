@@ -38,10 +38,14 @@ tags:
 - optimal-taxation
 - search-theory
 title: Recursive Macroeconomic Theory
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7025e7dec594
+schema_version: 2
+uuid: a914eb37-f975-5cfc-a105-d50decea591a
+content_hash: sha256:71e7b4940a273bac8e8d90668252c2c9db180e155d10c89e3c8b5e8772b2dd6f
 ---
 
+<!-- AUTHORED REGION START -->
 # Recursive Macroeconomic Theory
 
 **Authors:** Lars Ljungqvist, Thomas J. Sargent · **Year:** 2012 · **Venue:** The MIT Press (3rd edition) · **Type:** book
@@ -88,3 +92,4 @@ A canonical graduate textbook arguing that recursive methods are a pervasive, un
 - **Path:** `raw/creditmacro/Recursive Macroeconomic Theory (Lars Ljungqvist, Thomas J. Sargent) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:cbcc89df77fd7a37d...`
+<!-- AUTHORED REGION END -->

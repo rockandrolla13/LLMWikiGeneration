@@ -4,14 +4,27 @@ page_id: entities/alexander-gammerman
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [researcher, conformal-prediction, foundational, royal-holloway]
-sources: [sources/vovk-2005-algorithmic-learning]
-related: [concepts/conformal-prediction, concepts/exchangeability, entities/vladimir-vovk, entities/glenn-shafer]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- foundational
+- royal-holloway
+sources:
+- sources/vovk-2005-algorithmic-learning
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- entities/vladimir-vovk
+- entities/glenn-shafer
 mind_map_priority: high
+schema_version: 2
+uuid: 5f3d7782-7ee4-5c3a-96c7-7296e5bec297
+content_hash: sha256:0f23ad5f87ab9b535cc9181f9daaae6832fa1dc2e9d353c31e3a47082f56cffd
 ---
 
+<!-- AUTHORED REGION START -->
 # Alexander Gammerman
 
 **Alexander Gammerman** is one of the three co-inventors of [[concepts/conformal-prediction|conformal prediction]] (with [[entities/vladimir-vovk|Vovk]] and [[entities/glenn-shafer|Shafer]]) and a foundational figure in distribution-free predictive inference.
@@ -34,3 +47,5 @@ mind_map_priority: high
 ## See Also
 
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

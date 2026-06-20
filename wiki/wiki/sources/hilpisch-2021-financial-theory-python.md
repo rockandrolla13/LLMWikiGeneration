@@ -1,20 +1,46 @@
 ---
-title: "Financial Theory with Python: A Gentle Introduction"
+title: 'Financial Theory with Python: A Gentle Introduction'
 page_id: sources/hilpisch-2021-financial-theory-python
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [finance, python, financial-theory, quantitative-finance, asset-pricing, derivatives, option-pricing, black-scholes-merton, capm, martingale-pricing, arbitrage, portfolio-theory, monte-carlo, binomial-model, textbook, o'reilly, hilpisch, jupyter, computational-finance, 2021]
-sources: [sources/hilpisch-2021-financial-theory-python]
+tags:
+- finance
+- python
+- financial-theory
+- quantitative-finance
+- asset-pricing
+- derivatives
+- option-pricing
+- black-scholes-merton
+- capm
+- martingale-pricing
+- arbitrage
+- portfolio-theory
+- monte-carlo
+- binomial-model
+- textbook
+- o'reilly
+- hilpisch
+- jupyter
+- computational-finance
+- 2021
+sources:
+- sources/hilpisch-2021-financial-theory-python
 related: []
 mind_map_priority: high
-authors: ["Yves Hilpisch"]
+authors:
+- Yves Hilpisch
 year: 2021
 source_type: book
+schema_version: 2
+uuid: 8dd9fd9f-9847-547b-8d29-9d6a24556a19
+content_hash: sha256:dff5da01f2eb1a76ea7040049f7a56f1a0d96bf799d76e9c975e7b3421b0f151
 ---
 
+<!-- AUTHORED REGION START -->
 # Financial Theory with Python: A Gentle Introduction
 
 **Authors:** Yves Hilpisch  
@@ -93,3 +119,5 @@ Financial Theory with Python: A Gentle Introduction (2021) by Yves Hilpisch is a
 - Does the book cover interest rate models or only equity/option pricing?
 - What mathematics prerequisites are assumed exactly — the preface mentions calculus, linear algebra, and probability theory but not the depth level?
 - How are Jupyter Notebooks structured alongside the book — one per chapter or per section?
+
+<!-- AUTHORED REGION END -->

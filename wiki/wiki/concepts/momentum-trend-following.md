@@ -16,10 +16,14 @@ sources:
 - sources/ilmanen-2011-expected-returns
 tags: []
 title: Momentum and Trend Following
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 23f83df9-7db5-5679-a759-a15b65641779
+content_hash: sha256:177920b854342b08e8fcab4978e4fe03a149296f10c504cbb8e806050ae7e0f5
 ---
 
+<!-- AUTHORED REGION START -->
 # Momentum and Trend Following
 
 ## Definition
@@ -35,3 +39,4 @@ The tendency of recent winners to keep outperforming recent losers over intermed
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/bond-momentum|bond-momentum]]
 - [[concepts/factor-investing|factor-investing]]
+<!-- AUTHORED REGION END -->

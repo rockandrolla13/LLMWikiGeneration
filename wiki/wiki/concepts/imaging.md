@@ -13,10 +13,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Imaging
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b0ee6960-10b9-5049-a6c8-1f0026fa45ca
+content_hash: sha256:51a9ce2604a9cd58829cba2cc60475c69f7c5e3c65a9e7a70f2d24f415c2e6e6
 ---
 
+<!-- AUTHORED REGION START -->
 # Imaging
 
 ## Definition
@@ -26,3 +30,4 @@ A probability-revision operation (Lewis, Gardenfors) that shifts credence onto t
 ## Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

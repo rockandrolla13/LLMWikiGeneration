@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Olivier Caelen
@@ -45,8 +45,12 @@ related:
 - entities/worldline
 mind_map_priority: medium
 revision_hash: sha256:1828104a73669f4b
+schema_version: 2
+uuid: 1bb211b6-0d40-5caf-afba-7fd70c8e1d36
+content_hash: sha256:d338889e1096e75387d64345ce44ff3371a4c6a4e951364d0230597b54a2c3a1
 ---
 
+<!-- AUTHORED REGION START -->
 # Developing Apps with GPT-4 and ChatGPT
 *Build Intelligent Chatbots, Content Generators, and More*
 
@@ -120,3 +124,5 @@ Python developers and software engineers (with light data-science background) wh
 - [[entities/faiss|FAISS]]
 - [[entities/worldline|Worldline]]
 - [[entities/tom-taulli|Tom Taulli]]
+
+<!-- AUTHORED REGION END -->

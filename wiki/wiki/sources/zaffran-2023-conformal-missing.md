@@ -1,19 +1,39 @@
 ---
-title: "Conformal Prediction with Missing Values"
+title: Conformal Prediction with Missing Values
 page_id: sources/zaffran-2023-conformal-missing
 page_type: source
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, missing-data, imputation, quantile-regression, heteroskedasticity, mask-conditional-validity]
-authors: [Margaux Zaffran, Aymeric Dieuleveut, Julie Josse, Yaniv Romano]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- missing-data
+- imputation
+- quantile-regression
+- heteroskedasticity
+- mask-conditional-validity
+authors:
+- Margaux Zaffran
+- Aymeric Dieuleveut
+- Julie Josse
+- Yaniv Romano
 venue: NeurIPS 2023
 year: 2023
 sources: []
-related: [concepts/conformal-prediction, concepts/missing-data-imputation, concepts/conformalized-quantile-regression, concepts/coverage-guarantee, concepts/heteroskedasticity, entities/margaux-zaffran]
+related:
+- concepts/conformal-prediction
+- concepts/missing-data-imputation
+- concepts/conformalized-quantile-regression
+- concepts/coverage-guarantee
+- concepts/heteroskedasticity
+- entities/margaux-zaffran
 mind_map_priority: high
+schema_version: 2
+uuid: 4cc1decf-976b-5adf-8c3a-2a3a6b919823
+content_hash: sha256:542b5936e296369ce9ccc107ccfe0178722dd17d8b1b085362f333fd169953e4
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction with Missing Values
 
 **Zaffran, M., Dieuleveut, A., Josse, J., & Romano, Y. (2023).** Conformal Prediction with Missing Values. *NeurIPS 2023*.
@@ -179,3 +199,5 @@ Available on GitHub (link in paper).
 
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[concepts/split-conformal-prediction|Split Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

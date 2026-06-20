@@ -14,10 +14,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: The Penguin Press
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d378191f-a12b-55e0-87a4-b9ae5f8b06f8
+content_hash: sha256:ce9c22d1451ca41b103bfb8830dbb48dca2067d451c151fdb29240222821ca87
 ---
 
+<!-- AUTHORED REGION START -->
 # The Penguin Press
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ellenberg-2014-how-not-to-be-wrong|How Not to Be Wrong: The Power of Mathematical Thinking]]
+<!-- AUTHORED REGION END -->

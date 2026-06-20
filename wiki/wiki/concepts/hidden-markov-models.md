@@ -16,10 +16,14 @@ sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []
 title: Hidden Markov Models for Regime Detection
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f35cce64-87d3-5fb0-bff5-43803cdc1e74
+content_hash: sha256:a77f3f02c8c8ea184a9ad71de4e3267caf80dafb9d952aa8d964b20a9cbe9c3e
 ---
 
+<!-- AUTHORED REGION START -->
 # Hidden Markov Models for Regime Detection
 
 ## Definition
@@ -35,3 +39,4 @@ Latent-state Markov models where observed returns depend on an unobserved discre
 - [[concepts/markov-switching-models|markov-switching-models]]
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/state-space-models|state-space-models]]
+<!-- AUTHORED REGION END -->

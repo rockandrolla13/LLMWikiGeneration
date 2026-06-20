@@ -13,10 +13,14 @@ sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []
 title: International Trade and Capital Flows
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bf6e0e26-c359-52f5-aa96-6a63474d85ec
+content_hash: sha256:d8c22a0691d9195c4d071fee3bc9e40d30bdf3deeec8b4c6fd86a9c6f48e0f28
 ---
 
+<!-- AUTHORED REGION START -->
 # International Trade and Capital Flows
 
 ## Definition
@@ -26,3 +30,4 @@ Theory of trade gains, tariffs/quotas, and the balance of payments linking curre
 ## Sources
 
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
+<!-- AUTHORED REGION END -->

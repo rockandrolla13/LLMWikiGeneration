@@ -14,10 +14,14 @@ sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []
 title: Susan Athey
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: be3ce22e-b1d8-54ca-939b-4c54768dc1b9
+content_hash: sha256:17c25fba20a9d6eff2b8a0372b82568b0d3ec52374978c05f0485d1beb2e7c66
 ---
 
+<!-- AUTHORED REGION START -->
 # Susan Athey
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/gentzel-2021-osrct-evaluation|How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]]
+<!-- AUTHORED REGION END -->

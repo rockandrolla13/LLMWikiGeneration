@@ -1,34 +1,49 @@
 ---
-title: "Distribution-Free, Risk-Controlling Prediction Sets"
+title: Distribution-Free, Risk-Controlling Prediction Sets
 page_id: sources/bates-2021-rcps
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Stephen Bates", "Anastasios Angelopoulos", "Lihua Lei", "Jitendra Malik", "Michael I. Jordan"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Stephen Bates
+- Anastasios Angelopoulos
+- Lihua Lei
+- Jitendra Malik
+- Michael I. Jordan
 year: 2021
-venue: "Journal of the ACM 71(1) (2024); arXiv:2101.02703 (2021). DOI 10.1145/3478535."
-tags: [conformal-prediction, risk-control, rcps, distribution-free, uncertainty-quantification, tolerance-regions, concentration-inequalities]
-related: [
-  concepts/risk-controlling-prediction-sets,
-  concepts/conformal-risk-control,
-  concepts/split-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/learn-then-test,
-  entities/stephen-bates,
-  entities/anastasios-angelopoulos,
-  entities/lihua-lei,
-  entities/jitendra-malik,
-  entities/michael-i-jordan,
-  sources/angelopoulos-2021-raps,
-  sources/angelopoulos-2021-learn-then-test,
-  sources/farinhas-2024-non-exchangeable-crc,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: Journal of the ACM 71(1) (2024); arXiv:2101.02703 (2021). DOI 10.1145/3478535.
+tags:
+- conformal-prediction
+- risk-control
+- rcps
+- distribution-free
+- uncertainty-quantification
+- tolerance-regions
+- concentration-inequalities
+related:
+- concepts/risk-controlling-prediction-sets
+- concepts/conformal-risk-control
+- concepts/split-conformal-prediction
+- concepts/conformal-prediction
+- concepts/learn-then-test
+- entities/stephen-bates
+- entities/anastasios-angelopoulos
+- entities/lihua-lei
+- entities/jitendra-malik
+- entities/michael-i-jordan
+- sources/angelopoulos-2021-raps
+- sources/angelopoulos-2021-learn-then-test
+- sources/farinhas-2024-non-exchangeable-crc
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: high
+schema_version: 2
+uuid: dab5558f-acc2-5f01-aa76-b73303b127df
+content_hash: sha256:518861268af24aef58163e375e0ed9e6643a3676a3edf8ffb5c4817650800e16
 ---
 
+<!-- AUTHORED REGION START -->
 # Distribution-Free, Risk-Controlling Prediction Sets (RCPS)
 
 **Authors:** [[entities/stephen-bates|Stephen Bates]], [[entities/anastasios-angelopoulos|Anastasios Angelopoulos]], [[entities/lihua-lei|Lihua Lei]], [[entities/jitendra-malik|Jitendra Malik]], [[entities/michael-i-jordan|Michael I. Jordan]]
@@ -85,3 +100,5 @@ RCPS generalises classical tolerance regions and split conformal prediction to *
 - [[concepts/conformal-risk-control]]
 - [[concepts/learn-then-test]]
 - [[entities/stephen-bates]], [[entities/lihua-lei]]
+
+<!-- AUTHORED REGION END -->

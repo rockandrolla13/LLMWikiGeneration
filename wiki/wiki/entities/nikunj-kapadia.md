@@ -14,10 +14,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Nikunj Kapadia
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 991836db-0f4f-5d65-ae00-f211ba8e36ff
+content_hash: sha256:4219f67b6909ecb464c3d958974b7d3a406385a9c22ca7f4b837a93678fd2365
 ---
 
+<!-- AUTHORED REGION START -->
 # Nikunj Kapadia
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/kapadia-2012-limited-arbitrage-equity-credit|Limited arbitrage between equity and credit markets]]
+<!-- AUTHORED REGION END -->

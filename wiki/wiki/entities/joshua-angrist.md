@@ -15,10 +15,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Joshua D. Angrist
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 73195d40-f761-5c4f-8a72-ae97335bf597
+content_hash: sha256:4b17d0fb828dcaaf6edc62c01ed45906ef69d78e1b5b1854e972076a346d55b0
 ---
 
+<!-- AUTHORED REGION START -->
 # Joshua D. Angrist
 
 ## Overview
@@ -32,3 +36,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/cai-2023-testing-conditional-independence-time-series]]
+<!-- AUTHORED REGION END -->

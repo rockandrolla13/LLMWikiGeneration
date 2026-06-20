@@ -15,10 +15,14 @@ sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []
 title: Panel Data Fixed/Random Effects
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a781a5af-617e-5073-aad4-59e04583f9a7
+content_hash: sha256:f874b2fee02e295c40d9411ed322d2d40d19ee7dbbff485556a5824b646e2e47
 ---
 
+<!-- AUTHORED REGION START -->
 # Panel Data Fixed/Random Effects
 
 ## Definition
@@ -33,3 +37,4 @@ Econometric techniques exploiting both cross-sectional and time-series dimension
 
 - [[concepts/factor-models|factor-models]]
 - [[concepts/kalman-filter-state-space|kalman-filter-state-space]]
+<!-- AUTHORED REGION END -->

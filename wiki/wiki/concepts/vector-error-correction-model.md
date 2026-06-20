@@ -16,10 +16,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Vector Error Correction Model
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1624a68c-55f6-5ede-9a57-e2c8d7abd2d2
+content_hash: sha256:7c4c6e6af83b6bc7946d52e998a57456b36dc294f722ff23230d30525235485c
 ---
 
+<!-- AUTHORED REGION START -->
 # Vector Error Correction Model
 
 ## Definition
@@ -35,3 +39,4 @@ A cointegrated VAR in which short-run dynamics of differenced I(1) variables are
 - [[concepts/cointegration|cointegration]]
 - [[concepts/half-life-of-adjustment|half-life-of-adjustment]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Market Crash and Liquidity Crisis Dynamics
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6d437ee1-1dfb-56bf-b1ac-120fbe2505da
+content_hash: sha256:4fea12986cb904669069e4f820c52cae8603f64a400d7cfc0b2181a9e19557f3
 ---
 
+<!-- AUTHORED REGION START -->
 # Market Crash and Liquidity Crisis Dynamics
 
 ## Definition
@@ -33,3 +37,4 @@ The mechanics of a panic: correlations converging to one, evaporating liquidity,
 
 - [[concepts/bubble-detection|bubble-detection]]
 - [[concepts/liquidity-risk|liquidity-risk]]
+<!-- AUTHORED REGION END -->

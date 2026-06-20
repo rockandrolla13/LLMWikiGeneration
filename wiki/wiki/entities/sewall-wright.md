@@ -14,10 +14,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Sewall Wright
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 28e7008f-d98f-5cc8-8947-9dbfa0ac9beb
+content_hash: sha256:c70a01b856874facf860799f9d47e12ec5e2a66753fe3e805c44310cb94cf9f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Sewall Wright
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/pearl-2018-book-of-why|The Book of Why: The New Science of Cause and Effect]]
+<!-- AUTHORED REGION END -->

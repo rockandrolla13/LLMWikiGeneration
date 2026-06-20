@@ -18,10 +18,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Private Credit / Direct Lending
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f1074503-c63f-5009-b686-dc02f58d6631
+content_hash: sha256:f0cf0ce3bd26a496d9374cd692f37de382da866ab2d4a49efb1c89c8fb27b103
 ---
 
+<!-- AUTHORED REGION START -->
 # Private Credit / Direct Lending
 
 ## Definition
@@ -42,3 +46,4 @@ Non-bank lending to corporations via direct-lending funds and BDCs; the note for
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2019-03-11-untested-cycle-corporate-risk]]
+<!-- AUTHORED REGION END -->

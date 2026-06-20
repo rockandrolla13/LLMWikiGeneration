@@ -16,10 +16,14 @@ sources:
 - sources/ms-2017-06-15-bmi2-xbmi-models
 tags: []
 title: Jesper Rooth
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 196312a5-7c04-584c-b777-b4d9eb307042
+content_hash: sha256:c4c8312ebbfa42d3de875dd4b74cd032647ed75ddb5e28bdde4e4d276baacdf3
 ---
 
+<!-- AUTHORED REGION START -->
 # Jesper Rooth
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2016-04-13-euro-sovereign-bond-market-indicators|Global Interest Rate Strategy: Euro Sovereign Bond Market Indicators (eBMIs)]]
 - [[sources/ms-2017-01-28-rates-strategist-duration-and-curves|Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]]
 - [[sources/ms-2017-06-15-bmi2-xbmi-models|Global Interest Rate Strategy: Introducing BMI(2) and xBMI, Improving BMI(10) and iBMI]]
+<!-- AUTHORED REGION END -->

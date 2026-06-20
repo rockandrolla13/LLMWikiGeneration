@@ -16,10 +16,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: James M. Robins
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: db111b0a-414f-5069-b96b-fb771358aa84
+content_hash: sha256:7622594488bca372989346032468a82d903a785b52766008d3f197646c1be5a8
 ---
 
+<!-- AUTHORED REGION START -->
 # James M. Robins
 
 ## Overview
@@ -34,3 +38,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/hill-2011-bart-causal-inference]]
+<!-- AUTHORED REGION END -->

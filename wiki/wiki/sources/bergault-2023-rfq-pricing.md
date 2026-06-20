@@ -1,15 +1,33 @@
 ---
-title: "RFQ Impact Pricing and Liquidity Dynamics"
+title: RFQ Impact Pricing and Liquidity Dynamics
 page_id: sources/bergault-2023-rfq-pricing
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [rfq, market-making, micro-price, liquidity, markov-modulated-poisson, corporate-bonds, otc]
-authors: [Philippe Bergault, Olivier Guéant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- rfq
+- market-making
+- micro-price
+- liquidity
+- markov-modulated-poisson
+- corporate-bonds
+- otc
+authors:
+- Philippe Bergault
+- Olivier Guéant
 year: 2023
-related: [concepts/market-making, concepts/rfq-markets, concepts/micro-price, entities/olivier-gueant, entities/philippe-bergault]
+related:
+- concepts/market-making
+- concepts/rfq-markets
+- concepts/micro-price
+- entities/olivier-gueant
+- entities/philippe-bergault
+schema_version: 2
+uuid: 37b3dc29-c08d-5f6e-a31a-102c5e684794
+content_hash: sha256:a6d37bdffb7637d3524b86ef19a9ebfc3a8ead66d7284a176f4c4419ce2ca45f
 ---
 
+<!-- AUTHORED REGION START -->
 # RFQ Impact Pricing and Liquidity Dynamics
 
 ## Summary
@@ -71,3 +89,5 @@ The paper provides a detailed EM algorithm for estimating:
 ## Citation
 
 Bergault, P., & Guéant, O. (2023). RFQ Impact Pricing and Liquidity Dynamics.
+
+<!-- AUTHORED REGION END -->

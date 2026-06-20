@@ -14,9 +14,13 @@ tags:
 - simulation
 - computational-finance
 title: Agent-Based Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: d35d4200-7529-5276-8ed3-3c7b27c11e3a
+content_hash: sha256:09750c0629e9e7da0165592bd3bb83649c2092cc3c7c3caba214a20e3c05968f
 ---
 
+<!-- AUTHORED REGION START -->
 # Agent-Based Models
 
 **Agent-Based Models (ABMs)** are computational simulations of heterogeneous interacting agents (traders) following local rules. Used to study emergent market dynamics, price formation, and regulatory scenarios.
@@ -33,3 +37,4 @@ updated: '2026-06-09T12:00:00Z'
 
 - [[concepts/bounded-rationality|bounded-rationality]]
 - [[concepts/systems-thinking|systems-thinking]]
+<!-- AUTHORED REGION END -->

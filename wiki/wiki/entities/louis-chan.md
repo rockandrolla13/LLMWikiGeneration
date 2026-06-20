@@ -14,10 +14,14 @@ sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []
 title: Louis K. C. Chan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0c4663bb-c0ab-5dc5-9588-7c560d065efa
+content_hash: sha256:47c36f8846e8da837caa4c8757913b37da9c086b910cb60208f7767cdf84e249
 ---
 
+<!-- AUTHORED REGION START -->
 # Louis K. C. Chan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/chan-2001-level-persistence-growth-rates|The Level and Persistence of Growth Rates]]
+<!-- AUTHORED REGION END -->

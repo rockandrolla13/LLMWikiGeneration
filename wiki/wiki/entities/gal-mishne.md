@@ -1,16 +1,28 @@
 ---
-title: "Gal Mishne"
+title: Gal Mishne
 page_id: entities/gal-mishne
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, professor, graph-signal-processing, machine-learning, ucsd]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- professor
+- graph-signal-processing
+- machine-learning
+- ucsd
 affiliation: UC San Diego
 role: Professor
-related: [sources/shi-2024-graph-laplacian-learning, entities/changhao-shi, concepts/graph-laplacian]
+related:
+- sources/shi-2024-graph-laplacian-learning
+- entities/changhao-shi
+- concepts/graph-laplacian
+schema_version: 2
+uuid: 6dbc6f41-f285-5928-a232-e233116da270
+content_hash: sha256:c0ccc6cd99e2aa35d03ba7552a286bdc8b52e538dbcd984bd779666058e71bc6
 ---
 
+<!-- AUTHORED REGION START -->
 # Gal Mishne
 
 **Affiliation:** University of California San Diego
@@ -80,3 +92,5 @@ Works at the intersection of:
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[sources/shi-2024-graph-laplacian-learning|Graph Laplacian Learning Thesis]]
+
+<!-- AUTHORED REGION END -->

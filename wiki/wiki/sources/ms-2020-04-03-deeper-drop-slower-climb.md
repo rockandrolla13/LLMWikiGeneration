@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Economics: Deeper Drop, Slower Climb'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a5626beb6e4f
+schema_version: 2
+uuid: 81e139fb-f3d1-5414-998a-18e4aa256c7d
+content_hash: sha256:74ac34ef859a432199fddc40f6412f7058a3f1ee0c1310235781c539872e0cd1
 ---
 
+<!-- AUTHORED REGION START -->
 # US Economics: Deeper Drop, Slower Climb
 
 **Authors:** Ellen Zentner, Robert Rosener, Jan Kozak, Sarah A. Wolfe · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -67,3 +71,4 @@ Morgan Stanley economists revise down their US growth outlook amid the COVID-19 
 - **Path:** `raw/creditmacro/Morgan Stanley - US Economics — Deeper Drop, Slower Climb - 2020-04-03.md`
 - **Type:** article
 - **Hash:** `sha256:28f31961d0e4931e4...`
+<!-- AUTHORED REGION END -->

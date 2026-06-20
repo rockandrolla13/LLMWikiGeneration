@@ -1,20 +1,32 @@
 ---
-title: "Databricks Certified Data Engineer Associate Study Guide"
+title: Databricks Certified Data Engineer Associate Study Guide
 page_id: sources/alhussein-2024-databricks-certified-data-engineer
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [databricks, data-engineering, certification, delta-lake, spark, data-lakehouse]
-sources: [sources/alhussein-2024-databricks-certified-data-engineer]
+tags:
+- databricks
+- data-engineering
+- certification
+- delta-lake
+- spark
+- data-lakehouse
+sources:
+- sources/alhussein-2024-databricks-certified-data-engineer
 related: []
 mind_map_priority: medium
-authors: ["Derar Alhussein"]
+authors:
+- Derar Alhussein
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 2be04b5a-2403-572f-9f0d-4335fe12ae3e
+content_hash: sha256:40ff840e5dbcd05c40170ad961e37eda21a137ace7e24a569b5335283bcc9c3d
 ---
 
+<!-- AUTHORED REGION START -->
 # Databricks Certified Data Engineer Associate Study Guide
 
 **Authors:** Derar Alhussein  
@@ -59,3 +71,5 @@ Databricks Certified Data Engineer Associate Study Guide (O'Reilly, February 202
 - How does the Hive metastore interact with Unity Catalog in a production Databricks environment, and what is the recommended migration path?
 - To what extent do the incremental-processing patterns taught here (Delta Live Tables, Structured Streaming) transfer to non-Databricks environments?
 - Given the cloud-agnostic exam scope, what additional cloud-specific knowledge must a practitioner acquire before deploying Databricks in production on AWS, Azure, or GCP?
+
+<!-- AUTHORED REGION END -->

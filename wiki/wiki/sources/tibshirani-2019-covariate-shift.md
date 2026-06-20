@@ -1,36 +1,51 @@
 ---
-title: "Conformal Prediction Under Covariate Shift"
+title: Conformal Prediction Under Covariate Shift
 page_id: sources/tibshirani-2019-covariate-shift
 page_type: source
 source_type: paper
 revision_id: 2
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T20:15:00Z
-authors: ["Ryan J. Tibshirani", "Rina Foygel Barber", "Emmanuel J. Candès", "Aaditya Ramdas"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Ryan J. Tibshirani
+- Rina Foygel Barber
+- Emmanuel J. Candès
+- Aaditya Ramdas
 year: 2019
-venue: "NeurIPS 2019 (arXiv:1904.06019v3)"
-revision_note: "arXiv v3 (the published NeurIPS version) is now staged at markdown_output/1904.06019v3.md alongside the earlier v1 (markdown_output/1904.06019.md). The substantive content is unchanged from v1; v3 incorporates typesetting and minor copy-edits for the NeurIPS camera-ready. Citation should reference v3."
-tags: [conformal-prediction, covariate-shift, weighted-exchangeability, distribution-free-inference, likelihood-ratio]
-related: [
-  concepts/weighted-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/exchangeability,
-  concepts/distribution-drift,
-  concepts/split-conformal-prediction,
-  concepts/non-exchangeable-conformal-prediction,
-  entities/ryan-tibshirani,
-  entities/rina-foygel-barber,
-  entities/emmanuel-candes,
-  entities/aaditya-ramdas,
-  sources/barber-2023-beyond-exchangeability,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/vovk-2005-algorithmic-learning,
-  sources/farinhas-2024-non-exchangeable-crc,
-  sources/zaffran-2022-aci
-]
+venue: NeurIPS 2019 (arXiv:1904.06019v3)
+revision_note: arXiv v3 (the published NeurIPS version) is now staged at markdown_output/1904.06019v3.md
+  alongside the earlier v1 (markdown_output/1904.06019.md). The substantive content
+  is unchanged from v1; v3 incorporates typesetting and minor copy-edits for the NeurIPS
+  camera-ready. Citation should reference v3.
+tags:
+- conformal-prediction
+- covariate-shift
+- weighted-exchangeability
+- distribution-free-inference
+- likelihood-ratio
+related:
+- concepts/weighted-conformal-prediction
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/distribution-drift
+- concepts/split-conformal-prediction
+- concepts/non-exchangeable-conformal-prediction
+- entities/ryan-tibshirani
+- entities/rina-foygel-barber
+- entities/emmanuel-candes
+- entities/aaditya-ramdas
+- sources/barber-2023-beyond-exchangeability
+- sources/angelopoulos-2022-gentle-intro
+- sources/vovk-2005-algorithmic-learning
+- sources/farinhas-2024-non-exchangeable-crc
+- sources/zaffran-2022-aci
 mind_map_priority: high
+schema_version: 2
+uuid: ec484c98-54e8-5817-9c69-3f75110b9678
+content_hash: sha256:f3e76653aa285855daa4b7f9c4240a373665787cf11f0d2f33ecfd74563b32c0
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction Under Covariate Shift
 
 **Authors:** [[entities/ryan-tibshirani|Ryan J. Tibshirani]], [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ramdas]]
@@ -82,3 +97,5 @@ UCI airfoil data with exponential tilting:
 - [[concepts/weighted-conformal-prediction]]
 - [[concepts/non-exchangeable-conformal-prediction]]
 - [[entities/ryan-tibshirani]]
+
+<!-- AUTHORED REGION END -->

@@ -35,10 +35,14 @@ tags:
 - possible-worlds-semantics
 - chance
 title: Counterfactuals and Probability
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cf8947eec072
+schema_version: 2
+uuid: 2e5b16c7-356f-5749-b250-d7599f6d89fb
+content_hash: sha256:dccce56b2efae3025f3a13a30182d326dc4cc60fb7fd68077ba9a7952eb5f0e6
 ---
 
+<!-- AUTHORED REGION START -->
 # Counterfactuals and Probability
 
 **Authors:** Moritz Schulz · **Venue:** Oxford University Press · **Type:** book
@@ -84,3 +88,4 @@ Moritz Schulz studies the behaviour of counterfactual conditionals under uncerta
 - **Path:** `raw/creditmacro/Counterfactuals and Probability (Moritz Schulz) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:38cea7ea209c03ce4...`
+<!-- AUTHORED REGION END -->

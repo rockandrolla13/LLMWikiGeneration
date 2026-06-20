@@ -14,10 +14,14 @@ sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []
 title: Decision Trees
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fa011e8c-c191-5c8e-a0d2-cd19a11617bc
+content_hash: sha256:c645bc72bb077d6ff80f5beb009e74c3e076dcaf63979e6f35e22bdec209ee3a
 ---
 
+<!-- AUTHORED REGION START -->
 # Decision Trees
 
 ## Definition
@@ -31,3 +35,4 @@ Recursive partitioning methods splitting the predictor space into regions to pre
 ## Related Concepts
 
 - [[concepts/random-forest-proximity|random-forest-proximity]]
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Recursive Competitive Equilibrium
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cfd2ca69-8d5b-56de-8b7d-2638150c10ea
+content_hash: sha256:1105ae1c4c264e3bd0351ddc3e40abc5d7e82d88fbdef661e10380cd73123478
 ---
 
+<!-- AUTHORED REGION START -->
 # Recursive Competitive Equilibrium
 
 ## Definition
@@ -26,3 +30,4 @@ An equilibrium concept in which prices and quantities are time-invariant functio
 ## Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

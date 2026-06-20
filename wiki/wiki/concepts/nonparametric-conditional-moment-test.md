@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Nonparametric Conditional Moment Test
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 13ad32b5-56ac-5345-9b01-8f38c6cafc3b
+content_hash: sha256:d6bb363c9933c6dd30b56ab7780682b07fd1b3aa28d6805c5f397794a5e4ecf4
 ---
 
+<!-- AUTHORED REGION START -->
 # Nonparametric Conditional Moment Test
 
 ## Definition
@@ -31,3 +35,4 @@ A kernel-based specification test (in the tradition of Fan-Li 1996 and Li 1999) 
 ## Related Concepts
 
 - [[concepts/quantile-regression|quantile-regression]]
+<!-- AUTHORED REGION END -->

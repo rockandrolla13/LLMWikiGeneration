@@ -14,10 +14,14 @@ sources:
 - sources/mauboussin-2026-bayes-base-rates
 tags: []
 title: Sales Growth Base Rates and Value Creation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b8e8474a-8d41-565b-8ace-282f2aecfe7a
+content_hash: sha256:3b4752ba09614a4e7ec42151f5717bf8379de9c0a61583aa2f5d476cc712c250
 ---
 
+<!-- AUTHORED REGION START -->
 # Sales Growth Base Rates and Value Creation
 
 ## Definition
@@ -31,3 +35,4 @@ Empirical distributions of multi-year sales growth by starting-size cohort, show
 ## Related Concepts
 
 - [[concepts/behavioral-finance|behavioral-finance]]
+<!-- AUTHORED REGION END -->

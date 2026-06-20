@@ -20,10 +20,14 @@ sources:
 - sources/ms-2020-03-29-full-court-policy-press
 tags: []
 title: Chetan Ahya
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8bf3f0fc-c1fb-51d9-8d2a-99dbcd662825
+content_hash: sha256:4d4bf29fe3801cb1e99738f2816e1f9e25e0d5de5154b8bf29423646f73623a7
 ---
 
+<!-- AUTHORED REGION START -->
 # Chetan Ahya
 
 ## Overview
@@ -39,3 +43,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-03-01-global-insights-polling|Global Insights Day 2019 - Polling Results]]
 - [[sources/ms-2019-03-03-an-easing-trio|An Easing Trio (Sunday Start: What's Next in Global Macro)]]
 - [[sources/ms-2020-03-29-full-court-policy-press|Sunday Start | What's Next in Global Macro: A Full-Court Policy Press]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 tags: []
 title: Doron Avramov
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1980b759-fd97-5b3a-a296-3fcbbf95fff8
+content_hash: sha256:01348c645d56923007849c3cad26a8aaed9928e9082e69b608205095690068c7
 ---
 
+<!-- AUTHORED REGION START -->
 # Doron Avramov
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avramov-2007-changes-corporate-credit-spreads|Understanding Changes in Corporate Credit Spreads]]
+<!-- AUTHORED REGION END -->

@@ -1,15 +1,32 @@
 ---
-title: "A Combination Forecasting Model Using Machine Learning and Kalman Filter for Statistical Arbitrage"
+title: A Combination Forecasting Model Using Machine Learning and Kalman Filter for
+  Statistical Arbitrage
 page_id: sources/nobrega-2014-kalman-ml-stat-arb
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [statistical-arbitrage, pairs-trading, kalman-filter, machine-learning, extreme-learning-machine, support-vector-regression]
-authors: [Jarley P. Nobrega, Adriano L. I. Oliveira]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistical-arbitrage
+- pairs-trading
+- kalman-filter
+- machine-learning
+- extreme-learning-machine
+- support-vector-regression
+authors:
+- Jarley P. Nobrega
+- Adriano L. I. Oliveira
 year: 2014
-related: [concepts/kalman-filter, concepts/statistical-arbitrage, concepts/pairs-trading, concepts/cointegration]
+related:
+- concepts/kalman-filter
+- concepts/statistical-arbitrage
+- concepts/pairs-trading
+- concepts/cointegration
+schema_version: 2
+uuid: 2aa6ed19-0ec0-5ab2-bd79-0666630e6cca
+content_hash: sha256:28c9ee540eb1e9215573777152f5605d0714f5dfad5845cc04ec9718a3e54214
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper evaluates the combination of Extreme Learning Machine (ELM) and Support Vector Regression (SVR) with a Kalman filter regression model for financial time series forecasting in the context of statistical arbitrage. The hybrid approach aims to exploit the strengths of both machine learning and state-space methods.
@@ -60,3 +77,5 @@ The Kalman filter treats combination weights as time-varying parameters:
 ## Citations
 
 Nobrega, J. P., & Oliveira, A. L. I. (2014). A Combination Forecasting Model Using Machine Learning and Kalman Filter for Statistical Arbitrage. IEEE International Conference on Systems, Man, and Cybernetics.
+
+<!-- AUTHORED REGION END -->

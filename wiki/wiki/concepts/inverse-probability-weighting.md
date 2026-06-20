@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Inverse Probability Weighting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f39fa256-165e-5c4d-9583-2e02b7e8ef14
+content_hash: sha256:7f3136c027f5171a4bec8a5426ad4bc0419513f1f09727e4697a58032bbe664e
 ---
 
+<!-- AUTHORED REGION START -->
 # Inverse Probability Weighting
 
 ## Definition
@@ -31,3 +35,4 @@ An estimation method that weights observations by the inverse of their estimated
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Segmented Regression
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 42caa3bf-2634-5229-ad12-2179de3fdf28
+content_hash: sha256:f8606b469385e9a00ca5b1647096a92f88f967192be1aa2966906641159b0cad
 ---
 
+<!-- AUTHORED REGION START -->
 # Segmented Regression
 
 ## Definition
@@ -33,3 +37,4 @@ A regression technique that fits separate trend lines to pre- and post-intervent
 
 - [[concepts/autocorrelation-time-series|autocorrelation-time-series]]
 - [[concepts/interrupted-time-series-design|interrupted-time-series-design]]
+<!-- AUTHORED REGION END -->

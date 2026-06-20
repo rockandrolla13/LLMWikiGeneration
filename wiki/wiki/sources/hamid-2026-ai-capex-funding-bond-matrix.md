@@ -41,10 +41,14 @@ tags:
 - credit-spreads
 - bond-indices
 title: 'AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e7bd8d02c4df
+schema_version: 2
+uuid: 9e29ebfd-7e5a-5385-a0e3-30aaf6e6828b
+content_hash: sha256:7359c9c0a8218a2d62323673a111e50b619af0b5cc367658fb06b77b24a1be80
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0
 
 **Authors:** Tarek Hamid, Nathaniel Rosenbaum, Nelson Jantzen, Thomas Egan, Erica R. Spear, Silvi Mantri · **Year:** 2026 · **Venue:** J.P. Morgan North America Credit Research · **Type:** report
@@ -92,3 +96,4 @@ A J.P. Morgan North America Credit Research note (11 May 2026) mapping the rapid
 - **Path:** `raw/creditmacro/JPM_AI_Capex_Funding_Dat_2026-05-11_5290840.md`
 - **Type:** article
 - **Hash:** `sha256:80fae62ffa1fea562...`
+<!-- AUTHORED REGION END -->

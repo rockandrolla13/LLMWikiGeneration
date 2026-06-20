@@ -19,10 +19,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Instrumental Variables
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ab136def-b4bd-5aec-b152-c7303f750b84
+content_hash: sha256:c66873caeabd4c7622ceb4b544bb18c3393c4747141b99369fa2bdc3c53cfa9f
 ---
 
+<!-- AUTHORED REGION START -->
 # Instrumental Variables
 
 ## Definition
@@ -41,3 +45,4 @@ A variable that affects the treatment but is otherwise independent of confounder
 - [[concepts/local-average-treatment-effect|local-average-treatment-effect]]
 - [[concepts/regression-discontinuity|regression-discontinuity]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

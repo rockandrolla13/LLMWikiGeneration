@@ -14,10 +14,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Liquidity Scoring Mechanism
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f2b114bc-052b-532f-9d0e-2635f6634f85
+content_hash: sha256:a80fe42884358db40f5680b9c52a492a32e4fdde040f47ba97e613b95d0529f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Liquidity Scoring Mechanism
 
 ## Definition
@@ -31,3 +35,4 @@ A proprietary ranking methodology scoring tradable instruments on cost and time 
 ## Related Concepts
 
 - [[concepts/liquidity-risk|liquidity-risk]]
+<!-- AUTHORED REGION END -->

@@ -17,10 +17,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Volatility Targeting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a4528e93-7569-5bca-a2a7-6563fdfa134f
+content_hash: sha256:a56c706fee547934a6b161201075ff4da860136e8096e7ab46013cd8b5dc1077
 ---
 
+<!-- AUTHORED REGION START -->
 # Volatility Targeting
 
 ## Definition
@@ -40,3 +44,4 @@ Sizing positions so the portfolio targets a chosen annualised volatility, scalin
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/risk-premia|risk-premia]]
+<!-- AUTHORED REGION END -->

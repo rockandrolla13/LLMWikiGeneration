@@ -4,7 +4,7 @@ page_id: concepts/dependency-inversion-principle
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -13,8 +13,12 @@ sources:
 related: []
 mind_map_priority: medium
 revision_hash: sha256:ffca2a53a1dac0c7
+schema_version: 2
+uuid: 316dc062-625e-588f-84a0-279bd2267d55
+content_hash: sha256:d38a4a92ec35767eac3db5e9dd05590a64821dd9c7e559b44ea14d1c180d537d
 ---
 
+<!-- AUTHORED REGION START -->
 # Dependency Inversion Principle
 
 ## Definition
@@ -24,3 +28,5 @@ The SOLID principle that high-level modules should not depend on low-level modul
 ## Sources
 
 - [[sources/percival-2020-architecture-patterns-python|Architecture Patterns with Python]]
+
+<!-- AUTHORED REGION END -->

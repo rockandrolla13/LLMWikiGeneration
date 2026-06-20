@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Sung Woen Kang
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0b5fc177-a2b1-598b-b8f5-048e88b7e3b7
+content_hash: sha256:714147ef68ddb10a9a85ce7e5add5f0c0c2accc14d1c95dc61bf3cef31b77a35
 ---
 
+<!-- AUTHORED REGION START -->
 # Sung Woen Kang
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-10-30-japanification-or-salvation|The Global Macro Analyst: Japanification or Salvation]]
+<!-- AUTHORED REGION END -->

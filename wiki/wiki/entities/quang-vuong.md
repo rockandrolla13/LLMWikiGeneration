@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Quang Vuong
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d207b8a0-289a-570e-b875-c8a1a1f0bb74
+content_hash: sha256:aa99c76285ef7870de84b73b11c3cf98a55685518aae78e2e6e4d334c10818e2
 ---
 
+<!-- AUTHORED REGION START -->
 # Quang Vuong
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

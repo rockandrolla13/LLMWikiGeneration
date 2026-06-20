@@ -20,9 +20,13 @@ tags:
 - error-correction
 - unit-root
 title: Cointegration
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 8a225d15-8770-5cd6-bffc-92de351fdba2
+content_hash: sha256:5ee911ba00fbcba0a8745435dd0dc2c59402af4bb069250dcbae12a98dac3481
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 Cointegration describes a long-run equilibrium relationship between non-stationary time series. Two or more series are cointegrated if:
@@ -152,3 +156,4 @@ OLS estimator of cointegrating vector:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/duasa-2010-predicting-crisis-recovery]]
+<!-- AUTHORED REGION END -->

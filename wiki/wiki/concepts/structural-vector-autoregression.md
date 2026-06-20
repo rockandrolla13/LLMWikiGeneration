@@ -21,9 +21,13 @@ tags:
 - econometrics
 - dag-learning
 title: Structural Vector Autoregression
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 38d59732-9b2f-5d93-a860-58fad22c1436
+content_hash: sha256:cc0519198e198c5d54f9886ee78fccf9618c1ef8b26c06cf9d929f9845d326d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Structural Vector Autoregression
 
 Structural Vector Autoregression (SVAR) models extend standard VAR models to capture contemporaneous causal relationships between time series variables, enabling causal inference from observational data.
@@ -197,3 +201,4 @@ def estimate_svar_cholesky(X, p=1):
 - [[concepts/panel-vector-autoregression|panel-vector-autoregression]]
 - [[concepts/system-gmm-dynamic-panel|system-gmm-dynamic-panel]]
 - [[concepts/vector-error-correction-model|vector-error-correction-model]]
+<!-- AUTHORED REGION END -->

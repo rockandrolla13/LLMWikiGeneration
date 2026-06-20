@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-02-11-fx-positioning-tracker
 tags: []
 title: Gek Teng Khoo
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 82d0ed36-295f-5bcc-a200-9e5156b33a57
+content_hash: sha256:5816764d3d1bfd015c51b5d07a466fca5a014f8b9e9ba79a9c9009dd1c6515d0
 ---
 
+<!-- AUTHORED REGION START -->
 # Gek Teng Khoo
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-02-11-fx-positioning-tracker|Morgan Stanley FX Positioning Tracker]]
+<!-- AUTHORED REGION END -->

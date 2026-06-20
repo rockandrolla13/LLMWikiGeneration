@@ -14,10 +14,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Moritz Schulz
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 09ee40e9-bb48-54b6-8dac-57c83a00852b
+content_hash: sha256:66b5964b605893e6c136015d7e88b6951341efee53fd9262dcc9ca0bb9c0fd33
 ---
 
+<!-- AUTHORED REGION START -->
 # Moritz Schulz
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/mauboussin-2026-bayes-base-rates
 tags: []
 title: Base Rates and Reference-Class Forecasting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1cc5804d-ddd0-52d1-b2df-a6b88e5f9c7c
+content_hash: sha256:a425c59337aa673bcb3066be55031f4dcddaf5bc743bf9138109ce5133cdd266
 ---
 
+<!-- AUTHORED REGION START -->
 # Base Rates and Reference-Class Forecasting
 
 ## Definition
@@ -33,3 +37,4 @@ Using the empirical distribution of outcomes for a relevant reference class (the
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/calibration|calibration]]
+<!-- AUTHORED REGION END -->

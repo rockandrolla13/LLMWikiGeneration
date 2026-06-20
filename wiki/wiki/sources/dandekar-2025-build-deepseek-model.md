@@ -1,20 +1,34 @@
 ---
-title: "Build a DeepSeek Model From Scratch"
+title: Build a DeepSeek Model From Scratch
 page_id: sources/dandekar-2025-build-deepseek-model
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [llm, deepseek, transformers, mixture-of-experts, attention-mechanisms, reinforcement-learning, quantization]
-sources: [sources/dandekar-2025-build-deepseek-model]
+tags:
+- llm
+- deepseek
+- transformers
+- mixture-of-experts
+- attention-mechanisms
+- reinforcement-learning
+- quantization
+sources:
+- sources/dandekar-2025-build-deepseek-model
 related: []
 mind_map_priority: high
-authors: ["Raj Abhijit Dandekar", "Rajat Dandekar"]
+authors:
+- Raj Abhijit Dandekar
+- Rajat Dandekar
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 5140ce07-e5ef-5b60-938f-98c48d6056fb
+content_hash: sha256:be8a26d3a2fd53caaa937f58ba5c3ebbec3154a19f89a42ef73024d1715a2602
 ---
 
+<!-- AUTHORED REGION START -->
 # Build a DeepSeek Model From Scratch
 
 **Authors:** Raj Abhijit Dandekar, Rajat Dandekar  
@@ -59,3 +73,5 @@ Build a DeepSeek Model From Scratch (MEAP edition, 2025) by Raj Abhijit Dandekar
 - Can the four-stage build-from-scratch approach faithfully reproduce the efficiency gains of MLA and MoE at scaled-down consumer-hardware sizes, or do the gains only emerge at production scale?
 - How does DeepSeek's Pure RL post-training step (which develops reasoning without explicit human guidance) compare mechanistically to RLHF used by OpenAI, and what are the trade-offs?
 - Given that distilled models as small as 1.5B parameters are described as 'highly performant,' what is the minimum scale at which the MLA and MoE architectural innovations provide meaningful benefits over standard Transformer components?
+
+<!-- AUTHORED REGION END -->

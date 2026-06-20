@@ -1,15 +1,29 @@
 ---
-title: "Giovanni Montana"
+title: Giovanni Montana
 page_id: entities/giovanni-montana
 page_type: entity
 entity_type: researcher
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, statistical-arbitrage, kalman-filter, time-series, imperial-college]
-affiliations: [Imperial College London, WBS Warwick Business School]
-related: [sources/montana-2009-flexible-least-squares, sources/triantafyllopoulos-2011-mean-reverting-spreads, entities/kostas-triantafyllopoulos]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- statistical-arbitrage
+- kalman-filter
+- time-series
+- imperial-college
+affiliations:
+- Imperial College London
+- WBS Warwick Business School
+related:
+- sources/montana-2009-flexible-least-squares
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- entities/kostas-triantafyllopoulos
+schema_version: 2
+uuid: 7ff8fe97-3f1e-5967-8389-30135bdcd8bf
+content_hash: sha256:f8fbb9f8eddb70873d010124e6e26789912b98fd92132080c21e0d19425ab0a2
 ---
 
+<!-- AUTHORED REGION START -->
 ## Biography
 
 Giovanni Montana is a professor with expertise in statistical machine learning, time series analysis, and quantitative finance. His research spans statistical arbitrage, dynamic modeling, and applications to financial markets.
@@ -49,3 +63,5 @@ Montana's work on FLS-Kalman equivalence has been influential in algorithmic tra
 - Provides theoretical foundation for adaptive trading strategies
 - Enables real-time portfolio adjustment
 - Bridges gap between signal processing and quantitative finance
+
+<!-- AUTHORED REGION END -->

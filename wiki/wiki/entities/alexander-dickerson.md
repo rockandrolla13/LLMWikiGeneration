@@ -1,16 +1,27 @@
 ---
-title: "Alexander Dickerson"
+title: Alexander Dickerson
 page_id: entities/alexander-dickerson
 page_type: entity
 entity_type: person
-created: 2026-04-26T02:15:00Z
-updated: 2026-04-26T02:15:00Z
-tags: [researcher, corporate-bonds, market-microstructure, empirical-finance, methodology]
+created: 2026-04-26 02:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- corporate-bonds
+- market-microstructure
+- empirical-finance
+- methodology
 affiliation: UNSW Business School
 location: Sydney, Australia
-related: [sources/dickerson-2024-bond-pitfalls, concepts/market-microstructure-noise]
+related:
+- sources/dickerson-2024-bond-pitfalls
+- concepts/market-microstructure-noise
+schema_version: 2
+uuid: 2bd50c99-bd1a-587b-b56b-13008f1c8781
+content_hash: sha256:ed2c7dfd36090b7e045a8103559ff5524fa5316de70e8c993da48972de00345d
 ---
 
+<!-- AUTHORED REGION START -->
 # Alexander Dickerson
 
 ## Overview
@@ -54,3 +65,5 @@ Authored critical paper demonstrating that large abnormal returns in corporate b
 - [[concepts/market-microstructure-noise|Market Microstructure Noise]]
 - [[concepts/look-ahead-bias|Look-ahead Bias]]
 - [[concepts/trace-data|TRACE Data]]
+
+<!-- AUTHORED REGION END -->

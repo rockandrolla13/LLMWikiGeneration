@@ -24,10 +24,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Banks: CRR2 Agreed; ADI Boost for AT1'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3cc281df6f28
+schema_version: 2
+uuid: e5e77e68-52d2-5173-ae73-942dc7bb49d4
+content_hash: sha256:dc2b37b33176b69fa27b4dbb72fec2846aeb505b655737b217ff88ff57353f0e
 ---
 
+<!-- AUTHORED REGION START -->
 # European Banks: CRR2 Agreed; ADI Boost for AT1
 
 **Authors:** Jackie Ineke, Joe Hopkins · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -59,3 +63,4 @@ Morgan Stanley reviews the final CRR2/BRRD2 text, expecting Entry into Force in 
 - **Path:** `raw/creditmacro/Morgan Stanley - European Banks — CRR2 Agreed; ADI Boost for AT1 - 2019-02-15.md`
 - **Type:** article
 - **Hash:** `sha256:21540fd9a8496429b...`
+<!-- AUTHORED REGION END -->

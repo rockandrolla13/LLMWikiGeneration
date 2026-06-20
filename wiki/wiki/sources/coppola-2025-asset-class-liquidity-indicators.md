@@ -1,21 +1,45 @@
 ---
-title: "Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets"
+title: 'Asset Class Liquidity Risk Indicators: Timing the Risk in European and US
+  Equity and Bond Markets'
 page_id: sources/coppola-2025-asset-class-liquidity-indicators
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Anna Coppola, Giovanni Urga, Alessandro Varaldo]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anna Coppola
+- Giovanni Urga
+- Alessandro Varaldo
 year: 2025
 venue: Journal of Financial Stability
-volume_issue_pages: "76, 101369"
+volume_issue_pages: 76, 101369
 doi: 10.1016/j.jfs.2024.101369
-tags: [liquidity-risk, markov-switching, bubble-detection, stress-detection, funding-liquidity]
-related: [concepts/liquidity-risk, concepts/markov-switching-models, concepts/bubble-detection, concepts/funding-liquidity, concepts/amihud-illiquidity, concepts/ecdf-aggregation, entities/anna-coppola, entities/giovanni-urga, entities/alessandro-varaldo, entities/markus-brunnermeier, entities/yakov-amihud]
+tags:
+- liquidity-risk
+- markov-switching
+- bubble-detection
+- stress-detection
+- funding-liquidity
+related:
+- concepts/liquidity-risk
+- concepts/markov-switching-models
+- concepts/bubble-detection
+- concepts/funding-liquidity
+- concepts/amihud-illiquidity
+- concepts/ecdf-aggregation
+- entities/anna-coppola
+- entities/giovanni-urga
+- entities/alessandro-varaldo
+- entities/markus-brunnermeier
+- entities/yakov-amihud
 mind_map_priority: medium
+schema_version: 2
+uuid: 6af9b168-79b6-5441-a74e-80b1f5dc1ed3
+content_hash: sha256:63a9a118ae3a053232c52061f7c54ed6c7b620a4c40638a72bee0531f18197d7
 ---
 
+<!-- AUTHORED REGION START -->
 # Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets
 
 **Authors:** [[entities/anna-coppola|Anna Coppola]], [[entities/giovanni-urga|Giovanni Urga]], [[entities/alessandro-varaldo|Alessandro Varaldo]]
@@ -46,3 +70,5 @@ Constructs [[concepts/liquidity-risk|liquidity-risk]] indicators for six Europea
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

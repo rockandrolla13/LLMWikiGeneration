@@ -1,13 +1,25 @@
 ---
-title: "Sheaf Laplacian"
+title: Sheaf Laplacian
 page_id: concepts/sheaf-laplacian
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [algebraic-topology, graph-theory, spectral-methods, sheaf-theory]
-related: [concepts/graph-laplacian, concepts/graph-signal-processing, concepts/graph-neural-networks, sources/zhi-2024-gaussian-processes-graphs]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- algebraic-topology
+- graph-theory
+- spectral-methods
+- sheaf-theory
+related:
+- concepts/graph-laplacian
+- concepts/graph-signal-processing
+- concepts/graph-neural-networks
+- sources/zhi-2024-gaussian-processes-graphs
+schema_version: 2
+uuid: 82fde4a0-1d45-5ec7-952d-91730c4e7eb4
+content_hash: sha256:2d5346e649f6bc4cb0a82e5a30d1a4a528f0c8a12c834c344508f5e84ebfe5df
 ---
 
+<!-- AUTHORED REGION START -->
 # Sheaf Laplacian
 
 The sheaf Laplacian generalizes the [[concepts/graph-laplacian|graph Laplacian]] by attaching vector spaces to nodes and linear maps to edges, enabling richer representations of data on graphs.
@@ -151,3 +163,5 @@ In neural network setting:
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/graph-neural-networks|Graph Neural Networks]]
 - [[sources/zhi-2024-gaussian-processes-graphs|Gaussian Processes on Graphs]]
+
+<!-- AUTHORED REGION END -->

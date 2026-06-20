@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Giacomo Carboni
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 17f4a619-8248-5259-b147-a3c39590eb69
+content_hash: sha256:77c237fd81a4bd274226d5ac2f1a8a9c343f3bfe1806d6425c86b65ed5d71372
 ---
 
+<!-- AUTHORED REGION START -->
 # Giacomo Carboni
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

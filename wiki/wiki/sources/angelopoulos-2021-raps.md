@@ -1,35 +1,50 @@
 ---
-title: "Uncertainty Sets for Image Classifiers using Conformal Prediction"
+title: Uncertainty Sets for Image Classifiers using Conformal Prediction
 page_id: sources/angelopoulos-2021-raps
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Anastasios N. Angelopoulos", "Stephen Bates", "Jitendra Malik", "Michael I. Jordan"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anastasios N. Angelopoulos
+- Stephen Bates
+- Jitendra Malik
+- Michael I. Jordan
 year: 2021
-venue: "ICLR 2021 (arXiv:2009.14193)"
-tags: [conformal-prediction, image-classification, uncertainty-quantification, prediction-sets, deep-learning, imagenet, regularization, raps]
-related: [
-  concepts/regularized-adaptive-prediction-sets,
-  concepts/adaptive-prediction-sets,
-  concepts/cp-for-vision,
-  concepts/split-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/marginal-coverage,
-  concepts/nonconformity-score,
-  entities/anastasios-angelopoulos,
-  entities/stephen-bates,
-  entities/jitendra-malik,
-  entities/michael-i-jordan,
-  sources/romano-2020-aps,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/angelopoulos-2021-learn-then-test,
-  sources/bates-2021-rcps
-]
+venue: ICLR 2021 (arXiv:2009.14193)
+tags:
+- conformal-prediction
+- image-classification
+- uncertainty-quantification
+- prediction-sets
+- deep-learning
+- imagenet
+- regularization
+- raps
+related:
+- concepts/regularized-adaptive-prediction-sets
+- concepts/adaptive-prediction-sets
+- concepts/cp-for-vision
+- concepts/split-conformal-prediction
+- concepts/conformal-prediction
+- concepts/marginal-coverage
+- concepts/nonconformity-score
+- entities/anastasios-angelopoulos
+- entities/stephen-bates
+- entities/jitendra-malik
+- entities/michael-i-jordan
+- sources/romano-2020-aps
+- sources/angelopoulos-2022-gentle-intro
+- sources/angelopoulos-2021-learn-then-test
+- sources/bates-2021-rcps
 mind_map_priority: high
+schema_version: 2
+uuid: c1db526c-9e56-5a23-ad2c-0bc27115bcd6
+content_hash: sha256:d285f8ca2df07183ca4e399100afa0500bd15522064af7d4b1ae2f72d6b741eb
 ---
 
+<!-- AUTHORED REGION START -->
 # Uncertainty Sets for Image Classifiers using Conformal Prediction (RAPS)
 
 **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]], [[entities/jitendra-malik|Jitendra Malik]], [[entities/michael-i-jordan|Michael I. Jordan]]
@@ -81,3 +96,5 @@ ImageNet with ResNeXt-101 at α = 0.1:
 - [[concepts/regularized-adaptive-prediction-sets]]
 - [[concepts/cp-for-vision]]
 - [[entities/jitendra-malik]], [[entities/michael-i-jordan]]
+
+<!-- AUTHORED REGION END -->

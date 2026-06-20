@@ -15,10 +15,14 @@ sources:
 - sources/dawson-2020-systems-mental-models
 tags: []
 title: Mental Models for Decision-Making
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8c0bb76c-3495-5b5c-83a9-67b469918748
+content_hash: sha256:2100b3394e77a186b1ba1e5ebced76ef0fcf2c9d0b70330d2b552a4d627b116f
 ---
 
+<!-- AUTHORED REGION START -->
 # Mental Models for Decision-Making
 
 ## Definition
@@ -33,3 +37,4 @@ Internal, necessarily incomplete representations of reality that shape perceptio
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/mental-model-of-code|mental-model-of-code]]
+<!-- AUTHORED REGION END -->

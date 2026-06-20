@@ -27,10 +27,14 @@ sources:
 - sources/ms-2020-04-01-what-do-recoveries-look-like
 tags: []
 title: Naomi Poole
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 651691f2-4e70-5a5a-9dfe-7178bc81ace6
+content_hash: sha256:70ac0039b524c9abc4fa2ab8bc84934166badc650c99b901701c6b61bf219ad5
 ---
 
+<!-- AUTHORED REGION START -->
 # Naomi Poole
 
 ## Overview
@@ -53,3 +57,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy|Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
 - [[sources/ms-2020-04-01-what-do-recoveries-look-like|Cross-Asset Dispatches: What Do Recoveries Usually Look Like?]]
+<!-- AUTHORED REGION END -->

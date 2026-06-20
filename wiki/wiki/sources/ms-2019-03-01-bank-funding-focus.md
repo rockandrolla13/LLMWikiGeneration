@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: European Economics Weekly — Bank Funding Focus
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_4571b6988981
+schema_version: 2
+uuid: 65d3c6b2-19a7-5140-98fe-cbc3c8f8b1c1
+content_hash: sha256:afbda9adea5b9bbe8e5ced981fb026b3c2ff91a057d177265a3e6dd285d0eb16
 ---
 
+<!-- AUTHORED REGION START -->
 # European Economics Weekly — Bank Funding Focus
 
 **Authors:** Matthew Pennill, Bruna Skarica, Jacob Nell, Jan Kozak, Joao Almeida, Daniele Antonucci · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ A weekly European economics note from Morgan Stanley focused on ECB bank funding
 - **Path:** `raw/creditmacro/Morgan Stanley - European Economics Weekly — Bank Funding Focus - 2019-03-01.md`
 - **Type:** article
 - **Hash:** `sha256:864d3c0e28b947607...`
+<!-- AUTHORED REGION END -->

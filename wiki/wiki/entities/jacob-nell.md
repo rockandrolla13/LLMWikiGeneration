@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-03-01-bank-funding-focus
 tags: []
 title: Jacob Nell
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f3069f90-c51d-5780-9376-d5086b02d929
+content_hash: sha256:0f3a76f08e2d088daa20b761c2decf6ba874a066a34ddfb8c35d46cc8f33395e
 ---
 
+<!-- AUTHORED REGION START -->
 # Jacob Nell
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-15-ongoing-weakness|European Economics Weekly — Ongoing Weakness]]
 - [[sources/ms-2019-03-01-bank-funding-focus|European Economics Weekly — Bank Funding Focus]]
+<!-- AUTHORED REGION END -->

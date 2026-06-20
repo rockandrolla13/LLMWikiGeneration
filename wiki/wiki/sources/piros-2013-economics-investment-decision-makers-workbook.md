@@ -38,10 +38,14 @@ tags:
 - exchange-rates
 title: 'Economics for Investment Decision Makers Workbook: Micro, Macro, and International
   Economics'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_ff60dc24238d
+schema_version: 2
+uuid: a5d8d0e0-98f8-5650-9c2d-e173a0c2dcb8
+content_hash: sha256:4bb244f04fc3b32614bf11d26b1d91d654743ad3b16e244c70c4fb972ae66c3f
 ---
 
+<!-- AUTHORED REGION START -->
 # Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics
 
 **Authors:** Christopher D. Piros, Jerald E. Pinto · **Year:** 2013 · **Venue:** John Wiley & Sons (CFA Institute Investment Series) · **Type:** book
@@ -84,3 +88,4 @@ The companion Workbook to the CFA Institute Investment Series text 'Economics fo
 - **Path:** `raw/creditmacro/Economics for Investment Decision Makers Workbook Micro, Macro, and International Economics (Christopher D. Piros CFA, Jerald E. Pinto) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:707efb82c3b50dd9f...`
+<!-- AUTHORED REGION END -->

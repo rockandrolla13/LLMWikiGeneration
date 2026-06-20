@@ -14,10 +14,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Karl Pearson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 347e639a-242f-5cfc-9d5e-3c217c31726d
+content_hash: sha256:d2676951adefe3bdbdf78ccf9eb272c01b0db04286d5300a22862b1b65900ccb
 ---
 
+<!-- AUTHORED REGION START -->
 # Karl Pearson
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/pearl-2018-book-of-why|The Book of Why: The New Science of Cause and Effect]]
+<!-- AUTHORED REGION END -->

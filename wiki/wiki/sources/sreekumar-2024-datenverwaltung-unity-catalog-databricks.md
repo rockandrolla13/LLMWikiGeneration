@@ -1,20 +1,43 @@
 ---
-title: "Datenverwaltung mit Unity Catalog auf Databricks"
+title: Datenverwaltung mit Unity Catalog auf Databricks
 page_id: sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [data-governance, unity-catalog, databricks, lakehouse, data-engineering, ai-governance, access-control, identity-management, gdpr, compliance, delta-sharing, open-source, data-platform, o'reilly, german-translation, practical-guide]
-sources: [sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks]
+tags:
+- data-governance
+- unity-catalog
+- databricks
+- lakehouse
+- data-engineering
+- ai-governance
+- access-control
+- identity-management
+- gdpr
+- compliance
+- delta-sharing
+- open-source
+- data-platform
+- o'reilly
+- german-translation
+- practical-guide
+sources:
+- sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
 related: []
 mind_map_priority: medium
-authors: ["Kiran Sreekumar", "Karthik Subbarao"]
+authors:
+- Kiran Sreekumar
+- Karthik Subbarao
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 6c59d15a-39ec-5a8f-9b9d-0dc2ff407f12
+content_hash: sha256:ba68f62fee1e3d1e8b151bab346fe6142e09f351e4ef1066d83d3faa44fb908f
 ---
 
+<!-- AUTHORED REGION START -->
 # Datenverwaltung mit Unity Catalog auf Databricks
 
 **Authors:** Kiran Sreekumar, Karthik Subbarao  
@@ -82,3 +105,5 @@ A German-language O'Reilly book (first edition, September 2025) titled "Datenver
 - What specific GDPR compliance mechanisms does the book describe in Chapter 10?
 - How does the Delta Sharing Protocol integrate with Unity Catalog's cross-metastore governance?
 - What are the trade-offs between Standard, Dedicated, and Serverless compute access modes in Unity Catalog?
+
+<!-- AUTHORED REGION END -->

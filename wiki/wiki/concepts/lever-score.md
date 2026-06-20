@@ -3,13 +3,26 @@ title: LEVER Score
 page_id: concepts/lever-score
 page_type: concept
 revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, event-risk, LBO, quantitative-credit]
-sources: [sources/trinh-2006-lever-framework, sources/lehman-2007-qcr-quarterly]
-related: [concepts/lbo-risk, concepts/event-risk, concepts/leveraged-recapitalization]
+created: 2026-05-05 23:20:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- event-risk
+- LBO
+- quantitative-credit
+sources:
+- sources/trinh-2006-lever-framework
+- sources/lehman-2007-qcr-quarterly
+related:
+- concepts/lbo-risk
+- concepts/event-risk
+- concepts/leveraged-recapitalization
+schema_version: 2
+uuid: 73c55cda-925d-5a33-880f-fcb3f2ebdf57
+content_hash: sha256:53cdf3e256b58331be39163a6732e62aeb0504d15f16adbfb91fb93518bed071
 ---
 
+<!-- AUTHORED REGION START -->
 # LEVER Score
 
 **LEVER** (LEVeraging Event Risk) is a quantitative framework developed by [[entities/lehman-brothers|Lehman Brothers]] in 2006 for measuring the relative risk of leveraged buyouts (LBOs) and leveraged recapitalizations in credit markets.
@@ -70,3 +83,5 @@ Demonstrated strong predictive power in backtests covering 1995-2005. Notable 20
 - [[concepts/lbo-risk]]
 - [[concepts/event-risk]]
 - [[sources/trinh-2006-lever-framework]]
+
+<!-- AUTHORED REGION END -->

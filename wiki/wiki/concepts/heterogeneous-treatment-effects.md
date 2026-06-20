@@ -15,10 +15,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Heterogeneous Treatment Effects
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e483f1f5-0ab8-5db2-aa52-7cf9b1f68607
+content_hash: sha256:de9ba2fa44d9382d7350f63d6da34a6541276c8ff46cbdacc5d3505a2b3fe2aa
 ---
 
+<!-- AUTHORED REGION START -->
 # Heterogeneous Treatment Effects
 
 ## Definition
@@ -33,3 +37,4 @@ Variation in the causal treatment effect across units or subgroups defined by co
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

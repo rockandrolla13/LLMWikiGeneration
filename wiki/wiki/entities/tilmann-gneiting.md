@@ -15,10 +15,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Tilmann Gneiting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 80d59de9-6abe-5c0d-ba19-7fdadfeaa563
+content_hash: sha256:a48675847abf56d673da6e6d70cedc75fac44d89ac4d350b2f80d19cb7505e09
 ---
 
+<!-- AUTHORED REGION START -->
 # Tilmann Gneiting
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/gneiting-2007-strictly-proper-scoring-rules|Strictly Proper Scoring Rules, Prediction, and Estimation]]
 - [[sources/ziel-2019-multivariate-forecasting-evaluation|Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules]]
+<!-- AUTHORED REGION END -->

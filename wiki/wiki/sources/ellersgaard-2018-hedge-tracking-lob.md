@@ -1,19 +1,37 @@
 ---
-title: "Optimal Hedge Tracking Portfolios in a Limit Order Book"
+title: Optimal Hedge Tracking Portfolios in a Limit Order Book
 page_id: sources/ellersgaard-2018-hedge-tracking-lob
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Simon Ellersgaard, Martin Tegner]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Simon Ellersgaard
+- Martin Tegner
 year: 2018
 venue: Market Microstructure and Liquidity
-tags: [delta-hedging, limit-order-book, hjb-qvi, optimal-control, market-making, transaction-costs, options]
-related: [concepts/limit-order-book, concepts/market-making, concepts/delta-hedging, concepts/optimal-control, sources/avellaneda-2008-market-making]
+tags:
+- delta-hedging
+- limit-order-book
+- hjb-qvi
+- optimal-control
+- market-making
+- transaction-costs
+- options
+related:
+- concepts/limit-order-book
+- concepts/market-making
+- concepts/delta-hedging
+- concepts/optimal-control
+- sources/avellaneda-2008-market-making
 mind_map_priority: high
+schema_version: 2
+uuid: 582eca82-d917-5bd5-adb0-64218f01115c
+content_hash: sha256:0fb9ddc924ea54a40abfc99b4c160f589013ffd41fd752e1030c9f5fe3d4bcc1
 ---
 
+<!-- AUTHORED REGION START -->
 # Optimal Hedge Tracking Portfolios in a Limit Order Book
 
 **Authors:** Simon Ellersgaard, Martin Tegner
@@ -108,3 +126,5 @@ This paper develops an optimal control framework for derivative hedging through 
 - [[concepts/delta-hedging|Delta Hedging]]
 - [[concepts/optimal-control|Optimal Control]]
 - [[sources/avellaneda-2008-market-making|Avellaneda & Stoikov (2008)]]
+
+<!-- AUTHORED REGION END -->

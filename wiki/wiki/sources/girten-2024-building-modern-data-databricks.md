@@ -1,20 +1,32 @@
 ---
-title: "Building Modern Data Applications Using Databricks Lakehouse"
+title: Building Modern Data Applications Using Databricks Lakehouse
 page_id: sources/girten-2024-building-modern-data-databricks
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [databricks, lakehouse, delta-lake, data-engineering, etl, data-governance]
-sources: [sources/girten-2024-building-modern-data-databricks]
+tags:
+- databricks
+- lakehouse
+- delta-lake
+- data-engineering
+- etl
+- data-governance
+sources:
+- sources/girten-2024-building-modern-data-databricks
 related: []
 mind_map_priority: high
-authors: ["Will Girten"]
+authors:
+- Will Girten
 year: 2024
 source_type: book
+schema_version: 2
+uuid: b1b0fab1-42d3-55ab-b0a1-2893b2463b4d
+content_hash: sha256:812fe9bf2ee89931e2b68b998e22a8101c82b13f4aa3d0a07e9ecb0a062630c2
 ---
 
+<!-- AUTHORED REGION START -->
 # Building Modern Data Applications Using Databricks Lakehouse
 
 **Authors:** Will Girten  
@@ -61,3 +73,5 @@ Building Modern Data Applications Using Databricks Lakehouse (Packt, October 202
 - How does the DLT framework handle schema evolution and late-arriving data compared to hand-rolled Spark Structured Streaming solutions?
 - What are the cost trade-offs between DLT pipeline editions (Core vs. Pro vs. Advanced) in production, given the book references DBU consumption per pipeline run?
 - Does Unity Catalog's lineage tracking extend to ML models and feature stores, or is it scoped only to tabular data assets?
+
+<!-- AUTHORED REGION END -->

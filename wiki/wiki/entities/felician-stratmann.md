@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-02-28-selling-the-rally
 tags: []
 title: Felician G Stratmann
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3fe7aadf-9c51-50eb-883a-138d836ca0f8
+content_hash: sha256:b5595e48febaf4bb30b6343baea7b9cca2d839f55f0d7ad85633fa2792b4ec89
 ---
 
+<!-- AUTHORED REGION START -->
 # Felician G Stratmann
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2018-11-25-the-bear-has-begun|2019 US Credit Outlook: The Bear Has Begun]]
 - [[sources/ms-2019-02-01-credit-strategy-chartbook|US Corporate Credit Strategy Chartbook]]
 - [[sources/ms-2019-02-28-selling-the-rally|US Corporate Credit Strategy Brief: Selling the Rally]]
+<!-- AUTHORED REGION END -->

@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Chip Huyen
@@ -42,8 +42,12 @@ related:
 - entities/tvm
 mind_map_priority: medium
 revision_hash: sha256:760cdc827eb6074b
+schema_version: 2
+uuid: b51ab7f3-ad8e-561b-9b71-4c43d0a2afe1
+content_hash: sha256:1271f8e774211f04887e8bc83662fa877dceeece5a436a885178623a5c473f6c
 ---
 
+<!-- AUTHORED REGION START -->
 # Designing Machine Learning Systems
 *An Iterative Process for Production-Ready Applications*
 
@@ -115,3 +119,5 @@ ML engineers, data scientists, data engineers, ML platform engineers, and engine
 - [[entities/apache-flink|Apache Flink]]
 - [[entities/apache-kafka|Apache Kafka]]
 - [[entities/tvm|TVM]]
+
+<!-- AUTHORED REGION END -->

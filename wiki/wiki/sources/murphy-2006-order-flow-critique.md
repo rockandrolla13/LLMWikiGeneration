@@ -1,19 +1,36 @@
 ---
-title: "Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)"
+title: 'Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)'
 page_id: sources/murphy-2006-order-flow-critique
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T23:45:00Z
-updated: 2026-04-25T23:45:00Z
-authors: [Anthony Murphy, Marwan Izzeldin]
+created: 2026-04-25 23:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anthony Murphy
+- Marwan Izzeldin
 year: 2006
 venue: Working Paper
-tags: [subordinated-process, transaction-clock, information-flow, normality, monte-carlo, stochastic-time-change, market-microstructure]
-related: [concepts/stylized-facts, concepts/long-memory, sources/golub-2014-multiscale-liquidity, sources/koukorinis-stylized-facts]
+tags:
+- subordinated-process
+- transaction-clock
+- information-flow
+- normality
+- monte-carlo
+- stochastic-time-change
+- market-microstructure
+related:
+- concepts/stylized-facts
+- concepts/long-memory
+- sources/golub-2014-multiscale-liquidity
+- sources/koukorinis-stylized-facts
 mind_map_priority: medium
+schema_version: 2
+uuid: 7061d429-9b41-50b2-b1ab-8a6cde0ab500
+content_hash: sha256:839b830fbe701ad95f707fa522a370bb8a3e22d424000be5bcd06086d726ac88
 ---
 
+<!-- AUTHORED REGION START -->
 # Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman
 
 ## Summary
@@ -104,3 +121,5 @@ Using 1997 NASDAQ data for Cisco and Intel:
 - [[concepts/long-memory|Long Memory]]
 - [[sources/golub-2014-multiscale-liquidity|Multi-Scale Liquidity]]
 - [[sources/koukorinis-stylized-facts|Koukorinis Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

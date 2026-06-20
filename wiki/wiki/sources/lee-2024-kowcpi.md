@@ -1,18 +1,36 @@
 ---
-title: "Kernel-based Optimally Weighted Conformal Prediction Intervals"
+title: Kernel-based Optimally Weighted Conformal Prediction Intervals
 page_id: sources/lee-2024-kowcpi
 page_type: source
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, kernel-methods, uncertainty-quantification, nonparametric-statistics]
-authors: [Jonghyeok Lee, Chen Xu, Yao Xie]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- kernel-methods
+- uncertainty-quantification
+- nonparametric-statistics
+authors:
+- Jonghyeok Lee
+- Chen Xu
+- Yao Xie
 year: 2024
 sources: []
-related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/coverage-guarantee, concepts/kowcpi, concepts/nadaraya-watson-estimator, entities/yao-xie]
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/coverage-guarantee
+- concepts/kowcpi
+- concepts/nadaraya-watson-estimator
+- entities/yao-xie
 mind_map_priority: high
+schema_version: 2
+uuid: 500e1da0-350e-53fb-9cbf-0b429ee0f020
+content_hash: sha256:7f3c5f7375181775e5d31d52dfbed13a04fd19d1e9e350fcb869457c127bf945
 ---
 
+<!-- AUTHORED REGION START -->
 # Kernel-based Optimally Weighted Conformal Prediction Intervals
 
 **Lee, Xu, and Xie (2024)** propose KOWCPI, a novel conformal prediction method for time-series data that learns optimal data-adaptive weights using the Reweighted Nadaraya-Watson (RNW) estimator for quantile regression on non-conformity scores.
@@ -100,3 +118,5 @@ The method is applicable to:
 - [[concepts/nadaraya-watson-estimator|Nadaraya-Watson Estimator]]
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
+
+<!-- AUTHORED REGION END -->

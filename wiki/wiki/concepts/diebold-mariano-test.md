@@ -15,10 +15,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Diebold-Mariano Test
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5206e219-b511-5170-a3bd-6cb6ea96fa40
+content_hash: sha256:40a63173c0687ee36485f8dae7ad8900da7ffa9205f0ca517ab772ca3d496862
 ---
 
+<!-- AUTHORED REGION START -->
 # Diebold-Mariano Test
 
 ## Definition
@@ -33,3 +37,4 @@ An asymptotic test comparing predictive accuracy of two forecasts via the mean s
 
 - [[concepts/energy-score|energy-score]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Alaph Capital
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fc5e11b2-73ae-53d1-9a8c-5a5b6f5504b2
+content_hash: sha256:20e49bf6b6050adcc326d1d220e1678a5013591b84d4624f80a26890b7e27ab3
 ---
 
+<!-- AUTHORED REGION START -->
 # Alaph Capital
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ahmad-2014-alaph-liquid-macro-credit-fund|Introduction to the Alaph Capital Liquid Macro Credit Fund]]
+<!-- AUTHORED REGION END -->

@@ -37,9 +37,13 @@ tags:
 - mean-reversion
 - market-neutral
 title: Statistical Arbitrage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: d40cf5c3-b99b-5f99-be94-ada09a3b8816
+content_hash: sha256:014f4163807d722a06a9cae19d4e3dbab62ac1ff0ec8068005e239060a3c60d0
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 Statistical arbitrage (stat arb) is a class of trading strategies that exploit statistical mispricings between related financial instruments. Unlike true arbitrage, which is theoretically risk-free, statistical arbitrage involves probabilistic bets on price relationships reverting to historical norms.
@@ -157,3 +161,4 @@ Papers in this wiki applying statistical arbitrage:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2018-07-09-em-risk-indicator-regime-switching]]
+<!-- AUTHORED REGION END -->

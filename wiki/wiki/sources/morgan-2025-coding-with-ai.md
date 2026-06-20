@@ -1,20 +1,32 @@
 ---
-title: "Coding with AI"
+title: Coding with AI
 page_id: sources/morgan-2025-coding-with-ai
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [ai-coding-tools, github-copilot, chatgpt, software-development, llm-applications, developer-productivity]
-sources: [sources/morgan-2025-coding-with-ai]
+tags:
+- ai-coding-tools
+- github-copilot
+- chatgpt
+- software-development
+- llm-applications
+- developer-productivity
+sources:
+- sources/morgan-2025-coding-with-ai
 related: []
 mind_map_priority: medium
-authors: ["Jeremy C. Morgan"]
+authors:
+- Jeremy C. Morgan
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 49b1720b-b924-50e1-9d9a-add587d9b52b
+content_hash: sha256:498b9e59829e01c63f9a9ff865fa3332e7943b4bd3f0332733ffaa63c1fb8f64
 ---
 
+<!-- AUTHORED REGION START -->
 # Coding with AI
 
 **Authors:** Jeremy C. Morgan  
@@ -59,3 +71,5 @@ Coding with AI (MEAP edition) by Jeremy C. Morgan, published by Manning Publicat
 - How does the book handle AI hallucination and incorrect code suggestions — what verification workflow does it recommend beyond 'you verify output'?
 - Does the book address security risks of sending proprietary code through external LLM APIs, given the proxy/toxicity filter architecture shown?
 - The MEAP (Manning Early Access Program) label on the file suggests this was a pre-publication draft — what chapters were complete at time of conversion?
+
+<!-- AUTHORED REGION END -->

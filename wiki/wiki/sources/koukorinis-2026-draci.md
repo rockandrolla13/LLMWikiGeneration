@@ -1,19 +1,35 @@
 ---
-title: "Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence"
+title: Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal
+  Dependence
 page_id: sources/koukorinis-2026-draci
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-04-28T12:45:00Z
-updated: 2026-04-28T12:45:00Z
-authors: [Andreas Koukorinis]
+created: 2026-04-28 12:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Andreas Koukorinis
 year: 2026
 venue: JMLR (submitted)
-tags: [conformal-prediction, causal-inference, time-series, doubly-robust, market-microstructure]
-related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/doubly-robust-estimation, concepts/beta-mixing, entities/andreas-koukorinis]
+tags:
+- conformal-prediction
+- causal-inference
+- time-series
+- doubly-robust
+- market-microstructure
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/doubly-robust-estimation
+- concepts/beta-mixing
+- entities/andreas-koukorinis
 mind_map_priority: high
+schema_version: 2
+uuid: 29d31285-2986-5caa-82ac-1424b1dfb77a
+content_hash: sha256:ba4cd453652a1aa321bda328908f57b0efbb77375c7f4d465ef985d823e6574b
 ---
 
+<!-- AUTHORED REGION START -->
 # Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence
 
 **Authors:** [[entities/andreas-koukorinis|Andreas Koukorinis]]
@@ -115,3 +131,5 @@ Parameters calibrated from German Bund futures (RX1) limit order book data:
 - [[concepts/doubly-robust-estimation|Doubly Robust Estimation]]
 - [[concepts/beta-mixing|β-Mixing]]
 - [[concepts/double-machine-learning|Double Machine Learning]]
+
+<!-- AUTHORED REGION END -->

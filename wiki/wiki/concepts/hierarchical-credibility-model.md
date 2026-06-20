@@ -1,16 +1,31 @@
 ---
-title: "Hierarchical Credibility Model"
+title: Hierarchical Credibility Model
 page_id: concepts/hierarchical-credibility-model
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [credibility-theory, actuarial-science, mortality-modelling, bayesian-methods]
-sources: [sources/tsai-2020-hierarchical-mortality, sources/namora-2021-hierarchical]
-related: [concepts/credibility-theory, concepts/buhlmann-straub-model, concepts/lee-carter-model, concepts/multi-population-mortality, entities/cary-tsai]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- credibility-theory
+- actuarial-science
+- mortality-modelling
+- bayesian-methods
+sources:
+- sources/tsai-2020-hierarchical-mortality
+- sources/namora-2021-hierarchical
+related:
+- concepts/credibility-theory
+- concepts/buhlmann-straub-model
+- concepts/lee-carter-model
+- concepts/multi-population-mortality
+- entities/cary-tsai
 mind_map_priority: high
+schema_version: 2
+uuid: 6ef71f74-13d0-5437-b184-bd003b8c9b16
+content_hash: sha256:6a0834f7c4cf193f9cb8992e6dfe3d4306010963c155b5d528a822a7d0469494
 ---
 
+<!-- AUTHORED REGION START -->
 # Hierarchical Credibility Model
 
 Hierarchical credibility models extend classical credibility theory to multi-level data structures, optimally blending individual observations with group-level information.
@@ -60,3 +75,5 @@ The model optimally weights country data against regional patterns, particularly
 - [[concepts/buhlmann-straub-model|Bühlmann-Straub Model]]
 - [[concepts/lee-carter-model|Lee-Carter Model]]
 - [[sources/tsai-2020-hierarchical-mortality|Hierarchical Credibility Theory for Multi-Country Mortality (2020)]]
+
+<!-- AUTHORED REGION END -->

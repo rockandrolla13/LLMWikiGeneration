@@ -18,10 +18,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Credit Spread Compression
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bb71e9f8-500c-51af-ab8b-ded8ebb032e7
+content_hash: sha256:db330b9d7e4fe7989ca321a4c088aedffa009d422f6bce03eda6f63409e693b0
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Spread Compression
 
 ## Definition
@@ -41,3 +45,4 @@ The narrowing of credit spreads under prolonged low rates, disproportionately lo
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2019-03-22-high-yield-hedge]]
+<!-- AUTHORED REGION END -->

@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: Global Macro Commentary | April 2
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7a8d4e823ae3
+schema_version: 2
+uuid: 634b9256-2895-57a3-b55c-a483761919f7
+content_hash: sha256:8c3611c76789d2d45c69e448544cef6227e669357462d69e0c7741f184beda0d
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Macro Commentary | April 2
 
 **Authors:** Edward von der Schmidt, Matthew Hornbach, Andrew M Watrous, Gilberto A Hernandez-Gomez, Sarah A Wolfe, Filip Denchev, Gek Teng Khoo, Alina Zaytseva, Shoki Omori, Belle Chang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -69,3 +73,4 @@ Daily global macro commentary covering April 2, 2020, during the early COVID-19 
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Macro Commentary — April 2 - 2020-04-03.md`
 - **Type:** article
 - **Hash:** `sha256:6ca1170914f4d8d1c...`
+<!-- AUTHORED REGION END -->

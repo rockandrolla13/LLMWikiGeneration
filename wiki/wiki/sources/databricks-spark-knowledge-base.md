@@ -1,20 +1,32 @@
 ---
-title: "Databricks Spark Knowledge Base"
+title: Databricks Spark Knowledge Base
 page_id: sources/databricks-spark-knowledge-base
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [apache-spark, distributed-computing, databricks, rdd, troubleshooting, performance-optimization]
-sources: [sources/databricks-spark-knowledge-base]
+tags:
+- apache-spark
+- distributed-computing
+- databricks
+- rdd
+- troubleshooting
+- performance-optimization
+sources:
+- sources/databricks-spark-knowledge-base
 related: []
 mind_map_priority: medium
-authors: ["Databricks"]
+authors:
+- Databricks
 year: 2023
 source_type: book
+schema_version: 2
+uuid: 0898d267-c211-5fcf-b2f9-f41858b7da2a
+content_hash: sha256:2aeb6b992afd77d97107a70185e9d3221068eb2f23e8a01fb979003dfc4267ff
 ---
 
+<!-- AUTHORED REGION START -->
 # Databricks Spark Knowledge Base
 
 **Authors:** Databricks  
@@ -58,3 +70,5 @@ The Databricks Spark Knowledge Base is a practitioner-oriented reference guide p
 - At which Spark version was this guide written, and how many of the troubleshooting patterns remain relevant in current Spark 3.x releases?
 - The document mentions Spark Streaming's ERROR OneForOneStrategy error as a section — what specific actor supervision strategies does Spark Streaming use and how have they changed with Structured Streaming?
 - How does the data-locality guidance in the Performance section interact with modern cloud-native Spark deployments where compute and storage are decoupled?
+
+<!-- AUTHORED REGION END -->

@@ -22,9 +22,13 @@ tags:
 - corporate-bonds
 - data-quality
 title: Look-ahead Bias
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 233d62ed-119f-5800-b2e7-ccc2ac571d15
+content_hash: sha256:acb2817f6a8f5c01e92770fc91aa0a4db09f52be64528ac5ce2b1c1b2b8f8357
 ---
 
+<!-- AUTHORED REGION START -->
 # Look-ahead Bias
 
 ## Definition
@@ -107,3 +111,4 @@ Apply filters using only information available at portfolio formation:
 - [[concepts/survivorship-bias|survivorship-bias]]
 - [[concepts/trading-strategy-overfitting|trading-strategy-overfitting]]
 - [[concepts/walk-forward-analysis|walk-forward-analysis]]
+<!-- AUTHORED REGION END -->

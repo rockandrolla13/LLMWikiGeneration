@@ -41,10 +41,14 @@ sources:
 - sources/ms-2020-03-25-global-volatility-playbook
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 23edd06e-71d8-5472-a978-687950c52605
+content_hash: sha256:dca96e027df237a9d84e73338bd911ba6e5ca430fc36508be97e9a3c2b07163c
 ---
 
+<!-- AUTHORED REGION START -->
 # Risk Premia (Expected Return Sources)
 
 ## Definition
@@ -64,3 +68,4 @@ The excess expected return over a riskless rate that investors earn for bearing 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2010-09-15-em-quantitative-quarterly]], [[sources/ms-2011-05-06-differentiation-divergence]], [[sources/ms-2013-12-04-faqs-on-corporate-hybrids]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2018-11-05-trading-risk-premia-emfx-virp]], [[sources/ms-2019-02-11-emfx-quants-lab-steady-path]], [[sources/ms-2019-03-04-a-premium-for-size]], [[sources/ms-2019-04-05-long-dated-equity-vol]], [[sources/ms-2019-04-07-cross-asset-playbook-late-cycle-weaker-dollar]], [[sources/ms-2020-03-10-cross-asset-moves-context]], [[sources/ms-2020-03-17-cross-asset-playbook-brace-for-recession]], [[sources/ms-2020-03-25-global-volatility-playbook]]
+<!-- AUTHORED REGION END -->

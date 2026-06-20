@@ -3,14 +3,27 @@ title: Conditional Validity
 page_id: concepts/conditional-validity
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, coverage-guarantee, fairness]
-sources: [sources/chernozhukov-2021-distributional-cp, sources/yang-2026-multi-distribution-robust-cp]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/distributional-conformal-prediction, concepts/exchangeability]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- coverage-guarantee
+- fairness
+sources:
+- sources/chernozhukov-2021-distributional-cp
+- sources/yang-2026-multi-distribution-robust-cp
+related:
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/distributional-conformal-prediction
+- concepts/exchangeability
 mind_map_priority: medium
+schema_version: 2
+uuid: cc31d8eb-be0e-5496-99b2-c8ff391c5906
+content_hash: sha256:f718744f7a1781202bf07da968281553830d61973b70e595c7d1cd6b61900cf0
 ---
 
+<!-- AUTHORED REGION START -->
 # Conditional Validity
 
 **Conditional validity** refers to the property of prediction sets having correct coverage probability conditional on the observed features (or other conditioning variables), rather than just on average across all possible feature values.
@@ -98,3 +111,5 @@ When making decisions for specific individuals (not populations), we care about 
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/distributional-conformal-prediction|Distributional Conformal Prediction]]
 - [[sources/chernozhukov-2021-distributional-cp|Chernozhukov et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

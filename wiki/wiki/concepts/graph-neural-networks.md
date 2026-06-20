@@ -1,13 +1,27 @@
 ---
-title: "Graph Neural Networks"
+title: Graph Neural Networks
 page_id: concepts/graph-neural-networks
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [deep-learning, graphs, neural-networks, machine-learning, spectral-methods]
-related: [concepts/graph-signal-processing, concepts/graph-convolutional-networks, concepts/spectral-graph-filters, concepts/graph-laplacian, sources/dong-2020-gsp-for-ml]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- deep-learning
+- graphs
+- neural-networks
+- machine-learning
+- spectral-methods
+related:
+- concepts/graph-signal-processing
+- concepts/graph-convolutional-networks
+- concepts/spectral-graph-filters
+- concepts/graph-laplacian
+- sources/dong-2020-gsp-for-ml
+schema_version: 2
+uuid: 6b899e56-3255-54cd-9027-7da6327cb01f
+content_hash: sha256:1f3bf4484c107aba465dd14142693e572030234ead23843abf39aee19c6a07c9
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Neural Networks
 
 Graph Neural Networks (GNNs) are deep learning architectures designed to operate on graph-structured data, enabling end-to-end learning for tasks like node classification, link prediction, and graph classification.
@@ -177,3 +191,5 @@ class GCNLayer(torch.nn.Module):
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/transductive-learning|Transductive Learning]]
 - [[sources/dong-2020-gsp-for-ml|GSP for Machine Learning Review]]
+
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []
 title: Jesús Huerta de Soto
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8371a2c3-b8c1-51f5-ab87-990cf1d8ba94
+content_hash: sha256:bbd709018a2de10ff28450764d871ffb0025bb9c2fd101698b6bae9403f4bc4d
 ---
 
+<!-- AUTHORED REGION START -->
 # Jesús Huerta de Soto
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+<!-- AUTHORED REGION END -->

@@ -23,9 +23,13 @@ tags:
 - basel
 - regulatory-capital
 title: Value-at-Risk
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 35fb663c-32ca-5759-8347-bdaf6e85ff7a
+content_hash: sha256:0542dc1e618ed135dffa62edb2d8a8d4bfd877937e5550e8bea756ad90718637
 ---
 
+<!-- AUTHORED REGION START -->
 # Value-at-Risk
 
 **Value-at-Risk (VaR)** is a quantile-based risk measure giving the loss threshold not exceeded with a specified probability over a fixed horizon. Central to Basel capital regulation and risk management.
@@ -50,3 +54,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact]], [[sources/ms-2020-03-20-risk-parity-deleveraging]]
+<!-- AUTHORED REGION END -->

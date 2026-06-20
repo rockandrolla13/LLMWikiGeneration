@@ -1,19 +1,36 @@
 ---
-title: "Distributional Conformal Prediction"
+title: Distributional Conformal Prediction
 page_id: sources/chernozhukov-2021-distributional-cp
 page_type: source
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-authors: [Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Victor Chernozhukov
+- Kaspar Wüthrich
+- Yinchu Zhu
 publication: PNAS
 year: 2021
-arxiv: "1909.07889"
-tags: [conformal-prediction, quantile-regression, distribution-regression, conditional-validity, heteroskedasticity]
-related: [concepts/conformal-prediction, concepts/distributional-conformal-prediction, concepts/conditional-validity, concepts/probability-integral-transform, concepts/quantile-regression]
+arxiv: '1909.07889'
+tags:
+- conformal-prediction
+- quantile-regression
+- distribution-regression
+- conditional-validity
+- heteroskedasticity
+related:
+- concepts/conformal-prediction
+- concepts/distributional-conformal-prediction
+- concepts/conditional-validity
+- concepts/probability-integral-transform
+- concepts/quantile-regression
 mind_map_priority: high
+schema_version: 2
+uuid: 0bc2c8bc-2ccf-5cca-a0ab-da955a067469
+content_hash: sha256:1d0decda17d373078a462482c8a89624d05fd14e50fd13d98b3b752bdf7312b5
 ---
 
+<!-- AUTHORED REGION START -->
 # Distributional Conformal Prediction
 
 ## Summary
@@ -99,3 +116,5 @@ Under suitable conditions, the optimal DCP achieves the shortest possible condit
 - [[entities/victor-chernozhukov|Victor Chernozhukov]] - MIT economist, lead author
 - [[entities/kaspar-wuthrich|Kaspar Wüthrich]] - UC San Diego, econometrics
 - [[entities/yinchu-zhu|Yinchu Zhu]] - Brandeis University, statistics
+
+<!-- AUTHORED REGION END -->

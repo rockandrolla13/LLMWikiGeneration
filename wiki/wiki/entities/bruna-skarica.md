@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-03-01-bank-funding-focus
 tags: []
 title: Bruna Skarica
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 19f35fc2-c6a6-5a1c-894c-58082a5bbbe8
+content_hash: sha256:4c4af861dc81a40972f8601786897798e8c181c5b3bc2b87b9003ed8787223a1
 ---
 
+<!-- AUTHORED REGION START -->
 # Bruna Skarica
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-15-ongoing-weakness|European Economics Weekly — Ongoing Weakness]]
 - [[sources/ms-2019-03-01-bank-funding-focus|European Economics Weekly — Bank Funding Focus]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-12-13-top-10-rates-surprises-2014
 tags: []
 title: Vipul Jain
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9ece4d81-86dd-55b1-a377-551310a98599
+content_hash: sha256:41fee75b1b45e283ca5284367a74d167d8e52b2ebab9b527d5adacae0b500a6e
 ---
 
+<!-- AUTHORED REGION START -->
 # Vipul Jain
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-12-13-top-10-rates-surprises-2014|US Interest Rate Strategist: Top 10 Surprises for 2014]]
+<!-- AUTHORED REGION END -->

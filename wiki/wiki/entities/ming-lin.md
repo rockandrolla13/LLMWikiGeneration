@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Ming Lin
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9d34b027-b04d-50b6-b2b1-135935e8096c
+content_hash: sha256:fefad88dfa14d0f7f94b37c5ead3376b24ec023a15968710fffd89b0ef3ec8f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Ming Lin
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

@@ -36,10 +36,14 @@ tags:
 - doubly-robust
 - epidemiology
 title: 'Causal Inference: What If'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3d8a63fdb139
+schema_version: 2
+uuid: 1a96e118-01e2-5f09-aaf3-e8307df3c0f3
+content_hash: sha256:571610c0dbc140b5d77a7abec2b5a069cdde55c27e30dbc7529922dd3536b883
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal Inference: What If
 
 **Authors:** Miguel A. Hernán, James M. Robins · **Year:** 2020 · **Venue:** Chapman & Hall/CRC · **Type:** book
@@ -84,3 +88,4 @@ A graduate textbook on the identification and estimation of causal effects from 
 - **Path:** `raw/creditmacro/Causal Inference What If (Miguel A. Hernán, James M. Robins) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:55c8b6aeebea5d3a4...`
+<!-- AUTHORED REGION END -->

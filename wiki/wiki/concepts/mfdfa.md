@@ -1,16 +1,34 @@
 ---
-title: "Multifractal Detrended Fluctuation Analysis (MFDFA)"
+title: Multifractal Detrended Fluctuation Analysis (MFDFA)
 page_id: concepts/mfdfa
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [multifractal, time-series, scaling, hurst-exponent, detrending, financial-analysis]
-sources: [sources/koukorinis-stylized-facts, sources/stavroyiannis-2017-bitcoin-multifractal, sources/ruan-2016-mfdcca-gold, sources/aslam-2020-covid-mfdfa]
-related: [concepts/long-memory, concepts/stylized-facts, concepts/hurst-exponent, concepts/wtmm]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- multifractal
+- time-series
+- scaling
+- hurst-exponent
+- detrending
+- financial-analysis
+sources:
+- sources/koukorinis-stylized-facts
+- sources/stavroyiannis-2017-bitcoin-multifractal
+- sources/ruan-2016-mfdcca-gold
+- sources/aslam-2020-covid-mfdfa
+related:
+- concepts/long-memory
+- concepts/stylized-facts
+- concepts/hurst-exponent
+- concepts/wtmm
 mind_map_priority: high
+schema_version: 2
+uuid: 72ed4e3b-7b23-59d2-9d5f-95b649df7ee4
+content_hash: sha256:4112598d1392e23fe2fe244772a6fd584dc2891a67d6d55579406181914e1fe8
 ---
 
+<!-- AUTHORED REGION START -->
 # Multifractal Detrended Fluctuation Analysis (MFDFA)
 
 **MFDFA** is a generalization of Detrended Fluctuation Analysis (DFA) that characterizes the multifractal properties of time series. It reveals how scaling behavior varies across different fluctuation magnitudes, capturing the rich structure of financial time series.
@@ -182,3 +200,5 @@ Multifractal detrended cross-correlation analysis:
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
 - [[sources/stavroyiannis-2017-bitcoin-multifractal|Stavroyiannis et al. (2017)]]
 - [[sources/aslam-2020-covid-mfdfa|Aslam et al. (2020) COVID-19 MFDFA]]
+
+<!-- AUTHORED REGION END -->

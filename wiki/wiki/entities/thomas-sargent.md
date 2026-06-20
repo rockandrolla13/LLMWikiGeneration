@@ -14,10 +14,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Thomas J. Sargent
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a25ca5e3-c1f9-5b17-acee-a96683c975d6
+content_hash: sha256:0eefe7803a741ad518d5a7be3ff34172a78b9088c9b38a27a959d76f076ba9fb
 ---
 
+<!-- AUTHORED REGION START -->
 # Thomas J. Sargent
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

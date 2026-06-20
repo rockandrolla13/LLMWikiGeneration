@@ -4,7 +4,7 @@ page_id: concepts/service-layer-pattern
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -13,8 +13,12 @@ sources:
 related: []
 mind_map_priority: medium
 revision_hash: sha256:ad302b3a17543d7e
+schema_version: 2
+uuid: 06b6653d-d1e5-5c63-afbf-b71ea60f44c0
+content_hash: sha256:aa9df85424a45739060b50812ba398d061d48683d995563e98b07482329e1a95
 ---
 
+<!-- AUTHORED REGION START -->
 # Service Layer Pattern
 
 ## Definition
@@ -24,3 +28,5 @@ A thin layer that defines the application's use cases and orchestrates the domai
 ## Sources
 
 - [[sources/percival-2020-architecture-patterns-python|Architecture Patterns with Python]]
+
+<!-- AUTHORED REGION END -->

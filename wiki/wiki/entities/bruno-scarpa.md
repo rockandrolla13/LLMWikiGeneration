@@ -14,10 +14,14 @@ sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []
 title: Bruno Scarpa
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c4626052-e828-534a-be6d-85dbc85a8806
+content_hash: sha256:bf0404b29e045d5f25ebbe1a3e7ebc67f5eb6ad6aebc4a3a8f13bfeb8681d7bf
 ---
 
+<!-- AUTHORED REGION START -->
 # Bruno Scarpa
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/azzalini-2012-data-analysis-and-data-mining|Data Analysis and Data Mining: An Introduction]]
+<!-- AUTHORED REGION END -->

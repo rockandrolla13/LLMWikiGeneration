@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e47a18d12743
+schema_version: 2
+uuid: 38a03a01-bf9b-51dd-a0cf-33bb2a15885c
+content_hash: sha256:95d18fb0579715907fc61b45215d3f7d12cec6e50c46e0996cc075af47016d02
 ---
 
+<!-- AUTHORED REGION START -->
 # US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts
 
 **Authors:** Matthew Hornbach · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Following the March 22, 2019 inversion of the 3m/10y Treasury yield spread (the 
 - **Path:** `raw/creditmacro/Morgan Stanley - What Also Comes Before Recessions Rate Cuts - 2019-03-25.md`
 - **Type:** article
 - **Hash:** `sha256:0176336392bde292d...`
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Borek Vasicek
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bfe6e097-cb6a-543a-9d51-44dcf1ac6f3f
+content_hash: sha256:30cd38256bc0ba5ff524e9b32b05cd4f1d7f982d80f534b502aa70043aa189e8
 ---
 
+<!-- AUTHORED REGION START -->
 # Borek Vasicek
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/babecky-2013-leading-indicators-crisis-incidence|Leading indicators of crisis incidence: Evidence from developed countries]]
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

@@ -1,15 +1,27 @@
 ---
-title: "Adrian Pizzinga"
+title: Adrian Pizzinga
 page_id: entities/adrian-pizzinga
 page_type: entity
 entity_type: researcher
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, kalman-filter, state-space-models, pairs-trading, brazil]
-affiliations: [Universidade Federal Fluminense]
-related: [sources/moura-2016-pairs-trading-kalman, entities/jorge-zubelli]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- kalman-filter
+- state-space-models
+- pairs-trading
+- brazil
+affiliations:
+- Universidade Federal Fluminense
+related:
+- sources/moura-2016-pairs-trading-kalman
+- entities/jorge-zubelli
+schema_version: 2
+uuid: 15283f5d-96ac-563a-b6b9-1c4e2d904ee3
+content_hash: sha256:f1c98b36adb0cea5d6c93639ea8da5d3e0615cb4dc4350ac9e175967e6557da4
 ---
 
+<!-- AUTHORED REGION START -->
 ## Biography
 
 Adrian Pizzinga is a professor at the Institute of Mathematics and Statistics, Universidade Federal Fluminense (UFF), Niterói, Brazil. His research focuses on state-space models, Kalman filtering, and their applications to financial economics.
@@ -48,3 +60,5 @@ His work provides:
 - Rigorous statistical foundation for pairs trading decisions
 - Novel trading rules based on mean-reversion probabilities
 - Bridge between theoretical finance models and practical trading strategies
+
+<!-- AUTHORED REGION END -->

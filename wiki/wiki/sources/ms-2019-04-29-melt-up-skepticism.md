@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: Melting Up Is Hard to Do'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_f6df8da495c0
+schema_version: 2
+uuid: 4956fa31-ad7a-5016-bc06-46297916e66d
+content_hash: sha256:e4a68c78b26fb6f1cdc14228ce5b6f4d3b65fa048a29221e60166a79d3d866c8
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: Melting Up Is Hard to Do
 
 **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Wanting Low, Naomi Z Poole, Serena W Tang, Adam Virgadamo · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -78,3 +82,4 @@ Morgan Stanley examines the possibility of an equity 'melt-up' and concludes it 
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Melting Up Is Hard to Do - nd.md`
 - **Type:** article
 - **Hash:** `sha256:b98615ceb24ca7c7a...`
+<!-- AUTHORED REGION END -->

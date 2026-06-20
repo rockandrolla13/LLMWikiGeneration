@@ -4,14 +4,25 @@ page_id: entities/kaspar-wuthrich
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [econometrics, prediction-intervals, conformal-prediction]
-sources: [sources/chernozhukov-2021-distributional-cp]
-related: [entities/victor-chernozhukov, entities/yinchu-zhu, concepts/distributional-conformal-prediction]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- econometrics
+- prediction-intervals
+- conformal-prediction
+sources:
+- sources/chernozhukov-2021-distributional-cp
+related:
+- entities/victor-chernozhukov
+- entities/yinchu-zhu
+- concepts/distributional-conformal-prediction
 mind_map_priority: low
+schema_version: 2
+uuid: de7a843b-260c-50bc-b975-76daae7a2010
+content_hash: sha256:85bbfbf062f46835731c83d610ec6486227a176d44d83da3f6f1b204570b8fa8
 ---
 
+<!-- AUTHORED REGION START -->
 # Kaspar Wüthrich
 
 **Kaspar Wüthrich** is an economist and econometrician at the University of California, San Diego, specializing in econometric methods for prediction and causal inference.
@@ -43,3 +54,5 @@ Research focuses on:
 - [[sources/chernozhukov-2021-distributional-cp|Distributional Conformal Prediction (2021)]]
 - [[concepts/distributional-conformal-prediction|Distributional Conformal Prediction]]
 - [[entities/victor-chernozhukov|Victor Chernozhukov]]
+
+<!-- AUTHORED REGION END -->

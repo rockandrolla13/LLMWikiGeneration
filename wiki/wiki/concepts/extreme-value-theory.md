@@ -3,14 +3,29 @@ title: Extreme Value Theory
 page_id: concepts/extreme-value-theory
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [statistics, risk-management, heavy-tails, floods, finance, extreme-events]
-sources: [sources/pasche-2025-extreme-conformal]
-related: [concepts/generalized-pareto-distribution, concepts/conformal-prediction, concepts/prediction-intervals, concepts/coverage-guarantee]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistics
+- risk-management
+- heavy-tails
+- floods
+- finance
+- extreme-events
+sources:
+- sources/pasche-2025-extreme-conformal
+related:
+- concepts/generalized-pareto-distribution
+- concepts/conformal-prediction
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
 mind_map_priority: high
+schema_version: 2
+uuid: 7b42dd69-9055-53bf-adf0-a88463674150
+content_hash: sha256:38be93c74efc7f1e46a4f8f4a5e4c904cf86567d754a4e2477dc4efce32553e9
 ---
 
+<!-- AUTHORED REGION START -->
 # Extreme Value Theory
 
 **Extreme Value Theory (EVT)** provides statistical tools for accurate estimation and inference in the tails of distributions, enabling extrapolation beyond the observed data range. EVT forms the theoretical foundation for analyzing rare, high-impact events such as floods, financial crashes, and extreme weather.
@@ -126,3 +141,5 @@ Methods include:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
+
+<!-- AUTHORED REGION END -->

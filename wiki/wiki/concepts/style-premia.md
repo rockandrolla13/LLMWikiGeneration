@@ -25,10 +25,14 @@ sources:
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
 tags: []
 title: Style Premia (Value, Momentum, Carry, Defensive)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3026bd18-2c08-52d1-a4d4-f91d69352154
+content_hash: sha256:9458ac2a27e23baaeec52f557fdc9a0e78347c09684ac0ea0cb9efdfd956486f
 ---
 
+<!-- AUTHORED REGION START -->
 # Style Premia (Value, Momentum, Carry, Defensive)
 
 ## Definition
@@ -50,3 +54,4 @@ Four long/short alternative risk premia applied across asset classes - value, mo
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-09-27-momentum-for-diversification]], [[sources/ms-2018-11-01-cross-asset-october-recap]], [[sources/ms-2018-11-05-trading-risk-premia-emfx-virp]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]]
+<!-- AUTHORED REGION END -->

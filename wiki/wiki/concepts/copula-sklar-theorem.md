@@ -15,10 +15,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Copula and Sklar's Theorem
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0c823f8a-3d25-5e14-a5f2-c901d4386176
+content_hash: sha256:291cf54917a8df96ec9509bbd98bd74f6bed779b2bc762a4e879e5adaab14337
 ---
 
+<!-- AUTHORED REGION START -->
 # Copula and Sklar's Theorem
 
 ## Definition
@@ -33,3 +37,4 @@ Sklar's theorem states any multivariate distribution can be represented by its m
 
 - [[concepts/copulas|copulas]]
 - [[concepts/probability-integral-transform|probability-integral-transform]]
+<!-- AUTHORED REGION END -->

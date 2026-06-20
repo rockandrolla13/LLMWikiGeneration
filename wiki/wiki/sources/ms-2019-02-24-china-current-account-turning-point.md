@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Another Turning Point (Sunday Start: What''s Next in Global Macro)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8b63f907bde6
+schema_version: 2
+uuid: 2ae11147-8e04-5d43-a82d-3a0b615be303
+content_hash: sha256:3f456d2d65caa66da93b21de06c9c8cdb82f991f8102e1ccf6fca8309e61c79a
 ---
 
+<!-- AUTHORED REGION START -->
 # Another Turning Point (Sunday Start: What's Next in Global Macro)
 
 **Authors:** James K Lord · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ Head of EM Fixed Income Strategy James Lord argues that China's economy should s
 - **Path:** `raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — James K Lord - nd.md`
 - **Type:** article
 - **Hash:** `sha256:17a3fac2b0b1a5148...`
+<!-- AUTHORED REGION END -->

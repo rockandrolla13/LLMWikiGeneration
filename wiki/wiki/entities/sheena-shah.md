@@ -15,10 +15,14 @@ sources:
 - sources/ms-2020-03-25-global-volatility-playbook
 tags: []
 title: Sheena Shah
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 327be570-eb9d-56af-a18f-ad44a8049931
+content_hash: sha256:0d9c9ad2057be09906857aae740a45636addf3c830b672d7cb0c60fbbd8c026d
 ---
 
+<!-- AUTHORED REGION START -->
 # Sheena Shah
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-06-28-fx-volatility-playbook|Global Volatility Playbook: What's Wrong with FX Volatility]]
 - [[sources/ms-2020-03-25-global-volatility-playbook|Global Volatility Playbook: A Market of Many Extremes]]
+<!-- AUTHORED REGION END -->

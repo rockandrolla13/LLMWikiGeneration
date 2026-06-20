@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Pascal Lavergne
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8aa0bf13-4625-5a76-9cbf-ccc34bd1304f
+content_hash: sha256:9aea5b2b47e95896afae4170761f362be57a575e089d27834a776f56f87cba0a
 ---
 
+<!-- AUTHORED REGION START -->
 # Pascal Lavergne
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

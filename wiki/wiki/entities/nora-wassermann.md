@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform
 tags: []
 title: Nora Wassermann
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 26c0402a-1ccb-52f7-b4d5-09be621ff92d
+content_hash: sha256:7916ee044fef8a23d58d7cfe3a5bc67ec82f9d14b29567aab02892070eeec59d
 ---
 
+<!-- AUTHORED REGION START -->
 # Nora Wassermann
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-01-18-china-doing-whatever-it-takes|China – Doing whatever it takes]]
 - [[sources/ms-2019-01-24-global-growth-tracker-dm-underperform|Global Growth Tracker – DMs Underperform More than Expected]]
+<!-- AUTHORED REGION END -->

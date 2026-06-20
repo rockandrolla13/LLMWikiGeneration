@@ -14,10 +14,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Correlation Is Not Causation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a174e7d9-ee0b-5695-a09b-d8d6b78ce761
+content_hash: sha256:ca93c49dab83fbd4706fc208fdf644c4f88d40b952fd2c0d6b06d6c3348e01f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Correlation Is Not Causation
 
 ## Definition
@@ -31,3 +35,4 @@ The principle that statistical association does not establish a causal link, exp
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

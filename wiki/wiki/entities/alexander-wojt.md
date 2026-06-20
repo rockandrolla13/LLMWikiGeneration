@@ -14,10 +14,14 @@ sources:
 - sources/ms-2016-03-22-xccy-basis-primer
 tags: []
 title: Alexander Wojt
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1df13e80-66bf-5637-9d05-08077c1af97e
+content_hash: sha256:f7f957270161b9ecc299ccd4d92cf2ab285f0f5b64b52757d3bed05e2666b2f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Alexander Wojt
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2016-03-22-xccy-basis-primer|Global Interest Rate Strategy: XCCY Basis Primer]]
+<!-- AUTHORED REGION END -->

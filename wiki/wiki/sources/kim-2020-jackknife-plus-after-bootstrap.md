@@ -1,34 +1,47 @@
 ---
-title: "Predictive Inference Is Free with the Jackknife+-after-Bootstrap"
+title: Predictive Inference Is Free with the Jackknife+-after-Bootstrap
 page_id: sources/kim-2020-jackknife-plus-after-bootstrap
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Byol Kim", "Chen Xu", "Rina Foygel Barber"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Byol Kim
+- Chen Xu
+- Rina Foygel Barber
 year: 2020
-venue: "NeurIPS 2020 (arXiv:2002.09025)"
-tags: [conformal-prediction, jackknife-plus, bootstrap, ensemble-learning, bagging, out-of-bag, distribution-free]
-related: [
-  concepts/jackknife-plus-after-bootstrap,
-  concepts/jackknife-plus,
-  concepts/enbpi,
-  concepts/conformal-prediction,
-  concepts/exchangeability,
-  concepts/prediction-intervals,
-  entities/byol-kim,
-  entities/chen-xu,
-  entities/rina-foygel-barber,
-  sources/barber-2021-jackknife-plus,
-  sources/xu-2023-enbpi,
-  sources/xu-2022-spci,
-  sources/vovk-2012-cross-conformal,
-  sources/angelopoulos-2022-gentle-intro
-]
+venue: NeurIPS 2020 (arXiv:2002.09025)
+tags:
+- conformal-prediction
+- jackknife-plus
+- bootstrap
+- ensemble-learning
+- bagging
+- out-of-bag
+- distribution-free
+related:
+- concepts/jackknife-plus-after-bootstrap
+- concepts/jackknife-plus
+- concepts/enbpi
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/prediction-intervals
+- entities/byol-kim
+- entities/chen-xu
+- entities/rina-foygel-barber
+- sources/barber-2021-jackknife-plus
+- sources/xu-2023-enbpi
+- sources/xu-2022-spci
+- sources/vovk-2012-cross-conformal
+- sources/angelopoulos-2022-gentle-intro
 mind_map_priority: high
+schema_version: 2
+uuid: 603f3780-0230-571e-a4b5-e922f9fee6ce
+content_hash: sha256:cb5de07cd798260217a703211edbaf39f7ad9d67d23ec4815ebde2e2c0b03e31
 ---
 
+<!-- AUTHORED REGION START -->
 # Predictive Inference Is Free with the Jackknife+-after-Bootstrap (J+aB)
 
 **Authors:** [[entities/byol-kim|Byol Kim]], [[entities/chen-xu|Chen Xu]], [[entities/rina-foygel-barber|Rina Foygel Barber]]
@@ -89,3 +102,5 @@ Under i.i.d. data and a symmetric base regressor `R` and aggregator `φ`, the J+
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[concepts/enbpi]]
 - [[entities/byol-kim]]
+
+<!-- AUTHORED REGION END -->

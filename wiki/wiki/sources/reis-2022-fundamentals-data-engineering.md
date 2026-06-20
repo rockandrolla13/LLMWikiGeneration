@@ -1,20 +1,42 @@
 ---
-title: "Fundamentals of Data Engineering"
+title: Fundamentals of Data Engineering
 page_id: sources/reis-2022-fundamentals-data-engineering
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [data-engineering, data-lifecycle, etl, cloud-first, data-architecture, data-governance, security-privacy, big-data, streaming, orchestration, data-warehousing, data-lakes, o'reilly, 2022, textbook]
-sources: [sources/reis-2022-fundamentals-data-engineering]
+tags:
+- data-engineering
+- data-lifecycle
+- etl
+- cloud-first
+- data-architecture
+- data-governance
+- security-privacy
+- big-data
+- streaming
+- orchestration
+- data-warehousing
+- data-lakes
+- o'reilly
+- 2022
+- textbook
+sources:
+- sources/reis-2022-fundamentals-data-engineering
 related: []
 mind_map_priority: medium
-authors: ["Joe Reis", "Matt Housley"]
+authors:
+- Joe Reis
+- Matt Housley
 year: 2022
 source_type: book
+schema_version: 2
+uuid: 3c78378e-fc71-51ad-8790-57bb7ecade39
+content_hash: sha256:39427c26167eb636299f431862df34d0fce382cd5881792300fd98c65ef6b5c6
 ---
 
+<!-- AUTHORED REGION START -->
 # Fundamentals of Data Engineering
 
 **Authors:** Joe Reis, Matt Housley  
@@ -73,3 +95,5 @@ Fundamentals of Data Engineering (O'Reilly, June 2022, First Edition) by Joe Rei
 - How does the framework handle the boundary between data engineering and ML engineering / MLOps, especially around feature stores and model serving pipelines?
 - The authors dismiss on-premises systems as transitional — how does the framework adapt for regulated industries (finance, healthcare) with persistent on-premises or hybrid requirements?
 - What concrete operationalisation of data governance does the book provide beyond naming GDPR and CCPA as motivators?
+
+<!-- AUTHORED REGION END -->

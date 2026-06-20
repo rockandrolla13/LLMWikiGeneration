@@ -4,14 +4,27 @@ page_id: entities/byol-kim
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [researcher, conformal-prediction, statistics, university-of-washington]
-sources: [sources/kim-2020-jackknife-plus-after-bootstrap]
-related: [concepts/jackknife-plus-after-bootstrap, concepts/enbpi, entities/chen-xu, entities/rina-foygel-barber]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- statistics
+- university-of-washington
+sources:
+- sources/kim-2020-jackknife-plus-after-bootstrap
+related:
+- concepts/jackknife-plus-after-bootstrap
+- concepts/enbpi
+- entities/chen-xu
+- entities/rina-foygel-barber
 mind_map_priority: medium
+schema_version: 2
+uuid: cc3a607a-9a3f-5c31-9aab-8c9ef8370a71
+content_hash: sha256:9c0e31c735992e3c03cdeac95f96b1598b50d23bebf0ede3d98e3520d5c00bb2
 ---
 
+<!-- AUTHORED REGION START -->
 # Byol Kim
 
 **Byol Kim** is a statistician working on [[concepts/conformal-prediction|conformal prediction]] and high-dimensional inference. Lead author on the [[concepts/jackknife-plus-after-bootstrap|J+aB]] paper that became the foundation for EnbPI.
@@ -33,3 +46,5 @@ mind_map_priority: medium
 
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[concepts/enbpi]]
+
+<!-- AUTHORED REGION END -->

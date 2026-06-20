@@ -3,14 +3,28 @@ title: Full (Transductive) Conformal Prediction
 page_id: concepts/full-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, transductive, full-cp]
-sources: [sources/angelopoulos-2022-gentle-intro, sources/dieuleveut-zaffran-2025-cp-tutorial]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/cross-conformal-prediction, concepts/transductive-learning, concepts/exchangeability]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- transductive
+- full-cp
+sources:
+- sources/angelopoulos-2022-gentle-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/transductive-learning
+- concepts/exchangeability
 mind_map_priority: medium
+schema_version: 2
+uuid: 248b3bd9-6ab8-5d68-90fc-3881e1449f8c
+content_hash: sha256:4625e784d4f4c488bcb719e8a43ec6d7b9fdb2cf1cec4a8799bbf77efb4581fa
 ---
 
+<!-- AUTHORED REGION START -->
 # Full (Transductive) Conformal Prediction
 
 **Full conformal prediction** is the original Vovk–Gammerman–Shafer construction: for every candidate label `y ∈ 𝒴`, refit a symmetric algorithm on the augmented dataset `(X_1, Y_1), ..., (X_{n+1}, y)` and include `y` in the prediction set if its [[concepts/nonconformity-score|score]] is below the conformal quantile.
@@ -52,3 +66,5 @@ For continuous regression, full CP requires special structure (e.g., linear regr
 - [[concepts/split-conformal-prediction]]
 - [[concepts/cross-conformal-prediction]]
 - [[concepts/transductive-learning]]
+
+<!-- AUTHORED REGION END -->

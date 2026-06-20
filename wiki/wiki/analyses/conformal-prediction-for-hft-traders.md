@@ -1,46 +1,56 @@
 ---
-title: "Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction"
+title: 'Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction'
 page_id: analyses/conformal-prediction-for-hft-traders
 page_type: analysis
 revision_id: 2
-created: 2026-05-21T15:30:00Z
-updated: 2026-05-21T16:30:00Z
-tags: [conformal-prediction, time-series, algorithmic-trading, hft, market-making, prediction-intervals, practitioner-guide]
-related: [
-  concepts/conformal-prediction,
-  concepts/adaptive-conformal-inference,
-  concepts/conformalized-quantile-regression,
-  concepts/enbpi,
-  concepts/spci,
-  concepts/weighted-conformal-prediction,
-  concepts/agaci,
-  concepts/conformal-pid-control,
-  concepts/nonconformity-score,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  concepts/coverage-guarantee,
-  concepts/quantile-regression,
-  concepts/exchangeability,
-  concepts/limit-order-book,
-  concepts/market-making,
-  concepts/optimal-execution,
-  concepts/inventory-risk,
-  concepts/adverse-selection,
-  concepts/avellaneda-stoikov-model,
-  concepts/fill-probability,
-  concepts/pairs-trading,
-  concepts/statistical-arbitrage,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/xu-2023-enbpi,
-  sources/stocker-2025-conformal-timeseries-intro,
-  sources/dieuleveut-zaffran-2025-cp-tutorial,
-  sources/zaffran-2022-aci,
-  sources/xu-2022-spci,
-  sources/koukorinis-2026-draci
-]
+created: 2026-05-21 15:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- algorithmic-trading
+- hft
+- market-making
+- prediction-intervals
+- practitioner-guide
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/conformalized-quantile-regression
+- concepts/enbpi
+- concepts/spci
+- concepts/weighted-conformal-prediction
+- concepts/agaci
+- concepts/conformal-pid-control
+- concepts/nonconformity-score
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- concepts/coverage-guarantee
+- concepts/quantile-regression
+- concepts/exchangeability
+- concepts/limit-order-book
+- concepts/market-making
+- concepts/optimal-execution
+- concepts/inventory-risk
+- concepts/adverse-selection
+- concepts/avellaneda-stoikov-model
+- concepts/fill-probability
+- concepts/pairs-trading
+- concepts/statistical-arbitrage
+- sources/angelopoulos-2022-gentle-intro
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+- sources/zaffran-2022-aci
+- sources/xu-2022-spci
+- sources/koukorinis-2026-draci
 mind_map_priority: high
+schema_version: 2
+uuid: 5a8f27f0-39ce-5e9b-b708-19d0649f7608
+content_hash: sha256:554a3abb3553ea0d2762cce32ed251cb87aba2cf7526117f1072f0486e32480c
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction for Algorithmic and HFT Traders
 
 > **TL;DR — what you, an algo/HFT trader, get out of this page.**
@@ -392,3 +402,5 @@ Score design is where the value lives. Coverage is mechanical. Tight valid inter
 ---
 
 *Synthesis source for this analysis: the 2026-05-21 CP tutorial/review quartet (Angelopoulos & Bates [164], Xu & Xie EnbPI [165], Stocker et al. [166], Dieuleveut & Zaffran Hi! PARIS [167]) plus the existing CP literature anchors in MIND_MAP hub [3] (Zaffran ACI [111], Xu SPCI [108], Koukorinis DR-ACI [59], and others). For an academic treatment, start with the four-source quartet. For applied work, use this page as the entry point and link out as questions arise.*
+
+<!-- AUTHORED REGION END -->

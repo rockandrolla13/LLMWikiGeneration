@@ -3,14 +3,28 @@ title: Split Conformal Prediction
 page_id: concepts/split-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [conformal-prediction, uncertainty-quantification, computational-efficiency]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/johnstone-2025-multioutput]
-related: [concepts/conformal-prediction, concepts/calibration, concepts/prediction-intervals, concepts/coverage-guarantee]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- uncertainty-quantification
+- computational-efficiency
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/johnstone-2025-multioutput
+related:
+- concepts/conformal-prediction
+- concepts/calibration
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
 mind_map_priority: high
+schema_version: 2
+uuid: 68e688f7-5f79-5070-a7d9-2ea8e8ac9f08
+content_hash: sha256:9d0ff973c829efda88af6989904f43c4bb54417087aadcef29f4c66364078d16
 ---
 
+<!-- AUTHORED REGION START -->
 # Split Conformal Prediction
 
 **Split Conformal Prediction (SCP)** is a computationally efficient variant of [[concepts/conformal-prediction|conformal prediction]] that achieves finite-sample validity guarantees by splitting the training data into a proper training set and a calibration set.
@@ -61,3 +75,5 @@ mind_map_priority: high
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/calibration|Calibration]]
+
+<!-- AUTHORED REGION END -->

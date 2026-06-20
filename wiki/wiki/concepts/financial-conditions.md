@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform
 tags: []
 title: Financial conditions
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3d0a5ad3-cd9a-5601-ae89-a676f36b8abf
+content_hash: sha256:2b728fa65ca0ce317e042ea50de64eea3a8a554571e881fe99ae52629fe804d9
 ---
 
+<!-- AUTHORED REGION START -->
 # Financial conditions
 
 ## Definition
@@ -31,3 +35,4 @@ A composite of rates, spreads, FX and asset prices that summarises the ease or t
 ## Related Concepts
 
 - [[concepts/credit-spread-curve|credit-spread-curve]]
+<!-- AUTHORED REGION END -->

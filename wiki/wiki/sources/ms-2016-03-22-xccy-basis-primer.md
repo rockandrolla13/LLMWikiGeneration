@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategy: XCCY Basis Primer'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0e01ecc9062b
+schema_version: 2
+uuid: 3adff7d3-8607-5a43-a80f-202cdb0f2443
+content_hash: sha256:d62244e0246651b213b1fed546c663ec4f0e325171a20921e2727afb62d51006
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategy: XCCY Basis Primer
 
 **Authors:** Alexander Wojt, Koichi Sugisaki · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -60,3 +64,4 @@ A primer on cross-currency (XCCY) basis swaps covering their mechanics, drivers,
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategy — Note Information as of Match 22, 2016, unless otherwise indicated. - 2016.md`
 - **Type:** article
 - **Hash:** `sha256:7b0d1dc9586564928...`
+<!-- AUTHORED REGION END -->

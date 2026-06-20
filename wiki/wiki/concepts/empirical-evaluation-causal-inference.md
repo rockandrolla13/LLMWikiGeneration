@@ -16,10 +16,14 @@ sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []
 title: Empirical evaluation of causal inference methods
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 21f20442-6c47-5145-9a62-3e6a0a120786
+content_hash: sha256:7dd26405a0fc9821bc95ad8f9cb4d0d8dbee5bb5b9cea46b3cccf84816dad4b0
 ---
 
+<!-- AUTHORED REGION START -->
 # Empirical evaluation of causal inference methods
 
 ## Definition
@@ -35,3 +39,4 @@ The practice of benchmarking causal estimators on data with known ground-truth t
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/double-machine-learning|double-machine-learning]]
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

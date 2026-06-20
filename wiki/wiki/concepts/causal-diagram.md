@@ -16,10 +16,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Causal Diagram (DAG)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ad0feed5-5b0f-5f64-b096-5a70532b7e1b
+content_hash: sha256:cc283fe6998a9836c46988c39998dca50f267fc081f16fef5d19d8c2192ccef8
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal Diagram (DAG)
 
 ## Definition
@@ -35,3 +39,4 @@ A directed acyclic graph of variables and causal arrows that encodes qualitative
 - [[concepts/causal-dags-confounding-selection-bias|causal-dags-confounding-selection-bias]]
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

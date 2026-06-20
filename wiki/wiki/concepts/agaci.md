@@ -3,14 +3,28 @@ title: AgACI (Aggregated Adaptive Conformal Inference)
 page_id: concepts/agaci
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, time-series, adaptive-methods, online-learning, expert-aggregation]
-sources: [sources/zaffran-2022-aci, sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/adaptive-conformal-inference, concepts/conformal-prediction, concepts/conformal-pid-control]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- adaptive-methods
+- online-learning
+- expert-aggregation
+sources:
+- sources/zaffran-2022-aci
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/adaptive-conformal-inference
+- concepts/conformal-prediction
+- concepts/conformal-pid-control
 mind_map_priority: medium
+schema_version: 2
+uuid: 0676bff7-dbbb-5f31-b93b-61934bc2598c
+content_hash: sha256:fb1a6990f238a4fabf8e7286a85592a64c20614e1d37083c25b70f4f5d0567b4
 ---
 
+<!-- AUTHORED REGION START -->
 # AgACI (Aggregated Adaptive Conformal Inference)
 
 **AgACI** (Zaffran et al., [[sources/zaffran-2022-aci|2022]]) is a parameter-free variant of [[concepts/adaptive-conformal-inference|ACI]] that **eliminates the need to tune the learning rate `γ`** by running multiple ACI instances in parallel and aggregating them via online expert algorithms.
@@ -54,3 +68,5 @@ In [[sources/stocker-2025-conformal-timeseries-intro|Stocker et al.'s]] taxonomy
 - [[concepts/adaptive-conformal-inference]]
 - [[concepts/conformal-pid-control]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8090aa74c370
+schema_version: 2
+uuid: 2b5495ba-bbae-585a-a515-30d7dc11cdd3
+content_hash: sha256:d135ce29d3222763ce6c16c7b8a88084b0568d3e531f3c5e7c614f1d1bdf9372
 ---
 
+<!-- AUTHORED REGION START -->
 # Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?
 
 **Authors:** Michael D Zezas, Ellen Zentner · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -60,3 +64,4 @@ Morgan Stanley 'Thoughts on the Market' podcast (March 27, 2020) featuring strat
 - **Path:** `raw/creditmacro/Morgan Stanley - Podcast — Play to Listen - 2020-03-27.md`
 - **Type:** article
 - **Hash:** `sha256:74d73a342f9bcb5dc...`
+<!-- AUTHORED REGION END -->

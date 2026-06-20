@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Wolfgang Lemke
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 61196b63-61dc-59d5-a128-a205bfeb0f08
+content_hash: sha256:950f306d6d2fa6334e9df9c41d41453c5c35fb1e795d389adcf68a9f12321024
 ---
 
+<!-- AUTHORED REGION START -->
 # Wolfgang Lemke
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

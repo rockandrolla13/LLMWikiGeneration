@@ -22,10 +22,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Sunday Start | What''s Next in Global Macro: A Full-Court Policy Press'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e4593b743eae
+schema_version: 2
+uuid: 45b0e624-7f03-5c49-bfbc-e6e339acbccd
+content_hash: sha256:1f1b469718b7a2dc6b321a1c830a5a4f64a23a9e203db5ed31f086b6fd118601
 ---
 
+<!-- AUTHORED REGION START -->
 # Sunday Start | What's Next in Global Macro: A Full-Court Policy Press
 
 **Authors:** Chetan Ahya · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -57,3 +61,4 @@ Ahya frames Covid-19 as an unparalleled synchronous demand and supply shock, for
 - **Path:** `raw/creditmacro/Morgan Stanley - Sunday Start — Chetan Ahya - 2020-03-29.md`
 - **Type:** article
 - **Hash:** `sha256:d7b7eb6d3c7dad905...`
+<!-- AUTHORED REGION END -->

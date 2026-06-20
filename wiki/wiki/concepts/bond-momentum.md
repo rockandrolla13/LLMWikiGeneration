@@ -21,9 +21,13 @@ tags:
 - factor-investing
 - anomalies
 title: Bond Momentum
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 24c7f565-7c35-5502-8f0b-f071d475a18a
+content_hash: sha256:6da10232e2847dd3c9b91c302d372ecb99929505b2738e412a5a37298eb78e3a
 ---
 
+<!-- AUTHORED REGION START -->
 # Bond Momentum
 
 ## Definition
@@ -89,3 +93,4 @@ Using firm-specific (idiosyncratic) returns rather than total returns
 - [[concepts/momentum-trend-following|momentum-trend-following]]
 - [[concepts/style-premia|style-premia]]
 - [[concepts/trend-following|trend-following]]
+<!-- AUTHORED REGION END -->

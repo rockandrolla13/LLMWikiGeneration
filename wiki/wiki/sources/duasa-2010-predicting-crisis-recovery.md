@@ -31,10 +31,14 @@ tags:
 - cointegration
 - business-cycle
 title: 'Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_1cb31aa3f9b0
+schema_version: 2
+uuid: c4d1ec96-14d7-56a7-a70a-a806312eb2d3
+content_hash: sha256:91b51b4ca7183182bc3aac1f0ecf9a8489f48d521846656cd9cc0b23bdda3fa9
 ---
 
+<!-- AUTHORED REGION START -->
 # Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis
 
 **Authors:** Jarita Duasa, Nursilah Ahmad · **Year:** 2010 · **Venue:** Global Economic Review, Vol. 39, No. 1 · **Type:** paper
@@ -75,3 +79,4 @@ Duasa and Ahmad identify the best leading indicator for forecasting Malaysia's r
 - **Path:** `raw/creditmacro/EBSCO-FullText-06_08_2026.md`
 - **Type:** paper
 - **Hash:** `sha256:fdfbd5e6d9d349c2e...`
+<!-- AUTHORED REGION END -->

@@ -39,10 +39,14 @@ sources:
 - sources/ms-2020-04-01-in-the-flow-q1-recap
 tags: []
 title: Phanikiran Naraparaju
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 286615a3-103e-5622-8b1c-daf8b87846b1
+content_hash: sha256:e33ae3c8254f08f668a334bcb546accda3f6abafb618360920b504f96890ecc0
 ---
 
+<!-- AUTHORED REGION START -->
 # Phanikiran Naraparaju
 
 ## Overview
@@ -77,3 +81,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2020-03-27-add-to-credit|Add to Credit – and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy|Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
+<!-- AUTHORED REGION END -->

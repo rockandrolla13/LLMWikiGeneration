@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Interest Rate Strategist: Top 10 Surprises for 2014'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3ed3e9c5ec8b
+schema_version: 2
+uuid: 1c38e921-7b8f-5be3-ac88-bcbacc052796
+content_hash: sha256:8133e19f769d9b32cf9a99330e843de24cc50d088adb2c978c0f1d986f4b1d43
 ---
 
+<!-- AUTHORED REGION START -->
 # US Interest Rate Strategist: Top 10 Surprises for 2014
 
 **Authors:** Matthew Hornbach, Vipul Jain, Subadra Rajappa, Michael Ortiz · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A year-end US Interest Rate Strategist note proposing ten potential surprises fo
 - **Path:** `raw/creditmacro/Morgan Stanley - Matthew Hornbach — Vipul Jain, CFA - 2013-12-13.md`
 - **Type:** article
 - **Hash:** `sha256:045628d4fdc2500aa...`
+<!-- AUTHORED REGION END -->

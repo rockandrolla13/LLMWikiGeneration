@@ -14,10 +14,14 @@ sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []
 title: LongTail Alpha, LLC
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 610269ff-1624-56ab-9a0e-e26b0b78541f
+content_hash: sha256:f7a948c1437c291d7073bcfaf28a1a8937e6cf0bf9178dc0c9cb3316fda4034d
 ---
 
+<!-- AUTHORED REGION START -->
 # LongTail Alpha, LLC
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/bhansali-2018-right-tail-hedging|Right Tail Hedging: Managing Risk When Markets Melt Up]]
+<!-- AUTHORED REGION END -->

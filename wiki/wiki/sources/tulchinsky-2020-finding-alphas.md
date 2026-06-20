@@ -37,10 +37,14 @@ tags:
 - overfitting
 title: 'Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second
   Edition)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_5e2408512522
+schema_version: 2
+uuid: 2b0ce35f-5d9b-56cc-b2df-eed39cb8404f
+content_hash: sha256:108c95966af0d7207eb310b34fc4033f9f010b37c09cd4c8092d4226e4b0a95f
 ---
 
+<!-- AUTHORED REGION START -->
 # Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second Edition)
 
 **Authors:** Igor Tulchinsky · **Year:** 2020 · **Venue:** John Wiley & Sons · **Type:** book
@@ -88,3 +92,4 @@ An edited volume by Igor Tulchinsky and WorldQuant staff on the industrial proce
 - **Path:** `raw/creditmacro/Finding Alphas (A Quantitative Approach to Building Trading Strategies)  (Tulchinsky, Igor) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:75fc2cc0ecbaf3328...`
+<!-- AUTHORED REGION END -->

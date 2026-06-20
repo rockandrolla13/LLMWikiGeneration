@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Tomaz Bratanic
@@ -43,8 +43,12 @@ related:
 - entities/tomaz-bratanic
 mind_map_priority: medium
 revision_hash: sha256:8183d1362d61b136
+schema_version: 2
+uuid: ff175b47-6226-5fd8-849c-25909602fbe1
+content_hash: sha256:a9fda144074bdf08b4a2632c2d0668d6a23dfec98cab47e232155aeb8544a2d3
 ---
 
+<!-- AUTHORED REGION START -->
 # Essential GraphRAG
 *Knowledge Graph-Enhanced RAG*
 
@@ -115,3 +119,5 @@ Data scientists, software engineers, and ML developers with a working knowledge 
 - [[entities/ashish-vaswani|Ashish Vaswani]]
 - [[entities/openai|OpenAI]]
 - [[entities/arturo-geigel|Arturo Geigel]]
+
+<!-- AUTHORED REGION END -->

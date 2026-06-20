@@ -15,10 +15,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Francis Galton
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5025c675-941b-5724-ae6e-f30bfbb8db5b
+content_hash: sha256:17dff9dabb82009642d4603e4960273c8a77747c808900a7e77aacd83134a48a
 ---
 
+<!-- AUTHORED REGION START -->
 # Francis Galton
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ellenberg-2014-how-not-to-be-wrong|How Not to Be Wrong: The Power of Mathematical Thinking]]
 - [[sources/pearl-2018-book-of-why|The Book of Why: The New Science of Cause and Effect]]
+<!-- AUTHORED REGION END -->

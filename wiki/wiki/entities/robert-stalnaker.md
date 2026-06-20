@@ -14,10 +14,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Robert Stalnaker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 88da988f-c88b-52a8-a998-563299f3c30e
+content_hash: sha256:dfb3171726c5d295c7330f588dbf503ffe9c525fcfb71152286c6a83ec6c5557
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert Stalnaker
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

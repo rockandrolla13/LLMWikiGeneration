@@ -15,10 +15,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Autocorrelation in Time Series
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9edfca8b-5977-5bc0-ab59-66fe90d581de
+content_hash: sha256:e4f3ecf72745af67cff50330b5dee04ed509e36dbf6fa5480c4b8072bb94b946
 ---
 
+<!-- AUTHORED REGION START -->
 # Autocorrelation in Time Series
 
 ## Definition
@@ -33,3 +37,4 @@ The correlation of observations collected close together in time, which violates
 
 - [[concepts/interrupted-time-series-design|interrupted-time-series-design]]
 - [[concepts/segmented-regression|segmented-regression]]
+<!-- AUTHORED REGION END -->

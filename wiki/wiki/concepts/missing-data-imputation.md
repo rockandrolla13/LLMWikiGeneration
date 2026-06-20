@@ -19,9 +19,13 @@ tags:
 - machine-learning
 - conformal-prediction
 title: Missing Data Imputation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 44153a21-3356-588c-b0fc-9133aff48796
+content_hash: sha256:3e2abdb1bc17daa6e0cfcef391e5c342c22c7552b5967b4c5b784c8bd7797ed6
 ---
 
+<!-- AUTHORED REGION START -->
 # Missing Data Imputation
 
 **Missing data imputation** refers to methods for filling in missing values in datasets, enabling analysis with standard algorithms that require complete data.
@@ -147,3 +151,4 @@ Oracle interval length: L*_α(m) ∝ √(β_mis(m)^T Σ_{mis|obs} β_mis(m) + σ
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/ip-weighting-marginal-structural-models|ip-weighting-marginal-structural-models]]
+<!-- AUTHORED REGION END -->

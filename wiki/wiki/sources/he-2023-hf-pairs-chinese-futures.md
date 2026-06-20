@@ -1,15 +1,36 @@
 ---
-title: "An Innovative High-Frequency Statistical Arbitrage in Chinese Futures Market"
+title: An Innovative High-Frequency Statistical Arbitrage in Chinese Futures Market
 page_id: sources/he-2023-hf-pairs-chinese-futures
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [statistical-arbitrage, pairs-trading, kalman-filter, chinese-futures, hurst-index, cointegration, high-frequency]
-authors: [Chengying He, Tianqi Wang, Xinwen Liu, Ke Huang]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistical-arbitrage
+- pairs-trading
+- kalman-filter
+- chinese-futures
+- hurst-index
+- cointegration
+- high-frequency
+authors:
+- Chengying He
+- Tianqi Wang
+- Xinwen Liu
+- Ke Huang
 year: 2023
-related: [concepts/kalman-filter, concepts/statistical-arbitrage, concepts/pairs-trading, concepts/cointegration, concepts/hurst-exponent, concepts/mean-reversion]
+related:
+- concepts/kalman-filter
+- concepts/statistical-arbitrage
+- concepts/pairs-trading
+- concepts/cointegration
+- concepts/hurst-exponent
+- concepts/mean-reversion
+schema_version: 2
+uuid: 321c0983-0ac2-5e28-9aa1-b08b12e8ec3e
+content_hash: sha256:f211f1f646787d42e05cab8ef2d433209a41c1fe48ad70cb6836a429ecaa9de0
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper establishes an innovative pairs trading framework for the Chinese commodity futures market using cointegration tests, Kalman filter, and Hurst index filtering. The framework is tested on minute-level data from 47 commodity futures with relatively good liquidity.
@@ -74,3 +95,5 @@ The paper argues that profitable technical analysis based on machine learning me
 ## Citations
 
 He, C., Wang, T., Liu, X., & Huang, K. (2023). An innovative high-frequency statistical arbitrage in Chinese futures market. Journal of Innovation & Knowledge, 8(4), 100429.
+
+<!-- AUTHORED REGION END -->

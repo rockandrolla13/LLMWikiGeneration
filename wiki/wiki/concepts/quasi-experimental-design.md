@@ -17,10 +17,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Quasi-Experimental Design
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ea77fae4-d08b-5b2b-a844-9ae54ee500d3
+content_hash: sha256:4e92d3ad9ebd960d1d7832c3dffcd51ba5a5485da35a6dc53215b85d0edc540d
 ---
 
+<!-- AUTHORED REGION START -->
 # Quasi-Experimental Design
 
 ## Definition
@@ -37,3 +41,4 @@ A study design used to estimate the effect of an intervention without random ass
 - [[concepts/difference-in-differences|difference-in-differences]]
 - [[concepts/potential-outcomes|potential-outcomes]]
 - [[concepts/randomised-controlled-trial|randomised-controlled-trial]]
+<!-- AUTHORED REGION END -->

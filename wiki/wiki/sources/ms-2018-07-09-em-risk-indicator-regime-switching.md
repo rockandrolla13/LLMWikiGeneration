@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'EM Quant Strategy: EM Risk Indicator - A Regime-Switching Model Approach'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3fecbbf5f529
+schema_version: 2
+uuid: 07a94000-6353-5721-aa11-0968eaf8de51
+content_hash: sha256:b139fa586d8484fc7d28459e5cf7a9cc3bbd083ef5a011027389d40b7ff77d4e
 ---
 
+<!-- AUTHORED REGION START -->
 # EM Quant Strategy: EM Risk Indicator - A Regime-Switching Model Approach
 
 **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Morgan Stanley introduces an EM regime-switching model that acts as an early ind
 - **Path:** `raw/creditmacro/Morgan Stanley - EM Quant Strategy — EM Risk Indicator A RegimeSwitching Model Approach - 2018-07-09.md`
 - **Type:** article
 - **Hash:** `sha256:ec785b256e35ee1b9...`
+<!-- AUTHORED REGION END -->

@@ -41,10 +41,14 @@ tags:
 - macroprudential
 - credit-growth
 title: 'Leading indicators of crisis incidence: Evidence from developed countries'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0ea28cacd6be
+schema_version: 2
+uuid: ba8601d4-7aae-5899-b7bc-d99a62df3f62
+content_hash: sha256:0cfd2c976a833a1044c0eb1621364c416d7391d665edbfa545f8f26309999b2d
 ---
 
+<!-- AUTHORED REGION START -->
 # Leading indicators of crisis incidence: Evidence from developed countries
 
 **Authors:** Jan Babecky, Tomas Havranek, Jakub Mateju, Marek Rusnak, Katerina Smidkova, Borek Vasicek · **Year:** 2013 · **Venue:** Journal of International Money and Finance · **Type:** paper
@@ -92,3 +96,4 @@ Babecky et al. (2013) build a continuous early warning model for 36 EU and OECD 
 - **Path:** `raw/creditmacro/1-s2.0-S0261560613000028-main.md`
 - **Type:** paper
 - **Hash:** `sha256:3bd6a2fbcaff1beec...`
+<!-- AUTHORED REGION END -->

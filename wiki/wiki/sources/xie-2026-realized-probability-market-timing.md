@@ -1,21 +1,43 @@
 ---
-title: "Realized Probability Index is a Better Market Timing Indicator"
+title: Realized Probability Index is a Better Market Timing Indicator
 page_id: sources/xie-2026-realized-probability-market-timing
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Haibin Xie, Boyao Wu, Yuying Sun, Shouyang Wang]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Haibin Xie
+- Boyao Wu
+- Yuying Sun
+- Shouyang Wang
 year: 2026
 venue: Studies in Nonlinear Dynamics and Econometrics
-volume_issue_pages: "30(1), 23-36"
+volume_issue_pages: 30(1), 23-36
 doi: 10.1515/snde-2024-0060
-tags: [market-timing, realized-probability, directional-forecasting, high-frequency-data]
-related: [concepts/market-timing, concepts/realized-probability-index, concepts/directional-forecasting, concepts/sign-dependence-volatility, concepts/high-frequency-data, entities/haibin-xie, entities/boyao-wu, entities/yuying-sun, entities/shouyang-wang, entities/francis-diebold]
+tags:
+- market-timing
+- realized-probability
+- directional-forecasting
+- high-frequency-data
+related:
+- concepts/market-timing
+- concepts/realized-probability-index
+- concepts/directional-forecasting
+- concepts/sign-dependence-volatility
+- concepts/high-frequency-data
+- entities/haibin-xie
+- entities/boyao-wu
+- entities/yuying-sun
+- entities/shouyang-wang
+- entities/francis-diebold
 mind_map_priority: medium
+schema_version: 2
+uuid: bca5cb22-01b4-5546-9b0d-2ed75bf6158a
+content_hash: sha256:0dd01b14a0576b147044783d689cf2501ad9c1384ad83997125c9a6be6f2f250
 ---
 
+<!-- AUTHORED REGION START -->
 # Realized Probability Index is a Better Market Timing Indicator
 
 **Authors:** [[entities/haibin-xie|Haibin Xie]], [[entities/boyao-wu|Boyao Wu]], [[entities/yuying-sun|Yuying Sun]], [[entities/shouyang-wang|Shouyang Wang]]
@@ -45,3 +67,5 @@ Compares three [[concepts/market-timing|market-timing]] indicators (return, 0-1 
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

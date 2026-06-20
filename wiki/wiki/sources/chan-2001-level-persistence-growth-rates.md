@@ -33,10 +33,14 @@ tags:
 - behavioral-finance
 - survivorship-bias
 title: The Level and Persistence of Growth Rates
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b7f0270dc818
+schema_version: 2
+uuid: d231d63e-bbdd-5148-ab08-e658cd6e6c3e
+content_hash: sha256:e8ea43c1c7328ed2c0a7337e7588b3430618542ba46b460ae8001e1032e7142f
 ---
 
+<!-- AUTHORED REGION START -->
 # The Level and Persistence of Growth Rates
 
 **Authors:** Louis K. C. Chan, Jason Karceski, Josef Lakonishok · **Year:** 2001 · **Venue:** NBER Working Paper No. 8282 · **Type:** paper
@@ -80,3 +84,4 @@ NBER Working Paper w8282 examines the historical distribution and persistence of
 - **Path:** `raw/creditmacro/w8282.md`
 - **Type:** paper
 - **Hash:** `sha256:205496942c0dc8296...`
+<!-- AUTHORED REGION END -->

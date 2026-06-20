@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Credit Strategy: IG Fundamentals — In Good Shape'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0417ac91e4b8
+schema_version: 2
+uuid: 7c279d08-c425-52bb-b456-111ce8f8b57c
+content_hash: sha256:d6c1671b699608f0d26eb511235377551e0eb94a3477531cd0825d5afef3a5cb
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy: IG Fundamentals — In Good Shape
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley reviews 1Q17 financial statements for European IG corporates, fin
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy — IG Fundamentals In Good Shape - 2017-06-23.md`
 - **Type:** article
 - **Hash:** `sha256:205d1b78cb3c137a1...`
+<!-- AUTHORED REGION END -->

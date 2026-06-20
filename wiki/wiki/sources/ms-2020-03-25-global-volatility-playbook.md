@@ -32,10 +32,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Volatility Playbook: A Market of Many Extremes'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_79c2f4aec6f9
+schema_version: 2
+uuid: 5d0a35fa-f94f-5052-8c94-0a075439743f
+content_hash: sha256:778e6763c38050bfa9c14e1287f052ef144796a9e12e9086f4be1b710d260c6d
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Volatility Playbook: A Market of Many Extremes
 
 **Authors:** Phanikiran Naraparaju, Sheena Shah, Wanting Low, Vishwas Patkar, Ailing Deng, Andres Jaime, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ A Global Derivatives Strategy playbook documenting that every type of volatility
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global Volatility Playbook A Market of Many Extremes - 2020-03-25.md`
 - **Type:** article
 - **Hash:** `sha256:b221f412cd95358e2...`
+<!-- AUTHORED REGION END -->

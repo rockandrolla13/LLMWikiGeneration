@@ -23,10 +23,14 @@ sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 tags: []
 title: Expectations Hypothesis of the Term Structure
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 14edd521-7ad7-5359-a0ab-6c7aad8a64eb
+content_hash: sha256:f7d6b1cae37b2d9b165905e8ad5f6e072a483e6af03db406114ebd78b4e5847c
 ---
 
+<!-- AUTHORED REGION START -->
 # Expectations Hypothesis of the Term Structure
 
 ## Definition
@@ -46,3 +50,4 @@ The proposition that long-term rates reflect expected future short rates, so for
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2013-12-13-top-10-rates-surprises-2014]], [[sources/ms-2019-03-15-bullish-bond-cyclone]], [[sources/ms-2019-03-25-rate-cuts-before-recessions]], [[sources/ms-2019-04-05-crossing-the-rubicon-government-bonds]], [[sources/ms-2019-05-17-tariffs-government-bonds]]
+<!-- AUTHORED REGION END -->

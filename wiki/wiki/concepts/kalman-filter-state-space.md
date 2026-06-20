@@ -16,10 +16,14 @@ sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []
 title: Kalman Filter State-Space Estimation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 46dcb1ef-43c0-5550-a24c-b2c082b457a2
+content_hash: sha256:362ddad982d99997a7be25e019cc469b733fcf321c118d8709b5ff2481e8fbbd
 ---
 
+<!-- AUTHORED REGION START -->
 # Kalman Filter State-Space Estimation
 
 ## Definition
@@ -35,3 +39,4 @@ A recursive estimation technique for state-space models with unobservable states
 - [[concepts/kalman-filter|kalman-filter]]
 - [[concepts/one-factor-term-structure-model|one-factor-term-structure-model]]
 - [[concepts/panel-data-fixed-random-effects|panel-data-fixed-random-effects]]
+<!-- AUTHORED REGION END -->

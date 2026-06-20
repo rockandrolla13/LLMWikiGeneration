@@ -1,16 +1,31 @@
 ---
-title: "Introducing LEVER: A Framework for Scoring LEVeraging Event Risk"
+title: 'Introducing LEVER: A Framework for Scoring LEVeraging Event Risk'
 page_id: sources/trinh-2006-lever-framework
 page_type: source
 revision_id: 1
-created: 2026-05-05T23:15:00Z
-updated: 2026-05-05T23:15:00Z
-tags: [creditETF, LBO-risk, event-risk, credit-strategy, quantitative-credit]
-authors: [entities/minh-trinh, entities/bodha-bhattacharya]
-institutions: [entities/lehman-brothers]
-related: [concepts/lever-score, concepts/lbo-risk, concepts/event-risk]
+created: 2026-05-05 23:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- LBO-risk
+- event-risk
+- credit-strategy
+- quantitative-credit
+authors:
+- entities/minh-trinh
+- entities/bodha-bhattacharya
+institutions:
+- entities/lehman-brothers
+related:
+- concepts/lever-score
+- concepts/lbo-risk
+- concepts/event-risk
+schema_version: 2
+uuid: 95eb4f9a-467a-5531-9d66-a994d0dd1eef
+content_hash: sha256:e2a23bd4b7ad385957786bdf562c68268791f3fee8422c6c89c60711cd9f2087
 ---
 
+<!-- AUTHORED REGION START -->
 # Introducing LEVER: A Framework for Scoring LEVeraging Event Risk
 
 **Authors:** [[entities/minh-trinh|Minh Trinh]], [[entities/bodha-bhattacharya|Bodha Bhattacharya]]
@@ -101,3 +116,5 @@ Strong predictive power demonstrated in backtests covering 1995-2005.
 - [[concepts/lbo-risk]]
 - [[concepts/event-risk]]
 - [[concepts/leveraged-recapitalization]]
+
+<!-- AUTHORED REGION END -->

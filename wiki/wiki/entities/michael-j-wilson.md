@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-03-01-global-insights-polling
 tags: []
 title: Michael J Wilson
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: aca9ba17-10a9-5bdc-98a4-66a9cd4822e6
+content_hash: sha256:d17e120e4bfe047e77c3face708d797bae918ba40402217e414dbd8aec7b95a4
 ---
 
+<!-- AUTHORED REGION START -->
 # Michael J Wilson
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-03-01-global-insights-polling|Global Insights Day 2019 - Polling Results]]
+<!-- AUTHORED REGION END -->

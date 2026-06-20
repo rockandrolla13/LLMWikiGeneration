@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-06-28-fx-volatility-playbook
 tags: []
 title: Implied Volatility Skew
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0db99ed3-b8ca-5dad-952c-bcd76579bfd4
+content_hash: sha256:983b9fc2a49742cc6502054655a6ba8dc64ded2f2995f5189214e4ada99a563f
 ---
 
+<!-- AUTHORED REGION START -->
 # Implied Volatility Skew
 
 ## Definition
@@ -32,3 +36,4 @@ The difference in implied volatility between equidistant put and call strikes; a
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2019-06-28-fx-volatility-playbook]]
+<!-- AUTHORED REGION END -->

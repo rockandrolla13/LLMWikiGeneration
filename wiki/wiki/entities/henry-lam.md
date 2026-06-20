@@ -4,14 +4,28 @@ page_id: entities/henry-lam
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [researcher, operations-research, uncertainty-quantification, simulation, machine-learning]
-sources: [sources/pasche-2025-extreme-conformal]
-related: [concepts/conformal-prediction, concepts/extreme-value-theory, entities/olivier-pasche, entities/sebastian-engelke]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- operations-research
+- uncertainty-quantification
+- simulation
+- machine-learning
+sources:
+- sources/pasche-2025-extreme-conformal
+related:
+- concepts/conformal-prediction
+- concepts/extreme-value-theory
+- entities/olivier-pasche
+- entities/sebastian-engelke
 mind_map_priority: low
+schema_version: 2
+uuid: dfc4cb19-f38e-5fb8-9231-1ef0bd63fb04
+content_hash: sha256:465af1062061291c3800be744bdaab39f1b18c57001cc77394e6b9680e3d4e7b
 ---
 
+<!-- AUTHORED REGION START -->
 # Henry Lam
 
 **Henry Lam** is a faculty member at the Department of Industrial Engineering and Operations Research, Columbia University, specializing in uncertainty quantification, simulation, and operations research.
@@ -54,3 +68,5 @@ Supported by:
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/extreme-value-theory|Extreme Value Theory]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Banks: Facing the Cycle – Picking Swiss'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9806b4f81317
+schema_version: 2
+uuid: 78ab169b-1cc4-5e95-bf28-78bcdf7548b9
+content_hash: sha256:4fb736e007134d867c3443c2284c4b0f4e794e748d0aac31b2a4197559d3cf13
 ---
 
+<!-- AUTHORED REGION START -->
 # European Banks: Facing the Cycle – Picking Swiss
 
 **Authors:** Jackie Ineke, Joe Hopkins · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ With AT1s down 7-16 points since February highs amid the Covid-19 selloff and no
 - **Path:** `raw/creditmacro/Morgan Stanley - European Banks — Facing the Cycle – Picking Swiss - 2020-03-11.md`
 - **Type:** article
 - **Hash:** `sha256:ce1f1cfef819bcd33...`
+<!-- AUTHORED REGION END -->

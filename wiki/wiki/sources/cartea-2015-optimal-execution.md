@@ -1,15 +1,31 @@
 ---
-title: "Optimal execution with limit and market orders"
+title: Optimal execution with limit and market orders
 page_id: sources/cartea-2015-optimal-execution
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [optimal-execution, limit-orders, market-orders, algorithmic-trading, stochastic-control]
-authors: [Álvaro Cartea, Sebastian Jaimungal]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- optimal-execution
+- limit-orders
+- market-orders
+- algorithmic-trading
+- stochastic-control
+authors:
+- Álvaro Cartea
+- Sebastian Jaimungal
 year: 2015
-related: [concepts/optimal-execution, concepts/limit-order-book, concepts/market-making, entities/alvaro-cartea, entities/sebastian-jaimungal]
+related:
+- concepts/optimal-execution
+- concepts/limit-order-book
+- concepts/market-making
+- entities/alvaro-cartea
+- entities/sebastian-jaimungal
+schema_version: 2
+uuid: eea92f79-e746-518c-8a82-9904e4833cef
+content_hash: sha256:315b901476d50691c71fa2180dd20a698ad34a9e94ba58958d7e9a006b8c2055
 ---
 
+<!-- AUTHORED REGION START -->
 # Optimal execution with limit and market orders
 
 ## Summary
@@ -71,3 +87,5 @@ Using NASDAQ ITCH data for various liquidity levels:
 ## Citation
 
 Cartea, Á., & Jaimungal, S. (2015). Optimal execution with limit and market orders. *Quantitative Finance*, 15(8), 1279-1291.
+
+<!-- AUTHORED REGION END -->

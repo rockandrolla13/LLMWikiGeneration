@@ -15,10 +15,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: System Archetypes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 769f7184-65e7-5794-8840-ff905ded5c30
+content_hash: sha256:6050aed93fe84e3ff10a9f0a7158476d82ef5316592625c99401eb85fdb38a1e
 ---
 
+<!-- AUTHORED REGION START -->
 # System Archetypes
 
 ## Definition
@@ -33,3 +37,4 @@ Recurring structures producing characteristic problematic behavior regardless of
 ## Related Concepts
 
 - [[concepts/feedback-loops|feedback-loops]]
+<!-- AUTHORED REGION END -->

@@ -35,10 +35,14 @@ tags:
 - leverage-points
 - resilience
 title: 'Thinking in Systems: A Primer'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_ac2a6777b704
+schema_version: 2
+uuid: 8259571f-786a-594c-9fcf-6fb16bda7643
+content_hash: sha256:e9a0b9a01c45f6b43292ff4b0bf66434362428df3f777833a301d3644db4cbef
 ---
 
+<!-- AUTHORED REGION START -->
 # Thinking in Systems: A Primer
 
 **Authors:** Donella H. Meadows · **Year:** 2008 · **Venue:** Chelsea Green Publishing · **Type:** book
@@ -83,3 +87,4 @@ A posthumously published primer (edited by Diana Wright) distilling three decade
 - **Path:** `raw/creditmacro/Thinking in Systems A Primer (Meadows, Donella H.) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:c1a5197ab893d51d8...`
+<!-- AUTHORED REGION END -->

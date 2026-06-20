@@ -1,16 +1,41 @@
 ---
-title: "Limit Order Book"
+title: Limit Order Book
 page_id: concepts/limit-order-book
 page_type: concept
 revision_id: 3
-created: 2026-04-25T22:00:00Z
-updated: 2026-05-21T12:00:00Z
-tags: [market-microstructure, trading, order-flow, price-discovery, liquidity]
-sources: [sources/xu-2020-mlofi, sources/ellersgaard-2018-hedge-tracking-lob, sources/wang-2018-cross-responses, sources/brigida-2019-trade-intensity-liquidity, sources/abergel-2017-algorithmic-trading-lob, sources/gould-2016-long-memory-fx, sources/cartea-2015-optimal-execution, sources/lokin-2024-fill-probabilities, sources/cartea-2025-statistical-predictions-trading]
-related: [concepts/market-making, concepts/optimal-execution, concepts/fill-probability, concepts/avellaneda-stoikov-model, concepts/inventory-risk, entities/alvaro-cartea, entities/sebastian-jaimungal]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-microstructure
+- trading
+- order-flow
+- price-discovery
+- liquidity
+sources:
+- sources/xu-2020-mlofi
+- sources/ellersgaard-2018-hedge-tracking-lob
+- sources/wang-2018-cross-responses
+- sources/brigida-2019-trade-intensity-liquidity
+- sources/abergel-2017-algorithmic-trading-lob
+- sources/gould-2016-long-memory-fx
+- sources/cartea-2015-optimal-execution
+- sources/lokin-2024-fill-probabilities
+- sources/cartea-2025-statistical-predictions-trading
+related:
+- concepts/market-making
+- concepts/optimal-execution
+- concepts/fill-probability
+- concepts/avellaneda-stoikov-model
+- concepts/inventory-risk
+- entities/alvaro-cartea
+- entities/sebastian-jaimungal
 mind_map_priority: high
+schema_version: 2
+uuid: 59895ea7-0832-5d8e-954f-6ecf3a13fb11
+content_hash: sha256:3fe4706a6ab3fb4c61f338959efc13f764645e0e983c809383bfa4d64dd3fb7c
 ---
 
+<!-- AUTHORED REGION START -->
 # Limit Order Book
 
 A **Limit Order Book (LOB)** is the fundamental data structure used in modern electronic markets to organize and match buy and sell orders. It maintains a real-time record of all outstanding limit orders, sorted by price and time priority.
@@ -133,3 +158,5 @@ The LOB is central to understanding how prices form:
 - [[entities/sebastian-jaimungal|Sebastian Jaimungal]]
 - [[sources/abergel-2017-algorithmic-trading-lob|Abergel (2017) Algorithmic Trading]]
 - [[sources/cartea-2025-statistical-predictions-trading|Cartea et al. (2025) Statistical Predictions of Trading Strategies]] — algorithm-level order-flow prediction in Euronext Amsterdam LOB
+
+<!-- AUTHORED REGION END -->

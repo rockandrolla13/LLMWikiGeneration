@@ -28,10 +28,14 @@ sources: []
 tags: []
 title: 'European Credit Strategy: Corporate Hybrids Playbook — Staying in Short Calls,
   Revisiting Call Risks'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a84f7e1dff8a
+schema_version: 2
+uuid: fc3e5d6e-ba6b-5779-87df-550e55be49d2
+content_hash: sha256:fa9f928cde00dd3b7a7a00fad045d87f5347a6d270bb78690f162893f28627a4
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy: Corporate Hybrids Playbook — Staying in Short Calls, Revisiting Call Risks
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -65,3 +69,4 @@ Morgan Stanley updates its European corporate hybrids playbook after the asset c
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy — Corporate Hybrids Playbook - 2019-02-04.md`
 - **Type:** article
 - **Hash:** `sha256:ed2e84500f1acbd5f...`
+<!-- AUTHORED REGION END -->

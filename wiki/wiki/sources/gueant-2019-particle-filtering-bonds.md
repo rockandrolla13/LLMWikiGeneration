@@ -1,19 +1,39 @@
 ---
-title: "Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach"
+title: 'Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach'
 page_id: sources/gueant-2019-particle-filtering-bonds
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Olivier Gueant, Jiang Pu]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Olivier Gueant
+- Jiang Pu
 year: 2019
 venue: Market Microstructure and Liquidity
-tags: [particle-filtering, smc, corporate-bonds, mid-price, request-for-quotes, bayesian, otc-markets, market-making]
-related: [concepts/particle-filtering, concepts/sequential-monte-carlo, concepts/market-making, concepts/request-for-quotes, sources/fermanian-2017-md2c-corporate-bonds, entities/olivier-gueant]
+tags:
+- particle-filtering
+- smc
+- corporate-bonds
+- mid-price
+- request-for-quotes
+- bayesian
+- otc-markets
+- market-making
+related:
+- concepts/particle-filtering
+- concepts/sequential-monte-carlo
+- concepts/market-making
+- concepts/request-for-quotes
+- sources/fermanian-2017-md2c-corporate-bonds
+- entities/olivier-gueant
 mind_map_priority: high
+schema_version: 2
+uuid: 20aca1fd-79cd-50c5-903b-98b28b802a60
+content_hash: sha256:d80b55458b639a2c67577418c75ec9ab4446278ad2ba18017fb9290cf236b33d
 ---
 
+<!-- AUTHORED REGION START -->
 # Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach
 
 **Authors:** Olivier Gueant, Jiang Pu
@@ -139,3 +159,5 @@ This paper presents a Bayesian method using particle filtering/sequential Monte 
 - [[concepts/request-for-quotes|Request for Quotes]]
 - [[sources/fermanian-2017-md2c-corporate-bonds|Fermanian et al. (2017) MD2C]]
 - [[entities/olivier-gueant|Olivier Gueant]]
+
+<!-- AUTHORED REGION END -->

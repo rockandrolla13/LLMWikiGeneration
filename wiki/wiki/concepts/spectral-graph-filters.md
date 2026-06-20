@@ -1,13 +1,26 @@
 ---
-title: "Spectral Graph Filters"
+title: Spectral Graph Filters
 page_id: concepts/spectral-graph-filters
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [graph-signal-processing, filtering, spectral-methods, signal-processing]
-related: [concepts/graph-signal-processing, concepts/graph-fourier-transform, concepts/graph-laplacian, concepts/graph-neural-networks, concepts/spectral-graph-wavelets]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-signal-processing
+- filtering
+- spectral-methods
+- signal-processing
+related:
+- concepts/graph-signal-processing
+- concepts/graph-fourier-transform
+- concepts/graph-laplacian
+- concepts/graph-neural-networks
+- concepts/spectral-graph-wavelets
+schema_version: 2
+uuid: 2de40904-9526-5242-989d-54fb66eacb8d
+content_hash: sha256:09ea1b26d06325618df66cac8ad6fc99f7f3b8dfe973e0e19ff49e5b0733b5ea
 ---
 
+<!-- AUTHORED REGION START -->
 # Spectral Graph Filters
 
 Spectral graph filters extend classical frequency-domain filtering to signals on graphs, enabling operations like smoothing, sharpening, and band-pass filtering on irregular domains.
@@ -155,3 +168,5 @@ $$\min_\mathbf{x} \|\mathbf{y} - \mathbf{x}\|^2 + \alpha \mathbf{x}^T g(\mathbf{
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/graph-neural-networks|Graph Neural Networks]]
 - [[concepts/spectral-graph-wavelets|Spectral Graph Wavelets]]
+
+<!-- AUTHORED REGION END -->

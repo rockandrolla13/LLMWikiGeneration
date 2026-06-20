@@ -14,10 +14,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Glenn W. Brier
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e944f42c-5a49-5d05-8c3d-61c935e63747
+content_hash: sha256:27543cf739cc041071d3e62b82940c7c2e13ae7bf9ef88cb07a0fafc733b00a6
 ---
 
+<!-- AUTHORED REGION START -->
 # Glenn W. Brier
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/gneiting-2007-strictly-proper-scoring-rules|Strictly Proper Scoring Rules, Prediction, and Estimation]]
+<!-- AUTHORED REGION END -->

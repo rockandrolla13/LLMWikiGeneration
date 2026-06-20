@@ -1,16 +1,34 @@
 ---
-title: "Long Memory"
+title: Long Memory
 page_id: concepts/long-memory
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [time-series, autocorrelation, hurst-exponent, fractional-processes, stylized-facts]
-sources: [sources/gould-2016-long-memory-fx, sources/koukorinis-stylized-facts, sources/stavroyiannis-2017-bitcoin-multifractal, sources/guillaume-1997-stylized-facts-fx]
-related: [concepts/stylized-facts, concepts/mfdfa, concepts/hurst-exponent, concepts/order-flow, concepts/volatility-clustering]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- time-series
+- autocorrelation
+- hurst-exponent
+- fractional-processes
+- stylized-facts
+sources:
+- sources/gould-2016-long-memory-fx
+- sources/koukorinis-stylized-facts
+- sources/stavroyiannis-2017-bitcoin-multifractal
+- sources/guillaume-1997-stylized-facts-fx
+related:
+- concepts/stylized-facts
+- concepts/mfdfa
+- concepts/hurst-exponent
+- concepts/order-flow
+- concepts/volatility-clustering
 mind_map_priority: high
+schema_version: 2
+uuid: 4e52ab02-6398-57ca-8761-d68eb92746a3
+content_hash: sha256:8b6c58ff41e7e8f31fc6aa72a95e8f760b3bfd6a55631700bf0cc62e93750339
 ---
 
+<!-- AUTHORED REGION START -->
 # Long Memory
 
 **Long memory** (also called long-range dependence) is a property of time series where autocorrelations decay slowly, typically as a power law, such that their sum diverges. This property has profound implications for forecasting, risk management, and understanding market dynamics.
@@ -159,3 +177,5 @@ Gould et al. (2016) show long memory in FX:
 - [[concepts/order-flow|Order Flow]]
 - [[sources/gould-2016-long-memory-fx|Gould et al. (2016) Long Memory in FX]]
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

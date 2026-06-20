@@ -1,14 +1,31 @@
 ---
-title: "Avellaneda-Stoikov Model"
+title: Avellaneda-Stoikov Model
 page_id: concepts/avellaneda-stoikov-model
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, optimal-control, stochastic-control, hjb-equation, inventory-risk]
-sources: [sources/bergault-2019-multi-asset-market-making, sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers]
-related: [concepts/market-making, concepts/inventory-risk, concepts/optimal-execution, concepts/limit-order-book, entities/olivier-gueant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- optimal-control
+- stochastic-control
+- hjb-equation
+- inventory-risk
+sources:
+- sources/bergault-2019-multi-asset-market-making
+- sources/barzykin-2020-algorithmic-fx-market-making
+- sources/barzykin-2021-fx-dealer-tiers
+related:
+- concepts/market-making
+- concepts/inventory-risk
+- concepts/optimal-execution
+- concepts/limit-order-book
+- entities/olivier-gueant
+schema_version: 2
+uuid: 8823e0ab-cd5b-5a75-9ee3-9d34fda73e54
+content_hash: sha256:72051575b7b1217ee68439c09616f6a2b47ee37830dbc02ecd4ba7d497e146ac
 ---
 
+<!-- AUTHORED REGION START -->
 # Avellaneda-Stoikov Model
 
 ## Overview
@@ -109,3 +126,5 @@ This is computationally simpler and used in [[sources/cartea-2015-optimal-execut
 - [[concepts/optimal-execution|Optimal Execution]]
 - [[entities/olivier-gueant|Olivier Guéant]]
 - [[sources/bergault-2019-multi-asset-market-making|Bergault et al. (2019)]]
+
+<!-- AUTHORED REGION END -->

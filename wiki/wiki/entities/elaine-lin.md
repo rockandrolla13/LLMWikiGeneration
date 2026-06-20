@@ -14,10 +14,14 @@ sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 tags: []
 title: Elaine Lin
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 798f83c7-32b0-5fc2-a077-9d5b64138380
+content_hash: sha256:3d263f78fa359d40ddda5c78edd4c3b4eb85fc30ee4deff0afd49d6ac478281c
 ---
 
+<!-- AUTHORED REGION START -->
 # Elaine Lin
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2017-01-28-rates-strategist-duration-and-curves|Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]]
+<!-- AUTHORED REGION END -->

@@ -4,14 +4,29 @@ page_id: entities/olivier-pasche
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [researcher, conformal-prediction, extreme-value-theory, flood-risk, machine-learning]
-sources: [sources/pasche-2025-extreme-conformal]
-related: [concepts/conformal-prediction, concepts/extreme-value-theory, concepts/generalized-pareto-distribution, entities/sebastian-engelke, entities/henry-lam]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- extreme-value-theory
+- flood-risk
+- machine-learning
+sources:
+- sources/pasche-2025-extreme-conformal
+related:
+- concepts/conformal-prediction
+- concepts/extreme-value-theory
+- concepts/generalized-pareto-distribution
+- entities/sebastian-engelke
+- entities/henry-lam
 mind_map_priority: medium
+schema_version: 2
+uuid: 4edd0806-3471-52df-9067-9e6b986848fa
+content_hash: sha256:789d61a6fa8156fe2a128984310a4625a99ed65039464cdb622295d36c47b5b8
 ---
 
+<!-- AUTHORED REGION START -->
 # Olivier C. Pasche
 
 **Olivier C. Pasche** is a researcher specializing in [[concepts/conformal-prediction|conformal prediction]] and [[concepts/extreme-value-theory|extreme value theory]], with applications to flood risk forecasting and high-impact event prediction.
@@ -63,3 +78,5 @@ Supported by Swiss National Science Foundation Eccellenza Grant 186858.
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/extreme-value-theory|Extreme Value Theory]]
 - [[concepts/generalized-pareto-distribution|Generalized Pareto Distribution]]
+
+<!-- AUTHORED REGION END -->

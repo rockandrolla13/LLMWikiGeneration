@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_eb9ee07d5ead
+schema_version: 2
+uuid: db7b42ab-25ce-58c3-a53b-7540e7c2dc68
+content_hash: sha256:32886f2e2faff81b570d1372f40c58d6607b151bacf97bdba1179d3a4fb71bb9
 ---
 
+<!-- AUTHORED REGION START -->
 # FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Shrina B Poojara · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ The Corporate Hybrids Playbook answers key investor questions on European corpor
 - **Path:** `raw/creditmacro/Morgan Stanley - FAQs on Hybrids — Hybrids Monitor and Relative Value - 2013-12-04.md`
 - **Type:** article
 - **Hash:** `sha256:b6924f95249e3376c...`
+<!-- AUTHORED REGION END -->

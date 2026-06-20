@@ -32,10 +32,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global In the Flow First Quarter Recap: What a Year This Quarter Has Been'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e7ecf7a8fea1
+schema_version: 2
+uuid: 4388f54e-d142-532c-bcef-e8eefface010
+content_hash: sha256:92cd8a7a86c9f69c93dbeca8dbc6a38468b2d49eaeb46a6ba1549623860403f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Global In the Flow First Quarter Recap: What a Year This Quarter Has Been
 
 **Authors:** Wanting Low, Naomi Poole, Andrew Sheets, Phanikiran Naraparaju, Serena Tang · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -72,3 +76,4 @@ Morgan Stanley's cross-asset 'In the Flow' first-quarter 2020 recap chronicles t
 - **Path:** `raw/creditmacro/Morgan Stanley - Global In the Flow First Quarter Recap — Performance – What a Year This Quarter Has Been - 2020-04-01.md`
 - **Type:** article
 - **Hash:** `sha256:e79ee4134737adc37...`
+<!-- AUTHORED REGION END -->

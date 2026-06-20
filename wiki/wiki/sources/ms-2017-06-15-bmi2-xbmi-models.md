@@ -32,10 +32,14 @@ sources: []
 tags: []
 title: 'Global Interest Rate Strategy: Introducing BMI(2) and xBMI, Improving BMI(10)
   and iBMI'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_207f40d5dfd0
+schema_version: 2
+uuid: 34334954-7e99-544b-8097-1d8eecd2cf80
+content_hash: sha256:8a6d1ebe518f8f70ce9a1e2253b691c6896dd102453959006573a62d2957fc9f
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategy: Introducing BMI(2) and xBMI, Improving BMI(10) and iBMI
 
 **Authors:** Jesper Rooth, Federico Manicardi, Matthew Hornbach, Guneet Dhingra, Anton Heese, Koichi Sugisaki · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -69,3 +73,4 @@ Morgan Stanley updates its Bond Market Indicators (BMI) framework, renaming the 
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategy — Introducing BMI(2) and xBMI, Improving BMI(10) and iBMI - 2017-06-15.md`
 - **Type:** article
 - **Hash:** `sha256:b2fd47dc91dcb77eb...`
+<!-- AUTHORED REGION END -->

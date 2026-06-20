@@ -17,9 +17,13 @@ tags:
 - multivariate
 - statistics
 title: Copulas
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 8ba395cd-80e8-57ea-a47c-20049fd5b361
+content_hash: sha256:07d1551b4fbec8f627315c99abcb4f4332b8f5d5a9e859fffd5747444d1b4799
 ---
 
+<!-- AUTHORED REGION START -->
 # Copulas
 
 A **copula** is a multivariate cumulative distribution function (CDF) that captures the dependency structure between random variables, independent of their marginal distributions. Copulas provide a powerful way to model and analyze the relationship between multiple variables in statistics, finance, and machine learning.
@@ -114,3 +118,4 @@ The [[sources/sun-2022-copula-cpts|CopulaCPTS]] algorithm:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/copula-sklar-theorem|copula-sklar-theorem]]
+<!-- AUTHORED REGION END -->

@@ -40,10 +40,14 @@ tags:
 - ai-capex
 - macro-outlook
 title: 'Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b373b1b50fd7
+schema_version: 2
+uuid: a76c0675-08f1-5424-992d-474e41e84d9e
+content_hash: sha256:df8d0942d87e251f4028093faee7e1f919993d40487b65fd898c83cf542eb865
 ---
 
+<!-- AUTHORED REGION START -->
 # Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook
 
 **Authors:** Vishwas Patkar, Vishy Tirupattur, David Hamburger, Aron Becker, Kelvin Pang · **Year:** 2026 · **Venue:** Morgan Stanley Research (Global Credit Webcast) · **Type:** report
@@ -92,3 +96,4 @@ A Morgan Stanley Research sell-side webcast note (26 May 2026) presenting the fi
 - **Path:** `raw/creditmacro/79ef82a2-e1da-4bf3-9882-973affe041ae.md`
 - **Type:** article
 - **Hash:** `sha256:d85eb3b15caf62af8...`
+<!-- AUTHORED REGION END -->

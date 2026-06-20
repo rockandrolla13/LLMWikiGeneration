@@ -15,10 +15,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: High Performance Computing Credit Subsector
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 270e5ee6-1df9-5ff0-9e4a-b3930e0b4297
+content_hash: sha256:cb2e93ac397036e029feb58b50fdb435b5fddd9919ae3b1c3468918c59c630a0
 ---
 
+<!-- AUTHORED REGION START -->
 # High Performance Computing Credit Subsector
 
 ## Definition
@@ -33,3 +37,4 @@ A high-yield (and emerging leveraged-loan) credit subsector capturing AI/GPU com
 
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/lbo-risk|lbo-risk]]
+<!-- AUTHORED REGION END -->

@@ -19,10 +19,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Oxford University Press
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4c712875-1e3d-509f-a3d0-a8eab1a9c60a
+content_hash: sha256:a5d2248a492326bdcfc229f428e976159c15a4cf5d63c059058d5acf3f04a6d3
 ---
 
+<!-- AUTHORED REGION START -->
 # Oxford University Press
 
 ## Overview
@@ -37,3 +41,4 @@ updated_by: creditmacro-batch
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
 - [[sources/vanderweele-2015-explanation-causal-inference|Explanation in Causal Inference: Methods for Mediation and Interaction]]
+<!-- AUTHORED REGION END -->

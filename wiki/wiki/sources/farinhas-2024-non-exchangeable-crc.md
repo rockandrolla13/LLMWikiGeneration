@@ -1,19 +1,37 @@
 ---
-title: "Non-Exchangeable Conformal Risk Control"
+title: Non-Exchangeable Conformal Risk Control
 page_id: sources/farinhas-2024-non-exchangeable-crc
 page_type: source
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, risk-control, non-exchangeable-data, distribution-drift, time-series]
-authors: [Antonio Farinhas, Chrysoula Zerva, Dennis Ulmer, Andre F.T. Martins]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- risk-control
+- non-exchangeable-data
+- distribution-drift
+- time-series
+authors:
+- Antonio Farinhas
+- Chrysoula Zerva
+- Dennis Ulmer
+- Andre F.T. Martins
 venue: ICLR 2024
 year: 2024
 sources: []
-related: [concepts/conformal-prediction, concepts/conformal-risk-control, concepts/exchangeability, concepts/coverage-guarantee, concepts/distribution-drift]
+related:
+- concepts/conformal-prediction
+- concepts/conformal-risk-control
+- concepts/exchangeability
+- concepts/coverage-guarantee
+- concepts/distribution-drift
 mind_map_priority: high
+schema_version: 2
+uuid: fab7658b-b269-5a84-902a-e563035bb402
+content_hash: sha256:5b26c245cf182beb1e79e8e3162b607e9bd5547ecbe42913f02d5dfd10e89695
 ---
 
+<!-- AUTHORED REGION START -->
 # Non-Exchangeable Conformal Risk Control
 
 **Farinhas, A., Zerva, C., Ulmer, D., & Martins, A.F.T. (2024).** Non-Exchangeable Conformal Risk Control. *ICLR 2024*.
@@ -133,3 +151,5 @@ https://github.com/deep-spin/non-exchangeable-crc
 
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]] - Another approach to non-exchangeable data
 - [[sources/zaffran-2023-conformal-missing|Zaffran et al. (2023)]] - Conformal prediction with missing values
+
+<!-- AUTHORED REGION END -->

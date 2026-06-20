@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes
 tags: []
 title: Credit growth
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 41252490-355b-50e0-b218-32cffccc9698
+content_hash: sha256:7ea701812f436c531f16ceba17ce4d5577f7beb329ecafda00ad5c9f00f11642
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit growth
 
 ## Definition
@@ -31,3 +35,4 @@ The pace of expansion in aggregate financing to the economy, used as a leading i
 ## Related Concepts
 
 - [[concepts/default-rates|default-rates]]
+<!-- AUTHORED REGION END -->

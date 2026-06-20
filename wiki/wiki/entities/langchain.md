@@ -5,7 +5,7 @@ page_type: entity
 entity_type: tool
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -21,8 +21,12 @@ sources:
 mind_map_priority: high
 affiliation: LangChain, Inc.
 revision_hash: sha256:82049afdf76abc15
+schema_version: 2
+uuid: c6b7f329-ebec-5388-a78f-d9f4b9736b2b
+content_hash: sha256:ae2354a2fbd174ada1d7a6e1a0e9562708f61d8a95d446ed999026533a515e25
 ---
 
+<!-- AUTHORED REGION START -->
 # LangChain
 
 **Role:** tool
@@ -42,3 +46,5 @@ Framework for chaining LLM calls and tools, used in the book as an example of to
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
+
+<!-- AUTHORED REGION END -->

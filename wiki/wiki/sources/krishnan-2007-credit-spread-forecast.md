@@ -1,17 +1,35 @@
 ---
-title: "On Forecasting the Term Structure of Credit Spreads"
+title: On Forecasting the Term Structure of Credit Spreads
 page_id: sources/krishnan-2007-credit-spread-forecast
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [credit-spreads, term-structure, forecasting, yield-curve, macroeconomic-factors]
-authors: [C.N.V. Krishnan, Peter H. Ritchken, James B. Thomson]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- credit-spreads
+- term-structure
+- forecasting
+- yield-curve
+- macroeconomic-factors
+authors:
+- C.N.V. Krishnan
+- Peter H. Ritchken
+- James B. Thomson
 year: 2007
 journal: Federal Reserve Bank of Cleveland Working Paper
-institution: [Case Western Reserve University, Federal Reserve Bank of Cleveland]
-related: [concepts/credit-spread-curve, concepts/term-structure, concepts/yield-curve-forecasting, concepts/diebold-li-model]
+institution:
+- Case Western Reserve University
+- Federal Reserve Bank of Cleveland
+related:
+- concepts/credit-spread-curve
+- concepts/term-structure
+- concepts/yield-curve-forecasting
+- concepts/diebold-li-model
+schema_version: 2
+uuid: 04b70d73-4578-58cd-ac1a-8bc4ce7adc7e
+content_hash: sha256:9a788add2dd3fec4afe352d5103f5292700f0cc444d009e7a03c87c0a84b1356
 ---
 
+<!-- AUTHORED REGION START -->
 # On Forecasting the Term Structure of Credit Spreads
 
 ## Summary
@@ -72,3 +90,5 @@ Investigates firm-by-firm credit spread forecasting using the shape of credit-sp
 
 - [[sources/huang-2025-global-credit-spread-puzzle|Huang et al. (2025)]] - credit spread puzzle
 - [[sources/feng-2025-predicting-bond-returns|Feng et al. (2025)]] - ML bond prediction
+
+<!-- AUTHORED REGION END -->

@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Rob Thomas
@@ -44,8 +44,12 @@ related:
 - entities/rob-thomas
 mind_map_priority: medium
 revision_hash: sha256:1a77353f5ece31ae
+schema_version: 2
+uuid: 805ffa70-705f-515e-82fc-c1b0e7098814
+content_hash: sha256:b1d8c8806ffa3aa8fa99c933db01d2d2ba2cbbdcfe0aac2761b74abdfcb78184
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Value Creators
 *Beyond the Generative AI User Mindset*
 
@@ -116,3 +120,5 @@ Enterprise executives, line-of-business leaders, data and AI strategy owners, an
 - [[entities/langchain|LangChain]]
 - [[entities/openai|OpenAI]]
 - [[entities/anthropic|Anthropic]]
+
+<!-- AUTHORED REGION END -->

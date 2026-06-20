@@ -16,10 +16,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Randomised Controlled Trial
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3e53c071-8dc1-553c-bdeb-d2e3cb45b23f
+content_hash: sha256:0b41c2f25f1a77483a96449e89a76f97cd7f123ed513f0bf6ef89c819941f8fd
 ---
 
+<!-- AUTHORED REGION START -->
 # Randomised Controlled Trial
 
 ## Definition
@@ -35,3 +39,4 @@ An experimental study design that uses random assignment of participants to inte
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/potential-outcomes|potential-outcomes]]
 - [[concepts/quasi-experimental-design|quasi-experimental-design]]
+<!-- AUTHORED REGION END -->

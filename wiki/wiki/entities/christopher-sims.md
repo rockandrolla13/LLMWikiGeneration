@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Christopher A. Sims
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: feff6a6a-8c17-5eba-bd8c-39c0a2799f46
+content_hash: sha256:109563ae027eea2f06526059c884400774ed294a5a6fa6e1c44355d5489f6a2c
 ---
 
+<!-- AUTHORED REGION START -->
 # Christopher A. Sims
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

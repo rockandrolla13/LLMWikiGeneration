@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Katerina Smidkova
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5e4f1b12-a62a-58bf-acb9-3354b42ef563
+content_hash: sha256:bd4aaeae72ab80ea7b5966ce719e63e73e780c7c48d84a5ec7c17faaab84aee8
 ---
 
+<!-- AUTHORED REGION START -->
 # Katerina Smidkova
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/babecky-2013-leading-indicators-crisis-incidence|Leading indicators of crisis incidence: Evidence from developed countries]]
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

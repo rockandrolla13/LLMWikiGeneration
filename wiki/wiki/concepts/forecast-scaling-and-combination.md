@@ -15,10 +15,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Forecast Scaling and Combination
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8db187ad-35e3-561b-97fb-433b8ce75819
+content_hash: sha256:9f19f50638cccb754ebb01697d450258860ab00f53f74d2615c4a893078664a3
 ---
 
+<!-- AUTHORED REGION START -->
 # Forecast Scaling and Combination
 
 ## Definition
@@ -33,3 +37,4 @@ Rescaling each rule's raw signal into a standardised 'forecast' averaging absolu
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/market-timing|market-timing]]
+<!-- AUTHORED REGION END -->

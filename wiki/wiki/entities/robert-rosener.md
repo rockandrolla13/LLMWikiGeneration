@@ -15,10 +15,14 @@ sources:
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 tags: []
 title: Robert Rosener
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 374b171e-4520-5110-ba31-957217485ffb
+content_hash: sha256:b43068cd76931a9b4cde2e9439dae4d5c065bd9632b0d8d1845f987db82950a6
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert Rosener
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-01-25-treasury-market-commentary|Treasury Market Commentary, January 25]]
 - [[sources/ms-2020-04-03-deeper-drop-slower-climb|US Economics: Deeper Drop, Slower Climb]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Sovereign Debt Sustainability
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8e83b7e7-39a2-5b3f-9c0d-323b563bdd28
+content_hash: sha256:d065c88ec3046e0cfbf08865cdab92cdb6a22d32f2287325a4216de578a3f85e
 ---
 
+<!-- AUTHORED REGION START -->
 # Sovereign Debt Sustainability
 
 ## Definition
@@ -33,3 +37,4 @@ The capacity of governments to service rising public debt; public debt has risen
 
 - [[concepts/government-bond-spreads|government-bond-spreads]]
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
+<!-- AUTHORED REGION END -->

@@ -17,10 +17,14 @@ sources:
 - sources/ilmanen-2011-expected-returns
 tags: []
 title: Value Premium
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0f61dd20-c5b4-589a-8601-46be299279d9
+content_hash: sha256:794c9f1fe7ed0b45defbe4a71f0da909c24a111dcb415c663bc1819b782ca23e
 ---
 
+<!-- AUTHORED REGION START -->
 # Value Premium
 
 ## Definition
@@ -37,3 +41,4 @@ The historical outperformance of cheap (high book-to-price) assets over expensiv
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/fama-french-factors|fama-french-factors]]
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

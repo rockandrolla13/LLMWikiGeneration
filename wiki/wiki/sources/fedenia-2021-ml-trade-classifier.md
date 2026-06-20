@@ -1,17 +1,37 @@
 ---
-title: "Machine Learning in the Corporate Bond Market: A New Classifier"
+title: 'Machine Learning in the Corporate Bond Market: A New Classifier'
 page_id: sources/fedenia-2021-ml-trade-classifier
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [machine-learning, trade-classification, corporate-bonds, random-forest, TRACE, market-microstructure]
-authors: [Mark Fedenia, Tavy Ronen, Seunghan Nam]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- trade-classification
+- corporate-bonds
+- random-forest
+- TRACE
+- market-microstructure
+authors:
+- Mark Fedenia
+- Tavy Ronen
+- Seunghan Nam
 year: 2021
 journal: SSRN Working Paper
-institution: [University of Wisconsin-Madison, Rutgers Business School, New York Institute of Technology]
-related: [concepts/trade-classification, concepts/random-forest, concepts/trace-data, concepts/market-microstructure-noise]
+institution:
+- University of Wisconsin-Madison
+- Rutgers Business School
+- New York Institute of Technology
+related:
+- concepts/trade-classification
+- concepts/random-forest
+- concepts/trace-data
+- concepts/market-microstructure-noise
+schema_version: 2
+uuid: ecb23b00-68c1-5964-ade3-180eafaae5a9
+content_hash: sha256:48c5d4b5dd62a5d04832f9ccd933ac9de1001a680b940a27609520ed2f9e09cf
 ---
 
+<!-- AUTHORED REGION START -->
 # Machine Learning in the Corporate Bond Market: A New Classifier
 
 ## Summary
@@ -65,3 +85,5 @@ Develops a Random Forest-based trade classification algorithm for corporate bond
 
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]] - microstructure issues in bond research
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]] - bond factor investing
+
+<!-- AUTHORED REGION END -->

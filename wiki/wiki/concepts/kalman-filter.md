@@ -21,9 +21,13 @@ tags:
 - time-series
 - signal-processing
 title: Kalman Filter
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 5381b4ce-66bf-55ff-945e-7fc8df4b31e5
+content_hash: sha256:6eebe8a56b796add3d6f14d00fe0ee629a15d2f84d5a93b41d7dbd162c12510d
 ---
 
+<!-- AUTHORED REGION START -->
 # Kalman Filter
 
 The Kalman filter is the optimal linear recursive estimator for state-space models with Gaussian noise, providing minimum variance state estimates.
@@ -85,3 +89,4 @@ $$\mathbf{P}_{t|t} = (\mathbf{I} - \mathbf{K}_t\mathbf{H})\mathbf{P}_{t|t-1}$$
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]
+<!-- AUTHORED REGION END -->

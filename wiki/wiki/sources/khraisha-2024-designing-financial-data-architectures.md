@@ -1,20 +1,43 @@
 ---
-title: "Designing Financial Data Architectures"
+title: Designing Financial Data Architectures
 page_id: sources/khraisha-2024-designing-financial-data-architectures
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [financial-data, data-architecture, financial-systems, o'reilly, reference-data, operational-data, analytical-data, data-governance, data-modelling, financial-instruments, messaging-standards, swift, fix, iso-20022, ai, analytics, early-release-2025]
-sources: [sources/khraisha-2024-designing-financial-data-architectures]
+tags:
+- financial-data
+- data-architecture
+- financial-systems
+- o'reilly
+- reference-data
+- operational-data
+- analytical-data
+- data-governance
+- data-modelling
+- financial-instruments
+- messaging-standards
+- swift
+- fix
+- iso-20022
+- ai
+- analytics
+- early-release-2025
+sources:
+- sources/khraisha-2024-designing-financial-data-architectures
 related: []
 mind_map_priority: high
-authors: ["Tamer Khraisha"]
+authors:
+- Tamer Khraisha
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 2c1eaff5-3cc6-5988-84b7-ac10e92eaabf
+content_hash: sha256:cbde6374f0c1dbc642a2bc6d62da2464eb3f2d4aaa32a7204a9b1991c3807af1
 ---
 
+<!-- AUTHORED REGION START -->
 # Designing Financial Data Architectures
 
 **Authors:** Tamer Khraisha  
@@ -85,3 +108,5 @@ An Early Release O'Reilly book (first release 2025-08-06, first edition December
 - What tools, platforms, or technologies does the book recommend for implementing financial data architectures?
 - How does the book handle cloud-native vs on-premise financial data infrastructure trade-offs?
 - What is the book's taxonomy of financial reference data (Chapter 6)?
+
+<!-- AUTHORED REGION END -->

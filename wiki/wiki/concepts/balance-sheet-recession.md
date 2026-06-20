@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Balance sheet recession
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fd28e703-848d-5607-9c2b-5969a18444d0
+content_hash: sha256:465cee0be08c935b84d926ed0b0aaa1386bf1132ba6bbdf1924730cd52ae6585
 ---
 
+<!-- AUTHORED REGION START -->
 # Balance sheet recession
 
 ## Definition
@@ -31,3 +35,4 @@ A downturn in which over-leveraged private agents prioritise debt repayment over
 ## Related Concepts
 
 - [[concepts/deflation-trap|deflation-trap]]
+<!-- AUTHORED REGION END -->

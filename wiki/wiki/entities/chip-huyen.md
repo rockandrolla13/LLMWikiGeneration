@@ -5,7 +5,7 @@ page_type: entity
 entity_type: person
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -16,8 +16,12 @@ sources:
 mind_map_priority: medium
 affiliation: Claypot AI; Stanford University (CS 329S)
 revision_hash: sha256:756a4fc4ab3a9ebb
+schema_version: 2
+uuid: 53e25885-4a48-5580-9091-f63dcda13b0d
+content_hash: sha256:37f13a6d1b0776332df16025796758afc71e529336cef32a0a3b45200c5f827e
 ---
 
+<!-- AUTHORED REGION START -->
 # Chip Huyen
 
 **Role:** author
@@ -32,3 +36,5 @@ Co-founder of Claypot AI (real-time ML platform). Previously at NVIDIA, Netflix,
 
 - [[sources/huyen-2022-designing-ml-systems|Designing Machine Learning Systems]]
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
+
+<!-- AUTHORED REGION END -->

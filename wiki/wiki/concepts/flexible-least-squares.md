@@ -1,14 +1,28 @@
 ---
-title: "Flexible Least Squares"
+title: Flexible Least Squares
 page_id: concepts/flexible-least-squares
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [time-varying-regression, kalman-filter, econometrics, adaptive-estimation]
-related: [concepts/kalman-filter, concepts/time-varying-regression, concepts/statistical-arbitrage, concepts/state-space-models]
-sources: [sources/montana-2009-flexible-least-squares, sources/triantafyllopoulos-2011-mean-reverting-spreads]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- time-varying-regression
+- kalman-filter
+- econometrics
+- adaptive-estimation
+related:
+- concepts/kalman-filter
+- concepts/time-varying-regression
+- concepts/statistical-arbitrage
+- concepts/state-space-models
+sources:
+- sources/montana-2009-flexible-least-squares
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+schema_version: 2
+uuid: bef9af41-35c5-5a54-9097-200d3440a0f8
+content_hash: sha256:62a7f5f2ef54951e2c2f6e2b731679ddf1f4f4b24ed19c4f4788650e93b07253
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 Flexible Least Squares (FLS) is a penalized regression method that allows regression coefficients to vary smoothly over time. Introduced by Kalaba and Tesfatsion (1989), FLS balances fitting the data against maintaining smooth coefficient paths through a penalty term.
@@ -163,3 +177,5 @@ y_t = x_t' * beta_t + epsilon_t
 - [[concepts/time-varying-regression|Time-Varying Regression]] - general framework
 - [[concepts/state-space-models|State Space Models]] - underlying structure
 - [[concepts/statistical-arbitrage|Statistical Arbitrage]] - trading application
+
+<!-- AUTHORED REGION END -->

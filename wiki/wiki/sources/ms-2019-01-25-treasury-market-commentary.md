@@ -35,10 +35,14 @@ source_type: article
 sources: []
 tags: []
 title: Treasury Market Commentary, January 25
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b2f32a9d14ad
+schema_version: 2
+uuid: 327d8531-c636-535a-bcdd-92fd6c59d75a
+content_hash: sha256:57e144efed0787327198093a63bc3f67598cbe4b1ca768a3a8f81feda6e3afa5
 ---
 
+<!-- AUTHORED REGION START -->
 # Treasury Market Commentary, January 25
 
 **Authors:** Tony Small, Matthew Hornbach, Robert Rosener, Molly Wharton, Guneet Dhingra, Sam Elprince, David Harris · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -76,3 +80,4 @@ This daily US rates strategy commentary recaps a broad risk-on session driven by
 - **Path:** `raw/creditmacro/Morgan Stanley - Treasury Market Commentary, January 25 - nd.md`
 - **Type:** article
 - **Hash:** `sha256:d076d4e5ca2b52c25...`
+<!-- AUTHORED REGION END -->

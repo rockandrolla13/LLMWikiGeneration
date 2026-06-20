@@ -16,10 +16,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Donald B. Rubin
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fab549bb-d407-51e9-baf0-70ebf81b455f
+content_hash: sha256:98b1da9c11cc343da1467db1872bca541abbdc64d32758ba92c753ecf7b884f2
 ---
 
+<!-- AUTHORED REGION START -->
 # Donald B. Rubin
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
 - [[sources/gentzel-2021-osrct-evaluation|How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]]
 - [[sources/hill-2011-bart-causal-inference|Bayesian Nonparametric Modeling for Causal Inference]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []
 title: The Journal of Portfolio Management
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d2e6227e-810a-5168-a9a8-7ef3367720e5
+content_hash: sha256:5da6e9bfc59734872ebf08d251c08e337f174a48ae02a8d7b76e53cf2c5cf72e
 ---
 
+<!-- AUTHORED REGION START -->
 # The Journal of Portfolio Management
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/bhansali-2018-right-tail-hedging|Right Tail Hedging: Managing Risk When Markets Melt Up]]
+<!-- AUTHORED REGION END -->

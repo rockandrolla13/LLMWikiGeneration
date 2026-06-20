@@ -14,10 +14,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: Steve Caprio
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 21a4b285-465d-55a0-96d4-a79b0b2e43c5
+content_hash: sha256:d73e96107824ecb6501d3b662035a678fe96205e03af71f38722816c5377911f
 ---
 
+<!-- AUTHORED REGION START -->
 # Steve Caprio
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/caprio-2026-steady-but-ai|2026: Steady, but AI & the Hawks are Circling (Software)]]
+<!-- AUTHORED REGION END -->

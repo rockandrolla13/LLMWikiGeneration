@@ -17,10 +17,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Robert C. Merton
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c17bbb39-3bb2-59a9-8abf-3dac61823a12
+content_hash: sha256:771d3f41fc54448759e1ae22158e7396fa7cfb5d42f7cc6ae3281efa8454092a
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert C. Merton
 
 ## Overview
@@ -33,3 +37,4 @@ updated_by: creditmacro-batch
 - [[sources/bhansali-2018-right-tail-hedging|Right Tail Hedging: Managing Risk When Markets Melt Up]]
 - [[sources/collin-dufresne-2001-determinants-credit-spread-changes|The Determinants of Credit Spread Changes]]
 - [[sources/kapadia-2012-limited-arbitrage-equity-credit|Limited arbitrage between equity and credit markets]]
+<!-- AUTHORED REGION END -->

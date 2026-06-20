@@ -4,14 +4,31 @@ page_id: entities/yaniv-romano
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-04-26T12:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [researcher, conformal-prediction, uncertainty-quantification, statistics, machine-learning]
-sources: [sources/zaffran-2023-conformal-missing, sources/romano-2019-cqr, sources/romano-2020-aps]
-related: [concepts/conformal-prediction, concepts/conformalized-quantile-regression, concepts/coverage-guarantee, entities/margaux-zaffran, entities/emmanuel-candes]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- uncertainty-quantification
+- statistics
+- machine-learning
+sources:
+- sources/zaffran-2023-conformal-missing
+- sources/romano-2019-cqr
+- sources/romano-2020-aps
+related:
+- concepts/conformal-prediction
+- concepts/conformalized-quantile-regression
+- concepts/coverage-guarantee
+- entities/margaux-zaffran
+- entities/emmanuel-candes
 mind_map_priority: high
+schema_version: 2
+uuid: f6bd96d3-7f99-5214-bbd0-df48ce5fe60f
+content_hash: sha256:78589fad61fb19816ac9d767bb026c602b9665c47ae348bda7936b5b64462308
 ---
 
+<!-- AUTHORED REGION START -->
 # Yaniv Romano
 
 **Yaniv Romano** is a leading researcher in [[concepts/conformal-prediction|conformal prediction]] and [[concepts/uncertainty-quantification|uncertainty quantification]], known for developing Conformalized Quantile Regression (CQR) and extending conformal methods to complex real-world settings.
@@ -63,3 +80,5 @@ Romano, Barber, Sabatti & Candès (2020) developed methods for achieving equaliz
 - [[concepts/conformalized-quantile-regression|Conformalized Quantile Regression]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
+
+<!-- AUTHORED REGION END -->

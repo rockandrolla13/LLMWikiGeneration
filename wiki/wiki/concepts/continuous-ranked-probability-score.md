@@ -17,10 +17,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Continuous Ranked Probability Score (CRPS)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: faf453b0-641e-5797-a8ae-5cd4283d4913
+content_hash: sha256:9703f529bc1f082d3dc334e24c0cc1b7262031fc777971e7a6a16b22c0f25b6c
 ---
 
+<!-- AUTHORED REGION START -->
 # Continuous Ranked Probability Score (CRPS)
 
 ## Definition
@@ -37,3 +41,4 @@ A strictly proper score for predictive CDFs equal to the integral of Brier score
 - [[concepts/energy-score|energy-score]]
 - [[concepts/ranked-probability-score|ranked-probability-score]]
 - [[concepts/uncertainty-quantification|uncertainty-quantification]]
+<!-- AUTHORED REGION END -->

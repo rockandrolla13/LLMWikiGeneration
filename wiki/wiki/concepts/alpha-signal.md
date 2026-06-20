@@ -16,10 +16,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Alpha (Predictive Trading Signal)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7d8100da-2c87-5f7c-9b73-ae24febe9d3e
+content_hash: sha256:f40daf2b847f3f37e6d7aee53be08767888a5b1a21ce8b200c8663f097b24f6f
 ---
 
+<!-- AUTHORED REGION START -->
 # Alpha (Predictive Trading Signal)
 
 ## Definition
@@ -35,3 +39,4 @@ An automated predictive model - a math/code expression of a hypothesis about mar
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

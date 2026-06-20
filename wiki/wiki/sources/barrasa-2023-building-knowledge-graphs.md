@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Jesus Barrasa
@@ -43,8 +43,12 @@ related:
 - entities/wordnet
 mind_map_priority: medium
 revision_hash: sha256:1846b6522a7dda48
+schema_version: 2
+uuid: 160876ba-683d-537a-a65d-02afea7bc0d5
+content_hash: sha256:00431e2b9f6fa3ad264cef4e858e68fea7977dcd8e6f13e4258867c2e877e38a
 ---
 
+<!-- AUTHORED REGION START -->
 # Building Knowledge Graphs
 *A Practitioner's Guide*
 
@@ -116,3 +120,5 @@ Software engineers, data engineers, data scientists, and solutions architects wh
 - [[entities/wordnet|WordNet]]
 - [[entities/spacy|spaCy]]
 - [[entities/rasa|Rasa]]
+
+<!-- AUTHORED REGION END -->

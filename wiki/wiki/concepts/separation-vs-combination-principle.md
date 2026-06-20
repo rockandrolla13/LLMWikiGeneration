@@ -13,10 +13,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Separation vs Combination Principle
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b984d6cb-dd14-5c30-b5ab-96da39c6c46b
+content_hash: sha256:52065e77e34d1623cddf511fd4070e340972cb17396a95c3b40fd82d1697f2d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Separation vs Combination Principle
 
 ## Definition
@@ -26,3 +30,4 @@ The ECB's evolving doctrine: under 'separation' the rate stance was kept distinc
 ## Sources
 
 - [[sources/rostagno-2021-ecb-monetary-policy-crisis|Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank]]
+<!-- AUTHORED REGION END -->

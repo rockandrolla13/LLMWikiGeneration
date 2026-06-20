@@ -14,10 +14,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Composite Cyclical Indicators
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4b898dc7-98b1-548a-be77-ba0563186f90
+content_hash: sha256:b8ba3b38e3b9eb6ae57d245af67e204cad9b98f3cb59de2f0bb632417b5d1da8
 ---
 
+<!-- AUTHORED REGION START -->
 # Composite Cyclical Indicators
 
 ## Definition
@@ -31,3 +35,4 @@ Leading, coincidence, and lagging composite indices that summarize business-cycl
 ## Related Concepts
 
 - [[concepts/factor-models|factor-models]]
+<!-- AUTHORED REGION END -->

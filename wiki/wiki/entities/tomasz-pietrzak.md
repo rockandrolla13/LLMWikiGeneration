@@ -14,10 +14,14 @@ sources:
 - sources/ms-2011-11-28-europe-economics-recession-returns
 tags: []
 title: Tomasz Pietrzak
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1a102b5f-8126-55bd-a470-a439c1f01cd1
+content_hash: sha256:b417d3ad02d6b4829e9dcceec518f7045888405c7c666e009b729fd22a27457d
 ---
 
+<!-- AUTHORED REGION START -->
 # Tomasz Pietrzak
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2011-11-28-europe-economics-recession-returns|Europe Economics: Recession Returns]]
+<!-- AUTHORED REGION END -->

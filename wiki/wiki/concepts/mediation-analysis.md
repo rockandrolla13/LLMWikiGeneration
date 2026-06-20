@@ -16,10 +16,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Mediation Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 769526e9-d00a-5e10-b8e4-2ca421c39207
+content_hash: sha256:830805d8e21082c0406cd721b4829d2443f1fc29d6b16e1b698727bc73ccc8f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Mediation Analysis
 
 ## Definition
@@ -35,3 +39,4 @@ Decomposition of a causal effect into direct and indirect (mediator-routed) comp
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/four-way-effect-decomposition|four-way-effect-decomposition]]
+<!-- AUTHORED REGION END -->

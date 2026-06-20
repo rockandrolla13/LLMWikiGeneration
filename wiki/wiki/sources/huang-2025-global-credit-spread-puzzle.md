@@ -1,16 +1,32 @@
 ---
-title: "The Global Credit Spread Puzzle"
+title: The Global Credit Spread Puzzle
 page_id: sources/huang-2025-global-credit-spread-puzzle
 page_type: source
-created: 2026-04-26T01:45:00Z
-updated: 2026-04-26T01:45:00Z
-tags: [credit-spreads, structural-models, liquidity, corporate-bonds, merton-model]
-authors: [Jing-Zhi Huang, Yoshio Nozawa, Zhan Shi]
+created: 2026-04-26 01:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- credit-spreads
+- structural-models
+- liquidity
+- corporate-bonds
+- merton-model
+authors:
+- Jing-Zhi Huang
+- Yoshio Nozawa
+- Zhan Shi
 year: 2025
 journal: Journal of Finance
-related: [concepts/credit-spread-puzzle, concepts/structural-models, concepts/bond-liquidity, entities/jing-zhi-huang]
+related:
+- concepts/credit-spread-puzzle
+- concepts/structural-models
+- concepts/bond-liquidity
+- entities/jing-zhi-huang
+schema_version: 2
+uuid: a68d4f55-f754-55e2-9e1e-94ed405f045c
+content_hash: sha256:7d2762c19da186cfb6811958866484b2e5e4ee723c0dcf81b591cb09c39436ce
 ---
 
+<!-- AUTHORED REGION START -->
 # The Global Credit Spread Puzzle
 
 ## Summary
@@ -52,3 +68,5 @@ This landmark paper examines whether structural models can predict credit spread
 
 - [[sources/dickerson-2023-bond-pitfalls|Dickerson et al. (2024)]] - microstructure issues
 - [[sources/feng-2025-predicting-bond-returns|Feng et al. (2025)]] - ML bond prediction
+
+<!-- AUTHORED REGION END -->

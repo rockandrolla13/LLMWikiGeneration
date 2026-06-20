@@ -16,10 +16,14 @@ sources:
 - sources/mercado-2015-taarss-flow-whisperer
 tags: []
 title: ETF Flow-Based Tactical Asset Allocation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1a09962e-447f-5c84-990d-23b90ac1bb02
+content_hash: sha256:bfc371b76c00b565f14beb4ce04f60d954c37e20df4e4d3bbcbf7e6da54a0cbb
 ---
 
+<!-- AUTHORED REGION START -->
 # ETF Flow-Based Tactical Asset Allocation
 
 ## Definition
@@ -35,3 +39,4 @@ A tactical allocation approach inferring investor asset-allocation preferences f
 - [[concepts/etf-flows|etf-flows]]
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/market-timing|market-timing]]
+<!-- AUTHORED REGION END -->

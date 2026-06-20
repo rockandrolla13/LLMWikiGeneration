@@ -24,10 +24,14 @@ sources: []
 tags: []
 title: 'Correction: Global Futures Rolls Report: Eurex Futures Rolls - Mar 19 / Jun
   19 Roll'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_29f443fac943
+schema_version: 2
+uuid: fa50cafa-45c7-51b5-b225-b294d4ea3c47
+content_hash: sha256:21599dcae8db5b2ac701abeec2b53e34f1a437c5a8d3b078a9fa9d30a25470dc
 ---
 
+<!-- AUTHORED REGION START -->
 # Correction: Global Futures Rolls Report: Eurex Futures Rolls - Mar 19 / Jun 19 Roll
 
 **Authors:** Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -59,3 +63,4 @@ A Global Bond Futures Strategy note presenting views on Eurex futures contract r
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Bond Futures Strategy — Correction Global Futures Rolls Report Eurex Futures Rolls - Mar 19 Jun 19 Roll - 2019-02-13.md`
 - **Type:** article
 - **Hash:** `sha256:49369714d3875eea4...`
+<!-- AUTHORED REGION END -->

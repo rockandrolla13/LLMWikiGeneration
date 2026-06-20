@@ -1,20 +1,43 @@
 ---
-title: "Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond"
+title: 'Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents,
+  and Beyond'
 page_id: sources/yegge-2025-vibe-coding
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_6_2026_06_19
-tags: [vibe-coding, agentic-coding, llm-agents, generative-ai, software-engineering, developer-productivity, ai-assisted-development, dora-metrics, context-window, multi-agent-systems, model-context-protocol, devops, coding-agents, software-delivery, future-of-work]
-sources: [sources/yegge-2025-vibe-coding]
+tags:
+- vibe-coding
+- agentic-coding
+- llm-agents
+- generative-ai
+- software-engineering
+- developer-productivity
+- ai-assisted-development
+- dora-metrics
+- context-window
+- multi-agent-systems
+- model-context-protocol
+- devops
+- coding-agents
+- software-delivery
+- future-of-work
+sources:
+- sources/yegge-2025-vibe-coding
 related: []
 mind_map_priority: high
-authors: ["Gene Kim", "Steve Yegge"]
+authors:
+- Gene Kim
+- Steve Yegge
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 7fbc4df1-8320-5d2b-b2d4-05225c7bfe7a
+content_hash: sha256:15ed536755c4c79976be1285678d5ad8b86992b20e4ebbac2311d19d2eb9d730
 ---
 
+<!-- AUTHORED REGION START -->
 # Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond
 
 **Authors:** Gene Kim, Steve Yegge  
@@ -81,3 +104,5 @@ Vibe Coding, authored by Gene Kim and Steve Yegge with a foreword by Anthropic C
 - How should developers manage and mitigate reward hacking and context saturation in long-running agentic sessions without reverting to manual supervision that negates productivity gains?
 - What new computer science curriculum changes are necessary to prepare students for a world where directing AI agents is the primary skill rather than syntax fluency or algorithm memorization?
 - Is software development a reliable 'leading indicator' for AI's broader impact on knowledge work, or is its digital-native, easily-sandboxed nature too atypical to generalise to science, medicine, or law?
+
+<!-- AUTHORED REGION END -->

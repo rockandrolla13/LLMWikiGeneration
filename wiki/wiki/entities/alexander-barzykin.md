@@ -1,15 +1,29 @@
 ---
-title: "Alexander Barzykin"
+title: Alexander Barzykin
 page_id: entities/alexander-barzykin
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [practitioner, market-making, fx, quantitative-finance, hsbc]
-affiliations: [HSBC]
-related: [entities/olivier-gueant, entities/philippe-bergault, concepts/market-making, concepts/internalization-externalization]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- practitioner
+- market-making
+- fx
+- quantitative-finance
+- hsbc
+affiliations:
+- HSBC
+related:
+- entities/olivier-gueant
+- entities/philippe-bergault
+- concepts/market-making
+- concepts/internalization-externalization
+schema_version: 2
+uuid: d6587d09-3339-5c59-8772-b94ab77ade61
+content_hash: sha256:1cf4457c4ffffbc9653529aae5b6624fdde8f4f075270220f5a255440427ba28
 ---
 
+<!-- AUTHORED REGION START -->
 # Alexander Barzykin
 
 ## Overview
@@ -54,3 +68,5 @@ Academic partners:
 
 - Email: alexander.barzykin@hsbc.com
 - Institution: HSBC, 8 Canada Square, Canary Wharf, London E14 5HQ, United Kingdom
+
+<!-- AUTHORED REGION END -->

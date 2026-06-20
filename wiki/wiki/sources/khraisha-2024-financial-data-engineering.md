@@ -1,20 +1,43 @@
 ---
-title: "Financial Data Engineering: Design and Build Data-Driven Financial Products"
+title: 'Financial Data Engineering: Design and Build Data-Driven Financial Products'
 page_id: sources/khraisha-2024-financial-data-engineering
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [financial-data-engineering, data-engineering, finance, data-governance, data-pipelines, databases, cloud-computing, machine-learning, big-data, regulatory-compliance, python, sql, postgresql, oreilly, 2024, practitioner-guide, fintech]
-sources: [sources/khraisha-2024-financial-data-engineering]
+tags:
+- financial-data-engineering
+- data-engineering
+- finance
+- data-governance
+- data-pipelines
+- databases
+- cloud-computing
+- machine-learning
+- big-data
+- regulatory-compliance
+- python
+- sql
+- postgresql
+- oreilly
+- 2024
+- practitioner-guide
+- fintech
+sources:
+- sources/khraisha-2024-financial-data-engineering
 related: []
 mind_map_priority: high
-authors: ["Tamer Khraisha"]
+authors:
+- Tamer Khraisha
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 8707400e-fa9d-5fbf-b7ab-c9924c9c1439
+content_hash: sha256:adb3d0a08e44b0ce99f76628470ac79dbae19989f6db542112f8842c49253a33
 ---
 
+<!-- AUTHORED REGION START -->
 # Financial Data Engineering: Design and Build Data-Driven Financial Products
 
 **Authors:** Tamer Khraisha  
@@ -96,3 +119,5 @@ Financial Data Engineering: Design and Build Data-Driven Financial Products (O'R
 - What specific regulatory frameworks (e.g., MiFID II, Basel III, GDPR) are covered in the data governance chapter?
 - How does the book differentiate financial data engineering from financial ML engineering or quant development roles?
 - Does the book cover real-time/streaming data pipelines for market data, or primarily batch processing?
+
+<!-- AUTHORED REGION END -->

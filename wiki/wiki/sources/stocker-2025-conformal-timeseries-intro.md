@@ -1,49 +1,63 @@
 ---
-title: "A Gentle Introduction to Conformal Time Series Forecasting"
+title: A Gentle Introduction to Conformal Time Series Forecasting
 page_id: sources/stocker-2025-conformal-timeseries-intro
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-authors: ["M. Stocker", "Wiktoria Małgorzewicz", "Matteo Fontana", "Souhaib Ben Taieb"]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- M. Stocker
+- Wiktoria Małgorzewicz
+- Matteo Fontana
+- Souhaib Ben Taieb
 year: 2025
-venue: "arXiv:2511.13608"
-tags: [conformal-prediction, time-series, forecasting, tutorial, review, non-exchangeability, beta-mixing]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/adaptive-conformal-inference,
-  concepts/exchangeability,
-  concepts/prediction-intervals,
-  concepts/coverage-guarantee,
-  concepts/conditional-validity,
-  concepts/spci,
-  concepts/beta-mixing,
-  concepts/uncertainty-quantification,
-  concepts/conformalized-quantile-regression,
-  concepts/distributional-conformal-prediction,
-  concepts/distribution-drift,
-  concepts/weighted-conformal-prediction,
-  concepts/enbpi,
-  concepts/block-conformal-prediction,
-  concepts/agaci,
-  concepts/conformal-pid-control,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  concepts/nonconformity-score,
-  entities/m-stocker,
-  entities/wiktoria-malgorzewicz,
-  entities/matteo-fontana,
-  entities/souhaib-ben-taieb,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/zaffran-2022-aci,
-  sources/xu-2022-spci,
-  sources/xu-2023-enbpi
-]
+venue: arXiv:2511.13608
+tags:
+- conformal-prediction
+- time-series
+- forecasting
+- tutorial
+- review
+- non-exchangeability
+- beta-mixing
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/exchangeability
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
+- concepts/conditional-validity
+- concepts/spci
+- concepts/beta-mixing
+- concepts/uncertainty-quantification
+- concepts/conformalized-quantile-regression
+- concepts/distributional-conformal-prediction
+- concepts/distribution-drift
+- concepts/weighted-conformal-prediction
+- concepts/enbpi
+- concepts/block-conformal-prediction
+- concepts/agaci
+- concepts/conformal-pid-control
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- concepts/nonconformity-score
+- entities/m-stocker
+- entities/wiktoria-malgorzewicz
+- entities/matteo-fontana
+- entities/souhaib-ben-taieb
+- sources/angelopoulos-2022-gentle-intro
+- sources/zaffran-2022-aci
+- sources/xu-2022-spci
+- sources/xu-2023-enbpi
 mind_map_priority: high
+schema_version: 2
+uuid: 8935d74c-01d3-570a-9fc8-b9afcc7a642a
+content_hash: sha256:e1925d37f48953750f62651ea67a7b39cc3c4f70a9322d67d4da634a3311bd25
 ---
 
+<!-- AUTHORED REGION START -->
 # A Gentle Introduction to Conformal Time Series Forecasting
 
 **Authors:** [[entities/m-stocker|M. Stocker]], [[entities/wiktoria-malgorzewicz|Wiktoria Małgorzewicz]], [[entities/matteo-fontana|Matteo Fontana]], [[entities/souhaib-ben-taieb|Souhaib Ben Taieb]]
@@ -108,3 +122,5 @@ This is the **time-series-specific companion** to [[sources/angelopoulos-2022-ge
 - [[concepts/enbpi]]
 - [[concepts/weighted-conformal-prediction]]
 - [[concepts/block-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

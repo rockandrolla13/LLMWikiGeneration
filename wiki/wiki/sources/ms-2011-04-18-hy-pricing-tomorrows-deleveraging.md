@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Weekly Credit Wrap: High Yield — Pricing Tomorrow''s Deleveraging Today'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7c601c38f3b6
+schema_version: 2
+uuid: 2d9447be-4f2c-5eb2-94e4-d6bfe4c60aa5
+content_hash: sha256:db3949512cb98f026a923e229b7e49538a5583f4bc9b1344412b71b20bd7a446
 ---
 
+<!-- AUTHORED REGION START -->
 # Weekly Credit Wrap: High Yield — Pricing Tomorrow's Deleveraging Today
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -65,3 +69,4 @@ This Weekly Credit Wrap reviews European high yield fundamentals, finding that a
 - **Path:** `raw/creditmacro/Morgan Stanley - Fixed Income Research - 2011-04-18.md`
 - **Type:** article
 - **Hash:** `sha256:bffa8843d802e065c...`
+<!-- AUTHORED REGION END -->

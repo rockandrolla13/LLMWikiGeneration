@@ -1,17 +1,38 @@
 ---
-title: "Conformal Prediction with Tukey g-h Transformation"
+title: Conformal Prediction with Tukey g-h Transformation
 page_id: analyses/conformal-tukey-gh-intervals
 page_type: analysis
 revision_id: 3
-created: 2026-04-26T03:30:00Z
-updated: 2026-05-15T00:00:00Z
-tags: [conformal-prediction, tukey-gh, prediction-intervals, heavy-tails, uncertainty-quantification, research-idea]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/technical-2025-bond-similarity, sources/peters-2026-quantile-diffusions]
-related: [concepts/conformal-prediction, concepts/tukey-gh-transformation, concepts/prediction-intervals, concepts/coverage-guarantee, concepts/uncertainty-quantification, concepts/conformalized-quantile-regression, entities/gareth-peters]
+created: 2026-04-26 03:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- tukey-gh
+- prediction-intervals
+- heavy-tails
+- uncertainty-quantification
+- research-idea
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/technical-2025-bond-similarity
+- sources/peters-2026-quantile-diffusions
+related:
+- concepts/conformal-prediction
+- concepts/tukey-gh-transformation
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
+- concepts/uncertainty-quantification
+- concepts/conformalized-quantile-regression
+- entities/gareth-peters
 mind_map_priority: high
 status: active-research
+schema_version: 2
+uuid: 00c44128-e5f8-5ba5-8e68-af5273caba31
+content_hash: sha256:617d42e8357c2843e7155bcee2feda645a44453598b45e1d3ea6403e40aaa87c
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction with Tukey g-h Transformation
 
 This analysis explores combining [[concepts/conformal-prediction|conformal prediction]] with [[concepts/tukey-gh-transformation|Tukey g-h transformation]] to produce calibrated, efficient prediction intervals for non-Gaussian data.
@@ -477,3 +498,5 @@ Combining conformal prediction with Tukey g-h transformation offers a principled
 - **2026-05-15 (v3)**: Added "Continuous-Time Foundation (Peters 2026)" section covering PIT bridge, three integration points (random-level/function-valued/copula invariance), key theorems (2.1, 2.4, 2.6), and VaR/TVaR connections
 - **2026-04-26 (v2)**: Added Key Research Questions, Research Directions, Proposed Experiments sections based on ideation analysis
 - **2026-04-26 (v1)**: Initial analysis exploring g-h + conformal combination
+
+<!-- AUTHORED REGION END -->

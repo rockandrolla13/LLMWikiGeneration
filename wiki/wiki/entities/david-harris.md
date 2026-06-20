@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 tags: []
 title: David Harris
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3016c6fe-cd0d-5325-a03a-bc4b23181d74
+content_hash: sha256:2981fde4b4828c0031760c931444ee4d64d874501050e5609d0c92c81384ac7e
 ---
 
+<!-- AUTHORED REGION START -->
 # David Harris
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-01-25-treasury-market-commentary|Treasury Market Commentary, January 25]]
 - [[sources/ms-2019-02-15-govt-bond-auction-pipeline|Government Bond Auction Pipeline | The Month Ahead]]
 - [[sources/ms-2019-05-17-tariffs-government-bonds|For Whom the Tariffs Toll]]
+<!-- AUTHORED REGION END -->

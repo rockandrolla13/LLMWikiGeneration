@@ -32,10 +32,14 @@ source_type: paper
 sources: []
 tags: []
 title: Bayesian Nonparametric Modeling for Causal Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_02ab320de22d
+schema_version: 2
+uuid: c8098c38-f51a-5f93-a0d3-6235e034aaf3
+content_hash: sha256:59772e2ae900a1c3f90d560141fe7ad2cae961ac80389061c7942e84935990e4
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Nonparametric Modeling for Causal Inference
 
 **Authors:** Jennifer L. Hill · **Year:** 2011 · **Venue:** Journal of Computational and Graphical Statistics · **Type:** paper
@@ -92,3 +96,4 @@ Using simulations built on real covariate data from the Infant Health and Develo
 - **Path:** `raw/causality-testing/Bayesian Nonparametric Modeling for Causal Inference.pdf`
 - **Type:** paper
 - **Hash:** `sha256:ecf024dd367bdb3bc...`
+<!-- AUTHORED REGION END -->

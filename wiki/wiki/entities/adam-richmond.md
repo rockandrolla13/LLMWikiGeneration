@@ -22,10 +22,14 @@ sources:
 - sources/ms-2019-04-12-meet-in-the-middle
 tags: []
 title: Adam S Richmond
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 86c265fa-31d1-57b1-b0a0-98b4f58521e5
+content_hash: sha256:2eb43185b3ee452ae2ff48e2241756c82332071b268e23982f12ab1292180f38
 ---
 
+<!-- AUTHORED REGION START -->
 # Adam S Richmond
 
 ## Overview
@@ -43,3 +47,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-03-15-4q18-credit-fundamentals|4Q18 US Credit Fundamental Review]]
 - [[sources/ms-2019-03-22-high-yield-hedge|A High Yield Hedge]]
 - [[sources/ms-2019-04-12-meet-in-the-middle|Corporate Credit Research: Meet in the Middle]]
+<!-- AUTHORED REGION END -->

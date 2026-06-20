@@ -49,10 +49,14 @@ tags:
 - quantitative-easing
 title: 'Monetary Policy in Times of Crisis: A Tale of Two Decades of the European
   Central Bank'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_bc5afc77bdfe
+schema_version: 2
+uuid: 5596f312-1292-5a1a-9d21-131524347790
+content_hash: sha256:ccf3d12dfb3ea7179d72a7ddd40b31598a69cbe62ab02620de5af60260d37c7f
 ---
 
+<!-- AUTHORED REGION START -->
 # Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank
 
 **Authors:** Massimo Rostagno, Carlo Altavilla, Giacomo Carboni, Wolfgang Lemke, Roberto Motto, Arthur Saint Guilhem, Jonathan Yiangou · **Year:** 2021 · **Venue:** Oxford University Press · **Type:** book
@@ -104,3 +108,4 @@ Written by seven ECB economists, this volume narrates the first two decades of E
 - **Path:** `raw/creditmacro/Monetary Policy in Times of Crisis A Tale of Two Decades of the European Central Bank (Massimo Rostagno, Carlo Altavilla etc.) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:69617b8b2802422bb...`
+<!-- AUTHORED REGION END -->

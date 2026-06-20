@@ -20,10 +20,14 @@ sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []
 title: Backtesting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bbc9c9ed-87ac-53de-97f0-8ae0b892d1b6
+content_hash: sha256:baa18806fa962b51416088f96253829c3d513a8fb31e90df68df7f33897058da
 ---
 
+<!-- AUTHORED REGION START -->
 # Backtesting
 
 ## Definition
@@ -43,3 +47,4 @@ Simulating a trading strategy over historical data to estimate performance, here
 - [[concepts/look-ahead-bias|look-ahead-bias]]
 - [[concepts/look-ahead-bias-data-mining|look-ahead-bias-data-mining]]
 - [[concepts/overfitting-in-alpha-research|overfitting-in-alpha-research]]
+<!-- AUTHORED REGION END -->

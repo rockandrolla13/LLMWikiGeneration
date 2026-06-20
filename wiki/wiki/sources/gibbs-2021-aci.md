@@ -1,33 +1,44 @@
 ---
-title: "Adaptive Conformal Inference Under Distribution Shift"
+title: Adaptive Conformal Inference Under Distribution Shift
 page_id: sources/gibbs-2021-aci
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Isaac Gibbs", "Emmanuel J. Candès"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Isaac Gibbs
+- Emmanuel J. Candès
 year: 2021
-venue: "NeurIPS 2021 (arXiv:2106.00170)"
-tags: [conformal-prediction, adaptive-conformal-inference, distribution-shift, online-learning, time-series, volatility-forecasting]
-related: [
-  concepts/adaptive-conformal-inference,
-  concepts/online-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/distribution-drift,
-  concepts/marginal-coverage,
-  concepts/exchangeability,
-  entities/isaac-gibbs,
-  entities/emmanuel-candes,
-  sources/zaffran-2022-aci,
-  sources/gibbs-2024-online-aci,
-  sources/angelopoulos-2023-conformal-pid,
-  sources/xu-2023-enbpi,
-  sources/stocker-2025-conformal-timeseries-intro
-]
+venue: NeurIPS 2021 (arXiv:2106.00170)
+tags:
+- conformal-prediction
+- adaptive-conformal-inference
+- distribution-shift
+- online-learning
+- time-series
+- volatility-forecasting
+related:
+- concepts/adaptive-conformal-inference
+- concepts/online-conformal-prediction
+- concepts/conformal-prediction
+- concepts/distribution-drift
+- concepts/marginal-coverage
+- concepts/exchangeability
+- entities/isaac-gibbs
+- entities/emmanuel-candes
+- sources/zaffran-2022-aci
+- sources/gibbs-2024-online-aci
+- sources/angelopoulos-2023-conformal-pid
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
 mind_map_priority: high
+schema_version: 2
+uuid: 592fb37f-0470-56eb-a900-df3a45e5e0f9
+content_hash: sha256:8a99d8c017800363b20bee25606e5e0a527c7f090c0adb729b65b9a77997ff2b
 ---
 
+<!-- AUTHORED REGION START -->
 # Adaptive Conformal Inference Under Distribution Shift (ACI)
 
 **Authors:** [[entities/isaac-gibbs|Isaac Gibbs]], [[entities/emmanuel-candes|Emmanuel J. Candès]]
@@ -85,3 +96,5 @@ This paper launched the modern online / sequential branch of CP. The single-para
 - [[concepts/adaptive-conformal-inference]]
 - [[concepts/online-conformal-prediction]]
 - [[entities/isaac-gibbs]]
+
+<!-- AUTHORED REGION END -->

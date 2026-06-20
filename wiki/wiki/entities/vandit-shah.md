@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits
 tags: []
 title: Vandit D. Shah
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cdbf42fa-f704-5a75-a1c0-dcc9294c6f7f
+content_hash: sha256:b403b43852ab990a12431df52f670ceb481b24546cb181b072ab8663d1726d71
 ---
 
+<!-- AUTHORED REGION START -->
 # Vandit D. Shah
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits|EM Strategy Update: No Rush for the Exits]]
+<!-- AUTHORED REGION END -->

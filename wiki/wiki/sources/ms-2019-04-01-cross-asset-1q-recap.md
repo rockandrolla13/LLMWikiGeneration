@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global In the Flow: First Quarter Recap'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e7ca822b13c7
+schema_version: 2
+uuid: 4c608799-6949-5591-bd7a-502c6bea486d
+content_hash: sha256:10d4ab9927715d1415353e0bb4e405928e9b636d809644ed176027824b0afa34
 ---
 
+<!-- AUTHORED REGION START -->
 # Global In the Flow: First Quarter Recap
 
 **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -65,3 +69,4 @@ Morgan Stanley's cross-asset strategy team recaps a strong first quarter of 2019
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the Flow First Quarter Recap - 2019-04-01.md`
 - **Type:** article
 - **Hash:** `sha256:56b097cc9c86f3ed0...`
+<!-- AUTHORED REGION END -->

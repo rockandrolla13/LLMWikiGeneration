@@ -1,13 +1,27 @@
 ---
-title: "Graph Convolutional Networks"
+title: Graph Convolutional Networks
 page_id: concepts/graph-convolutional-networks
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [deep-learning, graphs, neural-networks, spectral-methods, semi-supervised-learning]
-related: [concepts/graph-neural-networks, concepts/graph-signal-processing, concepts/spectral-graph-filters, concepts/graph-laplacian, concepts/transductive-learning]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- deep-learning
+- graphs
+- neural-networks
+- spectral-methods
+- semi-supervised-learning
+related:
+- concepts/graph-neural-networks
+- concepts/graph-signal-processing
+- concepts/spectral-graph-filters
+- concepts/graph-laplacian
+- concepts/transductive-learning
+schema_version: 2
+uuid: c7ecd993-526b-5732-bcd5-870321aa831f
+content_hash: sha256:c51ddea7d13be2e4f0127d1e720c3d72823a36bb4d17e57d647b021636f4178b
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Convolutional Networks
 
 Graph Convolutional Networks (GCNs) are a foundational [[concepts/graph-neural-networks|graph neural network]] architecture that performs efficient spectral graph convolutions through a first-order approximation.
@@ -161,3 +175,5 @@ User-item graphs, collaborative filtering.
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/transductive-learning|Transductive Learning]]
 - [[concepts/graph-laplacian|Graph Laplacian]]
+
+<!-- AUTHORED REGION END -->

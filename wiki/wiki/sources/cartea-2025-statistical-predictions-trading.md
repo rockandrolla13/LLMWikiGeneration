@@ -1,21 +1,49 @@
 ---
-title: "Statistical Predictions of Trading Strategies in Electronic Markets"
+title: Statistical Predictions of Trading Strategies in Electronic Markets
 page_id: sources/cartea-2025-statistical-predictions-trading
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Alvaro Cartea, Samuel N. Cohen, Robert Graumans, Saad Labyad, Leandro Sanchez-Betancourt, Leon van Veldhuijzen]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Alvaro Cartea
+- Samuel N. Cohen
+- Robert Graumans
+- Saad Labyad
+- Leandro Sanchez-Betancourt
+- Leon van Veldhuijzen
 year: 2025
 venue: Journal of Financial Econometrics
-volume_issue_pages: "23(2), nbae025"
+volume_issue_pages: 23(2), nbae025
 doi: 10.1093/jjfinec/nbae025
-tags: [limit-order-book, algorithmic-trading, market-making, agent-based-models, trader-clustering]
-related: [concepts/limit-order-book, concepts/market-making, concepts/agent-based-models, concepts/algorithmic-trading, concepts/order-flow-prediction, concepts/trader-clustering, concepts/high-frequency-trading, entities/alvaro-cartea, entities/samuel-n-cohen, entities/leandro-sanchez-betancourt, entities/robert-graumans, entities/saad-labyad, entities/leon-van-veldhuijzen]
+tags:
+- limit-order-book
+- algorithmic-trading
+- market-making
+- agent-based-models
+- trader-clustering
+related:
+- concepts/limit-order-book
+- concepts/market-making
+- concepts/agent-based-models
+- concepts/algorithmic-trading
+- concepts/order-flow-prediction
+- concepts/trader-clustering
+- concepts/high-frequency-trading
+- entities/alvaro-cartea
+- entities/samuel-n-cohen
+- entities/leandro-sanchez-betancourt
+- entities/robert-graumans
+- entities/saad-labyad
+- entities/leon-van-veldhuijzen
 mind_map_priority: high
+schema_version: 2
+uuid: 5504be27-1952-525b-9846-52696df5328c
+content_hash: sha256:2faac26c3129bd44128d1fc677d1e71a9dd2f3fd43b9b57107520bfbe0e67dcb
 ---
 
+<!-- AUTHORED REGION START -->
 # Statistical Predictions of Trading Strategies in Electronic Markets
 
 **Authors:** [[entities/alvaro-cartea|Alvaro Cartea]], [[entities/samuel-n-cohen|Samuel N. Cohen]], [[entities/robert-graumans|Robert Graumans]], [[entities/saad-labyad|Saad Labyad]], [[entities/leandro-sanchez-betancourt|Leandro Sanchez-Betancourt]], [[entities/leon-van-veldhuijzen|Leon van Veldhuijzen]]
@@ -47,3 +75,5 @@ Uses a regulatory dataset from Euronext Amsterdam (with [[concepts/algorithmic-t
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

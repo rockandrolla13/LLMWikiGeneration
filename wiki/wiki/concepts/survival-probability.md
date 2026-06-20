@@ -18,9 +18,13 @@ tags:
 - fixed-income
 - probability
 title: Survival Probability
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 47bb07c2-8e8c-544d-af92-6f91bc893aca
+content_hash: sha256:5c32a738cc117126933c869c8af15495415ead55406611f73eafb812cf6903bf
 ---
 
+<!-- AUTHORED REGION START -->
 # Survival Probability
 
 Survival probability is the likelihood that a bond issuer (or any obligor) will not default by a given time horizon.
@@ -75,3 +79,4 @@ The survival probability curve $Q(t)$ defines the term structure of credit risk:
 
 - [[concepts/merton-model|merton-model]]
 - [[concepts/reduced-form-credit-models|reduced-form-credit-models]]
+<!-- AUTHORED REGION END -->

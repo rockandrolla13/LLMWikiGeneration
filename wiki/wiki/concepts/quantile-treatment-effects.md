@@ -15,10 +15,14 @@ sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []
 title: Quantile Treatment Effects
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: acae42cf-60e5-568a-a684-1dbab3e0262f
+content_hash: sha256:609117ec82565dcce42a4ac2c240f9fff94bfb7c75abc146540dd9d68e20bb2e
 ---
 
+<!-- AUTHORED REGION START -->
 # Quantile Treatment Effects
 
 ## Definition
@@ -33,3 +37,4 @@ Causal effects of treatment on the distribution of outcomes estimated via quanti
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/quantile-regression|quantile-regression]]
+<!-- AUTHORED REGION END -->

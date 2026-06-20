@@ -1,20 +1,43 @@
 ---
-title: "Multi-Agent Coordination: A Reinforcement Learning Approach"
+title: 'Multi-Agent Coordination: A Reinforcement Learning Approach'
 page_id: sources/sadhu-2024-multi-agent-coordination-rl
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_5_2026_06_19
-tags: [multi-agent-reinforcement-learning, q-learning, cooperative-robotics, path-planning, nash-equilibrium, correlated-equilibrium, evolutionary-algorithms, firefly-algorithm, imperialist-competitive-algorithm, game-theory, jadavpur-university, khepera-ii, multi-robot-coordination, trajectory-optimisation, ieee-press, wiley]
-sources: [sources/sadhu-2024-multi-agent-coordination-rl]
+tags:
+- multi-agent-reinforcement-learning
+- q-learning
+- cooperative-robotics
+- path-planning
+- nash-equilibrium
+- correlated-equilibrium
+- evolutionary-algorithms
+- firefly-algorithm
+- imperialist-competitive-algorithm
+- game-theory
+- jadavpur-university
+- khepera-ii
+- multi-robot-coordination
+- trajectory-optimisation
+- ieee-press
+- wiley
+sources:
+- sources/sadhu-2024-multi-agent-coordination-rl
 related: []
 mind_map_priority: high
-authors: ["Arup Kumar Sadhu", "Amit Konar"]
+authors:
+- Arup Kumar Sadhu
+- Amit Konar
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 34db0f01-a622-5ca2-9223-4de480d358f6
+content_hash: sha256:c94864ea88721e8d18b5fc97e1fd4e53dbc9ef1deddf7762f722325f103b3818
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-Agent Coordination: A Reinforcement Learning Approach
 
 **Authors:** Arup Kumar Sadhu, Amit Konar  
@@ -99,3 +122,5 @@ Book: "Multi-Agent Coordination: A Reinforcement Learning Approach" by Arup Kuma
 - What is the empirical ceiling on the number of agents before the feasible joint-state constraint (Chapter 4) becomes intractable?
 - Does the consensus condition (CoQL) always exist when more than two equilibrium types are present?
 - How sensitive is ICFA performance to the random-walk step-size modulation heuristic?
+
+<!-- AUTHORED REGION END -->

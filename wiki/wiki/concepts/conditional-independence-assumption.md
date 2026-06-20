@@ -15,10 +15,14 @@ sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []
 title: Conditional Independence Assumption
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4a78b6e2-7f23-5149-8bb3-d157fa702077
+content_hash: sha256:59c3fe0a106c640acac2b4b2f19862394ebf7282ff5c56f30072cebff058b976
 ---
 
+<!-- AUTHORED REGION START -->
 # Conditional Independence Assumption
 
 ## Definition
@@ -33,3 +37,4 @@ The selection-on-observables condition under which, conditional on covariates, t
 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

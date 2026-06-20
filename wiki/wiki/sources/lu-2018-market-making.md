@@ -1,19 +1,36 @@
 ---
-title: "Order-book modelling and market making strategies"
+title: Order-book modelling and market making strategies
 page_id: sources/lu-2018-market-making
 page_type: source
 source_type: preprint
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Xiaofei Lu, Frederic Abergel]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Xiaofei Lu
+- Frederic Abergel
 year: 2018
 venue: arXiv preprint
-tags: [market-making, limit-order-book, queue-reactive-model, non-markovian, high-frequency-trading, backtesting]
-related: [concepts/limit-order-book, concepts/market-making, concepts/queue-reactive-model, sources/abergel-2017-algorithmic-trading-lob, entities/frederic-abergel]
+tags:
+- market-making
+- limit-order-book
+- queue-reactive-model
+- non-markovian
+- high-frequency-trading
+- backtesting
+related:
+- concepts/limit-order-book
+- concepts/market-making
+- concepts/queue-reactive-model
+- sources/abergel-2017-algorithmic-trading-lob
+- entities/frederic-abergel
 mind_map_priority: high
+schema_version: 2
+uuid: 0a722ec4-7085-5d7e-8ebc-ca678345eefe
+content_hash: sha256:80507edb21d7a72c63200bb68cf4a07103afd0286020faebfce1c2153075cc1a
 ---
 
+<!-- AUTHORED REGION START -->
 # Order-book Modelling and Market Making Strategies
 
 **Authors:** Xiaofei Lu, Frederic Abergel
@@ -79,3 +96,5 @@ This paper addresses the gap between theoretical optimal market-making strategie
 - [[concepts/market-making|Market Making]]
 - [[concepts/queue-reactive-model|Queue-Reactive Model]]
 - [[sources/abergel-2017-algorithmic-trading-lob|Abergel et al. (2017) Algorithmic Trading]]
+
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []
 title: Dennis Bams
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bde1b801-80d3-5196-8963-fe763090a254
+content_hash: sha256:83892995f33dce50a929cdb273aad49f36988441048b73f070e6f3b0778eb065
 ---
 
+<!-- AUTHORED REGION START -->
 # Dennis Bams
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/bams-2003-risk-premia-term-structure-panel|Risk premia in the term structure of interest rates: a panel data approach]]
+<!-- AUTHORED REGION END -->

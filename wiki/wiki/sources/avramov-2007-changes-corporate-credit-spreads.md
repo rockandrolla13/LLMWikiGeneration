@@ -28,10 +28,14 @@ tags:
 - fixed-income
 - cover-page-only
 title: Understanding Changes in Corporate Credit Spreads
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9032b5354106
+schema_version: 2
+uuid: 42e01bdc-f323-5db2-b588-8cbcec5b2b09
+content_hash: sha256:eecd0b5ba186855013dc3c8f9721151f453cd337f75da88c3f279fe4ac1b211a
 ---
 
+<!-- AUTHORED REGION START -->
 # Understanding Changes in Corporate Credit Spreads
 
 **Authors:** Doron Avramov, Gergana Jostova, Alexander Philipov · **Year:** 2007 · **Venue:** Financial Analysts Journal, Vol. 63, No. 2 · **Type:** paper
@@ -60,3 +64,4 @@ This file is the JSTOR cover page only for the Financial Analysts Journal paper 
 - **Path:** `raw/creditmacro/Avramov-UnderstandingChangesCorporate-2007.md`
 - **Type:** paper
 - **Hash:** `sha256:80f67a97c586de228...`
+<!-- AUTHORED REGION END -->

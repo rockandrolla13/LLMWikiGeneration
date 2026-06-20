@@ -3,14 +3,29 @@ title: Nonconformity Score
 page_id: concepts/nonconformity-score
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, score-design, validity]
-sources: [sources/angelopoulos-2022-gentle-intro, sources/dieuleveut-zaffran-2025-cp-tutorial, sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/conformalized-quantile-regression, concepts/adaptive-prediction-sets, concepts/regularized-adaptive-prediction-sets]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- score-design
+- validity
+sources:
+- sources/angelopoulos-2022-gentle-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/conformalized-quantile-regression
+- concepts/adaptive-prediction-sets
+- concepts/regularized-adaptive-prediction-sets
 mind_map_priority: high
+schema_version: 2
+uuid: 2cfbdfe9-8d13-5a6e-becb-74dc344e78fa
+content_hash: sha256:2e1a405817364adb299a98b122a09dccd8bca00b4ecdb7e54a13f43dfbd2d3f8
 ---
 
+<!-- AUTHORED REGION START -->
 # Nonconformity Score
 
 A **nonconformity score** `s(x, y)` (or `s(x)` in unsupervised settings) is a function that measures how poorly a labelled point conforms to a calibration sample. [[concepts/conformal-prediction|Conformal prediction]]'s validity holds for **any** score, but score *design* determines set size, adaptivity, and shape.
@@ -60,3 +75,5 @@ The term descends from Kolmogorov-complexity randomness deficiency — measures 
 - [[concepts/split-conformal-prediction]]
 - [[concepts/conformalized-quantile-regression]]
 - [[concepts/adaptive-prediction-sets]]
+
+<!-- AUTHORED REGION END -->

@@ -28,10 +28,14 @@ source_type: article
 sources: []
 tags: []
 title: 4Q18 US Credit Fundamental Review
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_ce15d65d54a9
+schema_version: 2
+uuid: ddf40a3b-5743-5d4b-91c5-25c632fa7560
+content_hash: sha256:f8397807c26325d1fd6d91a35c8867d209b456dd43f546cabc640c5b2fea2c07
 ---
 
+<!-- AUTHORED REGION START -->
 # 4Q18 US Credit Fundamental Review
 
 **Authors:** Adam Richmond, Vishwas Patkar, Fred Fuchs, Felician Stratmann, Aleks Nozhnitskiy, Jingli Li · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A brief update on investment grade, high yield, and leveraged loan fundamentals 
 - **Path:** `raw/creditmacro/Morgan Stanley - Investment Grade — High Yield - 2019-03-15.md`
 - **Type:** article
 - **Hash:** `sha256:455df910ae0611280...`
+<!-- AUTHORED REGION END -->

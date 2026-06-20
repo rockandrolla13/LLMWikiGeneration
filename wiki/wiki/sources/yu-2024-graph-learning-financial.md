@@ -1,18 +1,31 @@
 ---
-title: "Graph Learning for Financial Networks (Yu 2024)"
+title: Graph Learning for Financial Networks (Yu 2024)
 page_id: sources/yu-2024-graph-learning-financial
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [financial-networks, graph-neural-networks, link-prediction, otc-markets, corporate-bonds]
-authors: [Shui Yu]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- financial-networks
+- graph-neural-networks
+- link-prediction
+- otc-markets
+- corporate-bonds
+authors:
+- Shui Yu
 year: 2024
 institution: Rutgers University
 degree: PhD
 supervisor: Xiaodong Lin
-related: [concepts/graph-neural-networks, concepts/graph-laplacian, sources/misiakos-2025-dag-tfrc]
+related:
+- concepts/graph-neural-networks
+- concepts/graph-laplacian
+- sources/misiakos-2025-dag-tfrc
+schema_version: 2
+uuid: e54ff6a7-6450-5de2-b44c-a7a4c24b6e48
+content_hash: sha256:a251bb8efc73184ed7926b269453ad48147aa096890718fad7e58c390d3c6a01
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Learning for Financial Networks
 
 **Author:** Shui Yu
@@ -115,3 +128,5 @@ This dissertation analyzes the over-the-counter (OTC) corporate bond dealer netw
 - [[concepts/graph-neural-networks|Graph Neural Networks]]
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/limit-order-book|Limit Order Book]]
+
+<!-- AUTHORED REGION END -->

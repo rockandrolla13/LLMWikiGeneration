@@ -13,9 +13,13 @@ tags:
 - regime-switching
 - hamilton
 title: Markov-Switching Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 17d6bfd2-9b55-5f31-bb05-2bee4a5bfad3
+content_hash: sha256:d2cacb412aaeee728f00fd140835dcc362a0f23a85245a71d74c19ad3610b78f
 ---
 
+<!-- AUTHORED REGION START -->
 # Markov-Switching Models
 
 **Markov-Switching Models** are Hamilton-type regime-switching models with discrete latent states governing parameters of an observed process; endogenous variants allow the transition probabilities to depend on covariates.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/hidden-markov-models|hidden-markov-models]]
+<!-- AUTHORED REGION END -->

@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Brief: Risk Parity — Worst Behind Us'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e7184f31a832
+schema_version: 2
+uuid: 451fb436-d50a-5cf2-9051-c229303da6b3
+content_hash: sha256:ecca3c149c2d7a91366c40fbeff5955d6d8fdc148f01c7b89b9d69e0cb864682
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Brief: Risk Parity — Worst Behind Us
 
 **Authors:** Phanikiran L Naraparaju, Wanting Low, Andrew Sheets, Serena W Tang, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -75,3 +79,4 @@ Morgan Stanley estimates that the March 2020 spike in cross-asset volatility and
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Brief — Risk Parity Worst Behind Us - 2020-03-20.md`
 - **Type:** article
 - **Hash:** `sha256:d813e6806ec6b8bdc...`
+<!-- AUTHORED REGION END -->

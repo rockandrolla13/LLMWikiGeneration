@@ -14,10 +14,14 @@ sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []
 title: Robert S. Goldstein
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 89159b66-668a-55e8-b172-ca680c014e62
+content_hash: sha256:f9c2c4879fcdaa10274171afe463de0536cb0743b9ed5fcd660431c8fa3cfb90
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert S. Goldstein
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/collin-dufresne-2001-determinants-credit-spread-changes|The Determinants of Credit Spread Changes]]
+<!-- AUTHORED REGION END -->

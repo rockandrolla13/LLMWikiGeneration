@@ -4,14 +4,27 @@ page_id: entities/sebastian-engelke
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [researcher, extreme-value-theory, statistics, flood-risk, graphical-models]
-sources: [sources/pasche-2025-extreme-conformal]
-related: [concepts/extreme-value-theory, concepts/generalized-pareto-distribution, entities/olivier-pasche]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- extreme-value-theory
+- statistics
+- flood-risk
+- graphical-models
+sources:
+- sources/pasche-2025-extreme-conformal
+related:
+- concepts/extreme-value-theory
+- concepts/generalized-pareto-distribution
+- entities/olivier-pasche
 mind_map_priority: medium
+schema_version: 2
+uuid: 5e4636d1-95df-594b-9fed-59e2cdb00e83
+content_hash: sha256:0abef14b747b24d0d9159c0e398510e9fa3c88ba7f1be9b02c45ff6f549f8d82
 ---
 
+<!-- AUTHORED REGION START -->
 # Sebastian Engelke
 
 **Sebastian Engelke** is a researcher at the Research Institute for Statistics and Information Science, University of Geneva, Switzerland, specializing in [[concepts/extreme-value-theory|extreme value theory]] and its applications to environmental risk assessment.
@@ -58,3 +71,5 @@ Swiss National Science Foundation Eccellenza Grant 186858.
 - [[concepts/extreme-value-theory|Extreme Value Theory]]
 - [[concepts/generalized-pareto-distribution|Generalized Pareto Distribution]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

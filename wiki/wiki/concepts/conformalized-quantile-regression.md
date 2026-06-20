@@ -3,14 +3,28 @@ title: Conformalized Quantile Regression
 page_id: concepts/conformalized-quantile-regression
 page_type: concept
 revision_id: 2
-created: 2026-04-26T12:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, quantile-regression, prediction-intervals, uncertainty-quantification]
-sources: [sources/romano-2019-cqr, sources/zaffran-2023-conformal-missing]
-related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/coverage-guarantee, entities/yaniv-romano]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- quantile-regression
+- prediction-intervals
+- uncertainty-quantification
+sources:
+- sources/romano-2019-cqr
+- sources/zaffran-2023-conformal-missing
+related:
+- concepts/conformal-prediction
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
+- entities/yaniv-romano
 mind_map_priority: high
+schema_version: 2
+uuid: b8c3b7d4-ba1e-5a41-987f-8e801a27241d
+content_hash: sha256:a3ef2f04f42f10376164add77bd72d490b2c2774700aaeaef1478a2a91175c95
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformalized Quantile Regression (CQR)
 
 ## Primary Source
@@ -149,3 +163,5 @@ If q̂_low(x) > q̂_upp(x) for some x, intervals can be invalid. Solutions:
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/mask-conditional-validity|Mask-Conditional Validity]]
 - [[entities/yaniv-romano|Yaniv Romano]]
+
+<!-- AUTHORED REGION END -->

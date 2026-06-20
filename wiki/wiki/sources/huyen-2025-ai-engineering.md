@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Chip Huyen
@@ -41,8 +41,12 @@ related:
 - entities/patrick-lewis
 mind_map_priority: medium
 revision_hash: sha256:aa134a902686eeab
+schema_version: 2
+uuid: f4d5140b-af2e-5854-ab96-ea5863d6cf04
+content_hash: sha256:15e54bca10eb752b4e1b8ebde405e14d322ebf336c30ad55a71b09250e50f695
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Engineering
 *Building Applications with Foundation Models*
 
@@ -114,3 +118,5 @@ AI/ML engineers and software engineers building production applications on top o
 - [[entities/llamaindex|LlamaIndex]]
 - [[entities/patrick-lewis|Patrick Lewis]]
 - [[entities/luke-metz|Luke Metz]]
+
+<!-- AUTHORED REGION END -->

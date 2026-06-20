@@ -1,14 +1,29 @@
 ---
-title: "Adverse Selection"
+title: Adverse Selection
 page_id: concepts/adverse-selection
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, information-asymmetry, trading, market-microstructure]
-sources: [sources/barzykin-2025-adverse-selection, sources/barzykin-2021-fx-dealer-tiers]
-related: [concepts/market-making, concepts/inventory-risk, concepts/client-tiering, concepts/limit-order-book, entities/olivier-gueant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- information-asymmetry
+- trading
+- market-microstructure
+sources:
+- sources/barzykin-2025-adverse-selection
+- sources/barzykin-2021-fx-dealer-tiers
+related:
+- concepts/market-making
+- concepts/inventory-risk
+- concepts/client-tiering
+- concepts/limit-order-book
+- entities/olivier-gueant
+schema_version: 2
+uuid: d728f155-d525-5123-8578-ca0abf6bbeec
+content_hash: sha256:4da0187e9d2cf0a791f8b25a3421bc602f44e472cd3fe217e2e1e442553b69fc
 ---
 
+<!-- AUTHORED REGION START -->
 # Adverse Selection
 
 ## Overview
@@ -144,3 +159,5 @@ From [[sources/barzykin-2021-fx-dealer-tiers]] (HSBC data):
 - [[concepts/internalization-externalization|Internalization vs Externalization]]
 - [[sources/barzykin-2025-adverse-selection|Barzykin et al. (2025)]]
 - [[sources/barzykin-2021-fx-dealer-tiers|Barzykin et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

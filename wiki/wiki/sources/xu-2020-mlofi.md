@@ -1,19 +1,38 @@
 ---
-title: "Multi-Level Order-Flow Imbalance in a Limit Order Book"
+title: Multi-Level Order-Flow Imbalance in a Limit Order Book
 page_id: sources/xu-2020-mlofi
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Ke Xu, Martin D. Gould, Sam D. Howison]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Ke Xu
+- Martin D. Gould
+- Sam D. Howison
 year: 2020
 venue: Market Microstructure and Liquidity
-tags: [order-flow-imbalance, limit-order-book, price-formation, market-microstructure, ridge-regression, nasdaq]
-related: [concepts/limit-order-book, concepts/order-flow, concepts/price-formation, concepts/market-microstructure, sources/gould-2016-long-memory-fx, entities/martin-gould]
+tags:
+- order-flow-imbalance
+- limit-order-book
+- price-formation
+- market-microstructure
+- ridge-regression
+- nasdaq
+related:
+- concepts/limit-order-book
+- concepts/order-flow
+- concepts/price-formation
+- concepts/market-microstructure
+- sources/gould-2016-long-memory-fx
+- entities/martin-gould
 mind_map_priority: high
+schema_version: 2
+uuid: 2658fd5b-92d5-5eaf-930a-9e1439509750
+content_hash: sha256:ae93adcb994c5580e24a7c92d3128303f517c89e22d1b31847f2241ed3bd767e
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-Level Order-Flow Imbalance in a Limit Order Book
 
 **Authors:** Ke Xu, Martin D. Gould, Sam D. Howison
@@ -120,3 +139,5 @@ Where e_n^m captures changes in queue sizes at level m
 - [[concepts/price-formation|Price Formation]]
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[sources/gould-2016-long-memory-fx|Gould et al. (2016) Long Memory in FX]]
+
+<!-- AUTHORED REGION END -->

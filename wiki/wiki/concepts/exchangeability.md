@@ -3,14 +3,26 @@ title: Exchangeability
 page_id: concepts/exchangeability
 page_type: concept
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-tags: [probability-theory, statistical-assumption, conformal-prediction]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/adaptive-conformal-inference]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- probability-theory
+- statistical-assumption
+- conformal-prediction
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/adaptive-conformal-inference
 mind_map_priority: medium
+schema_version: 2
+uuid: 35418050-4724-5618-87ec-ddcc9f49a5ad
+content_hash: sha256:c1d5fca19a74be6eb6717156026b8e558922340005f9a28c21c28a8796a85d57
 ---
 
+<!-- AUTHORED REGION START -->
 # Exchangeability
 
 **Exchangeability** is a probabilistic assumption that the joint distribution of a sequence of random variables is invariant to permutation. It is the key assumption underlying [[concepts/conformal-prediction|conformal prediction]].
@@ -55,3 +67,5 @@ Infinitely exchangeable sequences can be represented as mixtures of i.i.d. seque
 
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
+
+<!-- AUTHORED REGION END -->

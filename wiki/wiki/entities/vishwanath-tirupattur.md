@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-03-01-global-insights-polling
 tags: []
 title: Vishwanath Tirupattur
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: dca03661-51cd-5f6c-b8b8-27ebdb7e1b83
+content_hash: sha256:12d1d98cb64e493910212cb681ea1956c755fd2a01114268b873bceebdaaf304
 ---
 
+<!-- AUTHORED REGION START -->
 # Vishwanath Tirupattur
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2017-10-13-machine-learning-loan-mod-redefaults|MODs: Machine Learning on Drivers]]
 - [[sources/ms-2019-01-11-balance-sheet-normalization|Insight into the Balance Sheet]]
 - [[sources/ms-2019-03-01-global-insights-polling|Global Insights Day 2019 - Polling Results]]
+<!-- AUTHORED REGION END -->

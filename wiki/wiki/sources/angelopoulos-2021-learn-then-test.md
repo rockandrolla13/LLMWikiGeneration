@@ -1,33 +1,49 @@
 ---
-title: "Learn Then Test: Calibrating Predictive Algorithms to Achieve Risk Control"
+title: 'Learn Then Test: Calibrating Predictive Algorithms to Achieve Risk Control'
 page_id: sources/angelopoulos-2021-learn-then-test
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Anastasios N. Angelopoulos", "Stephen Bates", "Emmanuel J. Candès", "Michael I. Jordan", "Lihua Lei"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Anastasios N. Angelopoulos
+- Stephen Bates
+- Emmanuel J. Candès
+- Michael I. Jordan
+- Lihua Lei
 year: 2021
-venue: "arXiv:2110.01052"
-tags: [conformal-prediction, risk-control, multiple-hypothesis-testing, fwer, calibration, distribution-free, fdr-control, selective-classification]
-related: [
-  concepts/learn-then-test,
-  concepts/conformal-risk-control,
-  concepts/risk-controlling-prediction-sets,
-  concepts/conformal-prediction,
-  entities/anastasios-angelopoulos,
-  entities/stephen-bates,
-  entities/emmanuel-candes,
-  entities/michael-i-jordan,
-  entities/lihua-lei,
-  sources/bates-2021-rcps,
-  sources/angelopoulos-2021-raps,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/farinhas-2024-non-exchangeable-crc
-]
+venue: arXiv:2110.01052
+tags:
+- conformal-prediction
+- risk-control
+- multiple-hypothesis-testing
+- fwer
+- calibration
+- distribution-free
+- fdr-control
+- selective-classification
+related:
+- concepts/learn-then-test
+- concepts/conformal-risk-control
+- concepts/risk-controlling-prediction-sets
+- concepts/conformal-prediction
+- entities/anastasios-angelopoulos
+- entities/stephen-bates
+- entities/emmanuel-candes
+- entities/michael-i-jordan
+- entities/lihua-lei
+- sources/bates-2021-rcps
+- sources/angelopoulos-2021-raps
+- sources/angelopoulos-2022-gentle-intro
+- sources/farinhas-2024-non-exchangeable-crc
 mind_map_priority: high
+schema_version: 2
+uuid: cc98e547-9e13-579c-9cb6-ad2cf93ce060
+content_hash: sha256:316ef1d85b4f1acf956f89019d5316c89f287b5a2c45840db63dcb478f48e283
 ---
 
+<!-- AUTHORED REGION START -->
 # Learn Then Test (LTT)
 
 **Authors:** [[entities/anastasios-angelopoulos|Anastasios N. Angelopoulos]], [[entities/stephen-bates|Stephen Bates]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/michael-i-jordan|Michael I. Jordan]], [[entities/lihua-lei|Lihua Lei]]
@@ -81,3 +97,5 @@ The key step is **dropping monotonicity**. [[concepts/conformal-risk-control|Con
 - [[concepts/conformal-risk-control]]
 - [[concepts/risk-controlling-prediction-sets]]
 - [[entities/lihua-lei]]
+
+<!-- AUTHORED REGION END -->

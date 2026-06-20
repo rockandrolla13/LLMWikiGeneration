@@ -1,16 +1,32 @@
 ---
-title: "ETF Contraflow Strategy for Corporate Bonds"
+title: ETF Contraflow Strategy for Corporate Bonds
 page_id: analyses/etf-contraflow-corporate-bonds
 page_type: analysis
 revision_id: 1
-created: 2026-05-11T00:00:00Z
-updated: 2026-05-11T00:00:00Z
-tags: [etf-flows, corporate-bonds, mean-reversion, passive-investing, trading-strategy]
-sources: [sources/chao-2019-etf-flows-prices, sources/optiver-2025-corporate-bond-etf-contraflow, sources/petit-2025-data-driven-flow-etf]
-related: [concepts/etf-flows, concepts/flow-decomposition, concepts/index-reconstitution, concepts/mean-reversion]
+created: 2026-05-11 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- etf-flows
+- corporate-bonds
+- mean-reversion
+- passive-investing
+- trading-strategy
+sources:
+- sources/chao-2019-etf-flows-prices
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/petit-2025-data-driven-flow-etf
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
+- concepts/index-reconstitution
+- concepts/mean-reversion
 mind_map_priority: high
+schema_version: 2
+uuid: 693496c8-9a67-50af-add8-7511e1896c2d
+content_hash: sha256:9e8a9d8351a58b891017bba18212ca685586615b3789359f812b86c27641bf6d
 ---
 
+<!-- AUTHORED REGION START -->
 # ETF Contraflow Strategy for Corporate Bonds
 
 ## Overview
@@ -187,3 +203,5 @@ The contraflow signal is **ownership-based**, not price-based. This distinguishe
 - [[concepts/mean-reversion|Mean Reversion]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019)]]
 - [[sources/petit-2025-data-driven-flow-etf|Petit et al. (2025)]]
+
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ms-2020-03-29-full-court-policy-press
 tags: []
 title: 3D Challenge
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a7fa6e82-0fc1-5a0c-a8a9-9ee8f1bfedea
+content_hash: sha256:749c7a3135be78466eeff00c92e117c636715ce7e26c77c3a42622aada9392c4
 ---
 
+<!-- AUTHORED REGION START -->
 # 3D Challenge
 
 ## Definition
@@ -31,3 +35,4 @@ Morgan Stanley framework of demographics, debt and disinflation as structural po
 ## Related Concepts
 
 - [[concepts/quantitative-easing|quantitative-easing]]
+<!-- AUTHORED REGION END -->

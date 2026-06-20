@@ -1,15 +1,30 @@
 ---
-title: "Philippe Bergault"
+title: Philippe Bergault
 page_id: entities/philippe-bergault
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, market-making, stochastic-control, quantitative-finance]
-affiliations: [Université Paris Dauphine-PSL, CEREMADE, École Polytechnique]
-related: [entities/olivier-gueant, entities/alexander-barzykin, concepts/market-making, concepts/avellaneda-stoikov-model]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- market-making
+- stochastic-control
+- quantitative-finance
+affiliations:
+- Université Paris Dauphine-PSL
+- CEREMADE
+- École Polytechnique
+related:
+- entities/olivier-gueant
+- entities/alexander-barzykin
+- concepts/market-making
+- concepts/avellaneda-stoikov-model
+schema_version: 2
+uuid: ebbf8ec8-d3e5-52ff-861b-86a907f38b2e
+content_hash: sha256:1aa699a8fd7e859257641908c4da63f3d7ef97eb975aa78bc51f33198ed58866
 ---
 
+<!-- AUTHORED REGION START -->
 # Philippe Bergault
 
 ## Overview
@@ -56,3 +71,5 @@ Key collaborators:
 
 - Email: bergault@ceremade.dauphine.fr / philippe.bergault@polytechnique.edu
 - Institution: Université Paris Dauphine-PSL, CEREMADE, 75775 Paris Cedex 16, France
+
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: Risk-vs-Mispricing Debate
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cdbc4e75-fcfc-5784-b718-9a1181c31692
+content_hash: sha256:4d85109ff07087f4ea07c1cedbf2d57555faa425a611269eb6ccefbc37a76286
 ---
 
+<!-- AUTHORED REGION START -->
 # Risk-vs-Mispricing Debate
 
 ## Definition
@@ -33,3 +37,4 @@ The framework distinguishing rational risk compensation ('bad returns in bad tim
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/factor-models|factor-models]]
+<!-- AUTHORED REGION END -->

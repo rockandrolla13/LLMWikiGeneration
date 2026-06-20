@@ -32,9 +32,13 @@ tags:
 - market-microstructure
 - hft
 title: Algorithmic Trading
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: bb8a59fc-2ad7-53d4-9a4f-2a16b42366c8
+content_hash: sha256:6c613a5872f1232b096b804626a2ccc655572feea25fbde36aa79560f039aeb3
 ---
 
+<!-- AUTHORED REGION START -->
 # Algorithmic Trading
 
 **Algorithmic Trading** is the use of automated programs to submit, cancel, and amend orders in electronic markets; spans liquidity provision, opportunistic, and execution strategies with regulated dealing capacities.
@@ -50,3 +54,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]
+<!-- AUTHORED REGION END -->

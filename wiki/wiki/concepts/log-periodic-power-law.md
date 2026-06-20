@@ -14,10 +14,14 @@ sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []
 title: Log-Periodic Power Law Market Model
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d2a99c89-6045-5360-9c0f-d28e9e372560
+content_hash: sha256:2603634013dd5314c36619354271086542a3ea2b5ce7baf0bebca411e951ee49
 ---
 
+<!-- AUTHORED REGION START -->
 # Log-Periodic Power Law Market Model
 
 ## Definition
@@ -31,3 +35,4 @@ Sornette's model of speculative bubbles in which trader imitation produces log-p
 ## Related Concepts
 
 - [[concepts/bubble-detection|bubble-detection]]
+<!-- AUTHORED REGION END -->

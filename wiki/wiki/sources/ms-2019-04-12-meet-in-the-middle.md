@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Corporate Credit Research: Meet in the Middle'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9db3d21d97a0
+schema_version: 2
+uuid: e6d5ca10-b676-5c76-8909-43fb9fe6de59
+content_hash: sha256:81f8e26af40dbc93bbac4d5c821e5dbe83fd7e184a2c23a18c572819fed5104a
 ---
 
+<!-- AUTHORED REGION START -->
 # Corporate Credit Research: Meet in the Middle
 
 **Authors:** Adam S. Richmond, Vishwas Patkar, Felician G. Stratmann, Frederick T. Fuchs, Jingli Li, Aleksandr Nozhnitskiy · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley's credit team argues that short-duration investment grade has bec
 - **Path:** `raw/creditmacro/Morgan Stanley - Corporate Credit Research — Meet in the Middle - 2019-04-12.md`
 - **Type:** article
 - **Hash:** `sha256:bb97391c85744d5db...`
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Kevin Berk
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 475ed0c1-3e0d-5848-9b31-aea0fa4c85dd
+content_hash: sha256:30365e20fc920e18f7fd2db35366b6bbe00a174e7e821c24b270545702294bea
 ---
 
+<!-- AUTHORED REGION START -->
 # Kevin Berk
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ziel-2019-multivariate-forecasting-evaluation|Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules]]
+<!-- AUTHORED REGION END -->

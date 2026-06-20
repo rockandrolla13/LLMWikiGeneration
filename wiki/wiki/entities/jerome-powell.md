@@ -14,10 +14,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Jerome Powell
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8323bf6e-425f-56e8-9988-7308f28e8b9e
+content_hash: sha256:074253026931b76d251e9ea4a479ddd8659c4d87284a3e70c65c52721455b57e
 ---
 
+<!-- AUTHORED REGION START -->
 # Jerome Powell
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+<!-- AUTHORED REGION END -->

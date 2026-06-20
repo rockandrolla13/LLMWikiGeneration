@@ -3,14 +3,29 @@ title: Regularized Adaptive Prediction Sets (RAPS)
 page_id: concepts/regularized-adaptive-prediction-sets
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, classification, score-design, regularisation, large-class]
-sources: [sources/angelopoulos-2021-raps, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/adaptive-prediction-sets, concepts/split-conformal-prediction, concepts/nonconformity-score]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- classification
+- score-design
+- regularisation
+- large-class
+sources:
+- sources/angelopoulos-2021-raps
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-prediction-sets
+- concepts/split-conformal-prediction
+- concepts/nonconformity-score
 mind_map_priority: medium
+schema_version: 2
+uuid: 0fbf9383-0be1-5f7a-ba68-0e5470d7b790
+content_hash: sha256:4d5ed5c0a64945917780a8d473761213bd54288055f2ad0a5e9476c4f4a84155
 ---
 
+<!-- AUTHORED REGION START -->
 # Regularized Adaptive Prediction Sets (RAPS)
 
 ## Primary Source
@@ -52,3 +67,5 @@ On ImageNet, RAPS reduces median prediction-set size from ~10 (APS) to ~2 at the
 - [[concepts/adaptive-prediction-sets]]
 - [[concepts/nonconformity-score]]
 - [[concepts/conditional-coverage]]
+
+<!-- AUTHORED REGION END -->

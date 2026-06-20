@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-02-28-selling-the-rally
 tags: []
 title: Frederick T Fuchs
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 513edc81-8f48-5091-937a-094fa24fccd7
+content_hash: sha256:793a83ebc087018a2a7e28538aa012916f89d200cd851dc615f83aedaeb50cf9
 ---
 
+<!-- AUTHORED REGION START -->
 # Frederick T Fuchs
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2018-11-25-the-bear-has-begun|2019 US Credit Outlook: The Bear Has Begun]]
 - [[sources/ms-2019-02-01-credit-strategy-chartbook|US Corporate Credit Strategy Chartbook]]
 - [[sources/ms-2019-02-28-selling-the-rally|US Corporate Credit Strategy Brief: Selling the Rally]]
+<!-- AUTHORED REGION END -->

@@ -26,10 +26,14 @@ sources:
 - sources/ms-2019-02-15-govt-bond-auction-pipeline
 tags: []
 title: Forward Rate
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 55bc74e5-6596-5315-ba9c-fb70a7904cba
+content_hash: sha256:85d52faf9aeef1625e621af69838d915c17659f475682f9513b31c8bb1bdc386
 ---
 
+<!-- AUTHORED REGION START -->
 # Forward Rate
 
 ## Definition
@@ -47,3 +51,4 @@ The interest rate agreed today for a single-period investment beginning at a fut
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2008-08-28-gilt-futures-ctd-option]], [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms-2018-03-16-toward-more-tightening]], [[sources/ms-2018-04-05-funding-market-signals]], [[sources/ms-2019-02-13-eurex-futures-rolls]], [[sources/ms-2019-02-15-govt-bond-auction-pipeline]]
+<!-- AUTHORED REGION END -->

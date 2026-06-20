@@ -14,10 +14,14 @@ sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []
 title: Francis Longstaff
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7545797b-5e63-56b9-bb15-41754d50d2af
+content_hash: sha256:ed0ebb9df40a66615f965c74f46e4210c50885f52ae6467c0ccc24c40edf14a2
 ---
 
+<!-- AUTHORED REGION START -->
 # Francis Longstaff
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/collin-dufresne-2001-determinants-credit-spread-changes|The Determinants of Credit Spread Changes]]
+<!-- AUTHORED REGION END -->

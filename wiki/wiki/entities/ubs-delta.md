@@ -4,13 +4,24 @@ page_id: entities/ubs-delta
 page_type: entity
 entity_type: institution
 revision_id: 1
-created: 2026-05-05T23:25:00Z
-updated: 2026-05-05T23:25:00Z
-tags: [creditETF, risk-management, portfolio-analytics]
-sources: [sources/ubs-2012-next-gen-credit-curves]
-related: [entities/lindsey-matthews, entities/luca-bosatta, concepts/hazard-rate-curve]
+created: 2026-05-05 23:25:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- risk-management
+- portfolio-analytics
+sources:
+- sources/ubs-2012-next-gen-credit-curves
+related:
+- entities/lindsey-matthews
+- entities/luca-bosatta
+- concepts/hazard-rate-curve
+schema_version: 2
+uuid: ec460049-3143-58dc-a0ac-b3be38f89640
+content_hash: sha256:d644e168541ae6abf5e7fead4c744997b0a368517d0656f9e3748c5e74068d57
 ---
 
+<!-- AUTHORED REGION START -->
 # UBS Delta
 
 **UBS Delta** is UBS's portfolio analysis and risk management system. It provides institutional clients with tools for measuring and managing risk across asset classes.
@@ -56,3 +67,5 @@ The D-Curves methodology addresses limitations of traditional spread-based appro
 ## Publications in This Wiki
 
 - [[sources/ubs-2012-next-gen-credit-curves|Next-Generation Credit Curves (2012)]]
+
+<!-- AUTHORED REGION END -->

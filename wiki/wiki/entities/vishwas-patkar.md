@@ -24,10 +24,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Vishwas Patkar
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cfe6afa5-a7f2-5977-9478-877b741377c2
+content_hash: sha256:6595bca6a52a69cd0103ebd729647ad0b0ec057acefe3e1ee761a06a97aa1c73
 ---
 
+<!-- AUTHORED REGION START -->
 # Vishwas Patkar
 
 ## Overview
@@ -41,3 +45,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/ms-2018-04-16-credit-bmi-update]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-01-25-cause-of-the-pause]], [[sources/ms-2019-02-01-credit-strategy-chartbook]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-03-15-4q18-credit-fundamentals]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2019-06-28-fx-volatility-playbook]], [[sources/ms-2020-03-25-global-volatility-playbook]]
+<!-- AUTHORED REGION END -->

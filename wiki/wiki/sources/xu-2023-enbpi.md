@@ -1,36 +1,48 @@
 ---
-title: "Conformal prediction for time series"
+title: Conformal prediction for time series
 page_id: sources/xu-2023-enbpi
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-authors: ["Chen Xu", "Yao Xie"]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Chen Xu
+- Yao Xie
 year: 2023
-venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (arXiv:2010.09107)"
-tags: [conformal-prediction, time-series, ensemble-methods, prediction-intervals, distribution-free, non-exchangeable, bootstrap]
-related: [
-  concepts/conformal-prediction,
-  concepts/enbpi,
-  concepts/prediction-intervals,
-  concepts/exchangeability,
-  concepts/coverage-guarantee,
-  concepts/beta-mixing,
-  concepts/quantile-regression,
-  concepts/adaptive-conformal-inference,
-  concepts/spci,
-  concepts/jackknife-plus-after-bootstrap,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  entities/chen-xu,
-  entities/yao-xie,
-  sources/xu-2022-spci,
-  sources/zaffran-2022-aci
-]
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (arXiv:2010.09107)
+tags:
+- conformal-prediction
+- time-series
+- ensemble-methods
+- prediction-intervals
+- distribution-free
+- non-exchangeable
+- bootstrap
+related:
+- concepts/conformal-prediction
+- concepts/enbpi
+- concepts/prediction-intervals
+- concepts/exchangeability
+- concepts/coverage-guarantee
+- concepts/beta-mixing
+- concepts/quantile-regression
+- concepts/adaptive-conformal-inference
+- concepts/spci
+- concepts/jackknife-plus-after-bootstrap
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- entities/chen-xu
+- entities/yao-xie
+- sources/xu-2022-spci
+- sources/zaffran-2022-aci
 mind_map_priority: high
+schema_version: 2
+uuid: 8606c02d-b4c2-5f95-b495-33ef34dab02b
+content_hash: sha256:02b807d716987872f5c1cc06875af0ffb331a6ab05282b58fa6a491145cfcb26
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal prediction for time series (EnbPI)
 
 **Authors:** [[entities/chen-xu|Chen Xu]], [[entities/yao-xie|Yao Xie]]
@@ -86,3 +98,5 @@ For training data `(X_i, Y_i)_{i=1..T}`:
 - [[concepts/conformal-prediction]]
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[entities/chen-xu]], [[entities/yao-xie]]
+
+<!-- AUTHORED REGION END -->

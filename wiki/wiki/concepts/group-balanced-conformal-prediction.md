@@ -3,14 +3,27 @@ title: Group-Balanced Conformal Prediction
 page_id: concepts/group-balanced-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-21T14:00:00Z
-tags: [conformal-prediction, fairness, conditional-validity, group-coverage]
-sources: [sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/conditional-coverage, concepts/class-conditional-conformal-prediction]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- fairness
+- conditional-validity
+- group-coverage
+sources:
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/conditional-coverage
+- concepts/class-conditional-conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: 70bd7a7f-6fcf-5565-a346-2d310d76053d
+content_hash: sha256:8de0fa9810d6cd357893bce79ce6224fc5c9c31a7a2c2894ab88b197f7b8c2a2
 ---
 
+<!-- AUTHORED REGION START -->
 # Group-Balanced Conformal Prediction
 
 **Group-balanced CP** (Vovk, 2012; Sadinle, Lei, Wasserman, 2019) stratifies the calibration set by a discrete observed group feature `G ∈ {1, ..., K}` and applies the split-conformal recipe **within each group**, achieving (1 − α) coverage *conditional on group membership*:
@@ -49,3 +62,5 @@ Cost is **statistical efficiency**: each group's `q̂_g` is computed from `n_g` 
 - [[concepts/split-conformal-prediction]]
 - [[concepts/conditional-coverage]]
 - [[concepts/class-conditional-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

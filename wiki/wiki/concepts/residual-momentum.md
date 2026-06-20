@@ -15,9 +15,13 @@ tags:
 - risk-management
 - corporate-bonds
 title: Residual Momentum
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: a5b66ad3-9e58-5268-913b-27a594f2d184
+content_hash: sha256:b96282114982590ace0916f3870733701d35e72cd4a1b4349b4d15bd8fd0829f
 ---
 
+<!-- AUTHORED REGION START -->
 # Residual Momentum
 
 ## Definition
@@ -104,3 +108,4 @@ From Haesen et al. (2017):
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/style-premia|style-premia]]
+<!-- AUTHORED REGION END -->

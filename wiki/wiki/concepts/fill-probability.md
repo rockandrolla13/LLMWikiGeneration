@@ -1,14 +1,28 @@
 ---
-title: "Fill Probability"
+title: Fill Probability
 page_id: concepts/fill-probability
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, limit-order-book, optimal-execution, order-flow]
-sources: [sources/lokin-2024-fill-probabilities, sources/cartea-2015-optimal-execution]
-related: [concepts/limit-order-book, concepts/optimal-execution, concepts/market-making, concepts/avellaneda-stoikov-model]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- limit-order-book
+- optimal-execution
+- order-flow
+sources:
+- sources/lokin-2024-fill-probabilities
+- sources/cartea-2015-optimal-execution
+related:
+- concepts/limit-order-book
+- concepts/optimal-execution
+- concepts/market-making
+- concepts/avellaneda-stoikov-model
+schema_version: 2
+uuid: ad8f411b-f870-525f-b660-d264f349c639
+content_hash: sha256:998402e6283668e5c3f5af414e5c2a056fbeaba8114a2652ff11fade0eb6361d
 ---
 
+<!-- AUTHORED REGION START -->
 # Fill Probability
 
 ## Overview
@@ -137,3 +151,5 @@ Different venues have different fill characteristics:
 - [[concepts/market-making|Market Making]]
 - [[sources/lokin-2024-fill-probabilities|Lokin & Yu (2024)]]
 - [[sources/cartea-2015-optimal-execution|Cartea & Jaimungal (2015)]]
+
+<!-- AUTHORED REGION END -->

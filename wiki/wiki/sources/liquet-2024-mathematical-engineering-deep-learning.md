@@ -1,20 +1,53 @@
 ---
-title: "Mathematical Engineering of Deep Learning"
+title: Mathematical Engineering of Deep Learning
 page_id: sources/liquet-2024-mathematical-engineering-deep-learning
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_4_2026_06_19
-tags: [deep-learning, mathematical-foundations, neural-networks, transformers, optimization, convolutional-neural-networks, recurrent-neural-networks, generative-models, reinforcement-learning, graph-neural-networks, textbook, linear-algebra, calculus, probability, attention-mechanism, lstm, gru, diffusion-models, gans, variational-autoencoders, backpropagation, adam, automatic-differentiation, machine-learning, crc-press]
-sources: [sources/liquet-2024-mathematical-engineering-deep-learning]
+tags:
+- deep-learning
+- mathematical-foundations
+- neural-networks
+- transformers
+- optimization
+- convolutional-neural-networks
+- recurrent-neural-networks
+- generative-models
+- reinforcement-learning
+- graph-neural-networks
+- textbook
+- linear-algebra
+- calculus
+- probability
+- attention-mechanism
+- lstm
+- gru
+- diffusion-models
+- gans
+- variational-autoencoders
+- backpropagation
+- adam
+- automatic-differentiation
+- machine-learning
+- crc-press
+sources:
+- sources/liquet-2024-mathematical-engineering-deep-learning
 related: []
 mind_map_priority: high
-authors: ["Benoit Liquet", "Sarat Moka", "Yoni Nazarathy"]
+authors:
+- Benoit Liquet
+- Sarat Moka
+- Yoni Nazarathy
 year: 2024
 source_type: book
+schema_version: 2
+uuid: f226ed5b-1f4d-5549-8c09-a653fe54e7a2
+content_hash: sha256:e022fe4cf1f64eb4da6dde77fd7ccef0fc8db416eecc87b5a6d67c76d52b0488
 ---
 
+<!-- AUTHORED REGION START -->
 # Mathematical Engineering of Deep Learning
 
 **Authors:** Benoit Liquet, Sarat Moka, Yoni Nazarathy  
@@ -98,3 +131,5 @@ Mathematical Engineering of Deep Learning (Chapman & Hall/CRC, 2025; preface dat
 - Does the reinforcement learning chapter cover deep Q-networks or policy gradient methods (e.g., PPO), or only the Markov decision process foundations?
 - The preface says no advanced probability is needed — how is the variational autoencoder's ELBO derivation handled without measure theory or variational inference prerequisites?
 - Are graph neural networks treated only for node classification, or do edge prediction and graph-level tasks also appear?
+
+<!-- AUTHORED REGION END -->

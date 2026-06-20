@@ -26,10 +26,14 @@ source_type: article
 sources: []
 tags: []
 title: Momentum for Diversification
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a3d1dcff6f12
+schema_version: 2
+uuid: d7c5990f-0179-5f1f-902f-7a8a7a95fb24
+content_hash: sha256:be6d16064470217c9f31bfe2acd0aa1bd7b56a9dd8641f0fe3beaa8379f3aeb6
 ---
 
+<!-- AUTHORED REGION START -->
 # Momentum for Diversification
 
 **Authors:** Andrew Sheets, Wanting Low · **Year:** 2016 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -62,3 +66,4 @@ A Cross-Asset Quant note evaluating cross-asset trend and momentum strategies, d
 - **Path:** `raw/creditmacro/Morgan Stanley - Momentum for Diversification — Contents - 2016-09-27.md`
 - **Type:** article
 - **Hash:** `sha256:d1c597b7e29f22463...`
+<!-- AUTHORED REGION END -->

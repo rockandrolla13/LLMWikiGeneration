@@ -36,10 +36,14 @@ sources: []
 tags: []
 title: How and Why to Use Experimental Data to Evaluate Methods for Observational
   Causal Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_117a674dc12f
+schema_version: 2
+uuid: b3b12d97-efab-56cd-988c-6abfbe4ac0c4
+content_hash: sha256:c78cacaf94dc2bc39b89de090b4c506e6b58fd367d81ae635477452b3b3c494c
 ---
 
+<!-- AUTHORED REGION START -->
 # How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference
 
 **Authors:** Amanda Gentzel, Purva Pruthi, David Jensen · **Year:** 2021 · **Venue:** Proceedings of the 38th International Conference on Machine Learning (ICML), PMLR 139 · **Type:** paper
@@ -96,3 +100,4 @@ The authors run a large-scale empirical study applying seven causal inference me
 - **Path:** `raw/causality-testing/2010.03051v2.pdf`
 - **Type:** paper
 - **Hash:** `sha256:b7a009354b909cd22...`
+<!-- AUTHORED REGION END -->

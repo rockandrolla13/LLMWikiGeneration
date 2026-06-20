@@ -1,16 +1,32 @@
 ---
-title: "Common Pitfalls in the Evaluation of Corporate Bond Strategies"
+title: Common Pitfalls in the Evaluation of Corporate Bond Strategies
 page_id: sources/dickerson-2024-bond-pitfalls
 page_type: source
-created: 2026-04-26T01:45:00Z
-updated: 2026-04-26T01:45:00Z
-tags: [corporate-bonds, market-microstructure, bid-ask-bias, momentum, TRACE]
-authors: [Alexander Dickerson, Cesare Robotti, Giulio Rossetti]
+created: 2026-04-26 01:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- corporate-bonds
+- market-microstructure
+- bid-ask-bias
+- momentum
+- TRACE
+authors:
+- Alexander Dickerson
+- Cesare Robotti
+- Giulio Rossetti
 year: 2024
 journal: Working Paper (SSRN)
-related: [concepts/market-microstructure-noise, concepts/bond-momentum, concepts/trace-data, entities/alexander-dickerson]
+related:
+- concepts/market-microstructure-noise
+- concepts/bond-momentum
+- concepts/trace-data
+- entities/alexander-dickerson
+schema_version: 2
+uuid: 8a3fa50a-27bc-50ae-9900-7b9c0c6b8ba1
+content_hash: sha256:9fc598d48bfdfcf6f6f345bdd9e2adf78b30ef31842565378834e6a96d7d90d7
 ---
 
+<!-- AUTHORED REGION START -->
 # Common Pitfalls in the Evaluation of Corporate Bond Strategies
 
 ## Summary
@@ -58,3 +74,5 @@ A critical methodological paper demonstrating that large abnormal returns docume
 
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]] - factor investing
 - [[sources/jostova-2013-momentum|Jostova et al. (2013)]] - momentum in bonds
+
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/ms-2022-11-04-end-of-trends
 tags: []
 title: James K Lord
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e49638ff-a1a0-5163-8141-c5fc0e827581
+content_hash: sha256:c49fd56c3e3cfd6a5ed0135965c6d967208911c19acd73f50cc8b83fb9406fd3
 ---
 
+<!-- AUTHORED REGION START -->
 # James K Lord
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-24-china-current-account-turning-point|Another Turning Point (Sunday Start: What's Next in Global Macro)]]
 - [[sources/ms-2022-11-04-end-of-trends|Global Macro Strategist | The End of Trends]]
+<!-- AUTHORED REGION END -->

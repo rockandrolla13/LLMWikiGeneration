@@ -15,10 +15,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: Low Expected Returns Challenge
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bb1f4f08-ebf9-5a91-8212-3cfe94f9876c
+content_hash: sha256:ed3fd681571eb731b49dbe08b89ce7a844ee2641bcaaa8e9509aa1fda45398fb
 ---
 
+<!-- AUTHORED REGION START -->
 # Low Expected Returns Challenge
 
 ## Definition
@@ -33,3 +37,4 @@ The secular condition in which falling discount rates have pushed forward-lookin
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/market-timing|market-timing]]
+<!-- AUTHORED REGION END -->

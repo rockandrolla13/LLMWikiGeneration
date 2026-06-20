@@ -14,10 +14,14 @@ sources:
 - sources/schofield-2019-citi-macro-views
 tags: []
 title: Benjamin Nabarro
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 032e7e19-3e8c-55ac-b62b-19eeeb19a10f
+content_hash: sha256:219a7017fe207a07870cb6a1fe0bbe5222b25067f6471961ea403b298a6f58d0
 ---
 
+<!-- AUTHORED REGION START -->
 # Benjamin Nabarro
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/schofield-2019-citi-macro-views|Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]]
+<!-- AUTHORED REGION END -->

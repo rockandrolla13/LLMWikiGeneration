@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global In the Flow: February Recap'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_2e8d9f21c33a
+schema_version: 2
+uuid: 02dd82b4-71bd-5a38-a1f1-e2e45faba4c5
+content_hash: sha256:d9215ab437482f7a6ad4637c9ca38137f476e10dca233b1f5291f276a84a50b1
 ---
 
+<!-- AUTHORED REGION START -->
 # Global In the Flow: February Recap
 
 **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Naomi Poole, Serena Tang · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's March 1, 2019 'Global In the Flow' note recaps a strong Februar
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the Flow February Recap - 2019-03-01.md`
 - **Type:** article
 - **Hash:** `sha256:f82ea922e7303549a...`
+<!-- AUTHORED REGION END -->

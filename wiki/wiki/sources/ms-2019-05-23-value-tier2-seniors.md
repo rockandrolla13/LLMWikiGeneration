@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Banks: Hunting for Value in Tier 2 and Seniors'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_54b7ac3e8f3d
+schema_version: 2
+uuid: 04934a66-3d75-5dc7-ab80-e138fec7bfb2
+content_hash: sha256:728531d13c92c6d9d3bb480c2ab16658c3351d0d50d145072bceb00af567affc
 ---
 
+<!-- AUTHORED REGION START -->
 # European Banks: Hunting for Value in Tier 2 and Seniors
 
 **Authors:** Joe Hopkins, Jackie Ineke · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ Morgan Stanley scrubs European bank Tier 2, non-preferred senior (NPS) and prefe
 - **Path:** `raw/creditmacro/Morgan Stanley - European Banks — Hunting for Value in Tier 2 and Seniors - 2019-05-23.md`
 - **Type:** article
 - **Hash:** `sha256:effa6685ee44f2707...`
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Resilience, Self-Organization, and Hierarchy
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a32df33c-1d4b-59fa-b2c1-e236accc9aff
+content_hash: sha256:c470fda327624f5a62321e8a14277b590a318aa648d8357074f5ac34084ed75a
 ---
 
+<!-- AUTHORED REGION START -->
 # Resilience, Self-Organization, and Hierarchy
 
 ## Definition
@@ -26,3 +30,4 @@ Three properties of well-functioning systems: resilience (recovery via redundant
 ## Sources
 
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+<!-- AUTHORED REGION END -->

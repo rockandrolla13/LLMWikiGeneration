@@ -20,9 +20,13 @@ tags:
 - machine-learning
 - causal-inference
 title: Victor Chernozhukov
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: a902f092-1965-54c2-a860-d72ee3b77687
+content_hash: sha256:8868f9342e2f417da2188dff9b924a95d595a97594c1ab16a0576df4c8412709
 ---
 
+<!-- AUTHORED REGION START -->
 # Victor Chernozhukov
 
 **Victor Chernozhukov** is a Professor of Economics at the Massachusetts Institute of Technology (MIT), widely recognized for his contributions to econometrics, statistics, and machine learning.
@@ -70,3 +74,4 @@ National Science Foundation support acknowledged in the distributional conformal
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/angrist-2009-mostly-harmless-econometrics]]
+<!-- AUTHORED REGION END -->

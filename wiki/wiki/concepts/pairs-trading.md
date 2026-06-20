@@ -24,9 +24,13 @@ tags:
 - market-neutral
 - statistical-arbitrage
 title: Pairs Trading
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: d6c35139-7340-5e64-aa41-2373a885461f
+content_hash: sha256:bb51b839dcea5287f1450c67d11f03e52624db44e211cca9e3009c173b3d4e21
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 Pairs trading is a market-neutral [[concepts/statistical-arbitrage|statistical arbitrage]] strategy that involves taking simultaneous long and short positions in two related securities. The strategy profits from temporary deviations in the price relationship between the pair, assuming mean reversion.
@@ -161,3 +165,4 @@ Time for spread to revert halfway to mean.
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/halls-moore-advanced-algorithmic-trading]]
+<!-- AUTHORED REGION END -->

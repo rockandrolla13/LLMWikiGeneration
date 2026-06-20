@@ -17,10 +17,14 @@ sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []
 title: Differences-in-Differences
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e3b322e8-1103-50c1-9060-abf35685fb05
+content_hash: sha256:fb506d970d2580536f5b4250b6b102b4cf44f0c0733153f1c392552891becd95
 ---
 
+<!-- AUTHORED REGION START -->
 # Differences-in-Differences
 
 ## Definition
@@ -40,3 +44,4 @@ A design using treated and control groups observed before and after an intervent
 
 - [[concepts/interrupted-time-series-design|interrupted-time-series-design]]
 - [[concepts/quasi-experimental-design|quasi-experimental-design]]
+<!-- AUTHORED REGION END -->

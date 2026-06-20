@@ -14,10 +14,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Self-Stabilizing Inflation Regime
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8601704b-534c-5424-b447-858f3a0dcfc5
+content_hash: sha256:5dce684fc6288aacfccec0c905c1ee7984031513297ff8476a0eebbc92d7ab4f
 ---
 
+<!-- AUTHORED REGION START -->
 # Self-Stabilizing Inflation Regime
 
 ## Definition
@@ -31,3 +35,4 @@ The book's core mechanism: a perceived 2% ceiling anchors expectations so the co
 ## Related Concepts
 
 - [[concepts/great-moderation|great-moderation]]
+<!-- AUTHORED REGION END -->

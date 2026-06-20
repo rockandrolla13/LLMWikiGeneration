@@ -1,14 +1,33 @@
 ---
-title: "Inventory Risk"
+title: Inventory Risk
 page_id: concepts/inventory-risk
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, risk-management, optimal-control, hedging]
-sources: [sources/bergault-2019-multi-asset-market-making, sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2022-multi-currency-inventory, sources/barzykin-2024-precious-metals, sources/cartea-2015-optimal-execution]
-related: [concepts/market-making, concepts/avellaneda-stoikov-model, concepts/internalization-externalization, concepts/optimal-execution, entities/olivier-gueant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- risk-management
+- optimal-control
+- hedging
+sources:
+- sources/bergault-2019-multi-asset-market-making
+- sources/barzykin-2020-algorithmic-fx-market-making
+- sources/barzykin-2021-fx-dealer-tiers
+- sources/barzykin-2022-multi-currency-inventory
+- sources/barzykin-2024-precious-metals
+- sources/cartea-2015-optimal-execution
+related:
+- concepts/market-making
+- concepts/avellaneda-stoikov-model
+- concepts/internalization-externalization
+- concepts/optimal-execution
+- entities/olivier-gueant
+schema_version: 2
+uuid: 1a997d5f-9e53-50ef-b066-8c960eadb446
+content_hash: sha256:92af35d4a7a30bdb8d2d724ab7dcc2637a07fd7bd3b475062a959baa2941a05f
 ---
 
+<!-- AUTHORED REGION START -->
 # Inventory Risk
 
 ## Overview
@@ -110,3 +129,5 @@ How quickly market makers reduce positions:
 - [[concepts/internalization-externalization|Internalization vs Externalization]]
 - [[concepts/optimal-execution|Optimal Execution]]
 - [[concepts/adverse-selection|Adverse Selection]]
+
+<!-- AUTHORED REGION END -->

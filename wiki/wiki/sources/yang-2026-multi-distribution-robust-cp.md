@@ -1,19 +1,35 @@
 ---
-title: "Multi-Distribution Robust Conformal Prediction"
+title: Multi-Distribution Robust Conformal Prediction
 page_id: sources/yang-2026-multi-distribution-robust-cp
 page_type: source
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-authors: [Yuqi Yang, Ying Jin]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Yuqi Yang
+- Ying Jin
 publication: arXiv
 year: 2026
-arxiv: "2601.02998"
-tags: [conformal-prediction, multi-distribution, robustness, fairness, distributionally-robust-optimization]
-related: [concepts/conformal-prediction, concepts/multi-distribution-robust-cp, concepts/worst-case-coverage, concepts/distributionally-robust-optimization, concepts/max-p-aggregation]
+arxiv: '2601.02998'
+tags:
+- conformal-prediction
+- multi-distribution
+- robustness
+- fairness
+- distributionally-robust-optimization
+related:
+- concepts/conformal-prediction
+- concepts/multi-distribution-robust-cp
+- concepts/worst-case-coverage
+- concepts/distributionally-robust-optimization
+- concepts/max-p-aggregation
 mind_map_priority: high
+schema_version: 2
+uuid: 79f5e921-f246-5ab6-baf1-af85b2a9f4f6
+content_hash: sha256:e1c8067f46da873d914355c75007c34ad4888a049f2f6409f3b7075a141b99dd
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-Distribution Robust Conformal Prediction
 
 ## Summary
@@ -118,3 +134,5 @@ where T is the boundary tie-region with measure ρ(T).
 
 - [[entities/yuqi-yang|Yuqi Yang]] - University of Pennsylvania
 - [[entities/ying-jin|Ying Jin]] - Stanford/UPenn, conformal prediction researcher
+
+<!-- AUTHORED REGION END -->

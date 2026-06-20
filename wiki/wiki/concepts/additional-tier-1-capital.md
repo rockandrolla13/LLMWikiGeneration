@@ -22,10 +22,14 @@ sources:
 - sources/ms-2020-03-11-facing-cycle-picking-swiss
 tags: []
 title: Additional Tier 1 capital
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 830c109e-ea2d-5519-a940-e72ce4178946
+content_hash: sha256:6834fe3321679e448f8f74fc1314c10693e81af3a3e47675c7f4e1cfaedfe63c
 ---
 
+<!-- AUTHORED REGION START -->
 # Additional Tier 1 capital
 
 ## Definition
@@ -47,3 +51,4 @@ Loss-absorbing perpetual bank capital instruments (CoCos) with discretionary cou
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/corporate-hybrid-bonds|corporate-hybrid-bonds]]
 - [[concepts/mrel|mrel]]
+<!-- AUTHORED REGION END -->

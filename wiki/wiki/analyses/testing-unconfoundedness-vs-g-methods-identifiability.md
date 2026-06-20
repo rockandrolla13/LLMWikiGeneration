@@ -55,10 +55,14 @@ tags:
 - time-series
 - credit-macro
 title: Testing Unconfoundedness vs the g-Methods Identifiability Conditions
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b20381baef1d
+schema_version: 2
+uuid: 462ac9f6-3fba-58cb-a599-68618509aab4
+content_hash: sha256:5767758a0bbdf644e8870ab723e223541c5eb4857e93978f090eed3600760e50
 ---
 
+<!-- AUTHORED REGION START -->
 # Testing Unconfoundedness vs the g-Methods Identifiability Conditions
 
 **Query:** How does Cai et al. (2023)'s test of the conditional-independence / unconfoundedness assumption relate to the g-methods identifiability conditions, and where do BART, OSRCT, and interrupted time series fit?
@@ -91,3 +95,4 @@ The g-methods give the *identification theory* (assume CI, then IPW/g-formula id
 - Does Cai's auxiliary-variable test reduce to a conditional moment version of an [[concepts/instrumental-variables|IV]] over-identification test?
 - Could OSRCT-style constructed benchmarks be built from financial event studies to validate credit causal estimators?
 - For credit/macro policy evaluation, when is ITS/RD (temporal discontinuity) more credible than conditioning-based unconfoundedness?
+<!-- AUTHORED REGION END -->

@@ -1,20 +1,42 @@
 ---
-title: "Simulation Models for Data Science"
+title: Simulation Models for Data Science
 page_id: sources/sullivan-2025-simulation-models-data-science
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_5_2026_06_19
-tags: [simulation, data-science, monte-carlo, discrete-event-simulation, system-dynamics, agent-based-modeling, systems-thinking, generative-ai, bullwhip-effect, capacity-planning, queueing-theory, competitive-dynamics, oreilly, early-release, python, r]
-sources: [sources/sullivan-2025-simulation-models-data-science]
+tags:
+- simulation
+- data-science
+- monte-carlo
+- discrete-event-simulation
+- system-dynamics
+- agent-based-modeling
+- systems-thinking
+- generative-ai
+- bullwhip-effect
+- capacity-planning
+- queueing-theory
+- competitive-dynamics
+- oreilly
+- early-release
+- python
+- r
+sources:
+- sources/sullivan-2025-simulation-models-data-science
 related: []
 mind_map_priority: medium
-authors: ["Dan Sullivan"]
+authors:
+- Dan Sullivan
 year: 2025
 source_type: book
+schema_version: 2
+uuid: c93b1698-4f84-5569-8894-922fdb27d9e7
+content_hash: sha256:8c6a0af8df6a1b6e0bcc9d5e2c33a6dacaa370c75a1e3c0c920664a2663a8c90
 ---
 
+<!-- AUTHORED REGION START -->
 # Simulation Models for Data Science
 
 **Authors:** Dan Sullivan  
@@ -80,3 +102,5 @@ Early-release O'Reilly book (First Release 2026-03-25; First Edition March 2027)
 - How does the book treat agent-based modeling versus system-dynamics in practice — which problems suit which method?
 - What does 'specification-driven development' mean operationally — is there a defined methodology or framework?
 - Chapters 3–11 are unavailable: when will they be released and what do they cover in detail (distributions, risk, bottlenecks, digital twins, production deployment, adoption)?
+
+<!-- AUTHORED REGION END -->

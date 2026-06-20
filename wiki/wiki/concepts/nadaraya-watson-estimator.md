@@ -18,9 +18,13 @@ tags:
 - time-series
 - quantile-regression
 title: Nadaraya-Watson Estimator
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 66ac0093-27f5-5c1e-9f75-df6e00748cd1
+content_hash: sha256:b47cce8ff4b95e8301f7b85d117664bda4c6bcc76d379a2df05da4fb4f06e91c
 ---
 
+<!-- AUTHORED REGION START -->
 # Nadaraya-Watson Estimator
 
 The **Nadaraya-Watson (NW) estimator** is a classical nonparametric method for estimating conditional expectations or distributions using kernel weighting. The **Reweighted Nadaraya-Watson (RNW)** variant introduces adjustment weights for improved bias properties, making it particularly useful for quantile regression in time-series [[concepts/conformal-prediction|conformal prediction]].
@@ -118,3 +122,4 @@ Common choices: Epanechnikov kernel $K(u) = k(\|u\|)$ with $k(t) = \frac{3}{4}(1
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/local-regression|local-regression]]
+<!-- AUTHORED REGION END -->

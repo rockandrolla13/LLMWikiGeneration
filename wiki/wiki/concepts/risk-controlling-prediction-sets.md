@@ -3,14 +3,32 @@ title: Risk-Controlling Prediction Sets (RCPS)
 page_id: concepts/risk-controlling-prediction-sets
 page_type: concept
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [conformal-prediction, risk-control, distribution-free, pac, tolerance-regions]
-sources: [sources/bates-2021-rcps, sources/angelopoulos-2021-learn-then-test, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-risk-control, concepts/learn-then-test, concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/marginal-coverage, concepts/coverage-guarantee]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- risk-control
+- distribution-free
+- pac
+- tolerance-regions
+sources:
+- sources/bates-2021-rcps
+- sources/angelopoulos-2021-learn-then-test
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-risk-control
+- concepts/learn-then-test
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/marginal-coverage
+- concepts/coverage-guarantee
 mind_map_priority: medium
+schema_version: 2
+uuid: 0c57bc2a-8730-5607-92f0-07b537a8cdbc
+content_hash: sha256:e13149e4b2a906da8ac826c2738eb720b5ede11cbcb397f185015a3315b490e7
 ---
 
+<!-- AUTHORED REGION START -->
 # Risk-Controlling Prediction Sets (RCPS)
 
 **RCPS** (Bates, Angelopoulos, Lei, Malik, Jordan, [[sources/bates-2021-rcps|2021]]) is the PAC-style distribution-free framework for controlling **expected loss** (not just miscoverage) of set-valued predictors.
@@ -67,3 +85,5 @@ RCPS is the **distribution-free analogue of tolerance regions** generalised from
 - [[concepts/learn-then-test]]
 - [[concepts/conformal-prediction]]
 - [[concepts/coverage-guarantee]]
+
+<!-- AUTHORED REGION END -->

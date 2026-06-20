@@ -1,19 +1,37 @@
 ---
-title: "Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passive Flow Distortions"
+title: 'Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passive
+  Flow Distortions'
 page_id: sources/optiver-2025-corporate-bond-etf-contraflow
 page_type: source
 source_type: whitepaper
 revision_id: 1
-created: 2026-05-06T23:30:00Z
-updated: 2026-05-06T23:30:00Z
-authors: [Optiver Credit Team]
+created: 2026-05-06 23:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Optiver Credit Team
 year: 2025
 venue: Optiver Internal Research
-tags: [etf-flows, corporate-bonds, mean-reversion, market-making, passive-investing, flow-decomposition, contraflow]
-related: [concepts/etf-flows, concepts/flow-decomposition, concepts/mean-reversion, sources/petit-2025-data-driven-flow-etf, sources/chao-2019-etf-flows-prices]
+tags:
+- etf-flows
+- corporate-bonds
+- mean-reversion
+- market-making
+- passive-investing
+- flow-decomposition
+- contraflow
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
+- concepts/mean-reversion
+- sources/petit-2025-data-driven-flow-etf
+- sources/chao-2019-etf-flows-prices
 mind_map_priority: high
+schema_version: 2
+uuid: be588796-c03b-562b-979f-928e50c775b3
+content_hash: sha256:6a8beacfad6d02dca05ed5a0eb0326c4850e493ec37921e59886240f21995b70
 ---
 
+<!-- AUTHORED REGION START -->
 # Corporate Bond ETF Contraflow Strategy
 
 **Authors:** Optiver Credit Team
@@ -65,3 +83,5 @@ This paper presents a systematic trading strategy exploiting mispricing in corpo
 - [[concepts/mean-reversion|Mean Reversion]]
 - [[sources/petit-2025-data-driven-flow-etf|Petit et al. (2025) Data-Driven Flow Decomposition]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019) Why Do ETF Flows Move Prices]]
+
+<!-- AUTHORED REGION END -->

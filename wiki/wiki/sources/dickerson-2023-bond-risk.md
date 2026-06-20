@@ -1,20 +1,37 @@
 ---
-title: "Priced risk in corporate bonds"
+title: Priced risk in corporate bonds
 page_id: sources/dickerson-2023-bond-risk
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Alexander Dickerson, Philippe Mueller, Cesare Robotti]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Alexander Dickerson
+- Philippe Mueller
+- Cesare Robotti
 year: 2023
 venue: Journal of Financial Economics
 doi: 10.1016/j.jfineco.2023.103707
-tags: [corporate-bonds, asset-pricing, capm, factor-models, liquidity-risk]
-related: [sources/martin-2024-credit-curve, concepts/bond-capm, concepts/factor-models, concepts/liquidity-risk, entities/cesare-robotti]
+tags:
+- corporate-bonds
+- asset-pricing
+- capm
+- factor-models
+- liquidity-risk
+related:
+- sources/martin-2024-credit-curve
+- concepts/bond-capm
+- concepts/factor-models
+- concepts/liquidity-risk
+- entities/cesare-robotti
 mind_map_priority: high
+schema_version: 2
+uuid: 6741638a-f02a-56cd-9a87-a99b582df6a6
+content_hash: sha256:ff9b70a40ae64f168a5dda9048e67c6513c3d901b0c2d0183f9a3583f3c896da
 ---
 
+<!-- AUTHORED REGION START -->
 # Priced Risk in Corporate Bonds
 
 **Authors:** Alexander Dickerson, Philippe Mueller, [[entities/cesare-robotti|Cesare Robotti]]
@@ -81,3 +98,5 @@ Examined factors show no pricing power:
 - [[concepts/factor-models|Factor Models]]
 - [[concepts/liquidity-risk|Liquidity Risk]]
 - [[sources/martin-2024-credit-curve|Martin 2024 (Credit Curve)]]
+
+<!-- AUTHORED REGION END -->

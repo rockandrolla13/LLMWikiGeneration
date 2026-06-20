@@ -30,10 +30,14 @@ source_type: article
 sources: []
 tags: []
 title: China – Doing whatever it takes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_e0187f5c3ed7
+schema_version: 2
+uuid: 38a08fc3-36b0-5798-848f-303fdf15e5fb
+content_hash: sha256:7e7a33454b1e77821e6d996a751b3c98415aa97a12ee14157bf2642819eebd0b
 ---
 
+<!-- AUTHORED REGION START -->
 # China – Doing whatever it takes
 
 **Authors:** Chetan Ahya, Robin Xing, Derrick Y Kam, Nora Wassermann · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -69,3 +73,4 @@ Morgan Stanley's global economics team pushes back against investor skepticism a
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Economics — China – Doing whatever it takes - 2019-01-18.md`
 - **Type:** article
 - **Hash:** `sha256:139d50f7509894fa7...`
+<!-- AUTHORED REGION END -->

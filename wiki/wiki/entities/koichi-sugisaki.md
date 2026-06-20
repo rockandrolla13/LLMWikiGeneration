@@ -21,10 +21,14 @@ sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 tags: []
 title: Koichi Sugisaki
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5a8507ee-5717-5a11-9001-eb3248a339a1
+content_hash: sha256:34fd01419b58ba425e7b6ee842ca5bfa7fed20773a78872031581181bdb19514
 ---
 
+<!-- AUTHORED REGION START -->
 # Koichi Sugisaki
 
 ## Overview
@@ -41,3 +45,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-03-15-bullish-bond-cyclone|Global Interest Rate Strategist: The Bullish 'Bond Cyclone']]
 - [[sources/ms-2019-04-05-crossing-the-rubicon-government-bonds|Crossing the Rubicon (Government Bonds)]]
 - [[sources/ms-2019-05-17-tariffs-government-bonds|For Whom the Tariffs Toll]]
+<!-- AUTHORED REGION END -->

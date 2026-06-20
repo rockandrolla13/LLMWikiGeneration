@@ -14,10 +14,14 @@ sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []
 title: Analyst Forecast Optimism Bias
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a302536a-f989-5da2-ba58-e0ab9b2c12da
+content_hash: sha256:9c12e7c7bf8480186704c7fa1ff2ad1cfba67200083a954dbe480af191c3b0b4
 ---
 
+<!-- AUTHORED REGION START -->
 # Analyst Forecast Optimism Bias
 
 ## Definition
@@ -31,3 +35,4 @@ The systematic tendency of analysts' long-term earnings-growth forecasts to exce
 ## Related Concepts
 
 - [[concepts/behavioral-finance|behavioral-finance]]
+<!-- AUTHORED REGION END -->

@@ -61,9 +61,13 @@ tags:
 - treatment-effects
 - econometrics
 title: Causal Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 1ce19a53-2d60-5213-87b0-fd1a2c9b86e2
+content_hash: sha256:0cde791ac20e14852709c6fe3a5a11a9cd2b56aded80dd6aa2bc8866f48de294
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal Inference
 
 **Causal inference** is the process of drawing conclusions about causal relationships from data, going beyond correlation to understand how interventions affect outcomes. It is fundamental to policy evaluation, medical trials, and economic analysis.
@@ -214,3 +218,4 @@ Standard causal inference assumes independent observations. Extensions to time s
 - [[concepts/quasi-experimental-design|quasi-experimental-design]]
 - [[concepts/randomised-controlled-trial|randomised-controlled-trial]]
 - [[concepts/unconfoundedness-assumption|unconfoundedness-assumption]]
+<!-- AUTHORED REGION END -->

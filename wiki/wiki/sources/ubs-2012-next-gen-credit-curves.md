@@ -1,16 +1,32 @@
 ---
-title: "Next-Generation Credit Curves"
+title: Next-Generation Credit Curves
 page_id: sources/ubs-2012-next-gen-credit-curves
 page_type: source
 revision_id: 1
-created: 2026-05-05T23:15:00Z
-updated: 2026-05-05T23:15:00Z
-tags: [creditETF, hazard-rate, credit-curves, CDS-bond-basis, market-implied-ratings]
-authors: [entities/lindsey-matthews, entities/luca-bosatta]
-institutions: [entities/ubs-delta]
-related: [concepts/hazard-rate-curve, concepts/cds-bond-basis, concepts/market-implied-ratings, concepts/credit-spread-curve]
+created: 2026-05-05 23:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- hazard-rate
+- credit-curves
+- CDS-bond-basis
+- market-implied-ratings
+authors:
+- entities/lindsey-matthews
+- entities/luca-bosatta
+institutions:
+- entities/ubs-delta
+related:
+- concepts/hazard-rate-curve
+- concepts/cds-bond-basis
+- concepts/market-implied-ratings
+- concepts/credit-spread-curve
+schema_version: 2
+uuid: c7d80ee8-4151-5210-8eae-7985fc5a7556
+content_hash: sha256:b48ba81e86801effc19871e406ac46f439dad1cd0ab27dec10c810a8b97fec8a
 ---
 
+<!-- AUTHORED REGION START -->
 # Next-Generation Credit Curves
 
 **Authors:** [[entities/lindsey-matthews|Lindsey Matthews]], [[entities/luca-bosatta|Luca Bosatta]]
@@ -113,3 +129,5 @@ Presents UBS Delta's "D-Curves" methodology for building credit curves by unifyi
 - [[concepts/market-implied-ratings]]
 - [[concepts/credit-spread-curve]]
 - [[concepts/zero-coupon-curve]]
+
+<!-- AUTHORED REGION END -->

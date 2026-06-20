@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Sebastian Raschka
@@ -42,8 +42,12 @@ related:
 - entities/tiktoken
 mind_map_priority: medium
 revision_hash: sha256:92ac0419f91612c9
+schema_version: 2
+uuid: 2616b43b-ca78-5a71-9469-01e84f3b6d37
+content_hash: sha256:fabab54fc87a9338364fd4c7632742bd101c8b5674e84030b9b71b1455e0ba2f
 ---
 
+<!-- AUTHORED REGION START -->
 # Build a Large Language Model (From Scratch)
 
 **Authors:** [[entities/sebastian-raschka|Sebastian Raschka]]
@@ -111,3 +115,5 @@ Python-fluent ML engineers, researchers, and advanced students who want a mechan
 - [[entities/tiktoken|tiktoken]]
 - [[entities/lightning-ai|Lightning AI]]
 - [[entities/edward-hu|Edward Hu]]
+
+<!-- AUTHORED REGION END -->

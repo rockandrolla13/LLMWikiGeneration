@@ -3,14 +3,28 @@ title: Conformal Risk Control
 page_id: concepts/conformal-risk-control
 page_type: concept
 revision_id: 2
-created: 2026-04-26T12:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, uncertainty-quantification, risk-control, loss-functions]
-sources: [sources/bates-2021-rcps, sources/farinhas-2024-non-exchangeable-crc]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/exchangeability, concepts/distribution-drift]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- uncertainty-quantification
+- risk-control
+- loss-functions
+sources:
+- sources/bates-2021-rcps
+- sources/farinhas-2024-non-exchangeable-crc
+related:
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/exchangeability
+- concepts/distribution-drift
 mind_map_priority: high
+schema_version: 2
+uuid: ff8fc6ce-5e79-55fe-8b24-72918bab8152
+content_hash: sha256:4c3899b275c3574795d05279cff0dd8947f50cffd27c9c668da4c14d2dc9e81b
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Risk Control
 
 ## Primary Source
@@ -126,3 +140,5 @@ P(Y_{n+1} ∈ C_λ̂(X_{n+1})) ≥ 1 - α
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/exchangeability|Exchangeability]]
 - [[concepts/distribution-drift|Distribution Drift]]
+
+<!-- AUTHORED REGION END -->

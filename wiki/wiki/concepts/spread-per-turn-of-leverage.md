@@ -16,9 +16,13 @@ tags:
 - credit-analysis
 - leverage
 title: Spread Per Turn of Leverage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 97407b42-3953-5317-8066-8ccfb69ea048
+content_hash: sha256:f97e500b4122195d1d43a6ac07664bfafd9abb6e746a8151971c89b81f719b4d
 ---
 
+<!-- AUTHORED REGION START -->
 # Spread Per Turn of Leverage
 
 **Spread Per Turn of Leverage (SPL)** is a relative value metric that normalizes credit spreads by the issuer's leverage, enabling comparison across companies with different debt levels.
@@ -100,3 +104,4 @@ Similar analysis frameworks use:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/hyperscaler-data-center-bond-relative-value|hyperscaler-data-center-bond-relative-value]]
+<!-- AUTHORED REGION END -->

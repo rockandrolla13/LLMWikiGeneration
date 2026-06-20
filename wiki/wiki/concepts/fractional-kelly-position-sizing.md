@@ -14,10 +14,14 @@ sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []
 title: Fractional Kelly Position Sizing
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 546169a2-0d09-595d-bdea-70beedeb68aa
+content_hash: sha256:f42f60b46956e3c9ad123e23bde8bada3cbf3cecb5568da459dcdfc2435f0c2f
 ---
 
+<!-- AUTHORED REGION START -->
 # Fractional Kelly Position Sizing
 
 ## Definition
@@ -31,3 +35,4 @@ A bet-sizing framework allocating capital using a scaled-down Kelly criterion vi
 ## Related Concepts
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
+<!-- AUTHORED REGION END -->

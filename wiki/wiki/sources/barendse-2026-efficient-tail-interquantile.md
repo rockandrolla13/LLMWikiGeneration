@@ -1,21 +1,42 @@
 ---
-title: "Efficiently Weighted Estimation of Tail and Interquantile Expectations"
+title: Efficiently Weighted Estimation of Tail and Interquantile Expectations
 page_id: sources/barendse-2026-efficient-tail-interquantile
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Sander Barendse]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Sander Barendse
 year: 2026
 venue: Journal of Financial Econometrics
-volume_issue_pages: "24(2), nbag003"
+volume_issue_pages: 24(2), nbag003
 doi: 10.1093/jjfinec/nbag003
-tags: [tail-expectation, expected-shortfall, interquantile-expectation, quantile-regression, risk-management]
-related: [concepts/tail-expectation, concepts/expected-shortfall, concepts/interquantile-expectation, concepts/fissler-ziegel-loss, concepts/semiparametric-estimation, concepts/fama-french-factors, concepts/quantile-regression, entities/sander-barendse, entities/tobias-fissler, entities/johanna-ziegel, entities/andrew-patton]
+tags:
+- tail-expectation
+- expected-shortfall
+- interquantile-expectation
+- quantile-regression
+- risk-management
+related:
+- concepts/tail-expectation
+- concepts/expected-shortfall
+- concepts/interquantile-expectation
+- concepts/fissler-ziegel-loss
+- concepts/semiparametric-estimation
+- concepts/fama-french-factors
+- concepts/quantile-regression
+- entities/sander-barendse
+- entities/tobias-fissler
+- entities/johanna-ziegel
+- entities/andrew-patton
 mind_map_priority: high
+schema_version: 2
+uuid: b8888c93-437a-5601-88b9-dc5aacb7207a
+content_hash: sha256:656538996552b5e7835ff6f7867ca2212d3fbce45f51b83efb0ff5e5b7c8b688
 ---
 
+<!-- AUTHORED REGION START -->
 # Efficiently Weighted Estimation of Tail and Interquantile Expectations
 
 **Authors:** [[entities/sander-barendse|Sander Barendse]]
@@ -47,3 +68,5 @@ Develops a [[concepts/semiparametric-estimation|semiparametric]] two-stage joint
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

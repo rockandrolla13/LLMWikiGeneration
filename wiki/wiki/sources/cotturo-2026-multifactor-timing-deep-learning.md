@@ -1,21 +1,47 @@
 ---
-title: "Multifactor Timing with Deep Learning"
+title: Multifactor Timing with Deep Learning
 page_id: sources/cotturo-2026-multifactor-timing-deep-learning
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Paul Cotturo, Fred Liu, Robert Proner]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Paul Cotturo
+- Fred Liu
+- Robert Proner
 year: 2026
 venue: Journal of Financial Econometrics
-volume_issue_pages: "24(3), nbag006"
+volume_issue_pages: 24(3), nbag006
 doi: 10.1093/jjfinec/nbag006
-tags: [factor-timing, deep-learning, multitask-learning, lstm, factor-investing]
-related: [concepts/factor-timing, concepts/multitask-learning, concepts/lstm-networks, concepts/deep-learning-for-finance, concepts/shapley-values, concepts/factor-investing, concepts/no-arbitrage-restrictions, concepts/factor-models, entities/paul-cotturo, entities/fred-liu, entities/robert-proner, entities/bryan-kelly, entities/dacheng-xiu, entities/shihao-gu]
+tags:
+- factor-timing
+- deep-learning
+- multitask-learning
+- lstm
+- factor-investing
+related:
+- concepts/factor-timing
+- concepts/multitask-learning
+- concepts/lstm-networks
+- concepts/deep-learning-for-finance
+- concepts/shapley-values
+- concepts/factor-investing
+- concepts/no-arbitrage-restrictions
+- concepts/factor-models
+- entities/paul-cotturo
+- entities/fred-liu
+- entities/robert-proner
+- entities/bryan-kelly
+- entities/dacheng-xiu
+- entities/shihao-gu
 mind_map_priority: high
+schema_version: 2
+uuid: 4890d3ba-fc99-5ee9-a35e-15656161b4af
+content_hash: sha256:b82905e21e62da228fa35ccd9d04255bc5eedc5b7c827d24fe58bcc95e12df5a
 ---
 
+<!-- AUTHORED REGION START -->
 # Multifactor Timing with Deep Learning
 
 **Authors:** [[entities/paul-cotturo|Paul Cotturo]], [[entities/fred-liu|Fred Liu]], [[entities/robert-proner|Robert Proner]]
@@ -48,3 +74,5 @@ Develops a dynamic multitask (DMT) neural network for [[concepts/factor-timing|m
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

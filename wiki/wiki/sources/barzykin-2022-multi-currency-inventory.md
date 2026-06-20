@@ -1,15 +1,34 @@
 ---
-title: "Dealing with multi-currency inventory risk in FX cash markets"
+title: Dealing with multi-currency inventory risk in FX cash markets
 page_id: sources/barzykin-2022-multi-currency-inventory
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, fx, multi-currency, inventory-risk, riccati-equations, stochastic-control]
-authors: [Alexander Barzykin, Philippe Bergault, Olivier Guéant]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- fx
+- multi-currency
+- inventory-risk
+- riccati-equations
+- stochastic-control
+authors:
+- Alexander Barzykin
+- Philippe Bergault
+- Olivier Guéant
 year: 2022
-related: [concepts/market-making, concepts/inventory-risk, concepts/internalization-externalization, entities/olivier-gueant, entities/philippe-bergault, entities/alexander-barzykin]
+related:
+- concepts/market-making
+- concepts/inventory-risk
+- concepts/internalization-externalization
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+schema_version: 2
+uuid: 000a6c91-4d03-5255-9a9c-22cf199f0b2e
+content_hash: sha256:88b1e4d93dee8a2e3b320d0bfc3f1faedea532585d7927595914f6eda5b4c1f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Dealing with multi-currency inventory risk in FX cash markets
 
 ## Summary
@@ -58,3 +77,5 @@ The paper illustrates the model with 5 major currencies (USD, EUR, JPY, GBP, CHF
 ## Citation
 
 Barzykin, A., Bergault, P., & Guéant, O. (2022). Dealing with multi-currency inventory risk in FX cash markets.
+
+<!-- AUTHORED REGION END -->

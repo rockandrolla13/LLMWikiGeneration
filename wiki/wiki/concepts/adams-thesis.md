@@ -13,10 +13,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Adams's Thesis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 93939e12-3a18-55ee-9bc0-e13e513a3f66
+content_hash: sha256:7dcc0c7d83bd54951673774f8d54f7415c74bc694ac244142756b2a3e845f751
 ---
 
+<!-- AUTHORED REGION START -->
 # Adams's Thesis
 
 ## Definition
@@ -26,3 +30,4 @@ The conjecture that the subjective probability of an indicative conditional 'if 
 ## Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

@@ -20,10 +20,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Merton Structural Model
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 259e9c77-3314-5d05-8449-cb5ec1990b61
+content_hash: sha256:01b42cb824125385dddc4c8846d2fb43826ff6a11dc168126aff5494e82c5e3b
 ---
 
+<!-- AUTHORED REGION START -->
 # Merton Structural Model
 
 ## Definition
@@ -43,3 +47,4 @@ A structural credit-risk model (originating with Merton 1974) that specifies a f
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
 - [[concepts/no-arbitrage-restrictions|no-arbitrage-restrictions]]
 - [[concepts/survival-probability|survival-probability]]
+<!-- AUTHORED REGION END -->

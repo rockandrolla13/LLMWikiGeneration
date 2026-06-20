@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Banks - Equity & Credit: Untested Cycle - watch for corporate risk'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8466e2a1a292
+schema_version: 2
+uuid: 5a8c658e-d742-5bc5-b308-753ee949c5b4
+content_hash: sha256:2ccc2a97ef50c7f829d34ccb9ef8a33046bf63b5bd8e313081150c2a18255352
 ---
 
+<!-- AUTHORED REGION START -->
 # European Banks - Equity & Credit: Untested Cycle - watch for corporate risk
 
 **Authors:** Magdalena L Stoklosa, Izabel Dobreva, Antonio Reale, Srikanth Sankaran, Max S Blass, Bruce Hamilton, Alvaro Serrano, Giulia Aurora Miotto, Alice Timperley · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley warns that a deteriorating European credit cycle will have a tang
 - **Path:** `raw/creditmacro/Morgan Stanley - European Banks - Equity & Credit — Untested Cycle - watch for corporate risk - 2019-03-11.md`
 - **Type:** article
 - **Hash:** `sha256:725656cb5d9415d13...`
+<!-- AUTHORED REGION END -->

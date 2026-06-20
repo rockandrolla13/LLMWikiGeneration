@@ -14,10 +14,14 @@ sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 tags: []
 title: Thomas Pearce
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8211cbdb-d4c2-528e-a189-818fb2ac7f94
+content_hash: sha256:4721c2f269acaaf72d607b3d9bea3d2c856908bf767cc42c7826a46036163e63
 ---
 
+<!-- AUTHORED REGION START -->
 # Thomas Pearce
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/db-2019-03-15-european-equity-strategy-growth-momentum|European Equity Strategy: Global growth momentum starts to recover: what is priced in?]]
+<!-- AUTHORED REGION END -->

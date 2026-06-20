@@ -1,17 +1,32 @@
 ---
-title: "Martin D. Gould"
+title: Martin D. Gould
 page_id: entities/martin-gould
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [researcher, market-microstructure, limit-order-book, foreign-exchange, long-memory]
-sources: [sources/gould-2016-long-memory-fx, sources/xu-2020-mlofi]
-related: [concepts/limit-order-book, concepts/long-memory, concepts/order-flow, concepts/market-microstructure]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- market-microstructure
+- limit-order-book
+- foreign-exchange
+- long-memory
+sources:
+- sources/gould-2016-long-memory-fx
+- sources/xu-2020-mlofi
+related:
+- concepts/limit-order-book
+- concepts/long-memory
+- concepts/order-flow
+- concepts/market-microstructure
 mind_map_priority: medium
+schema_version: 2
+uuid: ac5833a1-7385-5da4-a9bd-5db6f414d0b1
+content_hash: sha256:2a97f1b6db1e59c99a576f89befe5680ad45d0cb1d9d0a356dfb39e71eb8c768
 ---
 
+<!-- AUTHORED REGION START -->
 # Martin D. Gould
 
 **Martin D. Gould** is a quantitative researcher specializing in market microstructure, limit order books, and the statistical properties of financial markets. His work combines rigorous empirical analysis with mathematical modeling.
@@ -93,3 +108,5 @@ Gould's research has influenced:
 - [[concepts/order-flow|Order Flow]]
 - [[sources/gould-2016-long-memory-fx|Gould et al. (2016) Long Memory in FX]]
 - [[sources/xu-2020-mlofi|Xu et al. (2020) MLOFI]]
+
+<!-- AUTHORED REGION END -->

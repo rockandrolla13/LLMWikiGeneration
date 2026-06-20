@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Philipp Erfurth
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0a03a9ed-5ea4-5157-9d4e-bd99be587190
+content_hash: sha256:519f2193bfa623e2734b1179eb9593f1621ad053f7fb83c28233c871216b83c9
 ---
 
+<!-- AUTHORED REGION START -->
 # Philipp Erfurth
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-10-30-japanification-or-salvation|The Global Macro Analyst: Japanification or Salvation]]
+<!-- AUTHORED REGION END -->

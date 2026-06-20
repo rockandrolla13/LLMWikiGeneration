@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Strategy: Global In the Flow — Highlights from January'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3ed0002d58b8
+schema_version: 2
+uuid: eb926e1d-912b-5fa0-8f47-ca4556544407
+content_hash: sha256:6c01b5a315e5cab5fec28889880a37128522bb4216656f3eee75cfa1ed23a424
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Strategy: Global In the Flow — Highlights from January
 
 **Authors:** Wanting Low, Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ A cross-asset strategy recap of January 2019, when stocks and credit rebounded s
 - **Path:** `raw/creditmacro/Morgan Stanley - Highlights from January — GLOBAL EQUITIES - 2019-02-01.md`
 - **Type:** article
 - **Hash:** `sha256:2b5d1018e82e05725...`
+<!-- AUTHORED REGION END -->

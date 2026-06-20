@@ -15,10 +15,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Deflation trap
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4196992d-3dda-58aa-bf8c-5e8670704125
+content_hash: sha256:9f7c2e86cab8e26e5400555d39204d9770acdfc4d79388c4926f88aceefc631b
 ---
 
+<!-- AUTHORED REGION START -->
 # Deflation trap
 
 ## Definition
@@ -33,3 +37,4 @@ A self-reinforcing state of falling prices, weak demand and balance-sheet repair
 
 - [[concepts/balance-sheet-recession|balance-sheet-recession]]
 - [[concepts/quantitative-easing|quantitative-easing]]
+<!-- AUTHORED REGION END -->

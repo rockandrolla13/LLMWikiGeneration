@@ -14,10 +14,14 @@ sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []
 title: Jerald E. Pinto
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ef5c9070-ce48-5dde-9654-c8f5b1bcebad
+content_hash: sha256:3920bebd6ba718c02b8861d3c22b5c6d0619c54b587b4585ed03313453ec2755
 ---
 
+<!-- AUTHORED REGION START -->
 # Jerald E. Pinto
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
+<!-- AUTHORED REGION END -->

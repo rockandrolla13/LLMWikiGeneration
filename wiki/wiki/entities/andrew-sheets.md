@@ -44,10 +44,14 @@ sources:
 - sources/ms-2020-04-01-what-do-recoveries-look-like
 tags: []
 title: Andrew Sheets
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 34068d6c-01d5-51cf-895c-d94f3bb2331a
+content_hash: sha256:a92b0067a41711a2d64ad61978a8413289a7a26d7c0137fb9922080c3eae7f07
 ---
 
+<!-- AUTHORED REGION START -->
 # Andrew Sheets
 
 ## Overview
@@ -87,3 +91,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy|Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
 - [[sources/ms-2020-04-01-what-do-recoveries-look-like|Cross-Asset Dispatches: What Do Recoveries Usually Look Like?]]
+<!-- AUTHORED REGION END -->

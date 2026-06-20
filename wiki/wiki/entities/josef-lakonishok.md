@@ -14,10 +14,14 @@ sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []
 title: Josef Lakonishok
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a9748dd0-7605-51ed-946f-4bc965812f94
+content_hash: sha256:90464fd031cb79813698caab259ab3e240b966bf86f1ae1088c3b61087b4c3ca
 ---
 
+<!-- AUTHORED REGION START -->
 # Josef Lakonishok
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/chan-2001-level-persistence-growth-rates|The Level and Persistence of Growth Rates]]
+<!-- AUTHORED REGION END -->

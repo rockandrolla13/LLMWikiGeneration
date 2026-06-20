@@ -13,9 +13,13 @@ tags:
 - tail-risk
 - expected-shortfall
 title: Tail Expectation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: ea5f2203-a3eb-5481-a020-139159a48996
+content_hash: sha256:e939219bf6d505eddc4e60da7a37e66a9e8ed6db912fa03ab734e9f28a8df798
 ---
 
+<!-- AUTHORED REGION START -->
 # Tail Expectation
 
 **Tail Expectation** is the conditional expectation of a variable beyond a thresholding quantile; left-tail expectation is the conditional mean below the quantile (equivalent to Expected Shortfall), right-tail above.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/right-tail-hedging|right-tail-hedging]]
+<!-- AUTHORED REGION END -->

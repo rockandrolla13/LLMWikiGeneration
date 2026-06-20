@@ -26,10 +26,14 @@ source_type: article
 sources: []
 tags: []
 title: 'ECB Preview: TLTRO Funding on its Way'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b995ec803812
+schema_version: 2
+uuid: c5ff00ec-5f71-5ffe-9e75-4fad790c39b4
+content_hash: sha256:24cbf69b669b931a1136cc63e9532a238f210ba962e82209bd94a782372501d8
 ---
 
+<!-- AUTHORED REGION START -->
 # ECB Preview: TLTRO Funding on its Way
 
 **Authors:** Daniele Antonucci, Joao Almeida, Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -62,3 +66,4 @@ Morgan Stanley previews the ECB meeting, expecting the central bank to focus on 
 - **Path:** `raw/creditmacro/Morgan Stanley - ECB Preview — TLTRO Funding on its Way - 2019-02-28.md`
 - **Type:** article
 - **Hash:** `sha256:7610b7f37297b7dd8...`
+<!-- AUTHORED REGION END -->

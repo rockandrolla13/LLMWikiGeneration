@@ -15,10 +15,14 @@ tags:
 - ai-engineering
 - transformers
 title: Generative AI
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
+schema_version: 2
+uuid: 9e4a65de-7758-5a28-9b8c-d3c1a1328293
+content_hash: sha256:cc94d63bbf451da334d11de387f07fc65b9ab8585667d052f1528d4ca9495b37
 ---
 
+<!-- AUTHORED REGION START -->
 # Generative AI
 
 ## Definition
@@ -37,3 +41,4 @@ AI systems built on large language and multimodal models that produce new conten
 
 - [[concepts/ai-capex-funding|ai-capex-funding]]
 - [[concepts/ai-disruption-software-business-models|ai-disruption-software-business-models]]
+<!-- AUTHORED REGION END -->

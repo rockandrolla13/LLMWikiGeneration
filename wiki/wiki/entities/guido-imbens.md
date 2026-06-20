@@ -14,10 +14,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Guido W. Imbens
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2cd6e7d6-9709-57d3-b65a-f2cd29bc0f34
+content_hash: sha256:6d8a72cc2e1c10cdd87a53d5eb2a2595f44671213d48859d0f38bf4cafdd60f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Guido W. Imbens
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hill-2011-bart-causal-inference|Bayesian Nonparametric Modeling for Causal Inference]]
+<!-- AUTHORED REGION END -->

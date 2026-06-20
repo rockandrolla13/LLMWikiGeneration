@@ -22,10 +22,14 @@ sources:
 - sources/pearl-2018-book-of-why
 tags: []
 title: Confounding
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: da159b48-a5a8-5a78-9fdf-9306764e1530
+content_hash: sha256:35d4446136cb1b6ae03cdc75db25c5b30c5076b2ae35fa07f42c5f587f713161
 ---
 
+<!-- AUTHORED REGION START -->
 # Confounding
 
 ## Definition
@@ -45,3 +49,4 @@ Distortion of a cause-effect estimate by a lurking variable that influences both
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/gentzel-2021-osrct-evaluation]]
+<!-- AUTHORED REGION END -->

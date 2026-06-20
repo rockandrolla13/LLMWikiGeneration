@@ -3,14 +3,31 @@ title: Non-Exchangeable Conformal Prediction (NexCP)
 page_id: concepts/non-exchangeable-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [conformal-prediction, non-exchangeable, distribution-drift, weighted-quantiles, total-variation]
-sources: [sources/barber-2023-beyond-exchangeability, sources/stocker-2025-conformal-timeseries-intro, sources/farinhas-2024-non-exchangeable-crc]
-related: [concepts/conformal-prediction, concepts/exchangeability, concepts/weighted-conformal-prediction, concepts/distribution-drift, concepts/online-conformal-prediction]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- non-exchangeable
+- distribution-drift
+- weighted-quantiles
+- total-variation
+sources:
+- sources/barber-2023-beyond-exchangeability
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/farinhas-2024-non-exchangeable-crc
+related:
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/weighted-conformal-prediction
+- concepts/distribution-drift
+- concepts/online-conformal-prediction
 mind_map_priority: high
+schema_version: 2
+uuid: 6fea407c-0e8a-5bdd-aaf4-893f75e95ddd
+content_hash: sha256:06a9eadaaff37ec9b2fda2110f66b86f4a9811d3f5ac0dd3d15c14886d2a8045
 ---
 
+<!-- AUTHORED REGION START -->
 # Non-Exchangeable Conformal Prediction (NexCP)
 
 **NexCP** (Barber, Candès, Ramdas, Tibshirani, [[sources/barber-2023-beyond-exchangeability|2023]]) is the family of [[concepts/conformal-prediction|CP]] methods that uses **fixed weights** `w_i ∈ [0, 1]` on training data to handle non-exchangeable settings without requiring knowledge of the shift mechanism.
@@ -62,3 +79,5 @@ A randomisation technique allows the underlying fit `A` to be **non-symmetric** 
 - [[concepts/exchangeability]]
 - [[concepts/distribution-drift]]
 - [[concepts/online-conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

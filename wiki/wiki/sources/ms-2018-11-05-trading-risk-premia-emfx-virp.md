@@ -25,10 +25,14 @@ sources: []
 tags: []
 title: 'Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk
   Premia (VIRP)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b42b5e980551
+schema_version: 2
+uuid: 229f64bc-f492-5883-9f51-168c58f75d4f
+content_hash: sha256:5854db8b08a85685195ae26fcc5a7555a5a69f31af21ca8e1652485ca976c250
 ---
 
+<!-- AUTHORED REGION START -->
 # Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)
 
 **Authors:** Andres Jaime · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -60,3 +64,4 @@ The second installment of an EM Quant Strategy series introduces a mixed VIRP st
 - **Path:** `raw/creditmacro/Morgan Stanley - EM Quant Strategy — Trading Risk Premia in EMFX (Part 2) A mixed strategy using Volatility Risk Premia (VIRP) - 2018-11-05.md`
 - **Type:** article
 - **Hash:** `sha256:75670fe1da1ddfbf3...`
+<!-- AUTHORED REGION END -->

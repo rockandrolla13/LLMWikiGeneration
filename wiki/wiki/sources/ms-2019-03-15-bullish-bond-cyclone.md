@@ -34,10 +34,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategist: The Bullish ''Bond Cyclone'''
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_c73132e97100
+schema_version: 2
+uuid: f2179f69-beb2-522b-9879-f259633c5f0a
+content_hash: sha256:7e2d4b0ed38fe8420165aa13acf226d377459f32d80b793f53766f80da6218d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategist: The Bullish 'Bond Cyclone'
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -71,3 +75,4 @@ Morgan Stanley stays bullish on duration in the US, Canada, and Japan, expecting
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Government Bonds - 2019-03-15.md`
 - **Type:** article
 - **Hash:** `sha256:738f9d1e59842a018...`
+<!-- AUTHORED REGION END -->

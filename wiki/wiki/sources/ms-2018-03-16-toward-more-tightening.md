@@ -34,10 +34,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategist: Toward More Tightening'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_5c4741048a08
+schema_version: 2
+uuid: 5cc58ba5-6bb0-58cf-bc5d-8e4adbf0aa40
+content_hash: sha256:2b8765683e5a4c9c9d851249acacd31b8478f6892395a5a4eb238ec794a8d8e6
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategist: Toward More Tightening
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Sean Wan, Sam Elprince, Elaine Lin, Shreya Chander, Koichi Sugisaki, Shoki Omori, Jesper Rooth · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -71,3 +75,4 @@ Ahead of expected hawkish Fed and BoE meetings, Morgan Stanley positions for tig
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Toward More Tightening - 2018-03-16.md`
 - **Type:** article
 - **Hash:** `sha256:358ae8bfeace90827...`
+<!-- AUTHORED REGION END -->

@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Credit Strategy: What We''re Watching'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a8f9206b84a2
+schema_version: 2
+uuid: d23db162-4dcf-5b47-b6dd-9f29407a0bed
+content_hash: sha256:941422042ddf789c6cc830057e57dfd1458b962584f1ee538b5c861d1e1dc5d2
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy: What We're Watching
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber, Joerund Holterud Aarsnes · **Year:** 2012 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's weekly European credit monitor reviews notable market moves, po
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy What We’re Watching — Andrew Sheets - 2012-03-12.md`
 - **Type:** article
 - **Hash:** `sha256:493ebd600ebcc93b5...`
+<!-- AUTHORED REGION END -->

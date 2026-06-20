@@ -16,10 +16,14 @@ sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies
 tags: []
 title: Walk-Forward Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: eccc5c1f-2c8d-5a89-ab8e-299d522b96b3
+content_hash: sha256:646d63e4f484a116a8250f47f3659dddf6f5b7623c44f455ed1c737ebe507afb
 ---
 
+<!-- AUTHORED REGION START -->
 # Walk-Forward Analysis
 
 ## Definition
@@ -35,3 +39,4 @@ A validation procedure repeatedly optimizing a strategy on an in-sample window a
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/data-leakage|data-leakage]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
+<!-- AUTHORED REGION END -->

@@ -16,10 +16,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Automated Alpha Search
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3b7eb7ab-f084-5a0b-a9bd-01b6dd400561
+content_hash: sha256:124f22b29dc927492ac30733c34b551e7774e5fd49f88bd007585435e1643510
 ---
 
+<!-- AUTHORED REGION START -->
 # Automated Alpha Search
 
 ## Definition
@@ -35,3 +39,4 @@ The industrialized generation of large numbers of candidate alphas via automated
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/deep-learning-for-finance|deep-learning-for-finance]]
 - [[concepts/feature-engineering|feature-engineering]]
+<!-- AUTHORED REGION END -->

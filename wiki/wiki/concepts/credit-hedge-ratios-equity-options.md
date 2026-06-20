@@ -16,10 +16,14 @@ sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []
 title: Credit Hedge Ratios with Equity Options
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 84e951ea-1440-5ebd-9e01-c83bb824903a
+content_hash: sha256:062764d9b94985be8ccf496cfad5d1cacea4aff6b605c80def86a47c4fef7ff8
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Hedge Ratios with Equity Options
 
 ## Definition
@@ -35,3 +39,4 @@ Theoretical sensitivities of bond credit spread changes to equity put option ret
 - [[concepts/cds-bond-basis|cds-bond-basis]]
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
+<!-- AUTHORED REGION END -->

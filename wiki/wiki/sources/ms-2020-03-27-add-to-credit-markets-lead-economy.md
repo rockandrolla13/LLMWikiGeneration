@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_aec9dbd6f445
+schema_version: 2
+uuid: 77967aa8-2f6c-5fc7-ac6e-099d06327dd8
+content_hash: sha256:bfb5489d853bb244379634214094e48810062f3561c1db9e8ec11d8e5e8ab1ab
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?
 
 **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -79,3 +83,4 @@ Morgan Stanley raises global credit to overweight via additions to US corporate 
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Add to Credit – and How Much Do Markets Lead the Economy - 2020-03-27.md`
 - **Type:** article
 - **Hash:** `sha256:05d02deb7d5b936b9...`
+<!-- AUTHORED REGION END -->

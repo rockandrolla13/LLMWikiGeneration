@@ -14,10 +14,14 @@ sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []
 title: Fractional-Reserve Banking
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: dd5ed371-b2cc-5474-9fc3-0b1dcc7cd62e
+content_hash: sha256:c5a8284c2bf8d798474adfd12a3a4df95319920c4daccce54545b38e54494a9a
 ---
 
+<!-- AUTHORED REGION START -->
 # Fractional-Reserve Banking
 
 ## Definition
@@ -31,3 +35,4 @@ A banking practice in which banks hold only a fraction of demand-deposit liabili
 ## Related Concepts
 
 - [[concepts/bubble-detection|bubble-detection]]
+<!-- AUTHORED REGION END -->

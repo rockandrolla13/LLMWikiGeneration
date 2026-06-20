@@ -14,10 +14,14 @@ sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 tags: []
 title: Gergana Jostova
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 41044bbf-4774-5431-8d40-3214ce50a48e
+content_hash: sha256:60947af0e5784d5aa8a257ee48162aec72a78611ece2765fc3ccd6dc2bac64c9
 ---
 
+<!-- AUTHORED REGION START -->
 # Gergana Jostova
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/avramov-2007-changes-corporate-credit-spreads|Understanding Changes in Corporate Credit Spreads]]
+<!-- AUTHORED REGION END -->

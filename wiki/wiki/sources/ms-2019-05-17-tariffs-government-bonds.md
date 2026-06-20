@@ -36,10 +36,14 @@ source_type: article
 sources: []
 tags: []
 title: For Whom the Tariffs Toll
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_f84b30235bea
+schema_version: 2
+uuid: 0e82ba22-e532-52dd-9731-678db96c23a2
+content_hash: sha256:c83ae66f6c9fb2919b9e228a848bfb605501a915980040ca9659d0d0312bc614
 ---
 
+<!-- AUTHORED REGION START -->
 # For Whom the Tariffs Toll
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, David Harris, Kelcie Gerson, Tony Small, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -76,3 +80,4 @@ A Global Interest Rate Strategist weekly arguing that rising trade tensions rais
 - **Path:** `raw/creditmacro/Morgan Stanley - For Whom the Tariffs Toll — Government Bonds - 2019-05-17.md`
 - **Type:** article
 - **Hash:** `sha256:07d771ea950d646bb...`
+<!-- AUTHORED REGION END -->

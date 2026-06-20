@@ -1,19 +1,37 @@
 ---
-title: "Trade Intensity and Liquidity"
+title: Trade Intensity and Liquidity
 page_id: sources/brigida-2019-trade-intensity-liquidity
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Matt Brigida, William Pratt]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Matt Brigida
+- William Pratt
 year: 2019
 venue: Market Microstructure and Liquidity
-tags: [high-frequency-trading, market-making, liquidity-provision, natural-gas, futures-markets, adverse-selection, orderbook]
-related: [concepts/high-frequency-trading, concepts/market-making, concepts/liquidity, concepts/adverse-selection, concepts/limit-order-book]
+tags:
+- high-frequency-trading
+- market-making
+- liquidity-provision
+- natural-gas
+- futures-markets
+- adverse-selection
+- orderbook
+related:
+- concepts/high-frequency-trading
+- concepts/market-making
+- concepts/liquidity
+- concepts/adverse-selection
+- concepts/limit-order-book
 mind_map_priority: medium
+schema_version: 2
+uuid: d688ecd1-8688-5da8-80c9-8ef4a0869d3b
+content_hash: sha256:bf379091aedd6eab01d4b591605dd0b1eb3dc4649590dcbf5cf740c4f5a2be4a
 ---
 
+<!-- AUTHORED REGION START -->
 # Trade Intensity and Liquidity
 
 **Authors:** Matt Brigida, William Pratt
@@ -127,3 +145,5 @@ Where:
 - [[concepts/liquidity|Liquidity]]
 - [[concepts/adverse-selection|Adverse Selection]]
 - [[concepts/limit-order-book|Limit Order Book]]
+
+<!-- AUTHORED REGION END -->

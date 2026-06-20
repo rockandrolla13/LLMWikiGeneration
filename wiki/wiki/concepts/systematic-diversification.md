@@ -15,10 +15,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: Systematic Diversification
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b705ccf6-42ab-57ef-a507-bdae04cd21b5
+content_hash: sha256:3c979ba7433ae261d881b928aed950a0da4c40ff054a4a8b437c375cf0e411e8
 ---
 
+<!-- AUTHORED REGION START -->
 # Systematic Diversification
 
 ## Definition
@@ -33,3 +37,4 @@ The principle that spreading risk across many futures markets, multiple uncorrel
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
+<!-- AUTHORED REGION END -->

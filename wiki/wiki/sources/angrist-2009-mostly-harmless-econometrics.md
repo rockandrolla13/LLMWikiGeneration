@@ -37,10 +37,14 @@ tags:
 - program-evaluation
 - quantile-regression
 title: 'Mostly Harmless Econometrics: An Empiricist''s Companion'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_fa4f0577e2a2
+schema_version: 2
+uuid: 7ba844d9-ba03-5316-975b-451b70450976
+content_hash: sha256:cfc320635775b892de32f384d4f668e073687f51eee56817b35d23e23767e99a
 ---
 
+<!-- AUTHORED REGION START -->
 # Mostly Harmless Econometrics: An Empiricist's Companion
 
 **Authors:** Joshua D. Angrist, Jörn-Steffen Pischke · **Year:** 2009 · **Venue:** Princeton University Press · **Type:** book
@@ -87,3 +91,4 @@ A graduate-level applied econometrics text organized around credible causal infe
 - **Path:** `raw/creditmacro/Mostly Harmless Econometrics An Empiricists Companion (Joshua D. Angrist, Jorn-Steffen Pischke) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:797016915fe2d18fc...`
+<!-- AUTHORED REGION END -->

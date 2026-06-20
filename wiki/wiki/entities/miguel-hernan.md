@@ -14,10 +14,14 @@ sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []
 title: Miguel A. Hernán
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bfbc3f6e-cfee-5086-9527-5f27f5b4105b
+content_hash: sha256:e61e9fbbc69682fa6a90f42bfa204248bf9d01bce4957410792ed23254896d4a
 ---
 
+<!-- AUTHORED REGION START -->
 # Miguel A. Hernán
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hernan-2020-causal-inference-what-if|Causal Inference: What If]]
+<!-- AUTHORED REGION END -->

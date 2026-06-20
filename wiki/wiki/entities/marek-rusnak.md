@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Marek Rusnak
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e0c4aeaa-c6e1-57bd-a527-9e502cc6e858
+content_hash: sha256:ebe466af3ff2ba39a72a8ca4142910e1d95f5147db1e2351a250016dd485474d
 ---
 
+<!-- AUTHORED REGION START -->
 # Marek Rusnak
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/babecky-2013-leading-indicators-crisis-incidence|Leading indicators of crisis incidence: Evidence from developed countries]]
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

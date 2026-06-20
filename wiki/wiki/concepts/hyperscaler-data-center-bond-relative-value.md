@@ -16,10 +16,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: Hyperscaler-Data Center Bond Relative Value
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c71ad500-23bd-554e-b092-8f7d9b3a70bf
+content_hash: sha256:d7e503df2e31042c4e5270e7b3076017fb268da33d92a5444dfd8922f1e5a67a
 ---
 
+<!-- AUTHORED REGION START -->
 # Hyperscaler-Data Center Bond Relative Value
 
 ## Definition
@@ -35,3 +39,4 @@ A framework pairing each data-center or HPC project bond against the bonds of it
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-curve|credit-spread-curve]]
 - [[concepts/spread-per-turn-of-leverage|spread-per-turn-of-leverage]]
+<!-- AUTHORED REGION END -->

@@ -13,10 +13,14 @@ sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []
 title: Market Structures
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bd33ce9c-48a3-5a49-865e-b913ed20c9d1
+content_hash: sha256:5130e2b717b9a9d6aa8694cf211fadd222b848f402fa8a1ef40aa6d062873bb0
 ---
 
+<!-- AUTHORED REGION START -->
 # Market Structures
 
 ## Definition
@@ -26,3 +30,4 @@ Classification of competitive environments - perfect competition, monopolistic c
 ## Sources
 
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
+<!-- AUTHORED REGION END -->

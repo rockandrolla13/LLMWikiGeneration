@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-04-29-melt-up-skepticism
 tags: []
 title: Adam Virgadamo
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 647d1b7f-e52d-5a7b-9efc-65c2e2681954
+content_hash: sha256:2a4d183495812c714b5b06bcb7a8a4324067b59ac5fa5bfbce71eafeadb3370f
 ---
 
+<!-- AUTHORED REGION START -->
 # Adam Virgadamo
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-04-29-melt-up-skepticism|Cross-Asset Dispatches: Melting Up Is Hard to Do]]
+<!-- AUTHORED REGION END -->

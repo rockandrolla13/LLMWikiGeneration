@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Twin Crises
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 425cdd8c-1f81-5e56-9c49-dcac64b1f551
+content_hash: sha256:7c62e508caee9d3796ab90f3d957cbe7f6d2f14e71792b60c29e60c832fa0b12
 ---
 
+<!-- AUTHORED REGION START -->
 # Twin Crises
 
 ## Definition
@@ -33,3 +37,4 @@ The co-occurrence and causal linkage among crisis types; here banking and debt c
 
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
 - [[concepts/spillover-effect|spillover-effect]]
+<!-- AUTHORED REGION END -->

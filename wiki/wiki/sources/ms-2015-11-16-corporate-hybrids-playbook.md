@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Credit Strategy: Corporate Hybrids Playbook'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cfd8484e49f6
+schema_version: 2
+uuid: 97dd78ae-84dd-551d-a5f1-0969c46538e9
+content_hash: sha256:b6e2839f3c63b338ef3b4ccc6ee3276236d7f2cf8d18cd9409ccd685e0b0e0d4
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy: Corporate Hybrids Playbook
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2015 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley provides a relative-value playbook for European corporate hybrid 
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy Corporate Hybrids Playbook — Srikanth Sankaran - 2015-11-16.md`
 - **Type:** article
 - **Hash:** `sha256:3d1a039c1a7ad988a...`
+<!-- AUTHORED REGION END -->

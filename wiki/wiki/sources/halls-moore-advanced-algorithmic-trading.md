@@ -34,10 +34,14 @@ tags:
 - backtesting
 - pairs-trading
 title: Advanced Algorithmic Trading
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b7b9ceb47ac6
+schema_version: 2
+uuid: 35bdab77-d73c-52f1-921b-11668f5b9739
+content_hash: sha256:3b57dc1c603853df824c55f43ed733e6e1e849841ad6e5e090ce38e448872db9
 ---
 
+<!-- AUTHORED REGION START -->
 # Advanced Algorithmic Trading
 
 **Authors:** Michael L. Halls-Moore · **Venue:** QuantStart · **Type:** book
@@ -80,3 +84,4 @@ A practitioner quantitative-trading book by Michael Halls-Moore (QuantStart) tea
 - **Path:** `raw/creditmacro/Advanced Algorithmic Trading (Mike Halls-Moore) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:7a40f10a85e12808d...`
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform
 tags: []
 title: Global growth differentials
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e2925678-25fb-501d-9203-46ee77e53db7
+content_hash: sha256:9cde7cabfe3e938bf154f416eaa45332b1abe540a414c111e26a225e190e4720
 ---
 
+<!-- AUTHORED REGION START -->
 # Global growth differentials
 
 ## Definition
@@ -31,3 +35,4 @@ Relative growth rates between regions (e.g. developed versus emerging markets) t
 ## Related Concepts
 
 - [[concepts/cross-asset-rotation|cross-asset-rotation]]
+<!-- AUTHORED REGION END -->

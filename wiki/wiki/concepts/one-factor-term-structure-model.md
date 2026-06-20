@@ -16,10 +16,14 @@ sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []
 title: One-Factor Term Structure Model
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c75b1622-a73d-5e7a-a746-affa6fd76551
+content_hash: sha256:fd682ec8bb0606223570d310bdb337c15a6e71e9cf58199454decbf900747194
 ---
 
+<!-- AUTHORED REGION START -->
 # One-Factor Term Structure Model
 
 ## Definition
@@ -35,3 +39,4 @@ A model in which yields or risk premia across all maturities are driven by a sin
 - [[concepts/factor-models|factor-models]]
 - [[concepts/kalman-filter-state-space|kalman-filter-state-space]]
 - [[concepts/term-structure-risk-premium|term-structure-risk-premium]]
+<!-- AUTHORED REGION END -->

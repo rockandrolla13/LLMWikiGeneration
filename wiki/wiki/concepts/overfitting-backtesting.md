@@ -16,10 +16,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Over-fitting in Back-testing
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9d33c83b-8b3f-5183-9800-762bc3627c0b
+content_hash: sha256:4a14b515f09c71e0a19731f9b9c27b8dfb9937869123ab6da8248b6ff105148e
 ---
 
+<!-- AUTHORED REGION START -->
 # Over-fitting in Back-testing
 
 ## Definition
@@ -35,3 +39,4 @@ The tendency of in-sample calibration to select rules/parameters that fit noise 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/trading-strategy-overfitting|trading-strategy-overfitting]]
+<!-- AUTHORED REGION END -->

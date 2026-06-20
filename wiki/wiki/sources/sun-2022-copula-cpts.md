@@ -1,18 +1,33 @@
 ---
-title: "Copula Conformal Prediction for Multi-step Time Series Forecasting"
+title: Copula Conformal Prediction for Multi-step Time Series Forecasting
 page_id: sources/sun-2022-copula-cpts
 page_type: source
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, copulas, multi-step-forecasting, multivariate]
-authors: [entities/sophia-sun, entities/rose-yu]
-publication: "ICLR 2024 (International Conference on Learning Representations)"
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- copulas
+- multi-step-forecasting
+- multivariate
+authors:
+- entities/sophia-sun
+- entities/rose-yu
+publication: ICLR 2024 (International Conference on Learning Representations)
 year: 2024
-related: [sources/xu-2022-spci, sources/zaffran-2022-aci, concepts/conformal-prediction, concepts/copulas]
+related:
+- sources/xu-2022-spci
+- sources/zaffran-2022-aci
+- concepts/conformal-prediction
+- concepts/copulas
 mind_map_priority: high
+schema_version: 2
+uuid: 7530e7ff-b81b-562a-878c-d356113c677d
+content_hash: sha256:238f95ec4fd6e86a4f3bbedf5bbd900a0da7f5f451efe803aae39aa328d4476b
 ---
 
+<!-- AUTHORED REGION START -->
 # Copula Conformal Prediction for Multi-step Time Series Forecasting
 
 ## Summary
@@ -102,3 +117,5 @@ The advantage increases with forecast horizon:
 - [[sources/xu-2022-spci|SPCI]] - Alternative approach using quantile regression on residuals
 - [[sources/zaffran-2022-aci|Adaptive Conformal Predictions for Time Series]]
 - [[entities/rose-yu|Rose Yu]] - Senior author, UC San Diego STL Lab
+
+<!-- AUTHORED REGION END -->

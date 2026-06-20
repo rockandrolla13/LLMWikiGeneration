@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-02-28-selling-the-rally
 tags: []
 title: Aleksandr Nozhnitskiy
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: de191e4e-8384-577b-b880-69f460025786
+content_hash: sha256:d1828a363fc8bc3143d6ec900e33e43625336398a52a0b3ccc432ff243a3ba5c
 ---
 
+<!-- AUTHORED REGION START -->
 # Aleksandr Nozhnitskiy
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-02-28-selling-the-rally|US Corporate Credit Strategy Brief: Selling the Rally]]
+<!-- AUTHORED REGION END -->

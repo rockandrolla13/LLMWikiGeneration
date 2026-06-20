@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Sovereign Subjects: Europe in the Balance'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7c35d3a753b9
+schema_version: 2
+uuid: 4a3d8034-5e26-54ff-9a81-1a44e56589e8
+content_hash: sha256:20aa0850ccfb075373a5f8a9c2e37a9e6bbd93c23eaa33a30d708244724e23c6
 ---
 
+<!-- AUTHORED REGION START -->
 # Sovereign Subjects: Europe in the Balance
 
 **Authors:** Arnaud Marès · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Marès argues that the euro-area crisis is a self-fulfilling 'run' on both banks
 - **Path:** `raw/creditmacro/Morgan Stanley - Sovereign Subjects — Europe in the Balance - 2011.md`
 - **Type:** article
 - **Hash:** `sha256:53b8d65965c012f99...`
+<!-- AUTHORED REGION END -->

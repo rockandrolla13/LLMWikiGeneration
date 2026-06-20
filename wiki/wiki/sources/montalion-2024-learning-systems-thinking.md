@@ -1,20 +1,41 @@
 ---
-title: "Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals"
+title: 'Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals'
 page_id: sources/montalion-2024-learning-systems-thinking
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_3_2026_06_19
-tags: [systems-thinking, software-architecture, sociotechnical, non-linear-thinking, digital-transformation, domain-driven-design, team-topologies, cloud-native, microservices, event-driven-architecture, oreilly, 2024, professional-development, mental-models, complexity]
-sources: [sources/montalion-2024-learning-systems-thinking]
+tags:
+- systems-thinking
+- software-architecture
+- sociotechnical
+- non-linear-thinking
+- digital-transformation
+- domain-driven-design
+- team-topologies
+- cloud-native
+- microservices
+- event-driven-architecture
+- oreilly
+- 2024
+- professional-development
+- mental-models
+- complexity
+sources:
+- sources/montalion-2024-learning-systems-thinking
 related: []
 mind_map_priority: high
-authors: ["Diana Montalion"]
+authors:
+- Diana Montalion
 year: 2024
 source_type: book
+schema_version: 2
+uuid: abf822ad-4f03-55a7-b4d2-439c6e5e00e6
+content_hash: sha256:976419dce79d84683a9b6e3d41c9cf6b6389d881de3732f01d1888b4959eb5e3
 ---
 
+<!-- AUTHORED REGION START -->
 # Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals
 
 **Authors:** Diana Montalion  
@@ -95,3 +116,5 @@ Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software
 - What does the author mean by 'symmathecist' (Jessica Kerr's self-description) and how does that concept appear in the book?
 - What is the structure of the table of contents beyond what appears in the first 250 lines? (TOC not yet visible in the read portion)
 - How does the book address uncertainty and decision-making under complexity in practical software team settings?
+
+<!-- AUTHORED REGION END -->

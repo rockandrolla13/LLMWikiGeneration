@@ -13,9 +13,13 @@ tags:
 - market-microstructure
 - electronic-markets
 title: High-Frequency Trading
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 7962a491-4e5e-5575-8f79-4f3213cb4f63
+content_hash: sha256:8560e31b608e0869df35a94d141d4194df66413b3274c090867f9e441faec9b8
 ---
 
+<!-- AUTHORED REGION START -->
 # High-Frequency Trading
 
 **High-Frequency Trading (HFT)** is trading characterized by ultra-low latency, high order-to-trade ratios, and short holding horizons. Often subdivided into market makers and aggressive opportunistic traders.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Roger Koenker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 77639996-9cdc-523c-b730-35491a4563ec
+content_hash: sha256:36d647a41e185c98114cd27d7f13e5d5668c4dabf73d2de1a6d453bed6bd9c27
 ---
 
+<!-- AUTHORED REGION START -->
 # Roger Koenker
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/gneiting-2007-strictly-proper-scoring-rules|Strictly Proper Scoring Rules, Prediction, and Estimation]]
+<!-- AUTHORED REGION END -->

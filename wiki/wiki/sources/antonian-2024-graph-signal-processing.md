@@ -1,18 +1,37 @@
 ---
-title: "Bayesian Reconstruction and Regression with Multivariate Graph Signals"
+title: Bayesian Reconstruction and Regression with Multivariate Graph Signals
 page_id: sources/antonian-2024-graph-signal-processing
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [graph-signal-processing, Bayesian-methods, Kalman-filter, tensor-methods, financial-applications, NatWest]
-authors: [Edward Antonian]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-signal-processing
+- Bayesian-methods
+- Kalman-filter
+- tensor-methods
+- financial-applications
+- NatWest
+authors:
+- Edward Antonian
 year: 2024
 journal: PhD Thesis, Heriot-Watt University
-institution: [Heriot-Watt University, NatWest]
-supervisors: [Mike Chantler, Gareth W. Peters]
-related: [concepts/graph-signal-processing, concepts/bayesian-inference, concepts/kronecker-products, concepts/tensor-methods]
+institution:
+- Heriot-Watt University
+- NatWest
+supervisors:
+- Mike Chantler
+- Gareth W. Peters
+related:
+- concepts/graph-signal-processing
+- concepts/bayesian-inference
+- concepts/kronecker-products
+- concepts/tensor-methods
+schema_version: 2
+uuid: bfc800ad-d72c-515b-b476-aee2fcbc7c17
+content_hash: sha256:6cb0697c327f07e5c90538d305c9eae23f4e06929f8a96d78070f2239a86940f
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Reconstruction and Regression with Multivariate Graph Signals
 
 ## Summary
@@ -80,3 +99,5 @@ PhD thesis advancing Graph Signal Processing (GSP) theory for Bayesian reconstru
 
 - [[sources/nunes-2022-ml-fixed-income|Nunes (2022)]] - ML in fixed income
 - [[sources/saha-2024-muni-bond-ml|Saha et al. (2024)]] - similarity learning
+
+<!-- AUTHORED REGION END -->

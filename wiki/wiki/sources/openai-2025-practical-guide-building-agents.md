@@ -1,20 +1,32 @@
 ---
-title: "A Practical Guide to Building Agents"
+title: A Practical Guide to Building Agents
 page_id: sources/openai-2025-practical-guide-building-agents
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [agents, llm, orchestration, openai, multi-agent, tool-use]
-sources: [sources/openai-2025-practical-guide-building-agents]
+tags:
+- agents
+- llm
+- orchestration
+- openai
+- multi-agent
+- tool-use
+sources:
+- sources/openai-2025-practical-guide-building-agents
 related: []
 mind_map_priority: high
-authors: ["OpenAI"]
+authors:
+- OpenAI
 year: 2025
 source_type: book
+schema_version: 2
+uuid: baa84f6b-f80c-5dc2-b417-eb55ea6b8141
+content_hash: sha256:98257d06983d736c09b85e20546202baaaeb7384d0aa18ae71f6328dd0e5fd91
 ---
 
+<!-- AUTHORED REGION START -->
 # A Practical Guide to Building Agents
 
 **Authors:** OpenAI  
@@ -58,3 +70,5 @@ A Practical Guide to Building Agents (OpenAI, 2025) is a concise technical guide
 - How do guardrails (chapter 4) constrain agent behavior in practice, and what failure modes do they address?
 - At what scale or complexity threshold does a single-agent system need to be refactored into a multi-agent architecture?
 - How should teams design and run evaluations (evals) to establish the performance baselines needed before optimizing model selection?
+
+<!-- AUTHORED REGION END -->

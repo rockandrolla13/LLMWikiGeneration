@@ -40,9 +40,13 @@ tags:
 - heuristics
 - anomalies
 title: Behavioral Finance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 813248fe-dbe9-53e9-8a05-bbc3e5d7a86b
+content_hash: sha256:cff208fea3a0420f693a8716fbd495840af5cddee28a36914544f15c190d65f4
 ---
 
+<!-- AUTHORED REGION START -->
 # Behavioral Finance
 
 **Behavioral Finance** is the branch of finance studying systematic deviations from rational decision-making by market participants, often using prospect theory, narrow framing, and heuristics.
@@ -78,3 +82,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-06-15-1937-38-redux]], [[sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers]], [[sources/ms-2019-02-17-goldilocks-whiplash]], [[sources/ms-2019-03-01-global-in-the-flow-february-recap]], [[sources/ms-2019-03-01-global-insights-polling]], [[sources/ms-2019-04-29-melt-up-skepticism]], [[sources/ms-2020-03-29-full-court-policy-press]]
+<!-- AUTHORED REGION END -->

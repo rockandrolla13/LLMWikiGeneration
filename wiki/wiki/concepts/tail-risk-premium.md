@@ -16,10 +16,14 @@ sources:
 - sources/ilmanen-2011-expected-returns
 tags: []
 title: Tail Risk and Volatility Selling
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 082ef3f1-eab8-5161-9688-0f626f37844d
+content_hash: sha256:adefbf3d3993833c28c62fee26d6711b18bc0fe597e8852df2c0c6a8b8e98862
 ---
 
+<!-- AUTHORED REGION START -->
 # Tail Risk and Volatility Selling
 
 ## Definition
@@ -35,3 +39,4 @@ Premia for bearing volatility, correlation, and negative-skewness shocks; explai
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
 - [[concepts/value-at-risk|value-at-risk]]
+<!-- AUTHORED REGION END -->

@@ -16,10 +16,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Bayesian Nonparametrics
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6c30a781-dc0c-586d-b215-b03f320cb374
+content_hash: sha256:65daeddfad3d4300b23c224945d5b1f946dfdffd54e3a60a40c4a5fa1d2d5a35
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Nonparametrics
 
 ## Definition
@@ -35,3 +39,4 @@ A class of Bayesian modeling approaches that place priors over very flexible (ef
 - [[concepts/bayesian-updating|bayesian-updating]]
 - [[concepts/gaussian-processes|gaussian-processes]]
 - [[concepts/mcmc-bayesian-inference|mcmc-bayesian-inference]]
+<!-- AUTHORED REGION END -->

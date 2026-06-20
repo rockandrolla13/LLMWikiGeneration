@@ -14,10 +14,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Stanley Druckenmiller
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c1fabadf-542f-5341-b7a0-239006ca3c96
+content_hash: sha256:0d6250f560624da1573e8b874334451411579dcf858c73855d41897de2ba7641
 ---
 
+<!-- AUTHORED REGION START -->
 # Stanley Druckenmiller
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+<!-- AUTHORED REGION END -->

@@ -1,16 +1,27 @@
 ---
-title: "Changhao Shi"
+title: Changhao Shi
 page_id: entities/changhao-shi
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, graph-learning, graph-signal-processing, ucsd]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- graph-learning
+- graph-signal-processing
+- ucsd
 affiliation: UC San Diego
 degree: PhD
-related: [sources/shi-2024-graph-laplacian-learning, entities/gal-mishne, concepts/graph-laplacian]
+related:
+- sources/shi-2024-graph-laplacian-learning
+- entities/gal-mishne
+- concepts/graph-laplacian
+schema_version: 2
+uuid: f407f563-1d39-5f0c-80b0-02c2cb881160
+content_hash: sha256:5d400ab697ae8c35f3f5ecb5a67ac04afb148edde2080f74411ccfe33fa4fe85
 ---
 
+<!-- AUTHORED REGION START -->
 # Changhao Shi
 
 **Affiliation:** University of California San Diego
@@ -72,3 +83,5 @@ His work has been applied to:
 - [[concepts/graph-laplacian|Graph Laplacian]]
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/graph-fourier-transform|Graph Fourier Transform]]
+
+<!-- AUTHORED REGION END -->

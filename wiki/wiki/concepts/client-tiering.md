@@ -1,14 +1,31 @@
 ---
-title: "Client Tiering"
+title: Client Tiering
 page_id: concepts/client-tiering
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, fx, pricing, client-segmentation, adverse-selection]
-sources: [sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2020-algorithmic-fx-market-making]
-related: [concepts/market-making, concepts/adverse-selection, concepts/internalization-externalization, entities/alexander-barzykin, entities/olivier-gueant, entities/philippe-bergault]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- fx
+- pricing
+- client-segmentation
+- adverse-selection
+sources:
+- sources/barzykin-2021-fx-dealer-tiers
+- sources/barzykin-2020-algorithmic-fx-market-making
+related:
+- concepts/market-making
+- concepts/adverse-selection
+- concepts/internalization-externalization
+- entities/alexander-barzykin
+- entities/olivier-gueant
+- entities/philippe-bergault
+schema_version: 2
+uuid: 2ba81182-0b7e-5a82-b7e9-3b4c657f9eeb
+content_hash: sha256:055c293dd8cc5850ccdf82d47a1d092555728cdc960c6ac177a8ec3f2a49c1be
 ---
 
+<!-- AUTHORED REGION START -->
 # Client Tiering
 
 ## Overview
@@ -159,3 +176,5 @@ Volume-based discounts within tiers:
 - [[concepts/internalization-externalization|Internalization vs Externalization]]
 - [[entities/alexander-barzykin|Alexander Barzykin]]
 - [[sources/barzykin-2021-fx-dealer-tiers|Barzykin et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

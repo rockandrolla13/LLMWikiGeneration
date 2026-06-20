@@ -33,10 +33,14 @@ tags:
 - reference-class-forecasting
 - superforecasting
 title: 'Bayes and Base Rates: How History Can Guide Our Assessment of the Future'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_35ca9dd91883
+schema_version: 2
+uuid: 814ce8cf-3846-5332-9686-d855d32fa7f4
+content_hash: sha256:364ee37a248906fe1da576efc1b8bef36d81483864ca65618caf61abea6efaf0
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayes and Base Rates: How History Can Guide Our Assessment of the Future
 
 **Authors:** Michael J. Mauboussin, Dan Callahan · **Year:** 2026 · **Venue:** Counterpoint Global Insights (Morgan Stanley Investment Management) · **Type:** report
@@ -80,3 +84,4 @@ A Counterpoint Global Insights (Morgan Stanley) research note (10 February 2026)
 - **Path:** `raw/creditmacro/article_bayesandbaserates_ltr.md`
 - **Type:** article
 - **Hash:** `sha256:0c7a858ec18a7bc0a...`
+<!-- AUTHORED REGION END -->

@@ -14,9 +14,13 @@ tags:
 - volatility
 - portfolio-selection
 title: Realized Covariance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 8e162d97-99a2-5ede-b55f-25eeef17a8e0
+content_hash: sha256:9595e7caa8dae304074c70a7f19476eb2d1f6f8f555ea74f867bf92247b1380c
 ---
 
+<!-- AUTHORED REGION START -->
 # Realized Covariance
 
 **Realized Covariance** is a non-parametric estimator of the daily integrated covariance matrix from intraday returns, generalizing realized variance to multivariate settings via methods such as the multivariate realized kernel.
@@ -33,3 +37,4 @@ updated: '2026-06-09T12:00:00Z'
 
 - [[concepts/dawid-sebastiani-score|dawid-sebastiani-score]]
 - [[concepts/variogram-score|variogram-score]]
+<!-- AUTHORED REGION END -->

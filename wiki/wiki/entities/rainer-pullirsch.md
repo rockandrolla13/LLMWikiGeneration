@@ -4,13 +4,23 @@ page_id: entities/rainer-pullirsch
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-05-05T23:25:00Z
-updated: 2026-05-05T23:25:00Z
-tags: [creditETF, credit-risk, quantitative-research]
-sources: [sources/pullirsch-2006-credit-spread-risk]
-related: [concepts/credit-spread-curve, concepts/residual-variance]
+created: 2026-05-05 23:25:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- credit-risk
+- quantitative-research
+sources:
+- sources/pullirsch-2006-credit-spread-risk
+related:
+- concepts/credit-spread-curve
+- concepts/residual-variance
+schema_version: 2
+uuid: 8480757e-d0a2-5c84-806d-e875fcdb1ee4
+content_hash: sha256:0f3d101dbd8a19596a7ce1f85fefca404c246100b2f5fee702222fb4cee71b02
 ---
 
+<!-- AUTHORED REGION START -->
 # Rainer Pullirsch
 
 **Rainer Pullirsch** is a credit risk researcher who worked at Bank Austria Creditanstalt, focusing on credit-spread curve estimation and risk measurement.
@@ -46,3 +56,5 @@ Published "Measuring Credit-Spread Risk on a Single Issuer Basis" in Wirtschaft 
 ## Publications in This Wiki
 
 - [[sources/pullirsch-2006-credit-spread-risk|Measuring Credit-Spread Risk on a Single Issuer Basis]]
+
+<!-- AUTHORED REGION END -->

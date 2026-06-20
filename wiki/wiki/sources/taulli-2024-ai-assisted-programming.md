@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Tom Taulli
@@ -42,8 +42,12 @@ related:
 - entities/tom-taulli
 mind_map_priority: medium
 revision_hash: sha256:2196e152748a3b04
+schema_version: 2
+uuid: 942eab87-e924-5a10-84c8-da055626d6bb
+content_hash: sha256:07d60c30a40bdfb2b81d4065cd81f884a6b45092352ace3ddb2002c3cfaae927
 ---
 
+<!-- AUTHORED REGION START -->
 # AI-Assisted Programming
 *Better Planning, Coding, Testing, and Deployment*
 
@@ -114,3 +118,5 @@ Working software developers (beginner to mid-senior) and engineering managers wh
 - [[entities/google-gemini|Google Gemini]]
 - [[entities/anthropic-claude|Anthropic Claude]]
 - [[entities/code-llama|Code Llama]]
+
+<!-- AUTHORED REGION END -->

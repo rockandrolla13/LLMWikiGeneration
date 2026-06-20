@@ -15,10 +15,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: DSGE and Threshold BVAR Counterfactual Analysis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 313090e8-75aa-5791-8865-dd4f9683a641
+content_hash: sha256:15e49c3bd90cc08f610ca35e14698f698016a9dec15e2b69c8c5343bb3abb6b0
 ---
 
+<!-- AUTHORED REGION START -->
 # DSGE and Threshold BVAR Counterfactual Analysis
 
 ## Definition
@@ -33,3 +37,4 @@ The book's empirical toolkit: an estimated DSGE model, a two-regime threshold Ba
 
 - [[concepts/spillover-effect|spillover-effect]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/ms-2020-03-20-risk-parity-deleveraging
 tags: []
 title: Risk Parity
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4942b85e-0d3d-53ac-93e1-f742cfa68d4a
+content_hash: sha256:64b4b04b68b4843bac1b3fa9426527860d693ca9bb4242e3206fb6269b3171ae
 ---
 
+<!-- AUTHORED REGION START -->
 # Risk Parity
 
 ## Definition
@@ -33,3 +37,4 @@ A portfolio construction approach allocating risk equally across assets, often u
 
 - [[concepts/global-tactical-asset-allocation|global-tactical-asset-allocation]]
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
+<!-- AUTHORED REGION END -->

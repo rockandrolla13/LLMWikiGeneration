@@ -14,10 +14,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: J.P. Morgan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
+content_hash: sha256:32745fa2a5ed947405f4009de0a2e2d6af6a5c9bb7c573ff7b80e8c9c32be67f
 ---
 
+<!-- AUTHORED REGION START -->
 # J.P. Morgan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+<!-- AUTHORED REGION END -->

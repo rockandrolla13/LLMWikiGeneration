@@ -1,20 +1,47 @@
 ---
-title: "Introduction to Agents"
+title: Introduction to Agents
 page_id: sources/blount-2025-introduction-to-agents
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [agents, ai-agents, llm, multi-agent-systems, agent-architecture, orchestration, function-calling, rag, context-engineering, agent-ops, production-ai, google, 2025, autonomous-systems, chain-of-thought, react, security, governance, self-evolving-systems]
-sources: [sources/blount-2025-introduction-to-agents]
+tags:
+- agents
+- ai-agents
+- llm
+- multi-agent-systems
+- agent-architecture
+- orchestration
+- function-calling
+- rag
+- context-engineering
+- agent-ops
+- production-ai
+- google
+- 2025
+- autonomous-systems
+- chain-of-thought
+- react
+- security
+- governance
+- self-evolving-systems
+sources:
+- sources/blount-2025-introduction-to-agents
 related: []
 mind_map_priority: high
-authors: ["Alan Blount", "Antonio Gulli", "Shubham Saboo"]
+authors:
+- Alan Blount
+- Antonio Gulli
+- Shubham Saboo
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 7ed9b3aa-57ac-54a3-bd18-10ab57464c28
+content_hash: sha256:e8751c241cc7a35fe1972c0f1f09cb0033718bdf9cef584f59a01a990b6d9414
 ---
 
+<!-- AUTHORED REGION START -->
 # Introduction to Agents
 
 **Authors:** Alan Blount, Antonio Gulli, Shubham Saboo  
@@ -88,3 +115,5 @@ Introduction to Agents (November 2025) is the first installment in a five-part s
 - What are the self-evolution mechanisms described for Level 4 agents, and what is the role of Simulation/Agent Gym?
 - How does the ADK (Agent Development Kit) integrate with the security and governance recommendations?
 - What are the four remaining papers in the five-part series, and what topics do they cover?
+
+<!-- AUTHORED REGION END -->

@@ -16,9 +16,13 @@ tags:
 - similarity-measures
 - ensemble-methods
 title: Random Forest Proximity
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 63bcc2c2-17e4-5928-9284-2ce57d5c7900
+content_hash: sha256:421e4836e632d1628ec7afcacd1b5788e7d99af682322160820b1e25f55eaa74
 ---
 
+<!-- AUTHORED REGION START -->
 # Random Forest Proximity
 
 Random forest proximity is a similarity measure derived from ensemble tree methods, capturing how often two observations land in the same leaf node across trees.
@@ -78,3 +82,4 @@ Ranges from 0 (never in same leaf) to 1 (always in same leaf).
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/decision-trees|decision-trees]]
+<!-- AUTHORED REGION END -->

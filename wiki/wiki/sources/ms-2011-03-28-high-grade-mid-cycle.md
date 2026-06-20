@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Weekly Credit Wrap: High Grade, Mid-Cycle'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_574a9c114e0f
+schema_version: 2
+uuid: ede09f22-6a0c-5163-bd01-2c46804abce9
+content_hash: sha256:e5dd3413e0ff87bdba0fd40bd57031a6320e1e7c687fae2b38674977fe1cd274
 ---
 
+<!-- AUTHORED REGION START -->
 # Weekly Credit Wrap: High Grade, Mid-Cycle
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -67,3 +71,4 @@ A European fixed income research weekly assessing investment-grade credit fundam
 - **Path:** `raw/creditmacro/Morgan Stanley - Fixed Income Research — Jonathan Graber - 2011-03-28.md`
 - **Type:** article
 - **Hash:** `sha256:85866d702969122b8...`
+<!-- AUTHORED REGION END -->

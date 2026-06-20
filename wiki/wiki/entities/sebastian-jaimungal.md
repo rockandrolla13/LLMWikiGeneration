@@ -1,15 +1,28 @@
 ---
-title: "Sebastian Jaimungal"
+title: Sebastian Jaimungal
 page_id: entities/sebastian-jaimungal
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, optimal-execution, market-making, algorithmic-trading, stochastic-control]
-affiliations: [University of Toronto]
-related: [entities/alvaro-cartea, concepts/optimal-execution, concepts/market-making]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- optimal-execution
+- market-making
+- algorithmic-trading
+- stochastic-control
+affiliations:
+- University of Toronto
+related:
+- entities/alvaro-cartea
+- concepts/optimal-execution
+- concepts/market-making
+schema_version: 2
+uuid: 9bece5b6-00b7-50e6-8ef6-03d990807b2b
+content_hash: sha256:96fb5c976a6929bbfe74ace1929fa27853a2da2bf1be1d197740f15f8af042a9
 ---
 
+<!-- AUTHORED REGION START -->
 # Sebastian Jaimungal
 
 ## Overview
@@ -52,3 +65,5 @@ Key collaborators:
 ## Contact
 
 - Institution: Department of Statistical Sciences, University of Toronto, 27 King's College Circle, Toronto, ON M5S, Canada
+
+<!-- AUTHORED REGION END -->

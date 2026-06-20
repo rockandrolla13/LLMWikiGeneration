@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform
 tags: []
 title: Derrick Y Kam
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b0037e7d-74f2-535c-a082-4c0eb170c8b2
+content_hash: sha256:a52a64dcb3a2b58e086e97b1fb41c2bc39cadbdc2243a915068b5c0896f79eb7
 ---
 
+<!-- AUTHORED REGION START -->
 # Derrick Y Kam
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-01-18-china-doing-whatever-it-takes|China – Doing whatever it takes]]
 - [[sources/ms-2019-01-24-global-growth-tracker-dm-underperform|Global Growth Tracker – DMs Underperform More than Expected]]
+<!-- AUTHORED REGION END -->

@@ -1,37 +1,54 @@
 ---
-title: "Distribution-Free Predictive Inference for Regression"
+title: Distribution-Free Predictive Inference for Regression
 page_id: sources/lei-2018-distribution-free-regression
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Jing Lei", "Max G'Sell", "Alessandro Rinaldo", "Ryan J. Tibshirani", "Larry Wasserman"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Jing Lei
+- Max G'Sell
+- Alessandro Rinaldo
+- Ryan J. Tibshirani
+- Larry Wasserman
 year: 2018
-venue: "Journal of the American Statistical Association 113(523), 1094-1111 (DOI 10.1080/01621459.2017.1307116). arXiv:1604.04173."
-tags: [conformal-prediction, regression, split-conformal, jackknife, locally-adaptive, distribution-free, high-dimensional, loco]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/nonconformity-score,
-  concepts/exchangeability,
-  concepts/marginal-coverage,
-  concepts/conditional-coverage,
-  entities/jing-lei,
-  entities/max-gsell,
-  entities/alessandro-rinaldo,
-  entities/ryan-tibshirani,
-  entities/larry-wasserman,
-  sources/tibshirani-2019-covariate-shift,
-  sources/vovk-2005-algorithmic-learning,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/romano-2019-cqr,
-  sources/barber-2021-jackknife-plus
-]
+venue: Journal of the American Statistical Association 113(523), 1094-1111 (DOI 10.1080/01621459.2017.1307116).
+  arXiv:1604.04173.
+tags:
+- conformal-prediction
+- regression
+- split-conformal
+- jackknife
+- locally-adaptive
+- distribution-free
+- high-dimensional
+- loco
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/nonconformity-score
+- concepts/exchangeability
+- concepts/marginal-coverage
+- concepts/conditional-coverage
+- entities/jing-lei
+- entities/max-gsell
+- entities/alessandro-rinaldo
+- entities/ryan-tibshirani
+- entities/larry-wasserman
+- sources/tibshirani-2019-covariate-shift
+- sources/vovk-2005-algorithmic-learning
+- sources/angelopoulos-2022-gentle-intro
+- sources/romano-2019-cqr
+- sources/barber-2021-jackknife-plus
 mind_map_priority: high
+schema_version: 2
+uuid: 24aa59e3-7689-5fe9-bb91-766f1e10a80d
+content_hash: sha256:f79e6f24214eda899539a9b2f3317077c1c6995fce7fd397d31285a9fe13c8ea
 ---
 
+<!-- AUTHORED REGION START -->
 # Distribution-Free Predictive Inference for Regression
 
 **Authors:** [[entities/jing-lei|Jing Lei]], [[entities/max-gsell|Max G'Sell]], [[entities/alessandro-rinaldo|Alessandro Rinaldo]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]], [[entities/larry-wasserman|Larry Wasserman]]
@@ -80,3 +97,5 @@ For ~5 years (2018-2022) this was **the** practical reference for CP-in-regressi
 - [[concepts/split-conformal-prediction]]
 - [[concepts/nonconformity-score]]
 - [[entities/jing-lei]], [[entities/larry-wasserman]]
+
+<!-- AUTHORED REGION END -->

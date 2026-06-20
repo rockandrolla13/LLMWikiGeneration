@@ -17,10 +17,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: AI Capex Funding
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: da7b96fb-6c91-540b-ba8b-c26b3acfd139
+content_hash: sha256:60784f75eb1973a35f7f897140f0436ac42caf2e1b51808920413021a3fb13fd
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Capex Funding
 
 ## Definition
@@ -37,3 +41,4 @@ The macro-credit theme of accelerating AI/hyperscaler capital expenditure fuelin
 - [[concepts/agentic-ai|agentic-ai]]
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/generative-ai|generative-ai]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Bounded Rationality
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: db6ea108-cf81-5c13-8924-61cf1377b244
+content_hash: sha256:d6af6c3898437ddf156f10ca7fb00fb72f7eb1d15befdab56ea3a09c8ea9c0ec
 ---
 
+<!-- AUTHORED REGION START -->
 # Bounded Rationality
 
 ## Definition
@@ -33,3 +37,4 @@ Actors make locally sensible decisions on limited, delayed information, so the a
 
 - [[concepts/agent-based-models|agent-based-models]]
 - [[concepts/behavioral-finance|behavioral-finance]]
+<!-- AUTHORED REGION END -->

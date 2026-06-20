@@ -16,10 +16,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Variogram Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: cf6eaf8c-28fa-5e62-8c9c-d8363e69707e
+content_hash: sha256:580fc71ecd62d9653bfc96a48633db1a74699e418da35616b7fddd5190a2b302
 ---
 
+<!-- AUTHORED REGION START -->
 # Variogram Score
 
 ## Definition
@@ -35,3 +39,4 @@ A multivariate scoring rule (Scheuerer and Hamill 2015) based on geostatistical 
 - [[concepts/energy-score|energy-score]]
 - [[concepts/realized-covariance|realized-covariance]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

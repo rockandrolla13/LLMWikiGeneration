@@ -16,10 +16,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: Probabilistic Causality
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 076826dd-e631-554a-a157-cae8c30fb4f2
+content_hash: sha256:4b42c69dccf5518fa079c58efeed2e5a243439bebfe714af8602bcaa6289cbbb
 ---
 
+<!-- AUTHORED REGION START -->
 # Probabilistic Causality
 
 ## Definition
@@ -38,3 +42,4 @@ An account of causation keeping open the possibility that causes operate indeter
 
 - [[concepts/conditional-independence-test|conditional-independence-test]]
 - [[concepts/potential-outcomes|potential-outcomes]]
+<!-- AUTHORED REGION END -->

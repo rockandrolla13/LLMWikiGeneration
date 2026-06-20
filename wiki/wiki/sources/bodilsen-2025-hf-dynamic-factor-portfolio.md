@@ -1,21 +1,43 @@
 ---
-title: "Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model"
+title: Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor
+  Model
 page_id: sources/bodilsen-2025-hf-dynamic-factor-portfolio
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Simon T. Bodilsen]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Simon T. Bodilsen
 year: 2025
 venue: Journal of Financial Econometrics
-volume_issue_pages: "23(2), nbae018"
+volume_issue_pages: 23(2), nbae018
 doi: 10.1093/jjfinec/nbae018
-tags: [realized-covariance, high-frequency-data, factor-models, hierarchical-clustering, portfolio-selection]
-related: [concepts/realized-covariance, concepts/multivariate-realized-kernel, concepts/hierarchical-clustering, concepts/har-model, concepts/minimum-variance-portfolio, concepts/approximate-factor-models, concepts/factor-models, entities/simon-t-bodilsen, entities/jianqing-fan, entities/ole-barndorff-nielsen, entities/neil-shephard]
+tags:
+- realized-covariance
+- high-frequency-data
+- factor-models
+- hierarchical-clustering
+- portfolio-selection
+related:
+- concepts/realized-covariance
+- concepts/multivariate-realized-kernel
+- concepts/hierarchical-clustering
+- concepts/har-model
+- concepts/minimum-variance-portfolio
+- concepts/approximate-factor-models
+- concepts/factor-models
+- entities/simon-t-bodilsen
+- entities/jianqing-fan
+- entities/ole-barndorff-nielsen
+- entities/neil-shephard
 mind_map_priority: high
+schema_version: 2
+uuid: f12d42ec-c3e4-5e2a-9f5c-e65fee2b746c
+content_hash: sha256:9264563e60df2c704b4a3519d0ddd7f3f21950991da5b997b6c2617953039631
 ---
 
+<!-- AUTHORED REGION START -->
 # Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model
 
 **Authors:** [[entities/simon-t-bodilsen|Simon T. Bodilsen]]
@@ -47,3 +69,5 @@ Proposes a high-frequency-based dynamic factor model for forecasting large [[con
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

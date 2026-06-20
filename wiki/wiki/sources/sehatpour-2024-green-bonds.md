@@ -1,19 +1,40 @@
 ---
-title: "Anatomy of Municipal Green Bond Yield Spreads"
+title: Anatomy of Municipal Green Bond Yield Spreads
 page_id: sources/sehatpour-2024-green-bonds
 page_type: source
 source_type: working-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Mohammad Hadi Sehatpour, Marta Campi, Christina S. Nikitopoulos, Gareth W. Peters, Kylie-Anne Richards]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Mohammad Hadi Sehatpour
+- Marta Campi
+- Christina S. Nikitopoulos
+- Gareth W. Peters
+- Kylie-Anne Richards
 year: 2024
 venue: SSRN Working Paper
-tags: [green-bonds, municipal-bonds, yield-spreads, association-rule-learning, sustainable-finance, machine-learning]
-related: [sources/martin-2024-credit-curve, concepts/green-bond-spreads, concepts/association-rule-learning, concepts/yield-to-maturity, entities/gareth-peters, entities/christina-nikitopoulos]
+tags:
+- green-bonds
+- municipal-bonds
+- yield-spreads
+- association-rule-learning
+- sustainable-finance
+- machine-learning
+related:
+- sources/martin-2024-credit-curve
+- concepts/green-bond-spreads
+- concepts/association-rule-learning
+- concepts/yield-to-maturity
+- entities/gareth-peters
+- entities/christina-nikitopoulos
 mind_map_priority: high
+schema_version: 2
+uuid: 1cd009f2-30f7-5f93-b671-e5dfd6137234
+content_hash: sha256:cb6aa7deda144c2c0d62a65365c9bd89450ed253d5d4922835fb025ca23e2ab1
 ---
 
+<!-- AUTHORED REGION START -->
 # Anatomy of Municipal Green Bond Yield Spreads
 
 **Authors:** Mohammad Hadi Sehatpour, Marta Campi, [[entities/christina-nikitopoulos|Christina S. Nikitopoulos]], [[entities/gareth-peters|Gareth W. Peters]], Kylie-Anne Richards
@@ -110,3 +131,5 @@ Proposes novel approaches for computing [[concepts/green-bond-spreads|green bond
 - [[concepts/association-rule-learning|Association Rule Learning]]
 - [[concepts/yield-to-maturity|Yield to Maturity]]
 - [[sources/martin-2024-credit-curve|Martin 2024 (Credit Curve)]]
+
+<!-- AUTHORED REGION END -->

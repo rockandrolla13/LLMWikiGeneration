@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-01-25-treasury-market-commentary
 tags: []
 title: Molly Wharton
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1dd7eb85-c7e5-5be7-887f-af8aef3677d9
+content_hash: sha256:97bc4e615fe5a6735f58a74553313f081fde9f7459ffd5e3f342f350d584f55d
 ---
 
+<!-- AUTHORED REGION START -->
 # Molly Wharton
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-01-25-treasury-market-commentary|Treasury Market Commentary, January 25]]
+<!-- AUTHORED REGION END -->

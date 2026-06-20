@@ -35,10 +35,14 @@ tags:
 - liquidity-risk
 - financial-crisis-2008
 title: Limited arbitrage between equity and credit markets
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cbc7ffd3de97
+schema_version: 2
+uuid: 58884d7f-4135-5407-b691-011b44f9ba5e
+content_hash: sha256:239ccfadd333e49e6f6f3daa6a47f5454f87abfbda472fc50a95c227b50ec7a7
 ---
 
+<!-- AUTHORED REGION START -->
 # Limited arbitrage between equity and credit markets
 
 **Authors:** Nikunj Kapadia, Xiaoling Pu · **Year:** 2012 · **Venue:** Journal of Financial Economics · **Type:** paper
@@ -84,3 +88,4 @@ Kapadia and Pu document that short-horizon pricing discrepancies across a firm's
 - **Path:** `raw/creditmacro/1-s2.0-S0304405X12000670-main.md`
 - **Type:** paper
 - **Hash:** `sha256:b6d2f7f14545bf8f9...`
+<!-- AUTHORED REGION END -->

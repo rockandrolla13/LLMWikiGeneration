@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-02-13-ecb-periphery-one-size
 tags: []
 title: Pasquale M Diana
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5c4a8e10-54f3-5dc7-80e9-0f71d7fed27f
+content_hash: sha256:cfe184bb7552a27341acf4672ad61edfc263afbf0aa6ea1951e016988767ce1c
 ---
 
+<!-- AUTHORED REGION START -->
 # Pasquale M Diana
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-02-13-ecb-periphery-one-size|One Size Doesn't Fit All]]
+<!-- AUTHORED REGION END -->

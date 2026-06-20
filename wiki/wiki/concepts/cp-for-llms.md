@@ -3,14 +3,31 @@ title: Conformal Prediction for Large Language Models
 page_id: concepts/cp-for-llms
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, large-language-models, generative-ai, hallucination, alignment, rag]
-sources: [sources/zhou-2025-cp-data-perspective]
-related: [concepts/conformal-prediction, concepts/large-language-models, concepts/llm-hallucination, concepts/retrieval-augmented-generation, concepts/conformal-risk-control, concepts/cp-for-nlp]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- large-language-models
+- generative-ai
+- hallucination
+- alignment
+- rag
+sources:
+- sources/zhou-2025-cp-data-perspective
+related:
+- concepts/conformal-prediction
+- concepts/large-language-models
+- concepts/llm-hallucination
+- concepts/retrieval-augmented-generation
+- concepts/conformal-risk-control
+- concepts/cp-for-nlp
 mind_map_priority: high
+schema_version: 2
+uuid: 1627f045-f11e-5a69-8459-f85183b2b202
+content_hash: sha256:71718f084042c2217fe6dd5d497905a26b56395f06025db790ec6a465d97bbe1
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction for Large Language Models
 
 **CP for LLMs** applies [[concepts/conformal-prediction|conformal prediction]] to generative language models for [[concepts/llm-hallucination|hallucination]] control, factuality filtering, [[concepts/retrieval-augmented-generation|RAG]] pipelines, and alignment.
@@ -47,3 +64,5 @@ LLM-era applications need calibrated uncertainty more than ever: hallucinations 
 - [[concepts/retrieval-augmented-generation]]
 - [[concepts/conformal-risk-control]]
 - [[concepts/cp-for-nlp]]
+
+<!-- AUTHORED REGION END -->

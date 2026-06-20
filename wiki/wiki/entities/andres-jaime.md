@@ -18,10 +18,14 @@ sources:
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
 tags: []
 title: Andres Jaime
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 88c533a0-da65-5b79-8a62-ed948a3bc38e
+content_hash: sha256:19ef5450dd2fbe7aa90905f286b6b9a8824cc8593284100cd93e861f55e7b7eb
 ---
 
+<!-- AUTHORED REGION START -->
 # Andres Jaime
 
 ## Overview
@@ -35,3 +39,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2018-11-05-trading-risk-premia-emfx-virp|Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)]]
 - [[sources/ms-2019-02-11-emfx-quants-lab-steady-path|EMFX Quant's Lab: Steady Path]]
 - [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs|EM Quant Strategy: EMFX Quant's Lab - Carry Performs]]
+<!-- AUTHORED REGION END -->

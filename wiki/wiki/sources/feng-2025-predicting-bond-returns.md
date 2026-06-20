@@ -1,16 +1,33 @@
 ---
-title: "Predicting Individual Corporate Bond Returns"
+title: Predicting Individual Corporate Bond Returns
 page_id: sources/feng-2025-predicting-bond-returns
 page_type: source
-created: 2026-04-26T01:45:00Z
-updated: 2026-04-26T01:45:00Z
-tags: [machine-learning, corporate-bonds, return-prediction, random-forest, bond-characteristics]
-authors: [Guanhao Feng, Xin He, Yanchu Wang, Chunchi Wu]
+created: 2026-04-26 01:45:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- corporate-bonds
+- return-prediction
+- random-forest
+- bond-characteristics
+authors:
+- Guanhao Feng
+- Xin He
+- Yanchu Wang
+- Chunchi Wu
 year: 2025
 journal: Journal of Banking and Finance
-related: [concepts/machine-learning-bonds, concepts/bond-return-predictability, concepts/random-forest, entities/guanhao-feng]
+related:
+- concepts/machine-learning-bonds
+- concepts/bond-return-predictability
+- concepts/random-forest
+- entities/guanhao-feng
+schema_version: 2
+uuid: b020934e-f0be-5204-ab7d-ab8d9affa05f
+content_hash: sha256:0568ec47d4e07c52c595600402ea9ed8588c461ce60ebc832bf0989d19c93342
 ---
 
+<!-- AUTHORED REGION START -->
 # Predicting Individual Corporate Bond Returns
 
 ## Summary
@@ -63,3 +80,5 @@ Applies machine learning to predict corporate bond returns using 45 years of dat
 
 - [[sources/bali-2022-bond-ml|Bali et al. (2022)]] - related ML approach
 - [[sources/kelly-2023-ipca|Kelly et al. (2023)]] - IPCA factors
+
+<!-- AUTHORED REGION END -->

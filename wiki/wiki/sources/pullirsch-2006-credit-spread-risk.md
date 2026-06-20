@@ -1,15 +1,28 @@
 ---
-title: "Measuring Credit-Spread Risk on a Single Issuer Basis"
+title: Measuring Credit-Spread Risk on a Single Issuer Basis
 page_id: sources/pullirsch-2006-credit-spread-risk
 page_type: source
 revision_id: 1
-created: 2026-05-05T23:15:00Z
-updated: 2026-05-05T23:15:00Z
-tags: [creditETF, credit-spread-risk, zero-coupon-curves, VaR, bond-pricing]
-authors: [entities/rainer-pullirsch]
-related: [concepts/credit-spread-curve, concepts/residual-variance, concepts/zero-coupon-curve]
+created: 2026-05-05 23:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- credit-spread-risk
+- zero-coupon-curves
+- VaR
+- bond-pricing
+authors:
+- entities/rainer-pullirsch
+related:
+- concepts/credit-spread-curve
+- concepts/residual-variance
+- concepts/zero-coupon-curve
+schema_version: 2
+uuid: 2cc09829-56b5-5949-b760-45edefd00704
+content_hash: sha256:53776aabd5310b36e0e7be014f7b91669129914252f79337d28f72edccff6710
 ---
 
+<!-- AUTHORED REGION START -->
 # Measuring Credit-Spread Risk on a Single Issuer Basis
 
 **Author:** [[entities/rainer-pullirsch|Rainer Pullirsch]], Bank Austria Creditanstalt
@@ -100,3 +113,5 @@ For issuers with limited liquid bonds:
 - [[concepts/residual-variance]]
 - [[concepts/zero-coupon-curve]]
 - [[concepts/value-at-risk]]
+
+<!-- AUTHORED REGION END -->

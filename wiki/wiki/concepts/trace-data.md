@@ -1,13 +1,27 @@
 ---
-title: "TRACE Data"
+title: TRACE Data
 page_id: concepts/trace-data
 page_type: concept
-created: 2026-04-26T02:25:00Z
-updated: 2026-04-26T02:25:00Z
-tags: [TRACE, corporate-bonds, data, FINRA, transaction-data, market-microstructure]
-related: [concepts/market-microstructure-noise, concepts/trade-classification, sources/dickerson-2024-bond-pitfalls, sources/fedenia-2021-ml-trade-classifier]
+created: 2026-04-26 02:25:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- TRACE
+- corporate-bonds
+- data
+- FINRA
+- transaction-data
+- market-microstructure
+related:
+- concepts/market-microstructure-noise
+- concepts/trade-classification
+- sources/dickerson-2024-bond-pitfalls
+- sources/fedenia-2021-ml-trade-classifier
+schema_version: 2
+uuid: 00820d48-f707-5df4-b4da-406a6fc26ac4
+content_hash: sha256:588b4a00da4556532bc70825835763b0e12245acf93b44d97714dc413be08270
 ---
 
+<!-- AUTHORED REGION START -->
 # TRACE Data
 
 ## Definition
@@ -82,3 +96,5 @@ Standard filtering (Dickerson et al. 2024):
 
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
 - [[sources/fedenia-2021-ml-trade-classifier|Fedenia et al. (2021)]]
+
+<!-- AUTHORED REGION END -->

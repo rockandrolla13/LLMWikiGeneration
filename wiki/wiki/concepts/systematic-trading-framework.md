@@ -14,10 +14,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Modular Systematic Trading Framework
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 88a2a4ea-674d-53bf-8cee-a2a63a99cbc4
+content_hash: sha256:abc2fa618f7ef9665b6ae548f65e2c599f4c75b1cf92b91077e3cea7a76a6107
 ---
 
+<!-- AUTHORED REGION START -->
 # Modular Systematic Trading Framework
 
 ## Definition
@@ -31,3 +35,4 @@ Carver's end-to-end, swappable pipeline: instruments -> per-rule forecasts -> co
 ## Related Concepts
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Ludwig von Mises
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 71c10b16-1dbf-599e-b543-becee6f00907
+content_hash: sha256:55b42f928ee6e156b574e7ba9980e15672a0f9ad701a8a562077ea138b0ca3db
 ---
 
+<!-- AUTHORED REGION START -->
 # Ludwig von Mises
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+<!-- AUTHORED REGION END -->

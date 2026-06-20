@@ -26,10 +26,14 @@ source_type: article
 sources: []
 tags: []
 title: 'MODs: Machine Learning on Drivers'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_43b3448a64f7
+schema_version: 2
+uuid: 8c79864d-8f9c-593f-bdec-a52d9c6c5473
+content_hash: sha256:b2c36a1b3aaa8994c41cc5eeb6c9cb925bbbc13226e9a57c77726c825c2eac8a
 ---
 
+<!-- AUTHORED REGION START -->
 # MODs: Machine Learning on Drivers
 
 **Authors:** Jeen Ng, James Egan, Vishwanath Tirupattur · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -62,3 +66,4 @@ A Resi Credit Insights / QuantWise note applying machine learning to identify th
 - **Path:** `raw/creditmacro/Morgan Stanley - MODs Machine Learning on Drivers - 2017-10-13.md`
 - **Type:** article
 - **Hash:** `sha256:0fa192572cacfd559...`
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,29 @@ title: Conformal Prediction for Graph Data
 page_id: concepts/cp-for-graphs
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, graph-neural-networks, node-classification, link-prediction, fdr-control]
-sources: [sources/zhou-2025-cp-data-perspective]
-related: [concepts/conformal-prediction, concepts/graph-neural-networks, concepts/exchangeability, concepts/transductive-learning, concepts/nonconformity-score]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- graph-neural-networks
+- node-classification
+- link-prediction
+- fdr-control
+sources:
+- sources/zhou-2025-cp-data-perspective
+related:
+- concepts/conformal-prediction
+- concepts/graph-neural-networks
+- concepts/exchangeability
+- concepts/transductive-learning
+- concepts/nonconformity-score
 mind_map_priority: medium
+schema_version: 2
+uuid: b53d7ea7-a9df-55b1-b77c-196b7675b81c
+content_hash: sha256:966a31236e670d9a81f2ba383fa1bff8d5016249b1ec0cef290645651dd9f180
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction for Graph Data
 
 **CP for graphs** applies [[concepts/conformal-prediction|conformal prediction]] to data with explicit relational structure: node classification, link prediction, graph-level property prediction, and message-passing [[concepts/graph-neural-networks|GNN]] outputs.
@@ -40,3 +55,5 @@ Nodes in a graph are emphatically *not* exchangeable — their features, labels,
 - [[concepts/exchangeability]]
 - [[concepts/transductive-learning]]
 - [[concepts/nonconformity-score]]
+
+<!-- AUTHORED REGION END -->

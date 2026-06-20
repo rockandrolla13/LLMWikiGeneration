@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'EM Quant Strategy: EMFX Quant''s Lab - Carry Performs'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_c85cb5443521
+schema_version: 2
+uuid: 1ccf6096-597e-5e8d-979a-e927161b354d
+content_hash: sha256:5e73bf77e7ff1d0e2c4c62f3b4bb1b7663154a214b98126748da4b7881008970
 ---
 
+<!-- AUTHORED REGION START -->
 # EM Quant Strategy: EMFX Quant's Lab - Carry Performs
 
 **Authors:** Andres Jaime · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -58,3 +62,4 @@ Morgan Stanley's EMFX quant note reports that the PortHB high-beta allocation ro
 - **Path:** `raw/creditmacro/Morgan Stanley - EM Quant Strategy — EMFX Quant's Lab Carry Performs - 2019-06-03.md`
 - **Type:** article
 - **Hash:** `sha256:63708e07d0cc5b1a3...`
+<!-- AUTHORED REGION END -->

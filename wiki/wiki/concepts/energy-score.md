@@ -22,10 +22,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Energy Score
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c5cb4006-dc0c-5673-9d23-eb822ee43837
+content_hash: sha256:45d6652b1b47a1e757d41a487659525b32d471bd38986fb9bf26438540c7eccd
 ---
 
+<!-- AUTHORED REGION START -->
 # Energy Score
 
 ## Definition
@@ -47,3 +51,4 @@ A strictly proper score for multivariate forecasts based on expected Euclidean d
 - [[concepts/ranked-probability-score|ranked-probability-score]]
 - [[concepts/uncertainty-quantification|uncertainty-quantification]]
 - [[concepts/variogram-score|variogram-score]]
+<!-- AUTHORED REGION END -->

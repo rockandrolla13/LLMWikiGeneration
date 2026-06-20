@@ -14,10 +14,14 @@ sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly
 tags: []
 title: Chuan Lim
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5e234156-8d85-5b78-bd1a-cf743a53d423
+content_hash: sha256:f9188d965058580543e1b1d606e7d931bed3ee883785a28ac989f82f874029c7
 ---
 
+<!-- AUTHORED REGION START -->
 # Chuan Lim
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2010-09-15-em-quantitative-quarterly|Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy]]
+<!-- AUTHORED REGION END -->

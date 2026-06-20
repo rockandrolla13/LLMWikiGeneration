@@ -14,10 +14,14 @@ sources:
 - sources/ms-2020-04-03-global-macro-commentary-covid
 tags: []
 title: Edward von der Schmidt
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f31711cc-eb74-57d4-95b4-b380ce4fbea1
+content_hash: sha256:95db4eecb1831e1d589d14d07d704ff977f5adebf0ad0dff23ce648f3b1edc0e
 ---
 
+<!-- AUTHORED REGION START -->
 # Edward von der Schmidt
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2020-04-03-global-macro-commentary-covid|Global Macro Commentary | April 2]]
+<!-- AUTHORED REGION END -->

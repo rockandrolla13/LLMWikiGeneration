@@ -1,19 +1,38 @@
 ---
-title: "Algorithmic trading in a microstructural limit order book model"
+title: Algorithmic trading in a microstructural limit order book model
 page_id: sources/abergel-2017-algorithmic-trading-lob
 page_type: source
 source_type: preprint
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Frederic Abergel, Come Hure, Huyen Pham]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Frederic Abergel
+- Come Hure
+- Huyen Pham
 year: 2017
 venue: arXiv preprint
-tags: [market-making, limit-order-book, stochastic-control, high-frequency-trading, markov-decision-process, hawkes-processes]
-related: [concepts/limit-order-book, concepts/market-making, concepts/hawkes-processes, concepts/markov-decision-process, sources/lu-2018-market-making, entities/frederic-abergel]
+tags:
+- market-making
+- limit-order-book
+- stochastic-control
+- high-frequency-trading
+- markov-decision-process
+- hawkes-processes
+related:
+- concepts/limit-order-book
+- concepts/market-making
+- concepts/hawkes-processes
+- concepts/markov-decision-process
+- sources/lu-2018-market-making
+- entities/frederic-abergel
 mind_map_priority: high
+schema_version: 2
+uuid: d0174cac-ad33-5007-be36-0f9efe8eafd1
+content_hash: sha256:60082e00248072f982d47ea0140532b1ddb173894a855215bc196168687b6a6f
 ---
 
+<!-- AUTHORED REGION START -->
 # Algorithmic Trading in a Microstructural Limit Order Book Model
 
 **Authors:** Frederic Abergel, Come Hure, Huyen Pham
@@ -81,3 +100,5 @@ The order book is described by K limits on each side (bid and ask):
 - [[concepts/hawkes-processes|Hawkes Processes]]
 - [[concepts/markov-decision-process|Markov Decision Process]]
 - [[sources/lu-2018-market-making|Lu & Abergel (2018) Order-book Modelling]]
+
+<!-- AUTHORED REGION END -->

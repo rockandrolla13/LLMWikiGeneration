@@ -14,10 +14,14 @@ sources:
 - sources/ms-2011-11-28-europe-economics-recession-returns
 tags: []
 title: Olivier Bizimana
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3a4251e6-09c3-54e3-a3bb-52f1fce52c14
+content_hash: sha256:b9f79d0b8422be214d2ae2dbb6b11d1ee411c74d101454fbaa8458c737215044
 ---
 
+<!-- AUTHORED REGION START -->
 # Olivier Bizimana
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2011-11-28-europe-economics-recession-returns|Europe Economics: Recession Returns]]
+<!-- AUTHORED REGION END -->

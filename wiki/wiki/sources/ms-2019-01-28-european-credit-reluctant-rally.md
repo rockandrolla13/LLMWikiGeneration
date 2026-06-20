@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Credit Playbook: A Reluctant Rally'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_0338b473f157
+schema_version: 2
+uuid: 8c241049-2865-516b-b2e8-8fef20d66a92
+content_hash: sha256:4f5c9764f1b971b027b759d93668fcbec61d2d3575df85dc4d1effb98df181a9
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Playbook: A Reluctant Rally
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley reviews the strong January 2019 rally in European credit, particu
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Playbook A Reluctant Rally — Srikanth Sankaran - 2019-01-28.md`
 - **Type:** article
 - **Hash:** `sha256:3f5c7ee7a3db3aeae...`
+<!-- AUTHORED REGION END -->

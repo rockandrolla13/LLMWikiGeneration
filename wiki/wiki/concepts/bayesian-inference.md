@@ -16,10 +16,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Bayesian Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2e26b42c-4b21-5d90-9938-9256372bc865
+content_hash: sha256:6718eb0c483dae952390105104cb6bdba176449fa297e92fc242016599aaae03
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Inference
 
 ## Definition
@@ -35,3 +39,4 @@ Reasoning about hypotheses by updating priors with evidence, presented as a corr
 - [[concepts/bayesian-updating|bayesian-updating]]
 - [[concepts/calibration|calibration]]
 - [[concepts/mcmc-bayesian-inference|mcmc-bayesian-inference]]
+<!-- AUTHORED REGION END -->

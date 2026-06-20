@@ -16,10 +16,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Corporate Credit Debt Bubble
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 557124f9-4a39-5e1a-a504-891e384710b2
+content_hash: sha256:46a73333d51e8a7b7cb4cfbfc5b76def47f7c5a7f14f04df954eac8e40822001
 ---
 
+<!-- AUTHORED REGION START -->
 # Corporate Credit Debt Bubble
 
 ## Definition
@@ -35,3 +39,4 @@ The buildup of leveraged corporate and sovereign debt enabled by low rates; US c
 - [[concepts/bubble-detection|bubble-detection]]
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
+<!-- AUTHORED REGION END -->

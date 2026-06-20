@@ -14,10 +14,14 @@ sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []
 title: Curse of Dimensionality
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a1130b9d-c7e2-522e-a63d-2900662e2ab0
+content_hash: sha256:2b71fd7380c294897994bb1f75d97bd42222f3ac28a123fb18f9517ef98c90d7
 ---
 
+<!-- AUTHORED REGION START -->
 # Curse of Dimensionality
 
 ## Definition
@@ -31,3 +35,4 @@ The rapid deterioration of statistical and computational tractability as the num
 ## Related Concepts
 
 - [[concepts/high-dimensional-data|high-dimensional-data]]
+<!-- AUTHORED REGION END -->

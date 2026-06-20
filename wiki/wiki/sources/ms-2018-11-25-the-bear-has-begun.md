@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: '2019 US Credit Outlook: The Bear Has Begun'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_33a868fd6015
+schema_version: 2
+uuid: 3b87be56-9942-5571-9fa3-484a60be8acb
+content_hash: sha256:f89dcfdd4af4e11e2484718cef389aab684d3166690ab40f59edca7971133b1e
 ---
 
+<!-- AUTHORED REGION START -->
 # 2019 US Credit Outlook: The Bear Has Begun
 
 **Authors:** Adam S Richmond, Vishwas Patkar, Frederick T Fuchs, Felician G Stratmann · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -68,3 +72,4 @@ The 2019 US credit outlook argues a credit bear market began when IG spreads hit
 - **Path:** `raw/creditmacro/Morgan Stanley - The Bear Has Begun - 2018-11-25.md`
 - **Type:** article
 - **Hash:** `sha256:68b379bb9ea89446d...`
+<!-- AUTHORED REGION END -->

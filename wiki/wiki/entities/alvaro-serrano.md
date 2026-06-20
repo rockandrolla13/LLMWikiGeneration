@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-04-18-mrel-subordination-brrd2
 tags: []
 title: Alvaro Serrano
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b734aea0-3929-5007-b8ba-c127121820bc
+content_hash: sha256:57e1e4ef79191915eabae470229a62f86b51a97fcc470a22908fe1c0ab910d7f
 ---
 
+<!-- AUTHORED REGION START -->
 # Alvaro Serrano
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-03-11-untested-cycle-corporate-risk|European Banks - Equity & Credit: Untested Cycle - watch for corporate risk]]
 - [[sources/ms-2019-04-18-mrel-subordination-brrd2|MREL – Raising the Subordination Stakes]]
+<!-- AUTHORED REGION END -->

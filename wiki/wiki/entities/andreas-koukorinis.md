@@ -18,9 +18,13 @@ tags:
 - conformal-prediction
 - causal-inference
 title: Andreas Koukorinis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 422778c1-c12e-52da-afe0-e06f489a87b5
+content_hash: sha256:b8810eb4a4890c13e99bd05978cc3c0a455130f4fcc9f7a6df6df91482b47b6d
 ---
 
+<!-- AUTHORED REGION START -->
 # Andreas Koukorinis
 
 **Affiliation:** Department of Computer Science, University College London
@@ -64,3 +68,4 @@ The variance-standardized version (VS-DR-ACI) achieves 63% narrower intervals th
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/ahmad-2014-alaph-liquid-macro-credit-fund]], [[sources/koukorinis-2024-xantium-business-plan]]
+<!-- AUTHORED REGION END -->

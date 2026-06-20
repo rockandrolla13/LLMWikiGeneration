@@ -37,10 +37,14 @@ tags:
 - negative-interest-rates
 - zombie-firms
 title: 'Monetary Policy after the Great Recession: The Role of Interest Rates'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_89aace8429f9
+schema_version: 2
+uuid: 6f912bce-133c-50a5-9c9e-09190ca9ab05
+content_hash: sha256:5b5416af9291527b3570f6e865e74b7ee3fb9b0daa2ebbd8181fb623c8063267
 ---
 
+<!-- AUTHORED REGION START -->
 # Monetary Policy after the Great Recession: The Role of Interest Rates
 
 **Authors:** Arkadiusz Sieroń · **Year:** 2021 · **Venue:** Routledge International Studies in Money and Banking · **Type:** book
@@ -87,3 +91,4 @@ Arkadiusz Sieroń (University of Wrocław; Austrian-school economist) argues the
 - **Path:** `raw/creditmacro/Monetary Policy after the Great Recession  the role of interest rates (Arkadiusz Sieroń) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:eff9ba5a06ef018bc...`
+<!-- AUTHORED REGION END -->

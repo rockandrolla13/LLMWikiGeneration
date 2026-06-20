@@ -1,18 +1,33 @@
 ---
-title: "Sequential Predictive Conformal Inference for Time Series"
+title: Sequential Predictive Conformal Inference for Time Series
 page_id: sources/xu-2022-spci
 page_type: source
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, quantile-regression, sequential-prediction]
-authors: [entities/chen-xu, entities/yao-xie]
-publication: "ICML 2023 (Proceedings of the 40th International Conference on Machine Learning)"
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- quantile-regression
+- sequential-prediction
+authors:
+- entities/chen-xu
+- entities/yao-xie
+publication: ICML 2023 (Proceedings of the 40th International Conference on Machine
+  Learning)
 year: 2023
-related: [sources/sun-2022-copula-cpts, sources/zaffran-2022-aci, concepts/conformal-prediction, concepts/adaptive-conformal-inference]
+related:
+- sources/sun-2022-copula-cpts
+- sources/zaffran-2022-aci
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
 mind_map_priority: high
+schema_version: 2
+uuid: 0a05f2e1-9fa5-5975-8d89-071ade50644e
+content_hash: sha256:183ad64b9cebb6de7d6d9d26cde366e10ba070ed113fe8715e376a96e974133d
 ---
 
+<!-- AUTHORED REGION START -->
 # Sequential Predictive Conformal Inference for Time Series
 
 ## Summary
@@ -87,3 +102,5 @@ SPCI consistently achieves the target 90% coverage with substantially narrower i
 
 - [[sources/sun-2022-copula-cpts|CopulaCPTS]] - Alternative approach using copulas for multi-step forecasting
 - [[sources/zaffran-2022-aci|Adaptive Conformal Predictions for Time Series]]
+
+<!-- AUTHORED REGION END -->

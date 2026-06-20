@@ -3,14 +3,37 @@ title: Online Conformal Prediction
 page_id: concepts/online-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [conformal-prediction, online-learning, time-series, sequential-prediction, adversarial]
-sources: [sources/gibbs-2021-aci, sources/gibbs-2024-online-aci, sources/angelopoulos-2023-conformal-pid, sources/zaffran-2022-aci, sources/xu-2023-enbpi, sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/agaci, concepts/conformal-pid-control, concepts/dtaci, concepts/enbpi, concepts/non-exchangeable-conformal-prediction, concepts/exchangeability]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- online-learning
+- time-series
+- sequential-prediction
+- adversarial
+sources:
+- sources/gibbs-2021-aci
+- sources/gibbs-2024-online-aci
+- sources/angelopoulos-2023-conformal-pid
+- sources/zaffran-2022-aci
+- sources/xu-2023-enbpi
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/agaci
+- concepts/conformal-pid-control
+- concepts/dtaci
+- concepts/enbpi
+- concepts/non-exchangeable-conformal-prediction
+- concepts/exchangeability
 mind_map_priority: high
+schema_version: 2
+uuid: 4f132cb0-4baa-5b1a-bce4-a77edf37f33b
+content_hash: sha256:4107ba4c78bc4495ba6d47e850e18dee60d63e39438bf00d2db6fc83f4890c3f
 ---
 
+<!-- AUTHORED REGION START -->
 # Online Conformal Prediction
 
 **Online conformal prediction** is the umbrella family of [[concepts/conformal-prediction|CP]] methods designed for the streaming setting: data arrive sequentially, predictions are made one at a time, and labels are revealed before the next prediction. The goal is **long-run coverage** `(1/T) Σ err_t → α` (or deterministic adversarial coverage) without requiring [[concepts/exchangeability|exchangeability]].
@@ -65,3 +88,5 @@ See the table above for primary sources of each family.
 - [[concepts/non-exchangeable-conformal-prediction]]
 - [[concepts/enbpi]]
 - [[concepts/exchangeability]]
+
+<!-- AUTHORED REGION END -->

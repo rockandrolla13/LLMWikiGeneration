@@ -56,10 +56,14 @@ tags:
 - representation-learning
 - credit-macro
 title: 'A Credit Universe as a Dynamic Sheaf: Representation and Topology'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_cf6a7d2ce927
+schema_version: 2
+uuid: d9e051b8-4ec5-56a0-b604-6c845f9be129
+content_hash: sha256:8547ff544a5bef90802b600fcd4983a74c823b1df13f1ed483a1deeb71a6e65e
 ---
 
+<!-- AUTHORED REGION START -->
 # A Credit Universe as a Dynamic Sheaf: Representation and Topology
 
 **Query:** What is the right mathematical representation, and the right (rich-enough) topology, for a high-yield / crossover corporate-bond universe that respects capital structure, aggregates bond->rating and bond->sector, and carries a temporal component so one can study mathematical objects in the space?
@@ -108,3 +112,4 @@ The metric topology of step 1 is the shadow of this richer object (H^0 at a sing
 - Sheaf Laplacian vs group-factor model: when does each win for credit relative value?
 - Is the CDM common factor recoverable as the Fiedler / lowest graph-Fourier mode?
 - How should rating migration be modelled as a time-varying graph (zigzag vs sheaf over space x time)?
+<!-- AUTHORED REGION END -->

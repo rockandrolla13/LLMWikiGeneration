@@ -20,10 +20,14 @@ sources:
 - sources/ms-2019-02-04-corporate-hybrids-playbook
 tags: []
 title: Corporate Hybrid Bonds
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c1d7da54-153b-5be1-875e-da40ddd3f1c8
+content_hash: sha256:8a6627e54458057881767f9427734f1dafcaa59fabc0744858bc9ae63e729e34
 ---
 
+<!-- AUTHORED REGION START -->
 # Corporate Hybrid Bonds
 
 ## Definition
@@ -43,3 +47,4 @@ Subordinated, often perpetual corporate debt with equity content, callable at is
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-curve|credit-spread-curve]]
 - [[concepts/risk-premia|risk-premia]]
+<!-- AUTHORED REGION END -->

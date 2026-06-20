@@ -14,10 +14,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: Tarek Hamid
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 60878aa1-a077-515a-9d68-e8e4a00b34d4
+content_hash: sha256:15496872ac831b12aefcb6cbf72dfd7b2e096ca789a7e97b2d513ad302187c9e
 ---
 
+<!-- AUTHORED REGION START -->
 # Tarek Hamid
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+<!-- AUTHORED REGION END -->

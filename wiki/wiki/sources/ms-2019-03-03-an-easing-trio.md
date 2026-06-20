@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'An Easing Trio (Sunday Start: What''s Next in Global Macro)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_7e6ee47a9ca8
+schema_version: 2
+uuid: a61c03e0-7114-5c1f-b51d-7dba0f108981
+content_hash: sha256:f244d115b71a3b69b44d5ac21c205123891695192ebadcf38841b545a4bba911
 ---
 
+<!-- AUTHORED REGION START -->
 # An Easing Trio (Sunday Start: What's Next in Global Macro)
 
 **Authors:** Chetan Ahya · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ Chief Economist Chetan Ahya argues that global growth will bottom in 1Q19, suppo
 - **Path:** `raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — Chetan Ahya - 2019-03-03.md`
 - **Type:** article
 - **Hash:** `sha256:edaeb4e5ab0323f6d...`
+<!-- AUTHORED REGION END -->

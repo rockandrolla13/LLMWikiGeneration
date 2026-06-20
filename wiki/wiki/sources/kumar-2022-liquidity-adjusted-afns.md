@@ -1,15 +1,33 @@
 ---
-title: "Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model"
+title: Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model
 page_id: sources/kumar-2022-liquidity-adjusted-afns
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [term-structure, nelson-siegel, unscented-kalman-filter, liquidity-risk, indian-bonds, emerging-markets, affine-term-structure]
-authors: [Sudarshan Kumar, Vineet Virmani]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- term-structure
+- nelson-siegel
+- unscented-kalman-filter
+- liquidity-risk
+- indian-bonds
+- emerging-markets
+- affine-term-structure
+authors:
+- Sudarshan Kumar
+- Vineet Virmani
 year: 2022
-related: [concepts/kalman-filter, concepts/nelson-siegel-model, concepts/unscented-kalman-filter, concepts/liquidity-risk, concepts/affine-term-structure-models]
+related:
+- concepts/kalman-filter
+- concepts/nelson-siegel-model
+- concepts/unscented-kalman-filter
+- concepts/liquidity-risk
+- concepts/affine-term-structure-models
+schema_version: 2
+uuid: 1c055c7b-ec30-5efe-a22f-ece3ccc887b6
+content_hash: sha256:d393fc6ab90cd0e1f9bcefcd85091b6f93cc794f70f2059d76688a17fe3484d8
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper implements the Arbitrage-Free Nelson-Siegel (AFNS) model for Indian Government bonds while explicitly incorporating liquidity effects. Using the Unscented Kalman Filter in a nonlinear state-space setting, the authors demonstrate that accounting for both security-specific and systematic funding liquidity significantly improves term structure estimation.
@@ -96,3 +114,5 @@ Used because:
 ## Citations
 
 Kumar, S., & Virmani, V. (2022). Term structure estimation with liquidity-adjusted Affine Nelson Siegel model: A nonlinear state space approach applied to the Indian bond market. Applied Economics, 54(6), 648-669.
+
+<!-- AUTHORED REGION END -->

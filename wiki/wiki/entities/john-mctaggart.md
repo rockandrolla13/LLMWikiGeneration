@@ -14,10 +14,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: John McTaggart
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f80f90eb-1da5-53af-9647-30ef7ccd8f90
+content_hash: sha256:d1e0b7472f07d1b04ba1cfa0f24fe35e8665a38cfbca966499e5a315621e8dcf
 ---
 
+<!-- AUTHORED REGION START -->
 # John McTaggart
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+<!-- AUTHORED REGION END -->

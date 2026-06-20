@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-02-11-emfx-quants-lab-steady-path
 tags: []
 title: Volatility Risk Premia (VIRP)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d72dd04e-08ff-59d2-945c-416cf24ce61b
+content_hash: sha256:08f134e998d28ca44f30e32c27e72d532f8680a6391702b70a6409e99aa4a912
 ---
 
+<!-- AUTHORED REGION START -->
 # Volatility Risk Premia (VIRP)
 
 ## Definition
@@ -35,3 +39,4 @@ A systematic EMFX signal built on the gap between realized and implied currency 
 
 - [[concepts/carry-rolldown|carry-rolldown]]
 - [[concepts/risk-premia|risk-premia]]
+<!-- AUTHORED REGION END -->

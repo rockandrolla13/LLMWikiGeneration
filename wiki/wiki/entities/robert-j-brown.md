@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-02-15-govt-bond-auction-pipeline
 tags: []
 title: Robert J Brown
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bf12e8c0-cd16-565d-aea8-05a4ba8b7c4e
+content_hash: sha256:1af8006b95ec14df349713b4e4181744ff884f94ae0ea2735fcdd946a773f1f1
 ---
 
+<!-- AUTHORED REGION START -->
 # Robert J Brown
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-13-eurex-futures-rolls|Correction: Global Futures Rolls Report: Eurex Futures Rolls - Mar 19 / Jun 19 Roll]]
 - [[sources/ms-2019-02-15-govt-bond-auction-pipeline|Government Bond Auction Pipeline | The Month Ahead]]
+<!-- AUTHORED REGION END -->

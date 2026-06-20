@@ -15,10 +15,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Bayesian Model Averaging
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 744ac2d4-5eb1-5bd7-a441-b4fa160b8c0e
+content_hash: sha256:c266a704f2f1b6c9b046c22fa3ccecc85be7a67d8c147838080f728a5a7a93b3
 ---
 
+<!-- AUTHORED REGION START -->
 # Bayesian Model Averaging
 
 ## Definition
@@ -33,3 +37,4 @@ A procedure that addresses model uncertainty by estimating models formed from su
 ## Related Concepts
 
 - [[concepts/factor-models|factor-models]]
+<!-- AUTHORED REGION END -->

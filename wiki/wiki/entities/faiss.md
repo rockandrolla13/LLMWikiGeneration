@@ -5,7 +5,7 @@ page_type: entity
 entity_type: tool
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -15,8 +15,12 @@ sources:
 mind_map_priority: medium
 affiliation: Meta Fundamental AI Research
 revision_hash: sha256:e11a37e912f228cc
+schema_version: 2
+uuid: fda40399-6a14-580a-bccb-7e2d3a42d9d0
+content_hash: sha256:273c40c663a3a6ee48289005f891a4ec3d9abdb5b27e5e705508460ae7af59d6
 ---
 
+<!-- AUTHORED REGION START -->
 # FAISS
 
 **Role:** tool
@@ -30,3 +34,5 @@ Similarity-search library used in the book as the vector store backing LangChain
 ## Sources in This Wiki
 
 - [[sources/caelen-2023-developing-apps-gpt4|Developing Apps with GPT-4 and ChatGPT]]
+
+<!-- AUTHORED REGION END -->

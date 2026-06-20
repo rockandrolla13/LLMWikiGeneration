@@ -21,10 +21,14 @@ sources:
 - sources/ms-2019-03-04-a-premium-for-size
 tags: []
 title: Max Blass
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6507128f-49fa-50eb-965a-2c5a822a56e8
+content_hash: sha256:60d788b0b1e9200731a3e784ad14aeea12d3839f6139498f6e46948197358c68
 ---
 
+<!-- AUTHORED REGION START -->
 # Max Blass
 
 ## Overview
@@ -41,3 +45,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-01-28-european-credit-watch|European Credit Strategy — What We're Watching]]
 - [[sources/ms-2019-02-04-corporate-hybrids-playbook|European Credit Strategy: Corporate Hybrids Playbook — Staying in Short Calls, Revisiting Call Risks]]
 - [[sources/ms-2019-03-04-a-premium-for-size|European Credit Strategy: A Premium for Size]]
+<!-- AUTHORED REGION END -->

@@ -33,10 +33,14 @@ source_type: article
 sources: []
 tags: []
 title: Crossing the Rubicon (Government Bonds)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_3f734c237057
+schema_version: 2
+uuid: f923a0c6-7256-5455-85b2-d5d45be58c02
+content_hash: sha256:afac955878af9d5ad41aa81107d4aec955a907f2c1ca7d9df02a358178110472
 ---
 
+<!-- AUTHORED REGION START -->
 # Crossing the Rubicon (Government Bonds)
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's Global Interest Rate Strategist notes that market pricing of Fe
 - **Path:** `raw/creditmacro/Morgan Stanley - Crossing the Rubicon — Government Bonds - 2019-04-05.md`
 - **Type:** article
 - **Hash:** `sha256:aa50aa73f7b2aca92...`
+<!-- AUTHORED REGION END -->

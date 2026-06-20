@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Felienne Hermans
@@ -39,8 +39,12 @@ related:
 - entities/venera-arnaoudova
 mind_map_priority: medium
 revision_hash: sha256:7909e78158a23726
+schema_version: 2
+uuid: 641b0a80-af7b-52c7-9e6e-439a29100ff2
+content_hash: sha256:e1503efe3ba1dbc0b406eb60bd47c3da624f3c9a9d9ffd2d9b0542a4bb7d65f2
 ---
 
+<!-- AUTHORED REGION START -->
 # Code Reading in Practice
 *Hands-On Techniques to Understand, Refactor and Improve How You Work With Code*
 
@@ -107,3 +111,5 @@ Working software engineers onboarding to unfamiliar codebases, technical leads c
 - [[entities/dror-feitelson|Dror Feitelson]]
 - [[entities/hedy-language|Hedy]]
 - [[entities/oreilly-media|O'Reilly Media]]
+
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,35 @@
 ---
-title: "A Review and Comparative Analysis of Univariate Conformal Regression Methods"
+title: A Review and Comparative Analysis of Univariate Conformal Regression Methods
 page_id: sources/bao-2025-review
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-authors: [Jie Bao, Nicolo Colombo, Valery Manokhin, Suqun Cao, Rui Luo]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Jie Bao
+- Nicolo Colombo
+- Valery Manokhin
+- Suqun Cao
+- Rui Luo
 year: 2025
-venue: "Proceedings of Machine Learning Research 266:1-23 (COPA)"
-tags: [conformal-prediction, regression, survey, benchmark]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/prediction-intervals]
+venue: Proceedings of Machine Learning Research 266:1-23 (COPA)
+tags:
+- conformal-prediction
+- regression
+- survey
+- benchmark
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/prediction-intervals
 mind_map_priority: medium
+schema_version: 2
+uuid: 98270e1a-1b40-56f6-aee9-1df4163a7697
+content_hash: sha256:90eb05a283cd63f65dbcc1671e7ce0d79e0a0f009ced262d13ba2f1532f7d0bd
 ---
 
+<!-- AUTHORED REGION START -->
 # Review of Univariate Conformal Regression Methods
 
 **Authors:** Jie Bao, Nicolo Colombo, Valery Manokhin, Suqun Cao, Rui Luo
@@ -60,3 +76,5 @@ This paper serves as an excellent entry point for practitioners choosing among c
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/split-conformal-prediction|Split Conformal Prediction]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

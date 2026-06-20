@@ -18,9 +18,13 @@ tags:
 - LBO
 - corporate-credit
 title: LBO Risk
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: ec337d61-a180-5719-ac3d-59ce16d596f1
+content_hash: sha256:559d1b2edab4f99b03ca409e5a17c4bfaec04e4aa77d6c0cf6338014bebd9307
 ---
 
+<!-- AUTHORED REGION START -->
 # LBO Risk
 
 **Leveraged Buyout (LBO) risk** refers to the credit deterioration and spread widening that occurs when a company is taken private or undergoes a leveraged recapitalization. This represents a significant source of event risk for corporate bond investors.
@@ -108,3 +112,4 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 
 - [[concepts/high-performance-computing-credit-subsector|high-performance-computing-credit-subsector]]
 - [[concepts/private-credit|private-credit]]
+<!-- AUTHORED REGION END -->

@@ -1,17 +1,35 @@
 ---
-title: "Momentum Spillover from Stocks to Corporate Bonds"
+title: Momentum Spillover from Stocks to Corporate Bonds
 page_id: sources/haesen-2017-momentum-spillover
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [momentum, corporate-bonds, spillover-effect, residual-momentum, default-risk, time-varying-risk]
-authors: [Daniel Haesen, Patrick Houweling, Jeroen van Zundert]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- momentum
+- corporate-bonds
+- spillover-effect
+- residual-momentum
+- default-risk
+- time-varying-risk
+authors:
+- Daniel Haesen
+- Patrick Houweling
+- Jeroen van Zundert
 year: 2017
 journal: Journal of Banking and Finance
 institution: Robeco
-related: [concepts/bond-momentum, concepts/spillover-effect, concepts/residual-momentum, entities/patrick-houweling, entities/jeroen-van-zundert]
+related:
+- concepts/bond-momentum
+- concepts/spillover-effect
+- concepts/residual-momentum
+- entities/patrick-houweling
+- entities/jeroen-van-zundert
+schema_version: 2
+uuid: b5dd1d35-0f42-5a9c-82f9-6c0d60a8da8c
+content_hash: sha256:4d7d849cdca0e25e577488585ebd8501b4d2018855c097f8e47a8ecb957c7a9f
 ---
 
+<!-- AUTHORED REGION START -->
 # Momentum Spillover from Stocks to Corporate Bonds
 
 ## Summary
@@ -65,3 +83,5 @@ Investigates and improves momentum spillover from stocks to corporate bonds - th
 
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]] - factor investing framework
 - [[sources/jostova-2013-momentum|Jostova et al. (2013)]] - momentum in high-yield bonds
+
+<!-- AUTHORED REGION END -->

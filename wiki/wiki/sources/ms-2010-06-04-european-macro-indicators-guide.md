@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'European Economics: A Practitioner''s Guide to European Macro Indicators'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_db215fb8d8ca
+schema_version: 2
+uuid: 82f59960-3023-52db-ab2e-a3b3feff3b28
+content_hash: sha256:8a4c4f04b8c9669e9dbe7cd37ef29809319d1f980192d4c63c1acd74a4b41e2c
 ---
 
+<!-- AUTHORED REGION START -->
 # European Economics: A Practitioner's Guide to European Macro Indicators
 
 **Authors:** Elga Bartsch, Daniele Antonucci, Melanie Baker, Cath Sleeman · **Year:** 2010 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ The fourth edition of Morgan Stanley's compendium of important European economic
 - **Path:** `raw/creditmacro/Morgan Stanley - European Economics A Practioner’s Guide to European Macro Indicators — Cath Sleeman - 2010-06-04.md`
 - **Type:** article
 - **Hash:** `sha256:746d5e9f3f77a1bde...`
+<!-- AUTHORED REGION END -->

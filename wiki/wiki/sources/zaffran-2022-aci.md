@@ -1,19 +1,36 @@
 ---
-title: "Adaptive Conformal Predictions for Time Series"
+title: Adaptive Conformal Predictions for Time Series
 page_id: sources/zaffran-2022-aci
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-authors: [Margaux Zaffran, Aymeric Dieuleveut, Olivier Féron, Yannig Goude, Julie Josse]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Margaux Zaffran
+- Aymeric Dieuleveut
+- Olivier Féron
+- Yannig Goude
+- Julie Josse
 year: 2022
 venue: arXiv (2202.07282)
-tags: [conformal-prediction, time-series, adaptive-methods, electricity-forecasting]
-related: [sources/zaffran-phd, concepts/adaptive-conformal-inference, concepts/conformal-prediction, entities/margaux-zaffran]
+tags:
+- conformal-prediction
+- time-series
+- adaptive-methods
+- electricity-forecasting
+related:
+- sources/zaffran-phd
+- concepts/adaptive-conformal-inference
+- concepts/conformal-prediction
+- entities/margaux-zaffran
 mind_map_priority: high
+schema_version: 2
+uuid: d8adaa93-ca97-5eab-842c-4c8c8b83afc9
+content_hash: sha256:3928cf5c09f9b5c00e665349d7f56cafe01477ab918be5dce8fe69f8ad22e061
 ---
 
+<!-- AUTHORED REGION START -->
 # Adaptive Conformal Predictions for Time Series
 
 **Authors:** [[entities/margaux-zaffran|Margaux Zaffran]], Aymeric Dieuleveut, Olivier Féron, Yannig Goude, Julie Josse
@@ -81,3 +98,5 @@ ACI addresses this by adaptively updating the miscoverage level:
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
 - [[sources/zaffran-phd|Zaffran PhD Thesis]]
 - [[entities/margaux-zaffran|Margaux Zaffran]]
+
+<!-- AUTHORED REGION END -->

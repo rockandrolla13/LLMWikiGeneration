@@ -15,10 +15,14 @@ sources:
 - sources/hill-2011-bart-causal-inference
 tags: []
 title: Jennifer Hill
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a04b5b5b-2d4e-5782-858e-7510223ac48d
+content_hash: sha256:7dcdae271a20561af0f782bbb608f035eb821405de035e108ebbef650589d5ca
 ---
 
+<!-- AUTHORED REGION START -->
 # Jennifer Hill
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/gentzel-2021-osrct-evaluation|How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]]
 - [[sources/hill-2011-bart-causal-inference|Bayesian Nonparametric Modeling for Causal Inference]]
+<!-- AUTHORED REGION END -->

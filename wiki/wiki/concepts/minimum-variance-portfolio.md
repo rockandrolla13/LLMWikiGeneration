@@ -22,9 +22,13 @@ tags:
 - markowitz
 - optimization
 title: Minimum Variance Portfolio
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 26cec047-8a21-5df1-88b0-0d090c338b9e
+content_hash: sha256:0f48cae711555ffabb896d181324b5f5869d2b9e2094e05a676d18beff812ea0
 ---
 
+<!-- AUTHORED REGION START -->
 # Minimum Variance Portfolio
 
 **Minimum Variance Portfolio** is the Markowitz portfolio minimizing variance subject to a budget constraint; a standard benchmark for evaluating large-dimensional covariance forecasts.
@@ -52,3 +56,4 @@ updated: '2026-06-09T12:00:00Z'
 
 - [[concepts/risk-parity|risk-parity]]
 - [[concepts/value-at-risk|value-at-risk]]
+<!-- AUTHORED REGION END -->

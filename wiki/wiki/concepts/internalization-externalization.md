@@ -1,14 +1,32 @@
 ---
-title: "Internalization vs Externalization"
+title: Internalization vs Externalization
 page_id: concepts/internalization-externalization
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [market-making, fx, hedging, inventory-risk, otc-markets]
-sources: [sources/barzykin-2020-algorithmic-fx-market-making, sources/barzykin-2021-fx-dealer-tiers, sources/barzykin-2022-multi-currency-inventory]
-related: [concepts/market-making, concepts/inventory-risk, concepts/client-tiering, entities/olivier-gueant, entities/alexander-barzykin, entities/philippe-bergault]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-making
+- fx
+- hedging
+- inventory-risk
+- otc-markets
+sources:
+- sources/barzykin-2020-algorithmic-fx-market-making
+- sources/barzykin-2021-fx-dealer-tiers
+- sources/barzykin-2022-multi-currency-inventory
+related:
+- concepts/market-making
+- concepts/inventory-risk
+- concepts/client-tiering
+- entities/olivier-gueant
+- entities/alexander-barzykin
+- entities/philippe-bergault
+schema_version: 2
+uuid: 16546392-b420-561a-b280-bae4219dc4dc
+content_hash: sha256:903776cc78fc193ec9889a81a33cffd482aee1bb2744237da65b1c89a8657672
 ---
 
+<!-- AUTHORED REGION START -->
 # Internalization vs Externalization
 
 ## Overview
@@ -132,3 +150,5 @@ Related practice where dealers can reject trades:
 - [[entities/alexander-barzykin|Alexander Barzykin]]
 - [[entities/olivier-gueant|Olivier Guéant]]
 - [[sources/barzykin-2020-algorithmic-fx-market-making|Barzykin et al. (2020)]]
+
+<!-- AUTHORED REGION END -->

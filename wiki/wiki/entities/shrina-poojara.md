@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids
 tags: []
 title: Shrina B Poojara
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 76852592-4d20-5d4e-afc5-e91331c2a3ed
+content_hash: sha256:e6877b8df8cfa1ab754048c5831db07909c3c4b6c7efc2ff23df92da60d0f109
 ---
 
+<!-- AUTHORED REGION START -->
 # Shrina B Poojara
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-12-04-faqs-on-corporate-hybrids|FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)]]
+<!-- AUTHORED REGION END -->

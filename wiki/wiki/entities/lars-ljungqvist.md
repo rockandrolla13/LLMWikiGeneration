@@ -14,10 +14,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Lars Ljungqvist
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 22d2dafd-761d-5b3f-b923-bf2148ce6868
+content_hash: sha256:94ef4714da4a64e87f2bdb975692cfbb3f16c13b1d5200d799df138d5ee9cd86
 ---
 
+<!-- AUTHORED REGION START -->
 # Lars Ljungqvist
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+<!-- AUTHORED REGION END -->

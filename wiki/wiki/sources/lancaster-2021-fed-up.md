@@ -36,10 +36,14 @@ tags:
 - credit-markets
 - 2020-crisis
 title: Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_73d6730202f6
+schema_version: 2
+uuid: 1cad76a6-b3e1-555f-bf51-c64eecec1cae
+content_hash: sha256:37ace4306a97abf07f2e6a52225e9fdaf0aa8ac5b712a7326c7f0d3cb49e2941
 ---
 
+<!-- AUTHORED REGION START -->
 # Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
 
 **Authors:** Colin Lancaster · **Year:** 2021 · **Type:** book
@@ -85,3 +89,4 @@ A first-person narrative by global macro hedge fund trader Colin Lancaster cover
 - **Path:** `raw/creditmacro/Fed Up (Colin Lancaster [Lancaster, Colin]) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:c4d2055ccc3e1cc68...`
+<!-- AUTHORED REGION END -->

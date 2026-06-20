@@ -1,15 +1,38 @@
 ---
-title: "A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter"
+title: A Pairs Trading Strategy Based on Linear State Space Models and the Kalman
+  Filter
 page_id: sources/moura-2016-pairs-trading-kalman
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [pairs-trading, kalman-filter, state-space-models, statistical-arbitrage, mean-reversion, arma, ornstein-uhlenbeck]
-authors: [Carlos Eduardo de Moura, Adrian Pizzinga, Jorge Zubelli]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- pairs-trading
+- kalman-filter
+- state-space-models
+- statistical-arbitrage
+- mean-reversion
+- arma
+- ornstein-uhlenbeck
+authors:
+- Carlos Eduardo de Moura
+- Adrian Pizzinga
+- Jorge Zubelli
 year: 2016
-related: [concepts/kalman-filter, concepts/state-space-models, concepts/statistical-arbitrage, concepts/pairs-trading, concepts/cointegration, concepts/ornstein-uhlenbeck-process, entities/adrian-pizzinga, entities/jorge-zubelli]
+related:
+- concepts/kalman-filter
+- concepts/state-space-models
+- concepts/statistical-arbitrage
+- concepts/pairs-trading
+- concepts/cointegration
+- concepts/ornstein-uhlenbeck-process
+- entities/adrian-pizzinga
+- entities/jorge-zubelli
+schema_version: 2
+uuid: e4be2a7e-cfec-5613-a11e-cb0c21481308
+content_hash: sha256:64054b739b70a7f653b4b2a9b8ea58203586e834552961f8b43919bbb622a399
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper proposes a pairs trading strategy entirely based on linear state space models for modeling the spread between paired assets. The methodology uses the Kalman filter to calculate conditional probabilities that the spread will return to its long-term mean, providing a novel trading rule based on probabilistic assessment of mean reversion.
@@ -87,3 +110,5 @@ Single-spread portfolios outperform main market benchmarks including:
 ## Citations
 
 de Moura, C. E., Pizzinga, A., & Zubelli, J. (2016). A pairs trading strategy based on linear state space models and the Kalman filter. Quantitative Finance, 16(10), 1559-1573.
+
+<!-- AUTHORED REGION END -->

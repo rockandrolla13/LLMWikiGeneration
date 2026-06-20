@@ -1,20 +1,42 @@
 ---
-title: "Graph Neural Networks in Action"
+title: Graph Neural Networks in Action
 page_id: sources/broadwater-2023-graph-neural-networks-action
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2_2026_06_19
-tags: [graph-neural-networks, gnn, pytorch-geometric, deep-learning, graph-machine-learning, node-embeddings, graph-convolutional-networks, graph-attention-networks, spatiotemporal, drug-discovery, fraud-detection, recommendation-systems, manning, practitioner-book, 2023]
-sources: [sources/broadwater-2023-graph-neural-networks-action]
+tags:
+- graph-neural-networks
+- gnn
+- pytorch-geometric
+- deep-learning
+- graph-machine-learning
+- node-embeddings
+- graph-convolutional-networks
+- graph-attention-networks
+- spatiotemporal
+- drug-discovery
+- fraud-detection
+- recommendation-systems
+- manning
+- practitioner-book
+- 2023
+sources:
+- sources/broadwater-2023-graph-neural-networks-action
 related: []
 mind_map_priority: high
-authors: ["Keita Broadwater", "Namid Stillman"]
+authors:
+- Keita Broadwater
+- Namid Stillman
 year: 2023
 source_type: book
+schema_version: 2
+uuid: a46cc357-a1bb-57fd-8b3c-fa4d6afe9dbd
+content_hash: sha256:b47a6c84de35004aa979b51948cfce3f72c8cfe714dce1beac0c0d6b04115518
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Neural Networks in Action
 
 **Authors:** Keita Broadwater, Namid Stillman  
@@ -93,3 +115,5 @@ Graph Neural Networks in Action (Manning, 2025 copyright; ISBN 9781617299056) by
 - What graph databases are discussed in the data pipeline chapter (ch. 8)?
 - Does the book address graph-level (as opposed to node-level) classification tasks?
 - What hardware benchmarks or recommendations are given in the scaling chapter?
+
+<!-- AUTHORED REGION END -->

@@ -25,10 +25,14 @@ sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []
 title: Strictly Proper Scoring Rules
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 44147982-dcb8-54af-acd3-3a18f6e6e65d
+content_hash: sha256:6b32d4c1ba653d882733cbbeb1b00747d3b11e9892db7b1c3d2e63f862ca61bc
 ---
 
+<!-- AUTHORED REGION START -->
 # Strictly Proper Scoring Rules
 
 ## Definition
@@ -53,3 +57,4 @@ A scoring rule S(P,x) is proper if the expected score is maximized by quoting on
 - [[concepts/tick-loss|tick-loss]]
 - [[concepts/uncertainty-quantification|uncertainty-quantification]]
 - [[concepts/variogram-score|variogram-score]]
+<!-- AUTHORED REGION END -->

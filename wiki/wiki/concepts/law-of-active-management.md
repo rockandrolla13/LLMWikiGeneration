@@ -15,10 +15,14 @@ sources:
 - sources/carver-2015-systematic-trading
 tags: []
 title: Law of Active Management
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e39e0bfb-70ef-5878-b27e-787c0243a2fc
+content_hash: sha256:c8c3bdba7ccd593c1d24e80fb17b576c4f0b1e0d845890836aee1195113faa77
 ---
 
+<!-- AUTHORED REGION START -->
 # Law of Active Management
 
 ## Definition
@@ -33,3 +37,4 @@ The principle that a strategy's Sharpe ratio scales with the square root of the 
 
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/mean-reversion|mean-reversion]]
+<!-- AUTHORED REGION END -->

@@ -1,39 +1,52 @@
 ---
-title: "Conformal Prediction (CMU Lecture Notes, Spring 2023)"
+title: Conformal Prediction (CMU Lecture Notes, Spring 2023)
 page_id: sources/tibshirani-2023-cp-lecture-notes
 page_type: source
 source_type: lecture-notes
 revision_id: 1
-created: 2026-05-24T20:00:00Z
-updated: 2026-05-24T20:00:00Z
-authors: ["Ryan J. Tibshirani"]
+created: 2026-05-24 20:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Ryan J. Tibshirani
 year: 2023
-venue: "Advanced Topics in Statistical Learning, Carnegie Mellon University (Spring 2023 lecture notes). 15 pages."
-tags: [conformal-prediction, lecture-notes, cmu, pedagogical, split-conformal, full-conformal, exchangeability, statistical-learning]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/exchangeability,
-  concepts/nonconformity-score,
-  concepts/conformalized-quantile-regression,
-  concepts/jackknife-plus,
-  concepts/weighted-conformal-prediction,
-  concepts/conditional-coverage,
-  concepts/marginal-coverage,
-  concepts/adaptive-prediction-sets,
-  entities/ryan-tibshirani,
-  sources/tibshirani-2019-covariate-shift,
-  sources/barber-2021-jackknife-plus,
-  sources/barber-2023-beyond-exchangeability,
-  sources/lei-2018-distribution-free-regression,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/vovk-2005-algorithmic-learning,
-  sources/angelopoulos-2023-conformal-pid
-]
+venue: Advanced Topics in Statistical Learning, Carnegie Mellon University (Spring
+  2023 lecture notes). 15 pages.
+tags:
+- conformal-prediction
+- lecture-notes
+- cmu
+- pedagogical
+- split-conformal
+- full-conformal
+- exchangeability
+- statistical-learning
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/exchangeability
+- concepts/nonconformity-score
+- concepts/conformalized-quantile-regression
+- concepts/jackknife-plus
+- concepts/weighted-conformal-prediction
+- concepts/conditional-coverage
+- concepts/marginal-coverage
+- concepts/adaptive-prediction-sets
+- entities/ryan-tibshirani
+- sources/tibshirani-2019-covariate-shift
+- sources/barber-2021-jackknife-plus
+- sources/barber-2023-beyond-exchangeability
+- sources/lei-2018-distribution-free-regression
+- sources/angelopoulos-2022-gentle-intro
+- sources/vovk-2005-algorithmic-learning
+- sources/angelopoulos-2023-conformal-pid
 mind_map_priority: high
+schema_version: 2
+uuid: 52105506-05ae-518c-aa12-8871c2c0f223
+content_hash: sha256:10e0f062b8b6b5134ed7352c7c5a5f79b0e71b73419d56d6eb433ad4951ccbf5
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction (CMU Lecture Notes, Spring 2023)
 
 **Author:** [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
@@ -103,3 +116,5 @@ The historical framing reflects an **insider's lineage** (Vovk → Wasserman →
 - [[concepts/exchangeability]]
 - [[concepts/conditional-coverage]]
 - [[entities/ryan-tibshirani]]
+
+<!-- AUTHORED REGION END -->

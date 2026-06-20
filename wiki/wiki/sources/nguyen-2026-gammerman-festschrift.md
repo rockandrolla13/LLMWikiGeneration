@@ -1,30 +1,42 @@
 ---
-title: "The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman"
+title: 'The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman'
 page_id: sources/nguyen-2026-gammerman-festschrift
 page_type: source
 source_type: edited-volume
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Khuong An Nguyen (ed.)", "Zhiyuan Luo (ed.)"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Khuong An Nguyen (ed.)
+- Zhiyuan Luo (ed.)
 year: 2026
-venue: "Springer, Lecture Notes in Computer Science 16290. ISBN 978-3-032-15120-9 (eBook); 978-3-032-15119-3 (print). DOI 10.1007/978-3-032-15120-9."
-tags: [conformal-prediction, festschrift, edited-volume, royal-holloway, gammerman, foundational]
-related: [
-  concepts/conformal-prediction,
-  concepts/venn-predictors,
-  concepts/on-line-compression-models,
-  entities/alexander-gammerman,
-  entities/vladimir-vovk,
-  entities/glenn-shafer,
-  entities/matteo-fontana,
-  sources/vovk-2005-algorithmic-learning,
-  sources/shafer-2007-cp-tutorial,
-  sources/fontana-2023-cp-unified-review
-]
+venue: Springer, Lecture Notes in Computer Science 16290. ISBN 978-3-032-15120-9 (eBook);
+  978-3-032-15119-3 (print). DOI 10.1007/978-3-032-15120-9.
+tags:
+- conformal-prediction
+- festschrift
+- edited-volume
+- royal-holloway
+- gammerman
+- foundational
+related:
+- concepts/conformal-prediction
+- concepts/venn-predictors
+- concepts/on-line-compression-models
+- entities/alexander-gammerman
+- entities/vladimir-vovk
+- entities/glenn-shafer
+- entities/matteo-fontana
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+- sources/fontana-2023-cp-unified-review
 mind_map_priority: high
+schema_version: 2
+uuid: c1098b54-c1dc-50de-9138-989fb51f3369
+content_hash: sha256:85a13352954bc41d61b6d15116840f0c6f8ece89fcc1f2e4b807cc7d5dd9853c
 ---
 
+<!-- AUTHORED REGION START -->
 # The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman
 
 **Editors:** Khuong An Nguyen, Zhiyuan Luo (both Royal Holloway, University of London)
@@ -63,3 +75,5 @@ Per the wiki's standing convention for edited volumes:
 - [[entities/vladimir-vovk]]
 - [[entities/glenn-shafer]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

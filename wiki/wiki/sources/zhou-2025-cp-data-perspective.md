@@ -1,49 +1,65 @@
 ---
-title: "Conformal Prediction: A Data Perspective"
+title: 'Conformal Prediction: A Data Perspective'
 page_id: sources/zhou-2025-cp-data-perspective
 page_type: source
 source_type: survey
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-authors: ["Xiaofan Zhou", "Baiting Chen", "Yu Gui", "Lu Cheng"]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Xiaofan Zhou
+- Baiting Chen
+- Yu Gui
+- Lu Cheng
 year: 2025
-venue: "ACM Computing Surveys 58(2), Article 49 (DOI 10.1145/3736575)"
-tags: [conformal-prediction, survey, uncertainty-quantification, data-centric, nlp, computer-vision, graphs, llms, streaming-data]
-related: [
-  concepts/conformal-prediction,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/cross-conformal-prediction,
-  concepts/jackknife-plus,
-  concepts/weighted-conformal-prediction,
-  concepts/conformal-risk-control,
-  concepts/conformalized-quantile-regression,
-  concepts/adaptive-prediction-sets,
-  concepts/regularized-adaptive-prediction-sets,
-  concepts/adaptive-conformal-inference,
-  concepts/agaci,
-  concepts/spci,
-  concepts/enbpi,
-  concepts/conformal-pid-control,
-  concepts/block-conformal-prediction,
-  concepts/distributional-conformal-prediction,
-  concepts/cp-for-nlp,
-  concepts/cp-for-vision,
-  concepts/cp-for-graphs,
-  concepts/cp-for-llms,
-  entities/xiaofan-zhou,
-  entities/baiting-chen,
-  entities/yu-gui,
-  entities/lu-cheng,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/fontana-2023-cp-unified-review,
-  sources/stocker-2025-conformal-timeseries-intro,
-  sources/vovk-2005-algorithmic-learning
-]
+venue: ACM Computing Surveys 58(2), Article 49 (DOI 10.1145/3736575)
+tags:
+- conformal-prediction
+- survey
+- uncertainty-quantification
+- data-centric
+- nlp
+- computer-vision
+- graphs
+- llms
+- streaming-data
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/jackknife-plus
+- concepts/weighted-conformal-prediction
+- concepts/conformal-risk-control
+- concepts/conformalized-quantile-regression
+- concepts/adaptive-prediction-sets
+- concepts/regularized-adaptive-prediction-sets
+- concepts/adaptive-conformal-inference
+- concepts/agaci
+- concepts/spci
+- concepts/enbpi
+- concepts/conformal-pid-control
+- concepts/block-conformal-prediction
+- concepts/distributional-conformal-prediction
+- concepts/cp-for-nlp
+- concepts/cp-for-vision
+- concepts/cp-for-graphs
+- concepts/cp-for-llms
+- entities/xiaofan-zhou
+- entities/baiting-chen
+- entities/yu-gui
+- entities/lu-cheng
+- sources/angelopoulos-2022-gentle-intro
+- sources/fontana-2023-cp-unified-review
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/vovk-2005-algorithmic-learning
 mind_map_priority: high
+schema_version: 2
+uuid: 17fed096-90ce-51bf-9b79-c6ab994a5744
+content_hash: sha256:7a3a0fd0d9195d6d211dbb670584dd5b08f4d48836facbab15dc1eef868d81a7
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction: A Data Perspective
 
 **Authors:** [[entities/xiaofan-zhou|Xiaofan Zhou]], [[entities/baiting-chen|Baiting Chen]], [[entities/yu-gui|Yu Gui]], [[entities/lu-cheng|Lu Cheng]]
@@ -104,3 +120,5 @@ This is the **modality-organised** entry point to the CP literature. If you want
 - [[concepts/conformal-prediction]]
 - [[concepts/cp-for-nlp]], [[concepts/cp-for-vision]], [[concepts/cp-for-graphs]], [[concepts/cp-for-llms]]
 - [[entities/xiaofan-zhou]], [[entities/baiting-chen]], [[entities/yu-gui]], [[entities/lu-cheng]]
+
+<!-- AUTHORED REGION END -->

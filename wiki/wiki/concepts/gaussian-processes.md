@@ -18,9 +18,13 @@ tags:
 - non-parametric
 - spatial-statistics
 title: Gaussian Processes
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 3c9039b4-2828-59e3-8e70-9d668d3bffe0
+content_hash: sha256:0d090fefa1ee19de143690c9052d87d41d9d01197528f3c305bb2584e2b8607b
 ---
 
+<!-- AUTHORED REGION START -->
 # Gaussian Processes
 
 A Gaussian process (GP) is a collection of random variables, any finite number of which have a joint Gaussian distribution. GPs provide a flexible, non-parametric approach to regression and classification with principled uncertainty quantification.
@@ -76,3 +80,4 @@ Extend to multiple correlated outputs via:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/bayesian-nonparametrics|bayesian-nonparametrics]]
+<!-- AUTHORED REGION END -->

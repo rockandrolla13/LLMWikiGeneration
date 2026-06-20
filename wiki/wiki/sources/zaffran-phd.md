@@ -1,19 +1,35 @@
 ---
-title: "Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting"
+title: 'Post-hoc predictive uncertainty quantification: methods with applications
+  to electricity price forecasting'
 page_id: sources/zaffran-phd
 page_type: source
 source_type: thesis
 revision_id: 1
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-10T18:00:00Z
-authors: [Margaux Zaffran]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Margaux Zaffran
 year: 2024
 venue: PhD Thesis, Institut Polytechnique de Paris
-tags: [conformal-prediction, uncertainty-quantification, electricity-forecasting, missing-data, time-series]
-related: [sources/zaffran-2022-aci, concepts/conformal-prediction, concepts/adaptive-conformal-inference, concepts/split-conformal-prediction, entities/margaux-zaffran]
+tags:
+- conformal-prediction
+- uncertainty-quantification
+- electricity-forecasting
+- missing-data
+- time-series
+related:
+- sources/zaffran-2022-aci
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/split-conformal-prediction
+- entities/margaux-zaffran
 mind_map_priority: high
+schema_version: 2
+uuid: deb5e6f1-c866-5721-b4ad-566cd6aba3b6
+content_hash: sha256:276f73a09da88b6a70bdf257ba7fef19c70272c8a3de167f415be69eb709100b
 ---
 
+<!-- AUTHORED REGION START -->
 # Post-hoc predictive uncertainty quantification
 
 **Author:** [[entities/margaux-zaffran|Margaux Zaffran]]
@@ -79,3 +95,5 @@ The thesis establishes that:
 - [[sources/zaffran-2022-aci|Zaffran et al. 2022 (ACI paper)]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/adaptive-conformal-inference|Adaptive Conformal Inference]]
+
+<!-- AUTHORED REGION END -->

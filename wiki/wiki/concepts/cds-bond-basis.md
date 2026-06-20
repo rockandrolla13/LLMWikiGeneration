@@ -34,9 +34,13 @@ tags:
 - basis-trading
 - relative-value
 title: CDS-Bond Basis
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 82289516-1b9b-5971-818a-d3431175da13
+content_hash: sha256:bf46fb8079c7aad80e7cc231ceaa036b239f49f562093f9e3b41ddbe6ed6948b
 ---
 
+<!-- AUTHORED REGION START -->
 # CDS-Bond Basis
 
 The **CDS-bond basis** is the difference between the CDS spread and the bond spread for the same issuer and maturity. Understanding and modeling this basis is critical for relative value analysis and unified credit curve construction.
@@ -119,3 +123,4 @@ Now also discussed in: [[sources/avino-2024-hedging-credit-equity-options]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging]], [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook]], [[sources/ms-2012-03-12-what-were-watching]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-02-01-credit-strategy-chartbook]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2020-03-25-global-volatility-playbook]], [[sources/ms-2020-03-27-add-to-credit]], [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy]]
+<!-- AUTHORED REGION END -->

@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - John Berryman
@@ -40,8 +40,12 @@ related:
 - entities/oreilly-media
 mind_map_priority: medium
 revision_hash: sha256:b199dea328348cb1
+schema_version: 2
+uuid: 04ec1a5a-bfb2-55eb-892e-d7c01fad20f6
+content_hash: sha256:72b29fedbc6c9becf259e07da34d272cd7321619c72030641c3cb4e8c7dc650d
 ---
 
+<!-- AUTHORED REGION START -->
 # Prompt Engineering for LLMs
 *The Art and Science of Building Large Language Model-Based Applications*
 
@@ -109,3 +113,5 @@ Application engineers and dedicated prompt engineers building LLM-powered produc
 - [[entities/openai|OpenAI]]
 - [[entities/hamel-husain|Hamel Husain]]
 - [[entities/oreilly-media|O'Reilly Media]]
+
+<!-- AUTHORED REGION END -->

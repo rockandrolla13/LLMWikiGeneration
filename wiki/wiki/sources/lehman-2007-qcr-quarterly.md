@@ -1,15 +1,30 @@
 ---
-title: "QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk"
+title: 'QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk'
 page_id: sources/lehman-2007-qcr-quarterly
 page_type: source
 revision_id: 1
-created: 2026-05-05T23:15:00Z
-updated: 2026-05-05T23:15:00Z
-tags: [creditETF, base-correlation, CDO, event-risk, LEVER, quantitative-credit]
-institutions: [entities/lehman-brothers]
-related: [concepts/base-correlation, concepts/lever-score, concepts/cdo-tranches, sources/trinh-2006-lever-framework]
+created: 2026-05-05 23:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- base-correlation
+- CDO
+- event-risk
+- LEVER
+- quantitative-credit
+institutions:
+- entities/lehman-brothers
+related:
+- concepts/base-correlation
+- concepts/lever-score
+- concepts/cdo-tranches
+- sources/trinh-2006-lever-framework
+schema_version: 2
+uuid: bb8ebec5-5d07-522c-867a-71bedf558484
+content_hash: sha256:559adafc304c336a717b3170996bdcc428cbc14b417c79d58045b5026230383f
 ---
 
+<!-- AUTHORED REGION START -->
 # QCR Quarterly Vol. 2007-Q1
 
 **Institution:** [[entities/lehman-brothers|Lehman Brothers]]
@@ -109,3 +124,5 @@ New financial framework for improving quality of financial analysis and valuatio
 - [[concepts/cdo-tranches]]
 - [[concepts/lever-score]]
 - [[concepts/bespoke-cdo]]
+
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,39 @@
 ---
-title: "Kernel Two-Sample and Independence Tests for Nonstationary Random Processes"
+title: Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 page_id: sources/laumann-2021-kernel-tests-nonstationary
 page_type: source
 source_type: conference-paper
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Felix Laumann, Julius von Kügelgen, Mauricio Barahona]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Felix Laumann
+- Julius von Kügelgen
+- Mauricio Barahona
 year: 2021
 venue: Engineering Proceedings (MDPI)
-tags: [mmd, hsic, kernel-methods, two-sample-test, independence-test, nonstationary, random-processes, hypothesis-testing]
-related: [concepts/kernel-methods, concepts/mmd, concepts/hsic, concepts/nonstationarity, sources/koukorinis-stylized-facts]
+tags:
+- mmd
+- hsic
+- kernel-methods
+- two-sample-test
+- independence-test
+- nonstationary
+- random-processes
+- hypothesis-testing
+related:
+- concepts/kernel-methods
+- concepts/mmd
+- concepts/hsic
+- concepts/nonstationarity
+- sources/koukorinis-stylized-facts
 mind_map_priority: high
+schema_version: 2
+uuid: 057659dc-6ae2-54ae-bd9b-9a0b8e1c37be
+content_hash: sha256:2e74af5766b1edbe23d601fd198417844d71a4738aa32dab362e301dd8d2573d
 ---
 
+<!-- AUTHORED REGION START -->
 # Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 
 **Authors:** Felix Laumann, Julius von Kügelgen, Mauricio Barahona
@@ -150,3 +170,5 @@ Tests H_0: X ⊥ Y vs H_1: X ⫫̸ Y
 - [[concepts/hsic|HSIC]]
 - [[concepts/nonstationarity|Nonstationarity]]
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

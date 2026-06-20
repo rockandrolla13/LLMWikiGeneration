@@ -1,20 +1,41 @@
 ---
-title: "Software Testing with Generative AI"
+title: Software Testing with Generative AI
 page_id: sources/winteringham-2025-software-testing-generative-ai
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_5_2026_06_19
-tags: [software-testing, generative-ai, llm, prompt-engineering, test-automation, rag, fine-tuning, ai-agents, tdd, exploratory-testing, test-data, ui-automation, openai, manning, 2025]
-sources: [sources/winteringham-2025-software-testing-generative-ai]
+tags:
+- software-testing
+- generative-ai
+- llm
+- prompt-engineering
+- test-automation
+- rag
+- fine-tuning
+- ai-agents
+- tdd
+- exploratory-testing
+- test-data
+- ui-automation
+- openai
+- manning
+- 2025
+sources:
+- sources/winteringham-2025-software-testing-generative-ai
 related: []
 mind_map_priority: medium
-authors: ["Mark Winteringham"]
+authors:
+- Mark Winteringham
 year: 2025
 source_type: book
+schema_version: 2
+uuid: 6a6f43e0-b554-587e-b94d-0bd174749a4d
+content_hash: sha256:6e8e09ab68adfcb12324e3ea7f0cf6aee5a3bd460e1a5ad56a82d1f0e8d64ee2
 ---
 
+<!-- AUTHORED REGION START -->
 # Software Testing with Generative AI
 
 **Authors:** Mark Winteringham  
@@ -81,3 +102,5 @@ Software Testing with Generative AI (2025) by Mark Winteringham, published by Ma
 - How can teams guard against automation bias when using AI-generated test cases and risk lists?
 - What does a mature AI test assistant look like beyond the toy examples in the book?
 - How does the book's three-tenet model (Mindset/Technique/Context) hold up across different organisational testing maturity levels?
+
+<!-- AUTHORED REGION END -->

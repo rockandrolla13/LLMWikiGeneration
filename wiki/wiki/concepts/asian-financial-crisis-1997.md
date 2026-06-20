@@ -15,10 +15,14 @@ sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []
 title: Asian Financial Crisis of 1997
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9471d1f8-e175-58c9-a6e4-671eed920c08
+content_hash: sha256:805ddb50a25abcddfcd3560e0a01ea2d011e04dc7e5d990d33fd3a30eb3e13d7
 ---
 
+<!-- AUTHORED REGION START -->
 # Asian Financial Crisis of 1997
 
 ## Definition
@@ -33,3 +37,4 @@ The 1997-1998 crisis that severely affected Southeast Asian economies including 
 
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
 - [[concepts/spillover-effect|spillover-effect]]
+<!-- AUTHORED REGION END -->

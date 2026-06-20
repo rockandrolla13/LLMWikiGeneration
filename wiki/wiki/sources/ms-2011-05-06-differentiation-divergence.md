@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: Differentiation and Divergence
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_046cb9da4496
+schema_version: 2
+uuid: 69120719-d696-543f-92f2-09c041fcdf00
+content_hash: sha256:94c95e7e30a4490a78ea16513305c814b4dafd81064bbb33a7d28a01bd6cd0a0
 ---
 
+<!-- AUTHORED REGION START -->
 # Differentiation and Divergence
 
 **Authors:** Sivan Mahadevan, Christopher R Metli, Peter Mallik, Jay Sole, Praveen Singh, Viktor Hjort, Gaurav Rastogi · **Year:** 2011 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -68,3 +72,4 @@ A Global Derivatives Strategy report whose theme is differentiation and divergen
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Differentiation and Divergence - 2011-05-06.md`
 - **Type:** article
 - **Hash:** `sha256:26173f61f2bbba942...`
+<!-- AUTHORED REGION END -->

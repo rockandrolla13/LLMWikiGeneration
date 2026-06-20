@@ -13,10 +13,14 @@ sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []
 title: Credit-to-GDP Gap
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1027bab2-b37a-5f5d-9880-d1f90245ccae
+content_hash: sha256:30037cccdd659df22b2e2a405a0752b5cf3debd4945ddbf2141025b91346667b
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit-to-GDP Gap
 
 ## Definition
@@ -26,3 +30,4 @@ The deviation of the ratio of domestic private credit to GDP from its long-run t
 ## Sources
 
 - [[sources/babecky-2014-developed-country-crisis-ewi|Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]]
+<!-- AUTHORED REGION END -->

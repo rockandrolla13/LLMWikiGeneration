@@ -14,10 +14,14 @@ sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []
 title: Christopher D. Piros
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1597a9d0-13ea-51f2-9d0d-ee6d7e513ed8
+content_hash: sha256:6a4a9522a23cafc6140d08653f123596cd63ddd2da2e0200f68ab31c6463655d
 ---
 
+<!-- AUTHORED REGION START -->
 # Christopher D. Piros
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/piros-2013-economics-investment-decision-makers-workbook|Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]]
+<!-- AUTHORED REGION END -->

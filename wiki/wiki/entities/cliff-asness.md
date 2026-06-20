@@ -15,10 +15,14 @@ sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 tags: []
 title: Cliff Asness
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b409b294-f6e6-5ad0-b78a-cde5b22b5c52
+content_hash: sha256:ef16a6672d4fb6e940c370e5069e5ec42bc90ec4821c09fb5216c4871795c8ee
 ---
 
+<!-- AUTHORED REGION START -->
 # Cliff Asness
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ilmanen-2011-expected-returns|Expected Returns: An Investor's Guide to Harvesting Market Rewards]]
 - [[sources/ilmanen-2022-investing-amid-low-expected-returns|Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least]]
+<!-- AUTHORED REGION END -->

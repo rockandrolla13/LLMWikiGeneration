@@ -16,10 +16,14 @@ sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 tags: []
 title: Anton Heese
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0f58f894-e346-53e8-a231-9a7cfa12d5a5
+content_hash: sha256:3f46046c48c22109adf897cc9f0a8b2eec0fc3e663a3ada92c78ea1c925205f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Anton Heese
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2015-03-06-bond-market-indicators|Our Bond Market Indicators: A Powerful Systematic Approach]]
 - [[sources/ms-2016-04-13-euro-sovereign-bond-market-indicators|Global Interest Rate Strategy: Euro Sovereign Bond Market Indicators (eBMIs)]]
 - [[sources/ms-2017-01-28-rates-strategist-duration-and-curves|Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]]
+<!-- AUTHORED REGION END -->

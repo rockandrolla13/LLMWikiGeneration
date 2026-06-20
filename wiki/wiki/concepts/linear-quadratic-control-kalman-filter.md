@@ -16,10 +16,14 @@ sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []
 title: Linear-Quadratic Control and the Kalman Filter
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a4a359f1-4a74-59d8-926f-800455a1a176
+content_hash: sha256:3c20502eab5ff704c27471010b2e6d7641313adc687510c97d192cf32386e60a
 ---
 
+<!-- AUTHORED REGION START -->
 # Linear-Quadratic Control and the Kalman Filter
 
 ## Definition
@@ -35,3 +39,4 @@ The optimal linear regulator and stochastic optimal linear regulator with certai
 - [[concepts/kalman-filter|kalman-filter]]
 - [[concepts/state-space-models|state-space-models]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

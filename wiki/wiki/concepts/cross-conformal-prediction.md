@@ -3,14 +3,32 @@ title: Cross-Conformal Prediction / Jackknife+ / CV+
 page_id: concepts/cross-conformal-prediction
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, cross-validation, jackknife, ensemble]
-sources: [sources/vovk-2012-cross-conformal, sources/angelopoulos-2022-gentle-intro, sources/dieuleveut-zaffran-2025-cp-tutorial, sources/fontana-2023-cp-unified-review]
-related: [concepts/conformal-prediction, concepts/split-conformal-prediction, concepts/full-conformal-prediction, concepts/jackknife-plus, concepts/jackknife-plus-after-bootstrap, concepts/enbpi]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- cross-validation
+- jackknife
+- ensemble
+sources:
+- sources/vovk-2012-cross-conformal
+- sources/angelopoulos-2022-gentle-intro
+- sources/dieuleveut-zaffran-2025-cp-tutorial
+- sources/fontana-2023-cp-unified-review
+related:
+- concepts/conformal-prediction
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/jackknife-plus
+- concepts/jackknife-plus-after-bootstrap
+- concepts/enbpi
 mind_map_priority: medium
+schema_version: 2
+uuid: ecc17433-2996-5725-98d0-82e4203e5ff7
+content_hash: sha256:855345b25312798d6954f3624762e9917ce781219e10b73844ef77b0654552d6
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Conformal Prediction / Jackknife+ / CV+
 
 A family of computational compromises between [[concepts/split-conformal-prediction|split]] and [[concepts/full-conformal-prediction|full]] CP, using K-fold or leave-one-out refits to use all data for both fitting and calibration with a small number of model fits and **approximate** coverage guarantees.
@@ -51,3 +69,5 @@ A family of computational compromises between [[concepts/split-conformal-predict
 - [[concepts/full-conformal-prediction]]
 - [[concepts/jackknife-plus-after-bootstrap]]
 - [[concepts/enbpi]]
+
+<!-- AUTHORED REGION END -->

@@ -5,7 +5,7 @@ page_type: entity
 entity_type: organization
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -16,8 +16,12 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
 revision_hash: sha256:4da59b2f9ebeb65b
+schema_version: 2
+uuid: 8c25ecbe-9173-5410-911b-8e2657064ab9
+content_hash: sha256:88785a1a8ec08b7c74d658568cabc8cb067352fa2a62b42b2009ca3967914495
 ---
 
+<!-- AUTHORED REGION START -->
 # Anthropic
 
 **Role:** mentioned
@@ -31,3 +35,5 @@ Referenced as a major AI lab whose researchers Huyen interviewed; cited for clos
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 - [[sources/mendelevitch-2025-hands-on-rag|Hands-On RAG for Production]]
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
+
+<!-- AUTHORED REGION END -->

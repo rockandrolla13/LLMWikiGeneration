@@ -1,21 +1,49 @@
 ---
-title: "Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory and Non-Linear Realized Volatility Model"
+title: Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory
+  and Non-Linear Realized Volatility Model
 page_id: sources/peiris-2025-rnn-har-var
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Rangika Peiris, Minh-Ngoc Tran, Chao Wang, Richard Gerlach]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Rangika Peiris
+- Minh-Ngoc Tran
+- Chao Wang
+- Richard Gerlach
 year: 2025
 venue: Journal of Financial Econometrics
-volume_issue_pages: "23(4), nbaf017"
+volume_issue_pages: 23(4), nbaf017
 doi: 10.1093/jjfinec/nbaf017
-tags: [value-at-risk, har-model, recurrent-neural-networks, sequential-monte-carlo, generalized-bayes]
-related: [concepts/value-at-risk, concepts/har-model, concepts/recurrent-neural-networks, concepts/rnn-har, concepts/generalized-bayesian-inference, concepts/sequential-monte-carlo, concepts/asymmetric-laplace-density, concepts/realized-variance, concepts/quantile-regression, entities/rangika-peiris, entities/minh-ngoc-tran, entities/chao-wang, entities/richard-gerlach, entities/fulvio-corsi]
+tags:
+- value-at-risk
+- har-model
+- recurrent-neural-networks
+- sequential-monte-carlo
+- generalized-bayes
+related:
+- concepts/value-at-risk
+- concepts/har-model
+- concepts/recurrent-neural-networks
+- concepts/rnn-har
+- concepts/generalized-bayesian-inference
+- concepts/sequential-monte-carlo
+- concepts/asymmetric-laplace-density
+- concepts/realized-variance
+- concepts/quantile-regression
+- entities/rangika-peiris
+- entities/minh-ngoc-tran
+- entities/chao-wang
+- entities/richard-gerlach
+- entities/fulvio-corsi
 mind_map_priority: high
+schema_version: 2
+uuid: caa7832d-6557-5bf2-8b9f-863924befcbd
+content_hash: sha256:293545bab0612e3b91c20345d3db1437c7821d47c6bc562961d054b3d734dc28
 ---
 
+<!-- AUTHORED REGION START -->
 # Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory and Non-Linear Realized Volatility Model
 
 **Authors:** [[entities/rangika-peiris|Rangika Peiris]], [[entities/minh-ngoc-tran|Minh-Ngoc Tran]], [[entities/chao-wang|Chao Wang]], [[entities/richard-gerlach|Richard Gerlach]]
@@ -49,3 +77,5 @@ Proposes [[concepts/rnn-har|RNN-HAR]], a hybrid model that embeds three [[concep
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

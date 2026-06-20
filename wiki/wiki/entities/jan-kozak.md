@@ -16,10 +16,14 @@ sources:
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 tags: []
 title: Jan Kozak
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a4d20c9d-891c-5eaa-b204-4ffdad4462de
+content_hash: sha256:f312a4d155cab0f4a40ed2c241b498c819c0796cb7125a3d5a9f2cf0a1c68a91
 ---
 
+<!-- AUTHORED REGION START -->
 # Jan Kozak
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-02-15-ongoing-weakness|European Economics Weekly — Ongoing Weakness]]
 - [[sources/ms-2019-03-01-bank-funding-focus|European Economics Weekly — Bank Funding Focus]]
 - [[sources/ms-2020-04-03-deeper-drop-slower-climb|US Economics: Deeper Drop, Slower Climb]]
+<!-- AUTHORED REGION END -->

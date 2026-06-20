@@ -4,14 +4,33 @@ page_id: entities/margaux-zaffran
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [researcher, conformal-prediction, time-series, electricity-forecasting, missing-data]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/zaffran-2023-conformal-missing]
-related: [concepts/adaptive-conformal-inference, concepts/conformal-prediction, concepts/missing-data-imputation, concepts/mask-conditional-validity, entities/julie-josse, entities/aymeric-dieuleveut, entities/yaniv-romano]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- time-series
+- electricity-forecasting
+- missing-data
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/zaffran-2023-conformal-missing
+related:
+- concepts/adaptive-conformal-inference
+- concepts/conformal-prediction
+- concepts/missing-data-imputation
+- concepts/mask-conditional-validity
+- entities/julie-josse
+- entities/aymeric-dieuleveut
+- entities/yaniv-romano
 mind_map_priority: high
+schema_version: 2
+uuid: 2f778b1f-c14e-563e-9be4-048e6e22741c
+content_hash: sha256:46e5b2dd6dac4ae7f527e61d23bb00d5a0f1300808ced2ceb727ef6074b663c3
 ---
 
+<!-- AUTHORED REGION START -->
 # Margaux Zaffran
 
 **Margaux Zaffran** is a researcher specializing in [[concepts/uncertainty-quantification|uncertainty quantification]] and [[concepts/conformal-prediction|conformal prediction]], with applications to electricity price forecasting.
@@ -69,3 +88,5 @@ Committee included: Florence Forbes, Pierre Pinson, Étienne Roquain, [[entities
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[concepts/missing-data-imputation|Missing Data Imputation]]
 - [[concepts/mask-conditional-validity|Mask-Conditional Validity]]
+
+<!-- AUTHORED REGION END -->

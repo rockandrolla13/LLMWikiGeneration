@@ -14,9 +14,13 @@ tags:
 - asset-pricing
 - return-prediction
 title: Deep Learning for Finance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: cc8ca8f6-5bb4-5f2c-b761-5347359179eb
+content_hash: sha256:8fb9c081be83e8865bb05e3366e31e36d277dd445f7e8f0aa3767aaa1f8be21b
 ---
 
+<!-- AUTHORED REGION START -->
 # Deep Learning for Finance
 
 **Deep Learning for Finance** is the use of deep neural architectures with economic restrictions (no-arbitrage, common-structure, dynamics) to predict returns, risk premia, and other financial quantities.
@@ -32,3 +36,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/automated-alpha-search|automated-alpha-search]]
+<!-- AUTHORED REGION END -->

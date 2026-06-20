@@ -15,10 +15,14 @@ sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []
 title: Monetary Transmission Mechanism
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6c150d32-d5c5-5d16-acba-8afe531119c6
+content_hash: sha256:6c6ebd0747fdb58125e2d42de280fad8508a63fd3ed355f2d184aff6e3adac41
 ---
 
+<!-- AUTHORED REGION START -->
 # Monetary Transmission Mechanism
 
 ## Definition
@@ -36,3 +40,4 @@ The process through which central-bank policy affects the economy via multiple c
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/quantitative-tightening|quantitative-tightening]]
+<!-- AUTHORED REGION END -->

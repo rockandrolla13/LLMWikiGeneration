@@ -13,10 +13,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Sufficient-Cause Interaction (Synergism)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8d343c97-4ca5-5e6b-a884-2852cbb0d958
+content_hash: sha256:17042fbe0dd725e9b50acb3fa3f8a737a13804be94d2f5edf8c068f94f922919
 ---
 
+<!-- AUTHORED REGION START -->
 # Sufficient-Cause Interaction (Synergism)
 
 ## Definition
@@ -26,3 +30,4 @@ Interaction interpreted within Rothman's sufficient-component-cause model, where
 ## Sources
 
 - [[sources/vanderweele-2015-explanation-causal-inference|Explanation in Causal Inference: Methods for Mediation and Interaction]]
+<!-- AUTHORED REGION END -->

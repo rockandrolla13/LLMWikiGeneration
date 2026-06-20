@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: European Credit Strategy — What We're Watching
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_bd71e75d44a8
+schema_version: 2
+uuid: 228912b2-9ea5-5604-830e-881b540abe8a
+content_hash: sha256:ae4611aa7ad1e2c261ebbe0e2a33965cd529a5e16fe7e3557298e7e5f92512f8
 ---
 
+<!-- AUTHORED REGION START -->
 # European Credit Strategy — What We're Watching
 
 **Authors:** Srikanth Sankaran, Max Blass, Aron Becker · **Year:** 2017 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -63,3 +67,4 @@ A weekly European credit strategy data note from Morgan Stanley. The week saw a 
 - **Path:** `raw/creditmacro/Morgan Stanley - European Credit Strategy — What We’re Watching - 2017-07-10.md`
 - **Type:** article
 - **Hash:** `sha256:aa13975b88520c3da...`
+<!-- AUTHORED REGION END -->

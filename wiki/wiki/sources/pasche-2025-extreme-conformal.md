@@ -1,19 +1,39 @@
 ---
-title: "Extreme Conformal Prediction: Reliable Intervals for High-Impact Events"
+title: 'Extreme Conformal Prediction: Reliable Intervals for High-Impact Events'
 page_id: sources/pasche-2025-extreme-conformal
 page_type: source
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, extreme-value-theory, prediction-intervals, high-confidence, flood-risk, heavy-tails]
-authors: [Olivier C. Pasche, Henry Lam, Sebastian Engelke]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- extreme-value-theory
+- prediction-intervals
+- high-confidence
+- flood-risk
+- heavy-tails
+authors:
+- Olivier C. Pasche
+- Henry Lam
+- Sebastian Engelke
 year: 2025
 journal: Extremes
 sources: []
-related: [concepts/conformal-prediction, concepts/extreme-value-theory, concepts/generalized-pareto-distribution, concepts/coverage-guarantee, concepts/prediction-intervals, entities/olivier-pasche, entities/sebastian-engelke]
+related:
+- concepts/conformal-prediction
+- concepts/extreme-value-theory
+- concepts/generalized-pareto-distribution
+- concepts/coverage-guarantee
+- concepts/prediction-intervals
+- entities/olivier-pasche
+- entities/sebastian-engelke
 mind_map_priority: high
+schema_version: 2
+uuid: 2974e4b3-aaf5-504d-bd22-8f21cb8e1650
+content_hash: sha256:22076c30bf9f87a1d7bb38a4bf030776b5c86bdafd25c49993deae4ec7a7898c
 ---
 
+<!-- AUTHORED REGION START -->
 # Extreme Conformal Prediction: Reliable Intervals for High-Impact Events
 
 **Pasche, Lam, and Engelke (2025)** propose a novel method bridging [[concepts/extreme-value-theory|extreme value statistics]] and [[concepts/conformal-prediction|conformal prediction]] to construct reliable prediction intervals for high-impact events requiring very high confidence levels (e.g., 99.99%).
@@ -119,3 +139,5 @@ Open-source R packages available:
 - [[concepts/generalized-pareto-distribution|Generalized Pareto Distribution]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

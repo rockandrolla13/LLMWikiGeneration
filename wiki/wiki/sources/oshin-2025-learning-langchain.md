@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Mayo Oshin
@@ -44,8 +44,12 @@ related:
 - entities/shunyu-yao
 mind_map_priority: medium
 revision_hash: sha256:9a5841c55ec1fe33
+schema_version: 2
+uuid: e20d7c96-f1a1-518a-a37a-2f9be91a58b5
+content_hash: sha256:c4fcde66c419859626ed0b86eb8344449353bf029e7e3e65059a19820ffaa191
 ---
 
+<!-- AUTHORED REGION START -->
 # Learning LangChain
 *Building AI and LLM Applications with LangChain and LangGraph*
 
@@ -116,3 +120,5 @@ Software engineers and ML practitioners who want to build production-grade LLM a
 - [[entities/shunyu-yao|Shunyu Yao]]
 - [[entities/openai|OpenAI]]
 - [[entities/oreilly-media|O'Reilly Media]]
+
+<!-- AUTHORED REGION END -->

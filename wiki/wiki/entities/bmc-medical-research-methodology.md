@@ -14,10 +14,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: BMC Medical Research Methodology
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9103ddd5-4ca7-5415-85f2-83ebf069e5a5
+content_hash: sha256:73cafc0a361362220d5540ab6605cdb67d47c13638ae8cc6f42a8734e5d03146
 ---
 
+<!-- AUTHORED REGION START -->
 # BMC Medical Research Methodology
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hudson-2019-its-healthcare-reporting|Methodology and reporting characteristics of studies using interrupted time series design in healthcare]]
+<!-- AUTHORED REGION END -->

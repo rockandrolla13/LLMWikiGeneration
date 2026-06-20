@@ -14,10 +14,14 @@ sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []
 title: Thomas Egan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: eb67bc20-c591-5a74-974c-c987e4749ca3
+content_hash: sha256:c502f4040ba3aca458e43417b17bd4e7f97e74b555586cd260e6c0983c92c044
 ---
 
+<!-- AUTHORED REGION START -->
 # Thomas Egan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+<!-- AUTHORED REGION END -->

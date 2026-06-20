@@ -31,10 +31,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Playbook – January 2019: Turning Points Intact'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_d8a9833a01e6
+schema_version: 2
+uuid: 0994dc06-b428-5c48-8105-b120c53e762e
+content_hash: sha256:9fabd75e3fbefe89bcf10060d33ff3ceaab4a54b7ac81022002fb61487f82c9e
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Playbook – January 2019: Turning Points Intact
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Wanting Low, Naomi Poole · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -70,3 +74,4 @@ Morgan Stanley's January 2019 cross-asset note maintains its defensive positioni
 - **Path:** `raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook – January 2019 Turning Points Intact - 2019-01-13.md`
 - **Type:** article
 - **Hash:** `sha256:630423f0af4bf259f...`
+<!-- AUTHORED REGION END -->

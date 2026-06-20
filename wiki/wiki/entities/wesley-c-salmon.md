@@ -14,10 +14,14 @@ sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []
 title: Wesley C. Salmon
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 026849b5-7f95-545e-95dd-4ec8b6da0f14
+content_hash: sha256:aac0f719c2f341c3f024e1cd504d03e58f55a8e803c8a0e7db55327cedc700bf
 ---
 
+<!-- AUTHORED REGION START -->
 # Wesley C. Salmon
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/salmon-1998-causality-and-explanation|Causality and Explanation]]
+<!-- AUTHORED REGION END -->

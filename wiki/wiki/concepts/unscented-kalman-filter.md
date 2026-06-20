@@ -1,14 +1,27 @@
 ---
-title: "Unscented Kalman Filter"
+title: Unscented Kalman Filter
 page_id: concepts/unscented-kalman-filter
 page_type: concept
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [kalman-filter, nonlinear-estimation, state-space-models, sigma-points]
-related: [concepts/kalman-filter, concepts/state-space-models, concepts/nelson-siegel-model]
-sources: [sources/shi-2022-cds-options-comovement, sources/kumar-2022-liquidity-adjusted-afns]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- kalman-filter
+- nonlinear-estimation
+- state-space-models
+- sigma-points
+related:
+- concepts/kalman-filter
+- concepts/state-space-models
+- concepts/nelson-siegel-model
+sources:
+- sources/shi-2022-cds-options-comovement
+- sources/kumar-2022-liquidity-adjusted-afns
+schema_version: 2
+uuid: 182f50f1-f294-5681-8fcc-4d83f843de2f
+content_hash: sha256:08ca1b5ac10a23d81d5866041107e718236ea9450da09a6bc02d95c31cad30b8
 ---
 
+<!-- AUTHORED REGION START -->
 ## Definition
 
 The Unscented Kalman Filter (UKF) is a nonlinear extension of the [[concepts/kalman-filter|Kalman filter]] that uses deterministic sampling (sigma points) to capture the mean and covariance of state distributions propagated through nonlinear transformations. It avoids the linearization required by the Extended Kalman Filter (EKF).
@@ -168,3 +181,5 @@ P_yy = sum_i W_i^c * (Y_i - y_bar) * (Y_i - y_bar)'
 - [[concepts/state-space-models|State Space Models]] - general framework
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]] - common application
 - [[concepts/extended-kalman-filter|Extended Kalman Filter]] - alternative approach
+
+<!-- AUTHORED REGION END -->

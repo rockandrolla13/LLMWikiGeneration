@@ -13,10 +13,14 @@ sources:
 - sources/lukac-2026-economic-analysis-through-mathematics
 tags: []
 title: Mathematics of Finance
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 9ba43f98-89bd-50ee-9644-856e823c0b8e
+content_hash: sha256:d7395feb7ffe16cb29d92ec424ce6e39e0ffc7beb9e9390c90bed1922a47f471
 ---
 
+<!-- AUTHORED REGION START -->
 # Mathematics of Finance
 
 ## Definition
@@ -26,3 +30,4 @@ The quantitative treatment of interest (simple, compound, continuous compounding
 ## Sources
 
 - [[sources/lukac-2026-economic-analysis-through-mathematics|Economic Analysis Through Mathematics: Tools and Techniques for Decision Making]]
+<!-- AUTHORED REGION END -->

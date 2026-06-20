@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Harry Percival
@@ -42,8 +42,12 @@ related:
 - entities/sqlalchemy
 mind_map_priority: medium
 revision_hash: sha256:fff22579b48b752b
+schema_version: 2
+uuid: 057d32fb-03ce-5b6b-84c3-3b8ea7d4cf7b
+content_hash: sha256:86e37a4031572acd0d0efc24b1d8ae379724c23475aae6b5624dd8f263d25290
 ---
 
+<!-- AUTHORED REGION START -->
 # Architecture Patterns with Python
 *Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices*
 
@@ -112,3 +116,5 @@ Mid-to-senior Python developers building non-trivial backend systems (Flask/Djan
 - [[entities/flask|Flask]]
 - [[entities/sqlalchemy|SQLAlchemy]]
 - [[entities/redis|Redis]]
+
+<!-- AUTHORED REGION END -->

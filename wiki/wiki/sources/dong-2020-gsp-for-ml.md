@@ -1,20 +1,40 @@
 ---
-title: "Graph Signal Processing for Machine Learning: A Review and New Perspectives"
+title: 'Graph Signal Processing for Machine Learning: A Review and New Perspectives'
 page_id: sources/dong-2020-gsp-for-ml
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [graph-signal-processing, machine-learning, graph-neural-networks, spectral-methods, review-paper]
-authors: [Xiaowen Dong, Dorina Thanou, Laura Toni, Michael Bronstein, Pascal Frossard]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- graph-signal-processing
+- machine-learning
+- graph-neural-networks
+- spectral-methods
+- review-paper
+authors:
+- Xiaowen Dong
+- Dorina Thanou
+- Laura Toni
+- Michael Bronstein
+- Pascal Frossard
 year: 2020
 journal: IEEE Signal Processing Magazine
 volume: 37
 issue: 6
 pages: 117-127
 doi: 10.1109/MSP.2020.3014591
-related: [concepts/graph-signal-processing, concepts/graph-fourier-transform, concepts/spectral-graph-filters, concepts/graph-convolutional-networks, concepts/graph-neural-networks, entities/xiaowen-dong]
+related:
+- concepts/graph-signal-processing
+- concepts/graph-fourier-transform
+- concepts/spectral-graph-filters
+- concepts/graph-convolutional-networks
+- concepts/graph-neural-networks
+- entities/xiaowen-dong
+schema_version: 2
+uuid: 857e1857-d1fe-53b3-aed8-3ae3499dc246
+content_hash: sha256:0b65b708fe13befc0883ec1e69fa6d63243152ab9bb6937c7db555c9173689cc
 ---
 
+<!-- AUTHORED REGION START -->
 # Graph Signal Processing for Machine Learning: A Review and New Perspectives
 
 **Authors:** [[entities/xiaowen-dong|Xiaowen Dong]], Dorina Thanou, Laura Toni, Michael Bronstein, Pascal Frossard
@@ -114,3 +134,5 @@ This review has been highly influential in bridging GSP and machine learning com
 - [[concepts/spectral-graph-filters|Spectral Graph Filters]]
 - [[concepts/graph-convolutional-networks|Graph Convolutional Networks]]
 - [[concepts/graph-neural-networks|Graph Neural Networks]]
+
+<!-- AUTHORED REGION END -->

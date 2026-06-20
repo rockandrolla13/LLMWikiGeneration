@@ -19,9 +19,13 @@ tags:
 - regression
 - forecasting
 title: Prediction Intervals
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 4029c8cf-5b69-554b-98a8-55fae21ed224
+content_hash: sha256:d35f6a4177730608da4b7a17a21f0bc4d8627a6e33118018bfe0db00407ae2e2
 ---
 
+<!-- AUTHORED REGION START -->
 # Prediction Intervals
 
 A **prediction interval** is a range of values that is expected to contain a future observation with a specified probability. Unlike confidence intervals (which quantify uncertainty about parameters), prediction intervals quantify uncertainty about individual predictions.
@@ -89,3 +93,4 @@ For heteroskedastic data, intervals should be wider where uncertainty is higher.
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/interval-score|interval-score]]
+<!-- AUTHORED REGION END -->

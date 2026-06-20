@@ -14,10 +14,14 @@ sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []
 title: Leonard J. Savage
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1f257ea9-8a86-59cb-90b2-ddd63f6800c5
+content_hash: sha256:53a7b1f95277e65c3188fe1256a300f08dfc2dfb497e6b21bc9e379e1446c0a5
 ---
 
+<!-- AUTHORED REGION START -->
 # Leonard J. Savage
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/gneiting-2007-strictly-proper-scoring-rules|Strictly Proper Scoring Rules, Prediction, and Estimation]]
+<!-- AUTHORED REGION END -->

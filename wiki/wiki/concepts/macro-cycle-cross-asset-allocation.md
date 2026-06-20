@@ -16,10 +16,14 @@ sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []
 title: Macro Cycle Cross-Asset Allocation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a37151f8-5b18-5f08-81ea-abacedf13a3e
+content_hash: sha256:be71086f224e8e2c0bd5e3d17a91704c965c61ae15e1a1e8081e9d9df07e094e
 ---
 
+<!-- AUTHORED REGION START -->
 # Macro Cycle Cross-Asset Allocation
 
 ## Definition
@@ -35,3 +39,4 @@ A cross-asset approach mapping the economy's position in the macro/credit cycle 
 - [[concepts/carry-rolldown|carry-rolldown]]
 - [[concepts/factor-investing|factor-investing]]
 - [[concepts/market-timing|market-timing]]
+<!-- AUTHORED REGION END -->

@@ -1,17 +1,28 @@
 ---
-title: "Cary Chi-Liang Tsai"
+title: Cary Chi-Liang Tsai
 page_id: entities/cary-tsai
 page_type: entity
 entity_type: person
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 affiliation: Simon Fraser University
-tags: [actuarial-science, mortality-modelling, credibility-theory, longevity-risk]
-related: [sources/tsai-2020-hierarchical-mortality, concepts/hierarchical-credibility-model, concepts/lee-carter-model]
+tags:
+- actuarial-science
+- mortality-modelling
+- credibility-theory
+- longevity-risk
+related:
+- sources/tsai-2020-hierarchical-mortality
+- concepts/hierarchical-credibility-model
+- concepts/lee-carter-model
 mind_map_priority: medium
+schema_version: 2
+uuid: 31b30bf9-b8ea-51d1-90c8-38f0de7290ab
+content_hash: sha256:2b6dd6f121afa76c99ceab415ef9701bddecd03ad6333288a2a686c8d514a668
 ---
 
+<!-- AUTHORED REGION START -->
 # Cary Chi-Liang Tsai
 
 **Affiliation:** Department of Statistics and Actuarial Science, Simon Fraser University
@@ -42,3 +53,5 @@ Cary Tsai's research bridges property/casualty credibility methods with life/lon
 - [[concepts/hierarchical-credibility-model|Hierarchical Credibility Model]]
 - [[concepts/lee-carter-model|Lee-Carter Model]]
 - [[concepts/longevity-risk|Longevity Risk]]
+
+<!-- AUTHORED REGION END -->

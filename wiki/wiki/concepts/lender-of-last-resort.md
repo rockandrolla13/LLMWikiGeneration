@@ -14,10 +14,14 @@ sources:
 - sources/ms-2011-11-29-europe-in-the-balance
 tags: []
 title: Lender of Last Resort
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 4141d858-c8b7-55ae-9ea3-94dc4b1dc3d2
+content_hash: sha256:af03c9b27d0bf3012b4fb8e4edf1addb09d94eb28bcff7d2bf14380111f65bbe
 ---
 
+<!-- AUTHORED REGION START -->
 # Lender of Last Resort
 
 ## Definition
@@ -31,3 +35,4 @@ An institution that can fund solvent governments in unlimited amount and duratio
 ## Related Concepts
 
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,30 @@ title: DtACI (Dynamically-tuned Adaptive Conformal Inference)
 page_id: concepts/dtaci
 page_type: concept
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-tags: [conformal-prediction, online-learning, expert-aggregation, dynamic-regret, adaptive-conformal-inference]
-sources: [sources/gibbs-2024-online-aci, sources/stocker-2025-conformal-timeseries-intro]
-related: [concepts/adaptive-conformal-inference, concepts/agaci, concepts/online-conformal-prediction, concepts/conformal-pid-control, concepts/conformal-prediction]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- online-learning
+- expert-aggregation
+- dynamic-regret
+- adaptive-conformal-inference
+sources:
+- sources/gibbs-2024-online-aci
+- sources/stocker-2025-conformal-timeseries-intro
+related:
+- concepts/adaptive-conformal-inference
+- concepts/agaci
+- concepts/online-conformal-prediction
+- concepts/conformal-pid-control
+- concepts/conformal-prediction
 mind_map_priority: medium
+schema_version: 2
+uuid: a5f85dcb-3d07-5ea6-901a-20aab3d743d2
+content_hash: sha256:06245fde3acaecbcd71232bffcbd53ef0c3ed1c59bba393b93b5244efdad3fdd
 ---
 
+<!-- AUTHORED REGION START -->
 # DtACI (Dynamically-tuned Adaptive Conformal Inference)
 
 **DtACI** ([[sources/gibbs-2024-online-aci|Gibbs & Candès 2024]]) is the parameter-free generalisation of [[concepts/adaptive-conformal-inference|ACI]]. Instead of requiring the user to set the step-size `γ`, DtACI runs `k` parallel ACI experts with a geometric grid of step-sizes and aggregates them via exponential re-weighting plus uniform mixing.
@@ -57,3 +73,5 @@ DtACI gives the **strongest theoretical local-coverage guarantee** in the ACI fa
 - [[concepts/agaci]]
 - [[concepts/online-conformal-prediction]]
 - [[concepts/conformal-pid-control]]
+
+<!-- AUTHORED REGION END -->

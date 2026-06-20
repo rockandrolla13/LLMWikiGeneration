@@ -30,10 +30,14 @@ source_type: article
 sources: []
 tags: []
 title: European High Yield Strategy Monthly Leveraged Finance Playbook — Returns
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_250ae2fc3e19
+schema_version: 2
+uuid: fa64dac1-61ee-5f1c-a4e1-518528a01b45
+content_hash: sha256:619321ed1bedcace4d9ead547f79730aa6b727a6a9ac99e340c93ef328819150
 ---
 
+<!-- AUTHORED REGION START -->
 # European High Yield Strategy Monthly Leveraged Finance Playbook — Returns
 
 **Authors:** Andrew Sheets, Phanikiran Naraparaju, Serena Tang, Jonathan Graber, Joerund Holterud Aarsnes · **Year:** 2012 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -67,3 +71,4 @@ Monthly leveraged finance playbook for European high yield, reporting that the a
 - **Path:** `raw/creditmacro/Morgan Stanley - European High Yield Strategy Monthly Leveraged Finance Playbook — Returns - 2012-03-09.md`
 - **Type:** article
 - **Hash:** `sha256:5ccccf84fcaa95ebc...`
+<!-- AUTHORED REGION END -->

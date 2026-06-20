@@ -14,10 +14,14 @@ sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []
 title: Joachim Fels
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 503689ef-d40a-5531-9025-18a51402a648
+content_hash: sha256:cdcac1ab6a9e9d124fd9bf4acf42141a208621209c884337afd2ab2e192158e4
 ---
 
+<!-- AUTHORED REGION START -->
 # Joachim Fels
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2013-10-30-japanification-or-salvation|The Global Macro Analyst: Japanification or Salvation]]
+<!-- AUTHORED REGION END -->

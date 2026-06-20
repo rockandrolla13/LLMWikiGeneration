@@ -3,14 +3,51 @@ title: Conformal Prediction
 page_id: concepts/conformal-prediction
 page_type: concept
 revision_id: 3
-created: 2026-04-10T18:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [uncertainty-quantification, prediction-intervals, machine-learning]
-sources: [sources/zaffran-phd, sources/zaffran-2022-aci, sources/johnstone-2025-multioutput, sources/vovk-2005-alrw, sources/xu-2022-spci, sources/sun-2022-copula-cpts, sources/lee-2024-kowcpi, sources/pasche-2025-extreme-conformal, sources/chernozhukov-2021-distributional-cp, sources/yang-2026-multi-distribution-robust-cp, sources/koukorinis-2026-draci]
-related: [concepts/split-conformal-prediction, concepts/adaptive-conformal-inference, concepts/coverage-guarantee, concepts/exchangeability, concepts/prediction-intervals, concepts/spci, concepts/copulas, concepts/multi-step-conformal-prediction, concepts/kowcpi, concepts/extreme-value-theory, concepts/generalized-pareto-distribution, concepts/nadaraya-watson-estimator, concepts/distributional-conformal-prediction, concepts/conditional-validity, concepts/multi-distribution-robust-cp, concepts/doubly-robust-estimation, concepts/beta-mixing, concepts/causal-inference, concepts/temporal-cross-fitting]
+created: 2026-04-10 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- uncertainty-quantification
+- prediction-intervals
+- machine-learning
+sources:
+- sources/zaffran-phd
+- sources/zaffran-2022-aci
+- sources/johnstone-2025-multioutput
+- sources/vovk-2005-alrw
+- sources/xu-2022-spci
+- sources/sun-2022-copula-cpts
+- sources/lee-2024-kowcpi
+- sources/pasche-2025-extreme-conformal
+- sources/chernozhukov-2021-distributional-cp
+- sources/yang-2026-multi-distribution-robust-cp
+- sources/koukorinis-2026-draci
+related:
+- concepts/split-conformal-prediction
+- concepts/adaptive-conformal-inference
+- concepts/coverage-guarantee
+- concepts/exchangeability
+- concepts/prediction-intervals
+- concepts/spci
+- concepts/copulas
+- concepts/multi-step-conformal-prediction
+- concepts/kowcpi
+- concepts/extreme-value-theory
+- concepts/generalized-pareto-distribution
+- concepts/nadaraya-watson-estimator
+- concepts/distributional-conformal-prediction
+- concepts/conditional-validity
+- concepts/multi-distribution-robust-cp
+- concepts/doubly-robust-estimation
+- concepts/beta-mixing
+- concepts/causal-inference
+- concepts/temporal-cross-fitting
 mind_map_priority: high
+schema_version: 2
+uuid: 407018d5-9540-55a5-b878-204a216fc8e3
+content_hash: sha256:57877c7d3f23539c744721a2e2946e22d9bb45cd8ee61a055e042f73b8c96f2e
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction
 
 **Conformal prediction (CP)** is a framework for constructing prediction sets or intervals that come with finite-sample, distribution-free validity guarantees. Unlike traditional confidence intervals that rely on asymptotic approximations or distributional assumptions, conformal prediction provides exact coverage guarantees under only the assumption of [[concepts/exchangeability|exchangeability]].
@@ -105,3 +142,5 @@ When data comes from multiple heterogeneous sources:
 - [[concepts/extreme-value-theory|Extreme Value Theory]]
 - [[concepts/generalized-pareto-distribution|Generalized Pareto Distribution]]
 - [[concepts/multi-step-conformal-prediction|Multi-step Conformal Prediction]]
+
+<!-- AUTHORED REGION END -->

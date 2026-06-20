@@ -15,10 +15,14 @@ sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 tags: []
 title: Market Integration Concordance Measure
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 0e078915-8076-54d1-9a67-6eed71a3a2d5
+content_hash: sha256:03173e4e51fb9471aec5f00f2ba6d6cb04e9a647fcc70fb004922b91ee677fb5
 ---
 
+<!-- AUTHORED REGION START -->
 # Market Integration Concordance Measure
 
 ## Definition
@@ -33,3 +37,4 @@ A nonparametric statistic (kappa) based on the concordance of stock-price and CD
 
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+<!-- AUTHORED REGION END -->

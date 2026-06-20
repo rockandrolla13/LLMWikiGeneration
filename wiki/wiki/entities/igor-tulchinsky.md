@@ -14,10 +14,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Igor Tulchinsky
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f2fd69d5-5796-5077-84d1-1683edd4a9c3
+content_hash: sha256:f9b3280629b2d0b8bddb7d3ada585185483a67b14f1e4736a7bab04d8fcbc10d
 ---
 
+<!-- AUTHORED REGION START -->
 # Igor Tulchinsky
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/tulchinsky-2020-finding-alphas|Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second Edition)]]
+<!-- AUTHORED REGION END -->

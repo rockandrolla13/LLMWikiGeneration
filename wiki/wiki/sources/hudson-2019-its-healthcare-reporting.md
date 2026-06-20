@@ -30,10 +30,14 @@ sources: []
 tags: []
 title: Methodology and reporting characteristics of studies using interrupted time
   series design in healthcare
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_9f6ea86432f6
+schema_version: 2
+uuid: efef82e9-5672-57cb-bc82-c1f5d8435279
+content_hash: sha256:06077f38e899e45d33e06807a246f400826a82782b60358fd39fd9d66597d1ec
 ---
 
+<!-- AUTHORED REGION START -->
 # Methodology and reporting characteristics of studies using interrupted time series design in healthcare
 
 **Authors:** Jemma Hudson, Shona Fielding, Craig R. Ramsay · **Year:** 2019 · **Venue:** BMC Medical Research Methodology · **Type:** paper
@@ -85,3 +89,4 @@ The authors conclude that reporting of ITS design features and results is curren
 - **Path:** `raw/causality-testing/s12874-019-0777-x.pdf`
 - **Type:** paper
 - **Hash:** `sha256:3dc9c95cf4c2104cf...`
+<!-- AUTHORED REGION END -->

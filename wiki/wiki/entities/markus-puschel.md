@@ -1,16 +1,27 @@
 ---
-title: "Markus Püschel"
+title: Markus Püschel
 page_id: entities/markus-puschel
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, professor, signal-processing, causal-discovery, eth-zurich]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- professor
+- signal-processing
+- causal-discovery
+- eth-zurich
 affiliation: ETH Zurich
 role: Professor
-related: [sources/misiakos-2025-dag-tfrc, concepts/structural-vector-autoregression]
+related:
+- sources/misiakos-2025-dag-tfrc
+- concepts/structural-vector-autoregression
+schema_version: 2
+uuid: 420351f6-0edc-5204-94f2-a3801c5d5f16
+content_hash: sha256:4df7a6b6f78ffb3d5d243a7a0258b6c6b79bd1c742ce6a5866dcbbb22cdd0f14
 ---
 
+<!-- AUTHORED REGION START -->
 # Markus Püschel
 
 **Affiliation:** ETH Zurich
@@ -78,3 +89,5 @@ The DAG-TFRC method co-developed with Panagiotis Misiakos:
 
 - [[concepts/structural-vector-autoregression|Structural Vector Autoregression]]
 - [[sources/misiakos-2025-dag-tfrc|DAG-TFRC Paper]]
+
+<!-- AUTHORED REGION END -->

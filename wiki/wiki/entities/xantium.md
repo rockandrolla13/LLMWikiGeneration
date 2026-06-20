@@ -14,10 +14,14 @@ sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []
 title: Xantium
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c1b5fd60-9f9c-5f07-b9bb-cf81247bef54
+content_hash: sha256:3389207e7d1fa4d12e5d1091be59a42b4cd5734a935541e62a82dc56a25aa0c5
 ---
 
+<!-- AUTHORED REGION START -->
 # Xantium
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/koukorinis-2024-xantium-business-plan|Business Plan Details for Xantium: Systematic Spread Fixed Income Trading]]
+<!-- AUTHORED REGION END -->

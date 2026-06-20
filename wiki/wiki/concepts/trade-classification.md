@@ -1,13 +1,25 @@
 ---
-title: "Trade Classification"
+title: Trade Classification
 page_id: concepts/trade-classification
 page_type: concept
-created: 2026-04-26T02:20:00Z
-updated: 2026-04-26T02:20:00Z
-tags: [market-microstructure, trade-signing, machine-learning, TRACE, corporate-bonds]
-related: [concepts/market-microstructure-noise, concepts/trace-data, sources/fedenia-2021-ml-trade-classifier]
+created: 2026-04-26 02:20:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- market-microstructure
+- trade-signing
+- machine-learning
+- TRACE
+- corporate-bonds
+related:
+- concepts/market-microstructure-noise
+- concepts/trace-data
+- sources/fedenia-2021-ml-trade-classifier
+schema_version: 2
+uuid: e11680ee-4237-5931-9316-7b69c31baaf7
+content_hash: sha256:3ab28fb3f01ce3f5cd3ca99acb88eecf901eb18284f86ab5761927f9d30d9a52
 ---
 
+<!-- AUTHORED REGION START -->
 # Trade Classification
 
 ## Definition
@@ -90,3 +102,5 @@ Fedenia, Ronen, and Nam (2021) show RF outperforms traditional methods:
 
 - [[sources/fedenia-2021-ml-trade-classifier|Fedenia et al. (2021)]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
+
+<!-- AUTHORED REGION END -->

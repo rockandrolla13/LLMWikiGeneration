@@ -1,16 +1,28 @@
 ---
-title: "Xiaowen Dong"
+title: Xiaowen Dong
 page_id: entities/xiaowen-dong
 page_type: entity
 entity_type: person
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [researcher, graph-signal-processing, machine-learning, oxford]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- graph-signal-processing
+- machine-learning
+- oxford
 affiliation: University of Oxford
 role: Departmental Lecturer
-related: [sources/dong-2020-gsp-for-ml, sources/zhi-2024-gaussian-processes-graphs, concepts/graph-signal-processing, entities/yin-cong-zhi]
+related:
+- sources/dong-2020-gsp-for-ml
+- sources/zhi-2024-gaussian-processes-graphs
+- concepts/graph-signal-processing
+- entities/yin-cong-zhi
+schema_version: 2
+uuid: d50784c0-d6d8-5280-82f3-5d1bc602cf0d
+content_hash: sha256:06dfc13403a8f07c9d0010d4643c8a79a1a64dd7f49ba5bb3b6ed50c1bde3390
 ---
 
+<!-- AUTHORED REGION START -->
 # Xiaowen Dong
 
 **Affiliation:** Department of Engineering Science, University of Oxford
@@ -71,3 +83,5 @@ Works closely with researchers at:
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/graph-fourier-transform|Graph Fourier Transform]]
 - [[sources/dong-2020-gsp-for-ml|GSP for ML Review]]
+
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,29 @@ title: Conformal Prediction for Computer Vision
 page_id: concepts/cp-for-vision
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, computer-vision, image-classification, segmentation]
-sources: [sources/zhou-2025-cp-data-perspective, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/adaptive-prediction-sets, concepts/regularized-adaptive-prediction-sets, concepts/conformal-risk-control, concepts/nonconformity-score]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- computer-vision
+- image-classification
+- segmentation
+sources:
+- sources/zhou-2025-cp-data-perspective
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/adaptive-prediction-sets
+- concepts/regularized-adaptive-prediction-sets
+- concepts/conformal-risk-control
+- concepts/nonconformity-score
 mind_map_priority: medium
+schema_version: 2
+uuid: 7a0c04a8-d00b-5d7a-b933-ddf4065d625b
+content_hash: sha256:66c752f0158b34a8bdc106327b42c6decec1495fbd773f1517179175f49fe3e7
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction for Computer Vision
 
 **CP for vision** applies [[concepts/conformal-prediction|conformal prediction]] to high-dimensional image data: classification, semantic and instance segmentation, image-to-image regression, depth estimation, and detection.
@@ -39,3 +54,5 @@ mind_map_priority: medium
 - [[concepts/adaptive-prediction-sets]]
 - [[concepts/regularized-adaptive-prediction-sets]]
 - [[concepts/conformal-risk-control]]
+
+<!-- AUTHORED REGION END -->

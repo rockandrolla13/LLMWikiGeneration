@@ -14,10 +14,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Null Hypothesis Significance Testing and p-values
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6e0336bb-ee57-5e3b-ac34-a4087e2505c1
+content_hash: sha256:b7c1dc2ddcd4b895b61884836755f92056250f2b0c6481adb93135b512ce931d
 ---
 
+<!-- AUTHORED REGION START -->
 # Null Hypothesis Significance Testing and p-values
 
 ## Definition
@@ -31,3 +35,4 @@ Fisher's framework for rejecting a 'no effect' null when data are sufficiently u
 ## Related Concepts
 
 - [[concepts/calibration|calibration]]
+<!-- AUTHORED REGION END -->

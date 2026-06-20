@@ -1,14 +1,25 @@
 ---
-title: "Specification Draft: Single Name Fundamental Analysis"
+title: 'Specification Draft: Single Name Fundamental Analysis'
 page_id: sources/spec-2012-single-name-fundamental
 page_type: source
 revision_id: 1
-created: 2026-05-05T23:15:00Z
-updated: 2026-05-05T23:15:00Z
-tags: [creditETF, credit-analysis, fundamental-analysis, relative-value]
-related: [concepts/credit-spread-curve, concepts/spread-per-turn-of-leverage, concepts/relative-value-analysis]
+created: 2026-05-05 23:15:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- credit-analysis
+- fundamental-analysis
+- relative-value
+related:
+- concepts/credit-spread-curve
+- concepts/spread-per-turn-of-leverage
+- concepts/relative-value-analysis
+schema_version: 2
+uuid: 656ecc97-3960-50c1-a02c-4d6875d65569
+content_hash: sha256:3adbce09924010ebf777f3e490c4db18d06c54eea6b315068cdad204b00b2f69
 ---
 
+<!-- AUTHORED REGION START -->
 # Specification Draft: Single Name Fundamental Analysis
 
 **Type:** Internal specification document
@@ -99,3 +110,5 @@ SPL = 5Y CDS Spread / (Net Debt/EBITDA)
 - [[concepts/spread-per-turn-of-leverage]]
 - [[concepts/relative-value-analysis]]
 - [[concepts/leverage-ratios]]
+
+<!-- AUTHORED REGION END -->

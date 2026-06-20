@@ -13,9 +13,13 @@ tags:
 - elicitability
 - var-es
 title: Fissler-Ziegel Loss
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 25f13271-24b4-52fd-b489-7dacf2a66262
+content_hash: sha256:08a357afa3dab1c281656ca587ff164d37bc57131546ccc22fda85317e1ca659
 ---
 
+<!-- AUTHORED REGION START -->
 # Fissler-Ziegel Loss
 
 **Fissler-Ziegel Loss** is the family of strictly consistent joint scoring functions for VaR and Expected Shortfall, making the (quantile, tail-expectation) pair jointly elicitable.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

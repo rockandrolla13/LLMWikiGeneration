@@ -26,10 +26,14 @@ source_type: article
 sources: []
 tags: []
 title: 'US Interest Rate Strategy: Funding Market Signals (Correction)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_11494c4ba831
+schema_version: 2
+uuid: 4383dab6-4a21-59af-8548-980761277eaa
+content_hash: sha256:0be8bf0d332c42eae1536dc96818d4c38dfd6f2beec22c8ff6ebf3e39bcdd7cd
 ---
 
+<!-- AUTHORED REGION START -->
 # US Interest Rate Strategy: Funding Market Signals (Correction)
 
 **Authors:** Sam Elprince, Matthew Hornbach, Sean Wan · **Year:** 2018 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -65,3 +69,4 @@ Morgan Stanley's US rates strategists analyze funding-market dynamics, noting th
 - **Path:** `raw/creditmacro/Morgan Stanley - Correction US Interest Rate Strategy — Funding Market Signals - 2018-04-05.md`
 - **Type:** article
 - **Hash:** `sha256:3f2848c0c9301e736...`
+<!-- AUTHORED REGION END -->

@@ -45,10 +45,14 @@ tags:
 - confounding
 - credit-macro
 title: 'Credit-Spread Determinants: An Empirical and Do-Calculus Reading'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_db16de9c3673
+schema_version: 2
+uuid: 57d4d4c6-f7f9-51a2-8205-5f820448b3e1
+content_hash: sha256:b0013a03e60d23f6b00158c58455b8c9ff72ef20adc354a2b830e677bb17b7bb
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit-Spread Determinants: An Empirical and Do-Calculus Reading
 
 **Query:** What are the main factors that affect credit spread changes in the medium term, and what is the do-calculus of it?
@@ -86,3 +90,4 @@ Identification strategies from the causal branch:
 - [[sources/babecky-2014-developed-country-crisis-ewi|Babecky et al. 2014]]
 - [[sources/pearl-2018-book-of-why|Pearl 2018, The Book of Why]]
 - [[sources/hernan-2020-causal-inference-what-if|Hernan & Robins 2020]]
+<!-- AUTHORED REGION END -->

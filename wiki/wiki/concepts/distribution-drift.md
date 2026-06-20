@@ -4,7 +4,7 @@ page_id: concepts/distribution-drift
 page_type: concept
 revision_id: 1
 created: 2026-04-26 12:00:00+00:00
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 tags:
 - machine-learning
 - time-series
@@ -21,8 +21,12 @@ related:
 - concepts/conformal-risk-control
 mind_map_priority: medium
 updated_by: wiki-batch-ai-engineering-2026-05-17
+schema_version: 2
+uuid: 8d3dac69-b457-55db-9969-492f4740f3a5
+content_hash: sha256:bd43cc36d350494ca9f21458a2bc146689c479bf0241e8201a388a397d327a84
 ---
 
+<!-- AUTHORED REGION START -->
 # Distribution Drift
 
 **Distribution drift** (also called concept drift or data drift) occurs when the statistical properties of data change over time, violating the common assumption that training and test data come from the same distribution.
@@ -166,3 +170,5 @@ d_TV(Z, Z^i) ≤ 2 d_TV(Z_i, Z_{n+1})
 ## See Also (AI Engineering batch)
 <!-- wiki-batch-ai-engineering-2026-05-17 -->
 - [[sources/huyen-2022-designing-ml-systems|huyen-2022-designing-ml-systems]]
+
+<!-- AUTHORED REGION END -->

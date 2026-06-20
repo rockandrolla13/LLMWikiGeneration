@@ -3,13 +3,26 @@ title: Base Correlation
 page_id: concepts/base-correlation
 page_type: concept
 revision_id: 1
-created: 2026-05-05T23:20:00Z
-updated: 2026-05-05T23:20:00Z
-tags: [creditETF, CDO, correlation, credit-derivatives, tranche-pricing]
-sources: [sources/lehman-2007-qcr-quarterly]
-related: [concepts/cdo-tranches, concepts/bespoke-cdo, concepts/correlation-skew]
+created: 2026-05-05 23:20:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- creditETF
+- CDO
+- correlation
+- credit-derivatives
+- tranche-pricing
+sources:
+- sources/lehman-2007-qcr-quarterly
+related:
+- concepts/cdo-tranches
+- concepts/bespoke-cdo
+- concepts/correlation-skew
+schema_version: 2
+uuid: ea26bf9e-5c1a-5088-88ae-919823a547ea
+content_hash: sha256:b98d91beb3fe270c3a79fba95d485edf0e28d14b4959ac0231212d49fe5388b1
 ---
 
+<!-- AUTHORED REGION START -->
 # Base Correlation
 
 **Base correlation** is a market standard framework for pricing CDO tranches using the one-factor Gaussian copula model. It addresses the phenomenon of correlation skew by allowing correlation to depend on the tranche's position in the capital structure.
@@ -86,3 +99,5 @@ Testing mapping of iTraxx S6 and CDX HY7 to CDX IG7 (January 2007):
 - [[concepts/correlation-skew]]
 - [[concepts/bespoke-cdo]]
 - [[sources/lehman-2007-qcr-quarterly]]
+
+<!-- AUTHORED REGION END -->

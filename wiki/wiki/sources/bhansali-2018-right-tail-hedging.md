@@ -34,10 +34,14 @@ tags:
 - behavioral-finance
 - jump-diffusion
 title: 'Right Tail Hedging: Managing Risk When Markets Melt Up'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_2aa0f0b54fec
+schema_version: 2
+uuid: 5b8fc9dc-3f6d-55c4-a339-fa8e305d101f
+content_hash: sha256:2dcc18d8e20c6984c565298c835f3c611c2e49804fc82a32ae64ce37c32e13f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Right Tail Hedging: Managing Risk When Markets Melt Up
 
 **Authors:** Vineer Bhansali · **Year:** 2018 · **Venue:** The Journal of Portfolio Management · **Type:** article
@@ -83,3 +87,4 @@ Bhansali argues that upside ('right tail') hedging using call options can be opt
 - **Path:** `raw/creditmacro/document.md`
 - **Type:** article
 - **Hash:** `sha256:69e9a81b6e615da3b...`
+<!-- AUTHORED REGION END -->

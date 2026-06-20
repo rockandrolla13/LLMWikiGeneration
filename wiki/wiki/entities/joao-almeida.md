@@ -16,10 +16,14 @@ sources:
 - sources/ms-2019-03-01-bank-funding-focus
 tags: []
 title: Joao Almeida
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: c8d4ea50-5df4-529e-9099-bfa130b3d189
+content_hash: sha256:c0f39ae80f4fae0428a03b99666fdba8cfb5b7c2d2a429f1bd02ce5eafd09759
 ---
 
+<!-- AUTHORED REGION START -->
 # Joao Almeida
 
 ## Overview
@@ -31,3 +35,4 @@ updated_by: creditmacro-batch
 - [[sources/ms-2019-02-15-ongoing-weakness|European Economics Weekly — Ongoing Weakness]]
 - [[sources/ms-2019-02-28-ecb-preview-tltro-funding|ECB Preview: TLTRO Funding on its Way]]
 - [[sources/ms-2019-03-01-bank-funding-focus|European Economics Weekly — Bank Funding Focus]]
+<!-- AUTHORED REGION END -->

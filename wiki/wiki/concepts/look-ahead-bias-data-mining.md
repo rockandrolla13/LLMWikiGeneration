@@ -16,10 +16,14 @@ sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []
 title: Look-Ahead Bias and Data Mining
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8ae1beff-ac67-5be0-9058-99ca6f8dd1f7
+content_hash: sha256:eec932dc3cb018ee1abe12d8f6b5d0ffaf7acd05225f227487744d2993450b85
 ---
 
+<!-- AUTHORED REGION START -->
 # Look-Ahead Bias and Data Mining
 
 ## Definition
@@ -35,3 +39,4 @@ The two main systematic biases in alpha research: look-ahead bias uses informati
 - [[concepts/backtesting|backtesting]]
 - [[concepts/data-leakage|data-leakage]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
+<!-- AUTHORED REGION END -->

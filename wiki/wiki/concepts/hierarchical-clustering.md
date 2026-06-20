@@ -13,9 +13,13 @@ tags:
 - clustering
 - machine-learning
 title: Hierarchical Clustering
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 3aeac5f3-26a9-53bc-bead-ac2635d6bda3
+content_hash: sha256:a7a1b234de9a393c53657ac1284888e3c0eb6d2c1c3d548ecb6bf21832b82e38
 ---
 
+<!-- AUTHORED REGION START -->
 # Hierarchical Clustering
 
 **Hierarchical Clustering** is agglomerative unsupervised learning that merges most-similar clusters at each step under a chosen linkage criterion (complete, average, Ward). Used here to infer block structure in idiosyncratic covariance matrices.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/cluster-analysis-and-association-rules|cluster-analysis-and-association-rules]]
+<!-- AUTHORED REGION END -->

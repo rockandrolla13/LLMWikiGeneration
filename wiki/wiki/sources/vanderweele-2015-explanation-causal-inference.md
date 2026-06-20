@@ -35,10 +35,14 @@ tags:
 - counterfactuals
 - sensitivity-analysis
 title: 'Explanation in Causal Inference: Methods for Mediation and Interaction'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_99b4040d069a
+schema_version: 2
+uuid: 8d38fa04-12de-5ae0-ae16-b970f0fe90ee
+content_hash: sha256:e1106fcde47ebfe885dbb459855767e7a6ffab7edae0910a91e39448aad7ec6c
 ---
 
+<!-- AUTHORED REGION START -->
 # Explanation in Causal Inference: Methods for Mediation and Interaction
 
 **Authors:** Tyler J. VanderWeele · **Year:** 2015 · **Venue:** Oxford University Press · **Type:** book
@@ -84,3 +88,4 @@ VanderWeele provides the first book-length treatment of mediation and interactio
 - **Path:** `raw/creditmacro/Explanation in Causal Inference Methods for Mediation and Interaction (Tyler VanderWeele) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:80dbc4976c13288d5...`
+<!-- AUTHORED REGION END -->

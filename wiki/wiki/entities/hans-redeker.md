@@ -14,10 +14,14 @@ sources:
 - sources/ms-2019-03-11-europe-surprise-upside
 tags: []
 title: Hans W Redeker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 6c88891b-9906-5ef4-bf72-72586435f754
+content_hash: sha256:12957393f3574500730bd3a4025f0affe45e67c72854322ceb74fe0bedeb0f5a
 ---
 
+<!-- AUTHORED REGION START -->
 # Hans W Redeker
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2019-03-11-europe-surprise-upside|Europe looks set to surprise on the upside]]
+<!-- AUTHORED REGION END -->

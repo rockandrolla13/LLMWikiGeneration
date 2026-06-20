@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: Add to Credit – and How Much Do Markets Lead the Economy?
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_db12f9b23eeb
+schema_version: 2
+uuid: 24f3580a-f620-54db-a1aa-b24c66626c30
+content_hash: sha256:e56b8c69b24c064071c369f9e610d500e3da014ab0c6d9e67481b4096cfee95a
 ---
 
+<!-- AUTHORED REGION START -->
 # Add to Credit – and How Much Do Markets Lead the Economy?
 
 **Authors:** Andrew Sheets, Phanikiran L Naraparaju, Serena W Tang, Wanting Low, Naomi Z Poole · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ A Cross-Asset Dispatches note from late March 2020 raising global credit to over
 - **Path:** `raw/creditmacro/Morgan Stanley - Add to Credit – and How Much Do Markets Lead the Economy - 2020-03-27.md`
 - **Type:** article
 - **Hash:** `sha256:7b54a68b792f73042...`
+<!-- AUTHORED REGION END -->

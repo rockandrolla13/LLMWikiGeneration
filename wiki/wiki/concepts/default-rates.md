@@ -31,10 +31,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Default Rates
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: bf605565-480c-58dc-950a-27081d4e27e8
+content_hash: sha256:9521dd654c371555b29bd32a742700d815c320798f453efeaf0e9f3490200e0d
 ---
 
+<!-- AUTHORED REGION START -->
 # Default Rates
 
 ## Definition
@@ -53,3 +57,4 @@ The trailing rate at which credit issuers default; the note forecasts divergent 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook]], [[sources/ms-2017-06-23-hy-leveraged-finance-playbook]], [[sources/ms-2017-10-13-machine-learning-loan-mod-redefaults]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-03-11-untested-cycle-corporate-risk]], [[sources/ms-2019-03-15-4q18-credit-fundamentals]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2020-04-03-deeper-drop-slower-climb]]
+<!-- AUTHORED REGION END -->

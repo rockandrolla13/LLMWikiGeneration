@@ -1,15 +1,35 @@
 ---
-title: "Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces"
+title: Market Co-movement Between Credit Default Swap Curves and Option Volatility
+  Surfaces
 page_id: sources/shi-2022-cds-options-comovement
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [credit-default-swaps, implied-volatility, options, unscented-kalman-filter, nelson-siegel, market-comovement]
-authors: [Yukun Shi, Charalampos Stasinakis, Yaofei Xu, Cheng Yan]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- credit-default-swaps
+- implied-volatility
+- options
+- unscented-kalman-filter
+- nelson-siegel
+- market-comovement
+authors:
+- Yukun Shi
+- Charalampos Stasinakis
+- Yaofei Xu
+- Cheng Yan
 year: 2022
-related: [concepts/kalman-filter, concepts/nelson-siegel-model, concepts/credit-default-swaps, concepts/implied-volatility-surface, concepts/unscented-kalman-filter]
+related:
+- concepts/kalman-filter
+- concepts/nelson-siegel-model
+- concepts/credit-default-swaps
+- concepts/implied-volatility-surface
+- concepts/unscented-kalman-filter
+schema_version: 2
+uuid: 58db9a82-ed1f-56d5-b50d-06d8fb203e6f
+content_hash: sha256:81b5755d2fe5f3de14130d6c34d96b5432232a645b25f2b37ec0cdd4b5ff32f9
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper analyzes the co-movement between the Credit Default Index (CDX) curve and the S&P 500 index's option volatility surface. Using the Unscented Kalman Filter (UKF) with Nelson-Siegel parameterization, the authors identify level, slope, and curvature factors in both markets and examine their interconnections.
@@ -83,3 +103,5 @@ Based on Carr & Wu (2010, 2011):
 ## Citations
 
 Shi, Y., Stasinakis, C., Xu, Y., & Yan, C. (2022). Market co-movement between credit default swap curves and option volatility surfaces. International Review of Financial Analysis, 82, 102192.
+
+<!-- AUTHORED REGION END -->

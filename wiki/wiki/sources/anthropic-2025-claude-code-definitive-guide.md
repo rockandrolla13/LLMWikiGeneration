@@ -1,20 +1,33 @@
 ---
-title: "Claude Code: The Definitive Guide to Agentic Development"
+title: 'Claude Code: The Definitive Guide to Agentic Development'
 page_id: sources/anthropic-2025-claude-code-definitive-guide
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [claude-code, agentic-development, llm-tooling, developer-workflow, context-window, multi-agent, anthropic]
-sources: [sources/anthropic-2025-claude-code-definitive-guide]
+tags:
+- claude-code
+- agentic-development
+- llm-tooling
+- developer-workflow
+- context-window
+- multi-agent
+- anthropic
+sources:
+- sources/anthropic-2025-claude-code-definitive-guide
 related: []
 mind_map_priority: high
-authors: ["Anthropic"]
+authors:
+- Anthropic
 year: 2025
 source_type: book
+schema_version: 2
+uuid: b83ef7f3-016f-57b2-a2fa-e81535532486
+content_hash: sha256:9e18665fcfb89da69521310f6db3c76208b302eb983ff65c4c73f2eab16ed022
 ---
 
+<!-- AUTHORED REGION START -->
 # Claude Code: The Definitive Guide to Agentic Development
 
 **Authors:** Anthropic  
@@ -59,3 +72,5 @@ Claude Code: The Definitive Guide to Agentic Development is a book written entir
 - At what point does context-window bloat degrade quality enough that starting a fresh session with CLAUDE.md beats compaction — and is there a measurable threshold?
 - Given the 0–20% full-delegation ceiling, how should teams structure review workflows and quality gates to catch the 'silent failures' (code that runs but is subtly wrong)?
 - How will native CI auto-fix pipelines and richer multi-agent coordination UIs (flagged as 'wait for' capabilities) change the 70–80% coverage ceiling when they mature?
+
+<!-- AUTHORED REGION END -->

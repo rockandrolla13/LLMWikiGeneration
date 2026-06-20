@@ -14,10 +14,14 @@ sources:
 - sources/ms-2016-06-15-1937-38-redux
 tags: []
 title: Jonathan Ashworth
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 869a0ff6-c85d-5740-8c08-307a5089871c
+content_hash: sha256:6c5a07970c4dcc310c9c7c271db3a4c31b4f3ff096db0dad90d5a7cdaf4db8f7
 ---
 
+<!-- AUTHORED REGION START -->
 # Jonathan Ashworth
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2016-06-15-1937-38-redux|Global Macro Briefing: 1937-38 Redux?]]
+<!-- AUTHORED REGION END -->

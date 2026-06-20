@@ -15,10 +15,14 @@ sources:
 - sources/mercado-2015-taarss-flow-whisperer
 tags: []
 title: ETF Flow Anomalies (Create-to-Lend)
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: b18d3d56-213f-58fc-b8e4-347d5841aa38
+content_hash: sha256:ce19eeecf793f89ae09d38f6231b014e445031350a813b31a45f3cc0b6487bec
 ---
 
+<!-- AUTHORED REGION START -->
 # ETF Flow Anomalies (Create-to-Lend)
 
 ## Definition
@@ -33,3 +37,4 @@ Distortions in ETF flow data that do not reflect genuine directional demand, inc
 
 - [[concepts/algorithmic-trading|algorithmic-trading]]
 - [[concepts/etf-flows|etf-flows]]
+<!-- AUTHORED REGION END -->

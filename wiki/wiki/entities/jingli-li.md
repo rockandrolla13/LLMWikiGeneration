@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-02-28-selling-the-rally
 tags: []
 title: Jingli Li
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fec8e20d-3904-5c98-a093-3204b98eb5b9
+content_hash: sha256:d845cbbb04b4a2c14e3a12fc0d6428f3a61023ff505422685498001d6593e1dc
 ---
 
+<!-- AUTHORED REGION START -->
 # Jingli Li
 
 ## Overview
@@ -29,3 +33,4 @@ updated_by: creditmacro-batch
 
 - [[sources/ms-2019-02-01-credit-strategy-chartbook|US Corporate Credit Strategy Chartbook]]
 - [[sources/ms-2019-02-28-selling-the-rally|US Corporate Credit Strategy Brief: Selling the Rally]]
+<!-- AUTHORED REGION END -->

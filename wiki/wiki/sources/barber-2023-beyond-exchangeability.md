@@ -1,39 +1,54 @@
 ---
-title: "Conformal Prediction Beyond Exchangeability"
+title: Conformal Prediction Beyond Exchangeability
 page_id: sources/barber-2023-beyond-exchangeability
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-24T18:00:00Z
-updated: 2026-05-24T18:00:00Z
-authors: ["Rina Foygel Barber", "Emmanuel J. Candès", "Aaditya Ramdas", "Ryan J. Tibshirani"]
+created: 2026-05-24 18:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Rina Foygel Barber
+- Emmanuel J. Candès
+- Aaditya Ramdas
+- Ryan J. Tibshirani
 year: 2023
-venue: "Annals of Statistics 51(2), 816-845 (DOI 10.1214/23-AOS2276). arXiv:2202.13415."
-tags: [conformal-prediction, non-exchangeable, distribution-drift, weighted-quantiles, time-series, coverage-gap, total-variation, nex-cp]
-related: [
-  concepts/non-exchangeable-conformal-prediction,
-  concepts/weighted-conformal-prediction,
-  concepts/conformal-prediction,
-  concepts/exchangeability,
-  concepts/distribution-drift,
-  concepts/split-conformal-prediction,
-  concepts/full-conformal-prediction,
-  concepts/jackknife-plus,
-  concepts/online-conformal-prediction,
-  entities/rina-foygel-barber,
-  entities/emmanuel-candes,
-  entities/aaditya-ramdas,
-  entities/ryan-tibshirani,
-  sources/tibshirani-2019-covariate-shift,
-  sources/barber-2021-jackknife-plus,
-  sources/farinhas-2024-non-exchangeable-crc,
-  sources/stocker-2025-conformal-timeseries-intro,
-  sources/gibbs-2021-aci,
-  sources/zaffran-2022-aci
-]
+venue: Annals of Statistics 51(2), 816-845 (DOI 10.1214/23-AOS2276). arXiv:2202.13415.
+tags:
+- conformal-prediction
+- non-exchangeable
+- distribution-drift
+- weighted-quantiles
+- time-series
+- coverage-gap
+- total-variation
+- nex-cp
+related:
+- concepts/non-exchangeable-conformal-prediction
+- concepts/weighted-conformal-prediction
+- concepts/conformal-prediction
+- concepts/exchangeability
+- concepts/distribution-drift
+- concepts/split-conformal-prediction
+- concepts/full-conformal-prediction
+- concepts/jackknife-plus
+- concepts/online-conformal-prediction
+- entities/rina-foygel-barber
+- entities/emmanuel-candes
+- entities/aaditya-ramdas
+- entities/ryan-tibshirani
+- sources/tibshirani-2019-covariate-shift
+- sources/barber-2021-jackknife-plus
+- sources/farinhas-2024-non-exchangeable-crc
+- sources/stocker-2025-conformal-timeseries-intro
+- sources/gibbs-2021-aci
+- sources/zaffran-2022-aci
 mind_map_priority: high
+schema_version: 2
+uuid: 2f3d1362-400a-59ae-bc33-4b52c04d3f2d
+content_hash: sha256:b20f542a5aaa36a26efb200f3a1014265828e9ea27fcbefb1b7c2023144c9839
 ---
 
+<!-- AUTHORED REGION START -->
 # Conformal Prediction Beyond Exchangeability
 
 **Authors:** [[entities/rina-foygel-barber|Rina Foygel Barber]], [[entities/emmanuel-candes|Emmanuel J. Candès]], [[entities/aaditya-ramdas|Aaditya Ramdas]], [[entities/ryan-tibshirani|Ryan J. Tibshirani]]
@@ -101,3 +116,5 @@ NexCP uses fixed weights without knowing the likelihood ratio and retains covera
 - [[concepts/non-exchangeable-conformal-prediction]]
 - [[concepts/weighted-conformal-prediction]]
 - [[entities/rina-foygel-barber]]
+
+<!-- AUTHORED REGION END -->

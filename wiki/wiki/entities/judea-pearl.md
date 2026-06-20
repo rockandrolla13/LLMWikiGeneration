@@ -16,10 +16,14 @@ sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []
 title: Judea Pearl
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 5e57ba19-3811-5d3d-b87b-6fc1aa7ce3a6
+content_hash: sha256:ac046b775b3bb96875a36bdea0980099a53eff3799fd739781afbcf586655e2c
 ---
 
+<!-- AUTHORED REGION START -->
 # Judea Pearl
 
 ## Overview
@@ -34,3 +38,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/gentzel-2021-osrct-evaluation]]
+<!-- AUTHORED REGION END -->

@@ -34,10 +34,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Global Interest Rate Strategist: Don''t Miss the Bull Market'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_6647a5943536
+schema_version: 2
+uuid: 19907fb1-9b89-523e-8dfd-308665a6c656
+content_hash: sha256:fa322d57d16bacc2af64c221ecbc1428e0e9c06b54a3752d0401445ab20d67eb
 ---
 
+<!-- AUTHORED REGION START -->
 # Global Interest Rate Strategist: Don't Miss the Bull Market
 
 **Authors:** Matthew Hornbach, Guneet Dhingra, Tony Small, Sam Elprince, David Harris, Shreya Chander, Robert J Brown, Koichi Sugisaki, Shoki Omori · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -71,3 +75,4 @@ Morgan Stanley argues investors should not turn bearish on bonds despite the 201
 - **Path:** `raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Don't Miss the Bull Market - 2019-02-09.md`
 - **Type:** article
 - **Hash:** `sha256:a7c2aa3d6d113179d...`
+<!-- AUTHORED REGION END -->

@@ -14,10 +14,14 @@ sources:
 - sources/ms-2011-05-06-differentiation-divergence
 tags: []
 title: Sivan Mahadevan
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 7f8ac779-3700-5299-ab44-b97f4e6d2a9e
+content_hash: sha256:aa2986d32a3f6dfb89b59d1f52e46b273e095cd72612f44541aa1448254a411c
 ---
 
+<!-- AUTHORED REGION START -->
 # Sivan Mahadevan
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2011-05-06-differentiation-divergence|Differentiation and Divergence]]
+<!-- AUTHORED REGION END -->

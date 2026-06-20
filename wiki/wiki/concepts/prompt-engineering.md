@@ -4,7 +4,7 @@ page_id: concepts/prompt-engineering
 page_type: concept
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 tags:
 - ai-engineering
@@ -22,8 +22,12 @@ related:
 - concepts/transformers
 mind_map_priority: high
 revision_hash: sha256:5ca7d96c4b105567
+schema_version: 2
+uuid: 4c0d3dad-d59f-5f9e-beb3-ba42b8cfd477
+content_hash: sha256:3c362186401817a37033003f5f0087eab45c9cf7d101b043f83c3be48ae8b122
 ---
 
+<!-- AUTHORED REGION START -->
 # Prompt Engineering
 
 ## Definition
@@ -43,3 +47,5 @@ The practice of designing, iterating on, and defending inputs to foundation mode
 
 - [[concepts/self-attention]]
 - [[concepts/transformers]]
+
+<!-- AUTHORED REGION END -->

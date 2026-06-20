@@ -22,9 +22,13 @@ tags:
 - statistics
 - decision-making
 title: Uncertainty Quantification
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: e87bcfdd-8434-5b88-b0ad-99e2351b40bb
+content_hash: sha256:92d071819c0130f29007bd86e08ff73813a42a896f5c5bf0d7c4a4b5051c5238
 ---
 
+<!-- AUTHORED REGION START -->
 # Uncertainty Quantification
 
 **Uncertainty quantification (UQ)** is the science of quantifying and communicating the confidence in predictions or estimates. In machine learning, it addresses the critical question: "How much should we trust this prediction?"
@@ -97,3 +101,4 @@ Key applications:
 - [[concepts/energy-score|energy-score]]
 - [[concepts/logarithmic-score|logarithmic-score]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+<!-- AUTHORED REGION END -->

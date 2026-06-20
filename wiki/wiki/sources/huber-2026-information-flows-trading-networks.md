@@ -1,21 +1,42 @@
 ---
-title: "Information Flows in Trading Networks"
+title: Information Flows in Trading Networks
 page_id: sources/huber-2026-information-flows-trading-networks
 page_type: source
 source_type: paper
 revision_id: 1
-created: 2026-05-21T12:00:00Z
-updated: 2026-05-21T12:00:00Z
-authors: [Stefan J. Huber, Edward M. Watts, Christina Zhu]
+created: 2026-05-21 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Stefan J. Huber
+- Edward M. Watts
+- Christina Zhu
 year: 2026
 venue: Journal of Accounting and Economics
-volume_issue_pages: "in press"
+volume_issue_pages: in press
 doi: 10.1016/j.jacceco.2026.101876
-tags: [otc-markets, dealer-networks, corporate-bonds, informed-trading, insurance-companies]
-related: [concepts/dealer-networks, concepts/otc-markets, concepts/informed-trading, concepts/corporate-bonds, concepts/material-non-public-information, concepts/social-networks-in-finance, entities/stefan-huber, entities/edward-watts, entities/christina-zhu]
+tags:
+- otc-markets
+- dealer-networks
+- corporate-bonds
+- informed-trading
+- insurance-companies
+related:
+- concepts/dealer-networks
+- concepts/otc-markets
+- concepts/informed-trading
+- concepts/corporate-bonds
+- concepts/material-non-public-information
+- concepts/social-networks-in-finance
+- entities/stefan-huber
+- entities/edward-watts
+- entities/christina-zhu
 mind_map_priority: high
+schema_version: 2
+uuid: 77a8f70d-3bb7-5716-a710-6f0e6332a51e
+content_hash: sha256:b310fda1838314f5391be7590d4a6270790f6f4316b203c65c164ad3f00dde9f
 ---
 
+<!-- AUTHORED REGION START -->
 # Information Flows in Trading Networks
 
 **Authors:** [[entities/stefan-huber|Stefan J. Huber]], [[entities/edward-watts|Edward M. Watts]], [[entities/christina-zhu|Christina Zhu]]
@@ -46,3 +67,5 @@ Uses regulatory insurance-company transaction data on US [[concepts/corporate-bo
 ## Related Sources
 
 (Leave empty for now — links will be added by future ingestions)
+
+<!-- AUTHORED REGION END -->

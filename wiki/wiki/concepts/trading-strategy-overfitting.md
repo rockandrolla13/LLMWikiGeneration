@@ -16,10 +16,14 @@ sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies
 tags: []
 title: Overfitting of Trading Strategies
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f480dd80-97b8-5558-8859-64b07a7dcc9f
+content_hash: sha256:6ee5e306d1e23a947ecd00a95b37ca3f9e83b0f549db27bd84af9e04473df580
 ---
 
+<!-- AUTHORED REGION START -->
 # Overfitting of Trading Strategies
 
 ## Definition
@@ -35,3 +39,4 @@ Tailoring a strategy's rules and parameters so closely to historical data that i
 - [[concepts/data-leakage|data-leakage]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
 - [[concepts/overfitting-backtesting|overfitting-backtesting]]
+<!-- AUTHORED REGION END -->

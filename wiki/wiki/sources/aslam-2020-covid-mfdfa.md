@@ -1,19 +1,41 @@
 ---
-title: "Evidence of Intraday Multifractality in European Stock Markets during COVID-19 (2020)"
+title: Evidence of Intraday Multifractality in European Stock Markets during COVID-19
+  (2020)
 page_id: sources/aslam-2020-covid-mfdfa
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T23:30:00Z
-updated: 2026-04-25T23:30:00Z
-authors: [Faheem Aslam, Wahbeeah Mohti, Paulo Ferreira]
+created: 2026-04-25 23:30:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Faheem Aslam
+- Wahbeeah Mohti
+- Paulo Ferreira
 year: 2020
 venue: International Journal of Financial Studies
-tags: [mfdfa, covid-19, multifractal, stock-markets, european-markets, high-frequency, market-efficiency, econophysics]
-related: [concepts/mfdfa, concepts/stylized-facts, concepts/hurst-exponent, concepts/long-memory, sources/stavroyiannis-2017-bitcoin-multifractal, sources/koukorinis-stylized-facts]
+tags:
+- mfdfa
+- covid-19
+- multifractal
+- stock-markets
+- european-markets
+- high-frequency
+- market-efficiency
+- econophysics
+related:
+- concepts/mfdfa
+- concepts/stylized-facts
+- concepts/hurst-exponent
+- concepts/long-memory
+- sources/stavroyiannis-2017-bitcoin-multifractal
+- sources/koukorinis-stylized-facts
 mind_map_priority: medium
+schema_version: 2
+uuid: 1a0d342f-1fd3-5fc8-b00a-6c05a452c346
+content_hash: sha256:3f7ad73bd41255954af64388592bc9179bbd94d8e9113d1266dccddd1cbb85f3
 ---
 
+<!-- AUTHORED REGION START -->
 # Evidence of Intraday Multifractality in European Stock Markets during COVID-19
 
 ## Summary
@@ -118,3 +140,5 @@ Study period: January 1 - March 23, 2020
 - [[concepts/stylized-facts|Stylized Facts]]
 - [[sources/stavroyiannis-2017-bitcoin-multifractal|Bitcoin Multifractal Analysis]]
 - [[sources/koukorinis-stylized-facts|Koukorinis Stylized Facts]]
+
+<!-- AUTHORED REGION END -->

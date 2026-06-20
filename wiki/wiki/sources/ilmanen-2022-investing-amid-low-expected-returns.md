@@ -36,10 +36,14 @@ tags:
 - portfolio-construction
 title: 'Investing Amid Low Expected Returns: Making the Most When Markets Offer the
   Least'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_2fb5ee9b1941
+schema_version: 2
+uuid: 2d2c8ad3-5229-5a58-83a1-13ebd9a752b7
+content_hash: sha256:2a9d48efeab5f7f024e8645fa0a59a0f4087ba0cd5539a94566009db35b0d15d
 ---
 
+<!-- AUTHORED REGION START -->
 # Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least
 
 **Authors:** Antti Ilmanen · **Year:** 2022 · **Venue:** John Wiley & Sons · **Type:** book
@@ -85,3 +89,4 @@ Ilmanen's 2022 book confronts the secular challenge of low expected returns: aft
 - **Path:** `raw/creditmacro/Investing Amid Low Expected Returns - Making the Most When Markets Offer the Least (Antti Ilmanen) (z-library.sk, 1lib.sk, z-lib.sk).md`
 - **Type:** book
 - **Hash:** `sha256:f5f69175dd0136b6c...`
+<!-- AUTHORED REGION END -->

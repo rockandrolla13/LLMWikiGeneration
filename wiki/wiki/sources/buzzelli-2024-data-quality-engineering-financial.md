@@ -1,20 +1,32 @@
 ---
-title: "Data Quality Engineering in Financial Services"
+title: Data Quality Engineering in Financial Services
 page_id: sources/buzzelli-2024-data-quality-engineering-financial
 page_type: source
 revision_id: 1
-created: 2026-06-19T00:00:00Z
-updated: 2026-06-19T00:00:00Z
+created: 2026-06-19 00:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
 updated_by: batch_ingest_technical_books_2026_06_19
-tags: [data-quality, financial-services, data-engineering, data-governance, manufacturing-principles, enterprise-data-management]
-sources: [sources/buzzelli-2024-data-quality-engineering-financial]
+tags:
+- data-quality
+- financial-services
+- data-engineering
+- data-governance
+- manufacturing-principles
+- enterprise-data-management
+sources:
+- sources/buzzelli-2024-data-quality-engineering-financial
 related: []
 mind_map_priority: high
-authors: ["Brian Buzzelli"]
+authors:
+- Brian Buzzelli
 year: 2024
 source_type: book
+schema_version: 2
+uuid: 80823022-4cdd-5c51-b940-73b6059b6363
+content_hash: sha256:31fda428bfdd44b350e6ce0b189127f4494c937d3ed10f549e18c8526ed10900
 ---
 
+<!-- AUTHORED REGION START -->
 # Data Quality Engineering in Financial Services
 
 **Authors:** Brian Buzzelli  
@@ -62,3 +74,5 @@ Data Quality Engineering in Financial Services (O'Reilly, 2022) by Brian Buzzell
 - How can DQS tolerances be operationally maintained and updated as consumer requirements evolve across large, multi-consumer financial data ecosystems without becoming a governance bottleneck?
 - To what extent can the eight-dimension DQS framework handle unstructured or semi-structured financial data (e.g., NLP-derived signals, alternative data) where physical-property analogies break down?
 - Given the book predates widespread LLM adoption in finance (published 2022), how would the DQS framework need to extend to govern AI-generated or AI-transformed data attributes in quantitative pipelines?
+
+<!-- AUTHORED REGION END -->

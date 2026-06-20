@@ -15,10 +15,14 @@ sources:
 - sources/ms-2017-06-23-ig-fundamentals-in-good-shape
 tags: []
 title: Corporate Credit Fundamentals
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: fa261b56-a0a1-5f9b-8eb7-e46b21cdb77b
+content_hash: sha256:ed245a9f514ad40eeb4b33cfc2ee2d2d8f8521add64cc05e56639e0a71a077ad
 ---
 
+<!-- AUTHORED REGION START -->
 # Corporate Credit Fundamentals
 
 ## Definition
@@ -33,3 +37,4 @@ Balance-sheet metrics such as gross/net leverage, cash/debt and interest coverag
 
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/default-rates|default-rates]]
+<!-- AUTHORED REGION END -->

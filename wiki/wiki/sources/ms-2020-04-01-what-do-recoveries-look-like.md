@@ -29,10 +29,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Cross-Asset Dispatches: What Do Recoveries Usually Look Like?'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_8d7302c2955b
+schema_version: 2
+uuid: 12dcec20-8a55-522e-9b2f-7e5e9510978b
+content_hash: sha256:24d8ffdac0fa57f1c11d6d1a131b0a5bcf02cc564ab2197710be59e6264eeaec
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-Asset Dispatches: What Do Recoveries Usually Look Like?
 
 **Authors:** Serena W Tang, Naomi Z Poole, Andrew Sheets, Phanikiran L Naraparaju, Wanting Low · **Year:** 2020 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -66,3 +70,4 @@ Morgan Stanley examines cross-asset sequencing around prior bear-market lows to 
 - **Path:** `raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — What Do Recoveries Usually Look Like - 2020-04-01.md`
 - **Type:** article
 - **Hash:** `sha256:e897cec48f3c0df3d...`
+<!-- AUTHORED REGION END -->

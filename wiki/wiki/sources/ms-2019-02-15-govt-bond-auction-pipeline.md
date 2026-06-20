@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: Government Bond Auction Pipeline | The Month Ahead
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_b473f076114a
+schema_version: 2
+uuid: 5e5c6246-0e9b-5655-a23f-da09dbee1aa0
+content_hash: sha256:63d11fc6f769399d6d615cb2e1fdec6cad74bc34e38bfe900a3f3963f3cf1323
 ---
 
+<!-- AUTHORED REGION START -->
 # Government Bond Auction Pipeline | The Month Ahead
 
 **Authors:** Matthew Hornbach, David Harris, Robert J Brown · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ A supply-and-redemption review of government bond markets across the US, UK, eur
 - **Path:** `raw/creditmacro/Morgan Stanley - Government Bond Auction Pipeline — The Month Ahead - 2019-02-15.md`
 - **Type:** article
 - **Hash:** `sha256:2faba052084fd38b9...`
+<!-- AUTHORED REGION END -->

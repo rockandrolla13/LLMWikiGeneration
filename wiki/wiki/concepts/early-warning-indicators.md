@@ -16,10 +16,14 @@ sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []
 title: Early Warning Indicators
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: f33d2f4b-375f-5e3f-8afe-128fe3ee5df5
+content_hash: sha256:7f5ceb9bd8897ccaae9510c79cd27d8636c6cccdb082126874984f4df517e870
 ---
 
+<!-- AUTHORED REGION START -->
 # Early Warning Indicators
 
 ## Definition
@@ -35,3 +39,4 @@ Macroeconomic and financial variables monitored to anticipate costly events such
 - [[concepts/banking-crisis-early-warning-indicators|banking-crisis-early-warning-indicators]]
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
 - [[concepts/spillover-effect|spillover-effect]]
+<!-- AUTHORED REGION END -->

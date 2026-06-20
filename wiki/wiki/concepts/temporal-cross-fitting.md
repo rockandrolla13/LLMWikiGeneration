@@ -1,16 +1,30 @@
 ---
-title: "Temporal Cross-Fitting"
+title: Temporal Cross-Fitting
 page_id: concepts/temporal-cross-fitting
 page_type: concept
 revision_id: 1
-created: 2026-04-28T14:00:00Z
-updated: 2026-04-28T14:00:00Z
-tags: [time-series, cross-validation, machine-learning, causal-inference]
-sources: [sources/koukorinis-2026-draci]
-related: [concepts/doubly-robust-estimation, concepts/beta-mixing, concepts/causal-inference, concepts/conformal-prediction, concepts/adaptive-conformal-inference]
+created: 2026-04-28 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- time-series
+- cross-validation
+- machine-learning
+- causal-inference
+sources:
+- sources/koukorinis-2026-draci
+related:
+- concepts/doubly-robust-estimation
+- concepts/beta-mixing
+- concepts/causal-inference
+- concepts/conformal-prediction
+- concepts/adaptive-conformal-inference
 mind_map_priority: medium
+schema_version: 2
+uuid: d6989ae6-4c57-50dd-a69a-06df29298544
+content_hash: sha256:648596ae4a37cfdaae53524c8b3c93062805b8a6ac3552a6245b6661b6f7e547
 ---
 
+<!-- AUTHORED REGION START -->
 # Temporal Cross-Fitting
 
 **Temporal cross-fitting** (also called **temporal block cross-fitting**) is a technique for fitting nuisance models on time series data while preserving approximate independence between training and calibration sets. It extends standard cross-fitting from IID settings to temporally dependent data.
@@ -119,3 +133,5 @@ When calibrating Block2:
 - [[concepts/causal-inference|Causal Inference]]
 - [[concepts/conformal-prediction|Conformal Prediction]]
 - [[sources/koukorinis-2026-draci|DR-ACI Paper]]
+
+<!-- AUTHORED REGION END -->

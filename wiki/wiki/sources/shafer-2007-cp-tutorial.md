@@ -1,33 +1,44 @@
 ---
-title: "A Tutorial on Conformal Prediction"
+title: A Tutorial on Conformal Prediction
 page_id: sources/shafer-2007-cp-tutorial
 page_type: source
 source_type: tutorial
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-authors: ["Glenn Shafer", "Vladimir Vovk"]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Glenn Shafer
+- Vladimir Vovk
 year: 2007
-venue: "arXiv:0706.3188 (also JMLR 9, 371-421, 2008)"
-tags: [conformal-prediction, tutorial, foundational, on-line-learning, gaussian-linear-model, exchangeability]
-related: [
-  concepts/conformal-prediction,
-  concepts/nonconformity-score,
-  concepts/exchangeability,
-  concepts/on-line-compression-models,
-  concepts/mondrian-conformal-prediction,
-  concepts/marginal-coverage,
-  concepts/split-conformal-prediction,
-  entities/glenn-shafer,
-  entities/vladimir-vovk,
-  sources/vovk-2005-algorithmic-learning,
-  sources/vovk-2012-cross-conformal,
-  sources/angelopoulos-2022-gentle-intro,
-  sources/fontana-2023-cp-unified-review
-]
+venue: arXiv:0706.3188 (also JMLR 9, 371-421, 2008)
+tags:
+- conformal-prediction
+- tutorial
+- foundational
+- on-line-learning
+- gaussian-linear-model
+- exchangeability
+related:
+- concepts/conformal-prediction
+- concepts/nonconformity-score
+- concepts/exchangeability
+- concepts/on-line-compression-models
+- concepts/mondrian-conformal-prediction
+- concepts/marginal-coverage
+- concepts/split-conformal-prediction
+- entities/glenn-shafer
+- entities/vladimir-vovk
+- sources/vovk-2005-algorithmic-learning
+- sources/vovk-2012-cross-conformal
+- sources/angelopoulos-2022-gentle-intro
+- sources/fontana-2023-cp-unified-review
 mind_map_priority: high
+schema_version: 2
+uuid: 356d8903-0ee7-5e9c-88d7-9a3e38ecd282
+content_hash: sha256:02f7198eadb15c5829d009bdfb52742851a5d0a7806e6bab2fa127344c4f0ef2
 ---
 
+<!-- AUTHORED REGION START -->
 # A Tutorial on Conformal Prediction
 
 **Authors:** [[entities/glenn-shafer|Glenn Shafer]], [[entities/vladimir-vovk|Vladimir Vovk]]
@@ -91,3 +102,5 @@ Read this tutorial **before** the [[sources/vovk-2005-algorithmic-learning|2005 
 - [[concepts/on-line-compression-models]]
 - [[concepts/mondrian-conformal-prediction]]
 - [[entities/glenn-shafer]], [[entities/vladimir-vovk]]
+
+<!-- AUTHORED REGION END -->

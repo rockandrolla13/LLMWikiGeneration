@@ -37,10 +37,14 @@ tags:
 - calibration
 - crps
 title: Strictly Proper Scoring Rules, Prediction, and Estimation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_c66282c02cb0
+schema_version: 2
+uuid: 9fb8cb45-0448-50a9-921f-ce1faf488e5b
+content_hash: sha256:7d1352695d8acf86cd54b29b5dbda51a27c0d68cfd361a389a63987832f1bd7e
 ---
 
+<!-- AUTHORED REGION START -->
 # Strictly Proper Scoring Rules, Prediction, and Estimation
 
 **Authors:** Tilmann Gneiting, Adrian E. Raftery · **Year:** 2007 · **Venue:** Journal of the American Statistical Association · **Type:** paper
@@ -90,3 +94,4 @@ Gneiting and Raftery review and develop the theory of proper scoring rules on ge
 - **Path:** `raw/creditmacro/Gneiting2007jasa.md`
 - **Type:** paper
 - **Hash:** `sha256:4fe98e7889286c7a2...`
+<!-- AUTHORED REGION END -->

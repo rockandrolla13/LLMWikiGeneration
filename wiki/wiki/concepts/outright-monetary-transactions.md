@@ -15,10 +15,14 @@ sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []
 title: Outright Monetary Transactions
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 33637983-b24e-543f-9452-fc7def8cd243
+content_hash: sha256:0062edd07caaf9bfac95a207374df3f83e2513637b06d5a1acecf7258e472060
 ---
 
+<!-- AUTHORED REGION START -->
 # Outright Monetary Transactions
 
 ## Definition
@@ -33,3 +37,4 @@ The 2012 ECB programme committing balance-sheet capacity to purchase sovereign b
 
 - [[concepts/government-bond-spreads|government-bond-spreads]]
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
+<!-- AUTHORED REGION END -->

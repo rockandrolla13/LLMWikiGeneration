@@ -1,16 +1,29 @@
 ---
-title: "Functional Data Analysis"
+title: Functional Data Analysis
 page_id: concepts/functional-data-analysis
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [statistics, time-series, curves, econometrics]
-sources: [sources/he-2024-functional-regression]
-related: [concepts/state-space-models, concepts/schwartz-smith-model, concepts/nelson-siegel-model, entities/gareth-peters]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistics
+- time-series
+- curves
+- econometrics
+sources:
+- sources/he-2024-functional-regression
+related:
+- concepts/state-space-models
+- concepts/schwartz-smith-model
+- concepts/nelson-siegel-model
+- entities/gareth-peters
 mind_map_priority: medium
+schema_version: 2
+uuid: 97b63f50-3b00-55cc-984c-57f58c83b22c
+content_hash: sha256:e7af8b2ead422dec504987783f805f2babdf90bdb1176635fe6e34d1ae8d4c95
 ---
 
+<!-- AUTHORED REGION START -->
 # Functional Data Analysis
 
 Functional Data Analysis (FDA) treats entire curves, surfaces, or other functions as single observations, rather than reducing them to summary statistics.
@@ -64,3 +77,5 @@ Function-on-function regression linking:
 - [[concepts/schwartz-smith-model|Schwartz-Smith Model]]
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]]
 - [[sources/he-2024-functional-regression|Multi-Factor Function-on-Function Regression (2024)]]
+
+<!-- AUTHORED REGION END -->

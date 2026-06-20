@@ -14,10 +14,14 @@ sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 tags: []
 title: Melanie Baker
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2a6463ac-056c-548a-8b1a-becb9185ba3b
+content_hash: sha256:9c4e1acc8167d23b856348cfc7d1040747788675c35eae95b2b452b0657b5016
 ---
 
+<!-- AUTHORED REGION START -->
 # Melanie Baker
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2010-06-04-european-macro-indicators-guide|European Economics: A Practitioner's Guide to European Macro Indicators]]
+<!-- AUTHORED REGION END -->

@@ -1,16 +1,27 @@
 ---
-title: "Gegenbauer Processes"
+title: Gegenbauer Processes
 page_id: concepts/gegenbauer-processes
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [time-series, long-memory, spectral-analysis, econometrics]
-sources: [sources/technical-2025-bond-similarity]
-related: [concepts/nelson-siegel-model, concepts/state-space-models]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- time-series
+- long-memory
+- spectral-analysis
+- econometrics
+sources:
+- sources/technical-2025-bond-similarity
+related:
+- concepts/nelson-siegel-model
+- concepts/state-space-models
 mind_map_priority: low
+schema_version: 2
+uuid: 8f34834e-afc2-5492-ab44-8c07260186f4
+content_hash: sha256:0173f9ec99ce65b611ca8dce4cb3e1b2dcf6e06ffdc06feb3dc84597555b4d2c
 ---
 
+<!-- AUTHORED REGION START -->
 # Gegenbauer Processes
 
 Gegenbauer processes (also called Gegenbauer long-memory or GARMA processes) generalize ARFIMA models by allowing long-memory behavior at non-zero frequencies.
@@ -67,3 +78,5 @@ This creates persistent cyclical behavior.
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]]
 - [[concepts/state-space-models|State-Space Models]]
 - [[sources/technical-2025-bond-similarity|Bond Similarity Framework (2025)]]
+
+<!-- AUTHORED REGION END -->

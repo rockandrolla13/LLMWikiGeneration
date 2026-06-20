@@ -14,10 +14,14 @@ sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 tags: []
 title: Shreya Chander
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 8b7cc551-415b-5218-8f24-7a42e92a370c
+content_hash: sha256:091883f552de768344a68129795a960a72eb6c88a6352295a58eb6b8f229ba0a
 ---
 
+<!-- AUTHORED REGION START -->
 # Shreya Chander
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ms-2017-01-28-rates-strategist-duration-and-curves|Global Interest Rate Strategist: Trading with Stocks – Duration and Curves]]
+<!-- AUTHORED REGION END -->

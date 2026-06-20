@@ -23,10 +23,14 @@ source_type: article
 sources: []
 tags: []
 title: 'EMFX Quant''s Lab: Steady Path'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_98f4e18a4234
+schema_version: 2
+uuid: 41f7245c-273e-5860-8fc1-44935a094f47
+content_hash: sha256:5a211b9fbf9e87072fffdc6c8fa023149a728a2049d954230f16075cba65a6bb
 ---
 
+<!-- AUTHORED REGION START -->
 # EMFX Quant's Lab: Steady Path
 
 **Authors:** Andres Jaime · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -57,3 +61,4 @@ A periodic EM Quant Strategy note reporting the latest readings of Morgan Stanle
 - **Path:** `raw/creditmacro/Morgan Stanley - EM Quant Strategy — EMFX Quant's Lab Steady Path - 2019-02-11.md`
 - **Type:** article
 - **Hash:** `sha256:950db12ae0d143777...`
+<!-- AUTHORED REGION END -->

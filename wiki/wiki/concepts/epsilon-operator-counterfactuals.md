@@ -13,10 +13,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Epsilon-Operator Semantics for Counterfactuals
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 90886f59-7486-557b-862c-65c820497110
+content_hash: sha256:8ab5e886073cb60af16c648688e5898cb5f8aaae1637c252fb5b33fce02dd0c2
 ---
 
+<!-- AUTHORED REGION START -->
 # Epsilon-Operator Semantics for Counterfactuals
 
 ## Definition
@@ -26,3 +30,4 @@ Schulz's semantics using Hilbert's epsilon-operator: a counterfactual is true if
 ## Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

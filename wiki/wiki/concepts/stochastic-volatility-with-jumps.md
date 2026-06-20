@@ -16,9 +16,13 @@ tags:
 - jumps
 - svcj
 title: Stochastic Volatility with Jumps
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 809c0838-7865-55df-b37b-7dea7dd88b88
+content_hash: sha256:a902442fc4385a1a75006441e6be11998787ff4733fc7fe0c50d6e0832b324f2
 ---
 
+<!-- AUTHORED REGION START -->
 # Stochastic Volatility with Jumps
 
 **Stochastic Volatility with Jumps** is a continuous-time asset-price model combining Heston-style stochastic variance with finite-activity jumps in returns and variance, e.g. the SVCJ model of Duffie, Pan, Singleton (2000).
@@ -36,3 +40,4 @@ updated: '2026-06-09T12:00:00Z'
 - [[concepts/compound-option-model|compound-option-model]]
 - [[concepts/jump-diffusion-option-pricing|jump-diffusion-option-pricing]]
 - [[concepts/option-implied-credit-information|option-implied-credit-information]]
+<!-- AUTHORED REGION END -->

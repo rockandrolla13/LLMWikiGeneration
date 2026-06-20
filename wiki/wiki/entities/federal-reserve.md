@@ -17,10 +17,14 @@ sources:
 - sources/ms-2019-03-03-an-easing-trio
 tags: []
 title: Federal Reserve
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: d9559054-2f9b-58df-83e7-3583b8680a6f
+content_hash: sha256:9988ec7bfd2b6a55ed408173385afc4d7b1505f599e77157464ff2050f94f1fa
 ---
 
+<!-- AUTHORED REGION START -->
 # Federal Reserve
 
 ## Overview
@@ -34,3 +38,4 @@ updated_by: creditmacro-batch
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/ms-2013-10-30-japanification-or-salvation]], [[sources/ms-2019-01-24-global-growth-tracker-dm-underperform]], [[sources/ms-2019-03-03-an-easing-trio]]
+<!-- AUTHORED REGION END -->

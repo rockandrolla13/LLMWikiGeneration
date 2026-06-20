@@ -13,10 +13,14 @@ sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []
 title: Evaluation Constraint on Counterfactuals
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 10e8b256-1ddd-5e11-aa7a-b34759cc3b5e
+content_hash: sha256:c4318ba10f252871ba872dccc2ecbe3a29eebcb9780e447580bc1ca480e6ace6
 ---
 
+<!-- AUTHORED REGION START -->
 # Evaluation Constraint on Counterfactuals
 
 ## Definition
@@ -26,3 +30,4 @@ Schulz's principle that one's credence in a counterfactual should equal its coun
 ## Sources
 
 - [[sources/schulz-counterfactuals-and-probability|Counterfactuals and Probability]]
+<!-- AUTHORED REGION END -->

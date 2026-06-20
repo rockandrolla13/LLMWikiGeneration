@@ -3,14 +3,27 @@ title: Mask-Conditional Validity
 page_id: concepts/mask-conditional-validity
 page_type: concept
 revision_id: 1
-created: 2026-04-26T12:00:00Z
-updated: 2026-04-26T12:00:00Z
-tags: [conformal-prediction, missing-data, conditional-coverage, fairness]
-sources: [sources/zaffran-2023-conformal-missing]
-related: [concepts/conformal-prediction, concepts/coverage-guarantee, concepts/missing-data-imputation, entities/margaux-zaffran]
+created: 2026-04-26 12:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- missing-data
+- conditional-coverage
+- fairness
+sources:
+- sources/zaffran-2023-conformal-missing
+related:
+- concepts/conformal-prediction
+- concepts/coverage-guarantee
+- concepts/missing-data-imputation
+- entities/margaux-zaffran
 mind_map_priority: high
+schema_version: 2
+uuid: 58f666ac-c3bf-5e66-83d9-2c6d62a25e5d
+content_hash: sha256:321a97b11bac2d2ea9d8ad818a045f140dba5c2a970f7cb80abd22dee97bf679
 ---
 
+<!-- AUTHORED REGION START -->
 # Mask-Conditional Validity (MCV)
 
 **Mask-Conditional Validity (MCV)** is a coverage guarantee for [[concepts/conformal-prediction|conformal prediction]] that ensures valid prediction intervals **conditionally on the pattern of missing values**.
@@ -138,3 +151,5 @@ From [[sources/zaffran-2023-conformal-missing|Zaffran et al. (2023)]]:
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/missing-data-imputation|Missing Data Imputation]]
 - [[concepts/conformalized-quantile-regression|Conformalized Quantile Regression]]
+
+<!-- AUTHORED REGION END -->

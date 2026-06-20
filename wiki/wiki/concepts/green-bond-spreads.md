@@ -1,16 +1,29 @@
 ---
-title: "Green Bond Spreads"
+title: Green Bond Spreads
 page_id: concepts/green-bond-spreads
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [sustainable-finance, green-bonds, fixed-income, esg]
-sources: [sources/sehatpour-2024-green-bonds]
-related: [concepts/yield-to-maturity, concepts/credit-spread-curve, concepts/association-rule-learning, entities/christina-nikitopoulos]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- sustainable-finance
+- green-bonds
+- fixed-income
+- esg
+sources:
+- sources/sehatpour-2024-green-bonds
+related:
+- concepts/yield-to-maturity
+- concepts/credit-spread-curve
+- concepts/association-rule-learning
+- entities/christina-nikitopoulos
 mind_map_priority: high
+schema_version: 2
+uuid: 0d55a3de-bd0b-544c-b9cd-aa4df4962efa
+content_hash: sha256:33a6f59f0556367b60c531dbe4b6ee79922d84466162cadc1924f0e09dcd7e41
 ---
 
+<!-- AUTHORED REGION START -->
 # Green Bond Spreads
 
 Green bond spreads measure the yield difference between green bonds and comparable conventional bonds, often referred to as the "greenium."
@@ -60,3 +73,5 @@ A negative spread (greenium) indicates green bonds trade at a premium (lower yie
 - [[concepts/credit-spread-curve|Credit Spread Curve]]
 - [[concepts/association-rule-learning|Association Rule Learning]]
 - [[sources/sehatpour-2024-green-bonds|Anatomy of Municipal Green Bond Yield Spreads (2024)]]
+
+<!-- AUTHORED REGION END -->

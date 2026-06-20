@@ -14,10 +14,14 @@ sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []
 title: Jordan Ellenberg
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 88c2b662-8624-5784-9848-799b4fcba686
+content_hash: sha256:0a6d23baa7e1e4e87b0a4791f5344844f88114242a1cbefa210eb4d5dcee0e31
 ---
 
+<!-- AUTHORED REGION START -->
 # Jordan Ellenberg
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/ellenberg-2014-how-not-to-be-wrong|How Not to Be Wrong: The Power of Mathematical Thinking]]
+<!-- AUTHORED REGION END -->

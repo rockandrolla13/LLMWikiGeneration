@@ -13,10 +13,14 @@ sources:
 - sources/tooley-1997-time-tense-causation
 tags: []
 title: Truth at a Time
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 1621944a-cc25-594f-94c9-947aafed7a44
+content_hash: sha256:238156f6c523f9914825361a7844139b29f113fbe7475fc078cc1a315682756e
 ---
 
+<!-- AUTHORED REGION START -->
 # Truth at a Time
 
 ## Definition
@@ -26,3 +30,4 @@ A temporally relativized notion of truth, motivated by a correspondence theory: 
 ## Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+<!-- AUTHORED REGION END -->

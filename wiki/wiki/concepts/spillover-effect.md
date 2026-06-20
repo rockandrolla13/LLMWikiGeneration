@@ -18,9 +18,13 @@ tags:
 - corporate-bonds
 - cross-asset
 title: Momentum Spillover Effect
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: b984d866-4af7-5520-95d2-e4d7f8da2359
+content_hash: sha256:440a563af8d943a9abc960e6faebbdc718b35c77fd2242109d2f9d09b0c2234e
 ---
 
+<!-- AUTHORED REGION START -->
 # Momentum Spillover Effect
 
 ## Definition
@@ -104,3 +108,4 @@ Haesen, Houweling, and van Zundert (2017):
 - [[concepts/dsge-threshold-bvar-counterfactual-analysis|dsge-threshold-bvar-counterfactual-analysis]]
 - [[concepts/early-warning-indicators|early-warning-indicators]]
 - [[concepts/twin-crises|twin-crises]]
+<!-- AUTHORED REGION END -->

@@ -3,14 +3,29 @@ title: Multi-step Conformal Prediction
 page_id: concepts/multi-step-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-04-26T10:00:00Z
-updated: 2026-04-26T10:00:00Z
-tags: [conformal-prediction, time-series, multi-step-forecasting, uncertainty-quantification]
-sources: [sources/xu-2022-spci, sources/sun-2022-copula-cpts]
-related: [concepts/conformal-prediction, concepts/prediction-intervals, concepts/coverage-guarantee, concepts/copulas, concepts/spci]
+created: 2026-04-26 10:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- time-series
+- multi-step-forecasting
+- uncertainty-quantification
+sources:
+- sources/xu-2022-spci
+- sources/sun-2022-copula-cpts
+related:
+- concepts/conformal-prediction
+- concepts/prediction-intervals
+- concepts/coverage-guarantee
+- concepts/copulas
+- concepts/spci
 mind_map_priority: high
+schema_version: 2
+uuid: 2d074eba-ecc3-5a93-8ec9-604a6110dbfe
+content_hash: sha256:240b93267063a81e29d71d01b8898f2ee89d64dd27d118daab364247e54e2700
 ---
 
+<!-- AUTHORED REGION START -->
 # Multi-step Conformal Prediction
 
 **Multi-step conformal prediction** extends [[concepts/conformal-prediction|conformal prediction]] to provide valid uncertainty quantification for forecasting multiple time steps into the future. The key challenge is providing a [[concepts/coverage-guarantee|coverage guarantee]] for the **entire forecast horizon**, not just individual steps.
@@ -118,3 +133,5 @@ The advantage of copula-based methods grows with horizon length.
 - [[concepts/spci|SPCI]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 - [[concepts/prediction-intervals|Prediction Intervals]]
+
+<!-- AUTHORED REGION END -->

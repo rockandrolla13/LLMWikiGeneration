@@ -16,10 +16,14 @@ sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []
 title: Volatility-Based Position Sizing
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 15ca38b6-681d-5f2c-9754-19911499c53f
+content_hash: sha256:7262046a8078c310b3772f39cb8d467333c6c3285af132494e971ba89e77ee85
 ---
 
+<!-- AUTHORED REGION START -->
 # Volatility-Based Position Sizing
 
 ## Definition
@@ -35,3 +39,4 @@ A position-management methodology sizing each position so its expected risk cont
 - [[concepts/minimum-variance-portfolio|minimum-variance-portfolio]]
 - [[concepts/value-at-risk|value-at-risk]]
 - [[concepts/volatility-targeting|volatility-targeting]]
+<!-- AUTHORED REGION END -->

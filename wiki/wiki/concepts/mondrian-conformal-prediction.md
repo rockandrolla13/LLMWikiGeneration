@@ -3,14 +3,31 @@ title: Mondrian Conformal Prediction
 page_id: concepts/mondrian-conformal-prediction
 page_type: concept
 revision_id: 1
-created: 2026-05-24T16:00:00Z
-updated: 2026-05-24T16:00:00Z
-tags: [conformal-prediction, conditional-validity, taxonomy, mondrian]
-sources: [sources/vovk-2005-algorithmic-learning, sources/shafer-2007-cp-tutorial, sources/fontana-2023-cp-unified-review]
-related: [concepts/conformal-prediction, concepts/conditional-validity, concepts/conditional-coverage, concepts/group-balanced-conformal-prediction, concepts/class-conditional-conformal-prediction, concepts/mask-conditional-validity]
+created: 2026-05-24 16:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- conditional-validity
+- taxonomy
+- mondrian
+sources:
+- sources/vovk-2005-algorithmic-learning
+- sources/shafer-2007-cp-tutorial
+- sources/fontana-2023-cp-unified-review
+related:
+- concepts/conformal-prediction
+- concepts/conditional-validity
+- concepts/conditional-coverage
+- concepts/group-balanced-conformal-prediction
+- concepts/class-conditional-conformal-prediction
+- concepts/mask-conditional-validity
 mind_map_priority: medium
+schema_version: 2
+uuid: 6a6d0530-45a3-5eb5-9b6d-a50317d2a50b
+content_hash: sha256:1c15f3ae9f43653b4d47643c4c6249d2c28be1dc86798ad0cc698b56ac20ac0f
 ---
 
+<!-- AUTHORED REGION START -->
 # Mondrian Conformal Prediction
 
 **Mondrian conformal prediction** (Vovk, Lindsay, Nouretdinov, Gammerman, 2003) is a category-conditional variant of [[concepts/conformal-prediction|CP]] that partitions the data via a user-chosen taxonomy and applies the conformal recipe within each cell. Each cell has its own [[concepts/nonconformity-score|nonconformity quantile]], so the coverage guarantee holds *conditional on cell membership* rather than just marginally.
@@ -53,3 +70,5 @@ The classical trade-off: categories large enough for stable per-cell sample size
 - [[concepts/group-balanced-conformal-prediction]]
 - [[concepts/class-conditional-conformal-prediction]]
 - [[concepts/mask-conditional-validity]]
+
+<!-- AUTHORED REGION END -->

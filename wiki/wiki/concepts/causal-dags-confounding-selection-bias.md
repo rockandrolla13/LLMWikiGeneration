@@ -16,10 +16,14 @@ sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []
 title: Causal DAGs and Structural Classification of Bias
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ebdf7298-f4ec-55de-ae48-ddaf2ea3bb0a
+content_hash: sha256:0d3ac869333e490f319099203ab0f7d71cc1209bdbccb3d1f34fe54cea39cb58
 ---
 
+<!-- AUTHORED REGION START -->
 # Causal DAGs and Structural Classification of Bias
 
 ## Definition
@@ -35,3 +39,4 @@ Use of causal diagrams to encode assumptions and classify bias structurally into
 - [[concepts/causal-diagram|causal-diagram]]
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/structural-vector-autoregression|structural-vector-autoregression]]
+<!-- AUTHORED REGION END -->

@@ -1,19 +1,36 @@
 ---
-title: "Cross-correlations between price and volume in Chinese gold markets"
+title: Cross-correlations between price and volume in Chinese gold markets
 page_id: sources/ruan-2016-mfdcca-gold
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Qingsong Ruan, Wei Jiang, Guofeng Ma]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Qingsong Ruan
+- Wei Jiang
+- Guofeng Ma
 year: 2016
 venue: Physica A
-tags: [multifractal-analysis, mf-dcca, gold-markets, price-volume, cross-correlation, chinese-markets]
-related: [concepts/multifractal-analysis, concepts/mf-dcca, concepts/detrended-fluctuation-analysis, concepts/long-range-correlation]
+tags:
+- multifractal-analysis
+- mf-dcca
+- gold-markets
+- price-volume
+- cross-correlation
+- chinese-markets
+related:
+- concepts/multifractal-analysis
+- concepts/mf-dcca
+- concepts/detrended-fluctuation-analysis
+- concepts/long-range-correlation
 mind_map_priority: medium
+schema_version: 2
+uuid: 747e49c8-bb63-5076-b89c-7899ee5e961c
+content_hash: sha256:edbf60f80d1406f7ee7fd0f196862238419d44c7d26c98fb0d05d7a0ef471512
 ---
 
+<!-- AUTHORED REGION START -->
 # Cross-correlations between Price and Volume in Chinese Gold Markets
 
 **Authors:** Qingsong Ruan, Wei Jiang, Guofeng Ma
@@ -86,3 +103,5 @@ This paper applies Multifractal Detrended Cross-Correlation Analysis (MF-DCCA) t
 - [[concepts/mf-dcca|MF-DCCA]]
 - [[concepts/detrended-fluctuation-analysis|Detrended Fluctuation Analysis]]
 - [[concepts/long-range-correlation|Long-range Correlation]]
+
+<!-- AUTHORED REGION END -->

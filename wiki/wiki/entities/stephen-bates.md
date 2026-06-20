@@ -4,14 +4,31 @@ page_id: entities/stephen-bates
 page_type: entity
 entity_type: person
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [researcher, conformal-prediction, statistics, uncertainty-quantification]
-sources: [sources/angelopoulos-2022-gentle-intro, sources/bates-2021-rcps, sources/angelopoulos-2021-raps, sources/angelopoulos-2021-learn-then-test]
-related: [concepts/conformal-prediction, concepts/conformal-risk-control, concepts/learn-then-test, concepts/regularized-adaptive-prediction-sets, entities/anastasios-angelopoulos]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- researcher
+- conformal-prediction
+- statistics
+- uncertainty-quantification
+sources:
+- sources/angelopoulos-2022-gentle-intro
+- sources/bates-2021-rcps
+- sources/angelopoulos-2021-raps
+- sources/angelopoulos-2021-learn-then-test
+related:
+- concepts/conformal-prediction
+- concepts/conformal-risk-control
+- concepts/learn-then-test
+- concepts/regularized-adaptive-prediction-sets
+- entities/anastasios-angelopoulos
 mind_map_priority: high
+schema_version: 2
+uuid: f64587a2-597e-592d-a0ee-45cd78af7ada
+content_hash: sha256:4a771a141fb465d38bcf4d72033a38bd1ea3236d2a67482dfdf6fa72f612cec2
 ---
 
+<!-- AUTHORED REGION START -->
 # Stephen Bates
 
 **Stephen Bates** is a statistician working on [[concepts/conformal-prediction|conformal prediction]], [[concepts/conformal-risk-control|risk control]], and distribution-free statistics.
@@ -39,3 +56,5 @@ mind_map_priority: high
 
 - [[concepts/conformal-prediction]]
 - [[concepts/conformal-risk-control]]
+
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/mauboussin-2026-bayes-base-rates
 tags: []
 title: Superforecasting
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 2fd35d31-6b64-5769-8eae-5ce08b48db35
+content_hash: sha256:52ef7a096f1b8d45a76a79880df21319b04aef443a743b2a87060c08424f6891
 ---
 
+<!-- AUTHORED REGION START -->
 # Superforecasting
 
 ## Definition
@@ -33,3 +37,4 @@ The Good Judgment Project finding that a small fraction of forecasters make cons
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/calibration|calibration]]
+<!-- AUTHORED REGION END -->

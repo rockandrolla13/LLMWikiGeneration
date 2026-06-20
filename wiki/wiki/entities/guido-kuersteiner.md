@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: Guido M. Kuersteiner
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3a9079cf-6e6b-59f1-8327-96fcec458eb3
+content_hash: sha256:e822a8bf7b35a64b4a0b6ab4b3ed8bf43fed8f40865c7cd26fb278c23175d9bd
 ---
 
+<!-- AUTHORED REGION START -->
 # Guido M. Kuersteiner
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

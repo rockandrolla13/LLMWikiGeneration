@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'EM Strategy Update: No Rush for the Exits'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_38f00bc3fa8b
+schema_version: 2
+uuid: c2473df1-a7e8-575a-9158-342f76d433d9
+content_hash: sha256:b7a6fec3b9636b45e3e1a87aec07eb708e6f1a147f109bb3d5ea3f0dc9878fce
 ---
 
+<!-- AUTHORED REGION START -->
 # EM Strategy Update: No Rush for the Exits
 
 **Authors:** Rashique Rahman, Vandit D. Shah · **Year:** 2013 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ An EM strategy update arguing that fundamentals and valuations point to further 
 - **Path:** `raw/creditmacro/Morgan Stanley - EM Strategy Update — No Rush for the Exits - 2013-11-26.md`
 - **Type:** article
 - **Hash:** `sha256:70f2850d1f9f7f719...`
+<!-- AUTHORED REGION END -->

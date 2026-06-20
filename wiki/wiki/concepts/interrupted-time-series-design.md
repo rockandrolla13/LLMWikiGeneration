@@ -17,10 +17,14 @@ sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []
 title: Interrupted Time Series Design
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 92c7b248-8096-59da-a665-a644d01cf5c7
+content_hash: sha256:ab483e55f266b10726810c9aa992d4aecb073622fbb07d95319306f151fa582b
 ---
 
+<!-- AUTHORED REGION START -->
 # Interrupted Time Series Design
 
 ## Definition
@@ -37,3 +41,4 @@ A quasi-experimental design in which an outcome is measured at multiple equally 
 - [[concepts/causal-inference|causal-inference]]
 - [[concepts/difference-in-differences|difference-in-differences]]
 - [[concepts/segmented-regression|segmented-regression]]
+<!-- AUTHORED REGION END -->

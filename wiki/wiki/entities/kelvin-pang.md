@@ -14,10 +14,14 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 tags: []
 title: Kelvin Pang
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e10a4941-40f3-5306-a19f-3e89d9b2c22d
+content_hash: sha256:ad54658f3c85124182e3040bdc0f4be096e12ad4821d064834abd446fc2559af
 ---
 
+<!-- AUTHORED REGION START -->
 # Kelvin Pang
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/patkar-2026-ms-global-credit-midyear|Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]]
+<!-- AUTHORED REGION END -->

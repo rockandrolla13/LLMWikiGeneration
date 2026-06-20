@@ -39,10 +39,14 @@ tags:
 - distressed-exchange
 - ai
 title: '2026: Steady, but AI & the Hawks are Circling (Software)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_a772291713fc
+schema_version: 2
+uuid: 82cde900-55ec-5cf5-8e92-8e09ae2dcfb6
+content_hash: sha256:7e1a37169ec43653920bc2602e50b7c59c06a766524dd9a0ab6cd6f14ba37e8c
 ---
 
+<!-- AUTHORED REGION START -->
 # 2026: Steady, but AI & the Hawks are Circling (Software)
 
 **Authors:** Steve Caprio, Jim Reid, Karthik Nagalingam, Cem Keltek, Emilie Calder · **Year:** 2026 · **Venue:** Deutsche Bank Research - Global Credit Strategy Default Study · **Type:** report
@@ -88,3 +92,4 @@ Deutsche Bank Research's 2026 annual Default Study (2 June 2026) argues that whi
 - **Path:** `raw/creditmacro/Steady, but AI.md`
 - **Type:** article
 - **Hash:** `sha256:6acf1e3f8bc51ee63...`
+<!-- AUTHORED REGION END -->

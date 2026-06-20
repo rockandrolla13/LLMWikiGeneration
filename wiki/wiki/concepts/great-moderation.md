@@ -27,9 +27,13 @@ tags:
 - business-cycles
 - structural-change
 title: Great Moderation
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 72db4b8a-85f3-5cf6-86f1-96d513566918
+content_hash: sha256:53e6a6bb3ccea6a4f9aba947fd03c025d1b61011645fc2903aa8fc8a55158e0c
 ---
 
+<!-- AUTHORED REGION START -->
 # Great Moderation
 
 **Great Moderation** is the period of reduced US macroeconomic volatility (roughly mid-1980s to 2007). Used as a regime breakpoint when testing for structural change in common factor loadings.
@@ -49,3 +53,4 @@ Now also discussed in: [[sources/babecky-2013-leading-indicators-crisis-incidenc
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-06-15-1937-38-redux]], [[sources/ms-2020-03-27-fiscal-package-unemployment]]
+<!-- AUTHORED REGION END -->

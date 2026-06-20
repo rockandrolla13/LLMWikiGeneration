@@ -24,9 +24,13 @@ tags:
 - uncertainty-quantification
 - model-evaluation
 title: Calibration
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: 123e3bed-25a4-5673-bbff-ebfa1ddd4d1e
+content_hash: sha256:6e9b616281f95924a1475461ac5fc305b5771be53b97591c672666662d8d2ecd
 ---
 
+<!-- AUTHORED REGION START -->
 # Calibration
 
 **Calibration** refers to the agreement between predicted probabilities or confidence levels and observed frequencies. A well-calibrated model's predictions match reality: when it says "90% confident," it should be correct 90% of the time.
@@ -106,3 +110,4 @@ The calibration set in split conformal prediction is used to:
 - [[concepts/null-hypothesis-significance-testing|null-hypothesis-significance-testing]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
 - [[concepts/superforecasting|superforecasting]]
+<!-- AUTHORED REGION END -->

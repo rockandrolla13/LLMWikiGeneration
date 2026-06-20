@@ -20,10 +20,14 @@ sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []
 title: IP Weighting and Marginal Structural Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 32061976-02a6-5077-a3d6-e7cad72ba313
+content_hash: sha256:25b4cd58dc702bdf62da994fca0af4ff6e4d865e1bfc502b551ec8f40151e952
 ---
 
+<!-- AUTHORED REGION START -->
 # IP Weighting and Marginal Structural Models
 
 ## Definition
@@ -42,3 +46,4 @@ Reweighting observations by the inverse probability of received treatment to cre
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/gentzel-2021-osrct-evaluation]]
+<!-- AUTHORED REGION END -->

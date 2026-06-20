@@ -15,10 +15,14 @@ sources:
 - sources/caprio-2026-steady-but-ai
 tags: []
 title: AI Disruption of Software Business Models
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: e94d7917-7599-51c4-9c78-3e3224c65adc
+content_hash: sha256:d33254db90e8e77f132c7df71141e3544f149c29da504946e4d0d79ae7fd9b57
 ---
 
+<!-- AUTHORED REGION START -->
 # AI Disruption of Software Business Models
 
 ## Definition
@@ -33,3 +37,4 @@ The thesis that generative/agentic AI could erode software revenue and retention
 
 - [[concepts/agentic-ai|agentic-ai]]
 - [[concepts/generative-ai|generative-ai]]
+<!-- AUTHORED REGION END -->

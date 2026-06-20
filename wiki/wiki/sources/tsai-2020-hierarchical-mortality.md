@@ -1,20 +1,38 @@
 ---
-title: "Incorporating hierarchical credibility theory into modelling of multi-country mortality rates"
+title: Incorporating hierarchical credibility theory into modelling of multi-country
+  mortality rates
 page_id: sources/tsai-2020-hierarchical-mortality
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Cary Chi-Liang Tsai, Adelaide Di Wu]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Cary Chi-Liang Tsai
+- Adelaide Di Wu
 year: 2020
 venue: Insurance Mathematics and Economics
 doi: 10.1016/j.insmatheco.2020.01.001
-tags: [mortality-modelling, credibility-theory, lee-carter, multi-population, longevity-risk]
-related: [sources/namora-2021-hierarchical, sources/huynh-2021-mogp-longevity, concepts/lee-carter-model, concepts/hierarchical-credibility-model, concepts/longevity-risk, entities/cary-tsai]
+tags:
+- mortality-modelling
+- credibility-theory
+- lee-carter
+- multi-population
+- longevity-risk
+related:
+- sources/namora-2021-hierarchical
+- sources/huynh-2021-mogp-longevity
+- concepts/lee-carter-model
+- concepts/hierarchical-credibility-model
+- concepts/longevity-risk
+- entities/cary-tsai
 mind_map_priority: high
+schema_version: 2
+uuid: 11ebca6c-64b6-5ee8-b75a-dffd0900dd5c
+content_hash: sha256:2ce491e742e1bc6aeed9d95f68471430678af5af6c220c2b11c91640ad000be1
 ---
 
+<!-- AUTHORED REGION START -->
 # Incorporating Hierarchical Credibility Theory into Modelling of Multi-Country Mortality Rates
 
 **Authors:** [[entities/cary-tsai|Cary Chi-Liang Tsai]], Adelaide Di Wu
@@ -83,3 +101,5 @@ Compared against:
 - [[concepts/lee-carter-model|Lee-Carter Model]]
 - [[concepts/longevity-risk|Longevity Risk]]
 - [[sources/huynh-2021-mogp-longevity|Huynh & Ludkovski 2021 (MOGP Longevity)]]
+
+<!-- AUTHORED REGION END -->

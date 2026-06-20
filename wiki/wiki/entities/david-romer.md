@@ -14,10 +14,14 @@ sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []
 title: David H. Romer
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 57873fdc-4d40-5c78-8f95-842349b6801c
+content_hash: sha256:3d21b6f79dd83c41540108e8c3f407d5d38985a6d7813884a76d41381bcfd465
 ---
 
+<!-- AUTHORED REGION START -->
 # David H. Romer
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/cai-2023-testing-conditional-independence-time-series|Testing Conditional Independence in Causal Inference for Time Series Data]]
+<!-- AUTHORED REGION END -->

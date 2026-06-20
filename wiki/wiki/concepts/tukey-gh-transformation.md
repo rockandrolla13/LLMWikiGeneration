@@ -1,16 +1,32 @@
 ---
-title: "Tukey g-and-h Transformation"
+title: Tukey g-and-h Transformation
 page_id: concepts/tukey-gh-transformation
 page_type: concept
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-tags: [statistics, distributions, heavy-tails, skewness, risk-modelling]
-sources: [sources/technical-2025-bond-similarity, sources/peters-2026-quantile-diffusions]
-related: [concepts/factor-models, concepts/liquidity-risk, analyses/conformal-tukey-gh-intervals, concepts/quantile-regression, entities/gareth-peters]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- statistics
+- distributions
+- heavy-tails
+- skewness
+- risk-modelling
+sources:
+- sources/technical-2025-bond-similarity
+- sources/peters-2026-quantile-diffusions
+related:
+- concepts/factor-models
+- concepts/liquidity-risk
+- analyses/conformal-tukey-gh-intervals
+- concepts/quantile-regression
+- entities/gareth-peters
 mind_map_priority: low
+schema_version: 2
+uuid: 02e5abfb-cc11-5e2e-866b-3ea0f030ae72
+content_hash: sha256:b37279aa106ff1dabb46809158efcce663944fd0765be106ed768635e1b781b7
 ---
 
+<!-- AUTHORED REGION START -->
 # Tukey g-and-h Transformation
 
 The Tukey g-and-h transformation generates flexible distributions by transforming standard normal variables, allowing independent control of skewness and kurtosis.
@@ -87,3 +103,5 @@ This enables dynamic skewness and kurtosis in continuous time with applications 
 - [[concepts/factor-models|Factor Models]]
 - [[concepts/liquidity-risk|Liquidity Risk]]
 - [[sources/technical-2025-bond-similarity|Bond Similarity Framework (2025)]]
+
+<!-- AUTHORED REGION END -->

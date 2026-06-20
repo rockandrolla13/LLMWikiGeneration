@@ -25,10 +25,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Goldilocks Whiplash (Sunday Start: What''s Next in Global Macro)'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_5ae117fe925b
+schema_version: 2
+uuid: 680420b0-5bb7-593b-a53f-60cdfeb3c2b4
+content_hash: sha256:18b0b818dac98a22e461f820b75cfb3a8fd5bec1e9b445c9296ea3405caf162d
 ---
 
+<!-- AUTHORED REGION START -->
 # Goldilocks Whiplash (Sunday Start: What's Next in Global Macro)
 
 **Authors:** Andrew Sheets · **Year:** 2019 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -61,3 +65,4 @@ In this Sunday Start macro note, Chief Cross-Asset Strategist Andrew Sheets argu
 - **Path:** `raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — Andrew Sheets - nd.md`
 - **Type:** article
 - **Hash:** `sha256:d0315bc33783931c1...`
+<!-- AUTHORED REGION END -->

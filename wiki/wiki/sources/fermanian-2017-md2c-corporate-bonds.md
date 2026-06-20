@@ -1,19 +1,38 @@
 ---
-title: "The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms"
+title: 'The Behavior of Dealers and Clients on the European Corporate Bond Market:
+  The Case of Multi-Dealer-to-Client Platforms'
 page_id: sources/fermanian-2017-md2c-corporate-bonds
 page_type: source
 source_type: journal-article
 revision_id: 1
-created: 2026-04-25T22:00:00Z
-updated: 2026-04-25T22:00:00Z
-authors: [Jean-David Fermanian, Olivier Gueant, Jiang Pu]
+created: 2026-04-25 22:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+authors:
+- Jean-David Fermanian
+- Olivier Gueant
+- Jiang Pu
 year: 2017
 venue: Market Microstructure and Liquidity
-tags: [corporate-bonds, market-making, request-for-quotes, rfq, dealer-client, electronic-trading, competition]
-related: [concepts/market-making, concepts/request-for-quotes, concepts/market-microstructure, entities/olivier-gueant]
+tags:
+- corporate-bonds
+- market-making
+- request-for-quotes
+- rfq
+- dealer-client
+- electronic-trading
+- competition
+related:
+- concepts/market-making
+- concepts/request-for-quotes
+- concepts/market-microstructure
+- entities/olivier-gueant
 mind_map_priority: high
+schema_version: 2
+uuid: 557900dd-eaf6-52d0-a47f-fb89c0c8264d
+content_hash: sha256:1d6d3c1fd346586d6f04faf7bf813137b8ad38418ddecf55b5d947fa432e7126
 ---
 
+<!-- AUTHORED REGION START -->
 # The Behavior of Dealers and Clients on the European Corporate Bond Market
 
 **Authors:** Jean-David Fermanian, Olivier Gueant, Jiang Pu
@@ -97,3 +116,5 @@ This paper models the request-for-quotes (RFQ) process on multi-dealer-to-client
 - [[concepts/request-for-quotes|Request for Quotes]]
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[entities/olivier-gueant|Olivier Gueant]]
+
+<!-- AUTHORED REGION END -->

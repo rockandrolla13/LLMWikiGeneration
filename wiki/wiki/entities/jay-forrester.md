@@ -14,10 +14,14 @@ sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []
 title: Jay Forrester
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 244d908e-6b5e-522a-bd8c-673ae4b65eee
+content_hash: sha256:ed38871e0e06bfd0f06476313741e3cedc276c877734d9da89411edf737c9d7c
 ---
 
+<!-- AUTHORED REGION START -->
 # Jay Forrester
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+<!-- AUTHORED REGION END -->

@@ -15,10 +15,14 @@ sources:
 - sources/ms-2019-05-23-value-tier2-seniors
 tags: []
 title: Bank capital structure seniority
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: a1e8bb50-19ed-5666-8e5e-3a6329da01f5
+content_hash: sha256:24710ec7fdac88e559484c00b0a26d442e43e5d9853b90f903f2b98f2a82a776
 ---
 
+<!-- AUTHORED REGION START -->
 # Bank capital structure seniority
 
 ## Definition
@@ -33,3 +37,4 @@ The hierarchy of bank liabilities (Tier 2, non-preferred senior, preferred senio
 
 - [[concepts/additional-tier-1-capital|additional-tier-1-capital]]
 - [[concepts/corporate-bonds|corporate-bonds]]
+<!-- AUTHORED REGION END -->

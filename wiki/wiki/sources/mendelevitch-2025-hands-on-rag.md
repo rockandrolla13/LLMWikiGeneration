@@ -5,7 +5,7 @@ page_type: source
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
-updated: '2026-05-17T16:44:06Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Ofer Mendelevitch
@@ -42,8 +42,12 @@ related:
 - entities/vectara
 mind_map_priority: medium
 revision_hash: sha256:87cbf327acc6df2b
+schema_version: 2
+uuid: 512fefe9-82ed-5a8f-8b39-873adece21c6
+content_hash: sha256:76a4767f2d60204c527584e53bad9a9d8a5b1643c847952fbcfb450675844406
 ---
 
+<!-- AUTHORED REGION START -->
 # Hands-On RAG for Production
 *Design, Develop, and Deploy*
 
@@ -113,3 +117,5 @@ ML engineers, platform engineers, and enterprise architects who have built a RAG
 - [[entities/microsoft|Microsoft]]
 - [[entities/openai|OpenAI]]
 - [[entities/anthropic|Anthropic]]
+
+<!-- AUTHORED REGION END -->

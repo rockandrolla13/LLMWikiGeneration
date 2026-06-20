@@ -14,10 +14,14 @@ sources:
 - sources/lancaster-2021-fed-up
 tags: []
 title: Jim Simons
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 579036a5-4dbe-5406-a4c2-fed59fbf6ccc
+content_hash: sha256:edd617a54394205aa67ed5fef9373e4bee228d8aa47806c9a56742106297701b
 ---
 
+<!-- AUTHORED REGION START -->
 # Jim Simons
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+<!-- AUTHORED REGION END -->

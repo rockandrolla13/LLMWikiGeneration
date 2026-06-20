@@ -13,10 +13,14 @@ sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []
 title: Runs Test for Growth Consistency
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: ae5292da-749e-5d40-a1d9-b888fc9bd5dc
+content_hash: sha256:0422949d878cc86f1906fe646cd24d3141ea9103e4835ac18627aa18bb1dab22
 ---
 
+<!-- AUTHORED REGION START -->
 # Runs Test for Growth Consistency
 
 ## Definition
@@ -26,3 +30,4 @@ A nonparametric test counting firms that exceed cross-sectional median growth fo
 ## Sources
 
 - [[sources/chan-2001-level-persistence-growth-rates|The Level and Persistence of Growth Rates]]
+<!-- AUTHORED REGION END -->

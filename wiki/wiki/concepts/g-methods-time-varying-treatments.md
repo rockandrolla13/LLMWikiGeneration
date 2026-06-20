@@ -14,10 +14,14 @@ sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []
 title: G-Methods for Time-Varying Treatments
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 3edf72d8-ab9d-5b0d-be11-b0ec30748c45
+content_hash: sha256:8bb614fa09a03686d87ec0f327b715bd0c957202f5f4cdb0db87f2cf4f502abe
 ---
 
+<!-- AUTHORED REGION START -->
 # G-Methods for Time-Varying Treatments
 
 ## Definition
@@ -31,3 +35,4 @@ The g-formula, IP weighting of marginal structural models, and g-estimation of s
 ## Related Concepts
 
 - [[concepts/causal-inference|causal-inference]]
+<!-- AUTHORED REGION END -->

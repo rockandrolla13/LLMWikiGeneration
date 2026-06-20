@@ -1,15 +1,32 @@
 ---
-title: "Robust and Adaptive Algorithms for Online Portfolio Selection"
+title: Robust and Adaptive Algorithms for Online Portfolio Selection
 page_id: sources/tsagaris-2010-robust-adaptive-portfolio
 page_type: source
-created: 2026-04-26T03:00:00Z
-updated: 2026-04-26T03:00:00Z
-tags: [portfolio-selection, adaptive-filtering, algorithmic-trading, mean-variance, kalman-filter]
-authors: [Theodoros Tsagaris, Ajay Jasra, Niall Adams]
+created: 2026-04-26 03:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- portfolio-selection
+- adaptive-filtering
+- algorithmic-trading
+- mean-variance
+- kalman-filter
+authors:
+- Theodoros Tsagaris
+- Ajay Jasra
+- Niall Adams
 year: 2010
-related: [concepts/kalman-filter, concepts/statistical-arbitrage, concepts/mean-variance-optimization, entities/theodoros-tsagaris, entities/giovanni-montana]
+related:
+- concepts/kalman-filter
+- concepts/statistical-arbitrage
+- concepts/mean-variance-optimization
+- entities/theodoros-tsagaris
+- entities/giovanni-montana
+schema_version: 2
+uuid: 5db58c04-6359-515c-9787-38dea3b795d9
+content_hash: sha256:2caf5b16dca9b5ccdddbabceab7baa8d48fcc61bb7d5928b81d6b158bd395c5d
 ---
 
+<!-- AUTHORED REGION START -->
 ## Summary
 
 This paper presents online approaches to portfolio selection within the context of algorithmic trading, which demands fast and recursive updates of portfolio allocations as new data arrives. The authors develop two online algorithms: Robust-Exponentially Weighted Least Squares (R-EWRLS) and a regularized Online minimum Variance algorithm (O-VAR).
@@ -53,3 +70,5 @@ The paper builds on flexible least squares methodology developed in collaboratio
 ## Citations
 
 Tsagaris, T., Jasra, A., & Adams, N. (2010). Robust and Adaptive Algorithms for Online Portfolio Selection. arXiv:1005.2979.
+
+<!-- AUTHORED REGION END -->

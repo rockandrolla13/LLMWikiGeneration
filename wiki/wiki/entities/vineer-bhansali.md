@@ -14,10 +14,14 @@ sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []
 title: Vineer Bhansali
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: creditmacro-batch
+schema_version: 2
+uuid: 884ef108-0687-5654-9421-2d029e0fc611
+content_hash: sha256:d47d581cec611aa81ec90394c69c337be54d484e46964fce4f551ab2cd56aba7
 ---
 
+<!-- AUTHORED REGION START -->
 # Vineer Bhansali
 
 ## Overview
@@ -27,3 +31,4 @@ updated_by: creditmacro-batch
 ## Appearances in Sources
 
 - [[sources/bhansali-2018-right-tail-hedging|Right Tail Hedging: Managing Risk When Markets Melt Up]]
+<!-- AUTHORED REGION END -->

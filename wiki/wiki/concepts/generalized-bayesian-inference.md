@@ -13,9 +13,13 @@ tags:
 - loss-based-inference
 - pseudo-likelihood
 title: Generalized Bayesian Inference
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: dc6d1baf-eaf0-5f83-8802-ff2dfe9b8322
+content_hash: sha256:26701ddc3eba23fc9af8293a9d77183027e8e155130c38e3034d0c7556972f75
 ---
 
+<!-- AUTHORED REGION START -->
 # Generalized Bayesian Inference
 
 **Generalized Bayesian Inference** is the Bissiri-Holmes-Walker framework that updates beliefs via loss-based pseudo-likelihoods rather than parametric likelihoods; enables Bayesian inference without specifying a full data-generating model.
@@ -31,3 +35,4 @@ updated: '2026-06-09T12:00:00Z'
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/bayesian-updating|bayesian-updating]]
+<!-- AUTHORED REGION END -->

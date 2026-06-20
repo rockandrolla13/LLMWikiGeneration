@@ -3,14 +3,29 @@ title: Jackknife+ after Bootstrap (J+aB)
 page_id: concepts/jackknife-plus-after-bootstrap
 page_type: concept
 revision_id: 2
-created: 2026-05-21T14:00:00Z
-updated: 2026-05-24T19:00:00Z
-tags: [conformal-prediction, jackknife, bootstrap, ensemble-methods]
-sources: [sources/kim-2020-jackknife-plus-after-bootstrap, sources/xu-2023-enbpi, sources/angelopoulos-2022-gentle-intro]
-related: [concepts/conformal-prediction, concepts/cross-conformal-prediction, concepts/enbpi, concepts/prediction-intervals]
+created: 2026-05-21 14:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- conformal-prediction
+- jackknife
+- bootstrap
+- ensemble-methods
+sources:
+- sources/kim-2020-jackknife-plus-after-bootstrap
+- sources/xu-2023-enbpi
+- sources/angelopoulos-2022-gentle-intro
+related:
+- concepts/conformal-prediction
+- concepts/cross-conformal-prediction
+- concepts/enbpi
+- concepts/prediction-intervals
 mind_map_priority: medium
+schema_version: 2
+uuid: 9f48676e-d73a-5515-ae0b-2dd7658c9886
+content_hash: sha256:6b71b06396e0a4527c8f04c34fc2285b426acabf42dc9299576aaa5f4d48133e
 ---
 
+<!-- AUTHORED REGION START -->
 # Jackknife+ after Bootstrap (J+aB)
 
 ## Primary Source
@@ -50,3 +65,5 @@ Marginal coverage holds at 1 − 2α under [[concepts/exchangeability|exchangeab
 - [[concepts/cross-conformal-prediction]]
 - [[concepts/enbpi]]
 - [[concepts/conformal-prediction]]
+
+<!-- AUTHORED REGION END -->

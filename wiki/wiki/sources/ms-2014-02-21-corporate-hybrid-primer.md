@@ -27,10 +27,14 @@ source_type: article
 sources: []
 tags: []
 title: 'Credit Strategy: Corporate Hybrid Primer - 2014 Edition'
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
 updated_by: op_6f0d02ce3ff7
+schema_version: 2
+uuid: 9e3d73e0-4cc5-53ac-af2a-cf60cacaeac0
+content_hash: sha256:554e5663b76d1493515c42c6f962f6c7f853e872e0f9067b557787238f3d9b24
 ---
 
+<!-- AUTHORED REGION START -->
 # Credit Strategy: Corporate Hybrid Primer - 2014 Edition
 
 **Authors:** Serena Tang, Andrew Sheets, Phanikiran Naraparaju, Shrina B Poojara · **Year:** 2014 · **Venue:** Morgan Stanley Research · **Type:** report
@@ -64,3 +68,4 @@ Morgan Stanley European Credit Strategy note (February 21, 2014), a primer on co
 - **Path:** `raw/creditmacro/Morgan Stanley - Serena Tang — Andrew Sheets - nd.md`
 - **Type:** article
 - **Hash:** `sha256:2436807fa9a65b1d2...`
+<!-- AUTHORED REGION END -->

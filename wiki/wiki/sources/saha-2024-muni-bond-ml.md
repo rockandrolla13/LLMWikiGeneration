@@ -1,17 +1,38 @@
 ---
-title: "Machine Learning-based Relative Valuation of Municipal Bonds"
+title: Machine Learning-based Relative Valuation of Municipal Bonds
 page_id: sources/saha-2024-muni-bond-ml
 page_type: source
-created: 2026-04-26T02:00:00Z
-updated: 2026-04-26T02:00:00Z
-tags: [machine-learning, municipal-bonds, CatBoost, similarity-learning, relative-valuation]
-authors: [Preetha Saha, Dhruv Desai, Jingrao Lyu, Rishab Chauhan, Jerinsh Jeyapaulraj, Peter Chu, Philip Sommer, Dhagash Mehta]
+created: 2026-04-26 02:00:00+00:00
+updated: '2026-06-20T01:03:51Z'
+tags:
+- machine-learning
+- municipal-bonds
+- CatBoost
+- similarity-learning
+- relative-valuation
+authors:
+- Preetha Saha
+- Dhruv Desai
+- Jingrao Lyu
+- Rishab Chauhan
+- Jerinsh Jeyapaulraj
+- Peter Chu
+- Philip Sommer
+- Dhagash Mehta
 year: 2024
 journal: arXiv
 institution: BlackRock
-related: [concepts/similarity-learning, concepts/catboost, concepts/municipal-bonds, concepts/relative-valuation]
+related:
+- concepts/similarity-learning
+- concepts/catboost
+- concepts/municipal-bonds
+- concepts/relative-valuation
+schema_version: 2
+uuid: 83af4255-4e21-5527-a25c-06b24d1f6a80
+content_hash: sha256:bfd15457bab533f7d7bb2b6ae9bc0582cb82194013fe97e2e6e441616f2ace68
 ---
 
+<!-- AUTHORED REGION START -->
 # Machine Learning-based Relative Valuation of Municipal Bonds
 
 ## Summary
@@ -71,3 +92,5 @@ For gradient boosted trees, uses exponentially decreasing tree importance:
 
 - [[sources/feng-2025-predicting-bond-returns|Feng et al. (2025)]] - ML for corporate bonds
 - [[sources/fedenia-2021-ml-trade-classifier|Fedenia et al. (2021)]] - ML in bond markets
+
+<!-- AUTHORED REGION END -->

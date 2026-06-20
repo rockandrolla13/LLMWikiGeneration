@@ -15,9 +15,13 @@ tags:
 - machine-learning
 - methodology
 title: Double Machine Learning
-updated: '2026-06-09T12:00:00Z'
+updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+uuid: bbc99437-bf48-52f6-a0a9-60cc5a5f6e3b
+content_hash: sha256:6ebbc03316cc4b4462fb447d7ffe0e4f708249db6184a6cc5ba5ddae43dcc9bf
 ---
 
+<!-- AUTHORED REGION START -->
 # Double Machine Learning (DML)
 
 ## Definition
@@ -91,3 +95,4 @@ Under geometric β-mixing and standard nuisance convergence (ζ_e + ζ_μ > 1/2)
 
 - [[concepts/doubly-robust-estimation|doubly-robust-estimation]]
 - [[concepts/empirical-evaluation-causal-inference|empirical-evaluation-causal-inference]]
+<!-- AUTHORED REGION END -->
