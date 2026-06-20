@@ -49,6 +49,9 @@ Thumbs.db
 # OMEGA local database
 .omega/
 
+# Graph cache and other computed indexes (Tier 2, regenerable)
+.index/
+
 # Converted markdown output (regenerable)
 markdown_output/
 
