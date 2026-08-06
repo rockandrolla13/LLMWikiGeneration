@@ -3,7 +3,6 @@ title: "Post-hoc predictive uncertainty quantification: methods with application
 page_id: sources/zaffran-phd
 page_type: source
 source_type: thesis
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 authors: [Margaux Zaffran]

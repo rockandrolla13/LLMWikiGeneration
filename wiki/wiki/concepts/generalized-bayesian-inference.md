@@ -5,7 +5,6 @@ page_id: concepts/generalized-bayesian-inference
 page_type: concept
 related:
 - concepts/bayesian-updating
-revision_id: 2
 sources:
 - sources/peiris-2025-rnn-har-var
 tags:

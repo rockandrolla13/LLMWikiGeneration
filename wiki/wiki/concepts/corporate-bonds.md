@@ -43,7 +43,6 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 3
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 - sources/caprio-2026-steady-but-ai

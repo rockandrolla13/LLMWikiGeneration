@@ -23,7 +23,6 @@ related:
 - concepts/survival-probability
 - concepts/term-structure-risk-premium
 - concepts/z-spread
-revision_id: 3
 sources:
 - sources/martin-2024-credit-curve
 - sources/ms-2009-11-12-us-rate-strategist

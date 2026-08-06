@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/nora-wassermann
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform

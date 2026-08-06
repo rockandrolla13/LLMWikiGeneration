@@ -2,7 +2,6 @@
 title: "Hawkes Processes"
 page_id: concepts/hawkes-processes
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [point-processes, self-exciting, jumps, market-microstructure]

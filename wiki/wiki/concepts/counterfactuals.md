@@ -10,7 +10,6 @@ related:
 - concepts/causal-inference
 - concepts/counterfactual-conditional
 - concepts/potential-outcomes
-revision_id: 2
 sources:
 - sources/pearl-2018-book-of-why
 tags: []

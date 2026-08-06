@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/minimum-variance-portfolio
-revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []

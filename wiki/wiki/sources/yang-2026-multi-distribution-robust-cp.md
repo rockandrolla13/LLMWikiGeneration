@@ -2,7 +2,6 @@
 title: "Multi-Distribution Robust Conformal Prediction"
 page_id: sources/yang-2026-multi-distribution-robust-cp
 page_type: source
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 authors: [Yuqi Yang, Ying Jin]

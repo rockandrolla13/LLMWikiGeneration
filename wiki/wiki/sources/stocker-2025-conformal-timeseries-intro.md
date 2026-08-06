@@ -3,7 +3,6 @@ title: "A Gentle Introduction to Conformal Time Series Forecasting"
 page_id: sources/stocker-2025-conformal-timeseries-intro
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 authors: ["M. Stocker", "Wiktoria Małgorzewicz", "Matteo Fontana", "Souhaib Ben Taieb"]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/melanie-baker
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 tags: []

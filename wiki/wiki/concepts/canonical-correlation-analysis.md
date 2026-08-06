@@ -2,7 +2,6 @@
 title: "Canonical Correlation Analysis"
 page_id: concepts/canonical-correlation-analysis
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [statistics, multivariate-analysis, group-factor-models]

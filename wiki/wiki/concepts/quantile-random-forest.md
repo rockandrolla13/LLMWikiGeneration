@@ -2,7 +2,6 @@
 title: Quantile Random Forests
 page_id: concepts/quantile-random-forest
 page_type: concept
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [machine-learning, quantile-regression, random-forest, uncertainty-quantification]

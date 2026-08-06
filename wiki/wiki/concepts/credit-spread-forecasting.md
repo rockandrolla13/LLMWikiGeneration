@@ -11,7 +11,6 @@ related:
 - concepts/credit-spread-curve
 - concepts/credit-spread-puzzle
 - concepts/market-timing
-revision_id: 2
 sources:
 - sources/ms-2018-03-16-credit-bmi
 - sources/ms-2018-04-16-credit-bmi-update

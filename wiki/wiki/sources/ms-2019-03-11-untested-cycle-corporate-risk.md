@@ -24,7 +24,6 @@ related:
 - entities/magdalena-stoklosa
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:725656cb5d9415d13322ae9a9725cf2048e24f04bf83df3407522109932ad762
 source_path: raw/creditmacro/Morgan Stanley - European Banks - Equity & Credit — Untested
   Cycle - watch for corporate risk - 2019-03-11.md

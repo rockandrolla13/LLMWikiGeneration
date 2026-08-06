@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:bb25b8b62be02116d3cf211923abe3ea3ec73cba9b0166bce4c37e7746943af3
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Volatility
   Peaks Before Markets Trough - 2020-03-19.md

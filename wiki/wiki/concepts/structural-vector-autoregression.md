@@ -14,7 +14,6 @@ related:
 - concepts/vector-error-correction-model
 - entities/markus-puschel
 - sources/misiakos-2025-dag-tfrc
-revision_id: 2
 tags:
 - time-series
 - causal-inference

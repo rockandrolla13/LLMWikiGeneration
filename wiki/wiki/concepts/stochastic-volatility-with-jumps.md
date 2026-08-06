@@ -7,7 +7,6 @@ related:
 - concepts/compound-option-model
 - concepts/jump-diffusion-option-pricing
 - concepts/option-implied-credit-information
-revision_id: 2
 sources:
 - sources/chen-2024-jump-clustering-information-flows
 tags:

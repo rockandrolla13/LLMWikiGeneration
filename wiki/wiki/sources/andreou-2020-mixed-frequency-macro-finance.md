@@ -3,7 +3,6 @@ title: "Mixed-Frequency Macro-Finance Factor Models: Theory and Applications"
 page_id: sources/andreou-2020-mixed-frequency-macro-finance
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Elena Andreou, Patrick Gagliardini, Eric Ghysels, Mirco Rubin]

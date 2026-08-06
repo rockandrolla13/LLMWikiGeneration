@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/great-moderation
-revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []

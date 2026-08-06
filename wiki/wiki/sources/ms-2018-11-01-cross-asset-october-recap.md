@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:3f7d40df59a67026d11f6f5a907d14bb3656dd65e5d414040c15aca06807d836
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the
   Flow October Recap - 2018-11-01.md

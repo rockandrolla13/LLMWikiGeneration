@@ -3,7 +3,6 @@ title: Max G'Sell
 page_id: entities/max-gsell
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [researcher, statistics, cmu, conformal-prediction]

@@ -2,7 +2,6 @@
 title: "Multi-Population Mortality Modelling"
 page_id: concepts/multi-population-mortality
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [mortality-modelling, actuarial-science, demography, longevity]

@@ -3,7 +3,6 @@ title: "The Behavior of Dealers and Clients on the European Corporate Bond Marke
 page_id: sources/fermanian-2017-md2c-corporate-bonds
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Jean-David Fermanian, Olivier Gueant, Jiang Pu]

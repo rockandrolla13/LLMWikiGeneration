@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/potential-outcomes
-revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []

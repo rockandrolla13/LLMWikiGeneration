@@ -3,7 +3,6 @@ title: "The Long Memory of Order Flow in the Foreign Exchange Spot Market"
 page_id: sources/gould-2016-long-memory-fx
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Martin D. Gould, Mason A. Porter, Sam D. Howison]

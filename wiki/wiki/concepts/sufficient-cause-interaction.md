@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/sufficient-cause-interaction
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []

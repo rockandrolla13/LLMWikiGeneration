@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/pierre-collin-dufresne
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 - sources/kapadia-2012-limited-arbitrage-equity-credit

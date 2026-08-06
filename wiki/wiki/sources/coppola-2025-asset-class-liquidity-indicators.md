@@ -3,7 +3,6 @@ title: "Asset Class Liquidity Risk Indicators: Timing the Risk in European and U
 page_id: sources/coppola-2025-asset-class-liquidity-indicators
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Anna Coppola, Giovanni Urga, Alessandro Varaldo]

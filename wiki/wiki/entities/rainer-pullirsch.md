@@ -3,7 +3,6 @@ title: Rainer Pullirsch
 page_id: entities/rainer-pullirsch
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-05T23:25:00Z
 updated: 2026-05-05T23:25:00Z
 tags: [creditETF, credit-risk, quantitative-research]

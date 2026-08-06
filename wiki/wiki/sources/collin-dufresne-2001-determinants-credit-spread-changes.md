@@ -25,7 +25,6 @@ related:
 - entities/pierre-collin-dufresne
 - entities/robert-goldstein
 - entities/robert-merton
-revision_id: 1
 source_hash: sha256:b69ebb9e84faac2511b4426d92cc4ad23f8c86543123da0bfb9484d344716316
 source_path: raw/creditmacro/ssrn-191668.md
 source_type: paper

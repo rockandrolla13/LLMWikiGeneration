@@ -2,7 +2,6 @@
 title: "Recurrent Neural Networks"
 page_id: concepts/recurrent-neural-networks
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [deep-learning, sequence-models, neural-networks]

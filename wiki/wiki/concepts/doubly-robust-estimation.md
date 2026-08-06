@@ -10,7 +10,6 @@ related:
 - concepts/confounding
 - concepts/double-machine-learning
 - concepts/ip-weighting-marginal-structural-models
-revision_id: 3
 sources:
 - sources/gentzel-2021-osrct-evaluation
 - sources/hernan-2020-causal-inference-what-if

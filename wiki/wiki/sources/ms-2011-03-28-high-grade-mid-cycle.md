@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:85866d702969122b8398bc6524f3d561e915f5dfdbbed1476cc60cb2dd4fe070
 source_path: raw/creditmacro/Morgan Stanley - Fixed Income Research — Jonathan Graber
   - 2011-03-28.md

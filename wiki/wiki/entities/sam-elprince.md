@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sam-elprince
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 - sources/ms-2018-04-05-funding-market-signals

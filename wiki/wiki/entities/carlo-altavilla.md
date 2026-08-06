@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/carlo-altavilla
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []

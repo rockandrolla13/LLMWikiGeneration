@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/donella-meadows
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems
 tags: []

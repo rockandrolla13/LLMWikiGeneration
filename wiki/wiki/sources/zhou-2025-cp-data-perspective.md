@@ -3,7 +3,6 @@ title: "Conformal Prediction: A Data Perspective"
 page_id: sources/zhou-2025-cp-data-perspective
 page_type: source
 source_type: survey
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 authors: ["Xiaofan Zhou", "Baiting Chen", "Yu Gui", "Lu Cheng"]

@@ -11,7 +11,6 @@ related:
 - concepts/energy-score
 - concepts/ranked-probability-score
 - concepts/uncertainty-quantification
-revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/great-moderation
 - concepts/quantitative-tightening
-revision_id: 2
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []

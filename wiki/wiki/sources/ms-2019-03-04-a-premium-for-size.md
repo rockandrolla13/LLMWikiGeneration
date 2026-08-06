@@ -19,7 +19,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:de6947cfa316e8458c5ea52e4037ea2daeb8756c6f18cc887441f3440910bfc6
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy — A Premium
   for Size - 2019-03-04.md

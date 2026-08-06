@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/bmc-medical-research-methodology
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []

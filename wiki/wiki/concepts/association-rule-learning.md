@@ -7,7 +7,6 @@ related:
 - concepts/cluster-analysis-and-association-rules
 - concepts/green-bond-spreads
 - concepts/yield-to-maturity
-revision_id: 2
 sources:
 - sources/sehatpour-2024-green-bonds
 tags:

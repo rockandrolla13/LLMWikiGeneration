@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andrew-watrous
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-11-fx-positioning-tracker
 tags: []

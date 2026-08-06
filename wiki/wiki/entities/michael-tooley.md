@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-tooley
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation
 tags: []

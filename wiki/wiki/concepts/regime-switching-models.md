@@ -12,7 +12,6 @@ related:
 - concepts/mean-reversion
 - concepts/quantitative-easing
 - concepts/statistical-arbitrage
-revision_id: 1
 sources:
 - sources/ms-2018-07-09-em-risk-indicator-regime-switching
 - sources/ms-2019-02-13-ecb-periphery-one-size

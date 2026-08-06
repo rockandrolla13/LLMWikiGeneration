@@ -8,7 +8,6 @@ related:
 - concepts/kernel-methods
 - concepts/kowcpi
 - concepts/local-regression
-revision_id: 2
 sources:
 - sources/lee-2024-kowcpi
 tags:

@@ -11,7 +11,6 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
 - concepts/risk-premia
-revision_id: 1
 sources:
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids
 - sources/ms-2014-02-21-corporate-hybrid-primer

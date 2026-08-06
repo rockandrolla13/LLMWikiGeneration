@@ -13,7 +13,6 @@ related:
 - concepts/logarithmic-score
 - concepts/prediction-intervals
 - concepts/strictly-proper-scoring-rules
-revision_id: 2
 sources:
 - sources/zaffran-phd
 - sources/johnstone-2025-multioutput

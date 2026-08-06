@@ -14,7 +14,6 @@ related:
 - concepts/term-structure-risk-premium
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:bd2cb51b41d1d0eb9f3ab3fd56798910f0fe76c1feaeab4d4c346da662b37208
 source_path: raw/creditmacro/Morgan Stanley - US Interest Rate Strategy — Who Is Going
   to Buy Treasuries - 2018-02-27.md

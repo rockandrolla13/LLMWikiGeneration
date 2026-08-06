@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/bent-flyvbjerg
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates
 tags: []

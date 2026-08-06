@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andres-jaime
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor
 - sources/ms-2018-07-09-em-risk-indicator-regime-switching

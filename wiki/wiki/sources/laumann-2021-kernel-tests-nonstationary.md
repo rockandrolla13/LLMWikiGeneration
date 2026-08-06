@@ -3,7 +3,6 @@ title: "Kernel Two-Sample and Independence Tests for Nonstationary Random Proces
 page_id: sources/laumann-2021-kernel-tests-nonstationary
 page_type: source
 source_type: conference-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Felix Laumann, Julius von Kügelgen, Mauricio Barahona]

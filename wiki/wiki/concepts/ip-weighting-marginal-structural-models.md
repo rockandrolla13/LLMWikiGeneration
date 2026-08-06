@@ -13,7 +13,6 @@ related:
 - concepts/doubly-robust-estimation
 - concepts/missing-data-imputation
 - concepts/propensity-score
-revision_id: 2
 sources:
 - sources/gentzel-2021-osrct-evaluation
 - sources/hernan-2020-causal-inference-what-if

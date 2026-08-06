@@ -2,7 +2,6 @@
 title: DtACI (Dynamically-tuned Adaptive Conformal Inference)
 page_id: concepts/dtaci
 page_type: concept
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [conformal-prediction, online-learning, expert-aggregation, dynamic-regret, adaptive-conformal-inference]

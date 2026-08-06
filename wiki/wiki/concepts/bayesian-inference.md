@@ -10,7 +10,6 @@ related:
 - concepts/bayesian-updating
 - concepts/calibration
 - concepts/mcmc-bayesian-inference
-revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []

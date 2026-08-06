@@ -17,7 +17,6 @@ related:
 - concepts/vector-error-correction-model
 - entities/jarita-duasa
 - entities/nursilah-ahmad
-revision_id: 1
 source_hash: sha256:fdfbd5e6d9d349c2ee7f20d51315567f8034994a8aedfbd371e87f2322d07446
 source_path: raw/creditmacro/EBSCO-FullText-06_08_2026.md
 source_type: paper

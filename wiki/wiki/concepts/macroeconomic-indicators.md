@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/quantitative-easing
-revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 - sources/ms-2019-02-15-ongoing-weakness

@@ -2,7 +2,6 @@
 title: "Flow Decomposition"
 page_id: concepts/flow-decomposition
 page_type: concept
-revision_id: 1
 created: 2026-05-06T23:35:00Z
 updated: 2026-05-06T23:35:00Z
 tags: [etf, order-flow, signal-construction, factor-investing, market-microstructure]

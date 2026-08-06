@@ -5,7 +5,6 @@ mind_map_priority: medium
 page_id: entities/francis-diebold
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/xie-2026-realized-probability-market-timing
 - sources/ziel-2019-multivariate-forecasting-evaluation

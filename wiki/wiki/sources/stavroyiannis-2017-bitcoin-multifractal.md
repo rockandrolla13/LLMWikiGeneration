@@ -3,7 +3,6 @@ title: "High Frequency Multifractal Properties of Bitcoin"
 page_id: sources/stavroyiannis-2017-bitcoin-multifractal
 page_type: source
 source_type: conference-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Stavros Stavroyiannis, Vassilios Babalos, Stelios Bekiros, Salim Lahmiri, Gazi Salah Uddin]

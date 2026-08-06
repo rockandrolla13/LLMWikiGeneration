@@ -10,7 +10,6 @@ related:
 - concepts/agentic-ai
 - concepts/corporate-bonds
 - concepts/generative-ai
-revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 - sources/patkar-2026-ms-global-credit-midyear

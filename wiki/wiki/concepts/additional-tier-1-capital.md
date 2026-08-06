@@ -12,7 +12,6 @@ related:
 - concepts/corporate-bonds
 - concepts/corporate-hybrid-bonds
 - concepts/mrel
-revision_id: 1
 sources:
 - sources/ms-2014-02-21-corporate-hybrid-primer
 - sources/ms-2018-11-02-at1-primer-extension-par-calls

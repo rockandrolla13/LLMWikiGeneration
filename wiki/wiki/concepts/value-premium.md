@@ -11,7 +11,6 @@ related:
 - concepts/factor-investing
 - concepts/fama-french-factors
 - concepts/mean-reversion
-revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns
 tags: []

@@ -8,7 +8,6 @@ page_id: concepts/liquidity-scoring-mechanism
 page_type: concept
 related:
 - concepts/liquidity-risk
-revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []

@@ -8,7 +8,6 @@ related:
 - concepts/lever-score
 - concepts/leveraged-recapitalization
 - concepts/private-credit
-revision_id: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/lehman-2007-qcr-quarterly

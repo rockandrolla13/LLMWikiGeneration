@@ -14,7 +14,6 @@ related:
 - concepts/expectations-hypothesis-term-structure
 - concepts/government-bond-spreads
 - concepts/term-structure-risk-premium
-revision_id: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 - sources/ms-2008-08-28-gilt-futures-ctd-option

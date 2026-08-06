@@ -10,7 +10,6 @@ related:
 - concepts/causal-inference
 - concepts/conditional-independence-test
 - concepts/potential-outcomes
-revision_id: 2
 sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []

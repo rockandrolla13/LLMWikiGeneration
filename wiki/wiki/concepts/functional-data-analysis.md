@@ -2,7 +2,6 @@
 title: "Functional Data Analysis"
 page_id: concepts/functional-data-analysis
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [statistics, time-series, curves, econometrics]

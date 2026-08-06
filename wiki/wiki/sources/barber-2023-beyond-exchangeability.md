@@ -3,7 +3,6 @@ title: "Conformal Prediction Beyond Exchangeability"
 page_id: sources/barber-2023-beyond-exchangeability
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Rina Foygel Barber", "Emmanuel J. Candès", "Aaditya Ramdas", "Ryan J. Tibshirani"]

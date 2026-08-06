@@ -20,7 +20,6 @@ related:
 - entities/aqr-capital-management
 - entities/cliff-asness
 - entities/john-wiley-sons
-revision_id: 1
 source_hash: sha256:f5f69175dd0136b6cc32fa434aba4dcc0b6e469bea8417c1a3e363e85206c469
 source_path: raw/creditmacro/Investing Amid Low Expected Returns - Making the Most
   When Markets Offer the Least (Antti Ilmanen) (z-library.sk, 1lib.sk, z-lib.sk).md

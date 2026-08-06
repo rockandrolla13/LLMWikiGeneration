@@ -3,7 +3,6 @@ title: "Mid-Price Estimation for European Corporate Bonds: A Particle Filtering 
 page_id: sources/gueant-2019-particle-filtering-bonds
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Olivier Gueant, Jiang Pu]

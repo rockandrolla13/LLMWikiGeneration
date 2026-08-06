@@ -12,7 +12,6 @@ related:
 - concepts/factor-investing
 - concepts/factor-models
 - concepts/liquidity-risk
-revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/ilmanen-2022-investing-amid-low-expected-returns

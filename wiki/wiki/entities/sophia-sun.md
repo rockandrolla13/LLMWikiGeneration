@@ -3,7 +3,6 @@ title: Sophia Sun
 page_id: entities/sophia-sun
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [researcher, conformal-prediction, time-series, copulas, ucsd]

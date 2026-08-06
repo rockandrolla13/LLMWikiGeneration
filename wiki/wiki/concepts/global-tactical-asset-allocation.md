@@ -12,7 +12,6 @@ related:
 - concepts/market-timing
 - concepts/risk-parity
 - concepts/risk-premia
-revision_id: 2
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact

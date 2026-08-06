@@ -23,7 +23,6 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 2
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/ms-2010-09-15-em-quantitative-quarterly

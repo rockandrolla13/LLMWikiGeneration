@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/dawid-sebastiani-score
 - concepts/variogram-score
-revision_id: 2
 sources:
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio
 tags:

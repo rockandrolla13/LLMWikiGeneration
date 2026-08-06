@@ -24,7 +24,6 @@ related:
 - entities/edward-von-der-schmidt
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:6ca1170914f4d8d1cc0dabb313d697218fa594d04174b2e452285be07049e679
 source_path: raw/creditmacro/Morgan Stanley - Global Macro Commentary — April 2 -
   2020-04-03.md

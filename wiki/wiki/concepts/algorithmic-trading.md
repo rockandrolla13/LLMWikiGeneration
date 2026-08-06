@@ -23,7 +23,6 @@ related:
 - concepts/trading-strategy-optimization
 - concepts/trend-following
 - concepts/walk-forward-analysis
-revision_id: 2
 sources:
 - sources/cartea-2025-statistical-predictions-trading
 - sources/halls-moore-advanced-algorithmic-trading

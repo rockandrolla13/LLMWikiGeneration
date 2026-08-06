@@ -2,7 +2,6 @@
 title: "Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction"
 page_id: analyses/conformal-prediction-for-hft-traders
 page_type: analysis
-revision_id: 2
 created: 2026-05-21T15:30:00Z
 updated: 2026-05-21T16:30:00Z
 tags: [conformal-prediction, time-series, algorithmic-trading, hft, market-making, prediction-intervals, practitioner-guide]

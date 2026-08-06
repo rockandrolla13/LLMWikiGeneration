@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/european-central-bank
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/ms-2019-02-28-ecb-preview-tltro-funding
 - sources/rostagno-2021-ecb-monetary-policy-crisis

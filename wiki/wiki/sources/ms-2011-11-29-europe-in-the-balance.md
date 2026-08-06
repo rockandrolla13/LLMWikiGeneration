@@ -14,7 +14,6 @@ related:
 - concepts/sovereign-debt-crisis
 - entities/arnaud-mares
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:53b8d65965c012f990ad24d031d6069eca407ad0900d92ce27574c4dbb699b2f
 source_path: raw/creditmacro/Morgan Stanley - Sovereign Subjects — Europe in the Balance
   - 2011.md

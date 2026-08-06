@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/longtail-alpha
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []

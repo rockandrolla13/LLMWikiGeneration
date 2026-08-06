@@ -2,7 +2,6 @@
 title: LEVER Score
 page_id: concepts/lever-score
 page_type: concept
-revision_id: 1
 created: 2026-05-05T23:20:00Z
 updated: 2026-05-05T23:20:00Z
 tags: [creditETF, event-risk, LBO, quantitative-credit]

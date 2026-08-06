@@ -16,7 +16,6 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/style-premia
-revision_id: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 - sources/ms-2015-03-06-bond-market-indicators

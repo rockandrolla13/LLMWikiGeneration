@@ -2,7 +2,6 @@
 title: "ECDF Aggregation"
 page_id: concepts/ecdf-aggregation
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [statistics, standardization, composite-indicators]

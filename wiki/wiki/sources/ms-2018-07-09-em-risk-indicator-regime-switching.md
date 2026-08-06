@@ -14,7 +14,6 @@ related:
 - concepts/statistical-arbitrage
 - entities/andres-jaime
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:ec785b256e35ee1b9ee3eefcbded26468f7dc1f9f0442c2e844dd8d40de9c5b9
 source_path: raw/creditmacro/Morgan Stanley - EM Quant Strategy — EM Risk Indicator
   A RegimeSwitching Model Approach - 2018-07-09.md

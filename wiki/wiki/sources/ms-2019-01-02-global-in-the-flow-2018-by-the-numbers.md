@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:2b2f6f8292b491cdb8dfbc85a6c38b864e62a2ea23f05fd2da6fc5a8e9a044ca
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the
   Flow 2018 by the Numbers - 2019-01-02.md

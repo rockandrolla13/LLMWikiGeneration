@@ -3,7 +3,6 @@ title: Antonio Farinhas
 page_id: entities/antonio-farinhas
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [researcher, conformal-prediction, uncertainty-quantification, nlp]

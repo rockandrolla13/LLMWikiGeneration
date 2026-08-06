@@ -2,7 +2,6 @@
 title: "Mixed-Frequency Data"
 page_id: concepts/mixed-frequency-data
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [econometrics, macro-finance, mixed-frequency, midas]

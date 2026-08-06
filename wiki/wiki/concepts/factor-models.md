@@ -23,7 +23,6 @@ related:
 - concepts/risk-vs-mispricing
 - concepts/style-premia
 - concepts/trend-following
-revision_id: 4
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio

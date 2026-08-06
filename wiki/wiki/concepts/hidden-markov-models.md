@@ -10,7 +10,6 @@ related:
 - concepts/markov-switching-models
 - concepts/mean-reversion
 - concepts/state-space-models
-revision_id: 1
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []

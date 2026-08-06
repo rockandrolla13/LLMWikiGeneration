@@ -20,7 +20,6 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 4
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 - sources/dickerson-2023-bond-risk

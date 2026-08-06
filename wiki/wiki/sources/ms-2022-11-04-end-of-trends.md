@@ -31,7 +31,6 @@ related:
 - entities/james-k-lord
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:056723b026813a479c96a2c1a257bb1f9c118c072ab60d343a333c2a951702e1
 source_path: raw/creditmacro/Morgan Stanley - Global Macro Strategist — The End of
   Trends - 2022-11-04.md

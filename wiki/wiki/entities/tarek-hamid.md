@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/tarek-hamid
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []

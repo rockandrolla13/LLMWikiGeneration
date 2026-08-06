@@ -15,7 +15,6 @@ related:
 - concepts/ranked-probability-score
 - concepts/uncertainty-quantification
 - concepts/variogram-score
-revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 - sources/ziel-2019-multivariate-forecasting-evaluation

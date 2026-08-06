@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/federal-reserve
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
 - sources/ms-2013-10-30-japanification-or-salvation

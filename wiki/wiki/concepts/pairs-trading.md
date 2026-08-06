@@ -10,7 +10,6 @@ related:
 - concepts/mean-reversion
 - concepts/spread
 - concepts/statistical-arbitrage
-revision_id: 2
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
 - sources/he-2023-hf-pairs-chinese-futures

@@ -3,7 +3,6 @@ title: UBS Delta
 page_id: entities/ubs-delta
 page_type: entity
 entity_type: institution
-revision_id: 1
 created: 2026-05-05T23:25:00Z
 updated: 2026-05-05T23:25:00Z
 tags: [creditETF, risk-management, portfolio-analytics]

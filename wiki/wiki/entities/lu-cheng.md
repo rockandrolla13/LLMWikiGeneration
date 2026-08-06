@@ -3,7 +3,6 @@ title: Lu Cheng
 page_id: entities/lu-cheng
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [researcher, conformal-prediction, machine-learning, responsible-ai, uic]

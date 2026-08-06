@@ -9,7 +9,6 @@ related:
 - concepts/multi-population-mortality
 - concepts/uncertainty-quantification
 - entities/mike-ludkovski
-revision_id: 2
 sources:
 - sources/huynh-2021-mogp-longevity
 tags:

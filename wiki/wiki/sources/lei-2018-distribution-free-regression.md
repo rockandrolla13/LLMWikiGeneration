@@ -3,7 +3,6 @@ title: "Distribution-Free Predictive Inference for Regression"
 page_id: sources/lei-2018-distribution-free-regression
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Jing Lei", "Max G'Sell", "Alessandro Rinaldo", "Ryan J. Tibshirani", "Larry Wasserman"]

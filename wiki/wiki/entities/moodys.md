@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/moodys
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
 tags: []

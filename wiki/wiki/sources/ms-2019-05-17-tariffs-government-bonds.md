@@ -27,7 +27,6 @@ related:
 - entities/matthew-hornbach
 - entities/morgan-stanley
 - entities/tony-small
-revision_id: 1
 source_hash: sha256:07d771ea950d646bbc3f307be23eb0b523cf065956f09d99306eede14e012fb8
 source_path: raw/creditmacro/Morgan Stanley - For Whom the Tariffs Toll — Government
   Bonds - 2019-05-17.md

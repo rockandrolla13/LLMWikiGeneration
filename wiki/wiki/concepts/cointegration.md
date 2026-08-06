@@ -8,7 +8,6 @@ related:
 - concepts/stationarity
 - concepts/statistical-arbitrage
 - concepts/vector-error-correction-model
-revision_id: 2
 sources:
 - sources/duasa-2010-predicting-crisis-recovery
 - sources/he-2023-hf-pairs-chinese-futures

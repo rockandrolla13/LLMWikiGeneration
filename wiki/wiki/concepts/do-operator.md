@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/observational-sampling-from-rcts
-revision_id: 2
 sources:
 - sources/pearl-2018-book-of-why
 tags: []

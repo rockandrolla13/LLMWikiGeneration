@@ -3,7 +3,6 @@ title: "Learn Then Test: Calibrating Predictive Algorithms to Achieve Risk Contr
 page_id: sources/angelopoulos-2021-learn-then-test
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Anastasios N. Angelopoulos", "Stephen Bates", "Emmanuel J. Candès", "Michael I. Jordan", "Lihua Lei"]

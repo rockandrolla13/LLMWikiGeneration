@@ -24,7 +24,6 @@ related:
 - entities/koichi-sugisaki
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:aa50aa73f7b2aca92337a19fe462e3f9c99583aaf722c3965bb8166cb5b7c928
 source_path: raw/creditmacro/Morgan Stanley - Crossing the Rubicon — Government Bonds
   - 2019-04-05.md

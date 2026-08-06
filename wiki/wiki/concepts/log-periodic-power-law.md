@@ -8,7 +8,6 @@ page_id: concepts/log-periodic-power-law
 page_type: concept
 related:
 - concepts/bubble-detection
-revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []

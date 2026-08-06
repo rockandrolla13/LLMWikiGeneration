@@ -11,7 +11,6 @@ related:
 - concepts/doubly-robust-estimation
 - concepts/ip-weighting-marginal-structural-models
 - concepts/potential-outcomes
-revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []

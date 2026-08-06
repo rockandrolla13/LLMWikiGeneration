@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/phanikiran-naraparaju
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2011-03-28-high-grade-mid-cycle
 - sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging

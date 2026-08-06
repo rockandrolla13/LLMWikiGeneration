@@ -37,7 +37,6 @@ related:
 - sources/hill-2011-bart-causal-inference
 - sources/hudson-2019-its-healthcare-reporting
 - sources/pearl-2018-book-of-why
-revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 - sources/gentzel-2021-osrct-evaluation

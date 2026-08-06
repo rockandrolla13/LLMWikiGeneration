@@ -5,7 +5,6 @@ page_id: concepts/hierarchical-clustering
 page_type: concept
 related:
 - concepts/cluster-analysis-and-association-rules
-revision_id: 2
 sources:
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio
 tags:

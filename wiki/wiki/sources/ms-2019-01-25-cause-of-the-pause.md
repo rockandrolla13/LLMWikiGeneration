@@ -19,7 +19,6 @@ related:
 - entities/adam-richmond
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_id: 1
 source_hash: sha256:52d7065571cc250d0074fc458aa1e9c414cc90a8e158610437cff765bd3f5294
 source_path: raw/creditmacro/Morgan Stanley - Corporate Credit Research - 2019-01-25.md
 source_type: article

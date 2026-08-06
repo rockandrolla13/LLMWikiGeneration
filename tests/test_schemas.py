@@ -138,7 +138,7 @@ class TestPageMeta:
         assert meta.title == "Test Page"
         assert meta.page_id == "concepts/test"
         assert meta.page_type == PageType.CONCEPT
-        assert meta.revision_id == 1
+        assert not hasattr(meta, "revision_id")
         assert not hasattr(meta, "revision_hash")
         assert isinstance(meta.created, datetime)
         assert isinstance(meta.updated, datetime)
@@ -150,7 +150,6 @@ class TestPageMeta:
             title="Full Page",
             page_id="sources/full",
             page_type=PageType.SOURCE,
-            revision_id=5,
             created=now,
             updated=now,
             updated_by="op_123456",
@@ -160,7 +159,6 @@ class TestPageMeta:
             mind_map_priority=MindMapPriority.HIGH,
             mind_map_category=2,
         )
-        assert meta.revision_id == 5
         assert meta.updated_by == "op_123456"
         assert meta.sources == ["source1", "source2"]
         assert meta.related == ["related1"]
@@ -175,7 +173,6 @@ class TestPageMeta:
             title="Test Page",
             page_id="concepts/test",
             page_type=PageType.CONCEPT,
-            revision_id=2,
             created=now,
             updated=now,
             tags=["ml", "ai"],
@@ -185,7 +182,7 @@ class TestPageMeta:
         assert d["title"] == "Test Page"
         assert d["page_id"] == "concepts/test"
         assert d["page_type"] == "concept"
-        assert d["revision_id"] == 2
+        assert "revision_id" not in d
         assert d["created"] == "2024-01-15T12:30:00Z"
         assert d["updated"] == "2024-01-15T12:30:00Z"
         assert d["tags"] == ["ml", "ai"]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-egan
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults
 tags: []

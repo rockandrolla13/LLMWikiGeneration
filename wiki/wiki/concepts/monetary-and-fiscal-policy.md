@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/great-moderation
-revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []

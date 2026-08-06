@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/kevin-berk
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []

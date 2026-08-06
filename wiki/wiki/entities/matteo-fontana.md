@@ -3,7 +3,6 @@ title: Matteo Fontana
 page_id: entities/matteo-fontana
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [researcher, conformal-prediction, statistics, time-series, functional-data-analysis]

@@ -17,7 +17,6 @@ related:
 - concepts/walk-forward-analysis
 - entities/john-wiley-sons
 - entities/robert-pardo
-revision_id: 1
 source_hash: sha256:e2deed2d2c8c38f32a996a4855d8c040bb0f2e2657d3016e44a4e3582c699b03
 source_path: raw/creditmacro/Evaluation and Optimization of Trading Strategies (Robert
   Pardo) (z-library.sk, 1lib.sk, z-lib.sk).md

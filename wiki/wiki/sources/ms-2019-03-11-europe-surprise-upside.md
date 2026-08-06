@@ -24,7 +24,6 @@ related:
 - entities/hans-redeker
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:f897a0a73002086c176d332e079ff43e999230e9da3f90545a3ef13a9c7a789f
 source_path: raw/creditmacro/Morgan Stanley - Europe looks set to surprise on the
   upside - 2019-03-11.md

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/matthew-pennill
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-15-ongoing-weakness
 - sources/ms-2019-03-01-bank-funding-focus

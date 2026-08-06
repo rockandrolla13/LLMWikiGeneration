@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/association-rule-learning
 - concepts/hierarchical-clustering
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

@@ -2,7 +2,6 @@
 title: "Particle Filter"
 page_id: concepts/particle-filter
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [sequential-monte-carlo, state-space-models, filtering]

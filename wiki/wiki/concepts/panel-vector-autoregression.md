@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/difference-in-differences
 - concepts/structural-vector-autoregression
-revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 - sources/babecky-2014-developed-country-crisis-ewi

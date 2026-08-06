@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/default-rates
-revision_id: 1
 sources:
 - sources/ms-2017-06-23-ig-fundamentals-in-good-shape
 tags: []

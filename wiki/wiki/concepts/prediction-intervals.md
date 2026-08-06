@@ -9,7 +9,6 @@ related:
 - concepts/coverage-guarantee
 - concepts/interval-score
 - concepts/uncertainty-quantification
-revision_id: 2
 sources:
 - sources/zaffran-phd
 - sources/zaffran-2022-aci

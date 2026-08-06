@@ -11,7 +11,6 @@ related:
 - concepts/causal-inference
 - concepts/confounding
 - concepts/ip-weighting-marginal-structural-models
-revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 - sources/hill-2011-bart-causal-inference

@@ -2,7 +2,6 @@
 title: "Non-Exchangeable Conformal Risk Control"
 page_id: sources/farinhas-2024-non-exchangeable-crc
 page_type: source
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [conformal-prediction, risk-control, non-exchangeable-data, distribution-drift, time-series]

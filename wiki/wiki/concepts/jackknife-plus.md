@@ -2,7 +2,6 @@
 title: Jackknife+ Prediction
 page_id: concepts/jackknife-plus
 page_type: concept
-revision_id: 2
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, jackknife, leave-one-out, prediction-intervals]

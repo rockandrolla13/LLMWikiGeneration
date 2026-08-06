@@ -2,7 +2,6 @@
 title: "Material Non-Public Information"
 page_id: concepts/material-non-public-information
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [securities-law, information-barriers, insider-trading]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/tyler-vanderweele
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jonathan-ashworth
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2016-06-15-1937-38-redux
 tags: []

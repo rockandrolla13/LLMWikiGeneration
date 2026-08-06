@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/joshua-angrist
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 - sources/cai-2023-testing-conditional-independence-time-series

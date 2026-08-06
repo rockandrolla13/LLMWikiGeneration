@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/judea-pearl
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/gentzel-2021-osrct-evaluation
 - sources/pearl-2018-book-of-why

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/counterfactuals
-revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []

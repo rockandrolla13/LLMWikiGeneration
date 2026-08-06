@@ -3,7 +3,6 @@ title: "Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passi
 page_id: sources/optiver-2025-corporate-bond-etf-contraflow
 page_type: source
 source_type: whitepaper
-revision_id: 1
 created: 2026-05-06T23:30:00Z
 updated: 2026-05-06T23:30:00Z
 authors: [Optiver Credit Team]

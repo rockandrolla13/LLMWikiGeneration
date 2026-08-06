@@ -2,7 +2,6 @@
 title: "Bühlmann-Straub Model"
 page_id: concepts/buhlmann-straub-model
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [actuarial-science, credibility-theory, insurance-pricing, statistics]

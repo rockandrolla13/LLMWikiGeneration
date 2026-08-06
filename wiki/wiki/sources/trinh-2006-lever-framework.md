@@ -2,7 +2,6 @@
 title: "Introducing LEVER: A Framework for Scoring LEVeraging Event Risk"
 page_id: sources/trinh-2006-lever-framework
 page_type: source
-revision_id: 1
 created: 2026-05-05T23:15:00Z
 updated: 2026-05-05T23:15:00Z
 tags: [creditETF, LBO-risk, event-risk, credit-strategy, quantitative-credit]

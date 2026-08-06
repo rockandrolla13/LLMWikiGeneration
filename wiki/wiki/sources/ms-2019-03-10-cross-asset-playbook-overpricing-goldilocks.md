@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:76a3ce94524e34ad66a6dbb822fc30889bc1cf999fefb11364cf9adc579a3e00
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook
   – March 2019 - 2019-03-10.md

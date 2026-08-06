@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/harriman-house
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading
 - sources/carver-2023-advanced-futures-trading-strategies

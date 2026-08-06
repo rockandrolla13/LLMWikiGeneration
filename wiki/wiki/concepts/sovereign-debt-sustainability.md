@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_id: 1
 sources:
 - sources/schofield-2019-citi-macro-views
 tags: []

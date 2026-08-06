@@ -15,7 +15,6 @@ related:
 - entities/ellen-zentner
 - entities/michael-zezas
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:74d73a342f9bcb5dc2efa5cc9fb874c4a21978aba3ceec1fe7ab70c4fce5ac79
 source_path: raw/creditmacro/Morgan Stanley - Podcast — Play to Listen - 2020-03-27.md
 source_type: article

@@ -19,7 +19,6 @@ related:
 - entities/federal-reserve
 - entities/morgan-stanley
 - entities/nora-wassermann
-revision_id: 1
 source_hash: sha256:fd789256515e92a604317a3b16fb159505891f13ed60261126bc56ab5bd70c15
 source_path: raw/creditmacro/Morgan Stanley - Global Economics — Global Growth Tracker
   – DMs Underperform More than Expected - nd.md

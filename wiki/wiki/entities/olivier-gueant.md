@@ -3,7 +3,6 @@ title: "Olivier Guéant"
 page_id: entities/olivier-gueant
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-26T03:00:00Z
 tags: [researcher, market-making, optimal-execution, mathematical-finance, stochastic-control, fx]

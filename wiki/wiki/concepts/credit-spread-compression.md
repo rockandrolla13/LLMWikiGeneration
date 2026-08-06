@@ -11,7 +11,6 @@ related:
 - concepts/credit-spread-changes
 - concepts/credit-spread-curve
 - concepts/government-bond-spreads
-revision_id: 2
 sources:
 - sources/ms-2019-03-22-high-yield-hedge
 - sources/schofield-2019-citi-macro-views

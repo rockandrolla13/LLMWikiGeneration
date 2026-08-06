@@ -16,7 +16,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:effa6685ee44f2707838ce945d1f0c89ba3ac1030f12b159c8639e789112f2ac
 source_path: raw/creditmacro/Morgan Stanley - European Banks — Hunting for Value in
   Tier 2 and Seniors - 2019-05-23.md

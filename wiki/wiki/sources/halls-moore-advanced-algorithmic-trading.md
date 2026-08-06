@@ -18,7 +18,6 @@ related:
 - concepts/pairs-trading
 - entities/michael-halls-moore
 - entities/quantstart
-revision_id: 1
 source_hash: sha256:7a40f10a85e12808d1cc6d0ca8fdee2e41282e582570ec332e826d61321ce023
 source_path: raw/creditmacro/Advanced Algorithmic Trading (Mike Halls-Moore) (z-library.sk,
   1lib.sk, z-lib.sk).md

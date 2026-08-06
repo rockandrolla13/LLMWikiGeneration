@@ -8,7 +8,6 @@ page_id: concepts/half-life-of-adjustment
 page_type: concept
 related:
 - concepts/vector-error-correction-model
-revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []

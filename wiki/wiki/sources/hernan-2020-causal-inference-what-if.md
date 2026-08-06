@@ -20,7 +20,6 @@ related:
 - entities/chapman-hall-crc
 - entities/james-robins
 - entities/miguel-hernan
-revision_id: 1
 source_hash: sha256:55c8b6aeebea5d3a408cd3f9ecffe0f012cd7d9f1c43d5e83e0bc2bf6927d992
 source_path: raw/creditmacro/Causal Inference What If (Miguel A. Hernán, James M.
   Robins) (z-library.sk, 1lib.sk, z-lib.sk).md

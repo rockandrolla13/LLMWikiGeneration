@@ -10,7 +10,6 @@ related:
 - concepts/log-periodic-power-law
 - concepts/malinvestment-forced-saving
 - concepts/market-crash-liquidity-crisis
-revision_id: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 tags:

@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/default-rates
 - concepts/speculative-grade-default-rate
-revision_id: 2
 sources:
 - sources/caprio-2026-steady-but-ai
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook

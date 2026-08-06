@@ -5,7 +5,6 @@ page_id: concepts/fissler-ziegel-loss
 page_type: concept
 related:
 - concepts/strictly-proper-scoring-rules
-revision_id: 2
 sources:
 - sources/barendse-2026-efficient-tail-interquantile
 tags:

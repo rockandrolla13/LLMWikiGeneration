@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jackie-ineke
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2018-11-02-at1-primer-extension-par-calls
 - sources/ms-2019-02-15-crr2-agreed-adi-boost-at1

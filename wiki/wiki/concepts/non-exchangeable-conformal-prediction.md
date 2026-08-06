@@ -2,7 +2,6 @@
 title: Non-Exchangeable Conformal Prediction (NexCP)
 page_id: concepts/non-exchangeable-conformal-prediction
 page_type: concept
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [conformal-prediction, non-exchangeable, distribution-drift, weighted-quantiles, total-variation]

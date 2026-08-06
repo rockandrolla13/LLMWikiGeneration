@@ -3,7 +3,6 @@ title: "Advanced Analytics and Learning on Temporal Data (AALTD 2024)"
 page_id: sources/lemaire-2024-aaltd-workshop
 page_type: source
 source_type: edited-volume
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Vincent Lemaire (ed.)", "Georgiana Ifrim (ed.)", "Anthony Bagnall (ed.)", "Thomas Guyet (ed.)", "Simon Malinowski (ed.)", "Patrick Schäfer (ed.)", "Romain Tavenard (ed.)"]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-mcculloch
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference
 tags: []

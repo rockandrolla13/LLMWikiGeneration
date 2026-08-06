@@ -5,7 +5,6 @@ mind_map_priority: medium
 page_id: entities/darrell-duffie
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/chen-2024-jump-clustering-information-flows
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

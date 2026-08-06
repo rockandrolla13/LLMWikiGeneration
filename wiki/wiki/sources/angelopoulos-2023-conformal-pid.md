@@ -3,7 +3,6 @@ title: "Conformal PID Control for Time Series Prediction"
 page_id: sources/angelopoulos-2023-conformal-pid
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Anastasios N. Angelopoulos", "Emmanuel J. Candès", "Ryan J. Tibshirani"]

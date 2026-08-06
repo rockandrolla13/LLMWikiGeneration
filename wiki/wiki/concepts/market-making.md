@@ -2,7 +2,6 @@
 title: "Market Making"
 page_id: concepts/market-making
 page_type: concept
-revision_id: 3
 created: 2026-04-25T22:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [trading, liquidity-provision, bid-ask-spread, inventory-risk, optimal-control, fx, stochastic-control]

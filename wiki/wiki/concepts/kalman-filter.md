@@ -11,7 +11,6 @@ related:
 - concepts/pairs-trading
 - concepts/schwartz-smith-model
 - concepts/state-space-models
-revision_id: 2
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
 - sources/he-2024-functional-regression

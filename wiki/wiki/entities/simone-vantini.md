@@ -3,7 +3,6 @@ title: Simone Vantini
 page_id: entities/simone-vantini
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [researcher, conformal-prediction, functional-data-analysis, statistics, politecnico-di-milano]

@@ -3,7 +3,6 @@ title: Yaniv Romano
 page_id: entities/yaniv-romano
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-04-26T12:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [researcher, conformal-prediction, uncertainty-quantification, statistics, machine-learning]

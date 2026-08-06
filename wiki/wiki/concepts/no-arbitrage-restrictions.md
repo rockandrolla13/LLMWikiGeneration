@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/compound-option-model
 - concepts/merton-model
-revision_id: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
 tags:

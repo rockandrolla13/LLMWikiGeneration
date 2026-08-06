@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/pasquale-diana
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-13-ecb-periphery-one-size
 tags: []

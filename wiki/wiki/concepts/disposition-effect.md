@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/prospect-theory
-revision_id: 2
 sources:
 - sources/bhansali-2018-right-tail-hedging
 - sources/nolte-2011-fx-latent-factor-panel-intensity

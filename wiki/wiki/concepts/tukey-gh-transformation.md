@@ -2,7 +2,6 @@
 title: "Tukey g-and-h Transformation"
 page_id: concepts/tukey-gh-transformation
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [statistics, distributions, heavy-tails, skewness, risk-modelling]

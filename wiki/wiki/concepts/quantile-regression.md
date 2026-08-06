@@ -11,7 +11,6 @@ related:
 - concepts/probability-integral-transform
 - concepts/quantile-treatment-effects
 - concepts/tick-loss
-revision_id: 4
 sources:
 - sources/chernozhukov-2021-distributional-cp
 - sources/peiris-2025-rnn-har-var

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/edward-von-der-schmidt
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2020-04-03-global-macro-commentary-covid
 tags: []

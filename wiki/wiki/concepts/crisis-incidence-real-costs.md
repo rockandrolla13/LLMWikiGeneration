@@ -8,7 +8,6 @@ page_id: concepts/crisis-incidence-real-costs
 page_type: concept
 related:
 - concepts/sovereign-debt-crisis
-revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []

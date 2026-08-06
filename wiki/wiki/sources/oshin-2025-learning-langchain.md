@@ -3,7 +3,6 @@ title: Learning LangChain
 page_id: sources/oshin-2025-learning-langchain
 page_type: source
 source_type: book
-revision_id: 1
 created: '2026-05-17T16:44:06Z'
 updated: '2026-05-17T16:44:06Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17

@@ -2,7 +2,6 @@
 title: Adaptive Conformal Inference
 page_id: concepts/adaptive-conformal-inference
 page_type: concept
-revision_id: 2
 created: 2026-04-10T18:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, time-series, distribution-shift, online-learning]

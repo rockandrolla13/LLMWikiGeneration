@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
 - concepts/distressed-exchange
-revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai
 tags: []

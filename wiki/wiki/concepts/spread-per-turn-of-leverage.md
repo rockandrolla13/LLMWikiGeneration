@@ -7,7 +7,6 @@ related:
 - concepts/hyperscaler-data-center-bond-relative-value
 - concepts/leverage-ratios
 - concepts/relative-value-analysis
-revision_id: 2
 sources:
 - sources/spec-2012-single-name-fundamental
 tags:

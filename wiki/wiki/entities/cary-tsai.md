@@ -3,7 +3,6 @@ title: "Cary Chi-Liang Tsai"
 page_id: entities/cary-tsai
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 affiliation: Simon Fraser University

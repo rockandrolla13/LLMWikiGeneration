@@ -3,7 +3,6 @@ title: "Hierarchical Credibility Model"
 page_id: sources/namora-2021-hierarchical
 page_type: source
 source_type: conference-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [F. Namora, S. Nurrohmah, I. Fithriani]

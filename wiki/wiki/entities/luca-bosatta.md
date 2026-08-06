@@ -3,7 +3,6 @@ title: Luca Bosatta
 page_id: entities/luca-bosatta
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-05T23:25:00Z
 updated: 2026-05-05T23:25:00Z
 tags: [creditETF, risk-modelling, credit-curves]

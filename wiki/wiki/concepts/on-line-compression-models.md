@@ -2,7 +2,6 @@
 title: On-Line Compression Models (OCM)
 page_id: concepts/on-line-compression-models
 page_type: concept
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, on-line-learning, sufficient-statistics, kolmogorov, vovk]

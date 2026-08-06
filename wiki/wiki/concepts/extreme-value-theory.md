@@ -2,7 +2,6 @@
 title: Extreme Value Theory
 page_id: concepts/extreme-value-theory
 page_type: concept
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [statistics, risk-management, heavy-tails, floods, finance, extreme-events]

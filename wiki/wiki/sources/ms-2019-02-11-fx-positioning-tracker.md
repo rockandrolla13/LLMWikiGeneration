@@ -16,7 +16,6 @@ related:
 - entities/andrew-watrous
 - entities/gek-teng-khoo
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:e02c7fbf59987d2b8df9833f7057575451d1ad69ac7f8766c34764587a92f786
 source_path: raw/creditmacro/Morgan Stanley - Morgan Stanley FX Positioning Tracker
   - 2019-02-11.md

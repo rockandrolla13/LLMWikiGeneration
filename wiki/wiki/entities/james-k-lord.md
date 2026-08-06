@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-k-lord
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-24-china-current-account-turning-point
 - sources/ms-2022-11-04-end-of-trends

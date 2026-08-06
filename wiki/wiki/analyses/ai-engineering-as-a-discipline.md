@@ -2,7 +2,6 @@
 title: "AI Engineering as a Discipline"
 page_id: analyses/ai-engineering-as-a-discipline
 page_type: analysis
-revision_id: 1
 created: 2026-05-17T18:30:00Z
 updated: 2026-05-17T18:30:00Z
 updated_by: wiki-batch-ai-engineering-2026-05-17

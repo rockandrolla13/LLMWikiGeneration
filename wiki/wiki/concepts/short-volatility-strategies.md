@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/short-volatility-strategies
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []

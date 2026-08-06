@@ -2,7 +2,6 @@
 title: Conformal Prediction for NLP
 page_id: concepts/cp-for-nlp
 page_type: concept
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, nlp, text-classification, question-answering, machine-translation]

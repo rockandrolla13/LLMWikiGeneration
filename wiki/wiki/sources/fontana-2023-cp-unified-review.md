@@ -3,7 +3,6 @@ title: "Conformal prediction: A unified review of theory and new challenges"
 page_id: sources/fontana-2023-cp-unified-review
 page_type: source
 source_type: review-paper
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 authors: ["Matteo Fontana", "Gianluca Zeni", "Simone Vantini"]

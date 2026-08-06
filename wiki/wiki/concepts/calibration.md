@@ -16,7 +16,6 @@ related:
 - concepts/strictly-proper-scoring-rules
 - concepts/superforecasting
 - concepts/uncertainty-quantification
-revision_id: 2
 sources:
 - sources/zaffran-phd
 tags:

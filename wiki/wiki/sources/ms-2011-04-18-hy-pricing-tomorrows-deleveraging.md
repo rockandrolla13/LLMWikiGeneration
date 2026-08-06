@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:bffa8843d802e065c030a8b1aeed14e132c911c9d7f8dbd7f655d5293a7b5a13
 source_path: raw/creditmacro/Morgan Stanley - Fixed Income Research - 2011-04-18.md
 source_type: article

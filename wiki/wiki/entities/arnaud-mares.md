@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/arnaud-mares
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2011-11-29-europe-in-the-balance
 tags: []

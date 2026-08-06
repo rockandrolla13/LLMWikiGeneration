@@ -14,7 +14,6 @@ related:
 - concepts/trend-following
 - sources/haesen-2017-momentum-spillover
 - sources/houweling-2017-factor-investing
-revision_id: 2
 tags:
 - momentum
 - corporate-bonds

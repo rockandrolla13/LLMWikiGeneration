@@ -18,7 +18,6 @@ related:
 - entities/francis-galton
 - entities/jordan-ellenberg
 - entities/penguin-press
-revision_id: 1
 source_hash: sha256:2cdba165c503009c1adec90e0c28ec8af7ad9ae67c97629a478492e45745de37
 source_path: raw/creditmacro/How Not to Be Wrong The Power of Mathematical Thinking
   (Jordan Ellenberg) (z-library.sk, 1lib.sk, z-lib.sk).md

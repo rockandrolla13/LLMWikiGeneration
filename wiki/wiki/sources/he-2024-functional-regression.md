@@ -3,7 +3,6 @@ title: "Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commo
 page_id: sources/he-2024-functional-regression
 page_type: source
 source_type: working-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Peilun He, Gareth W. Peters, Nino Kordzakhia, Pavel V. Shevchenko]

@@ -2,7 +2,6 @@
 title: Regularized Adaptive Prediction Sets (RAPS)
 page_id: concepts/regularized-adaptive-prediction-sets
 page_type: concept
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, classification, score-design, regularisation, large-class]

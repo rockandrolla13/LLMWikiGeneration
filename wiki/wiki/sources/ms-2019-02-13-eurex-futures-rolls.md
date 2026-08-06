@@ -14,7 +14,6 @@ related:
 - concepts/government-bond-spreads
 - entities/morgan-stanley
 - entities/robert-j-brown
-revision_id: 1
 source_hash: sha256:49369714d3875eea45db23b1949237ace88bfda3367de7f551f7f2c0c15d36f3
 source_path: raw/creditmacro/Morgan Stanley - Global Bond Futures Strategy — Correction
   Global Futures Rolls Report Eurex Futures Rolls - Mar 19 Jun 19 Roll - 2019-02-13.md

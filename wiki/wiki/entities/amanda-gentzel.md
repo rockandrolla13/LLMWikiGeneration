@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/amanda-gentzel
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation
 tags: []

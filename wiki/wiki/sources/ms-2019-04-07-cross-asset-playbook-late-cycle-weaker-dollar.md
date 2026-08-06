@@ -19,7 +19,6 @@ related:
 - entities/andrew-sheets
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
-revision_id: 1
 source_hash: sha256:f2a3753fd465e76d6dbd3cba0ee63f5616ae991a3317ff2cdf2c773aa708fc29
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook
   – April 2019 Late-Cycle and Weaker Dollar - 2019-04-07.md

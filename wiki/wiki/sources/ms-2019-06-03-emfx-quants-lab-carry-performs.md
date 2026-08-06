@@ -14,7 +14,6 @@ related:
 - concepts/regime-switching-models
 - entities/andres-jaime
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:63708e07d0cc5b1a3b7b654cbea7d103cab6621ace778eb7010cc6a1bf59244c
 source_path: raw/creditmacro/Morgan Stanley - EM Quant Strategy — EMFX Quant's Lab
   Carry Performs - 2019-06-03.md

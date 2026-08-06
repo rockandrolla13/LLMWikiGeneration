@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/matthew-hornbach
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2013-12-13-top-10-rates-surprises-2014
 - sources/ms-2015-03-06-bond-market-indicators

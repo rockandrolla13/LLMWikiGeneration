@@ -10,7 +10,6 @@ related:
 - concepts/minimum-variance-portfolio
 - concepts/value-at-risk
 - concepts/volatility-targeting
-revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 tags: []

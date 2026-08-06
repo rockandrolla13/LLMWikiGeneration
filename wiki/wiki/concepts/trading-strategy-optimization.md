@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/algorithmic-trading
 - concepts/optimization-search-methods
-revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies
 tags: []

@@ -8,7 +8,6 @@ page_id: concepts/splines-and-additive-models
 page_type: concept
 related:
 - concepts/feature-engineering
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

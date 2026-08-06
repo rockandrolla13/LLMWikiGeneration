@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/mental-model-of-code
-revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models
 tags: []

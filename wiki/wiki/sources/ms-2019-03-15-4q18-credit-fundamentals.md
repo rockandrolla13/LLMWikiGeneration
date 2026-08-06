@@ -20,7 +20,6 @@ related:
 - entities/adam-richmond
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_id: 1
 source_hash: sha256:455df910ae0611280032a2208a6476a5c737cc653d7a6b9bdf9f7dc9903cd47f
 source_path: raw/creditmacro/Morgan Stanley - Investment Grade — High Yield - 2019-03-15.md
 source_type: article

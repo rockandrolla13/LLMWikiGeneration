@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/agentic-ai
 - concepts/generative-ai
-revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai
 tags: []

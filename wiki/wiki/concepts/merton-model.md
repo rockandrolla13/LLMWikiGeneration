@@ -11,7 +11,6 @@ related:
 - concepts/credit-spread-puzzle
 - concepts/no-arbitrage-restrictions
 - concepts/survival-probability
-revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

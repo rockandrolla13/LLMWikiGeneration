@@ -2,7 +2,6 @@
 title: Conformal Prediction for Large Language Models
 page_id: concepts/cp-for-llms
 page_type: concept
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, large-language-models, generative-ai, hallucination, alignment, rag]

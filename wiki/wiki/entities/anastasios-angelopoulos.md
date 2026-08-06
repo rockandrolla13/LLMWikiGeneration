@@ -3,7 +3,6 @@ title: Anastasios N. Angelopoulos
 page_id: entities/anastasios-angelopoulos
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [researcher, conformal-prediction, uncertainty-quantification, machine-learning]

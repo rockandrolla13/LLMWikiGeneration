@@ -2,7 +2,6 @@
 title: Base Correlation
 page_id: concepts/base-correlation
 page_type: concept
-revision_id: 1
 created: 2026-05-05T23:20:00Z
 updated: 2026-05-05T23:20:00Z
 tags: [creditETF, CDO, correlation, credit-derivatives, tranche-pricing]

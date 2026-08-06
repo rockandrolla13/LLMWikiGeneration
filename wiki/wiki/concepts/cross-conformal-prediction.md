@@ -2,7 +2,6 @@
 title: Cross-Conformal Prediction / Jackknife+ / CV+
 page_id: concepts/cross-conformal-prediction
 page_type: concept
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, cross-validation, jackknife, ensemble]

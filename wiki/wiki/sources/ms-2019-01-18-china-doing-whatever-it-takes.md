@@ -21,7 +21,6 @@ related:
 - entities/nora-wassermann
 - entities/peoples-bank-of-china
 - entities/robin-xing
-revision_id: 1
 source_hash: sha256:139d50f7509894fa7ddfe1fbc219939c4f904281fd83e8d6745380775c1a931c
 source_path: raw/creditmacro/Morgan Stanley - Global Economics — China – Doing whatever
   it takes - 2019-01-18.md

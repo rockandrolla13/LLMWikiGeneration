@@ -5,7 +5,6 @@ page_id: concepts/funding-liquidity
 page_type: concept
 related:
 - concepts/structural-risk
-revision_id: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 tags:

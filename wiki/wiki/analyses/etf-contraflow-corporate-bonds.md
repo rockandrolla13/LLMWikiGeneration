@@ -2,7 +2,6 @@
 title: "ETF Contraflow Strategy for Corporate Bonds"
 page_id: analyses/etf-contraflow-corporate-bonds
 page_type: analysis
-revision_id: 1
 created: 2026-05-11T00:00:00Z
 updated: 2026-05-11T00:00:00Z
 tags: [etf-flows, corporate-bonds, mean-reversion, passive-investing, trading-strategy]

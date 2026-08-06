@@ -9,7 +9,6 @@ related:
 - concepts/merton-model
 - concepts/reduced-form-credit-models
 - concepts/z-spread
-revision_id: 2
 sources:
 - sources/martin-2024-credit-curve
 tags:

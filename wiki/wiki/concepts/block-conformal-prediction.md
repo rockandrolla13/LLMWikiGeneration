@@ -2,7 +2,6 @@
 title: Block Conformal Prediction (BCP)
 page_id: concepts/block-conformal-prediction
 page_type: concept
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 tags: [conformal-prediction, time-series, block-methods, weak-dependence]

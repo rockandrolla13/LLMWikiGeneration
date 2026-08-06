@@ -22,7 +22,6 @@ related:
 - entities/joshua-angrist
 - entities/princeton-university-press
 - entities/victor-chernozhukov
-revision_id: 1
 source_hash: sha256:797016915fe2d18fcb1ff31a1b86cadb7fd25d22a5bfe8f3e193e2cd8976e095
 source_path: raw/creditmacro/Mostly Harmless Econometrics An Empiricists Companion
   (Joshua D. Angrist, Jorn-Steffen Pischke) (z-library.sk, 1lib.sk, z-lib.sk).md

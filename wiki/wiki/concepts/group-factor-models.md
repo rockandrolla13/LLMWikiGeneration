@@ -2,7 +2,6 @@
 title: "Group Factor Models"
 page_id: concepts/group-factor-models
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [econometrics, factor-models, panel-data, macro-finance]

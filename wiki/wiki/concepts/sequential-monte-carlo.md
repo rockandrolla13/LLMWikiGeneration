@@ -2,7 +2,6 @@
 title: "Sequential Monte Carlo"
 page_id: concepts/sequential-monte-carlo
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [bayesian, particle-methods, sequential-inference]

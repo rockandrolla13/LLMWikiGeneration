@@ -2,7 +2,6 @@
 title: "β-Mixing"
 page_id: concepts/beta-mixing
 page_type: concept
-revision_id: 1
 created: 2026-04-28T12:45:00Z
 updated: 2026-04-28T12:45:00Z
 sources: [sources/koukorinis-2026-draci, sources/lee-2024-kowcpi]

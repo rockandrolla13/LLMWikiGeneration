@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/olivier-bizimana
 - entities/tomasz-pietrzak
-revision_id: 1
 source_hash: sha256:2f8e2243d4656b2cd806befdfea4fda51a7c12a7d42ebe87cc168074d97b41e6
 source_path: raw/creditmacro/Morgan Stanley - Europe Economics — Tomasz Pietrzak -
   2011-11-28.md

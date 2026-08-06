@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/iceberg-model
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models
 tags: []

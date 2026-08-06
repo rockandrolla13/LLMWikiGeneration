@@ -25,7 +25,6 @@ related:
 - entities/morgan-stanley
 - entities/vishwas-patkar
 - entities/vishy-tirupattur
-revision_id: 1
 source_hash: sha256:d85eb3b15caf62af8b3aaf8c75113bcf63e72b5936e93b655cb70b5d5a08412a
 source_path: raw/creditmacro/79ef82a2-e1da-4bf3-9882-973affe041ae.md
 source_type: article

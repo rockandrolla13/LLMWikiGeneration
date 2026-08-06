@@ -8,7 +8,6 @@ page_id: concepts/nonparametric-conditional-moment-test
 page_type: concept
 related:
 - concepts/quantile-regression
-revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []

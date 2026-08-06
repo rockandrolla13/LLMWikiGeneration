@@ -3,7 +3,6 @@ title: Ryan J. Tibshirani
 page_id: entities/ryan-tibshirani
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T20:00:00Z
 tags: [researcher, conformal-prediction, statistics, machine-learning, uc-berkeley, cmu]

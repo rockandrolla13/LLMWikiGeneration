@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/emilie-calder
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai
 tags: []

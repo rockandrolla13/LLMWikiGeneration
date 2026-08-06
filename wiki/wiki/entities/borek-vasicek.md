@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/borek-vasicek
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 - sources/babecky-2014-developed-country-crisis-ewi

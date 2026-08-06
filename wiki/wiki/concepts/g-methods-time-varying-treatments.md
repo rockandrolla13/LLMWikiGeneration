@@ -8,7 +8,6 @@ page_id: concepts/g-methods-time-varying-treatments
 page_type: concept
 related:
 - concepts/causal-inference
-revision_id: 1
 sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []

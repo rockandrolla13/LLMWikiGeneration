@@ -5,7 +5,6 @@ page_id: concepts/deep-learning-for-finance
 page_type: concept
 related:
 - concepts/automated-alpha-search
-revision_id: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
 tags:

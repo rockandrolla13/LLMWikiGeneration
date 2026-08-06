@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/naomi-poole
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact

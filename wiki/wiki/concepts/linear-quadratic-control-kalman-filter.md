@@ -10,7 +10,6 @@ related:
 - concepts/kalman-filter
 - concepts/state-space-models
 - concepts/structural-vector-autoregression
-revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []

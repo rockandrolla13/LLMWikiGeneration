@@ -52,7 +52,6 @@ related:
 - concepts/temporal-cross-fitting
 - concepts/unconfoundedness-assumption
 - concepts/unmeasured-confounding-sensitivity-analysis
-revision_id: 3
 sources:
 - sources/koukorinis-2026-draci
 tags:

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/worldquant
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []

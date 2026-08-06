@@ -8,7 +8,6 @@ page_id: concepts/curse-of-dimensionality
 page_type: concept
 related:
 - concepts/high-dimensional-data
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:3d1a039c1a7ad988a64dad067bf8b5136c13382a0213d7b600e9bd8e95113d93
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy Corporate Hybrids
   Playbook — Srikanth Sankaran - 2015-11-16.md

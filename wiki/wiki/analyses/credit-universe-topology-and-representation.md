@@ -39,7 +39,6 @@ related:
 - sources/dong-2020-gsp-for-ml
 - sources/he-2024-functional-regression
 - sources/yu-2024-graph-learning-financial
-revision_id: 1
 sources:
 - sources/yu-2024-graph-learning-financial
 - sources/antonian-2024-graph-signal-processing

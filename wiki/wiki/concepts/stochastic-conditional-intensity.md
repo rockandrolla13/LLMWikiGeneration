@@ -2,7 +2,6 @@
 title: "Stochastic Conditional Intensity"
 page_id: concepts/stochastic-conditional-intensity
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [point-processes, latent-factors, bauwens-hautsch]

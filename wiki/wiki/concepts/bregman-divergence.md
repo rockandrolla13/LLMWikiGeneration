@@ -8,7 +8,6 @@ page_id: concepts/bregman-divergence
 page_type: concept
 related:
 - concepts/strictly-proper-scoring-rules
-revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []

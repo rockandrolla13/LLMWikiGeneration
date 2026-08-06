@@ -14,7 +14,6 @@ related:
 - concepts/look-ahead-bias
 - concepts/look-ahead-bias-data-mining
 - concepts/overfitting-in-alpha-research
-revision_id: 1
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []

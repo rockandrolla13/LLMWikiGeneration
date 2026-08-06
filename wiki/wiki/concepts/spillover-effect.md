@@ -10,7 +10,6 @@ related:
 - concepts/residual-momentum
 - concepts/twin-crises
 - sources/haesen-2017-momentum-spillover
-revision_id: 2
 tags:
 - momentum
 - spillover

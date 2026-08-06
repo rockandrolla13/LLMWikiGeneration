@@ -3,7 +3,6 @@ title: "Multifactor Timing with Deep Learning"
 page_id: sources/cotturo-2026-multifactor-timing-deep-learning
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Paul Cotturo, Fred Liu, Robert Proner]

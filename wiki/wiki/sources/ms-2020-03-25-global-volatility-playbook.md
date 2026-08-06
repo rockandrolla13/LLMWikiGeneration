@@ -23,7 +23,6 @@ related:
 - entities/serena-tang
 - entities/sheena-shah
 - entities/vishwas-patkar
-revision_id: 1
 source_hash: sha256:b221f412cd95358e2b1ed80e6eb26796a7bd921ed0ec28d110d20f9e6ed7f298
 source_path: raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global
   Volatility Playbook A Market of Many Extremes - 2020-03-25.md

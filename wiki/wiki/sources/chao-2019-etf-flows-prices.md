@@ -3,7 +3,6 @@ title: "Why Do ETF Flows Move Prices?"
 page_id: sources/chao-2019-etf-flows-prices
 page_type: source
 source_type: report
-revision_id: 1
 created: 2026-05-06T23:30:00Z
 updated: 2026-05-06T23:30:00Z
 authors: [Alex Chao, Ronnie Shah, Hallie Martin, Shuan Wei, Jessica Zhang]

@@ -3,7 +3,6 @@ title: "Trade Intensity and Liquidity"
 page_id: sources/brigida-2019-trade-intensity-liquidity
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Matt Brigida, William Pratt]

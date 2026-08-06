@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/karl-pearson
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why
 tags: []

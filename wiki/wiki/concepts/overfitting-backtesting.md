@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/behavioral-finance
 - concepts/trading-strategy-overfitting
-revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading
 tags: []

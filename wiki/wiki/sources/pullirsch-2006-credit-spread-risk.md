@@ -2,7 +2,6 @@
 title: "Measuring Credit-Spread Risk on a Single Issuer Basis"
 page_id: sources/pullirsch-2006-credit-spread-risk
 page_type: source
-revision_id: 1
 created: 2026-05-05T23:15:00Z
 updated: 2026-05-05T23:15:00Z
 tags: [creditETF, credit-spread-risk, zero-coupon-curves, VaR, bond-pricing]

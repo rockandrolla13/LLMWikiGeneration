@@ -3,7 +3,6 @@ title: "Mike Ludkovski"
 page_id: entities/mike-ludkovski
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 affiliation: UC Santa Barbara

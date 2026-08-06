@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-models
 - concepts/kalman-filter-state-space
-revision_id: 1
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []

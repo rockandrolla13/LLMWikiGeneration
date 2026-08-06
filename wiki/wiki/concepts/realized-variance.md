@@ -2,7 +2,6 @@
 title: "Realized Variance"
 page_id: concepts/realized-variance
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [high-frequency-data, volatility, integrated-variance]

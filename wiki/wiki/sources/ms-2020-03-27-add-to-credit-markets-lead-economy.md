@@ -24,7 +24,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:05d02deb7d5b936b9fa2938c6c78c3ddb456560e2dde7e843be3f0228d6f5105
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Add to Credit
   – and How Much Do Markets Lead the Economy - 2020-03-27.md

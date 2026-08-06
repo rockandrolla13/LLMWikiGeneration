@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/josef-lakonishok
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []

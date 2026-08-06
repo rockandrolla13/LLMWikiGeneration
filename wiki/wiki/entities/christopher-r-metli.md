@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/christopher-r-metli
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2011-05-06-differentiation-divergence
 tags: []

@@ -10,7 +10,6 @@ related:
 - concepts/additional-tier-1-capital
 - concepts/bank-resolution-bail-in
 - concepts/corporate-bonds
-revision_id: 1
 sources:
 - sources/ms-2019-04-18-mrel-subordination-brrd2
 tags: []

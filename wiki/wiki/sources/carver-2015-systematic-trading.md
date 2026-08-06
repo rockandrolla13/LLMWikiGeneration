@@ -19,7 +19,6 @@ related:
 - entities/daniel-kahneman
 - entities/harriman-house
 - entities/robert-carver
-revision_id: 1
 source_hash: sha256:43e1066fe7c787c6d88324eba2c853dd0f7bcd0739dc57bc5d7551d0b17d0bf2
 source_path: raw/creditmacro/Systematic Trading - A unique new method for designing
   trading and investing systems (Robert Carver) (z-library.sk, 1lib.sk, z-lib.sk).md

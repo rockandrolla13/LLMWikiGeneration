@@ -3,7 +3,6 @@ title: "Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynami
 page_id: sources/bodilsen-2025-hf-dynamic-factor-portfolio
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Simon T. Bodilsen]

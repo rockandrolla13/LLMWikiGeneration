@@ -3,7 +3,6 @@ title: Minh Trinh
 page_id: entities/minh-trinh
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-05T23:25:00Z
 updated: 2026-05-05T23:25:00Z
 tags: [creditETF, quantitative-credit, LBO-risk]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/hutchin-hill-capital
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []

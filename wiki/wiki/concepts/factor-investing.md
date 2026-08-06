@@ -31,7 +31,6 @@ related:
 - concepts/trend-following
 - concepts/value-premium
 - sources/houweling-2017-factor-investing
-revision_id: 4
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
 - sources/dickerson-2024-bond-pitfalls

@@ -31,7 +31,6 @@ related:
 - entities/michael-j-wilson
 - entities/morgan-stanley
 - entities/vishwanath-tirupattur
-revision_id: 1
 source_hash: sha256:34b9e0fae0b0e9693796524f24c20888b18754a5605101cf6cb712c686e3b161
 source_path: raw/creditmacro/Morgan Stanley - Global Cross-Asset Strategy — Global
   Insights Day 2019 – Polling Results - 2019-03-01.md

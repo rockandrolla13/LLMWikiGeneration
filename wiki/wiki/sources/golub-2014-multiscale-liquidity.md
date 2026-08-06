@@ -3,7 +3,6 @@ title: "Multi-scale Representation of High Frequency Market Liquidity"
 page_id: sources/golub-2014-multiscale-liquidity
 page_type: source
 source_type: preprint
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Anton Golub, Gregor Chliamovitch, Alexandre Dupuis, Bastien Chopard]

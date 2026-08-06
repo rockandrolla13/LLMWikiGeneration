@@ -3,7 +3,6 @@ title: Emmanuel Candès
 page_id: entities/emmanuel-candes
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-04-10T18:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [researcher, statistics, conformal-prediction, compressed-sensing]

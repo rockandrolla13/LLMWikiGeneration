@@ -5,7 +5,6 @@ page_id: concepts/principal-components-analysis
 page_type: concept
 related:
 - concepts/factor-models
-revision_id: 2
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

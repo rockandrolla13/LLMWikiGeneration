@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:205d1b78cb3c137a160de95822ea91fe7ef45a69270b4e577478284d055b3a8e
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy — IG Fundamentals
   In Good Shape - 2017-06-23.md

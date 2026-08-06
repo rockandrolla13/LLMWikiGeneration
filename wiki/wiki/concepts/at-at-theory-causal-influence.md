@@ -8,7 +8,6 @@ page_id: concepts/at-at-theory-causal-influence
 page_type: concept
 related:
 - concepts/causal-inference
-revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []

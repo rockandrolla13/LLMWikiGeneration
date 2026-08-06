@@ -3,7 +3,6 @@ title: "Revisiting stylised facts: information clock, persistence, long memory a
 page_id: sources/koukorinis-stylized-facts
 page_type: source
 source_type: working-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Andreas Koukorinis, Gareth W. Peters, Guido Germano]

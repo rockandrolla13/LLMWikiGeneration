@@ -10,7 +10,6 @@ related:
 - concepts/bayesian-updating
 - concepts/gaussian-processes
 - concepts/mcmc-bayesian-inference
-revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference
 tags: []

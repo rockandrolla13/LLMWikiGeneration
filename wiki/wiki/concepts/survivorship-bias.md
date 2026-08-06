@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/look-ahead-bias
-revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 - sources/ellenberg-2014-how-not-to-be-wrong

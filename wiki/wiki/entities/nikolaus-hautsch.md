@@ -3,7 +3,6 @@ title: "Nikolaus Hautsch"
 page_id: entities/nikolaus-hautsch
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [researcher]

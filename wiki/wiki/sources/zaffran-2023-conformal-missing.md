@@ -2,7 +2,6 @@
 title: "Conformal Prediction with Missing Values"
 page_id: sources/zaffran-2023-conformal-missing
 page_type: source
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [conformal-prediction, missing-data, imputation, quantile-regression, heteroskedasticity, mask-conditional-validity]

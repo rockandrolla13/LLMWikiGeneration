@@ -17,7 +17,6 @@ related:
 - concepts/mathematics-of-finance
 - entities/springer-nature
 - entities/zrinka-lukac
-revision_id: 1
 source_hash: sha256:71abff598c04924978386e061430ec634676e66526b3c01b90fdd8961cbf1405
 source_path: raw/creditmacro/Economic Analysis Through Mathematics Tools and Techniques
   for Decision Making (Zrinka Lukač) (z-library.sk, 1lib.sk, z-lib.sk).md

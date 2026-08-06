@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/credit-to-gdp-gap
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []

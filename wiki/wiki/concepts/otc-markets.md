@@ -2,7 +2,6 @@
 title: "Over-the-Counter Markets"
 page_id: concepts/otc-markets
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [market-microstructure, dealer-markets, bilateral-trading]

@@ -2,7 +2,6 @@
 title: "Quantile Processes for Dynamic Risk Modelling in Finance and Insurance"
 page_id: sources/peters-2026-quantile-diffusions
 page_type: source
-revision_id: 2
 created: 2026-05-15T22:00:00Z
 updated: 2026-05-24T20:15:00Z
 tags: [quantile-diffusions, tukey-gh, stochastic-processes, risk-modelling, insurance, actuarial-science]

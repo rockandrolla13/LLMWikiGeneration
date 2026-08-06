@@ -8,7 +8,6 @@ page_id: concepts/bias-variance-tradeoff
 page_type: concept
 related:
 - concepts/data-leakage
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

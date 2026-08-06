@@ -2,7 +2,6 @@
 title: "Kriging"
 page_id: concepts/kriging
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [spatial-statistics, geostatistics, interpolation, gaussian-processes]

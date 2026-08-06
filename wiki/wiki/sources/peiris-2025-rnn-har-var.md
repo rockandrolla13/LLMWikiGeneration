@@ -3,7 +3,6 @@ title: "Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-M
 page_id: sources/peiris-2025-rnn-har-var
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Rangika Peiris, Minh-Ngoc Tran, Chao Wang, Richard Gerlach]

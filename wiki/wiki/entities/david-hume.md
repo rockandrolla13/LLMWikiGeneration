@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-hume
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why
 - sources/salmon-1998-causality-and-explanation

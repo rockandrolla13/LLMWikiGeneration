@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
 - concepts/spread-per-turn-of-leverage
-revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []

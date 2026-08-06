@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/kelcie-gerson
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 - sources/ms-2019-06-28-fx-volatility-playbook

@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:56b097cc9c86f3ed009ccc46fa4859f4544ff2f9031f2a5339a8d5908c10effa
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the
   Flow First Quarter Recap - 2019-04-01.md

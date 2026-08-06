@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/forward-rate
 - concepts/government-bond-spreads
-revision_id: 1
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 tags: []

@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:6a1eb3dd27d6e96cc0b32f7b39f7afab8bcc875ba00f1c2434973f3addc65137
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook
   – March 2020 Brace for Recession - 2020.md

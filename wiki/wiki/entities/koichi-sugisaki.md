@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/koichi-sugisaki
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2016-03-22-xccy-basis-primer
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

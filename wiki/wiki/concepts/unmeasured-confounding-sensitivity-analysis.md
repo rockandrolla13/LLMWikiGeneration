@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/confounding
-revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference
 tags: []

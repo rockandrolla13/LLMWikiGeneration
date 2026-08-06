@@ -8,7 +8,6 @@ page_id: concepts/decision-trees
 page_type: concept
 related:
 - concepts/random-forest-proximity
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

@@ -3,7 +3,6 @@ title: Michael I. Jordan
 page_id: entities/michael-i-jordan
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [researcher, machine-learning, uc-berkeley, statistics, foundational, conformal-prediction]

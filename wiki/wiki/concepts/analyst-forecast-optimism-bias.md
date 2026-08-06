@@ -8,7 +8,6 @@ page_id: concepts/analyst-forecast-optimism-bias
 page_type: concept
 related:
 - concepts/behavioral-finance
-revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []

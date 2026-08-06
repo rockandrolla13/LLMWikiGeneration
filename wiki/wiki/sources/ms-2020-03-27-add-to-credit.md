@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:7b54a68b792f7304203079f2a1d0782510e60a3a1e0387afdc0f525195f7390b
 source_path: raw/creditmacro/Morgan Stanley - Add to Credit – and How Much Do Markets
   Lead the Economy - 2020-03-27.md

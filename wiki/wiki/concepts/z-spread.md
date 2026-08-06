@@ -2,7 +2,6 @@
 title: "Z-Spread"
 page_id: concepts/z-spread
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [fixed-income, credit-risk, bond-pricing, spreads]

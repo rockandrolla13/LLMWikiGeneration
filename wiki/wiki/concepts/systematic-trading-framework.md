@@ -8,7 +8,6 @@ page_id: concepts/systematic-trading-framework
 page_type: concept
 related:
 - concepts/algorithmic-trading
-revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading
 tags: []

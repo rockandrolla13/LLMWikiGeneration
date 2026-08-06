@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/credit-spread-puzzle
 - concepts/early-warning-indicators
-revision_id: 1
 sources:
 - sources/babecky-2014-developed-country-crisis-ewi
 tags: []

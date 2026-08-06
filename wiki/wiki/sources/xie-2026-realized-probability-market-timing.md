@@ -3,7 +3,6 @@ title: "Realized Probability Index is a Better Market Timing Indicator"
 page_id: sources/xie-2026-realized-probability-market-timing
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Haibin Xie, Boyao Wu, Yuying Sun, Shouyang Wang]

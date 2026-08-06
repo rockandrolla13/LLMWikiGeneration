@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:2d917f34bb2b2bf34e5547f43b93aafae318a32d045c932373163aa85ee88c13
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Are You Sure
   That's 'Low Beta' - 2019-04-14.md

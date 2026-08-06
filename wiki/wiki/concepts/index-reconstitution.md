@@ -2,7 +2,6 @@
 title: "Index Reconstitution"
 page_id: concepts/index-reconstitution
 page_type: concept
-revision_id: 1
 created: 2026-05-06T23:35:00Z
 updated: 2026-05-06T23:35:00Z
 tags: [etf, index-investing, passive-investing, price-impact, russell-reconstitution]

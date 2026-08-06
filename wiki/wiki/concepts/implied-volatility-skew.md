@@ -8,7 +8,6 @@ page_id: concepts/implied-volatility-skew
 page_type: concept
 related:
 - concepts/risk-premia
-revision_id: 2
 sources:
 - sources/bhansali-2018-right-tail-hedging
 - sources/ms-2019-06-28-fx-volatility-playbook

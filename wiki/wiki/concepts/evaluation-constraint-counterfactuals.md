@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/evaluation-constraint-counterfactuals
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability
 tags: []

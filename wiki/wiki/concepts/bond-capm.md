@@ -2,7 +2,6 @@
 title: "Bond CAPM"
 page_id: concepts/bond-capm
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [fixed-income, asset-pricing, factor-models, risk-premium]

@@ -22,7 +22,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:493ebd600ebcc93b5ddd37ed8e2390a419371ff234f401f013638a9fa2dcb19a
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy What We’re
   Watching — Andrew Sheets - 2012-03-12.md

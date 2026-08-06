@@ -16,7 +16,6 @@ related:
 - entities/chetan-ahya
 - entities/michael-zezas
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:d0315bc33783931c17138c583873a7851bea93c0b642d004a12619634b0b82c4
 source_path: raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — Andrew
   Sheets - nd.md

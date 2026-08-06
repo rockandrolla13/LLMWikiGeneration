@@ -2,7 +2,6 @@
 title: Conformal Prediction for Graph Data
 page_id: concepts/cp-for-graphs
 page_type: concept
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, graph-neural-networks, node-classification, link-prediction, fdr-control]

@@ -2,7 +2,6 @@
 title: Multi-step Conformal Prediction
 page_id: concepts/multi-step-conformal-prediction
 page_type: concept
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, time-series, multi-step-forecasting, uncertainty-quantification]

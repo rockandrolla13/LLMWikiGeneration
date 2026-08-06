@@ -8,7 +8,6 @@ page_id: concepts/yield-curve-steepeners-flatteners
 page_type: concept
 related:
 - concepts/term-structure-risk-premium
-revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 tags: []

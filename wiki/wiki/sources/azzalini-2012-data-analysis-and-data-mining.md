@@ -20,7 +20,6 @@ related:
 - entities/adelchi-azzalini
 - entities/bruno-scarpa
 - entities/oxford-university-press
-revision_id: 1
 source_hash: sha256:2d781fb8503063db895fdc4636595960fc59772341f41aee5df3d2cf69642381
 source_path: raw/creditmacro/Data Analysis and Data Mining An Introduction (Azzalini
   A., Scarpa B.) (z-library.sk, 1lib.sk, z-lib.sk).md

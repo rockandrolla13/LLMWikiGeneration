@@ -5,7 +5,6 @@ mind_map_priority: medium
 page_id: entities/yakov-amihud
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 - sources/kapadia-2012-limited-arbitrage-equity-credit

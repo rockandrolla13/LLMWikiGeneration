@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/four-way-effect-decomposition
-revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why
 - sources/vanderweele-2015-explanation-causal-inference

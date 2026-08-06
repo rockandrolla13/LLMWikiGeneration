@@ -2,7 +2,6 @@
 title: Exchangeability
 page_id: concepts/exchangeability
 page_type: concept
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 tags: [probability-theory, statistical-assumption, conformal-prediction]

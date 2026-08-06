@@ -2,7 +2,6 @@
 title: "Multivariate Realized Kernel"
 page_id: concepts/multivariate-realized-kernel
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [high-frequency-data, kernel-estimation, realized-covariance]

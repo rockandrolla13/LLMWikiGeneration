@@ -10,7 +10,6 @@ related:
 - concepts/agent-based-models
 - concepts/causal-inference
 - concepts/chaos-theory
-revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/meadows-2008-thinking-in-systems

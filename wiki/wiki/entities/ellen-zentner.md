@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/ellen-zentner
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-01-11-balance-sheet-normalization
 - sources/ms-2020-03-27-fiscal-package-unemployment

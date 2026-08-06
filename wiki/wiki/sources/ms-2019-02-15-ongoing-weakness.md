@@ -24,7 +24,6 @@ related:
 - entities/joao-almeida
 - entities/matthew-pennill
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:1d19fb733115dfb4c73d28b220249414a5662e1390e76dd8b6266261c4e460f5
 source_path: raw/creditmacro/Morgan Stanley - European Economics Weekly — Ongoing
   Weakness - 2019-02-15.md

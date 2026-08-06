@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/john-mctaggart
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation
 tags: []

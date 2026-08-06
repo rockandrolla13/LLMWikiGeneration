@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/adam-virgadamo
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-04-29-melt-up-skepticism
 tags: []

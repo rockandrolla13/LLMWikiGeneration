@@ -3,7 +3,6 @@ title: "Exact and Approximate Conformal Inference for Multi-Output Regression"
 page_id: sources/johnstone-2025-multioutput
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 authors: [Chancellor Johnstone, Eugene Ndiaye]

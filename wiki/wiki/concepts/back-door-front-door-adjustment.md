@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/double-machine-learning
-revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why
 tags: []

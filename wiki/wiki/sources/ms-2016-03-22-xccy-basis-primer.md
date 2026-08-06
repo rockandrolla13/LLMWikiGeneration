@@ -16,7 +16,6 @@ related:
 - entities/alexander-wojt
 - entities/koichi-sugisaki
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:7b0d1dc95865649288fe0f240a780d02f3ac7f95e1fb4e9aa6571758c31edc56
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategy — Note
   Information as of Match 22, 2016, unless otherwise indicated. - 2016.md

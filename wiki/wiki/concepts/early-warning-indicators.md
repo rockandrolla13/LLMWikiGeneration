@@ -10,7 +10,6 @@ related:
 - concepts/banking-crisis-early-warning-indicators
 - concepts/sovereign-debt-crisis
 - concepts/spillover-effect
-revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []

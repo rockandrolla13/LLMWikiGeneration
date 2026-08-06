@@ -2,7 +2,6 @@
 title: Distribution Drift
 page_id: concepts/distribution-drift
 page_type: concept
-revision_id: 1
 created: 2026-04-26 12:00:00+00:00
 updated: '2026-05-17T16:44:06Z'
 tags:

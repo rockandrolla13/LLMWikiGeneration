@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/enrique-salvador
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 tags: []

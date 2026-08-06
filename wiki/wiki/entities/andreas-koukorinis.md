@@ -7,7 +7,6 @@ related:
 - concepts/conformal-prediction
 - concepts/doubly-robust-estimation
 - concepts/adaptive-conformal-inference
-revision_id: 2
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 - sources/koukorinis-2024-xantium-business-plan

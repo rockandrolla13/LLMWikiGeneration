@@ -25,7 +25,6 @@ related:
 - entities/koichi-sugisaki
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:738f9d1e59842a0183ce625e5f9dba407b53b5b4b9da5e9ae8a9b794d2a8f626
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Government
   Bonds - 2019-03-15.md

@@ -25,7 +25,6 @@ related:
 - concepts/sovereign-debt-crisis
 - concepts/sovereign-debt-sustainability
 - concepts/term-structure-risk-premium
-revision_id: 3
 sources:
 - sources/boffelli-2017-euro-bond-spread-correlations
 - sources/ms-2008-08-28-gilt-futures-ctd-option

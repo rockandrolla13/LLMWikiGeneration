@@ -17,7 +17,6 @@ related:
 - entities/european-central-bank
 - entities/joao-almeida
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:7610b7f37297b7dd8062f2da20d86d970a84003f57da74f8b43694e7f2eea71a
 source_path: raw/creditmacro/Morgan Stanley - ECB Preview — TLTRO Funding on its Way
   - 2019-02-28.md

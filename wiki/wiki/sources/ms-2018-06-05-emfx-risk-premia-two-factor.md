@@ -15,7 +15,6 @@ related:
 - concepts/risk-premia
 - entities/andres-jaime
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:f7f3f6e2f3a57ca0bc6c3ad4be62d7fada20875121e93d8f08758272880b0e20
 source_path: raw/creditmacro/Morgan Stanley - Assessing Risk Premia in EMFX (Part
   1) A Two-Factor Model Approach - 2018-06-05.md

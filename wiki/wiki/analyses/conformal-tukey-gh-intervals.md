@@ -2,7 +2,6 @@
 title: "Conformal Prediction with Tukey g-h Transformation"
 page_id: analyses/conformal-tukey-gh-intervals
 page_type: analysis
-revision_id: 3
 created: 2026-04-26T03:30:00Z
 updated: 2026-05-15T00:00:00Z
 tags: [conformal-prediction, tukey-gh, prediction-intervals, heavy-tails, uncertainty-quantification, research-idea]

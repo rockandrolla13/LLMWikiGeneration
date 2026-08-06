@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/runs-test-growth-consistency
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []

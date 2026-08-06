@@ -17,7 +17,6 @@ related:
 - entities/matthew-hornbach
 - entities/morgan-stanley
 - entities/sam-elprince
-revision_id: 1
 source_hash: sha256:3f2848c0c9301e736b459a6606ca70b300bf0c34c1b6e73250c0875402981963
 source_path: raw/creditmacro/Morgan Stanley - Correction US Interest Rate Strategy
   — Funding Market Signals - 2018-04-05.md

@@ -3,7 +3,6 @@ title: "Uncertainty Sets for Image Classifiers using Conformal Prediction"
 page_id: sources/angelopoulos-2021-raps
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Anastasios N. Angelopoulos", "Stephen Bates", "Jitendra Malik", "Michael I. Jordan"]

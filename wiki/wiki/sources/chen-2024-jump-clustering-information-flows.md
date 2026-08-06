@@ -3,7 +3,6 @@ title: "Jump Clustering, Information Flows, and Stock Price Efficiency"
 page_id: sources/chen-2024-jump-clustering-information-flows
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Jian Chen]

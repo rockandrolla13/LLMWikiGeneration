@@ -8,7 +8,6 @@ page_id: concepts/self-stabilizing-inflation-regime
 page_type: concept
 related:
 - concepts/great-moderation
-revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis
 tags: []

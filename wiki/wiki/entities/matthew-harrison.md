@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/matthew-harrison
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2020-03-27-add-to-credit-markets-lead-economy
 tags: []

@@ -5,7 +5,6 @@ page_id: concepts/prospect-theory
 page_type: concept
 related:
 - concepts/disposition-effect
-revision_id: 2
 sources:
 - sources/nolte-2011-fx-latent-factor-panel-intensity
 tags:

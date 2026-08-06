@@ -15,7 +15,6 @@ related:
 - concepts/potential-outcomes
 - concepts/propensity-score
 - concepts/unmeasured-confounding-sensitivity-analysis
-revision_id: 2
 sources:
 - sources/gentzel-2021-osrct-evaluation
 - sources/pearl-2018-book-of-why

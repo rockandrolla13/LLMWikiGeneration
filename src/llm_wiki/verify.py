@@ -173,7 +173,7 @@ def verify_directory_structure(wiki: Wiki) -> VerificationResult:
 
 def verify_page_frontmatter(wiki: Wiki) -> VerificationResult:
     """Verify all pages have required frontmatter fields."""
-    required_fields = ["title", "page_id", "page_type", "revision_id"]
+    required_fields = ["title", "page_id", "page_type"]
     issues = []
 
     for page_path in wiki.list_pages():

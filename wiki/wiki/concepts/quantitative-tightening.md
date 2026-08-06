@@ -11,7 +11,6 @@ related:
 - concepts/great-moderation
 - concepts/monetary-transmission-mechanism
 - concepts/quantitative-easing
-revision_id: 2
 sources:
 - sources/ms-2018-11-02-at1-primer-extension-par-calls
 - sources/ms-2019-01-11-balance-sheet-normalization

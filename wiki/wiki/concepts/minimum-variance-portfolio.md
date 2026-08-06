@@ -14,7 +14,6 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-targeting
 - concepts/volatility-targeting-position-sizing
-revision_id: 3
 sources:
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio
 tags:

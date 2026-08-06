@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-goldstein
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []

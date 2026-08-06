@@ -24,7 +24,6 @@ related:
 - concepts/regime-switching-models
 - concepts/relative-value-spread-trading
 - concepts/systematic-credit-relative-value
-revision_id: 3
 sources:
 - sources/he-2023-hf-pairs-chinese-futures
 - sources/montana-2009-flexible-least-squares

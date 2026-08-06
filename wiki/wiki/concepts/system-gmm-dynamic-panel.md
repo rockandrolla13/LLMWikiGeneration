@@ -8,7 +8,6 @@ page_id: concepts/system-gmm-dynamic-panel
 page_type: concept
 related:
 - concepts/structural-vector-autoregression
-revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 tags: []

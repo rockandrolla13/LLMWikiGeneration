@@ -3,7 +3,6 @@ title: "The credit curve spread I: Fundamental concepts, fitting, par-adjusted s
 page_id: sources/martin-2024-credit-curve
 page_type: source
 source_type: working-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Richard J. Martin]

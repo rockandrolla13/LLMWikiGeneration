@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:2b5d1018e82e057258b49eed9f5120379d1845da17929c44c1822805c127d830
 source_path: raw/creditmacro/Morgan Stanley - Highlights from January — GLOBAL EQUITIES
   - 2019-02-01.md

@@ -2,7 +2,6 @@
 title: KOWCPI
 page_id: concepts/kowcpi
 page_type: concept
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, time-series, kernel-methods, uncertainty-quantification, nonparametric-statistics]

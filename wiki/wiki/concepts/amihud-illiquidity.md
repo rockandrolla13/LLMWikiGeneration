@@ -2,7 +2,6 @@
 title: "Amihud Illiquidity"
 page_id: concepts/amihud-illiquidity
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [liquidity, market-microstructure, price-impact]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-robins
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/hernan-2020-causal-inference-what-if
 - sources/hill-2011-bart-causal-inference

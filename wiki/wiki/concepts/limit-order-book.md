@@ -2,7 +2,6 @@
 title: "Limit Order Book"
 page_id: concepts/limit-order-book
 page_type: concept
-revision_id: 3
 created: 2026-04-25T22:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [market-microstructure, trading, order-flow, price-discovery, liquidity]

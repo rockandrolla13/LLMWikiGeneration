@@ -3,7 +3,6 @@ title: "Classification with Valid and Adaptive Coverage"
 page_id: sources/romano-2020-aps
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Yaniv Romano", "Matteo Sesia", "Emmanuel J. Candès"]

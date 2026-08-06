@@ -10,7 +10,6 @@ related:
 - concepts/etf-flows
 - concepts/factor-investing
 - concepts/market-timing
-revision_id: 1
 sources:
 - sources/mercado-2015-taarss-flow-whisperer
 tags: []

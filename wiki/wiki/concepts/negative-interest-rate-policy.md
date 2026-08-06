@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/negative-interest-rate-policy
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []

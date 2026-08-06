@@ -2,7 +2,6 @@
 title: "Gegenbauer Processes"
 page_id: concepts/gegenbauer-processes
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [time-series, long-memory, spectral-analysis, econometrics]

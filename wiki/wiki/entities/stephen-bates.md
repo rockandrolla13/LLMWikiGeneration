@@ -3,7 +3,6 @@ title: Stephen Bates
 page_id: entities/stephen-bates
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [researcher, conformal-prediction, statistics, uncertainty-quantification]

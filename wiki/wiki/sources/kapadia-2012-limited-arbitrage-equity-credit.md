@@ -21,7 +21,6 @@ related:
 - entities/robert-merton
 - entities/xiaoling-pu
 - entities/yakov-amihud
-revision_id: 1
 source_hash: sha256:b6d2f7f14545bf8f95504359efa7cd5df61673aa131dbe1a100169be94a12c28
 source_path: raw/creditmacro/1-s2.0-S0304405X12000670-main.md
 source_type: paper

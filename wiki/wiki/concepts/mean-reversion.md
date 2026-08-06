@@ -33,7 +33,6 @@ related:
 - concepts/term-structure-risk-premium
 - concepts/trend-following
 - concepts/value-premium
-revision_id: 3
 sources:
 - sources/moura-2016-pairs-trading-kalman
 - sources/ms-2011-03-28-high-grade-mid-cycle

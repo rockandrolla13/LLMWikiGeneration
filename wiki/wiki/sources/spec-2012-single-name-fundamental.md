@@ -2,7 +2,6 @@
 title: "Specification Draft: Single Name Fundamental Analysis"
 page_id: sources/spec-2012-single-name-fundamental
 page_type: source
-revision_id: 1
 created: 2026-05-05T23:15:00Z
 updated: 2026-05-05T23:15:00Z
 tags: [creditETF, credit-analysis, fundamental-analysis, relative-value]

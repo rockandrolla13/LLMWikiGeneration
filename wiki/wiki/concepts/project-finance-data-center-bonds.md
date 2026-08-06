@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
-revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 tags: []

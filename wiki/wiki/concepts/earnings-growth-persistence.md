@@ -8,7 +8,6 @@ page_id: concepts/earnings-growth-persistence
 page_type: concept
 related:
 - concepts/mean-reversion
-revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 tags: []

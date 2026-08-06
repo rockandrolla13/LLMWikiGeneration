@@ -3,7 +3,6 @@ title: "Statistical Predictions of Trading Strategies in Electronic Markets"
 page_id: sources/cartea-2025-statistical-predictions-trading
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Alvaro Cartea, Samuel N. Cohen, Robert Graumans, Saad Labyad, Leandro Sanchez-Betancourt, Leon van Veldhuijzen]

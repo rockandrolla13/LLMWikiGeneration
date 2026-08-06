@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/automated-alpha-search
 - concepts/splines-and-additive-models
-revision_id: 2
 sources:
 - sources/huyen-2022-designing-ml-systems
 tags:

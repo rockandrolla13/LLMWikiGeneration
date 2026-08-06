@@ -22,7 +22,6 @@ related:
 - entities/jesper-rooth
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:b2fd47dc91dcb77ebb2228bfaa5788a779fc8fe9848a129b75f1f88326ca245e
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategy — Introducing
   BMI(2) and xBMI, Improving BMI(10) and iBMI - 2017-06-15.md

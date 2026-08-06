@@ -18,7 +18,6 @@ related:
 - concepts/quantitative-easing
 - concepts/risk-premia
 - concepts/yield-curve-steepeners-flatteners
-revision_id: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 - sources/ms-2010-09-15-em-quantitative-quarterly

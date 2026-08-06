@@ -23,7 +23,6 @@ related:
 - entities/paolo-batori
 - entities/rashique-rahman
 - entities/rogerio-oliveira
-revision_id: 1
 source_hash: sha256:0f38e9cd410e1642f7af8a8167f0bc46d20b90114a01b9eb92a3296b532998f8
 source_path: raw/creditmacro/Morgan Stanley - Emerging Markets Quantitative Quarterly
   — EM Fixed Income and Foreign Exchange Strategy - 2010.md

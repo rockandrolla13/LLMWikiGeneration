@@ -3,7 +3,6 @@ title: "Algorithmic Learning in a Random World"
 page_id: sources/vovk-2005-algorithmic-learning
 page_type: source
 source_type: book
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 authors: ["Vladimir Vovk", "Alexander Gammerman", "Glenn Shafer"]

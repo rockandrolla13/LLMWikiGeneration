@@ -16,7 +16,6 @@ related:
 - concepts/systematic-credit-relative-value
 - entities/andreas-koukorinis
 - entities/xantium
-revision_id: 1
 source_hash: sha256:5620d7a2b54082356e8b54953ff368d23f503fad9fe9918c6af0267d1cd9b411
 source_path: raw/creditmacro/XantimumBizPlan.md
 source_type: notes

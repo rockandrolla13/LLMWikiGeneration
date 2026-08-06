@@ -25,7 +25,6 @@ related:
 - concepts/tail-risk-premium
 - concepts/value-premium
 - concepts/wealth-inequality-financialized-capitalism
-revision_id: 3
 sources:
 - sources/ms-2016-06-15-1937-38-redux
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers

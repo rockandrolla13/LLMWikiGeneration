@@ -12,7 +12,6 @@ related:
 - concepts/mark-to-market-credit-hedging
 - concepts/option-implied-credit-information
 - concepts/z-spread
-revision_id: 3
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 - sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging

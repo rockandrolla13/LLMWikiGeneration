@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/christopher-piros
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 tags: []

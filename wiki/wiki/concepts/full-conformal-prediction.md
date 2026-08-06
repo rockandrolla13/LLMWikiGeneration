@@ -2,7 +2,6 @@
 title: Full (Transductive) Conformal Prediction
 page_id: concepts/full-conformal-prediction
 page_type: concept
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 tags: [conformal-prediction, transductive, full-cp]

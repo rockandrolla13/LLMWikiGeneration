@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/carry-rolldown
 - concepts/risk-premia
-revision_id: 1
 sources:
 - sources/ms-2018-11-05-trading-risk-premia-emfx-virp
 - sources/ms-2019-02-11-emfx-quants-lab-steady-path

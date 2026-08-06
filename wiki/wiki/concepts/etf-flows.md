@@ -16,7 +16,6 @@ related:
 - concepts/mean-reversion
 - concepts/non-fundamental-demand-shocks
 - concepts/order-imbalance
-revision_id: 3
 sources:
 - sources/chao-2019-etf-flows-prices
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits

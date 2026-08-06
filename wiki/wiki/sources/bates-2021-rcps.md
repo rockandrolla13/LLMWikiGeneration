@@ -3,7 +3,6 @@ title: "Distribution-Free, Risk-Controlling Prediction Sets"
 page_id: sources/bates-2021-rcps
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Stephen Bates", "Anastasios Angelopoulos", "Lihua Lei", "Jitendra Malik", "Michael I. Jordan"]

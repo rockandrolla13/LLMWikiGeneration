@@ -3,7 +3,6 @@ title: "Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their
 page_id: sources/petit-2025-data-driven-flow-etf
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-06T23:30:00Z
 updated: 2026-05-06T23:30:00Z
 authors: [Nicolas Petit, Mihai Cucuringu, Alvaro Cartea]

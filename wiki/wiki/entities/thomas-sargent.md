@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/thomas-sargent
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []

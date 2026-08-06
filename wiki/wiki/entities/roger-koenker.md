@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/roger-koenker
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules
 tags: []

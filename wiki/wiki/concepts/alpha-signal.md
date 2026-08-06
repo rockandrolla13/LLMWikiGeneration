@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/factor-investing
 - concepts/statistical-arbitrage
-revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas
 tags: []

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/wanting-low
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2016-09-27-momentum-for-diversification
 - sources/ms-2018-11-01-cross-asset-october-recap

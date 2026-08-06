@@ -2,7 +2,6 @@
 title: "Stock Price Efficiency"
 page_id: concepts/stock-price-efficiency
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [market-efficiency, information-flows, price-delay]

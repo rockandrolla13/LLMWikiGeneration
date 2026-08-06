@@ -2,7 +2,6 @@
 title: "Credibility Theory"
 page_id: concepts/credibility-theory
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [actuarial-science, statistics, bayesian-methods, insurance]

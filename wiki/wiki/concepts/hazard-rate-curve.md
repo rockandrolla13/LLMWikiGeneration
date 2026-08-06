@@ -8,7 +8,6 @@ related:
 - concepts/market-implied-ratings
 - concepts/reduced-form-credit-models
 - concepts/survival-probability
-revision_id: 2
 sources:
 - sources/ubs-2012-next-gen-credit-curves
 tags:

@@ -20,7 +20,6 @@ related:
 - entities/james-lord
 - entities/morgan-stanley
 - entities/pasquale-diana
-revision_id: 1
 source_hash: sha256:e41374bf6d8658d32128694053a1b5bc42e3c9313bd330d97f6162284e0fd416
 source_path: raw/creditmacro/Morgan Stanley - One Size Doesn't Fit All - 2019-02-13.md
 source_type: article

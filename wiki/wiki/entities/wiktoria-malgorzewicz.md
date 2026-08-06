@@ -3,7 +3,6 @@ title: Wiktoria Małgorzewicz
 page_id: entities/wiktoria-malgorzewicz
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 tags: [researcher, conformal-prediction, time-series]

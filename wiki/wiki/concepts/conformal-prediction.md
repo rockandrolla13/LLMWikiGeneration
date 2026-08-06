@@ -2,7 +2,6 @@
 title: Conformal Prediction
 page_id: concepts/conformal-prediction
 page_type: concept
-revision_id: 3
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [uncertainty-quantification, prediction-intervals, machine-learning]

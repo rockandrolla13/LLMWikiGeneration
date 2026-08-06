@@ -15,7 +15,6 @@ related:
 - concepts/residual-momentum
 - concepts/risk-premia
 - concepts/trend-following
-revision_id: 2
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/ms-2016-09-27-momentum-for-diversification

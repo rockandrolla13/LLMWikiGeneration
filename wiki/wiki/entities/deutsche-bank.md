@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/deutsche-bank
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/mercado-2015-taarss-flow-whisperer

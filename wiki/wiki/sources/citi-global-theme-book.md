@@ -9,7 +9,6 @@ publication_date: null
 publication_venue: Citigroup Global Markets
 related:
 - entities/citigroup
-revision_id: 1
 source_hash: sha256:56d690c46f29b0ed64a7bde3da827b776c9420920214f2df7a341b78fd0aa446
 source_path: raw/creditmacro/citi global theme book.md
 source_type: article

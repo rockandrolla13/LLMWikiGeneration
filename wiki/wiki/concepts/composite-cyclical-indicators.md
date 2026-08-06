@@ -8,7 +8,6 @@ page_id: concepts/composite-cyclical-indicators
 page_type: concept
 related:
 - concepts/factor-models
-revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery
 tags: []

@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/government-bond-spreads
 - concepts/liquidity-risk
-revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 tags: []

@@ -2,7 +2,6 @@
 title: Tree of Thoughts
 page_id: concepts/tree-of-thoughts
 page_type: concept
-revision_id: 1
 created: '2026-05-17T16:44:06Z'
 updated: '2026-05-17T16:44:06Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17

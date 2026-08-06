@@ -25,7 +25,6 @@ related:
 - entities/koichi-sugisaki
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:a7c2aa3d6d113179d13866907f5eae24d41664aaefa67f8e7c21d9c0edc68a58
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Don't
   Miss the Bull Market - 2019-02-09.md

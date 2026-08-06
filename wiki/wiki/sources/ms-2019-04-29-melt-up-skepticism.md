@@ -24,7 +24,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:b98615ceb24ca7c7ab8bc8b1a416f484bfaa7c20544361550f05c04740a872f2
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Melting Up
   Is Hard to Do - nd.md

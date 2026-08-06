@@ -2,7 +2,6 @@
 title: Multi-Distribution Robust Conformal Prediction
 page_id: concepts/multi-distribution-robust-cp
 page_type: concept
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [conformal-prediction, robustness, fairness, multi-source, distribution-shift]

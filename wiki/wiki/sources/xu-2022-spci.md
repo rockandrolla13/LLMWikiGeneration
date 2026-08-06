@@ -2,7 +2,6 @@
 title: "Sequential Predictive Conformal Inference for Time Series"
 page_id: sources/xu-2022-spci
 page_type: source
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, time-series, quantile-regression, sequential-prediction]

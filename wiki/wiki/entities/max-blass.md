@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/max-blass
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2015-11-16-corporate-hybrids-playbook
 - sources/ms-2017-06-23-hy-leveraged-finance-playbook

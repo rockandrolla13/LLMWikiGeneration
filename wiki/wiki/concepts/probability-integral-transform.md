@@ -9,7 +9,6 @@ related:
 - concepts/distributional-conformal-prediction
 - concepts/marginal-copula-score
 - concepts/quantile-regression
-revision_id: 2
 sources:
 - sources/chernozhukov-2021-distributional-cp
 tags:

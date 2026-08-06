@@ -29,7 +29,6 @@ related:
 - concepts/confounding
 - concepts/back-door-front-door-adjustment
 - concepts/instrumental-variables
-revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 - sources/kapadia-2012-limited-arbitrage-equity-credit

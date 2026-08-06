@@ -3,7 +3,6 @@ title: "A Review and Comparative Analysis of Univariate Conformal Regression Met
 page_id: sources/bao-2025-review
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 authors: [Jie Bao, Nicolo Colombo, Valery Manokhin, Suqun Cao, Rui Luo]

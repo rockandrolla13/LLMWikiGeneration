@@ -3,7 +3,6 @@ title: "Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temp
 page_id: sources/koukorinis-2026-draci
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-04-28T12:45:00Z
 updated: 2026-04-28T12:45:00Z
 authors: [Andreas Koukorinis]

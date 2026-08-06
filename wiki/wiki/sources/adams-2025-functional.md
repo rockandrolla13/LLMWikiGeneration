@@ -3,7 +3,6 @@ title: "Conformal Anomaly Detection for Functional Data with Elastic Distance Me
 page_id: sources/adams-2025-functional
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 authors: [Jason Adams, Brandon Berman, Joshua Michalenko, J. Derek Tucker]

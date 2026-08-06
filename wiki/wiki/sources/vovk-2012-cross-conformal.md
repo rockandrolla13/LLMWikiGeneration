@@ -3,7 +3,6 @@ title: "Cross-conformal predictors"
 page_id: sources/vovk-2012-cross-conformal
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 authors: ["Vladimir Vovk"]

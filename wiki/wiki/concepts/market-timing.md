@@ -23,7 +23,6 @@ related:
 - concepts/strategy-robustness
 - concepts/taarss
 - concepts/trend-following
-revision_id: 3
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2018-04-16-credit-bmi-update

@@ -21,7 +21,6 @@ related:
 - entities/john-maynard-keynes
 - entities/ludwig-von-mises
 - entities/routledge
-revision_id: 1
 source_hash: sha256:eff9ba5a06ef018bcb42938a586d1a50e2ad1cb0f2fadd33b0409bf905a9142c
 source_path: raw/creditmacro/Monetary Policy after the Great Recession  the role of
   interest rates (Arkadiusz Sieroń) (z-library.sk, 1lib.sk, z-lib.sk).md

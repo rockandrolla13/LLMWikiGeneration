@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sarah-wolfe
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 tags: []

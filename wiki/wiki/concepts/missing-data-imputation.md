@@ -9,7 +9,6 @@ related:
 - concepts/ip-weighting-marginal-structural-models
 - concepts/mask-conditional-validity
 - entities/julie-josse
-revision_id: 2
 sources:
 - sources/zaffran-2023-conformal-missing
 tags:

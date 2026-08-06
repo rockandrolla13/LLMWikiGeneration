@@ -3,7 +3,6 @@ title: Google Gemini
 page_id: entities/google-gemini
 page_type: entity
 entity_type: tool
-revision_id: 1
 created: '2026-05-17T16:44:06Z'
 updated: '2026-05-17T16:44:06Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17

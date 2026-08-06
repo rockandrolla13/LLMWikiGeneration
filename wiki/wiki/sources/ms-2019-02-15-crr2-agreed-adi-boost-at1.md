@@ -15,7 +15,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:21540fd9a8496429bc86fe2bf772a339488778e8a05a16190edeb85c4c08a6d0
 source_path: raw/creditmacro/Morgan Stanley - European Banks — CRR2 Agreed; ADI Boost
   for AT1 - 2019-02-15.md

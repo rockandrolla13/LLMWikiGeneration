@@ -3,7 +3,6 @@ title: "Incorporating hierarchical credibility theory into modelling of multi-co
 page_id: sources/tsai-2020-hierarchical-mortality
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Cary Chi-Liang Tsai, Adelaide Di Wu]

@@ -24,7 +24,6 @@ related:
 - entities/jim-reid
 - entities/karthik-nagalingam
 - entities/steve-caprio
-revision_id: 1
 source_hash: sha256:6acf1e3f8bc51ee639e0f768b504d3564c88c18596fa56d3cb5a2a196876e0b6
 source_path: raw/creditmacro/Steady, but AI.md
 source_type: article

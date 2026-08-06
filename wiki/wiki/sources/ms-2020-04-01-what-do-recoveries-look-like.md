@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/naomi-poole
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:e897cec48f3c0df3dcbcc5dfec07abfd10ffe8a520444dd55c650aa36a29ec71
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — What Do Recoveries
   Usually Look Like - 2020-04-01.md

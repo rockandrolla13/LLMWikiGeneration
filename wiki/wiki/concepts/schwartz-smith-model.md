@@ -2,7 +2,6 @@
 title: "Schwartz-Smith Model"
 page_id: concepts/schwartz-smith-model
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [commodities, futures-pricing, term-structure, factor-models]

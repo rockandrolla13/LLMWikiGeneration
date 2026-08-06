@@ -3,7 +3,6 @@ title: Andre F.T. Martins
 page_id: entities/andre-martins
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [researcher, nlp, machine-learning, uncertainty-quantification, conformal-prediction]

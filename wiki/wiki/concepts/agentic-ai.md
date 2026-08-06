@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/ai-capex-funding
 - concepts/ai-disruption-software-business-models
-revision_id: 2
 sources:
 - sources/thomas-2025-ai-value-creators
 tags:

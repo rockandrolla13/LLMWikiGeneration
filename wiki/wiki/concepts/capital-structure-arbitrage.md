@@ -11,7 +11,6 @@ related:
 - concepts/liquidity-risk
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
-revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 - sources/kapadia-2012-limited-arbitrage-equity-credit

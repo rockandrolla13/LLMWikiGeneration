@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:630423f0af4bf259f4a3f68175a900dd28f6376762da0a37ed1dfd220119a8db
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook
   – January 2019 Turning Points Intact - 2019-01-13.md

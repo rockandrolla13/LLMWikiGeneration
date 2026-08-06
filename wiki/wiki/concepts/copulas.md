@@ -8,7 +8,6 @@ related:
 - concepts/copula-sklar-theorem
 - concepts/multi-step-conformal-prediction
 - concepts/uncertainty-quantification
-revision_id: 2
 sources:
 - sources/sun-2022-copula-cpts
 tags:

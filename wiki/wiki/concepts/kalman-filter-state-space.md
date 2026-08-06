@@ -10,7 +10,6 @@ related:
 - concepts/kalman-filter
 - concepts/one-factor-term-structure-model
 - concepts/panel-data-fixed-random-effects
-revision_id: 1
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []

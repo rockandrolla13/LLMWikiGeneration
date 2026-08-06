@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/bounded-rationality
 - concepts/systems-thinking
-revision_id: 2
 sources:
 - sources/cartea-2025-statistical-predictions-trading
 tags:

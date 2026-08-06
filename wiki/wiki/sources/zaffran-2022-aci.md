@@ -3,7 +3,6 @@ title: "Adaptive Conformal Predictions for Time Series"
 page_id: sources/zaffran-2022-aci
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-04-10T18:00:00Z
 updated: 2026-04-10T18:00:00Z
 authors: [Margaux Zaffran, Aymeric Dieuleveut, Olivier Féron, Yannig Goude, Julie Josse]

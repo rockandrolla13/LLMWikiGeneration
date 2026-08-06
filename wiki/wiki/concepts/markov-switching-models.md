@@ -5,7 +5,6 @@ page_id: concepts/markov-switching-models
 page_type: concept
 related:
 - concepts/hidden-markov-models
-revision_id: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 tags:

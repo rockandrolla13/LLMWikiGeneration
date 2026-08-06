@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/antti-ilmanen
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/ilmanen-2022-investing-amid-low-expected-returns

@@ -3,7 +3,6 @@ title: "A Gentle Introduction to Conformal Prediction and Distribution-Free Unce
 page_id: sources/angelopoulos-2022-gentle-intro
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 authors: ["Anastasios N. Angelopoulos", "Stephen Bates"]

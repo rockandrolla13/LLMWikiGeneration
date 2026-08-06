@@ -2,7 +2,6 @@
 title: "Dealer Networks"
 page_id: concepts/dealer-networks
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [otc-markets, market-microstructure, dealer-intermediation]

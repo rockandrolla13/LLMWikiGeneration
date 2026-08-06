@@ -219,8 +219,12 @@ class TestDataIntegrity:
         stored_hash = metadata.get("source_hash", "")
         assert stored_hash == computed_hash
 
-    def test_revision_id_increments(self, tmp_path):
-        """Revision ID increments on updates."""
+    def test_pages_carry_no_revision_counter(self, tmp_path):
+        """revision_id was removed alongside revision_hash.
+
+        It was set to 1 at creation and never incremented by anything, so
+        it recorded no information. git tracks page versions.
+        """
         wiki_init(tmp_path, name="Revision Test")
         wiki = Wiki(tmp_path)
 
@@ -229,10 +233,10 @@ class TestDataIntegrity:
 
         wiki_ingest(wiki, Path("raw/test.md"), title="Revision Test Doc")
 
-        # Check initial revision
         page_path = tmp_path / "wiki" / "sources" / "test.md"
         metadata, _ = parse_page(page_path)
-        assert metadata["revision_id"] == 1
+        assert "revision_id" not in metadata
+        assert "revision_hash" not in metadata
 
     def test_manifest_timestamps_monotonic(self, tmp_path):
         """Manifest timestamps are monotonically increasing."""

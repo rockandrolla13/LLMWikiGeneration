@@ -3,7 +3,6 @@ title: Souhaib Ben Taieb
 page_id: entities/souhaib-ben-taieb
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 tags: [researcher, forecasting, time-series, machine-learning, conformal-prediction]

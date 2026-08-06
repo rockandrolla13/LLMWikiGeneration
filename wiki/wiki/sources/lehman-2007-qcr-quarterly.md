@@ -2,7 +2,6 @@
 title: "QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk"
 page_id: sources/lehman-2007-qcr-quarterly
 page_type: source
-revision_id: 1
 created: 2026-05-05T23:15:00Z
 updated: 2026-05-05T23:15:00Z
 tags: [creditETF, base-correlation, CDO, event-risk, LEVER, quantitative-credit]

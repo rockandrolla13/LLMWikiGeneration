@@ -3,7 +3,6 @@ title: Alexander Gammerman
 page_id: entities/alexander-gammerman
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [researcher, conformal-prediction, foundational, royal-holloway]

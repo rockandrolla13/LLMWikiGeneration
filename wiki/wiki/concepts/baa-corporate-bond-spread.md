@@ -11,7 +11,6 @@ related:
 - concepts/credit-spread-changes
 - concepts/credit-spread-puzzle
 - concepts/government-bond-spreads
-revision_id: 2
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence
 - sources/ms-2020-03-27-add-to-credit

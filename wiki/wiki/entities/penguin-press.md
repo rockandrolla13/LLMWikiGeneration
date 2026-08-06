@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/penguin-press
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 tags: []

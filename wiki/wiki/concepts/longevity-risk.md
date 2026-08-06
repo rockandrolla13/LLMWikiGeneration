@@ -2,7 +2,6 @@
 title: "Longevity Risk"
 page_id: concepts/longevity-risk
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [actuarial-science, risk-management, pensions, insurance]

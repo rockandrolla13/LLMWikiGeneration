@@ -8,7 +8,6 @@ page_id: concepts/balance-sheet-recession
 page_type: concept
 related:
 - concepts/deflation-trap
-revision_id: 1
 sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []

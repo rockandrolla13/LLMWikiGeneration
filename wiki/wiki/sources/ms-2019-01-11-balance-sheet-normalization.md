@@ -22,7 +22,6 @@ related:
 - entities/matthew-hornbach
 - entities/morgan-stanley
 - entities/vishwanath-tirupattur
-revision_id: 1
 source_hash: sha256:20fb04a984bc29131e813a66a834bb790d7b295dc77b7c601bf63fe2891d31e9
 source_path: raw/creditmacro/Morgan Stanley - Insight into the Balance Sheet - 2019-01-11.md
 source_type: article

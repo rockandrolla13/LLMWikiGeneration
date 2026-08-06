@@ -3,7 +3,6 @@ title: "Álvaro Cartea"
 page_id: entities/alvaro-cartea
 page_type: entity
 entity_type: person
-revision_id: 2
 created: 2026-04-26T03:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance]

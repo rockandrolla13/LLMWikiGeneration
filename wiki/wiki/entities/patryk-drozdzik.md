@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/patryk-drozdzik
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2013-10-30-japanification-or-salvation
 tags: []

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 - sources/ms-2009-11-12-us-rate-strategist

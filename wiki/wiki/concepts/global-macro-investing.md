@@ -8,7 +8,6 @@ page_id: concepts/global-macro-investing
 page_type: concept
 related:
 - concepts/market-timing
-revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up
 tags: []

@@ -2,7 +2,6 @@
 title: "Kernel-based Optimally Weighted Conformal Prediction Intervals"
 page_id: sources/lee-2024-kowcpi
 page_type: source
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, time-series, kernel-methods, uncertainty-quantification, nonparametric-statistics]

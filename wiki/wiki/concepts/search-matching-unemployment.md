@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/search-matching-unemployment
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
 tags: []

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/funding-liquidity
 - concepts/minimum-variance-portfolio
-revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []

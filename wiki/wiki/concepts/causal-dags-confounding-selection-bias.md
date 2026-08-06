@@ -10,7 +10,6 @@ related:
 - concepts/causal-diagram
 - concepts/causal-inference
 - concepts/structural-vector-autoregression
-revision_id: 1
 sources:
 - sources/hernan-2020-causal-inference-what-if
 tags: []

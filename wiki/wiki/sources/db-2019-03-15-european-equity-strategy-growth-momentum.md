@@ -18,7 +18,6 @@ related:
 - entities/deutsche-bank
 - entities/sebastian-raedler
 - entities/thomas-pearce
-revision_id: 1
 source_hash: sha256:4df80efdd86a33cc6d2510efa55396373fc6c596daf133f76747c5af34a8202c
 source_path: raw/creditmacro/european_equity_strategy_2019-03-15.md
 source_type: article

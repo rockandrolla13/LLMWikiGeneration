@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/ludwig-von-mises-institute
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []

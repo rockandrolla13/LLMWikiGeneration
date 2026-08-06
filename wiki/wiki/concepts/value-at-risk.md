@@ -12,7 +12,6 @@ related:
 - concepts/tick-loss
 - concepts/volatility-targeting
 - concepts/volatility-targeting-position-sizing
-revision_id: 3
 sources:
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact
 - sources/ms-2020-03-20-risk-parity-deleveraging

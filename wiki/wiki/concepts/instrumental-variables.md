@@ -11,7 +11,6 @@ related:
 - concepts/local-average-treatment-effect
 - concepts/regression-discontinuity
 - concepts/structural-vector-autoregression
-revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 - sources/hernan-2020-causal-inference-what-if

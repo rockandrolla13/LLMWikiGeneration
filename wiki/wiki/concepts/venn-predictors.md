@@ -2,7 +2,6 @@
 title: Venn Predictors
 page_id: concepts/venn-predictors
 page_type: concept
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 tags: [conformal-prediction, probability-prediction, calibration, vovk]

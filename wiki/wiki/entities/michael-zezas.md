@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-zezas
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-17-goldilocks-whiplash
 - sources/ms-2020-03-27-fiscal-package-unemployment

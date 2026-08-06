@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 tags: []

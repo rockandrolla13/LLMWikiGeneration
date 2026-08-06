@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/truth-at-a-time
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation
 tags: []

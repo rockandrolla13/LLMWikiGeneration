@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/explanatory-asymmetry
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation
 tags: []

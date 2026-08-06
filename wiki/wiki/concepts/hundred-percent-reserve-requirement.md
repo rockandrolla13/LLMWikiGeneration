@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/hundred-percent-reserve-requirement
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []

@@ -2,7 +2,6 @@
 title: "Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference"
 page_id: sources/peters-2026-asynchronous-cir
 page_type: source
-revision_id: 2
 created: 2026-05-15T22:00:00Z
 updated: 2026-05-24T20:15:00Z
 tags: [cir-models, regime-switching, hmm, interest-rates, copulas, onsager-machlup]

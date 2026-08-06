@@ -16,7 +16,6 @@ related:
 - entities/federal-reserve
 - entities/morgan-stanley
 - entities/robin-xing
-revision_id: 1
 source_hash: sha256:edaeb4e5ab0323f6dc0ec108da59e3ab3f7c53123a09235049d754f9b2e62301
 source_path: raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — Chetan
   Ahya - 2019-03-03.md

@@ -5,7 +5,6 @@ page_id: concepts/fama-french-factors
 page_type: concept
 related:
 - concepts/value-premium
-revision_id: 2
 sources:
 - sources/barendse-2026-efficient-tail-interquantile
 tags:

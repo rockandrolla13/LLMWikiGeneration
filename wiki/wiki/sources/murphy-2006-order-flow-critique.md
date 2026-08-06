@@ -3,7 +3,6 @@ title: "Order Flow, Transaction Clock and Normality: A Critique of Ané and Gema
 page_id: sources/murphy-2006-order-flow-critique
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T23:45:00Z
 updated: 2026-04-25T23:45:00Z
 authors: [Anthony Murphy, Marwan Izzeldin]

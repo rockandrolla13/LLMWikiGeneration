@@ -5,7 +5,6 @@ page_id: concepts/high-dimensional-data
 page_type: concept
 related:
 - concepts/curse-of-dimensionality
-revision_id: 2
 sources:
 - sources/anon-2024-vector-databases-rag
 tags:

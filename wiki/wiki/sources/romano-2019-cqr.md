@@ -3,7 +3,6 @@ title: "Conformalized Quantile Regression"
 page_id: sources/romano-2019-cqr
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Yaniv Romano", "Evan Patterson", "Emmanuel J. Candès"]

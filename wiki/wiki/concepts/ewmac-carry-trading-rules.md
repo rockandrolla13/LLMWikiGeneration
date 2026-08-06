@@ -11,7 +11,6 @@ related:
 - concepts/carry-rolldown
 - concepts/mean-reversion
 - concepts/trend-following
-revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading
 tags: []

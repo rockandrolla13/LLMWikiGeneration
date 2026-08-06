@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/anton-heese
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2015-03-06-bond-market-indicators
 - sources/ms-2016-04-13-euro-sovereign-bond-market-indicators

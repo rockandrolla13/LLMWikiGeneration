@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/additional-tier-1-capital
 - concepts/mrel
-revision_id: 1
 sources:
 - sources/ms-2019-04-18-mrel-subordination-brrd2
 tags: []

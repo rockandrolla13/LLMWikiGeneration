@@ -16,7 +16,6 @@ related:
 - concepts/quantitative-easing
 - concepts/sovereign-debt-sustainability
 - concepts/twin-crises
-revision_id: 3
 sources:
 - sources/boffelli-2017-euro-bond-spread-correlations
 - sources/ms-2010-09-15-em-quantitative-quarterly

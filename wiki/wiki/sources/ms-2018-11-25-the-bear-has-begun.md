@@ -21,7 +21,6 @@ related:
 - entities/frederick-fuchs
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_id: 1
 source_hash: sha256:68b379bb9ea89446d9086bb0724ab2305a5c3bdcc449499f068645fa5636e9ff
 source_path: raw/creditmacro/Morgan Stanley - The Bear Has Begun - 2018-11-25.md
 source_type: article

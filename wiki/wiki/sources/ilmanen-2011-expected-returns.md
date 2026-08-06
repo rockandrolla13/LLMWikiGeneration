@@ -19,7 +19,6 @@ related:
 - entities/antti-ilmanen
 - entities/cliff-asness
 - entities/john-wiley-sons
-revision_id: 1
 source_hash: sha256:de58aaf32aadd2c8abc9a67fe0cc765a06bc4e50b7c3875c25cd2da971901d5b
 source_path: raw/creditmacro/Expected Returns - An Investors Guide to Harvesting Market
   Rewards (Antti Ilmanen) (z-library.sk, 1lib.sk, z-lib.sk).md

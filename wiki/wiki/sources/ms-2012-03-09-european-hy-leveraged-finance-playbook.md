@@ -21,7 +21,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_id: 1
 source_hash: sha256:5ccccf84fcaa95ebcda0a6fb180d2de7cad983e2134e5efed844a1edec436b77
 source_path: raw/creditmacro/Morgan Stanley - European High Yield Strategy Monthly
   Leveraged Finance Playbook — Returns - 2012-03-09.md

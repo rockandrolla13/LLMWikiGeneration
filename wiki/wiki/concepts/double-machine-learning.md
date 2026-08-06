@@ -7,7 +7,6 @@ related:
 - concepts/conformal-prediction
 - concepts/doubly-robust-estimation
 - concepts/empirical-evaluation-causal-inference
-revision_id: 3
 sources:
 - sources/koukorinis-2026-draci
 tags:

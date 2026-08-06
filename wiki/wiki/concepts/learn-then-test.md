@@ -2,7 +2,6 @@
 title: Learn Then Test
 page_id: concepts/learn-then-test
 page_type: concept
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-risk-control, multiple-testing, calibration, fwer]

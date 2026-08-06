@@ -18,7 +18,6 @@ related:
 - concepts/option-implied-credit-information
 - concepts/structural-models
 - sources/huang-2025-global-credit-spread-puzzle
-revision_id: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 tags:

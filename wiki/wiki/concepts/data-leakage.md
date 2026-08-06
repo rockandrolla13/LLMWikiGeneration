@@ -10,7 +10,6 @@ related:
 - concepts/overfitting-in-alpha-research
 - concepts/trading-strategy-overfitting
 - concepts/walk-forward-analysis
-revision_id: 2
 sources:
 - sources/huyen-2022-designing-ml-systems
 tags:

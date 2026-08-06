@@ -3,7 +3,6 @@ title: "Martin D. Gould"
 page_id: entities/martin-gould
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [researcher, market-microstructure, limit-order-book, foreign-exchange, long-memory]

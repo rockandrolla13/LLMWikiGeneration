@@ -2,7 +2,6 @@
 title: "Asymmetric Laplace Density"
 page_id: concepts/asymmetric-laplace-density
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [quantile-regression, pseudo-likelihood, m-estimation]

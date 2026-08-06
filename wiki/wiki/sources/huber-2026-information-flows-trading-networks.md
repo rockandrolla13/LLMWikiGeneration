@@ -3,7 +3,6 @@ title: "Information Flows in Trading Networks"
 page_id: sources/huber-2026-information-flows-trading-networks
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Stefan J. Huber, Edward M. Watts, Christina Zhu]

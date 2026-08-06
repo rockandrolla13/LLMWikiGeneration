@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jingli-li
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-02-01-credit-strategy-chartbook
 - sources/ms-2019-02-28-selling-the-rally

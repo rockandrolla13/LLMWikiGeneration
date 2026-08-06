@@ -2,7 +2,6 @@
 title: "Temporal Cross-Fitting"
 page_id: concepts/temporal-cross-fitting
 page_type: concept
-revision_id: 1
 created: 2026-04-28T14:00:00Z
 updated: 2026-04-28T14:00:00Z
 tags: [time-series, cross-validation, machine-learning, causal-inference]

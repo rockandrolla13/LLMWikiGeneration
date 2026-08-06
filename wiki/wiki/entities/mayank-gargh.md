@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/mayank-gargh
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 tags: []

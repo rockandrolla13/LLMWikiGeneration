@@ -2,7 +2,6 @@
 title: Jackknife+ after Bootstrap (J+aB)
 page_id: concepts/jackknife-plus-after-bootstrap
 page_type: concept
-revision_id: 2
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, jackknife, bootstrap, ensemble-methods]

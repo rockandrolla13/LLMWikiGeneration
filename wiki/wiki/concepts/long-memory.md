@@ -2,7 +2,6 @@
 title: "Long Memory"
 page_id: concepts/long-memory
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [time-series, autocorrelation, hurst-exponent, fractional-processes, stylized-facts]

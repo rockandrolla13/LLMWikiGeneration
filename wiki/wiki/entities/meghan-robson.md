@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/meghan-robson
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2018-03-16-credit-bmi
 - sources/ms-2018-04-16-credit-bmi-update

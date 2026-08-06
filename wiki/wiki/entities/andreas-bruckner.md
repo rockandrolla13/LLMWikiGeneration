@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andreas-bruckner
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 tags: []

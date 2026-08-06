@@ -11,7 +11,6 @@ related:
 - concepts/causal-inference
 - concepts/difference-in-differences
 - concepts/segmented-regression
-revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []

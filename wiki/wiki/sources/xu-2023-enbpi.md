@@ -3,7 +3,6 @@ title: "Conformal prediction for time series"
 page_id: sources/xu-2023-enbpi
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T14:00:00Z
 updated: 2026-05-21T14:00:00Z
 authors: ["Chen Xu", "Yao Xie"]

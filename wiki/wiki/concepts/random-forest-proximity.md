@@ -7,7 +7,6 @@ related:
 - concepts/decision-trees
 - concepts/factor-models
 - concepts/nelson-siegel-model
-revision_id: 2
 sources:
 - sources/technical-2025-bond-similarity
 tags:

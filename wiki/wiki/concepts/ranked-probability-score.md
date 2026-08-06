@@ -7,7 +7,6 @@ related:
 - concepts/continuous-ranked-probability-score
 - concepts/energy-score
 - concepts/strictly-proper-scoring-rules
-revision_id: 2
 sources:
 - sources/chen-2024-jump-clustering-information-flows
 tags:

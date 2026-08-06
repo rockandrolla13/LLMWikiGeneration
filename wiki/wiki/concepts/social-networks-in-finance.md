@@ -2,7 +2,6 @@
 title: "Social Networks in Finance"
 page_id: concepts/social-networks-in-finance
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [networks, information-flows, financial-economics]

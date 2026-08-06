@@ -11,7 +11,6 @@ related:
 - concepts/lbo-risk
 - concepts/liquidity-risk
 - concepts/private-credit-leveraged-loans
-revision_id: 2
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 - sources/patkar-2026-ms-global-credit-midyear

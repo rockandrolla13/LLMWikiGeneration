@@ -2,7 +2,6 @@
 title: "Yield to Maturity"
 page_id: concepts/yield-to-maturity
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [fixed-income, bond-pricing, yield-measures, fundamentals]

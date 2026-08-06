@@ -2,7 +2,6 @@
 title: Risk-Controlling Prediction Sets (RCPS)
 page_id: concepts/risk-controlling-prediction-sets
 page_type: concept
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [conformal-prediction, risk-control, distribution-free, pac, tolerance-regions]

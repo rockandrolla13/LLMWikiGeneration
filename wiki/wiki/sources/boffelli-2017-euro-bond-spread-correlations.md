@@ -3,7 +3,6 @@ title: "High- and Low-Frequency Correlations in European Government Bond Spreads
 page_id: sources/boffelli-2017-euro-bond-spread-correlations
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Simona Boffelli, Vasiliki D. Skintzi, Giovanni Urga]

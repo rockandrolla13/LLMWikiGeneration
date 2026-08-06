@@ -19,7 +19,6 @@ related:
 - entities/morgan-stanley
 - entities/subadra-rajappa
 - entities/vipul-jain
-revision_id: 1
 source_hash: sha256:045628d4fdc2500aaae415c982daa1fe18b1a1929b2d1c1a857dfb92dadd3ab2
 source_path: raw/creditmacro/Morgan Stanley - Matthew Hornbach — Vipul Jain, CFA -
   2013-12-13.md

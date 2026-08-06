@@ -3,7 +3,6 @@ title: "Conformal Inference for Online Prediction with Arbitrary Distribution Sh
 page_id: sources/gibbs-2024-online-aci
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Isaac Gibbs", "Emmanuel J. Candès"]

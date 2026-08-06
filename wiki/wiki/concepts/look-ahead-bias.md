@@ -14,7 +14,6 @@ related:
 - concepts/walk-forward-analysis
 - entities/alexander-dickerson
 - sources/dickerson-2024-bond-pitfalls
-revision_id: 2
 tags:
 - methodology
 - bias

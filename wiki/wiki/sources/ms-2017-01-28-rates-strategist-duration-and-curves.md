@@ -35,7 +35,6 @@ related:
 - entities/morgan-stanley
 - entities/sam-elprince
 - entities/shreya-chander
-revision_id: 1
 source_hash: sha256:75bdc16e6e8c1defa0636268dc7f8e47ef5d31f5a821813d6b6db6566783c240
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist Trading
   with Stocks — Duration and Curves - 2017-01-28.md

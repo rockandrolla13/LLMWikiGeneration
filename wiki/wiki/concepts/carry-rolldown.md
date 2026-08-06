@@ -22,7 +22,6 @@ related:
 - concepts/trend-following
 - concepts/volatility-risk-premia
 - concepts/z-spread
-revision_id: 3
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/martin-2024-credit-curve

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jim-simons
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up
 tags: []

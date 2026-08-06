@@ -24,7 +24,6 @@ related:
 - entities/judea-pearl
 - entities/karl-pearson
 - entities/sewall-wright
-revision_id: 1
 source_hash: sha256:e067ef7bbe43b52c6d8bbde1f7a7e7fd554ee4dccc07a9ea609e98aed457f757
 source_path: raw/creditmacro/The Book of Why (Judea Pearl) (z-library.sk, 1lib.sk,
   z-lib.sk).md

@@ -2,7 +2,6 @@
 title: "Green Bond Spreads"
 page_id: concepts/green-bond-spreads
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [sustainable-finance, green-bonds, fixed-income, esg]

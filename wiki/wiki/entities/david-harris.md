@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-harris
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary
 - sources/ms-2019-02-15-govt-bond-auction-pipeline

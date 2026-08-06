@@ -10,7 +10,6 @@ related:
 - concepts/energy-score
 - concepts/probability-integral-transform
 - concepts/strictly-proper-scoring-rules
-revision_id: 1
 sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation
 tags: []

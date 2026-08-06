@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_id: 1
 source_hash: sha256:3f5c7ee7a3db3aeaea826cb78de693236954bbd37d18893a78a802648f6a72ec
 source_path: raw/creditmacro/Morgan Stanley - European Credit Playbook A Reluctant
   Rally — Srikanth Sankaran - 2019-01-28.md

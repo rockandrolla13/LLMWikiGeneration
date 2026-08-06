@@ -2,7 +2,6 @@
 title: Worst-Case Coverage
 page_id: concepts/worst-case-coverage
 page_type: concept
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [conformal-prediction, robustness, coverage-guarantee, fairness]

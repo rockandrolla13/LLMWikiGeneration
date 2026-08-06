@@ -8,7 +8,6 @@ page_id: concepts/local-regression
 page_type: concept
 related:
 - concepts/nadaraya-watson-estimator
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

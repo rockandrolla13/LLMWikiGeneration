@@ -3,7 +3,6 @@ title: "Cross-correlations between price and volume in Chinese gold markets"
 page_id: sources/ruan-2016-mfdcca-gold
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Qingsong Ruan, Wei Jiang, Guofeng Ma]

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/tony-small
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary
 - sources/ms-2019-05-17-tariffs-government-bonds

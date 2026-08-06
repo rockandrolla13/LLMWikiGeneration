@@ -2,7 +2,6 @@
 title: "Multifractal Detrended Fluctuation Analysis (MFDFA)"
 page_id: concepts/mfdfa
 page_type: concept
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 tags: [multifractal, time-series, scaling, hurst-exponent, detrending, financial-analysis]

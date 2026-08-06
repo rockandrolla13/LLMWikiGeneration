@@ -22,7 +22,6 @@ related:
 - entities/jingli-li
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_id: 1
 source_hash: sha256:88803a395c32913913a8aabff8eeb8bc2ba5999d4aa52fb22bafbf2bfef31c65
 source_path: raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy Chartbook
   - 2019-02-01.md

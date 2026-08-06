@@ -3,7 +3,6 @@ title: "Anatomy of Municipal Green Bond Yield Spreads"
 page_id: sources/sehatpour-2024-green-bonds
 page_type: source
 source_type: working-paper
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Mohammad Hadi Sehatpour, Marta Campi, Christina S. Nikitopoulos, Gareth W. Peters, Kylie-Anne Richards]

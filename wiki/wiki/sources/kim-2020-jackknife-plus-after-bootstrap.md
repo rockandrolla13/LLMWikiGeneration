@@ -3,7 +3,6 @@ title: "Predictive Inference Is Free with the Jackknife+-after-Bootstrap"
 page_id: sources/kim-2020-jackknife-plus-after-bootstrap
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Byol Kim", "Chen Xu", "Rina Foygel Barber"]

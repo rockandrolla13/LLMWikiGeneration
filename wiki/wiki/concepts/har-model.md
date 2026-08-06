@@ -2,7 +2,6 @@
 title: "Heterogeneous Autoregressive Model"
 page_id: concepts/har-model
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [realized-volatility, long-memory, time-series, corsi]

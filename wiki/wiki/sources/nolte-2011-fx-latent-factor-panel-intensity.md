@@ -3,7 +3,6 @@ title: "Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel I
 page_id: sources/nolte-2011-fx-latent-factor-panel-intensity
 page_type: source
 source_type: paper
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 authors: [Ingmar Nolte, Valeri Voev]

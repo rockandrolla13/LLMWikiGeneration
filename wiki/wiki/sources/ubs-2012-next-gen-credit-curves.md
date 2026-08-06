@@ -2,7 +2,6 @@
 title: "Next-Generation Credit Curves"
 page_id: sources/ubs-2012-next-gen-credit-curves
 page_type: source
-revision_id: 1
 created: 2026-05-05T23:15:00Z
 updated: 2026-05-05T23:15:00Z
 tags: [creditETF, hazard-rate, credit-curves, CDS-bond-basis, market-implied-ratings]

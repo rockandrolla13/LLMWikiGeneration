@@ -9,7 +9,6 @@ related:
 - concepts/bayesian-nonparametrics
 - concepts/bayesian-updating
 - concepts/kalman-filter
-revision_id: 3
 sources:
 - sources/chen-2024-jump-clustering-information-flows
 - sources/halls-moore-advanced-algorithmic-trading

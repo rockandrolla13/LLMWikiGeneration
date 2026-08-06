@@ -13,7 +13,6 @@ related:
 - concepts/recursive-methods-dynamic-programming
 - concepts/schwartz-smith-model
 - entities/gareth-peters
-revision_id: 3
 sources:
 - sources/he-2024-functional-regression
 tags:

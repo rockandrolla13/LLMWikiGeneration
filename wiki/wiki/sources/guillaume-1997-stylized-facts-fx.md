@@ -3,7 +3,6 @@ title: "From the bird's eye to the microscope: A survey of new stylized facts of
 page_id: sources/guillaume-1997-stylized-facts-fx
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Dominique M. Guillaume, Michel M. Dacorogna, Rakhal R. Dave, Ulrich A. Muller, Richard B. Olsen, Olivier V. Pictet]

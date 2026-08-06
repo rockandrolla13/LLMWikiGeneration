@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/gergana-jostova
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 tags: []

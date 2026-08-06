@@ -3,7 +3,6 @@ title: "A Tutorial on Conformal Prediction"
 page_id: sources/shafer-2007-cp-tutorial
 page_type: source
 source_type: tutorial
-revision_id: 1
 created: 2026-05-24T16:00:00Z
 updated: 2026-05-24T16:00:00Z
 authors: ["Glenn Shafer", "Vladimir Vovk"]

@@ -3,7 +3,6 @@ title: "Multi-Level Order-Flow Imbalance in a Limit Order Book"
 page_id: sources/xu-2020-mlofi
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Ke Xu, Martin D. Gould, Sam D. Howison]

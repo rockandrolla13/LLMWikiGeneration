@@ -3,7 +3,6 @@ title: Yinchu Zhu
 page_id: entities/yinchu-zhu
 page_type: entity
 entity_type: person
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 tags: [statistics, econometrics, conformal-prediction]

@@ -5,7 +5,6 @@ page_id: concepts/tail-expectation
 page_type: concept
 related:
 - concepts/right-tail-hedging
-revision_id: 2
 sources:
 - sources/barendse-2026-efficient-tail-interquantile
 tags:

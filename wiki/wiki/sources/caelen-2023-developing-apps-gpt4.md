@@ -3,7 +3,6 @@ title: Developing Apps with GPT-4 and ChatGPT
 page_id: sources/caelen-2023-developing-apps-gpt4
 page_type: source
 source_type: book
-revision_id: 1
 created: '2026-05-17T16:44:06Z'
 updated: '2026-05-17T16:44:06Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17

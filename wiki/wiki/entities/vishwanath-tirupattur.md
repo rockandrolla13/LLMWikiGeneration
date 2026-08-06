@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vishwanath-tirupattur
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults
 - sources/ms-2019-01-11-balance-sheet-normalization

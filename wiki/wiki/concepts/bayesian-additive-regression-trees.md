@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/mcmc-bayesian-inference
-revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference
 tags: []

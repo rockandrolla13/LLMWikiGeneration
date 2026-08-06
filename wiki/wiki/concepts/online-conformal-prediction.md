@@ -2,7 +2,6 @@
 title: Online Conformal Prediction
 page_id: concepts/online-conformal-prediction
 page_type: concept
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 tags: [conformal-prediction, online-learning, time-series, sequential-prediction, adversarial]

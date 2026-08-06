@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/market-timing
 - concepts/tail-expectation
-revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging
 tags: []

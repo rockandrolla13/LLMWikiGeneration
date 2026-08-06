@@ -16,7 +16,6 @@ related:
 - concepts/quantitative-tightening
 - concepts/regime-switching-models
 - concepts/self-stabilizing-inflation-regime
-revision_id: 3
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
 - sources/babecky-2013-leading-indicators-crisis-incidence

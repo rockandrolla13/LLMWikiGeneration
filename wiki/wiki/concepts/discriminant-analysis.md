@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/discriminant-analysis
 page_type: concept
 related: []
-revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining
 tags: []

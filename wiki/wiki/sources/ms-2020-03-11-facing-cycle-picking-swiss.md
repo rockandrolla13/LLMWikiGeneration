@@ -16,7 +16,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:ce1f1cfef819bcd339d688c485b033055a7bf91033b14c1dea49f1295b6073b6
 source_path: raw/creditmacro/Morgan Stanley - European Banks — Facing the Cycle –
   Picking Swiss - 2020-03-11.md

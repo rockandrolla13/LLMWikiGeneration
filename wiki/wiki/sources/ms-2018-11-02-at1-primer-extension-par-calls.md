@@ -16,7 +16,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:c12b20f64a5f5b9da1ec40ede8f7502cb6f9fab3d69b863e2bb7bf308a4123fb
 source_path: raw/creditmacro/Morgan Stanley - European Banks — Autumn AT1 Primer –
   Extension and Par Calls - 2018-11-02.md

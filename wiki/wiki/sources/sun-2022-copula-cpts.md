@@ -2,7 +2,6 @@
 title: "Copula Conformal Prediction for Multi-step Time Series Forecasting"
 page_id: sources/sun-2022-copula-cpts
 page_type: source
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, time-series, copulas, multi-step-forecasting, multivariate]

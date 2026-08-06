@@ -3,7 +3,6 @@ title: "Conformal Prediction (CMU Lecture Notes, Spring 2023)"
 page_id: sources/tibshirani-2023-cp-lecture-notes
 page_type: source
 source_type: lecture-notes
-revision_id: 1
 created: 2026-05-24T20:00:00Z
 updated: 2026-05-24T20:00:00Z
 authors: ["Ryan J. Tibshirani"]

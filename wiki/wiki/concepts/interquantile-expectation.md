@@ -2,7 +2,6 @@
 title: "Interquantile Expectation"
 page_id: concepts/interquantile-expectation
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [risk-management, conditional-expectation, quantiles]

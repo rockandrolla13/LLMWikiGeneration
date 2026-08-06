@@ -11,7 +11,6 @@ related:
 - concepts/risk-premia
 - concepts/value-at-risk
 - concepts/volatility-targeting-position-sizing
-revision_id: 2
 sources:
 - sources/carver-2015-systematic-trading
 tags: []

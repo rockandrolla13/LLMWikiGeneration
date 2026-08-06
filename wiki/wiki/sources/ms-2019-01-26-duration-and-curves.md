@@ -24,7 +24,6 @@ related:
 - entities/koichi-sugisaki
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_id: 1
 source_hash: sha256:95e515286afa28ac1f376b2df8e54c98d99d2b4bb2c16d74df05014a62a96daa
 source_path: raw/creditmacro/Morgan Stanley - A Birdie for the Balance Sheet — Duration
   and Curves - 2019-01-26.md

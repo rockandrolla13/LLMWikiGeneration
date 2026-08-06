@@ -23,7 +23,6 @@ related:
 - entities/sheena-shah
 - entities/vishwas-patkar
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:d48e5c13e435e351ee91197e9c9b90dc0f8d857f00132d5f17ccf928ea900176
 source_path: raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global
   Volatility Playbook What’s Wrong with FX Volatility - 2019-06-28.md

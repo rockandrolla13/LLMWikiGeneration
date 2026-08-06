@@ -2,7 +2,6 @@
 title: "Distributional Conformal Prediction"
 page_id: sources/chernozhukov-2021-distributional-cp
 page_type: source
-revision_id: 1
 created: 2026-04-26T12:00:00Z
 updated: 2026-04-26T12:00:00Z
 authors: [Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu]

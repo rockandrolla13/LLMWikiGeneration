@@ -2,7 +2,6 @@
 title: "Trader Clustering"
 page_id: concepts/trader-clustering
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [unsupervised-learning, market-microstructure, behavioral-finance]

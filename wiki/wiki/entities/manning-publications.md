@@ -3,7 +3,6 @@ title: Manning Publications
 page_id: entities/manning-publications
 page_type: entity
 entity_type: organization
-revision_id: 1
 created: '2026-05-17T16:44:06Z'
 updated: '2026-05-17T16:44:06Z'
 updated_by: wiki-batch-ai-engineering-2026-05-17

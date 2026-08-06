@@ -3,7 +3,6 @@ title: "The Importance of Being Learnable: Essays Dedicated to Alexander Gammerm
 page_id: sources/nguyen-2026-gammerman-festschrift
 page_type: source
 source_type: edited-volume
-revision_id: 1
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T18:00:00Z
 authors: ["Khuong An Nguyen (ed.)", "Zhiyuan Luo (ed.)"]

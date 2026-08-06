@@ -3,7 +3,6 @@ title: "Enhanced Corporate Bond Similarity Framework: Integrating Random Forest 
 page_id: sources/technical-2025-bond-similarity
 page_type: source
 source_type: technical-report
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Technical Research Division]

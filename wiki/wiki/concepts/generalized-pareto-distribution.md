@@ -2,7 +2,6 @@
 title: Generalized Pareto Distribution
 page_id: concepts/generalized-pareto-distribution
 page_type: concept
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [statistics, extreme-value-theory, probability-distribution, heavy-tails, risk-management]

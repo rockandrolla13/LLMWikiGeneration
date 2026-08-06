@@ -16,7 +16,6 @@ related:
 - entities/min-dai
 - entities/morgan-stanley
 - entities/robin-xing
-revision_id: 1
 source_hash: sha256:17a3fac2b0b1a514894b236d757c4c2cc71f7eec13be0371a18f9fe386e78dd0
 source_path: raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — James
   K Lord - nd.md

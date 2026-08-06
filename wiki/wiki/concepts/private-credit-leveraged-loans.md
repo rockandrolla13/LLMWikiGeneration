@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/private-credit
-revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai
 tags: []

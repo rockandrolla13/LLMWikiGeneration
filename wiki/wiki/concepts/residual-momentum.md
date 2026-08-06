@@ -7,7 +7,6 @@ related:
 - concepts/spillover-effect
 - concepts/style-premia
 - sources/haesen-2017-momentum-spillover
-revision_id: 2
 tags:
 - momentum
 - residual-returns

@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/etf-flows
 - concepts/statistical-arbitrage
-revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan
 tags: []

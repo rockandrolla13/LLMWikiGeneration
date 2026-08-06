@@ -9,7 +9,6 @@ related:
 - entities/yinchu-zhu
 - concepts/distributional-conformal-prediction
 - concepts/quantile-regression
-revision_id: 2
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 - sources/chernozhukov-2021-distributional-cp

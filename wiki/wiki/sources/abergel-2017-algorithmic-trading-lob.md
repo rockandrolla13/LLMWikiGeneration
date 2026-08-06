@@ -3,7 +3,6 @@ title: "Algorithmic trading in a microstructural limit order book model"
 page_id: sources/abergel-2017-algorithmic-trading-lob
 page_type: source
 source_type: preprint
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Frederic Abergel, Come Hure, Huyen Pham]

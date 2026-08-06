@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_id: 1
 source_hash: sha256:d813e6806ec6b8bdc07b9212050a13bd6d231be807d1f86b2c7337756d5cc996
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Brief — Risk Parity Worst
   Behind Us - 2020-03-20.md

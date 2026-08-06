@@ -2,7 +2,6 @@
 title: "Efficient Importance Sampling"
 page_id: concepts/efficient-importance-sampling
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [monte-carlo, simulated-maximum-likelihood, latent-variable-models]

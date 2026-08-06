@@ -12,7 +12,6 @@ related:
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
 - concepts/systematic-credit-relative-value
-revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 tags: []

@@ -2,7 +2,6 @@
 title: "Factor Timing"
 page_id: concepts/factor-timing
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [factor-investing, conditional-asset-pricing, machine-learning]

@@ -3,7 +3,6 @@ title: "Conformal Prediction Under Covariate Shift"
 page_id: sources/tibshirani-2019-covariate-shift
 page_type: source
 source_type: paper
-revision_id: 2
 created: 2026-05-24T18:00:00Z
 updated: 2026-05-24T20:15:00Z
 authors: ["Ryan J. Tibshirani", "Rina Foygel Barber", "Emmanuel J. Candès", "Aaditya Ramdas"]

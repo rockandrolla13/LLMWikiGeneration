@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/daniele-antonucci
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 - sources/ms-2011-11-28-europe-economics-recession-returns

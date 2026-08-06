@@ -2,7 +2,6 @@
 title: Conformalized Quantile Regression
 page_id: concepts/conformalized-quantile-regression
 page_type: concept
-revision_id: 2
 created: 2026-04-26T12:00:00Z
 updated: 2026-05-24T19:00:00Z
 tags: [conformal-prediction, quantile-regression, prediction-intervals, uncertainty-quantification]

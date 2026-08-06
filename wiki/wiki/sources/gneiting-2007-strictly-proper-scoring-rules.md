@@ -24,7 +24,6 @@ related:
 - entities/philip-dawid
 - entities/roger-koenker
 - entities/tilmann-gneiting
-revision_id: 1
 source_hash: sha256:4fe98e7889286c7a250a670819522776d2651addaa491509d93b4b00376babcc
 source_path: raw/creditmacro/Gneiting2007jasa.md
 source_type: paper

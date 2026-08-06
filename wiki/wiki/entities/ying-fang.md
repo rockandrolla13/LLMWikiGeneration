@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/ying-fang
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series
 tags: []

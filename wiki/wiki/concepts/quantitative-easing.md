@@ -18,7 +18,6 @@ related:
 - concepts/regime-switching-models
 - concepts/sovereign-debt-crisis
 - concepts/term-structure-risk-premium
-revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
 - sources/ms-2009-11-12-us-rate-strategist

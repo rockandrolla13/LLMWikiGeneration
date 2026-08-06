@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/quantstart
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
 tags: []

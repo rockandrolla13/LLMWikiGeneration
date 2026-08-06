@@ -11,7 +11,6 @@ related:
 - concepts/interrupted-time-series-design
 - concepts/panel-vector-autoregression
 - concepts/quasi-experimental-design
-revision_id: 2
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics
 tags: []

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sebastian-mercado
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/mercado-2015-taarss-flow-whisperer
 tags: []

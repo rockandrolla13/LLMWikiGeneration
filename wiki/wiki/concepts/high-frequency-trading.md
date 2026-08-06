@@ -5,7 +5,6 @@ page_id: concepts/high-frequency-trading
 page_type: concept
 related:
 - concepts/algorithmic-trading
-revision_id: 2
 sources:
 - sources/cartea-2025-statistical-predictions-trading
 tags:

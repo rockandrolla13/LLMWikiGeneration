@@ -2,7 +2,6 @@
 title: "High-Frequency Data"
 page_id: concepts/high-frequency-data
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [high-frequency-data, intraday, realized-measures]

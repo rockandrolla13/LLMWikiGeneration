@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/dennis-bams
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 tags: []

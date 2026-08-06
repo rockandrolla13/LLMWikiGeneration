@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vishwas-patkar
 page_type: entity
 related: []
-revision_id: 2
 sources:
 - sources/ms-2018-04-16-credit-bmi-update
 - sources/ms-2018-11-25-the-bear-has-begun

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/frederick-fuchs
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2018-11-25-the-bear-has-begun
 - sources/ms-2019-02-01-credit-strategy-chartbook

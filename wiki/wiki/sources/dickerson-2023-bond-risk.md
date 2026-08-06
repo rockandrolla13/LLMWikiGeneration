@@ -3,7 +3,6 @@ title: "Priced risk in corporate bonds"
 page_id: sources/dickerson-2023-bond-risk
 page_type: source
 source_type: journal-article
-revision_id: 1
 created: 2026-04-25T22:00:00Z
 updated: 2026-04-25T22:00:00Z
 authors: [Alexander Dickerson, Philippe Mueller, Cesare Robotti]

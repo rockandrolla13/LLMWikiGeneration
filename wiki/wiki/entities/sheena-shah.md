@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sheena-shah
 page_type: entity
 related: []
-revision_id: 1
 sources:
 - sources/ms-2019-06-28-fx-volatility-playbook
 - sources/ms-2020-03-25-global-volatility-playbook

@@ -8,7 +8,6 @@ page_id: concepts/malinvestment-forced-saving
 page_type: concept
 related:
 - concepts/bubble-detection
-revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit
 tags: []

@@ -10,7 +10,6 @@ related:
 - concepts/causal-inference
 - concepts/potential-outcomes
 - concepts/quasi-experimental-design
-revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting
 tags: []

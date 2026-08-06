@@ -18,7 +18,6 @@ related:
 - entities/david-hume
 - entities/oxford-university-press
 - entities/wesley-c-salmon
-revision_id: 1
 source_hash: sha256:4d0cfc3e2a48449ede702c8967fd1500cdb666cd1011308639cf5ba2267c7158
 source_path: raw/creditmacro/Causality and Explanation (Wesley C. Salmon) (z-library.sk,
   1lib.sk, z-lib.sk).md

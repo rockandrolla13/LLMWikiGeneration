@@ -2,7 +2,6 @@
 title: "Extreme Conformal Prediction: Reliable Intervals for High-Impact Events"
 page_id: sources/pasche-2025-extreme-conformal
 page_type: source
-revision_id: 1
 created: 2026-04-26T10:00:00Z
 updated: 2026-04-26T10:00:00Z
 tags: [conformal-prediction, extreme-value-theory, prediction-intervals, high-confidence, flood-risk, heavy-tails]

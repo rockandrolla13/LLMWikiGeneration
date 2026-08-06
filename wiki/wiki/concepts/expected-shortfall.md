@@ -2,7 +2,6 @@
 title: "Expected Shortfall"
 page_id: concepts/expected-shortfall
 page_type: concept
-revision_id: 1
 created: 2026-05-21T12:00:00Z
 updated: 2026-05-21T12:00:00Z
 tags: [risk-management, tail-risk, basel-frtb, coherent-risk-measure]
