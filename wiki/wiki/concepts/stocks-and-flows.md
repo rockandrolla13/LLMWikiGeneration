@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/stocks-and-flows
 page_type: concept
 related: []
-revision_hash: sha256:f5d5f18e5e37d108a96c3fbee9f4a77b8b4b2ce3838a144ed77cee90b04be1be
 revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems

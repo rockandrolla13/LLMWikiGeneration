@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/international-trade-capital-flows
 page_type: concept
 related: []
-revision_hash: sha256:1a6abed3de4076b27d646a83195753bc8db6681617c15716074dd31474cab73a
 revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook

@@ -11,7 +11,6 @@ related:
 - concepts/credit-relative-value
 - concepts/factor-investing
 - concepts/statistical-arbitrage
-revision_hash: sha256:8ead875654f30a848377d8bc8c3d78bc4feab2c4e8772fe90fc5d41316457d2a
 revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan

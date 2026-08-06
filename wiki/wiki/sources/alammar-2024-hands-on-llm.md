@@ -42,7 +42,6 @@ related:
 - entities/maarten-grootendorst
 - entities/nils-reimers
 mind_map_priority: medium
-revision_hash: sha256:582343ec71d7c232
 schema_version: 2
 uuid: 8c362acb-aa40-58e8-bc08-af2ce6d1bb28
 content_hash: sha256:dbfdca51a1aefbc25b88afb24c53a77883836841c16dfee70a36688cd3e3ddc0

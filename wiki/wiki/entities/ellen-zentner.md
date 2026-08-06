@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/ellen-zentner
 page_type: entity
 related: []
-revision_hash: sha256:149d3169fe8c2a5c56a368cb199b190d566eda5a14577aa93c7cba373f6a5284
 revision_id: 1
 sources:
 - sources/ms-2019-01-11-balance-sheet-normalization

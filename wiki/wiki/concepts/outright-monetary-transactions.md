@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_hash: sha256:2850488c13231eb62630a6bdbc0782f324c8d22d5707b05e279714f32950a458
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

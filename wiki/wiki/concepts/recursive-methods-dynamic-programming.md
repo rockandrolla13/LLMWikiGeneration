@@ -8,7 +8,6 @@ page_id: concepts/recursive-methods-dynamic-programming
 page_type: concept
 related:
 - concepts/state-space-models
-revision_hash: sha256:117cfbe06901654ea2d3021a3d0c12943ebf88a98faa81e5bf4f37050017c798
 revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory

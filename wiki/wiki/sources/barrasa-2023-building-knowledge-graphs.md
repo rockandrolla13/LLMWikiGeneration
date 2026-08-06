@@ -42,7 +42,6 @@ related:
 - entities/spacy
 - entities/wordnet
 mind_map_priority: medium
-revision_hash: sha256:1846b6522a7dda48
 schema_version: 2
 uuid: 160876ba-683d-537a-a65d-02afea7bc0d5
 content_hash: sha256:00431e2b9f6fa3ad264cef4e858e68fea7977dcd8e6f13e4258867c2e877e38a

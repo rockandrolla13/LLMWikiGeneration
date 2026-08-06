@@ -10,7 +10,6 @@ related:
 - concepts/minimum-variance-portfolio
 - concepts/value-at-risk
 - concepts/volatility-targeting
-revision_hash: sha256:59ef617e7cf2f4d8cf2ac864ef08eae21b8de7d9c279e857e18ddceb8595ff77
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

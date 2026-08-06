@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/xiaoling-pu
 page_type: entity
 related: []
-revision_hash: sha256:71c29c33a56490c2daeb2fd403cd2d4d4a81e90a03d31659ec158c065123a12f
 revision_id: 1
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit

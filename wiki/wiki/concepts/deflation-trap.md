@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/balance-sheet-recession
 - concepts/quantitative-easing
-revision_hash: sha256:5cbb4c55f33f2e521037ae051624e138d32455e570dc2e8377da951d5ec20f5c
 revision_id: 1
 sources:
 - sources/ms-2013-10-30-japanification-or-salvation

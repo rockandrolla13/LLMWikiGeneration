@@ -17,7 +17,6 @@ related:
 - entities/andrew-sheets
 - entities/morgan-stanley
 - entities/wanting-low
-revision_hash: sha256:8620a0395677db8c3d7ac9b3fd95beea0ae4aba59993b487fd225e8750e0b8fd
 revision_id: 1
 source_hash: sha256:d1c597b7e29f224636c843e5e75f8d8a2ff17c632e061e1524e17ad5f9b559c0
 source_path: raw/creditmacro/Morgan Stanley - Momentum for Diversification — Contents

@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/credible-government-policy
 page_type: concept
 related: []
-revision_hash: sha256:193453f77b3edc64923bb4d9c3306939aca24fd443fa7b23fc6ef99b66917a40
 revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory

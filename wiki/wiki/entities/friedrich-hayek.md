@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/friedrich-hayek
 page_type: entity
 related: []
-revision_hash: sha256:3cc01ec65c1315d85f42e0d33e3a5188e9c9358da37459c34d4e6557cce32061
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

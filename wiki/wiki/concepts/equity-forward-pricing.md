@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/carry-rolldown
 - concepts/forward-rate
-revision_hash: sha256:270a889d0ba59c55e2fcb8891477c94886dac579db48d4dc926053fec83a84f3
 revision_id: 1
 sources:
 - sources/ms-2019-04-05-long-dated-equity-vol

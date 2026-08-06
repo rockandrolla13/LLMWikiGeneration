@@ -20,7 +20,6 @@ related:
 - entities/aqr-capital-management
 - entities/cliff-asness
 - entities/john-wiley-sons
-revision_hash: sha256:af25b1f23dfc906e46ecc994787bc01f3e3d88fecbe26442104cbdc5ff5d088b
 revision_id: 1
 source_hash: sha256:f5f69175dd0136b6cc32fa434aba4dcc0b6e469bea8417c1a3e363e85206c469
 source_path: raw/creditmacro/Investing Amid Low Expected Returns - Making the Most

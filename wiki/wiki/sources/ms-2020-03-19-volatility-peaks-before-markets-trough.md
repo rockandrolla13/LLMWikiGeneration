@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:c6f3716d79779d496f5c13c209a0ef4840f134d1471be270d286f726393480f7
 revision_id: 1
 source_hash: sha256:bb25b8b62be02116d3cf211923abe3ea3ec73cba9b0166bce4c37e7746943af3
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Volatility

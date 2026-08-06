@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/alexander-philipov
 page_type: entity
 related: []
-revision_hash: sha256:37256635506bef7d80280922b7ff807169b6b398e03a5f7acb67274f339c480f
 revision_id: 1
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads

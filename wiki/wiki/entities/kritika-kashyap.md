@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/kritika-kashyap
 page_type: entity
 related: []
-revision_hash: sha256:84bb76845fec3efa772ffc6a47bfb8fc9dc97e05b3dffaa8116f6f774f225768
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

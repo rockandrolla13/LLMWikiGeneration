@@ -16,7 +16,6 @@ related:
 - concepts/parameter-efficient-fine-tuning
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:3438d167706356b5
 schema_version: 2
 uuid: eb615077-3123-5912-977e-5f523c9b0f4e
 content_hash: sha256:97eb0180b4176d8680f33fc6b27609901d9d8e0bf648981f373f03b7f6f242ad

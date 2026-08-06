@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/john-maynard-keynes
 page_type: entity
 related: []
-revision_hash: sha256:66dc5154b69ac0c24cf33a9870075c6f9fcf5237a64e06303fb353d8da330255
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

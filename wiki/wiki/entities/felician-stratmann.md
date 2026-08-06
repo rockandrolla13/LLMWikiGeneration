@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/felician-stratmann
 page_type: entity
 related: []
-revision_hash: sha256:95df90ee612f809a263ee788edf2f26d65b9c7a90f902067c9b5848641574a4b
 revision_id: 1
 sources:
 - sources/ms-2018-11-25-the-bear-has-begun

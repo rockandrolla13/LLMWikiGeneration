@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andreas-bruckner
 page_type: entity
 related: []
-revision_hash: sha256:0f19340740ba0fd95f95a1471d296f411155c9b14f3e2b3827b230ba17e5a6fa
 revision_id: 1
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum

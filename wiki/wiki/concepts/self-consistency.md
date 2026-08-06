@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/chain-of-thought-prompting
 mind_map_priority: medium
-revision_hash: sha256:33a04ebe97b657e0
 schema_version: 2
 uuid: fe06d4f0-3a58-5eb8-a110-51a159a2c804
 content_hash: sha256:762b3fd93e3e1116682f61b0c4523207f25c32995cff85b0811796dddeaf16f5

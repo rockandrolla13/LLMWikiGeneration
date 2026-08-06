@@ -8,7 +8,6 @@ page_id: concepts/backward-causation
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:c4330ff46021e12ddfc49bfaca53b8d5d69b750b8da9213aa50b4ee965031b87
 revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation

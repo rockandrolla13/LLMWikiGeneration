@@ -8,7 +8,6 @@ page_id: concepts/optimization-search-methods
 page_type: concept
 related:
 - concepts/trading-strategy-optimization
-revision_hash: sha256:9a6f084e5ea81e79c4617d19e64955c0c8fd75eec8252d99acb43845a12f0096
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

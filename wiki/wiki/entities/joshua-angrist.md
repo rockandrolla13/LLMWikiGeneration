@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/joshua-angrist
 page_type: entity
 related: []
-revision_hash: sha256:a218c43de033c5ba637a0570f3f95e05c70a8e5ae208c855033ead4a0ffa2e92
 revision_id: 2
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

@@ -41,7 +41,6 @@ related:
 - entities/patrick-lewis
 - entities/vectara
 mind_map_priority: medium
-revision_hash: sha256:87cbf327acc6df2b
 schema_version: 2
 uuid: 512fefe9-82ed-5a8f-8b39-873adece21c6
 content_hash: sha256:76a4767f2d60204c527584e53bad9a9d8a5b1643c847952fbcfb450675844406

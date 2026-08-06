@@ -20,7 +20,6 @@ related:
 - entities/adam-richmond
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_hash: sha256:46177f15d07b5cdfe38e903b7c4fa16752a58c59e6fd5d9310cefd94d2da77dc
 revision_id: 1
 source_hash: sha256:bb97391c85744d5db21422d04f18d42067e68f5ab6267a4ea28444ffab444e73
 source_path: raw/creditmacro/Morgan Stanley - Corporate Credit Research — Meet in

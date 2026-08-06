@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/minimum-variance-portfolio
-revision_hash: sha256:e95185a5ef5d4cc481637dda1c5d6c4cc004d89cb2132c52305cd2496b5f663a
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

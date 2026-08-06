@@ -15,7 +15,6 @@ sources:
 mind_map_priority: medium
 affiliation: Leiden Institute of Advanced Computer Science, Leiden University; Vrije
   Universiteit Amsterdam
-revision_hash: sha256:e6585ed0e58bfe9d
 schema_version: 2
 uuid: 31f94826-5caf-5440-8565-1d21e82f28b3
 content_hash: sha256:a3e4d68857139f31dda4ece42c57e75bd7f042e968bf2d3658f39ad6e75e53b9

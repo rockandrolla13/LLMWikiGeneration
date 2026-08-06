@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/wolfgang-lemke
 page_type: entity
 related: []
-revision_hash: sha256:1272187fe7458ca4c443718f96d4d51aa643dece804ff504b897198fd38ec688
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

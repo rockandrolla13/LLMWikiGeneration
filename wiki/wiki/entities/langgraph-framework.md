@@ -14,7 +14,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: medium
 affiliation: LangChain, Inc.
-revision_hash: sha256:b8405ef977ae92b9
 schema_version: 2
 uuid: ab0270cb-4705-52f5-9f9a-cd9fe8e32e17
 content_hash: sha256:545370bed75c0b9701c5eaed3b030cefb21cb86719f63aa145c3b9542ff96509

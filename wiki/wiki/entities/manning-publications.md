@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
-revision_hash: sha256:f79935397396efdb
 schema_version: 2
 uuid: 0f9ec5a5-8038-51e9-87b8-326c0d3774b4
 content_hash: sha256:3d6d12c3a3c16e458d14711b34deaa04cc0a6eb2d8efde654732f7a07407439c

@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: Microsoft Research
-revision_hash: sha256:83683ca1d627368c
 schema_version: 2
 uuid: 3cf94e20-72af-52f7-9f42-76b33e1a9da2
 content_hash: sha256:4c101353089fde8b06c95e3b0fc99274effac991ce0f5e53498983b8665ec10a

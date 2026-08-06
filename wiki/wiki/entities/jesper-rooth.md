@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jesper-rooth
 page_type: entity
 related: []
-revision_hash: sha256:95bf90994bddd8cc17ac050b95f6d3e33cc2d1d6a487a5decd630b8fba7cc539
 revision_id: 1
 sources:
 - sources/ms-2016-04-13-euro-sovereign-bond-market-indicators

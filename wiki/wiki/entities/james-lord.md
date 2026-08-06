@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-lord
 page_type: entity
 related: []
-revision_hash: sha256:362c46b1c0c756144f7d2ad26afec68eb7f6c047b249b6b2c87a08c6cdc16950
 revision_id: 1
 sources:
 - sources/ms-2019-02-13-ecb-periphery-one-size

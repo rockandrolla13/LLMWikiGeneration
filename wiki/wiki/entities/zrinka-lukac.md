@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/zrinka-lukac
 page_type: entity
 related: []
-revision_hash: sha256:3b7e4aa011802b4a662537dff01582be87e91886de1132776b580779d47236d9
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

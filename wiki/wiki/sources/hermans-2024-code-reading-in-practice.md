@@ -38,7 +38,6 @@ related:
 - entities/teresa-busjahn
 - entities/venera-arnaoudova
 mind_map_priority: medium
-revision_hash: sha256:7909e78158a23726
 schema_version: 2
 uuid: 641b0a80-af7b-52c7-9e6e-439a29100ff2
 content_hash: sha256:e1503efe3ba1dbc0b406eb60bd47c3da624f3c9a9d9ffd2d9b0542a4bb7d65f2

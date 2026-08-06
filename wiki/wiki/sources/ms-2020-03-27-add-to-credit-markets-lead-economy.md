@@ -24,7 +24,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:67f94cdf9bdbc64cd9eb47a20c2d4d28d5346732541d850d690f49e5e753a770
 revision_id: 1
 source_hash: sha256:05d02deb7d5b936b9fa2938c6c78c3ddb456560e2dde7e843be3f0228d6f5105
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Add to Credit

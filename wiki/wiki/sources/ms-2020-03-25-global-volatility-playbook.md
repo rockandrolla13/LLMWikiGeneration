@@ -23,7 +23,6 @@ related:
 - entities/serena-tang
 - entities/sheena-shah
 - entities/vishwas-patkar
-revision_hash: sha256:71dfed425369746c15895cea6cb2f347aca6286816d749c7f03796710404b3a9
 revision_id: 1
 source_hash: sha256:b221f412cd95358e2b1ed80e6eb26796a7bd921ed0ec28d110d20f9e6ed7f298
 source_path: raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global

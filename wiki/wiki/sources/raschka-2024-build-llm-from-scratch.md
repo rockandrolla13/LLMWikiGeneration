@@ -41,7 +41,6 @@ related:
 - entities/sebastian-raschka
 - entities/tiktoken
 mind_map_priority: medium
-revision_hash: sha256:92ac0419f91612c9
 schema_version: 2
 uuid: 2616b43b-ca78-5a71-9469-01e84f3b6d37
 content_hash: sha256:fabab54fc87a9338364fd4c7632742bd101c8b5674e84030b9b71b1455e0ba2f

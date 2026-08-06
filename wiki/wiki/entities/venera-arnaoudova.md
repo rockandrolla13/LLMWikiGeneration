@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Washington State University
-revision_hash: sha256:64c0e2825c486e60
 schema_version: 2
 uuid: 05c297ef-a263-51ff-bfcc-135d2b29ed85
 content_hash: sha256:2ec03ccfa1fd4488e755ca324989f304a1525f2026c66d9f39cae97c71816181

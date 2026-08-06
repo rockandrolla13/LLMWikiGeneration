@@ -43,7 +43,6 @@ related:
 - entities/paul-zikopoulos
 - entities/rob-thomas
 mind_map_priority: medium
-revision_hash: sha256:1a77353f5ece31ae
 schema_version: 2
 uuid: 805ffa70-705f-515e-82fc-c1b0e7098814
 content_hash: sha256:b1d8c8806ffa3aa8fa99c933db01d2d2ba2cbbdcfe0aac2761b74abdfcb78184

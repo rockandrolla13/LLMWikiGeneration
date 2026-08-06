@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: Hugging Face
-revision_hash: sha256:d8f2caa7f888a11d
 schema_version: 2
 uuid: 90ee5507-63e0-5374-8060-718ca41adaba
 content_hash: sha256:b7e6d450a2a43e162026dab592353698e579e8f694dd614fb5bcf9be7d99e357

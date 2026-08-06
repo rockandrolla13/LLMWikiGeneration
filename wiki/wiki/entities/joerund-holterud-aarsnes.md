@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/joerund-holterud-aarsnes
 page_type: entity
 related: []
-revision_hash: sha256:c5d05a1b3cc37f1c7ac2bd45e613fce05bcca2273ad395a3e0883a7ffefe6020
 revision_id: 1
 sources:
 - sources/ms-2012-03-12-what-were-watching

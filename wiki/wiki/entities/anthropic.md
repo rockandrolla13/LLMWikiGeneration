@@ -15,7 +15,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
-revision_hash: sha256:4da59b2f9ebeb65b
 schema_version: 2
 uuid: 8c25ecbe-9173-5410-911b-8e2657064ab9
 content_hash: sha256:88785a1a8ec08b7c74d658568cabc8cb067352fa2a62b42b2009ca3967914495

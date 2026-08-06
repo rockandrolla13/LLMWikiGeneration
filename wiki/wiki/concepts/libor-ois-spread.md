@@ -8,7 +8,6 @@ page_id: concepts/libor-ois-spread
 page_type: concept
 related:
 - concepts/government-bond-spreads
-revision_hash: sha256:176d0afa3afea86c2df3b8d1458b6bf322395a4d2ea810710586c96946c22d95
 revision_id: 1
 sources:
 - sources/ms-2018-04-05-funding-market-signals

@@ -19,7 +19,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_hash: sha256:7fab2bccbf4f465699783e1c4e6dbf8653d3a6078abe75852a20ed24f1b7d089
 revision_id: 1
 source_hash: sha256:948bb0cde6d2cb1c77c568e43cd368c23e3cf0b5ebc4dd68f59c98aa81779d0f
 source_path: raw/creditmacro/Morgan Stanley - MREL – Raising the Subordination Stakes

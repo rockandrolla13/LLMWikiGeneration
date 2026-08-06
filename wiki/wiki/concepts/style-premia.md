@@ -15,7 +15,6 @@ related:
 - concepts/residual-momentum
 - concepts/risk-premia
 - concepts/trend-following
-revision_hash: sha256:3ca305f826366faf0f894f0dd2c067844b4410019f3e739a71ab2786f6207774
 revision_id: 2
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns

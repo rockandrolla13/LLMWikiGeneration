@@ -8,7 +8,6 @@ page_id: concepts/at-at-theory-causal-influence
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:1e1b1cc198315972a8d8c4c5a447e1acab4c0429edeaa4368cb5cd9ac4996023
 revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation

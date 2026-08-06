@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jingli-li
 page_type: entity
 related: []
-revision_hash: sha256:54d0eb4083527a746db2ad6d6a5ec423c471cf28d91e7adfed44a743100f4138
 revision_id: 1
 sources:
 - sources/ms-2019-02-01-credit-strategy-chartbook

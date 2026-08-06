@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/princeton-university-press
 page_type: entity
 related: []
-revision_hash: sha256:c7ee54cbec0b1d412c086030b29ff6df02673b3955d25d65871db13b71e6a157
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

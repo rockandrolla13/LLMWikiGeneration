@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/liquidity-risk
 - concepts/statistical-arbitrage
-revision_hash: sha256:4de7770c38f7e28fc6474a36b6a480de90c688700934b85f4835c87960f6ae04
 revision_id: 1
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit

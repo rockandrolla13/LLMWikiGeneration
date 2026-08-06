@@ -20,7 +20,6 @@ related:
 - entities/naomi-poole
 - entities/phanikiran-naraparaju
 - entities/wanting-low
-revision_hash: sha256:e242f38ba4c16bf50765d790b5c5fbb95f9ced47091b4152feda72e64dbe8faa
 revision_id: 1
 source_hash: sha256:adf09f116f85b446943677ca24fcb68c97bc23308975de450b39372d686741c4
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook

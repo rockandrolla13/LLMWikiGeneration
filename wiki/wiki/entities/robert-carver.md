@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-carver
 page_type: entity
 related: []
-revision_hash: sha256:206d480f80dcad6077094fa13be2677b794ae9720b403a0d7e29adc83cf7826d
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

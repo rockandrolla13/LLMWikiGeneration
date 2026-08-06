@@ -10,6 +10,7 @@ This package provides file operations:
 from .hashing import compute_content_hash, compute_file_hash
 from .wikilinks import (
     extract_wikilinks,
+    normalize_link_target,
     normalize_page_id,
     page_id_to_path,
     path_to_page_id,
@@ -37,6 +38,7 @@ __all__ = [
     "compute_file_hash",
     # Wikilinks
     "extract_wikilinks",
+    "normalize_link_target",
     "normalize_page_id",
     "page_id_to_path",
     "path_to_page_id",

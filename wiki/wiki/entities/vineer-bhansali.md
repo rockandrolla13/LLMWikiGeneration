@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vineer-bhansali
 page_type: entity
 related: []
-revision_hash: sha256:f3828c0df5cd770ac402d308b5b97aac0cf4153f6dd11e7cf4241f7744122880
 revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging

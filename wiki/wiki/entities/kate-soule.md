@@ -14,7 +14,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
 affiliation: IBM Research
-revision_hash: sha256:166c3ce54389ce07
 schema_version: 2
 uuid: 33a950cf-5bd0-514a-a914-505197dd43bf
 content_hash: sha256:c86ff0720eed87c7a57c21d7141195c18e5261680388c6658828ffddcca89647

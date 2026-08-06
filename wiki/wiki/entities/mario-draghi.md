@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/mario-draghi
 page_type: entity
 related: []
-revision_hash: sha256:5697ca720652a64d56aa88771bd9e3d91f0d27b6fd4d80db9e4d55de4ad93e2d
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

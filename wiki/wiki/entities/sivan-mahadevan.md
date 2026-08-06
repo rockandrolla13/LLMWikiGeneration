@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sivan-mahadevan
 page_type: entity
 related: []
-revision_hash: sha256:d8df5d5af9a7e289c1cae9bee4d9a1ad24839c278efbe49d9c7e9411d6b07fcf
 revision_id: 1
 sources:
 - sources/ms-2011-05-06-differentiation-divergence

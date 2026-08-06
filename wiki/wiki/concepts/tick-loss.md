@@ -10,7 +10,6 @@ related:
 - concepts/quantile-regression
 - concepts/strictly-proper-scoring-rules
 - concepts/value-at-risk
-revision_hash: sha256:d9a591136ca74843a68f06fad5b09084c6371da439edd6090da026b217cecd4a
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

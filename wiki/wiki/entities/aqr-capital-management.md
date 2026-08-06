@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/aqr-capital-management
 page_type: entity
 related: []
-revision_hash: sha256:b05aecd1eb16a590a8b22f226c3811766815e22768d3ab010fdfa96b11246cf0
 revision_id: 1
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns

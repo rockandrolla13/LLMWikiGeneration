@@ -16,7 +16,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_hash: sha256:6fd390ec26976d8539aae1d58b25bc87d27d20a7c8897ae6ab5610cddd1db9c5
 revision_id: 1
 source_hash: sha256:ce1f1cfef819bcd339d688c485b033055a7bf91033b14c1dea49f1295b6073b6
 source_path: raw/creditmacro/Morgan Stanley - European Banks — Facing the Cycle –

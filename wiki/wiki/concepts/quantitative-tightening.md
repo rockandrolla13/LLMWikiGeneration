@@ -11,7 +11,6 @@ related:
 - concepts/great-moderation
 - concepts/monetary-transmission-mechanism
 - concepts/quantitative-easing
-revision_hash: sha256:aeae0dbe6bdef873c3174cf9d9ce92e94bab9be66ec976620dbd0ea7cddb3e47
 revision_id: 2
 sources:
 - sources/ms-2018-11-02-at1-primer-extension-par-calls

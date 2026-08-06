@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_hash: sha256:63edb72d902f3cca67340170f1ac1e164e625625420b062620633e83ca18fb48
 revision_id: 1
 source_hash: sha256:b8f853176c8126180a40af1f14777d884badc585f879735bc120051c795a3b61
 source_path: raw/creditmacro/Morgan Stanley - European High Yield Strategy Monthly

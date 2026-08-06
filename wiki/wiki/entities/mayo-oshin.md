@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: medium
-revision_hash: sha256:e9b847775526cf8b
 schema_version: 2
 uuid: f79f8c8c-45a0-5ee7-b01e-77585f962c90
 content_hash: sha256:674ea8c2d8d81902593c6d06722b5ce355bcc6280b7386bffb95ae1921b37feb

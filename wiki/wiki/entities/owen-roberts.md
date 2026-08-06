@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/owen-roberts
 page_type: entity
 related: []
-revision_hash: sha256:5e19ee359ea489484319754f29a47f3a8aa50a2441e03b3bb13889168c719984
 revision_id: 1
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/shahraab-ahmad
 page_type: entity
 related: []
-revision_hash: sha256:3a38312e60792d134b7bbac013bd4343784887e970a257823b72d11545f73a18
 revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund

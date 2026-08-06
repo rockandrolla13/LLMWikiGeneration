@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
 affiliation: Confluent
-revision_hash: sha256:a877929ab39a7946
 schema_version: 2
 uuid: 3ed7bcb5-a064-5f3b-9c96-0c8aa1afa5db
 content_hash: sha256:3141fbd7432c4468900b7534c245a468c636b37f761094152b645b29cc5fc313

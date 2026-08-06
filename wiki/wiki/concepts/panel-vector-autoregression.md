@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/difference-in-differences
 - concepts/structural-vector-autoregression
-revision_hash: sha256:115172a3c7c73a76cd85b66c898e10c9fc8e8df036162700f1108d80ff008994
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

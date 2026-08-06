@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/working-memory-in-programming
 mind_map_priority: medium
-revision_hash: sha256:72504b7364df9bd5
 schema_version: 2
 uuid: 33b567a9-4dad-5a7a-876c-02693d253d5a
 content_hash: sha256:ed735a173c18816e968e975c2ca0dbeba1e92fd3e46febfb421dc4dfbec6bf37

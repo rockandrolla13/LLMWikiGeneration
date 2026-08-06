@@ -42,7 +42,6 @@ related:
 - entities/paco-nathan
 - entities/tomaz-bratanic
 mind_map_priority: medium
-revision_hash: sha256:8183d1362d61b136
 schema_version: 2
 uuid: ff175b47-6226-5fd8-849c-25909602fbe1
 content_hash: sha256:a9fda144074bdf08b4a2632c2d0668d6a23dfec98cab47e232155aeb8544a2d3

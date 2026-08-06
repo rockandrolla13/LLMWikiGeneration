@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/bruna-skarica
 page_type: entity
 related: []
-revision_hash: sha256:b4e4e43ca3b958067f8be5c1e40cf13084c65f652230f1ae256c66ec44538888
 revision_id: 1
 sources:
 - sources/ms-2019-02-15-ongoing-weakness

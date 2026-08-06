@@ -22,7 +22,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:19c6176205f18bb486d8143f612305f14bca71da665d4e1402ca63e5019ca839
 revision_id: 1
 source_hash: sha256:493ebd600ebcc93b5ddd37ed8e2390a419371ff234f401f013638a9fa2dcb19a
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy What We’re

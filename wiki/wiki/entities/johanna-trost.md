@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/johanna-trost
 page_type: entity
 related: []
-revision_hash: sha256:fe6442fab4ae497c4ecf440ca8a9fc70b1e747cb5f4635b48929a736a00bf8fa
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

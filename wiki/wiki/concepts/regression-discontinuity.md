@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/instrumental-variables
-revision_hash: sha256:9e8d42f27e3036adb32e1b667d7d5c6150b470eba523a8c5d3fae3ceac94be67
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

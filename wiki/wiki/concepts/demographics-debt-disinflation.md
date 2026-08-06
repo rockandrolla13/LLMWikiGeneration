@@ -8,7 +8,6 @@ page_id: concepts/demographics-debt-disinflation
 page_type: concept
 related:
 - concepts/quantitative-easing
-revision_hash: sha256:78e01af7f5b8a001fc8ff5909afcad6152a01ffcb6759bfbcdc111c681363ea3
 revision_id: 1
 sources:
 - sources/ms-2020-03-29-full-court-policy-press

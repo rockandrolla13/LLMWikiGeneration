@@ -8,7 +8,6 @@ page_id: concepts/jump-diffusion-option-pricing
 page_type: concept
 related:
 - concepts/stochastic-volatility-with-jumps
-revision_hash: sha256:6cc95215237ad6a9ccaf82482e73a7cbcc694140ad0eb62a0007e779fb5cb63d
 revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging

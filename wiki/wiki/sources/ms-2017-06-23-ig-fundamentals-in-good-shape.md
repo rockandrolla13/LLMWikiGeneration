@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_hash: sha256:ca26b37c701dc96cfd0406238b1428f92f03298ca1b8eba87ce6a918af1ee5dd
 revision_id: 1
 source_hash: sha256:205d1b78cb3c137a160de95822ea91fe7ef45a69270b4e577478284d055b3a8e
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy — IG Fundamentals

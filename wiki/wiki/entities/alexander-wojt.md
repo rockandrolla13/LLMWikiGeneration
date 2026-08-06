@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/alexander-wojt
 page_type: entity
 related: []
-revision_hash: sha256:e47005719dc6637132640311747830ac9d86afd548ba798859226a2377f55b27
 revision_id: 1
 sources:
 - sources/ms-2016-03-22-xccy-basis-primer

@@ -44,7 +44,6 @@ related:
 - entities/tom-taulli
 - entities/worldline
 mind_map_priority: medium
-revision_hash: sha256:1828104a73669f4b
 schema_version: 2
 uuid: 1bb211b6-0d40-5caf-afba-7fd70c8e1d36
 content_hash: sha256:d338889e1096e75387d64345ce44ff3371a4c6a4e951364d0230597b54a2c3a1

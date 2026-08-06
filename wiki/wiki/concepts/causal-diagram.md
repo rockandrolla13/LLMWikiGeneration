@@ -10,7 +10,6 @@ related:
 - concepts/causal-dags-confounding-selection-bias
 - concepts/causal-inference
 - concepts/structural-vector-autoregression
-revision_hash: sha256:96261ae36c6a03e8c37dabe9eddba6dfadda5ca59dc65c1c1b32734c7b01481e
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

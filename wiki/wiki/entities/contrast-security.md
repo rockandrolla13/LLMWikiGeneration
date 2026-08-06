@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
-revision_hash: sha256:8094558c82e7ec90
 schema_version: 2
 uuid: bea04c85-c00b-57fc-a888-932777449a5c
 content_hash: sha256:3046502bf5e9760b6019cf54ba3a8064de031c417343b9e7050a6252149976ed

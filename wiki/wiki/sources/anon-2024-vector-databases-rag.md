@@ -32,7 +32,6 @@ related:
 - concepts/vector-indexing
 - entities/john-anderson
 mind_map_priority: medium
-revision_hash: sha256:625063ab1a1a1173
 schema_version: 2
 uuid: 52cc7862-4712-5c7a-a7b3-5cb52eef13b5
 content_hash: sha256:0a77bc5e02ec40704a96b6471692768bdb029be1327147825ae7578420cb06cc

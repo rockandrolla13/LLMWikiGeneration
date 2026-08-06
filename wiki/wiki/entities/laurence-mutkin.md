@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/laurence-mutkin
 page_type: entity
 related: []
-revision_hash: sha256:e579c2ea3a7f518ade5c18325292bb5ba992a469e2612e36d60286059be43bb4
 revision_id: 1
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option

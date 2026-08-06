@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/backtesting
 - concepts/factor-models
-revision_hash: sha256:903c18077401044d49954e33102e42436107dee3f1fe7b751f0aab7ed8a492ea
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

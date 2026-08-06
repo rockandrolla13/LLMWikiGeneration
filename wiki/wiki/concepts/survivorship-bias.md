@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/look-ahead-bias
-revision_hash: sha256:cef5486be3e9d58059562b4887b0ca5b9a8b5ec5356485896262959c2d0d90d8
 revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/mit-press
 page_type: entity
 related: []
-revision_hash: sha256:8e2d6147f2c88969d2b56c5f882ddbca9962f9e3c2119819ea7457250e31a6b0
 revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory

@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
-revision_hash: sha256:e1685f3feeb4f370
 schema_version: 2
 uuid: 0c6b8f98-81e4-57d0-bd04-1f69b6b1c3af
 content_hash: sha256:baa399d3aeecea9eeee83f5ed6752d61ef4a26a0f79a5c159ca0830a7a82b3a5

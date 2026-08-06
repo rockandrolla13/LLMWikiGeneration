@@ -12,7 +12,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:39b2d2471a057cf1
 schema_version: 2
 uuid: d1f38785-daf1-577d-a768-19ae2ece8d4b
 content_hash: sha256:494cf3f5a8f9ebe7d6e5e0bcfec2cc50870dcf546f4982d196de22b34f7cf2d8

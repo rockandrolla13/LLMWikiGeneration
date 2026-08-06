@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_hash: sha256:c12a210fc6423e86017bf3a0d8647d294029d2cd3417a81989aeb88edc28aa91
 revision_id: 1
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns

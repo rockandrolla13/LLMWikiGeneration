@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/logarithmic-score
 - concepts/quantile-regression
-revision_hash: sha256:a5688a496dbaff787c7241622fae9dd12010486ce7639b289c8770dbc317281a
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

@@ -23,7 +23,6 @@ related:
 - entities/sheena-shah
 - entities/vishwas-patkar
 - entities/wanting-low
-revision_hash: sha256:b0dad6ff252b48316577ee0d8749b8897777bbd32c3bbc36ee6445a877bc7e93
 revision_id: 1
 source_hash: sha256:d48e5c13e435e351ee91197e9c9b90dc0f8d857f00132d5f17ccf928ea900176
 source_path: raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Global

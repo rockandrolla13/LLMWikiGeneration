@@ -41,7 +41,6 @@ related:
 - entities/stanford-cs-329s
 - entities/tvm
 mind_map_priority: medium
-revision_hash: sha256:760cdc827eb6074b
 schema_version: 2
 uuid: b51ab7f3-ad8e-561b-9b71-4c43d0a2afe1
 content_hash: sha256:1271f8e774211f04887e8bc83662fa877dceeece5a436a885178623a5c473f6c

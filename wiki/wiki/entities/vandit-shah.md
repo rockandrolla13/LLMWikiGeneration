@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vandit-shah
 page_type: entity
 related: []
-revision_hash: sha256:45265aa6226e3a0c20a8e2995e7b357343cd3c0583e57d5ddd822e8629837fdc
 revision_id: 1
 sources:
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits

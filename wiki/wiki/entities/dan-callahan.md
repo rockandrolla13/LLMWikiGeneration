@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/dan-callahan
 page_type: entity
 related: []
-revision_hash: sha256:cf9732f3887f82f4a95d65a437e8dcfe598924fcc6ef004b5d59c09fba69a7c7
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/mean-reversion
 - concepts/statistical-arbitrage
-revision_hash: sha256:e86814222a447f13b516b927f907a59b6103cb771ca53967972a88f049de7a25
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

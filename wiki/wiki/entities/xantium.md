@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/xantium
 page_type: entity
 related: []
-revision_hash: sha256:a27b174eeb58d77317402d0f2d6d17f9a1947ac674cbefa6db8d6aa24eaa91d0
 revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan

@@ -578,15 +578,21 @@ class TestEdgeCases:
         with pytest.raises(json.JSONDecodeError):
             manifest.read_all()
 
-    def test_missing_required_field(self, tmp_path):
-        """Missing required field raises error on deserialize."""
+    def test_missing_op_type_falls_back_to_legacy_shape(self, tmp_path):
+        """An entry without op_type is read as a legacy entry, not an error.
+
+        Wikis whose pages were authored directly carry hand-written manifest
+        lines predating the current schema. Raising on them made every
+        manifest-reading command unusable on those wikis."""
         manifest_path = tmp_path / "manifest.jsonl"
         # Missing op_type
         manifest_path.write_text('{"op_id":"test","timestamp":"2024-01-01T00:00:00Z","actor":"llm","inputs":{},"outputs":{},"status":"completed"}\n')
 
         manifest = Manifest(manifest_path)
-        with pytest.raises(KeyError):
-            manifest.read_all()
+        entries = manifest.read_all()
+        assert len(entries) == 1
+        assert entries[0].op_id == "test"
+        assert entries[0].op_type is OperationType.UPDATE
 
     def test_timestamp_precision(self):
         """Timestamps preserve microsecond precision."""

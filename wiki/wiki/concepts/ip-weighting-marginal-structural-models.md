@@ -13,7 +13,6 @@ related:
 - concepts/doubly-robust-estimation
 - concepts/missing-data-imputation
 - concepts/propensity-score
-revision_hash: sha256:db3aee82720fa61fd341349ffc3ede573b541376ab74823f7f6156a47f69779a
 revision_id: 2
 sources:
 - sources/gentzel-2021-osrct-evaluation

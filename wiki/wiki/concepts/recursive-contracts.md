@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/recursive-contracts
 page_type: concept
 related: []
-revision_hash: sha256:9d2613be9fa11db374bb5fb9d21202fcc15817131b9e614b2337623ce4fbcaca
 revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory

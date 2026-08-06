@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/oxford-university-press
 page_type: entity
 related: []
-revision_hash: sha256:b5cbdb40d12c0b2297e737acb1578e2ac1bc7b3332753d4c892e4b3ca134883d
 revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining

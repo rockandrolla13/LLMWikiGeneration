@@ -42,7 +42,6 @@ related:
 - entities/owasp
 - entities/steve-wilson
 mind_map_priority: medium
-revision_hash: sha256:788a72e903e004df
 schema_version: 2
 uuid: 777344ed-b13e-5c8c-9607-01aca0d4001a
 content_hash: sha256:942fc1d7cebd30a1a306e554cf1988a63506aabc983f0d1623c3cb2f58c151ed

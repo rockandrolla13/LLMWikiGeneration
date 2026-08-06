@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/resilience-self-organization-hierarchy
 page_type: concept
 related: []
-revision_hash: sha256:20471b7a6e13a2cbfdb2d89bca2a1ce358f8f102366d836215ea0f3046596542
 revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems

@@ -12,7 +12,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 related: []
 mind_map_priority: medium
-revision_hash: sha256:83590a9b89d54c16
 schema_version: 2
 uuid: ac695159-82c7-56b9-8556-6120a988ef9e
 content_hash: sha256:f3b24d4163d4f4f15fdf5713cea9a0057efad481fffb48747f18beed0a29dcde

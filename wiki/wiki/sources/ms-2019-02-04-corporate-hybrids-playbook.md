@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_hash: sha256:6a61f5f442a0194bcc0262e40be75d4840b400a003233c9c6acf74f6dda8d84d
 revision_id: 1
 source_hash: sha256:ed2e84500f1acbd5f42bf4328820fdd02c55da2d8144bf16246dcdcda945e821
 source_path: raw/creditmacro/Morgan Stanley - European Credit Strategy — Corporate

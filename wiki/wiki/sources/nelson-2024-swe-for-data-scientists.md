@@ -40,7 +40,6 @@ related:
 - entities/tim-peters
 - entities/weights-and-biases
 mind_map_priority: medium
-revision_hash: sha256:1be67d4ba7625b6b
 schema_version: 2
 uuid: 483e2627-4859-5a0d-b233-a37c0781d9d5
 content_hash: sha256:34121f72c4cbab3a87256786b6347bae56314d6ca3be2c3c8f870814a4c882a1

@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
 affiliation: Claypot AI; Stanford University (CS 329S)
-revision_hash: sha256:756a4fc4ab3a9ebb
 schema_version: 2
 uuid: 53e25885-4a48-5580-9091-f63dcda13b0d
 content_hash: sha256:37f13a6d1b0776332df16025796758afc71e529336cef32a0a3b45200c5f827e

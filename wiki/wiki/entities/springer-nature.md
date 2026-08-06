@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/springer-nature
 page_type: entity
 related: []
-revision_hash: sha256:5fa0358a6d1da3d872653fbf0b9e45ec3ff7895db4cfefdbc4ca82423afa4cf8
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

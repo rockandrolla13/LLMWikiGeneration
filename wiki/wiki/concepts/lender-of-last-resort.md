@@ -8,7 +8,6 @@ page_id: concepts/lender-of-last-resort
 page_type: concept
 related:
 - concepts/sovereign-debt-crisis
-revision_hash: sha256:7a0b55d7d742e6599993ea195b1cc662cfbd52f8756447be69f6f01efd309194
 revision_id: 1
 sources:
 - sources/ms-2011-11-29-europe-in-the-balance

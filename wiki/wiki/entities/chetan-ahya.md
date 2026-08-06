@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/chetan-ahya
 page_type: entity
 related: []
-revision_hash: sha256:aaccedab4e20c951e6b53717eca0f9af16d65e9a05cdc1688733ccc1f96b503e
 revision_id: 1
 sources:
 - sources/ms-2016-06-15-1937-38-redux

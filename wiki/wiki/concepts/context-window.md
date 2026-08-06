@@ -12,7 +12,6 @@ sources:
 - sources/berryman-2024-prompt-engineering-llms
 related: []
 mind_map_priority: medium
-revision_hash: sha256:d5635b92331c1327
 schema_version: 2
 uuid: bdc1290f-cfa1-5ce0-a9f4-5adef995529d
 content_hash: sha256:886ca545e873196b86221a4bc505dabeb21ba2b244d455f77838aa05ccbbb691

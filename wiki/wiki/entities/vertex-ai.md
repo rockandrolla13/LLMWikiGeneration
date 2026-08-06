@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: Google Cloud
-revision_hash: sha256:ca7ce200b6b7b764
 schema_version: 2
 uuid: 95f55c28-035c-521f-860a-66adb813568d
 content_hash: sha256:898c9c38eb8319bd06a43430229ee11f117471df0c97ddb208f15582dde28655

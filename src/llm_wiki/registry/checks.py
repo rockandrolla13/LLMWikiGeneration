@@ -272,8 +272,8 @@ class WikilinksCheck:
                 metadata, _ = parse_page(page_path)
                 if "title" in metadata:
                     page_titles.add(metadata["title"])
-            except:
-                pass
+            except Exception:
+                continue
 
         # Check all wikilinks
         for page_path in wiki.list_pages():
@@ -284,8 +284,8 @@ class WikilinksCheck:
                     # Check if link target exists (by title)
                     if link not in page_titles:
                         broken_links.append(f"{page_path.name}: [[{link}]]")
-            except:
-                pass
+            except Exception:
+                continue
 
         if broken_links:
             return VerificationResult(

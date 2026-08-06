@@ -18,7 +18,6 @@ related:
 - entities/matthew-hornbach
 - entities/morgan-stanley
 - entities/robert-j-brown
-revision_hash: sha256:a0b280035908736579752a9057ebe7740efd6f7ae866d2d4ae82f875c6ea3b7f
 revision_id: 1
 source_hash: sha256:2faba052084fd38b9b6c55ff0a1a90a77b3cbd466d6f2a51d810e6d0b78100f9
 source_path: raw/creditmacro/Morgan Stanley - Government Bond Auction Pipeline — The

@@ -22,7 +22,6 @@ related:
 - entities/lars-peter-hansen
 - entities/mit-press
 - entities/thomas-sargent
-revision_hash: sha256:d9f869ecc5d43505f03a10aff53d7f0fb47ffcb8abc4f5e66ed07d1e4774fad2
 revision_id: 1
 source_hash: sha256:cbcc89df77fd7a37de58c206ad9e69447c6ec5c9f39dd701e1bc8a51eebdc769
 source_path: raw/creditmacro/Recursive Macroeconomic Theory (Lars Ljungqvist, Thomas

@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Contrast Security; OWASP
-revision_hash: sha256:7aeb5ca70fcca912
 schema_version: 2
 uuid: fb286cd6-7b5c-5cd4-9094-d785743c27d4
 content_hash: sha256:efe2bda40adb70f8b2dda553e9144963f37a6b5620090332b86e5b4b5cdf204e

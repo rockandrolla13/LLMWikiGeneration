@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/adams-thesis
 page_type: concept
 related: []
-revision_hash: sha256:9ce20707a852cd3cc30428954998cfa479d77c9628bd054bd297ea2dac5f5f9e
 revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability

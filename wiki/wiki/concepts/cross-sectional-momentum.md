@@ -10,7 +10,6 @@ related:
 - concepts/bond-momentum
 - concepts/factor-investing
 - concepts/statistical-arbitrage
-revision_hash: sha256:3ae6b0a414cbeb6169a38e66629cf8af8fcb2735149cab0b523be857944cf461
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

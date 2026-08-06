@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/alvaro-serrano
 page_type: entity
 related: []
-revision_hash: sha256:8c8974eacb9937d9c9f83ccb74e173046f0290baf9095f4309efe22bfaa5db61
 revision_id: 1
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk

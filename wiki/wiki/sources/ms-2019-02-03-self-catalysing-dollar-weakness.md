@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:c3d628e2981926cf079a73d53ac4dc9bb3f6bf8b51bce812fa3b3e55a56c0fb7
 revision_id: 1
 source_hash: sha256:9fc5596518022a98c985c59546c3efcee8464d0e98a8c9ee2199c58b9d6d1673
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — Could Dollar

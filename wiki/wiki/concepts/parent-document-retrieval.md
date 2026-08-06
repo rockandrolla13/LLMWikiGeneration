@@ -12,7 +12,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:6fbeb18293c0632b
 schema_version: 2
 uuid: b745cad7-ef1d-5bd5-aeee-6913c6b551c5
 content_hash: sha256:455d2c9b5138852e0e3633ce2f23b313d3c2e601b9d07c2893772034e00711a9

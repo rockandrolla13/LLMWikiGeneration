@@ -12,7 +12,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3f9054672b4982c5
 schema_version: 2
 uuid: 79a25341-e380-5188-a88d-97d881969d29
 content_hash: sha256:9da3b70c3ba0391d74416d4597b47e64272b19d61b2ee979f98f2dbe95528d65

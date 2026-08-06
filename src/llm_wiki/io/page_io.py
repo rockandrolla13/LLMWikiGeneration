@@ -10,6 +10,42 @@ import frontmatter
 from .hashing import compute_content_hash
 
 
+# Marker stamped into every artifact this tool generates. Its presence is what
+# distinguishes a regenerable file from hand-curated work that must not be
+# overwritten, so the literal is defined once and imported everywhere.
+GENERATED_MARKER = "AUTO-GENERATED FILE - DO NOT EDIT MANUALLY"
+
+# How far into a file to look for the marker. It sits after the YAML frontmatter,
+# and real pages carry ~6 KB of frontmatter, so a small window would scan past it
+# and misreport a generated file as hand-curated.
+_MARKER_SEARCH_BYTES = 65536
+
+
+def is_generated(file_path: Path) -> bool:
+    """Check whether an artifact is safe for the generator to overwrite.
+
+    Safe means one of:
+    - the file does not exist yet (nothing to lose), or
+    - the file carries GENERATED_MARKER, so this tool wrote it.
+
+    Hand-curated artifacts carry no marker. Overwriting one destroys work the
+    generator cannot reproduce, so callers must treat False as "skip".
+
+    Args:
+        file_path: Path to the artifact
+
+    Returns:
+        True if absent or generator-owned, False if hand-curated
+    """
+    if not file_path.exists():
+        return True
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        head = f.read(_MARKER_SEARCH_BYTES)
+
+    return GENERATED_MARKER in head
+
+
 def parse_page(file_path: Path) -> tuple[dict, str]:
     """Parse a markdown file with YAML frontmatter.
 

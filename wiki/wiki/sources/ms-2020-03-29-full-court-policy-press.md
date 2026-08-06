@@ -14,7 +14,6 @@ related:
 - concepts/quantitative-easing
 - entities/chetan-ahya
 - entities/morgan-stanley
-revision_hash: sha256:6400946eca3b54e79f96c5d688465975beaa46cebbaf27d2430df49680b89d36
 revision_id: 1
 source_hash: sha256:d7b7eb6d3c7dad905b43cd3954f0d2ace689e23ec92ce21f1547bf6b52e06f82
 source_path: raw/creditmacro/Morgan Stanley - Sunday Start — Chetan Ahya - 2020-03-29.md

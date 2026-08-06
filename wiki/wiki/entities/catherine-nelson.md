@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: SAP Concur
-revision_hash: sha256:4c3790bb6db7cafb
 schema_version: 2
 uuid: 584e875b-e141-5711-af95-2e4543b53041
 content_hash: sha256:2206967a83d5f01c15d161d41c0f2375036816987dcd28cc97419a99da124dce

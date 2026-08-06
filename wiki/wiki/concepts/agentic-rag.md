@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/retrieval-augmented-generation
 mind_map_priority: medium
-revision_hash: sha256:0cf2f08bf0ca06e4
 schema_version: 2
 uuid: b67bf435-d10f-5c42-9e20-444241d91852
 content_hash: sha256:3f81f3aaaaf29e60b024783f331f554d6c13f1a5ad80a0ed04f3a6a3e433935f

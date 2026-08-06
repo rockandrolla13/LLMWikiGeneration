@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/global-tactical-asset-allocation
 - concepts/minimum-variance-portfolio
-revision_hash: sha256:67908f0ea874bff15d91cee57bdcd781e802fc1c55115a1650d5e18793337355
 revision_id: 1
 sources:
 - sources/ms-2020-03-20-risk-parity-deleveraging

@@ -19,7 +19,6 @@ related:
 - entities/michael-mauboussin
 - entities/michael-porter
 - entities/philip-tetlock
-revision_hash: sha256:1935cce1dd43c8e75b365e19f34a3aaad2a2f3bb3b03ba438ce4c358fd80a0c9
 revision_id: 1
 source_hash: sha256:0c7a858ec18a7bc0a8fb9780f015d7264a0158ec18f2530b846612919f09593e
 source_path: raw/creditmacro/article_bayesandbaserates_ltr.md

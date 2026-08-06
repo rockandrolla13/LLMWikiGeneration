@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-j-wilson
 page_type: entity
 related: []
-revision_hash: sha256:0d6482e2a0f5efe6e3e6c2f5d05e6cfd0455afbed949130e47bc452b6c92ecd8
 revision_id: 1
 sources:
 - sources/ms-2019-03-01-global-insights-polling

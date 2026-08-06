@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/default-rates
 - concepts/factor-models
-revision_hash: sha256:f36dbb66bf8ebfd12fcb63d2bcfd2be6b202fe4460f7fb087e2f13d6af6f558d
 revision_id: 1
 sources:
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults

@@ -4,6 +4,7 @@ The Wiki class is the main entry point for all wiki operations.
 It coordinates between config, manifest, and page operations.
 """
 
+from .clock import utc_now
 from datetime import datetime
 from pathlib import Path
 from typing import Optional, Iterator
@@ -19,6 +20,7 @@ from .manifest import (
     OperationOutputs,
     Actor,
 )
+from .io.page_io import GENERATED_MARKER
 from .frontmatter import (
     parse_page,
     write_page,
@@ -66,20 +68,33 @@ class Wiki:
         """Path to manifest.jsonl operation ledger."""
         return self.root / "manifest.jsonl"
 
+    def _configured_dir(self, attr: str, default: str) -> Path:
+        """Resolve a configured directory, falling back only when unconfigured.
+
+        These paths must not depend on whether config happens to have been
+        lazily loaded yet. Keying off `self._config` made the same property
+        return the default before load and the configured value after, so the
+        answer changed with call order. Read through `self.config`, and use the
+        default only when there is genuinely no config file to read.
+        """
+        if self._config is None and not self.config_path.exists():
+            return self.root / default
+        return self.root / getattr(self.config, attr)
+
     @property
     def raw_dir(self) -> Path:
         """Path to raw sources directory."""
-        return self.root / (self.config.raw_dir if self._config else "raw")
+        return self._configured_dir("raw_dir", "raw")
 
     @property
     def wiki_dir(self) -> Path:
         """Path to wiki content directory."""
-        return self.root / (self.config.wiki_dir if self._config else "wiki")
+        return self._configured_dir("wiki_dir", "wiki")
 
     @property
     def assets_dir(self) -> Path:
         """Path to assets directory."""
-        return self.root / (self.config.assets_dir if self._config else "raw/assets")
+        return self._configured_dir("assets_dir", "raw/assets")
 
     @property
     def config(self) -> WikiConfig:
@@ -173,8 +188,18 @@ class Wiki:
         return entry
 
     def _create_index(self) -> None:
-        """Create the initial wiki/index.md file."""
-        content = f"""# {self.config.name}
+        """Create the initial wiki/index.md file.
+
+        The placeholder carries the generator marker so rebuild recognises it as
+        generator-owned. Without it the guard would mistake this file for
+        hand-curated content and refuse to ever regenerate it.
+        """
+        content = f"""<!--
+{GENERATED_MARKER}
+Placeholder written by init; replaced on first rebuild.
+-->
+
+# {self.config.name}
 
 Master catalog of all pages in this wiki.
 
@@ -208,20 +233,20 @@ Master catalog of all pages in this wiki.
 **Stats**
 - Total sources: 0
 - Total pages: 0
-- Last updated: {datetime.utcnow().strftime('%Y-%m-%d')}
+- Last updated: {utc_now().strftime('%Y-%m-%d')}
 """
         index_path = self.wiki_dir / "index.md"
         metadata = {
             "title": "Wiki Index",
             "page_type": "index",
-            "created": datetime.utcnow().isoformat() + "Z",
-            "updated": datetime.utcnow().isoformat() + "Z",
+            "created": utc_now().isoformat() + "Z",
+            "updated": utc_now().isoformat() + "Z",
         }
         write_page(index_path, metadata, content)
 
     def _create_log(self, init_entry: ManifestEntry) -> None:
         """Create the initial wiki/log.md file."""
-        date = datetime.utcnow().strftime("%Y-%m-%d")
+        date = utc_now().strftime("%Y-%m-%d")
         content = f"""# Wiki Log
 
 Chronological record of wiki operations.
@@ -246,8 +271,8 @@ Ready to ingest sources.
         metadata = {
             "title": "Wiki Log",
             "page_type": "log",
-            "created": datetime.utcnow().isoformat() + "Z",
-            "updated": datetime.utcnow().isoformat() + "Z",
+            "created": utc_now().isoformat() + "Z",
+            "updated": utc_now().isoformat() + "Z",
         }
         write_page(log_path, metadata, content)
 
@@ -346,7 +371,7 @@ Ready to ingest sources.
             description: Human-readable description
         """
         log_path = self.wiki_dir / "log.md"
-        date = datetime.utcnow().strftime("%Y-%m-%d")
+        date = utc_now().strftime("%Y-%m-%d")
         op_type = entry.op_type.value
 
         log_entry = f"""

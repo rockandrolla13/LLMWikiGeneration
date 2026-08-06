@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/alammar-2024-hands-on-llm
 mind_map_priority: medium
-revision_hash: sha256:820b83bdf295361d
 schema_version: 2
 uuid: 16dd832a-8a85-5546-904e-6a5bf9e4125c
 content_hash: sha256:39bc05a52b5430c4cc1b9fdde0754ea6065a5a067083a25694efd125a46c5478

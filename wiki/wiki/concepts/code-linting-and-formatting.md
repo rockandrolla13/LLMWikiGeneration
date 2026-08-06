@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/pep-8-style-guide
 mind_map_priority: medium
-revision_hash: sha256:2355d2b6bf0e0212
 schema_version: 2
 uuid: 0926a9d1-a6e9-567c-8d75-ad42f6abf9c2
 content_hash: sha256:104b995afdc2f87a3ad7c1019771b9e055d42b8c34821e96525a8c533367f306

@@ -13,7 +13,6 @@ related:
 - concepts/credit-spread-curve
 - concepts/credit-spread-puzzle
 - concepts/default-rates
-revision_hash: sha256:55b311569818cec3637bb5c9a5b3a00c20a5c60ae5e3d082d0122983e8fb7f72
 revision_id: 2
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

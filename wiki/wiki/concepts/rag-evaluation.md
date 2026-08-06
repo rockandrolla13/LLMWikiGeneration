@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/calibration
 mind_map_priority: medium
-revision_hash: sha256:20ae53ae565bb4e0
 schema_version: 2
 uuid: d6a43299-34b8-5690-bd9f-e2eb770cc0f0
 content_hash: sha256:e67f60265efc25ee002a99173775177976ef1ee768489db2973201bd735e1e77

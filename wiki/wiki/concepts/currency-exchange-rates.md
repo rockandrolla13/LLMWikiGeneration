@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/currency-exchange-rates
 page_type: concept
 related: []
-revision_hash: sha256:4ddd3881e8595bc641fae9816f0321a7236a8844fe58504beb1cd20af00340cd
 revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook

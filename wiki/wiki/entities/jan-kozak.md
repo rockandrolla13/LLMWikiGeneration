@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jan-kozak
 page_type: entity
 related: []
-revision_hash: sha256:0b4ca65b71d9500c599df41ebb7cbed6c30b35b0b8c6843b584138f6c38f71d9
 revision_id: 1
 sources:
 - sources/ms-2019-02-15-ongoing-weakness

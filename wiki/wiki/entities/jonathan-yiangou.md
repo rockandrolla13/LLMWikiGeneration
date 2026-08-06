@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jonathan-yiangou
 page_type: entity
 related: []
-revision_hash: sha256:d6674d71e03dd795b77283eb63f99e4067be2d0fc984720fa225e1d15898061c
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:0d6579b90108c561
 schema_version: 2
 uuid: 4a7be65f-a6ad-5ed9-90a1-50dad4e0945c
 content_hash: sha256:2be776b2b6a0d672eee21482b7cf6933c3949071ddfc158211b3882254797b7f

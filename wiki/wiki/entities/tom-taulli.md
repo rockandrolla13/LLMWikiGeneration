@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
-revision_hash: sha256:54062b7575badfe6
 schema_version: 2
 uuid: 0dc10465-fff3-59d2-9df0-bfecb3e27dab
 content_hash: sha256:1c18abbe657898698171102f73e08a4d1899de333011d28dd15c09f03e5a06a5

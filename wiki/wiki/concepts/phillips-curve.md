@@ -8,7 +8,6 @@ page_id: concepts/phillips-curve
 page_type: concept
 related:
 - concepts/great-moderation
-revision_hash: sha256:9c71d5c22f9eedd555bbc14ddf62b24afdbba938a0b97cfe3696e2bfc7feb5bb
 revision_id: 1
 sources:
 - sources/schofield-2019-citi-macro-views

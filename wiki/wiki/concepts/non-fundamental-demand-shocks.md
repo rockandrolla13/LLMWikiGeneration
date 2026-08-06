@@ -10,7 +10,6 @@ related:
 - concepts/etf-flows
 - concepts/factor-investing
 - concepts/statistical-arbitrage
-revision_hash: sha256:a5f982ed9f71d791a453b7e285e4c929412f6f5e96de5eede56ec021dbb3c912
 revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan

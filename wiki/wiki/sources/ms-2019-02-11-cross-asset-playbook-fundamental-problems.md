@@ -18,7 +18,6 @@ related:
 - entities/andrew-sheets
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
-revision_hash: sha256:cdde7a75b30650551204b6e22b7a7a40728d025a427bf843b534645dcfe056a7
 revision_id: 1
 source_hash: sha256:ed09f6e3e3fcb951773a923a6116aa9156ada83d24eec1a42a8202e1535c88c1
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Cross-Asset Playbook

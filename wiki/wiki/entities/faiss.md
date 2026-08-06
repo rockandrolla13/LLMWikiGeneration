@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Meta Fundamental AI Research
-revision_hash: sha256:e11a37e912f228cc
 schema_version: 2
 uuid: fda40399-6a14-580a-bccb-7e2d3a42d9d0
 content_hash: sha256:273c40c663a3a6ee48289005f891a4ec3d9abdb5b27e5e705508460ae7af59d6

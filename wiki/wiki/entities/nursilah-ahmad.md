@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/nursilah-ahmad
 page_type: entity
 related: []
-revision_hash: sha256:0e456db6476f53bc6790f4aa1c3a490ab1557dc2a6cf385f9c41fe80ff992293
 revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery

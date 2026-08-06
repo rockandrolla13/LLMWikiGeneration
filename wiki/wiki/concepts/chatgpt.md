@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:0ac5cf2048337807
 schema_version: 2
 uuid: aab9b311-a061-53b4-a5f5-0da70f2f290e
 content_hash: sha256:f208c4e8a0427bcd4e64e8e8dbc7fe997480f71229d61c5212deb9837775c491

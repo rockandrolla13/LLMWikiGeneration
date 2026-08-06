@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Hebrew University of Jerusalem
-revision_hash: sha256:46f888813a3cdef1
 schema_version: 2
 uuid: 6b233925-dde4-5369-abb1-e0a9f29befbe
 content_hash: sha256:78616521115a93d91bfbda13bf43c24a534c8188b8653a199cab12769f8857eb

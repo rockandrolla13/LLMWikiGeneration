@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/j-spencer-martin
 page_type: entity
 related: []
-revision_hash: sha256:cbea666aa4011e114ed374bb2c24065b3bb153dcb04d7ebf949f75ca83847580
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

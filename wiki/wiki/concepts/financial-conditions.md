@@ -8,7 +8,6 @@ page_id: concepts/financial-conditions
 page_type: concept
 related:
 - concepts/credit-spread-curve
-revision_hash: sha256:a5834662aaf02565ca1abcb7761a6d1c0d983c66eaf8c7d681b7077bcde83119
 revision_id: 1
 sources:
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform

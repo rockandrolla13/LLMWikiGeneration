@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/min-dai
 page_type: entity
 related: []
-revision_hash: sha256:239cb82ecb621b0ef2e31b4985883978737c400461624550ac6c7f1c05c4be50
 revision_id: 1
 sources:
 - sources/ms-2019-02-24-china-current-account-turning-point

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sewall-wright
 page_type: entity
 related: []
-revision_hash: sha256:6b6cd6d582dbe363e27cae8b1a41bddea4167de27ec04544664dd2d18168947f
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

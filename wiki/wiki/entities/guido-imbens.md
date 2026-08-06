@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/guido-imbens
 page_type: entity
 related: []
-revision_hash: sha256:68dab3865610fd6b5ddfb53d589da096f3e7c64bec5b08c9a06afd1adeccc00a
 revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference

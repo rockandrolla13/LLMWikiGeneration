@@ -10,7 +10,6 @@ related:
 - concepts/behavioral-finance
 - concepts/minimum-variance-portfolio
 - concepts/value-at-risk
-revision_hash: sha256:f10b377d6c438ebcdc5d35fbbf2f9bc4d286207378f96dd8126509f6a564b5cd
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

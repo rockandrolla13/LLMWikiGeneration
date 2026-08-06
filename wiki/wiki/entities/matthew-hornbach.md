@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/matthew-hornbach
 page_type: entity
 related: []
-revision_hash: sha256:8bf94c6b04a1cc0ce93e1d42fabdf8203b502c98d46870a942dd358ca12d2fde
 revision_id: 1
 sources:
 - sources/ms-2013-12-13-top-10-rates-surprises-2014

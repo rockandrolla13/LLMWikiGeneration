@@ -12,7 +12,6 @@ related:
 - concepts/factor-investing
 - concepts/factor-models
 - concepts/liquidity-risk
-revision_hash: sha256:6338d22f511171e1749e599057301ca41edbebfb91b7cdb558846ecc3c12c5a9
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

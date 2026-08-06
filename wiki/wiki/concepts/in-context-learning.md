@@ -17,7 +17,6 @@ related:
 - concepts/prompt-engineering
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:552c3121762ae56e
 schema_version: 2
 uuid: 40bf554c-a190-5cfa-a2f1-c0a8e0052d38
 content_hash: sha256:03d6108f047ccbea0c6941e1d6301b08a63f4707487a968945b985c29fcf1e33

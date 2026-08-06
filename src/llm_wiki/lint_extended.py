@@ -30,6 +30,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "src"))
 
 from llm_wiki.graph import KnowledgeGraph, build_graph
 from llm_wiki.io.page_io import parse_page
+from llm_wiki.io.wikilinks import normalize_link_target
 from llm_wiki.staleness import detect_stale_pages
 
 # ---------------------------------------------------------------------------
@@ -61,12 +62,6 @@ class LintIssue:
 # ---------------------------------------------------------------------------
 
 _WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
-_HEADING_RE = re.compile(r"^(#{1,6})\s", re.MULTILINE)
-
-
-def _count_backtick_fences(body: str) -> int:
-    """Count occurrences of triple-backtick fence markers."""
-    return body.count("```")
 
 
 def check_structural(path: Path, body: str, page_id: str) -> list[LintIssue]:
@@ -157,8 +152,10 @@ def check_referential(
     # Check 1: broken wikilinks in body
     wikilinks = _WIKILINK_RE.findall(body)
     for link in wikilinks:
-        # Strip optional display text: [[target|display]] -> target
-        target = link.split("|")[0].strip()
+        target = normalize_link_target(link)
+        if not target:
+            # Anchor-only link ([[#Section]]) refers to this page
+            continue
         if target not in known_ids:
             issues.append(
                 LintIssue(
@@ -281,16 +278,21 @@ def _collect_known_ids(wiki_dir: Path) -> dict[str, Path]:
     """
     mapping: dict[str, Path] = {}
     for path, page_id in _iter_page_paths(wiki_dir):
-        # Prefer page_id from frontmatter if available
+        # A page is legitimately reachable by any of three names, and this
+        # corpus uses all of them: page_id (the dominant convention), the
+        # human title, and the bare filename stem (how Obsidian resolves short
+        # links). Accepting only page_id reports thousands of live links as
+        # broken.
+        mapping[page_id] = path
+        mapping[path.stem] = path
         try:
             fm, _ = parse_page(path)
-            fm_id = fm.get("page_id")
-            if fm_id:
-                mapping[fm_id] = path
-            else:
-                mapping[page_id] = path
         except Exception:
-            mapping[page_id] = path
+            continue
+        if fm.get("page_id"):
+            mapping[fm["page_id"]] = path
+        if fm.get("title"):
+            mapping[fm["title"]] = path
     return mapping
 
 

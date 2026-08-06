@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/negative-interest-rate-policy-forward-guidance
 page_type: concept
 related: []
-revision_hash: sha256:88710345e227523697efabe3d6ee579747cd2f8665d677b4b6ce0e2e2ddb6e7d
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

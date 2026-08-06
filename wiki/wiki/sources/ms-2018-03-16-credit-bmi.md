@@ -19,7 +19,6 @@ related:
 - entities/adam-richmond
 - entities/meghan-robson
 - entities/morgan-stanley
-revision_hash: sha256:a7a8ab78cc5b64ae47dbd7b4fead8beda23a0419a052d64c7d53ab675b1d488a
 revision_id: 1
 source_hash: sha256:ce43c189e518ffbc7d42b02c997c5b6d2c62c2dc5c88dfca6b253950fce06a7c
 source_path: raw/creditmacro/Morgan Stanley - Credit Bond Market Indicator (credit-BMI)

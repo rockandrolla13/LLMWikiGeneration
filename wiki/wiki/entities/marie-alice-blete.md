@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Worldline R&D
-revision_hash: sha256:5542fee578bb99ab
 schema_version: 2
 uuid: 8c8eb768-122d-5a42-b0cc-4d2e32a286d8
 content_hash: sha256:e59e81da2e69872f867654be95992985403ff15f3eef33453c594203929b02d7

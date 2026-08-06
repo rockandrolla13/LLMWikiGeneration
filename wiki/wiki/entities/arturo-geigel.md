@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Independent researcher (Puerto Rico)
-revision_hash: sha256:cab87a9d56e97abb
 schema_version: 2
 uuid: bf7bb64f-d4c8-54ff-968a-66e301494d8e
 content_hash: sha256:b7c91b37b920b2ef8b99ef991025eaef3c65c8553f9a347be084405cdffed682

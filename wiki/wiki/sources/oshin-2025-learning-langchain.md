@@ -43,7 +43,6 @@ related:
 - entities/oreilly-media
 - entities/shunyu-yao
 mind_map_priority: medium
-revision_hash: sha256:9a5841c55ec1fe33
 schema_version: 2
 uuid: e20d7c96-f1a1-518a-a37a-2f9be91a58b5
 content_hash: sha256:c4fcde66c419859626ed0b86eb8344449353bf029e7e3e65059a19820ffaa191

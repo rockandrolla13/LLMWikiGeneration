@@ -8,7 +8,6 @@ page_id: concepts/causation-versus-unification
 page_type: concept
 related:
 - concepts/scientific-explanation
-revision_hash: sha256:a3d3b572130241aca47d9d85f24b764623baae99a6a44d9eec187e9984a2803d
 revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation

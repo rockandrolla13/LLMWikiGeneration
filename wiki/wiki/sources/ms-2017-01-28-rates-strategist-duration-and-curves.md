@@ -35,7 +35,6 @@ related:
 - entities/morgan-stanley
 - entities/sam-elprince
 - entities/shreya-chander
-revision_hash: sha256:fd51d372e1300905370b42e6a0e812f34441580861f0337a942f1603b70817e8
 revision_id: 1
 source_hash: sha256:75bdc16e6e8c1defa0636268dc7f8e47ef5d31f5a821813d6b6db6566783c240
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist Trading

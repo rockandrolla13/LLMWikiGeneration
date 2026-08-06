@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/chapman-hall-crc
 page_type: entity
 related: []
-revision_hash: sha256:802d1694e72c7d899cbadc4c948f8e6a3525bb1e375dd9410574e3a8b596800e
 revision_id: 1
 sources:
 - sources/hernan-2020-causal-inference-what-if

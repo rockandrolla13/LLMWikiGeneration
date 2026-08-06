@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vishwas-patkar
 page_type: entity
 related: []
-revision_hash: sha256:199feee23f153dcf36bffa4f5124a896397f1fce1a954d368816f27590a40000
 revision_id: 2
 sources:
 - sources/ms-2018-04-16-credit-bmi-update

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/stanley-druckenmiller
 page_type: entity
 related: []
-revision_hash: sha256:06beb8ff21d816dcd8aaf56f2d435005fc6618e6209160876c191959192c5cd5
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

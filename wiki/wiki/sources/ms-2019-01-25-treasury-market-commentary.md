@@ -26,7 +26,6 @@ related:
 - entities/robert-rosener
 - entities/sam-elprince
 - entities/tony-small
-revision_hash: sha256:64f407a7dd012a9e884d6a0e02ba8956430f6b23add4ce5f51943978f39b1103
 revision_id: 1
 source_hash: sha256:d076d4e5ca2b52c250e80d0dd2da402201ae0681e29767acb0445266c0415a04
 source_path: raw/creditmacro/Morgan Stanley - Treasury Market Commentary, January

@@ -12,7 +12,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 related: []
 mind_map_priority: medium
-revision_hash: sha256:1012f95e17acb6e3
 schema_version: 2
 uuid: fe1b02ef-cf32-5d22-8bbd-bb1b7b3ac49e
 content_hash: sha256:e7755c82d2a17b11e77feb79b87ccb75d5f430f89bdcca475d42e9f983a1dd51

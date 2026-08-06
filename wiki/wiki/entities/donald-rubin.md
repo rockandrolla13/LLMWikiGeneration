@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/donald-rubin
 page_type: entity
 related: []
-revision_hash: sha256:ca42c8eac5617ea990ca3ea0e4e1c7f6d8f4d8d11ccd8adde5c2e57b5f8c1041
 revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series

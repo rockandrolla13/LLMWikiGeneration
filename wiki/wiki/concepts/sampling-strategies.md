@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:cc3ebd7b2e6ea86f
 schema_version: 2
 uuid: f6d770a0-b3e5-5fb8-bcea-06b84d42635f
 content_hash: sha256:c94054e91489aae76ff4f8f50146bc63d152265cd6465d208ca2bb29bebacb3a

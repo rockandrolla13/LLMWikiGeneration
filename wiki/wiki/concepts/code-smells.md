@@ -12,7 +12,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 related: []
 mind_map_priority: medium
-revision_hash: sha256:0f27752af5b50ef0
 schema_version: 2
 uuid: 10fec9dd-a770-529d-a9b8-064aec2d96da
 content_hash: sha256:0662da6749f657fa40ae2e0d29e85545723a227e959e49843ca0af4f08811b65

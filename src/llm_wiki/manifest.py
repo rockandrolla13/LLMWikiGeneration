@@ -6,6 +6,7 @@ wiki operations. It's the only non-markdown canonical artifact (Tier 1).
 Format: JSON Lines (one JSON object per line)
 """
 
+from .clock import utc_now
 import json
 import os
 import uuid
@@ -20,6 +21,7 @@ class OperationType(Enum):
     """Types of wiki operations."""
     INIT = "init"
     INGEST = "ingest"
+    BATCH_INGEST = "batch_ingest"
     UPDATE = "update"
     DELETE = "delete"
     QUERY = "query"
@@ -134,7 +136,7 @@ class ManifestEntry:
         return cls(
             op_id=f"op_{uuid.uuid4().hex[:12]}",
             op_type=op_type,
-            timestamp=datetime.utcnow(),
+            timestamp=utc_now(),
             actor=actor,
             inputs=inputs or OperationInputs(),
             outputs=OperationOutputs(),
@@ -163,33 +165,163 @@ class ManifestEntry:
 
     @classmethod
     def from_json_line(cls, line: str) -> "ManifestEntry":
-        """Deserialize from a JSON line."""
-        d = json.loads(line)
+        """Deserialize from a JSON line.
+
+        Handles two on-disk shapes:
+
+        - Current: has `op_type`, `actor`, `inputs`, `outputs`, `status`.
+        - Legacy: hand-written entries with `operation` and `page_id` and no
+          actor/status. These predate the current schema and appear in wikis
+          whose pages were authored directly rather than through wiki_ingest.
+          Raising on them made every manifest-reading command unusable.
+
+        The manifest is append-only, so legacy entries are read in place and
+        never rewritten.
+        """
+        return cls.from_dict(json.loads(line))
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "ManifestEntry":
+        """Build an entry from an already-decoded manifest object."""
+        if "op_type" not in d:
+            return cls._from_legacy_dict(d)
+        inputs = d.get("inputs") or {}
+        outputs = d.get("outputs") or {}
         return cls(
             op_id=d["op_id"],
-            op_type=OperationType(d["op_type"]),
+            op_type=_coerce_op_type(d["op_type"]),
             timestamp=datetime.fromisoformat(d["timestamp"].rstrip("Z")),
-            actor=Actor(d["actor"]),
+            # actor and status are absent on entries written by batch tooling.
+            # They are descriptive, not load-bearing, so default rather than
+            # make one missing key cost the whole ledger.
+            actor=_coerce_enum(Actor, d.get("actor"), Actor.LLM),
             inputs=OperationInputs(
-                source_path=d.get("inputs", {}).get("source_path"),
-                source_hash=d.get("inputs", {}).get("source_hash"),
-                query=d.get("inputs", {}).get("query"),
-                page_ids=d.get("inputs", {}).get("page_ids", []),
-                profile=d.get("inputs", {}).get("profile"),
-                topic=d.get("inputs", {}).get("topic"),
+                source_path=inputs.get("source_path"),
+                source_hash=inputs.get("source_hash"),
+                query=inputs.get("query"),
+                page_ids=inputs.get("page_ids", []),
+                profile=inputs.get("profile"),
+                topic=inputs.get("topic"),
             ),
             outputs=OperationOutputs(
-                created_pages=d.get("outputs", {}).get("created_pages", []),
-                updated_pages=d.get("outputs", {}).get("updated_pages", []),
-                deleted_pages=d.get("outputs", {}).get("deleted_pages", []),
-                page_revisions=d.get("outputs", {}).get("page_revisions", {}),
-                derived_invalidated=d.get("outputs", {}).get("derived_invalidated", []),
+                created_pages=outputs.get("created_pages", []),
+                updated_pages=outputs.get("updated_pages", []),
+                deleted_pages=outputs.get("deleted_pages", []),
+                page_revisions=outputs.get("page_revisions", {}),
+                derived_invalidated=outputs.get("derived_invalidated", []),
             ),
-            status=OperationStatus(d["status"]),
+            status=_coerce_enum(OperationStatus, d.get("status"), OperationStatus.COMPLETED),
             error_message=d.get("error_message"),
             duration_ms=d.get("duration_ms"),
             parent_op_id=d.get("parent_op_id"),
         )
+
+    @classmethod
+    def _from_legacy_dict(cls, d: dict) -> "ManifestEntry":
+        """Build an entry from a legacy hand-written manifest line.
+
+        Legacy shape:
+            {"op_id", "timestamp", "operation", "page_id", "revision_id", "comment"}
+
+        Legacy entries record completed page authoring, so they are read as
+        actor=llm, status=completed. `operation` maps onto the closest
+        OperationType; unrecognised values fall back to UPDATE.
+        """
+        operation = (d.get("operation") or "").lower()
+        op_type = _LEGACY_OPERATION_TYPES.get(operation, OperationType.UPDATE)
+
+        page_id = d.get("page_id")
+        page_ids = [page_id] if page_id else []
+        revision_id = d.get("revision_id")
+
+        outputs = OperationOutputs()
+        if op_type is OperationType.DELETE:
+            outputs.deleted_pages = page_ids
+        elif operation == "create":
+            outputs.created_pages = page_ids
+        else:
+            outputs.updated_pages = page_ids
+        if page_id and revision_id is not None:
+            outputs.page_revisions = {page_id: revision_id}
+
+        # Preserve the human-written note. It is not an error, so it must not
+        # land in error_message.
+        comment = d.get("comment")
+        if comment:
+            outputs.extra = {"comment": comment}
+
+        return cls(
+            op_id=d["op_id"],
+            op_type=op_type,
+            timestamp=datetime.fromisoformat(d["timestamp"].rstrip("Z")),
+            actor=Actor(d.get("actor", Actor.LLM.value)),
+            inputs=OperationInputs(page_ids=page_ids),
+            outputs=outputs,
+            status=OperationStatus(d.get("status", OperationStatus.COMPLETED.value)),
+        )
+
+
+# Maps the legacy `operation` field onto the current OperationType enum.
+# "create" records page authoring, which ingest is the closest analogue of.
+_LEGACY_OPERATION_TYPES = {
+    "create": OperationType.INGEST,
+    "ingest": OperationType.INGEST,
+    "update": OperationType.UPDATE,
+    "delete": OperationType.DELETE,
+    "init": OperationType.INIT,
+}
+
+
+def _coerce_enum(enum_cls, value, default):
+    """Return enum_cls(value), or `default` when value is missing/unrecognised."""
+    if value is None:
+        return default
+    try:
+        return enum_cls(value)
+    except ValueError:
+        return default
+
+
+def _coerce_op_type(value: str) -> OperationType:
+    """Map an on-disk op_type onto the enum without crashing on new values.
+
+    The ledger is append-only and written by several tools over time, so it
+    contains operation names the enum does not know. Raising made the whole
+    manifest unreadable because of a handful of rows; unknown names degrade to
+    UPDATE so the surrounding history stays readable.
+    """
+    try:
+        return OperationType(value)
+    except ValueError:
+        return OperationType.UPDATE
+
+
+def _iter_json_objects(line: str) -> Iterator[dict]:
+    """Yield every JSON object on a single manifest line.
+
+    The format is one object per line, but a batch append once wrote two
+    objects onto the same line with no separator. json.loads rejects the whole
+    line ("Extra data"), which made the entire manifest unreadable and took
+    wiki_stats and verify_wiki down with it. raw_decode consumes one object at
+    a time so a missing newline costs nothing.
+
+    Args:
+        line: A stripped line from manifest.jsonl
+
+    Yields:
+        Each decoded JSON object found on the line, in order
+
+    Raises:
+        json.JSONDecodeError: If the remaining text is not valid JSON
+    """
+    decoder = json.JSONDecoder()
+    idx = 0
+    end = len(line)
+    while idx < end:
+        obj, idx = decoder.raw_decode(line, idx)
+        yield obj
+        while idx < end and line[idx].isspace():
+            idx += 1
 
 
 class Manifest:
@@ -238,7 +370,9 @@ class Manifest:
             for line in f:
                 line = line.strip()
                 if line:
-                    entries.append(ManifestEntry.from_json_line(line))
+                    entries.extend(
+                        ManifestEntry.from_dict(o) for o in _iter_json_objects(line)
+                    )
         return entries
 
     def iter_entries(self) -> Iterator[ManifestEntry]:
@@ -253,7 +387,8 @@ class Manifest:
             for line in f:
                 line = line.strip()
                 if line:
-                    yield ManifestEntry.from_json_line(line)
+                    for obj in _iter_json_objects(line):
+                        yield ManifestEntry.from_dict(obj)
 
     def get_entry(self, op_id: str) -> Optional[ManifestEntry]:
         """Get a specific entry by op_id.

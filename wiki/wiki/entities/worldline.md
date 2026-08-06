@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
-revision_hash: sha256:3e87e0b6be34b8db
 schema_version: 2
 uuid: 518ef15f-be5c-5244-ac76-98e2f04eac1b
 content_hash: sha256:d53135db10ac36b5343f3e98f170e2de1cfceb691d5d260563d6d5b64303825f

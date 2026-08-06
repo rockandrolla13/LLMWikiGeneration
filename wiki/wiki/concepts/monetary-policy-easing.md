@@ -8,7 +8,6 @@ page_id: concepts/monetary-policy-easing
 page_type: concept
 related:
 - concepts/quantitative-easing
-revision_hash: sha256:92600ecaf9de947a085b416088b25395e0109aa1e0f9cb19eb1b1fc73eb1c4b1
 revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes

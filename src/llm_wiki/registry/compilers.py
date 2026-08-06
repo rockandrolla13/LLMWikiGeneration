@@ -18,6 +18,7 @@ Usage:
         path.write_text(content)
 """
 
+from ..clock import utc_now
 from datetime import datetime
 from pathlib import Path
 from typing import TYPE_CHECKING
@@ -76,7 +77,7 @@ class IndexCompiler:
             "title": "Wiki Index (Full)",
             "page_type": "index",
             "generated": True,
-            "updated": datetime.utcnow().isoformat() + "Z",
+            "updated": utc_now().isoformat() + "Z",
         }
         write_page(index_full_path, metadata_full, full_content)
 
@@ -122,7 +123,7 @@ class MindMapCompiler:
 
         pages = gather_page_info(wiki)
         source_hash = compute_source_hash(wiki)
-        now = datetime.utcnow()
+        now = utc_now()
 
         # Filter and sort pages by priority
         priority_order = {"high": 0, "medium": 1, "low": 2, "exclude": 3}

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/lagrange-multipliers
 - concepts/minimum-variance-portfolio
-revision_hash: sha256:8a355be5ac08f71a843ea17212b8610b1a35a8e216de47759857c6367f095412
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

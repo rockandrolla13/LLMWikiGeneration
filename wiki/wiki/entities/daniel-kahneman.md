@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/daniel-kahneman
 page_type: entity
 related: []
-revision_hash: sha256:761125fc509a1ba908e54c1070a6a131bd027b47ace54e9b7d31cd5e2291c711
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

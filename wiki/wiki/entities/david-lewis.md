@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-lewis
 page_type: entity
 related: []
-revision_hash: sha256:6e417fbe3c697c22c7ae6630aae022a5ac3803ea45afe5ba841a40be78735cc3
 revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability

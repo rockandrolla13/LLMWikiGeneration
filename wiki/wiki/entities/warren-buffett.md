@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/warren-buffett
 page_type: entity
 related: []
-revision_hash: sha256:d97659d0898efc9feb94f79948154558143006338bdb6bb8fb3e594e27b874ea
 revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models

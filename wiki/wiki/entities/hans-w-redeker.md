@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/hans-w-redeker
 page_type: entity
 related: []
-revision_hash: sha256:4bcc6df6f18615ca7e8c058c2f4291997cc65275fb77ae3eb7ad5d50714624ed
 revision_id: 1
 sources:
 - sources/ms-2019-03-01-global-insights-polling

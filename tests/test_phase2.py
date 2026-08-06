@@ -247,7 +247,9 @@ class TestRebuild:
         result = wiki_rebuild(wiki, force=True)
 
         assert result["success"] is True
-        assert len(result["rebuilt"]) == 2
+        # index.md, index.full.md and MIND_MAP.md -- the index was split into a
+        # summary and a full catalog, which this assertion predated.
+        assert len(result["rebuilt"]) == 3
 
     def test_rebuild_updates_manifest(self, tmp_path):
         """Rebuild adds entry to manifest."""

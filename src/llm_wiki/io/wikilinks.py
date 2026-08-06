@@ -84,3 +84,21 @@ def path_to_page_id(file_path: Path, wiki_dir: Path) -> str:
     # Remove .md extension
     page_id = str(rel_path.with_suffix(""))
     return page_id
+
+
+def normalize_link_target(link: str) -> str:
+    """Reduce a raw wikilink to the page it actually points at.
+
+    Three forms would otherwise be reported as broken:
+
+    - ``[[Page|display]]``   -- display text after the pipe is not the target
+    - ``[[Page#Section]]``   -- a section anchor still points at Page
+    - ``[[Page\\|display]]``  -- inside a markdown table the pipe must be
+      escaped, leaving a trailing backslash that is not part of the page name
+
+    Returns "" for an anchor-only link (``[[#Section]]``), which refers to the
+    current page and is never broken.
+    """
+    target = link.split("|", 1)[0]
+    target = target.split("#", 1)[0]
+    return target.rstrip("\\").strip()

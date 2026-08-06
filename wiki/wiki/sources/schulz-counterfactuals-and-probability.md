@@ -20,7 +20,6 @@ related:
 - entities/moritz-schulz
 - entities/oxford-university-press
 - entities/robert-stalnaker
-revision_hash: sha256:baafebbb536ce384ac2d775b02d69ba410f0c7f4ba036eab3b25575576bbe142
 revision_id: 1
 source_hash: sha256:38cea7ea209c03ce44a5067500ce44759fd966f6f01610348a7a60573b1bb622
 source_path: raw/creditmacro/Counterfactuals and Probability (Moritz Schulz) (z-library.sk,

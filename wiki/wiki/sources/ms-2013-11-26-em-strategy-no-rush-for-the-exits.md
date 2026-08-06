@@ -16,7 +16,6 @@ related:
 - entities/morgan-stanley
 - entities/rashique-rahman
 - entities/vandit-shah
-revision_hash: sha256:7dae99449bbf295f53b27fdea563e57f3526099b60fdcf7d47d637334dd41990
 revision_id: 1
 source_hash: sha256:70f2850d1f9f7f71958a28cda35fa7980fb49ef40e2177f056123afe139ec5ab
 source_path: raw/creditmacro/Morgan Stanley - EM Strategy Update — No Rush for the

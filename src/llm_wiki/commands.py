@@ -8,6 +8,7 @@ Provides high-level operations that can be invoked as skills:
 - rebuild: Regenerate derived artifacts
 """
 
+from .clock import utc_now
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
@@ -22,6 +23,7 @@ from .manifest import (
     OperationOutputs,
     Actor,
 )
+from .io.authored_hash import compute_authored_hash
 from .frontmatter import (
     write_page,
     compute_file_hash,
@@ -156,7 +158,7 @@ def wiki_ingest(
 
     try:
         # Create source page
-        now = datetime.utcnow()
+        now = utc_now()
         meta = PageMeta(
             title=title or stem,
             page_id=page_id,
@@ -186,13 +188,16 @@ def wiki_ingest(
         # Generate markdown content
         content = _generate_source_content(source_page)
 
+        # Stamp the content hash into the metadata BEFORE writing, so the value
+        # actually lands on disk. It was previously computed after the write and
+        # assigned to a throwaway dict, so every ingested page shipped without
+        # one. Uses the authored-region hash so that regenerated sections do not
+        # invalidate it (see io.authored_hash).
+        meta.content_hash = compute_authored_hash(content)
+
         # Write page
         page_path = wiki.wiki_dir / f"{page_id}.md"
-        content_hash = write_page(page_path, source_page.to_frontmatter_dict(), content)
-
-        # Update frontmatter with computed hash
-        frontmatter = source_page.to_frontmatter_dict()
-        frontmatter["revision_hash"] = content_hash
+        write_page(page_path, source_page.to_frontmatter_dict(), content)
 
         # Track created pages
         created_pages = [page_id]
@@ -308,7 +313,7 @@ def _create_entity_page(
     if wiki.page_exists(page_id):
         return {"success": False, "page_id": page_id, "reason": "already exists"}
 
-    now = datetime.utcnow()
+    now = utc_now()
     meta = PageMeta(
         title=entity_name,
         page_id=page_id,
@@ -353,7 +358,7 @@ def _create_concept_page(
     if wiki.page_exists(page_id):
         return {"success": False, "page_id": page_id, "reason": "already exists"}
 
-    now = datetime.utcnow()
+    now = utc_now()
     meta = PageMeta(
         title=concept_name,
         page_id=page_id,
@@ -452,6 +457,7 @@ def wiki_rebuild(wiki: Wiki, force: bool = False) -> dict:
         entry.outputs = OperationOutputs(
             extra={
                 "rebuilt": result["rebuilt"],
+                "skipped": result.get("skipped", []),
                 "errors": result["errors"],
             }
         )
@@ -465,6 +471,7 @@ def wiki_rebuild(wiki: Wiki, force: bool = False) -> dict:
             "success": len(result["errors"]) == 0,
             "op_id": entry.op_id,
             "rebuilt": result["rebuilt"],
+            "skipped": result.get("skipped", []),
             "errors": result["errors"],
             "message": f"Rebuilt {len(result['rebuilt'])} artifacts",
         }

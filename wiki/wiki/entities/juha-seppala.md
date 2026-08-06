@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/juha-seppala
 page_type: entity
 related: []
-revision_hash: sha256:ab67aefab32a9fa7ef5d5120410d3d1cd46e056b7e55c0b9259432944e9c4adf
 revision_id: 1
 sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly

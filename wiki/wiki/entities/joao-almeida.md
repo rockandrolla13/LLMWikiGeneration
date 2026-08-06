@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/joao-almeida
 page_type: entity
 related: []
-revision_hash: sha256:3e07282b255f73e820c34c7d5ff6aa53f199b7728509ac8c00d8074cafc4e890
 revision_id: 1
 sources:
 - sources/ms-2019-02-15-ongoing-weakness

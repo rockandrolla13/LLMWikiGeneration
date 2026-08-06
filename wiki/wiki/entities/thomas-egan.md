@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/thomas-egan
 page_type: entity
 related: []
-revision_hash: sha256:51130a53bf4ce0baaf4d4941a716f366e5edd368b3a32ed76758f3aa3152ec4c
 revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix

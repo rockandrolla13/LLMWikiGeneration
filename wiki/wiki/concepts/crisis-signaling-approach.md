@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/crisis-signaling-approach
 page_type: concept
 related: []
-revision_hash: sha256:551bbf749fb20e6b5fd5b483a0c26824dc4430ef6d99dc05120c6851185b04b9
 revision_id: 1
 sources:
 - sources/babecky-2014-developed-country-crisis-ewi

@@ -9,6 +9,7 @@ Defines dataclasses for all Tier 1 canonical page types:
 - ContradictionPage: Record of disagreement between sources
 """
 
+from .clock import utc_now
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import Enum
@@ -91,9 +92,9 @@ class PageMeta:
 
     # Revision tracking
     revision_id: int = 1
-    revision_hash: str = ""
-    created: datetime = field(default_factory=datetime.utcnow)
-    updated: datetime = field(default_factory=datetime.utcnow)
+    content_hash: str = ""
+    created: datetime = field(default_factory=utc_now)
+    updated: datetime = field(default_factory=utc_now)
     updated_by: str = ""  # Reference to op_id in manifest.jsonl
 
     # Relationships
@@ -114,7 +115,7 @@ class PageMeta:
             "page_id": self.page_id,
             "page_type": self.page_type.value,
             "revision_id": self.revision_id,
-            "revision_hash": self.revision_hash,
+            "content_hash": self.content_hash,
             "created": self.created.isoformat() + "Z",
             "updated": self.updated.isoformat() + "Z",
             "updated_by": self.updated_by,

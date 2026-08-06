@@ -10,7 +10,6 @@ related:
 - concepts/calibration
 - concepts/prediction-intervals
 - concepts/value-at-risk
-revision_hash: sha256:032e13adcc52ae08b76dba4f7a307e34047fbd1fe249326432961569f4c1f602
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

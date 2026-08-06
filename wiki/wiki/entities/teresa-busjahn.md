@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Freie Universität Berlin
-revision_hash: sha256:90a9f05275ef44eb
 schema_version: 2
 uuid: 75bc259e-3d46-5cff-8d5f-3bd01a45c2c0
 content_hash: sha256:736dee6ed0873c75e8c92fabaa5d5c6f333dcc8e38ee5a79b6be99e998c944c4

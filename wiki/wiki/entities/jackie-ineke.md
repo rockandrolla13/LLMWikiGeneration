@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jackie-ineke
 page_type: entity
 related: []
-revision_hash: sha256:899ca65a942640a3e17a208526b045cf0833db3dce7afaa3afc27d5a49ff9d51
 revision_id: 1
 sources:
 - sources/ms-2018-11-02-at1-primer-extension-par-calls

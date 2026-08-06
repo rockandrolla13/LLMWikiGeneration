@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:e65b46be069f4a8c
 schema_version: 2
 uuid: 168fda13-e251-5102-a8a7-7a6152318f90
 content_hash: sha256:660571034e21f24bfe93903cd0453c1c301f2440008dfc5e3d1b2ad229d5b364

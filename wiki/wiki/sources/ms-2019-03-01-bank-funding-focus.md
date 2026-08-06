@@ -24,7 +24,6 @@ related:
 - entities/joao-almeida
 - entities/matthew-pennill
 - entities/morgan-stanley
-revision_hash: sha256:fe357e67c781d6b2d1ed05a4478e979d584afa78423b8d2fe9470699c208057c
 revision_id: 1
 source_hash: sha256:864d3c0e28b947607de3e5526b77e3402be950d58899cb18288d2d0a439645d8
 source_path: raw/creditmacro/Morgan Stanley - European Economics Weekly — Bank Funding

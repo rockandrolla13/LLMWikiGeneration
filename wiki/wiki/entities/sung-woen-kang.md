@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sung-woen-kang
 page_type: entity
 related: []
-revision_hash: sha256:10f7985e56ac1e5b6502982e71bdfad29eaa8d3a1b303678fb6e8a456425c403
 revision_id: 1
 sources:
 - sources/ms-2013-10-30-japanification-or-salvation

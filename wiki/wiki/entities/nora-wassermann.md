@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/nora-wassermann
 page_type: entity
 related: []
-revision_hash: sha256:133d29f3c9a22c3bb0911f80feef41ffcab069219195a7e735ce0402ffc27e40
 revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes

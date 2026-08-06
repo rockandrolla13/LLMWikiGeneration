@@ -15,7 +15,6 @@ related:
 - concepts/ranked-probability-score
 - concepts/uncertainty-quantification
 - concepts/variogram-score
-revision_hash: sha256:5f5aefb9fbd92991ce6009d6a1224c807dd6646f0e13308fa58cbd78d3de5b42
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

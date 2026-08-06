@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sam-elprince
 page_type: entity
 related: []
-revision_hash: sha256:00696e5c511e6332bc16e9c8ced6490ed73eceb6ec8a123e07cbc193e0dfb7da
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/igor-tulchinsky
 page_type: entity
 related: []
-revision_hash: sha256:50c57a96aefbc5b5f61e39d6c094b18c85d3e6b7710e882a5ae7baabe0ae6a75
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

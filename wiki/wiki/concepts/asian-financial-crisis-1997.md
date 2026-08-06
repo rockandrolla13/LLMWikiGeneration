@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/sovereign-debt-crisis
 - concepts/spillover-effect
-revision_hash: sha256:6f15ccac2fe2b31332122f289602fcd024ee64e9bd6f35fd676c0fc2a8f30e8d
 revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery

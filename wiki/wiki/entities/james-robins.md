@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-robins
 page_type: entity
 related: []
-revision_hash: sha256:2b9274ac664a5d0c9fa08e81e2c4a7069063262d3933d35fc135dc4d0c3635b2
 revision_id: 2
 sources:
 - sources/hernan-2020-causal-inference-what-if

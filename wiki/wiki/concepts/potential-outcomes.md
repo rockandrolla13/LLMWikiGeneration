@@ -20,7 +20,6 @@ related:
 - concepts/probabilistic-causality
 - concepts/quasi-experimental-design
 - concepts/randomised-controlled-trial
-revision_hash: sha256:d7c5cd3fa6d21f0be18edb1deb9aa491d8fd8f24824a8afd089999ce2f7f54a8
 revision_id: 2
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
 affiliation: former OpenAI
-revision_hash: sha256:d13079f038cfcf36
 schema_version: 2
 uuid: e4ed2459-0676-5fc6-96b3-bc26b63a512a
 content_hash: sha256:05d601c33efc87206e3f1ab30499035a049836d53f12ae6d6818d6d3bd805da4

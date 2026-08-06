@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:b25be5a384e27d43
 schema_version: 2
 uuid: f8ecea67-32e8-533e-a3b4-70df558d7921
 content_hash: sha256:d770ee6b9ccfd11d82378c947a9dc895a1015ea8ee274fc7aa6f92a0246443be

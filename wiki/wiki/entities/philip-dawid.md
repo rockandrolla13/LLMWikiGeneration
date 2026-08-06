@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/philip-dawid
 page_type: entity
 related: []
-revision_hash: sha256:f862f408ca789240e09a04def671f00dab921643223f300b872c26b0f610a5a1
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

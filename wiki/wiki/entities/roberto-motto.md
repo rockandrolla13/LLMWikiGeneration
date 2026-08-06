@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/roberto-motto
 page_type: entity
 related: []
-revision_hash: sha256:6850f8b7491c736ee74c6782e219fa02ca672c1d9e05ea2149a5df18b427e6fa
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

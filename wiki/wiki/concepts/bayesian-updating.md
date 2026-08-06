@@ -12,7 +12,6 @@ related:
 - concepts/generalized-bayesian-inference
 - concepts/mcmc-bayesian-inference
 - concepts/uncertainty-quantification
-revision_hash: sha256:6e5b27c96726ff1330146d98ea2680c5dbc26baa609f118418744f219d0e999a
 revision_id: 2
 sources:
 - sources/mauboussin-2026-bayes-base-rates

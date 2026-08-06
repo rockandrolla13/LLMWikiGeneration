@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/code-smells
 mind_map_priority: medium
-revision_hash: sha256:060d9fd2558f57dd
 schema_version: 2
 uuid: e3cece1c-ab94-5c2f-8929-ad1a4a79c4e9
 content_hash: sha256:7d3e7780ae8baca19587c7a544044d39781675d89597692503e868a80308a41e

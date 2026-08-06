@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/data-distribution-shift
 mind_map_priority: medium
-revision_hash: sha256:c105e14faf954e2b
 schema_version: 2
 uuid: 94731dc7-6cda-5df4-bd4e-3d06af0cc997
 content_hash: sha256:694b6a8caff9a5067b4ef8efb36f4a2cc470abd0e87dbc2e649c0f740a1bb847

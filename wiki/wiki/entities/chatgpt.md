@@ -15,7 +15,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:73923898b079f60d
 schema_version: 2
 uuid: d0ad2e10-e777-50c1-925c-0dab619a3441
 content_hash: sha256:c9e866c1d7d52b6ed36d62fd15bb0ccaaf78715fd05814b1c3f2bbb76a00e762

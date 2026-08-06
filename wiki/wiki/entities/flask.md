@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:8802809a24631e57
 schema_version: 2
 uuid: f16e65cb-c2ad-5fe6-9b7d-a6fafe239e04
 content_hash: sha256:76f7449660f2897524354a12cfc98687fccf04b484e179fc48ae0c18ced3b3c2

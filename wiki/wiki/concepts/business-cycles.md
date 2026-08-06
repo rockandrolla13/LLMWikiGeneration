@@ -8,7 +8,6 @@ page_id: concepts/business-cycles
 page_type: concept
 related:
 - concepts/great-moderation
-revision_hash: sha256:f11c1ab6e11372a50ebabd11508a2d3c1a3f08f0b8cdb004de615756cbff64ec
 revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook

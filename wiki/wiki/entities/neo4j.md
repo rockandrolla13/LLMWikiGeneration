@@ -14,7 +14,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
-revision_hash: sha256:9aaa7c2800a72960
 schema_version: 2
 uuid: 5b055f17-51da-58db-8ac4-54f4c70ca151
 content_hash: sha256:e1cfe16bcb9496c44830e1dbe91821d13d8c573a7b6ea76666cfd53b43463bbe

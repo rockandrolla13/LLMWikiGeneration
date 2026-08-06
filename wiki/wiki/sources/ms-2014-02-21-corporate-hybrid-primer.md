@@ -19,7 +19,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:5f5729e503eed201819b0fe8fa35e11af164127d6b6d2562a231b94422609eaa
 revision_id: 1
 source_hash: sha256:2436807fa9a65b1d25ab2aaaeb3ff7ea4a841d946a3096a1a7b7b4d24a721ea6
 source_path: raw/creditmacro/Morgan Stanley - Serena Tang — Andrew Sheets - nd.md

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vishwanath-tirupattur
 page_type: entity
 related: []
-revision_hash: sha256:0d6ceb4517037ca210365c76a35081f492dc537f8d8506e88ffab4ae526752a6
 revision_id: 1
 sources:
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults

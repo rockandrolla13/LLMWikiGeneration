@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/system-archetypes
-revision_hash: sha256:d76231bcace7ba870de563961a21d702f5e157aebaaf1f6c8cbd0068be83eb82
 revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models

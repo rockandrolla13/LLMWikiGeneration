@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/citigroup
 page_type: entity
 related: []
-revision_hash: sha256:7571c58283bec456eb0f798d841d1c25d9056e40098bb55d3a1fabd45664ed76
 revision_id: 1
 sources:
 - sources/citi-global-theme-book

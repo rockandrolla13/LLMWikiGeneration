@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Worldline; Universite libre de Bruxelles
-revision_hash: sha256:de6909fdf6dd98cc
 schema_version: 2
 uuid: f7a98833-e0e4-5b39-87b6-fb8527775d82
 content_hash: sha256:f252ec5871ce58fe8f11025c2a3b6f5e6606f7c61598764f30b17150c7b45f32

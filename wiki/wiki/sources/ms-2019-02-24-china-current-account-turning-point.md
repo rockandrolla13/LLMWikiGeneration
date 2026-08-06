@@ -16,7 +16,6 @@ related:
 - entities/min-dai
 - entities/morgan-stanley
 - entities/robin-xing
-revision_hash: sha256:ad243d74ff711838b315d04271be58cc3523e3af7d4e3d647fe007c31326a7da
 revision_id: 1
 source_hash: sha256:17a3fac2b0b1a514894b236d757c4c2cc71f7eec13be0371a18f9fe386e78dd0
 source_path: raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — James

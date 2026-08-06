@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/wanting-low
 page_type: entity
 related: []
-revision_hash: sha256:a12a42f9fec3c5a3091234b957020de96ba4cb14cea3ddb0cfdcf4a8fae696b7
 revision_id: 1
 sources:
 - sources/ms-2016-09-27-momentum-for-diversification

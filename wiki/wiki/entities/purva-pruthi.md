@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/purva-pruthi
 page_type: entity
 related: []
-revision_hash: sha256:d99fd30b96f996584111875bda1f0536de776eee82c6f9520111cc30e2fc0a92
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

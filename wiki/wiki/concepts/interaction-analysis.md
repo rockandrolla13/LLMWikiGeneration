@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/four-way-effect-decomposition
-revision_hash: sha256:f8a7df80abc6b4150d552d1bad5cdfb8d24e4e41ec4c80659dcb1407449915fe
 revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference

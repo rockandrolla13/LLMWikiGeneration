@@ -14,7 +14,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 mind_map_priority: medium
 affiliation: Neo4j
-revision_hash: sha256:73226ade1268a667
 schema_version: 2
 uuid: 88652c87-44f1-5abd-8edf-1b62123071c2
 content_hash: sha256:a04efd7f96c413f776c6d5c4afa6d9ea8feb0b8a082df395c3277058d8d0649c

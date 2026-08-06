@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/adam-richmond
 page_type: entity
 related: []
-revision_hash: sha256:ea2ba00c15d4966d70d209e9826438602a276c775dd556c330dd4e0e0fb4cfbb
 revision_id: 1
 sources:
 - sources/ms-2018-03-16-credit-bmi

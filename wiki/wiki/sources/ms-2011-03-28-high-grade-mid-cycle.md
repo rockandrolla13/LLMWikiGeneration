@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:eec1578bd6c010e44f8323aded296308b8c7056651b6e909345f8e07ead83f6d
 revision_id: 1
 source_hash: sha256:85866d702969122b8398bc6524f3d561e915f5dfdbbed1476cc60cb2dd4fe070
 source_path: raw/creditmacro/Morgan Stanley - Fixed Income Research — Jonathan Graber

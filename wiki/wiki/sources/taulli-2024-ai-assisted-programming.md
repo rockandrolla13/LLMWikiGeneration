@@ -41,7 +41,6 @@ related:
 - entities/tabnine
 - entities/tom-taulli
 mind_map_priority: medium
-revision_hash: sha256:2196e152748a3b04
 schema_version: 2
 uuid: 942eab87-e924-5a10-84c8-da055626d6bb
 content_hash: sha256:07d60c30a40bdfb2b81d4065cd81f884a6b45092352ace3ddb2002c3cfaae927

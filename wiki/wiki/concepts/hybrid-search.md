@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/vector-similarity-search
 mind_map_priority: medium
-revision_hash: sha256:7daca07ddc783c4c
 schema_version: 2
 uuid: 6674a904-28bc-58ac-9f44-7a567760fa86
 content_hash: sha256:973e31af7ee1b4eb7c795a6fca58a832ff39eea1ad960700ca2d07d07a35aa0e

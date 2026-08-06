@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jordan-ellenberg
 page_type: entity
 related: []
-revision_hash: sha256:f6aeb6aa95b467a65f58185249009a5ef3ae583310cde9816c37caafc85cb746
 revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong

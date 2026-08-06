@@ -6,6 +6,7 @@ Generates and maintains derived artifacts that can be rebuilt from Tier 1:
 - Freshness tracking for stale detection
 """
 
+from .clock import utc_now
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
@@ -15,6 +16,7 @@ import json
 
 from .wiki import Wiki
 from .frontmatter import parse_page, write_page, extract_wikilinks
+from .io.page_io import is_generated
 from .schemas import PageType, MindMapPriority
 
 
@@ -168,7 +170,7 @@ def compile_index_summary(wiki: Wiki) -> str:
 
     pages = gather_page_info(wiki)
     source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
+    now = utc_now()
 
     by_type = _group_and_sort_pages(pages)
     total_pages = sum(len(v) for v in by_type.values())
@@ -233,7 +235,7 @@ def compile_index(wiki: Wiki) -> str:
 
     pages = gather_page_info(wiki)
     source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
+    now = utc_now()
 
     by_type = _group_and_sort_pages(pages)
 
@@ -355,7 +357,7 @@ def compile_mind_map(wiki: Wiki) -> str:
 
     pages = gather_page_info(wiki)
     source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
+    now = utc_now()
 
     # Filter and sort pages by priority
     priority_order = {"high": 0, "medium": 1, "low": 2, "exclude": 3}
@@ -565,7 +567,9 @@ def _check_artifact_freshness(path: Path, current_hash: str) -> FreshnessStatus:
             try:
                 ts = line.split(":", 1)[1].strip()
                 generated_at = datetime.fromisoformat(ts.rstrip("Z"))
-            except:
+            except ValueError:
+                # Unparseable timestamp in the header; freshness is decided by the
+                # source hash, so leave generated_at unset and continue.
                 pass
 
     is_fresh = artifact_hash == current_hash
@@ -580,63 +584,82 @@ def _check_artifact_freshness(path: Path, current_hash: str) -> FreshnessStatus:
     )
 
 
-def rebuild_derived(wiki: Wiki) -> dict:
+def rebuild_derived(wiki: Wiki, overwrite_curated: bool = False) -> dict:
     """Rebuild all derived artifacts.
 
-    Regenerates index.md and MIND_MAP.md from Tier 1 data.
+    Regenerates index.md, index.full.md and MIND_MAP.md from Tier 1 data.
+
+    Artifacts lacking the generator's AUTO-GENERATED marker are treated as
+    hand-curated and are SKIPPED rather than overwritten. MIND_MAP.md is
+    maintained by hand and cannot be reproduced from Tier 1: an unguarded
+    rebuild previously replaced its 211 curated nodes with 28 generated ones.
 
     Args:
         wiki: Wiki instance
+        overwrite_curated: If True, overwrite hand-curated artifacts too
+            (destructive; there is no way to regenerate what is lost)
 
     Returns:
-        Dict with rebuild results
+        Dict with keys: rebuilt, skipped, errors
     """
     results = {
         "rebuilt": [],
+        "skipped": [],
         "errors": [],
     }
 
+    def may_write(path: Path) -> bool:
+        """Whether `path` may be overwritten; records a skip if not."""
+        if overwrite_curated or is_generated(path):
+            return True
+        results["skipped"].append(
+            f"{path.name}: hand-curated (no AUTO-GENERATED marker); "
+            f"pass overwrite_curated=True to overwrite"
+        )
+        return False
+
     # Rebuild index.md (lightweight summary for query routing)
-    try:
-        summary_content = compile_index_summary(wiki)
-        index_path = wiki.wiki_dir / "index.md"
-        # Write with frontmatter
-        metadata = {
-            "title": "Wiki Index",
-            "page_type": "index",
-            "generated": True,
-            "updated": datetime.utcnow().isoformat() + "Z",
-        }
-        write_page(index_path, metadata, summary_content)
-        results["rebuilt"].append("index.md")
-    except Exception as e:
-        results["errors"].append(f"index.md: {e}")
+    index_path = wiki.wiki_dir / "index.md"
+    if may_write(index_path):
+        try:
+            summary_content = compile_index_summary(wiki)
+            metadata = {
+                "title": "Wiki Index",
+                "page_type": "index",
+                "generated": True,
+                "updated": utc_now().isoformat() + "Z",
+            }
+            write_page(index_path, metadata, summary_content)
+            results["rebuilt"].append("index.md")
+        except Exception as e:
+            results["errors"].append(f"index.md: {e}")
 
     # Rebuild index.full.md (full catalog for maintenance/status)
-    try:
-        full_content = compile_index(wiki)
-        index_full_path = wiki.wiki_dir / "index.full.md"
-        metadata_full = {
-            "title": "Wiki Index (Full)",
-            "page_type": "index",
-            "generated": True,
-            "updated": datetime.utcnow().isoformat() + "Z",
-        }
-        write_page(index_full_path, metadata_full, full_content)
-        results["rebuilt"].append("index.full.md")
-    except Exception as e:
-        results["errors"].append(f"index.full.md: {e}")
+    index_full_path = wiki.wiki_dir / "index.full.md"
+    if may_write(index_full_path):
+        try:
+            full_content = compile_index(wiki)
+            metadata_full = {
+                "title": "Wiki Index (Full)",
+                "page_type": "index",
+                "generated": True,
+                "updated": utc_now().isoformat() + "Z",
+            }
+            write_page(index_full_path, metadata_full, full_content)
+            results["rebuilt"].append("index.full.md")
+        except Exception as e:
+            results["errors"].append(f"index.full.md: {e}")
 
     # Rebuild MIND_MAP.md
-    try:
-        mind_map_content = compile_mind_map(wiki)
-        mind_map_path = wiki.root / "MIND_MAP.md"
-
-        # Write directly (no frontmatter for MIND_MAP)
-        with open(mind_map_path, "w", encoding="utf-8") as f:
-            f.write(mind_map_content)
-        results["rebuilt"].append("MIND_MAP.md")
-    except Exception as e:
-        results["errors"].append(f"MIND_MAP.md: {e}")
+    mind_map_path = wiki.root / "MIND_MAP.md"
+    if may_write(mind_map_path):
+        try:
+            mind_map_content = compile_mind_map(wiki)
+            # Write directly (no frontmatter for MIND_MAP)
+            with open(mind_map_path, "w", encoding="utf-8") as f:
+                f.write(mind_map_content)
+            results["rebuilt"].append("MIND_MAP.md")
+        except Exception as e:
+            results["errors"].append(f"MIND_MAP.md: {e}")
 
     return results

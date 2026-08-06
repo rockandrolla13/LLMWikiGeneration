@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jarita-duasa
 page_type: entity
 related: []
-revision_hash: sha256:1cee328987783b62668c09639726e854731e4f7cc696108b7ad315526529adc9
 revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery

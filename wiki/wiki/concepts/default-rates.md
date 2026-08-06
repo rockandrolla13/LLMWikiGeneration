@@ -17,7 +17,6 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_hash: sha256:e3af63b1e022efce39c87c77f3d54969501ec205ea53ed624f3ef4372a5c3a55
 revision_id: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook

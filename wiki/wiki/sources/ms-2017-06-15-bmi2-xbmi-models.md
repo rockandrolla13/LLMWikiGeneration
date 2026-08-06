@@ -22,7 +22,6 @@ related:
 - entities/jesper-rooth
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_hash: sha256:8044faa2c2e5a393796b5a357f898c0d57188264c478c32a5422518799846dc1
 revision_id: 1
 source_hash: sha256:b2fd47dc91dcb77ebb2228bfaa5788a779fc8fe9848a129b75f1f88326ca245e
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategy — Introducing

@@ -12,7 +12,6 @@ related:
 - concepts/corporate-bonds
 - concepts/corporate-hybrid-bonds
 - concepts/mrel
-revision_hash: sha256:a861beb54ca7e031562c5a145aeada83f68b0a2c94d38d630d90d03a951c770e
 revision_id: 1
 sources:
 - sources/ms-2014-02-21-corporate-hybrid-primer

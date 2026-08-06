@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/glenn-brier
 page_type: entity
 related: []
-revision_hash: sha256:86e63dd5ce98144231fd5c76e21d8507ec773873f9966ca4be115220697ce7b4
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

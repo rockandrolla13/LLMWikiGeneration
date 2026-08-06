@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/carry-rolldown
 - concepts/risk-premia
-revision_hash: sha256:fbfbef4dd1fd946db7920034e4112e46f681040a63426541df3641158bf83132
 revision_id: 1
 sources:
 - sources/ms-2018-11-05-trading-risk-premia-emfx-virp

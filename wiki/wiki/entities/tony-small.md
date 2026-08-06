@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/tony-small
 page_type: entity
 related: []
-revision_hash: sha256:9e74fcbb7debc3f82ad8aaf2a666ecb30d9bd4c2fac2e5a4246567380bfa1d6b
 revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary

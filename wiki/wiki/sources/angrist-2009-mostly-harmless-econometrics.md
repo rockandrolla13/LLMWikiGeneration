@@ -22,7 +22,6 @@ related:
 - entities/joshua-angrist
 - entities/princeton-university-press
 - entities/victor-chernozhukov
-revision_hash: sha256:c1b2abf18500505e33331bb8db2f026d805a5b30b37881163acef7ccee4dab92
 revision_id: 1
 source_hash: sha256:797016915fe2d18fcb1ff31a1b86cadb7fd25d22a5bfe8f3e193e2cd8976e095
 source_path: raw/creditmacro/Mostly Harmless Econometrics An Empiricists Companion

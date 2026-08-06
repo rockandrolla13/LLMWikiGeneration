@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/graph-neural-networks
 mind_map_priority: medium
-revision_hash: sha256:e15d9c46ed15796c
 schema_version: 2
 uuid: 41693cea-40b1-5aee-a5d2-57cb88972c58
 content_hash: sha256:d0b8053e69f9b665c70ad813c09e0325e05b70342196e6fd2917825e21bd321d

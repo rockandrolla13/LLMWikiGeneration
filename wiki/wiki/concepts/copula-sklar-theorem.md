@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/copulas
 - concepts/probability-integral-transform
-revision_hash: sha256:996285dc79f6f8de462f1cebbb8cb830f0bd2d4f58ab31783904cae4090b91e4
 revision_id: 1
 sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation

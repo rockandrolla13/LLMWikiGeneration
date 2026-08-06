@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/instrumental-variables
 - concepts/potential-outcomes
-revision_hash: sha256:de59c3beb94ee73240503e06bbc1c53e3fa6086a4db8f2278e93c51f7d3932d2
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

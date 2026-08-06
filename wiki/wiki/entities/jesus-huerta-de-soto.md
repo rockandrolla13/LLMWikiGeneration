@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jesus-huerta-de-soto
 page_type: entity
 related: []
-revision_hash: sha256:352ed04f769847e54839dd62d09d6dc782c49b232e73ed1035e1a9e65c3c4d80
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

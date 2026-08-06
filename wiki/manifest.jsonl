@@ -325,3 +325,5 @@
 {"op":"maintenance","op_id":"fix_contradictions_dir_2026_06_20","timestamp":"2026-06-20T00:00:00Z","note":"Created wiki/wiki/contradictions/ directory and made contradiction detection a required ingest step"}
 
 {"op":"maintenance","op_id":"deprecate_wiki_builder_2026_06_20","timestamp":"2026-06-20T00:00:00Z","note":"Deprecated scripts/wiki_builder.py — direct page writes bypass manifest.jsonl; use wiki_ingest() instead"}
+{"op_id":"op_be0c050d7ed7","op_type":"rebuild","timestamp":"2026-08-06T17:10:56.190001Z","actor":"llm","inputs":{},"outputs":{"rebuilt":["index.md","index.full.md"],"errors":[]},"status":"completed"}
+{"op_id":"op_77b0c216a40c","op_type":"rebuild","timestamp":"2026-08-06T17:11:38.906324Z","actor":"llm","inputs":{},"outputs":{"rebuilt":["index.md","index.full.md"],"skipped":["MIND_MAP.md: hand-curated (no AUTO-GENERATED marker); pass overwrite_curated=True to overwrite"],"errors":[]},"status":"completed"}

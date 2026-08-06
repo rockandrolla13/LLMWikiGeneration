@@ -16,7 +16,6 @@ related:
 - concepts/dense-retrieval
 - concepts/token-embeddings
 mind_map_priority: medium
-revision_hash: sha256:0514b87d58fac080
 schema_version: 2
 uuid: 7b273302-48a8-5d46-83e4-092ddc82daac
 content_hash: sha256:0e4b4e1ddf8b71e11bced26a82497878f14aa69f8fa65d117d2c1b850d8049cd

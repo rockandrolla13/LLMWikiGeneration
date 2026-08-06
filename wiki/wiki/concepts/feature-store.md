@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/feature-engineering
 mind_map_priority: medium
-revision_hash: sha256:d3347d876187f7f5
 schema_version: 2
 uuid: dbe104c6-abb0-5eac-b7c9-3557a62de35c
 content_hash: sha256:befbd0d95c61f64ec6cad6eac1756c1564f435c4cc4de39516d6367e26d38c2f

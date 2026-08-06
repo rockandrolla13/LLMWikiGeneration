@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:dd7c2ee6bf5954f6
 schema_version: 2
 uuid: 3967d18f-c692-580f-968e-78c15994ecac
 content_hash: sha256:d70a1874f3a2ab063a6c4ff23cdd801732ce8cd4d09dd923df8f3ad6078a32ce

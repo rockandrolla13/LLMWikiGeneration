@@ -24,7 +24,6 @@ related:
 - entities/magdalena-stoklosa
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_hash: sha256:2dcb150b13f827ab1c9834c217440a833a96b2770620f7d63b3820dea7076132
 revision_id: 1
 source_hash: sha256:725656cb5d9415d13322ae9a9725cf2048e24f04bf83df3407522109932ad762
 source_path: raw/creditmacro/Morgan Stanley - European Banks - Equity & Credit — Untested

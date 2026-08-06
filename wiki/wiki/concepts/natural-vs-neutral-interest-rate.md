@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/natural-vs-neutral-interest-rate
 page_type: concept
 related: []
-revision_hash: sha256:f610c5893c010101c7a92d3681ca2a5a81e2695c61ab7a63714535f2e1cffc28
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

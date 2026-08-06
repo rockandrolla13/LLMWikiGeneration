@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Amazon Web Services
-revision_hash: sha256:8c2dbed41bf3cd83
 schema_version: 2
 uuid: 8135e46f-6e23-56e6-9f80-341c7b7d264a
 content_hash: sha256:ad3409fb22a04be08ae4d1fc8a68e202ba4a7ea1cbdd49510caf5619e51ac13d

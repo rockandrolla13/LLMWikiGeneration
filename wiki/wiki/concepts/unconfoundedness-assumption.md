@@ -8,7 +8,6 @@ page_id: concepts/unconfoundedness-assumption
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:f43913db906c5981a8f51721ffbcf04d28d136db26ed51a8dc9174402c1d6f2b
 revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series

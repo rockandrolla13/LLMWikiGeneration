@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Anthropic
-revision_hash: sha256:5c0ca19f784349df
 schema_version: 2
 uuid: 6b19e05a-0416-52db-bbf0-a6bda18b1381
 content_hash: sha256:a6720dbb1818f65384b7dcee4f8977780e8901259ce4b5bd418b5701925cc629

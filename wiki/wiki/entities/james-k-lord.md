@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/james-k-lord
 page_type: entity
 related: []
-revision_hash: sha256:53d74166111e5c59f489c03978567609d4601453aa8c5306f6a11f062557b5ff
 revision_id: 1
 sources:
 - sources/ms-2019-02-24-china-current-account-turning-point

@@ -20,7 +20,6 @@ related:
 - entities/meghan-robson
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_hash: sha256:5b654294c03d51f0b2536d935904da8f0c774b17678516a21281dc71121e319a
 revision_id: 1
 source_hash: sha256:4e946d01be6fc6d286aa8170889d3d5dee5cf2f22a0d2c4146e7160b4b26fe88
 source_path: raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy — MS Credit-BMI

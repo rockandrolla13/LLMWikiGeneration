@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Open Worldwide Application Security Project
-revision_hash: sha256:0f97049d949cfce5
 schema_version: 2
 uuid: 95217522-2161-527d-9705-11c6287a6022
 content_hash: sha256:045cf9463b2009b0abafa063a62e128a238639be515427e231879ea598f2ae41

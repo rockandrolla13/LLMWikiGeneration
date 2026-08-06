@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/srikanth-sankaran
 page_type: entity
 related: []
-revision_hash: sha256:f2d776b744a66108561545b72b7198c624196f21dc68c690c89068ac469175a4
 revision_id: 1
 sources:
 - sources/ms-2015-11-16-corporate-hybrids-playbook

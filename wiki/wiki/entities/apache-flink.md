@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
 affiliation: Data Artisans / Alibaba
-revision_hash: sha256:0f8058efd91f7ec7
 schema_version: 2
 uuid: 22aac02d-7082-5677-8d2f-9f138d5bff25
 content_hash: sha256:c01af49cbbb565641ed67858e3190f46c3dbd858c52f4e860f8a809cf2dce5a6

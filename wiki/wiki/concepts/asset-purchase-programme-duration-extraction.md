@@ -8,7 +8,6 @@ page_id: concepts/asset-purchase-programme-duration-extraction
 page_type: concept
 related:
 - concepts/government-bond-spreads
-revision_hash: sha256:b33530c3c75d05d998fa5c299f07f1a46793f3cf3351f8afe8875f83b35b3bbe
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

@@ -17,7 +17,6 @@ related:
 - concepts/systems-thinking
 - entities/marcus-p-dawson
 - entities/warren-buffett
-revision_hash: sha256:9612dd4f6864d908ec93dcbf00f87e0843894d2ed45134de2ce9ce126f87ada5
 revision_id: 1
 source_hash: sha256:1e3ba0b687f3d488155538ab4b37306fcc1de01760c964d71c7158c9666781a2
 source_path: raw/creditmacro/Thinking in Systems and Mental Models Think Like a Super

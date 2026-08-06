@@ -19,7 +19,6 @@ related:
 - entities/jesper-rooth
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_hash: sha256:edace6341393d477ea7f18a001fd7d119b40bb6bf0552c17abc36e33285443ec
 revision_id: 1
 source_hash: sha256:cd8fab5bcf41385ec736374c7d39b8991fcc83a858b663ef078c73755c33646f
 source_path: raw/creditmacro/Morgan Stanley - Euro Sovereign Bond Market Indicators

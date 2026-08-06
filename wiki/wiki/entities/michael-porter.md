@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-porter
 page_type: entity
 related: []
-revision_hash: sha256:682e0b1912ed3351946cdc59622e5652375a43ccbd546e68d59cc8f5b8397ce7
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

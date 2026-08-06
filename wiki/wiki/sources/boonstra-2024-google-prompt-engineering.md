@@ -40,7 +40,6 @@ related:
 - entities/vertex-ai
 - entities/xuezhi-wang
 mind_map_priority: medium
-revision_hash: sha256:33e32f4fdcec0b68
 schema_version: 2
 uuid: 9722204b-a660-5315-b1fd-ae8e712ece5f
 content_hash: sha256:bcc5f5235a31fe76efe2c9ed9520f4fbb15bf2dd15d833be31679256b5e6657b

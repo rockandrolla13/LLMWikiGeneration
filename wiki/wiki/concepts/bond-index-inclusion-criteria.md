@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/etf-flows
-revision_hash: sha256:eef067c0bcc7374373b8e3ddda585ca970a9a2cf2c31c89f76d8541c63e9190f
 revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix

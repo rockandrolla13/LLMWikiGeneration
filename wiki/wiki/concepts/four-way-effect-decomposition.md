@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/interaction-analysis
 - concepts/mediation-analysis
-revision_hash: sha256:a8e2f991c3f7ed7fccc1b7adb8adaf84d284dfabc7cd4f16ff334a78cb7c74de
 revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference

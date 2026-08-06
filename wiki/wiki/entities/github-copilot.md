@@ -16,7 +16,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: high
 affiliation: GitHub / Microsoft
-revision_hash: sha256:d2505c28195fe90d
 schema_version: 2
 uuid: af47b495-6d78-587f-ac93-478edcbd002a
 content_hash: sha256:51ea963e62cb3a926d1887c7c4cbd01dd3132d92c17fbc9dcd0b54a811ffbb2a

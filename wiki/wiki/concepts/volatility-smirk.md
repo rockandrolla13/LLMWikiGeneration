@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/volatility-smirk
 page_type: concept
 related: []
-revision_hash: sha256:1bfa76768995ce33f992157394213ea194c605fc529f060083e23e9b3026176e
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

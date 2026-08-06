@@ -24,7 +24,6 @@ related:
 - entities/joao-almeida
 - entities/matthew-pennill
 - entities/morgan-stanley
-revision_hash: sha256:323a8d86c982b4dac2c14e02188a8cb1f65deb5b7dfe5cef67797b1b482422e4
 revision_id: 1
 source_hash: sha256:1d19fb733115dfb4c73d28b220249414a5662e1390e76dd8b6266261c4e460f5
 source_path: raw/creditmacro/Morgan Stanley - European Economics Weekly — Ongoing

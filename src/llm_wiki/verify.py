@@ -10,6 +10,7 @@ from typing import Optional
 
 from .wiki import Wiki
 from .frontmatter import parse_page, compute_content_hash, extract_wikilinks
+from .io.wikilinks import normalize_link_target
 from .schemas import PageType
 
 
@@ -280,27 +281,34 @@ def verify_wikilinks(wiki: Wiki) -> VerificationResult:
     """Verify wikilinks point to existing pages or are flagged."""
     broken_links = []
 
-    # Get all page titles for lookup
-    page_titles = set()
+    # A page is legitimately reachable by page_id, by title, or by bare
+    # filename stem, and this corpus uses all three. Resolving against titles
+    # alone reported ~9000 live links as broken.
+    targets = set()
     for page_path in wiki.list_pages():
+        targets.add(page_path.stem)
+        targets.add(str(page_path.relative_to(wiki.wiki_dir).with_suffix("")))
         try:
             metadata, _ = parse_page(page_path)
-            if "title" in metadata:
-                page_titles.add(metadata["title"])
-        except:
-            pass
+        except Exception:
+            continue
+        if metadata.get("title"):
+            targets.add(metadata["title"])
+        if metadata.get("page_id"):
+            targets.add(metadata["page_id"])
 
     # Check all wikilinks
     for page_path in wiki.list_pages():
         try:
             _, content = parse_page(page_path)
-            links = extract_wikilinks(content)
-            for link in links:
-                # Check if link target exists (by title)
-                if link not in page_titles:
-                    broken_links.append(f"{page_path.name}: [[{link}]]")
-        except:
-            pass
+        except Exception:
+            continue
+        for link in extract_wikilinks(content):
+            target = normalize_link_target(link)
+            if not target:
+                continue  # anchor-only link refers to this page
+            if target not in targets:
+                broken_links.append(f"{page_path.name}: [[{link}]]")
 
     if broken_links:
         return VerificationResult(

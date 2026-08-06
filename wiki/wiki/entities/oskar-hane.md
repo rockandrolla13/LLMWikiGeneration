@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Neo4j
-revision_hash: sha256:8f8c090704dbea1f
 schema_version: 2
 uuid: a4a461c8-e710-54e6-a219-9061d2450a68
 content_hash: sha256:d8eb2a33a55347afcfe4071080c9ec20936e66d0679afe0930e07b035541a907

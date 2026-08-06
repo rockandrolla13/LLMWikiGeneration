@@ -10,6 +10,7 @@ Each factory function:
 - Accepts **meta_overrides for customizing PageMeta fields
 """
 
+from ..clock import utc_now
 from datetime import datetime
 from typing import Optional
 
@@ -73,7 +74,7 @@ def create_source_page(
         Configured SourcePage instance
     """
     page_id = f"sources/{normalize_page_id(title)}"
-    now = datetime.utcnow()
+    now = utc_now()
 
     meta = PageMeta(
         title=title,
@@ -131,7 +132,7 @@ def create_entity_page(
         Configured EntityPage instance
     """
     page_id = f"entities/{normalize_page_id(title)}"
-    now = datetime.utcnow()
+    now = utc_now()
 
     meta = PageMeta(
         title=title,
@@ -186,7 +187,7 @@ def create_concept_page(
         Configured ConceptPage instance
     """
     page_id = f"concepts/{normalize_page_id(title)}"
-    now = datetime.utcnow()
+    now = utc_now()
 
     meta = PageMeta(
         title=title,
@@ -239,7 +240,7 @@ def create_analysis_page(
         Configured AnalysisPage instance
     """
     page_id = f"analyses/{normalize_page_id(title)}"
-    now = datetime.utcnow()
+    now = utc_now()
 
     meta = PageMeta(
         title=title,
@@ -294,7 +295,7 @@ def create_contradiction_page(
         Configured ContradictionPage instance
     """
     page_id = f"contradictions/{normalize_page_id(title)}"
-    now = datetime.utcnow()
+    now = utc_now()
 
     meta = PageMeta(
         title=title,

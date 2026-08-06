@@ -21,7 +21,6 @@ related:
 - concepts/in-context-learning
 - concepts/prompt-engineering
 mind_map_priority: high
-revision_hash: sha256:d511e191d20a7c92
 schema_version: 2
 uuid: cb559654-3501-52ce-bf49-234f9893d03f
 content_hash: sha256:93e9ad2b5c0282a94eeca1032f31a749ce91f1dd899de111312dc5faf57825c0

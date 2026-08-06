@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
-revision_hash: sha256:a4893b7ec7d72334
 schema_version: 2
 uuid: e56e6b42-bc12-5c97-8bcb-f1ec65bfc428
 content_hash: sha256:23b39888307c826403fd17ee7b01cbd12e34bbb2c5c5e06d696fa3656daa6454

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-j-brown
 page_type: entity
 related: []
-revision_hash: sha256:7e64247c9a53729abf21be6d13bdfae6ef125e6f18309ffb75d7c1bf0a878b65
 revision_id: 1
 sources:
 - sources/ms-2019-02-13-eurex-futures-rolls

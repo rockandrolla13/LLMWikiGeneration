@@ -12,7 +12,6 @@ sources:
 - sources/anon-2024-vector-databases-rag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:0cdc1ff5317d26a9
 schema_version: 2
 uuid: 9a4bf9d0-18e9-5b7e-8802-8e1b8ace0e8e
 content_hash: sha256:8fba5a5baa6dffbcd961b19aaa89fcc7d5860a6cee91b34f26332aa511d3a795

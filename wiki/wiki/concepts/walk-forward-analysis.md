@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/data-leakage
 - concepts/look-ahead-bias
-revision_hash: sha256:587ab49d4998f0790a556df15895649087d894c9c512edde2d99441aa2490581
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

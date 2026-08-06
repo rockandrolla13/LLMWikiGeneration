@@ -18,7 +18,6 @@ related:
 - concepts/tick-loss
 - concepts/uncertainty-quantification
 - concepts/variogram-score
-revision_hash: sha256:ae7a0f0890967960a5b52705bbce0b072728bf84357cc814b87b2f1ecd44e26d
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

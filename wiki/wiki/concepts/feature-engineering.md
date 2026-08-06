@@ -6,7 +6,6 @@ page_type: concept
 related:
 - concepts/automated-alpha-search
 - concepts/splines-and-additive-models
-revision_hash: sha256:38b769e21350bd61
 revision_id: 2
 sources:
 - sources/huyen-2022-designing-ml-systems

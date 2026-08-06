@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jakub-mateju
 page_type: entity
 related: []
-revision_hash: sha256:c35af436463a61822b1c167ad618540e2391c73e1873d6bb9469c1859fe06efb
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

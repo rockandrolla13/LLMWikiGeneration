@@ -40,7 +40,6 @@ related:
 - entities/oreilly-media
 - entities/patrick-lewis
 mind_map_priority: medium
-revision_hash: sha256:aa134a902686eeab
 schema_version: 2
 uuid: f4d5140b-af2e-5854-ab96-ea5863d6cf04
 content_hash: sha256:15e54bca10eb752b4e1b8ebde405e14d322ebf336c30ad55a71b09250e50f695

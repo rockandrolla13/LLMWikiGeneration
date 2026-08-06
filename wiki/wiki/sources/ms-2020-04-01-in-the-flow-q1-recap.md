@@ -23,7 +23,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:4a299338cae35db3e236f5cf4cf95b778de3045f203e55e0a563c2dc372aa9bf
 revision_id: 1
 source_hash: sha256:e79ee4134737adc371f186cb60c02bb6f1b6014d733f761ec0fbf4dce8907be5
 source_path: raw/creditmacro/Morgan Stanley - Global In the Flow First Quarter Recap

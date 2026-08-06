@@ -19,7 +19,6 @@ related:
 - entities/ahl-man-group
 - entities/harriman-house
 - entities/robert-carver
-revision_hash: sha256:c2c59153b691f509327da99ce32f52f3ae4aabd284431af4bcafb522d3d89131
 revision_id: 1
 source_hash: sha256:2e335a54c77646b003f2372c1b8ebe2c821e21ce4943cae237334166bc80dd4a
 source_path: raw/creditmacro/Advanced Futures Trading Strategies (Robert Carver) (z-library.sk,

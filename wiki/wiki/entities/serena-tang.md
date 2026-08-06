@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/serena-tang
 page_type: entity
 related: []
-revision_hash: sha256:0d0b5a07f76137322e08d46879cf2b1893f2a2744def7b7eca8b8529a018732d
 revision_id: 1
 sources:
 - sources/ms-2011-03-28-high-grade-mid-cycle

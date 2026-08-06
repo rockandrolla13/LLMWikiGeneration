@@ -12,7 +12,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3780be95e6c0f051
 schema_version: 2
 uuid: 12185500-bb7e-5235-9233-f2cf9885e5da
 content_hash: sha256:583cdf7cb507c65fd83f4258b63bc91bd7d6507196395c2fc23e8417be45c3ce

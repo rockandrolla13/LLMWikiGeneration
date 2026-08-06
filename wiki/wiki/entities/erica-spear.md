@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/erica-spear
 page_type: entity
 related: []
-revision_hash: sha256:504b8d23ffa4424c249de1a868a74b20018e9fa53253a8b9e8d31b966ac888fd
 revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix

@@ -11,7 +11,6 @@ related:
 - concepts/liquidity-risk
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
-revision_hash: sha256:16ff33769694e00fbf57fef33b9846fd9823a5915a9e8c87318f4cab5d67bcb2
 revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund

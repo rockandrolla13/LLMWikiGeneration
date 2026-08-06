@@ -139,7 +139,7 @@ class TestPageMeta:
         assert meta.page_id == "concepts/test"
         assert meta.page_type == PageType.CONCEPT
         assert meta.revision_id == 1
-        assert meta.revision_hash == ""
+        assert meta.content_hash == ""
         assert isinstance(meta.created, datetime)
         assert isinstance(meta.updated, datetime)
 
@@ -151,7 +151,7 @@ class TestPageMeta:
             page_id="sources/full",
             page_type=PageType.SOURCE,
             revision_id=5,
-            revision_hash="sha256:abc123",
+            content_hash="sha256:abc123",
             created=now,
             updated=now,
             updated_by="op_123456",
@@ -162,7 +162,7 @@ class TestPageMeta:
             mind_map_category=2,
         )
         assert meta.revision_id == 5
-        assert meta.revision_hash == "sha256:abc123"
+        assert meta.content_hash == "sha256:abc123"
         assert meta.updated_by == "op_123456"
         assert meta.sources == ["source1", "source2"]
         assert meta.related == ["related1"]

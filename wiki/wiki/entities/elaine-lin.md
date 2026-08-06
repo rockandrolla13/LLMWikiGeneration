@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/elaine-lin
 page_type: entity
 related: []
-revision_hash: sha256:2777a92bbd1271cb71ac33599eb106a17020dfff6d077a3832735eb400362496
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/great-moderation
-revision_hash: sha256:b6b708c6ba24163d54ba88d0c511e110ab2036848aacc1217b9bc55f32c90346
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

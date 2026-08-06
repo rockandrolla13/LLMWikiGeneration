@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
 affiliation: Stanford University
-revision_hash: sha256:efeca48a86a67693
 schema_version: 2
 uuid: 9ff0af5a-780d-54f6-a8ef-a8145ae6c493
 content_hash: sha256:a7ed1429af0d511ea3e037c15e0682d723f0d150f0f700f54adbfa447ab665f1

@@ -11,7 +11,6 @@ related:
 - concepts/confounding
 - concepts/potential-outcomes
 - concepts/propensity-score
-revision_hash: sha256:87324cc756b1bbeb008025ef2b7aea48c3aebdf091bf857627763cc2d8929960
 revision_id: 2
 sources:
 - sources/hernan-2020-causal-inference-what-if

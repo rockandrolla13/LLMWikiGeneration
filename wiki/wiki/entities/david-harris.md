@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-harris
 page_type: entity
 related: []
-revision_hash: sha256:f0ddce4906238b62a298f23e8c3d726ebd15e5ff21367b4ae1b2865be2fa207d
 revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary

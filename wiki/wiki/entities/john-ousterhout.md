@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: Stanford University
-revision_hash: sha256:a423339093a6af66
 schema_version: 2
 uuid: 60e92b3b-05c8-5465-a9b2-bb7ca471d2aa
 content_hash: sha256:ea5be252b178da292a58cdb94296ae0d2e81b53ce9b695c15718422191079b53

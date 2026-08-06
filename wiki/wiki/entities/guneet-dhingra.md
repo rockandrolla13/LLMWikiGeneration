@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/guneet-dhingra
 page_type: entity
 related: []
-revision_hash: sha256:62e0ffcd8c08ec5d6c12d0a6fc2ce51a452516c5d45619e17011d496bb3a9a40
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

@@ -24,7 +24,6 @@ related:
 - entities/jennifer-hill
 - entities/paul-rosenbaum
 - entities/robert-mcculloch
-revision_hash: sha256:6557ccbdc55c8b1f43d88b8525b30c0912e6e1bde1b51748f14946ffa0d1bbe0
 revision_id: 1
 source_hash: sha256:ecf024dd367bdb3bc0c384a69f2da5aaf88ba28818651cdecde87308087fd55d
 source_path: raw/causality-testing/Bayesian Nonparametric Modeling for Causal Inference.pdf

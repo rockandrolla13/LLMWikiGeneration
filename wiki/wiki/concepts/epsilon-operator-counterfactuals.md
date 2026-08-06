@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/epsilon-operator-counterfactuals
 page_type: concept
 related: []
-revision_hash: sha256:834e8b8c15009b065e9be7bfb5f58431f14561cef1099c16e4ce750b3e6fb449
 revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability

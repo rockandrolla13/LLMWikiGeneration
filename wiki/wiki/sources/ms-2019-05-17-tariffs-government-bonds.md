@@ -27,7 +27,6 @@ related:
 - entities/matthew-hornbach
 - entities/morgan-stanley
 - entities/tony-small
-revision_hash: sha256:99bcb35c6e2791bc0079457da76b15a3e33b6f171a56704b1ebed205bea853b2
 revision_id: 1
 source_hash: sha256:07d771ea950d646bbc3f307be23eb0b523cf065956f09d99306eede14e012fb8
 source_path: raw/creditmacro/Morgan Stanley - For Whom the Tariffs Toll — Government

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/arthur-saint-guilhem
 page_type: entity
 related: []
-revision_hash: sha256:2ec90dcde48f776563dc3fffd379fdb3dd391d27b774a091b1f8594bf2d77d41
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

@@ -8,7 +8,6 @@ page_id: concepts/futures-carry
 page_type: concept
 related:
 - concepts/carry-rolldown
-revision_hash: sha256:0b75f155d5ffe9d8ecdcc35d5fee9edbe4a787322e3db36c8ea67bb6376ad910
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

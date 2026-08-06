@@ -10,7 +10,6 @@ related:
 - concepts/optimum-score-estimation
 - concepts/strictly-proper-scoring-rules
 - concepts/uncertainty-quantification
-revision_hash: sha256:eece0591dc05b9abc4de2cda37a91bdd09b69afc4d3cf0ff3496306fef1c453d
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

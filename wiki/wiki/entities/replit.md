@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Replit
-revision_hash: sha256:ac57486ccd613abf
 schema_version: 2
 uuid: 2ca631d8-76b2-5721-b42f-ee3fa732cf5f
 content_hash: sha256:c3e8c00a98130fa608b0a3ee0763b0118745f1e8d1205d34de8e1845c3785321

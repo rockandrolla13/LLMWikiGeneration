@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/federico-manicardi
 page_type: entity
 related: []
-revision_hash: sha256:30774abb21556caea304d91947bbd6be5d4026c89a768902766dff6612d7bcf7
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

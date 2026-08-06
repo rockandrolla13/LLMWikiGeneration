@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/derrick-y-kam
 page_type: entity
 related: []
-revision_hash: sha256:63c1133e0df4c23aacfd7c23e5e0a303883b9630021b26ccfa44feea94332d5a
 revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes

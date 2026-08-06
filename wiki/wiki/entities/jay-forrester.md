@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jay-forrester
 page_type: entity
 related: []
-revision_hash: sha256:db5ae4f602330bfc36e7fbd7e253ca2dc8045e06efafae10a6575f64e4dccb4e
 revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jennifer-hill
 page_type: entity
 related: []
-revision_hash: sha256:4285d5f324aac9ab864f67612b4eb87d3388ad224844ac9ca8f9bee1c93b7213
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

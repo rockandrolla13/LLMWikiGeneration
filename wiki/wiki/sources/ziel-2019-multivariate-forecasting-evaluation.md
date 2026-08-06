@@ -22,7 +22,6 @@ related:
 - entities/kevin-berk
 - entities/pierre-pinson
 - entities/tilmann-gneiting
-revision_hash: sha256:62711bdb05301492d29a95caa32cc207d73cd32878f1ae29cfd7abad3d1e8ec3
 revision_id: 1
 source_hash: sha256:ee5e8436d8ce9438e6d97de2b02c10967017b309f7270de815622b0cd8d70afc
 source_path: raw/creditmacro/1910.07325v1.md

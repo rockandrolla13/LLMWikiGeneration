@@ -7,7 +7,6 @@ related:
 - concepts/ai-capex-funding
 - concepts/ai-disruption-software-business-models
 - concepts/transformers
-revision_hash: sha256:ae9cc9c202424f29
 revision_id: 2
 sources:
 - sources/thomas-2025-ai-value-creators

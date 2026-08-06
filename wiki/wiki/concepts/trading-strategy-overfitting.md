@@ -10,7 +10,6 @@ related:
 - concepts/data-leakage
 - concepts/look-ahead-bias
 - concepts/overfitting-backtesting
-revision_hash: sha256:65fbed07f6b85e8a2a7b1418f81a225ea197caf8146a00ab8d12349e08d1d936
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

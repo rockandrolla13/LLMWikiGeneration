@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/leverage-points
 page_type: concept
 related: []
-revision_hash: sha256:59ce880a0e730f433e1aefed92fea319049f18f0247a3ba8357614f4e61f9e01
 revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems

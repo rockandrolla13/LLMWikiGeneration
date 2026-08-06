@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/kelcie-gerson
 page_type: entity
 related: []
-revision_hash: sha256:9e6bfd1561183b7e9ce350511163cf30d0a3f5ee93d8cd64a03a4bf24800ce47
 revision_id: 1
 sources:
 - sources/ms-2019-05-17-tariffs-government-bonds

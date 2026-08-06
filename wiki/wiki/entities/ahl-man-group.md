@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/ahl-man-group
 page_type: entity
 related: []
-revision_hash: sha256:bf9abf65c926eac82fe3ae1e5879508dfc315a0e719c04adaa75a413edb1b342
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

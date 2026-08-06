@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/system-prompting
 mind_map_priority: medium
-revision_hash: sha256:d5140d837bdcef0e
 schema_version: 2
 uuid: b37cb0fe-fe16-5c16-8eef-1834da2e1ac0
 content_hash: sha256:04d4131297de89a35f1e8044422da364028f381b9f3ed53d75ffa185172797cf

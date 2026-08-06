@@ -4,6 +4,7 @@ The schema.yml file defines the wiki's profile, taxonomy, and settings.
 It's a Tier 1 canonical artifact that controls how the wiki operates.
 """
 
+from .clock import utc_now
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
@@ -273,5 +274,5 @@ def get_default_config(
         topic=topic,
         domain_keywords=[],
         created_by="llm-wiki",
-        created_at=datetime.utcnow().isoformat() + "Z",
+        created_at=utc_now().isoformat() + "Z",
     )

@@ -11,7 +11,6 @@ related:
 - concepts/credit-spread-puzzle
 - concepts/no-arbitrage-restrictions
 - concepts/survival-probability
-revision_hash: sha256:424d64a175bcbd4ff644b33f40b7d6ac386369b18f2d2951fc2841485bac0a60
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

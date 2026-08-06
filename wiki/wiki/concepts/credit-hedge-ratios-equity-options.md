@@ -10,7 +10,6 @@ related:
 - concepts/cds-bond-basis
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
-revision_hash: sha256:cdb5094be5f5b075faca538d1f7048d349d0e06d8085986349fbc53994a092e5
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

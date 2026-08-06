@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/quantile-regression
-revision_hash: sha256:520b3262df5e713f3dc19678d47c357832099a92b10b3fca4cc13d4bdc04e4e8
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

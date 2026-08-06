@@ -16,7 +16,6 @@ related:
 - entities/alexander-philipov
 - entities/doron-avramov
 - entities/gergana-jostova
-revision_hash: sha256:d26558cddc84038009288bafc80720c3af321e6d25246117ce71ccf3e0bb07e6
 revision_id: 1
 source_hash: sha256:80f67a97c586de228b3b37256224c3877caa5467c4729778f3a2e3488c985a36
 source_path: raw/creditmacro/Avramov-UnderstandingChangesCorporate-2007.md

@@ -19,7 +19,6 @@ related:
 - entities/andreas-koukorinis
 - entities/hutchin-hill-capital
 - entities/shahraab-ahmad
-revision_hash: sha256:02f2538b0b471b8e1bebb461d4aacbe90116f342802d23406c98565b183828ef
 revision_id: 1
 source_hash: sha256:2654e9398fc82d71a24b0e2a9a24c3c0d246ebb0644db2e2585bdb96b7bb9075
 source_path: raw/creditmacro/Alaph Long Presentation Version July 2014.md

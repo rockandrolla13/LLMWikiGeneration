@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/elasticity-economics
 page_type: concept
 related: []
-revision_hash: sha256:0b676234a2f4e0978b49ebea587fb63cd07da3c26d24bed39f350807d154a929
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

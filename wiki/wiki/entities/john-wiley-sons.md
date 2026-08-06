@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/john-wiley-sons
 page_type: entity
 related: []
-revision_hash: sha256:ffbbf319bb7d95cb345f76efb9ce94c6ffe768f5786b8beaf0eafa83ba99b212
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

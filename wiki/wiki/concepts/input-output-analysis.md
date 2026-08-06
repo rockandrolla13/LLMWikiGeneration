@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/input-output-analysis
 page_type: concept
 related: []
-revision_hash: sha256:46c15467224e64a938d154e9b10f484c5fb5b7abc8dab55b825d6ead0921c60c
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics
