@@ -42,4 +42,12 @@ A convergence-trading strategy that bets on the realignment of a firm's equity a
 - [[concepts/liquidity-risk|liquidity-risk]]
 - [[concepts/pairs-trading|pairs-trading]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+
+## Sources on the Equity-to-Credit Channel
+
+- [[sources/cao-2023-implied-vol-bond-returns|Cao et al. (2023)]] -- option-implied volatility predicts corporate bond returns; bonds underreact
+- [[sources/hong-2025-implied-vol-cds-korea|Hong & Park (2025)]] -- the same effect in Korean CDS
+- [[sources/amadori-2014-relative-informational-efficiency|Amadori et al. (2014)]] -- which market leads is regime-dependent, not fixed
+- [[sources/dafonseca-2020-cds-equity-volatility-comovement|Da Fonseca & Gottschalk (2020)]] -- linkage is clean at firm level, muddy at index level
+
 <!-- AUTHORED REGION END -->

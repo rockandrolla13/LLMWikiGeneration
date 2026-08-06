@@ -51,4 +51,11 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 
 **Not yet written:** `concepts/cdx-index`, `concepts/recovery-rate`, `concepts/unit-recovery-claim`
 
+
+## CDS and the Equity/Options Markets
+
+- [[sources/amadori-2014-relative-informational-efficiency|Amadori et al. (2014)]] -- CDS leads stocks and options, but only during the crisis
+- [[sources/dafonseca-2020-cds-equity-volatility-comovement|Da Fonseca & Gottschalk (2020)]] -- equity returns lead CDS at firm level
+- [[sources/hong-2025-implied-vol-cds-korea|Hong & Park (2025)]] -- option IV predicts CDS spread changes
+
 <!-- AUTHORED REGION END -->

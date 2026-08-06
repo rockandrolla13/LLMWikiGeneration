@@ -57,4 +57,10 @@ That last point is the sharpest one: the equity return mediates the link rather 
 
 **Not yet written:** `concepts/black-scholes`, `concepts/option-pricing`
 
+
+## Implied Volatility as a Credit Signal
+
+- [[sources/cao-2023-implied-vol-bond-returns|Cao et al. (2023)]] -- IV changes signal firm-risk shocks, not just fundamentals
+- [[sources/hong-2025-implied-vol-cds-korea|Hong & Park (2025)]] -- cross-sectional prediction of CDS spread changes
+
 <!-- AUTHORED REGION END -->
