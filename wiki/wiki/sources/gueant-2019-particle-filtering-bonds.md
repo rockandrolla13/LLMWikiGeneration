@@ -153,7 +153,7 @@ This paper presents a Bayesian method using particle filtering/sequential Monte 
 
 ## See Also
 
-- [[concepts/particle-filtering|Particle Filtering]]
+- Particle Filtering
 - [[concepts/sequential-monte-carlo|Sequential Monte Carlo]]
 - [[concepts/market-making|Market Making]]
 - [[concepts/request-for-quotes|Request for Quotes]]

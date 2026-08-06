@@ -62,23 +62,23 @@ A German-language O'Reilly book (first edition, September 2025) titled "Datenver
 
 ## Main Concepts
 
-- [[concepts/data-governance|Data Governance]]
-- [[concepts/unity-catalog|Unity Catalog]]
-- [[concepts/lakehouse-architecture|Lakehouse architecture]]
-- [[concepts/databricks-data-intelligence-platform|Databricks Data Intelligence Platform]]
+- Data Governance
+- Unity Catalog
+- Lakehouse architecture
+- Databricks Data Intelligence Platform
 - Identity Management (SSO, identity provisioning)
-- [[concepts/access-controls-and-permissions-model|Access Controls and Permissions Model]]
-- [[concepts/ai-ml-governance|AI/ML Governance]]
-- [[concepts/observability-and-data-discoverability|Observability and Data Discoverability]]
+- Access Controls and Permissions Model
+- AI/ML Governance
+- Observability and Data Discoverability
 - Data Sharing and Collaboration (Delta Sharing)
-- [[concepts/open-access-open-source-catalog|Open Access / Open Source Catalog]]
+- Open Access / Open Source Catalog
 - Regulatory Compliance (GDPR)
-- [[concepts/hive-metastore-hms-migration|Hive Metastore (HMS) migration]]
+- Hive Metastore (HMS) migration
 - Compute access modes (Standard, Dedicated, Serverless)
-- [[concepts/cross-metastore-governance|Cross-Metastore Governance]]
+- Cross-Metastore Governance
 - Open Formats (Delta, Apache Iceberg)
-- [[concepts/etl-pipeline-governance|ETL Pipeline Governance]]
-- [[concepts/data-quality|Data Quality]]
+- ETL Pipeline Governance
+- Data Quality
 
 ## Key Entities
 

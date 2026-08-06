@@ -123,8 +123,8 @@ This paper develops an optimal control framework for derivative hedging through 
 
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/market-making|Market Making]]
-- [[concepts/delta-hedging|Delta Hedging]]
-- [[concepts/optimal-control|Optimal Control]]
-- [[sources/avellaneda-2008-market-making|Avellaneda & Stoikov (2008)]]
+- Delta Hedging
+- Optimal Control
+- Avellaneda & Stoikov (2008)
 
 <!-- AUTHORED REGION END -->

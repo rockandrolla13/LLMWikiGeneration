@@ -62,32 +62,32 @@ Graph Neural Networks in Action (Manning, 2025 copyright; ISBN 9781617299056) by
 ## Main Concepts
 
 - Graph Neural Networks (GNNs)
-- [[concepts/graph-embeddings|Graph embeddings]]
-- [[concepts/node2vec|Node2Vec]]
-- [[concepts/message-passing|Message passing]]
+- Graph embeddings
+- Node2Vec
+- Message passing
 - Graph Convolutional Networks (GCN)
-- [[concepts/graphsage|GraphSAGE]]
-- [[concepts/neighborhood-aggregation|Neighborhood aggregation]]
+- GraphSAGE
+- Neighborhood aggregation
 - Graph Attention Networks (GAT)
-- [[concepts/oversmoothing|Oversmoothing]]
-- [[concepts/graph-autoencoders|Graph autoencoders]]
+- Oversmoothing
+- Graph autoencoders
 - Variational graph autoencoders (VGAE)
-- [[concepts/link-prediction|Link prediction]]
-- [[concepts/spatiotemporal-gnns|Spatiotemporal GNNs]]
-- [[concepts/dynamic-graphs|Dynamic graphs]]
+- Link prediction
+- Spatiotemporal GNNs
+- Dynamic graphs
 - Neural Relational Inference (NRI)
-- [[concepts/gumbel-softmax|Gumbel-Softmax]]
-- [[concepts/temporal-adjacency-matrices|Temporal adjacency matrices]]
-- [[concepts/mini-batching-and-sampling-for-large-graphs|Mini-batching and sampling for large graphs]]
+- Gumbel-Softmax
+- Temporal adjacency matrices
+- Mini-batching and sampling for large graphs
 - Distributed data parallel (DDP)
-- [[concepts/graph-coarsening|Graph coarsening]]
-- [[concepts/transductive-vs-inductive-learning|Transductive vs. inductive learning]]
-- [[concepts/spectral-vs-spatial-convolution|Spectral vs. spatial convolution]]
-- [[concepts/node-features-and-edge-features|Node features and edge features]]
+- Graph coarsening
+- Transductive vs. inductive learning
+- Spectral vs. spatial convolution
+- Node features and edge features
 - Graph data pipeline (ETL, preprocessing)
-- [[concepts/recommendation-engines|Recommendation engines]]
-- [[concepts/drug-discovery-molecular-graphs|Drug discovery / molecular graphs]]
-- [[concepts/fraud-spam-detection|Fraud/spam detection]]
+- Recommendation engines
+- Drug discovery / molecular graphs
+- Fraud/spam detection
 
 ## Key Entities
 

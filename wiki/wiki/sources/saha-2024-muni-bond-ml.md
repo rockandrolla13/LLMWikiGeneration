@@ -76,10 +76,10 @@ For gradient boosted trees, uses exponentially decreasing tree importance:
 
 ## Key Concepts
 
-- [[concepts/similarity-learning|Similarity Learning]]
-- [[concepts/catboost|CatBoost Algorithm]]
-- [[concepts/municipal-bonds|Municipal Bonds]]
-- [[concepts/relative-valuation|Relative Valuation]]
+- Similarity Learning
+- CatBoost Algorithm
+- Municipal Bonds
+- Relative Valuation
 
 ## Implications
 

@@ -65,34 +65,34 @@ The Elements of Statistical Learning (second edition, 2009) is a comprehensive g
 ## Main Concepts
 
 - [[concepts/bias-variance-tradeoff|bias variance tradeoff]]
-- [[concepts/ridge-regression|ridge regression]]
-- [[concepts/lasso|lasso]]
-- [[concepts/least-angle-regression|least angle regression]]
-- [[concepts/cross-validation|cross validation]]
-- [[concepts/bootstrap|bootstrap]]
+- ridge regression
+- lasso
+- least angle regression
+- cross validation
+- bootstrap
 - [[concepts/decision-trees|decision trees]]
-- [[concepts/boosting|boosting]]
-- [[concepts/gradient-boosting|gradient boosting]]
-- [[concepts/random-forests|random forests]]
-- [[concepts/support-vector-machines|support vector machines]]
-- [[concepts/reproducing-kernel-hilbert-space|reproducing kernel hilbert space]]
+- boosting
+- gradient boosting
+- random forests
+- support vector machines
+- reproducing kernel hilbert space
 - [[concepts/principal-components-analysis|principal components analysis]]
-- [[concepts/expectation-maximisation-algorithm|expectation maximisation algorithm]]
-- [[concepts/linear-discriminant-analysis|linear discriminant analysis]]
-- [[concepts/ensemble-methods|ensemble methods]]
+- expectation maximisation algorithm
+- linear discriminant analysis
+- ensemble methods
 
 ## Key Entities
 
-- [[entities/trevor-hastie|trevor hastie]]
-- [[entities/robert-tibshirani|robert tibshirani]]
-- [[entities/jerome-friedman|jerome friedman]]
-- [[entities/stanford-university|stanford university]]
-- [[entities/leo-breiman|leo breiman]]
-- [[entities/vapnik-chervonenkis-theory|vapnik chervonenkis theory]]
-- [[entities/adaboost|adaboost]]
-- [[entities/lasso-regularisation|lasso regularisation]]
-- [[entities/random-forest-algorithm|random forest algorithm]]
-- [[entities/gaussian-mixture-model|gaussian mixture model]]
+- trevor hastie
+- robert tibshirani
+- jerome friedman
+- stanford university
+- leo breiman
+- vapnik chervonenkis theory
+- adaboost
+- lasso regularisation
+- random forest algorithm
+- gaussian mixture model
 
 ## Questions Raised
 

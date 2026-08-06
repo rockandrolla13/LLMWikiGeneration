@@ -69,22 +69,22 @@ Learning AutoML by Kerem Tomak (published April 2026 by O'Reilly Media, ISBN 979
 - Hyperparameter Optimisation (HPO)
 - Neural Architecture Search (NAS)
 - Automated Feature Engineering and Data Preprocessing
-- [[concepts/tabular-data-modelling|Tabular Data Modelling]]
-- [[concepts/nlp-text-automl|NLP / Text AutoML]]
-- [[concepts/time-series-forecasting|Time Series Forecasting]]
-- [[concepts/computer-vision-automl|Computer Vision AutoML]]
+- Tabular Data Modelling
+- NLP / Text AutoML
+- Time Series Forecasting
+- Computer Vision AutoML
 - MLOps and Workflow Integration (MLflow, Kubeflow)
-- [[concepts/apache-airflow-data-pipelines|Apache Airflow Data Pipelines]]
-- [[concepts/ci-cd-for-machine-learning|CI/CD for Machine Learning]]
-- [[concepts/model-monitoring-and-drift-detection|Model Monitoring and Drift Detection]]
+- Apache Airflow Data Pipelines
+- CI/CD for Machine Learning
+- Model Monitoring and Drift Detection
 - Fairness-Aware Machine Learning and Bias Mitigation (adversarial debiasing, fairness-aware ensembles, post-hoc calibration)
 - Explainability and Governance in Regulated Industries
-- [[concepts/hipaa-compliance-in-healthcare-ai|HIPAA Compliance in Healthcare AI]]
-- [[concepts/real-time-fraud-detection-at-scale|Real-time Fraud Detection at Scale]]
+- HIPAA Compliance in Healthcare AI
+- Real-time Fraud Detection at Scale
 - Retail Demand Forecasting (omnichannel)
-- [[concepts/patient-readmission-prediction|Patient Readmission Prediction]]
+- Patient Readmission Prediction
 - Citizen Developer / Democratisation of Data Science
-- [[concepts/analytical-ai-vs-generative-ai|Analytical AI vs Generative AI]]
+- Analytical AI vs Generative AI
 
 ## Key Entities
 
@@ -98,12 +98,12 @@ Learning AutoML by Kerem Tomak (published April 2026 by O'Reilly Media, ISBN 979
 - medessence.de (author's company; used AutoGluon in production)
 - AutoGluon (primary AutoML framework covered)
 - TPOT (AutoML framework mentioned)
-- [[entities/mlflow|MLflow]]
-- [[entities/kubeflow|Kubeflow]]
-- [[entities/apache-airflow|Apache Airflow]]
-- [[entities/babson-college|Babson College]]
-- [[entities/mit-initiative-on-the-digital-economy|MIT Initiative on the Digital Economy]]
-- [[entities/frankfurt-school-of-finance-and-management|Frankfurt School of Finance and Management]]
+- MLflow
+- Kubeflow
+- Apache Airflow
+- Babson College
+- MIT Initiative on the Digital Economy
+- Frankfurt School of Finance and Management
 - Aaron Black (Acquisitions Editor)
 - Shira Evans (Development Editor)
 

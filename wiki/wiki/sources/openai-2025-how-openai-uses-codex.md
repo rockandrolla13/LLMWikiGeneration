@@ -59,18 +59,18 @@ A 12-page internal guide published by OpenAI in 2025 describing how OpenAI's own
 
 ## Main Concepts
 
-- [[concepts/agentic-coding-assistant|Agentic coding assistant]]
-- [[concepts/code-understanding-and-codebase-navigation|Code understanding and codebase navigation]]
-- [[concepts/refactoring-and-large-scale-migrations|Refactoring and large-scale migrations]]
+- Agentic coding assistant
+- Code understanding and codebase navigation
+- Refactoring and large-scale migrations
 - Performance optimization and bottleneck detection
 - Automated test generation and coverage improvement
-- [[concepts/development-velocity-and-async-task-delegation|Development velocity and async task delegation]]
-- [[concepts/flow-state-preservation-and-context-handoff|Flow state preservation and context handoff]]
+- Development velocity and async task delegation
+- Flow state preservation and context handoff
 - Exploration and ideation (alternative design evaluation)
 - Ask Mode vs Code Mode (two-step prompting pattern)
-- [[concepts/agents-md-persistent-context-file|AGENTS.md persistent context file]]
-- [[concepts/best-of-n-output-sampling|Best-of-N output sampling]]
-- [[concepts/task-queue-as-lightweight-backlog|Task queue as lightweight backlog]]
+- AGENTS.md persistent context file
+- Best-of-N output sampling
+- Task queue as lightweight backlog
 - Prompt engineering for code agents (GitHub Issue style)
 
 ## Key Entities

@@ -96,7 +96,7 @@ Testing mapping of iTraxx S6 and CDX HY7 to CDX IG7 (January 2007):
 ## See Also
 
 - [[concepts/cdo-tranches]]
-- [[concepts/correlation-skew]]
+- correlation-skew
 - [[concepts/bespoke-cdo]]
 - [[sources/lehman-2007-qcr-quarterly]]
 

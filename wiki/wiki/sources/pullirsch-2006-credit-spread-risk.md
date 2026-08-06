@@ -110,7 +110,7 @@ For issuers with limited liquid bonds:
 ## Related Concepts
 
 - [[concepts/credit-spread-curve]]
-- [[concepts/residual-variance]]
+- residual-variance
 - [[concepts/zero-coupon-curve]]
 - [[concepts/value-at-risk]]
 

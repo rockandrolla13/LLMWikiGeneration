@@ -64,31 +64,31 @@ Book: "Multi-Agent Coordination: A Reinforcement Learning Approach" by Arup Kuma
 
 - Multi-Agent Reinforcement Learning (MARL)
 - Multi-Agent Q-Learning (MAQL)
-- [[concepts/nash-equilibrium-ne-pure-and-mixed-strategy|Nash Equilibrium (NE) — pure and mixed strategy]]
+- Nash Equilibrium (NE) — pure and mixed strategy
 - Correlated Equilibrium (CE)
 - Consensus Q-Learning (CoQL)
-- [[concepts/team-goal-exploration|Team-goal exploration]]
+- Team-goal exploration
 - Joint action selection / joint state-action space
 - Exploration vs exploitation (greedy, Boltzmann strategy)
-- [[concepts/cooperative-path-planning|Cooperative path planning]]
-- [[concepts/competitive-and-mixed-coordination|Competitive and mixed coordination]]
-- [[concepts/evolutionary-algorithms-ea-and-hybridisation|Evolutionary Algorithms (EA) and hybridisation]]
+- Cooperative path planning
+- Competitive and mixed coordination
+- Evolutionary Algorithms (EA) and hybridisation
 - Imperialist Competitive Algorithm (ICA)
 - Firefly Algorithm (FA)
 - Imperialist Competitive Firefly Algorithm (ICFA)
 - No Free Lunch Theorem (NFLT)
 - Dynamic programming (DP) and its correlation with RL
 - Game theory (static and stochastic games, general-sum games)
-- [[concepts/single-agent-q-learning|Single-agent Q-learning]]
+- Single-agent Q-learning
 - Nash Q-Learning (NQL)
 - Friend-or-Foe Q-Learning (FQL)
 - Correlated Q-Learning (CQL)
-- [[concepts/sparse-cooperative-q-learning|Sparse Cooperative Q-Learning]]
-- [[concepts/trajectory-optimisation|Trajectory optimisation]]
-- [[concepts/collision-avoidance|Collision avoidance]]
+- Sparse Cooperative Q-Learning
+- Trajectory optimisation
+- Collision avoidance
 - Khepera II mobile robots (hardware platform)
 - Pheromone-based ant coordination (motivating analogy)
-- [[concepts/dijkstra-s-algorithm-a-algorithm-d-algorithm|Dijkstra's algorithm, A* algorithm, D* algorithm]]
+- Dijkstra's algorithm, A* algorithm, D* algorithm
 
 ## Key Entities
 

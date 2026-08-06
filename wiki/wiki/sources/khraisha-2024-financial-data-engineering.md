@@ -64,19 +64,19 @@ Financial Data Engineering: Design and Build Data-Driven Financial Products (O'R
 
 - Financial data engineering (domain-driven specialization)
 - Financial data ecosystem structure and characteristics
-- [[concepts/financial-identification-and-entity-systems|Financial identification and entity systems]]
+- Financial identification and entity systems
 - Data governance frameworks for financial institutions
-- [[concepts/data-storage-models-and-database-selection|Data storage models and database selection]]
-- [[concepts/data-modeling-for-financial-data|Data modeling for financial data]]
-- [[concepts/data-workflows-and-pipeline-orchestration|Data workflows and pipeline orchestration]]
-- [[concepts/data-ingestion-mechanisms|Data ingestion mechanisms]]
-- [[concepts/data-transformation|Data transformation]]
-- [[concepts/big-data-and-cloud-computing-in-finance|Big data and cloud computing in finance]]
+- Data storage models and database selection
+- Data modeling for financial data
+- Data workflows and pipeline orchestration
+- Data ingestion mechanisms
+- Data transformation
+- Big data and cloud computing in finance
 - Regulatory compliance and financial data management
-- [[concepts/tokenization-in-financial-data|Tokenization in financial data]]
+- Tokenization in financial data
 - Machine learning and generative AI in financial context
-- [[concepts/data-quality-and-data-integrity-frameworks|Data quality and data integrity frameworks]]
-- [[concepts/sql-and-data-warehousing-history|SQL and data warehousing history]]
+- Data quality and data integrity frameworks
+- SQL and data warehousing history
 
 ## Key Entities
 

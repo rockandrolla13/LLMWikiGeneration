@@ -60,20 +60,20 @@ Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software
 ## Main Concepts
 
 - [[concepts/systems-thinking|Systems thinking]]
-- [[concepts/non-linear-thinking|Non-linear thinking]]
-- [[concepts/sociotechnical-architecture|Sociotechnical architecture]]
-- [[concepts/sociotechnical-complexity|Sociotechnical complexity]]
-- [[concepts/digital-transformation|Digital transformation]]
+- Non-linear thinking
+- Sociotechnical architecture
+- Sociotechnical complexity
+- Digital transformation
 - Domain-Driven Design (DDD)
-- [[concepts/team-topologies|Team Topologies]]
-- [[concepts/event-driven-asynchronous-systems|Event-driven / asynchronous systems]]
-- [[concepts/microservices-and-cloud-native-platforms|Microservices and cloud-native platforms]]
-- [[concepts/information-systems-architecture|Information systems architecture]]
+- Team Topologies
+- Event-driven / asynchronous systems
+- Microservices and cloud-native platforms
+- Information systems architecture
 - MAGO case study (referenced in endorsements as a real modernization project example)
 - [[concepts/mental-models|Mental models]]
-- [[concepts/modernization|Modernization]]
+- Modernization
 - Kafka streams / container orchestration / infrastructure as code (mentioned as real-world context)
-- [[concepts/continuous-deployment-and-devops|Continuous deployment and DevOps]]
+- Continuous deployment and DevOps
 
 ## Key Entities
 

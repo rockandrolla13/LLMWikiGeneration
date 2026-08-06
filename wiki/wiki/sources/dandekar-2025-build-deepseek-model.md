@@ -52,13 +52,13 @@ Build a DeepSeek Model From Scratch (MEAP edition, 2025) by Raj Abhijit Dandekar
 
 ## Main Concepts
 
-- [[concepts/key-value-(kv)-cache-for-efficient-inference|Key-Value (KV) Cache for efficient inference]]
-- [[concepts/multi-head-latent-attention-(mla)|Multi-Head Latent Attention (MLA)]]
-- [[concepts/mixture-of-experts-(moe)|Mixture-of-Experts (MoE)]]
-- [[concepts/multi-token-prediction-(mtp)|Multi-Token Prediction (MTP)]]
-- [[concepts/fp8-quantization-(8-bit-floating-point)|FP8 quantization (8-bit floating-point)]]
+- Key-Value (KV) Cache for efficient inference
+- Multi-Head Latent Attention (MLA)
+- Mixture-of-Experts (MoE)
+- Multi-Token Prediction (MTP)
+- FP8 quantization (8-bit floating-point)
 - Reinforcement Learning for post-training (Pure RL, rejection sampling)
-- [[concepts/knowledge-distillation|Knowledge Distillation]]
+- Knowledge Distillation
 
 ## Key Entities
 

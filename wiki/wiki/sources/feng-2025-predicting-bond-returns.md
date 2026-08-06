@@ -65,8 +65,8 @@ Applies machine learning to predict corporate bond returns using 45 years of dat
 
 ## Key Concepts
 
-- [[concepts/machine-learning-bonds|ML for Bond Pricing]]
-- [[concepts/bond-return-predictability|Return Predictability]]
+- ML for Bond Pricing
+- Return Predictability
 - [[concepts/random-forest|Random Forest]]
 
 ## Implications

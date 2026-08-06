@@ -62,24 +62,24 @@ Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed., 
 
 ## Main Concepts
 
-- [[concepts/bayesian-statistical-inference|Bayesian statistical inference]]
-- [[concepts/posterior-distribution|Posterior distribution]]
-- [[concepts/prior-predictive-simulation|Prior predictive simulation]]
+- Bayesian statistical inference
+- Posterior distribution
+- Prior predictive simulation
 - Quadratic (Laplace) approximation to the posterior
 - Markov Chain Monte Carlo (MCMC)
 - Hamiltonian Monte Carlo (HMC)
 - Directed acyclic graphs (DAGs) and causal inference
-- [[concepts/spurious-association-and-collider-bias|Spurious association and collider bias]]
+- Spurious association and collider bias
 - Multilevel / hierarchical models (varying effects)
 - Generalized linear models (GLM) and maximum entropy priors
 - Regularization and overfitting (information criteria, cross-validation, WAIC)
 - [[concepts/gaussian-processes|Gaussian processes]]
-- [[concepts/missing-data-and-measurement-error|Missing data and measurement error]]
-- [[concepts/ordered-categorical-models|Ordered categorical models]]
-- [[concepts/splines|Splines]]
-- [[concepts/ordinary-differential-equation-models|Ordinary differential equation models]]
+- Missing data and measurement error
+- Ordered categorical models
+- Splines
+- Ordinary differential equation models
 - Social relations model (social network)
-- [[concepts/phylogenetic-regression|Phylogenetic regression]]
+- Phylogenetic regression
 
 ## Key Entities
 

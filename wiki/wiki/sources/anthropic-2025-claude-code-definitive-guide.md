@@ -51,13 +51,13 @@ Claude Code: The Definitive Guide to Agentic Development is a book written entir
 
 ## Main Concepts
 
-- [[concepts/agentic-execution-loop|Agentic execution loop]]
-- [[concepts/context-window-management-and-auto-compaction|Context window management and auto-compaction]]
+- Agentic execution loop
+- Context window management and auto-compaction
 - Four-phase workflow (Explore / Plan / Implement / Commit)
 - Permission modes as workflow selectors (plan mode, default, auto-accept edits, full auto-accept)
 - Task classification: async (fire-and-forget) vs. sync (supervised) execution
 - Session strategy and CLAUDE.md as persistent knowledge store
-- [[concepts/one-shot-then-collaborate-escalation-pattern|One-shot-then-collaborate escalation pattern]]
+- One-shot-then-collaborate escalation pattern
 
 ## Key Entities
 

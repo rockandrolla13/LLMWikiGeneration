@@ -99,9 +99,9 @@ This paper applies Multifractal Detrended Cross-Correlation Analysis (MF-DCCA) t
 
 ## See Also
 
-- [[concepts/multifractal-analysis|Multifractal Analysis]]
-- [[concepts/mf-dcca|MF-DCCA]]
-- [[concepts/detrended-fluctuation-analysis|Detrended Fluctuation Analysis]]
-- [[concepts/long-range-correlation|Long-range Correlation]]
+- Multifractal Analysis
+- MF-DCCA
+- Detrended Fluctuation Analysis
+- Long-range Correlation
 
 <!-- AUTHORED REGION END -->

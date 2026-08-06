@@ -114,7 +114,7 @@ This paper examines stylised empirical facts in price and volume processes acros
 ## See Also
 
 - [[concepts/stylized-facts|Stylized Facts]]
-- [[concepts/information-clock|Information Clock]]
+- Information Clock
 - [[concepts/long-memory|Long Memory]]
 - [[concepts/mfdfa|MFDFA]]
 - [[concepts/copulas|Copulas]]

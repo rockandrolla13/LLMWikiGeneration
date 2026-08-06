@@ -67,8 +67,8 @@ Comprehensive study of Size, Low-Risk, Value, and Momentum factors in corporate 
 
 - [[concepts/factor-investing|Factor Investing]]
 - [[concepts/bond-momentum|Bond Momentum]]
-- [[concepts/value-factor|Value Factor]]
-- [[concepts/low-risk-factor|Low-Risk Factor]]
+- Value Factor
+- Low-Risk Factor
 
 ## Related Sources
 

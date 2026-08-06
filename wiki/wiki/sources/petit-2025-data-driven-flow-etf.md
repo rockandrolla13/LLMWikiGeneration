@@ -96,7 +96,7 @@ This paper presents a novel data-driven methodology for decomposing trade flow b
 
 - [[concepts/etf-flows|ETF Flows]]
 - [[concepts/order-imbalance|Order Imbalance]]
-- [[concepts/clustering|Clustering]]
+- Clustering
 - [[entities/alvaro-cartea|Alvaro Cartea]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025) Corporate Bond ETF Contraflow]]
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019) Why Do ETF Flows Move Prices]]

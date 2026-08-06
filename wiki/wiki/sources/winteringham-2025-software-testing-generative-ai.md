@@ -63,20 +63,20 @@ Software Testing with Generative AI (2025) by Mark Winteringham, published by Ma
 - Large Language Models (LLMs)
 - [[concepts/prompt-engineering|Prompt engineering]]
 - [[concepts/few-shot-prompting|Few-shot prompting]]
-- [[concepts/test-driven-development-tdd-with-llms|Test-driven development (TDD) with LLMs]]
-- [[concepts/ai-assisted-test-planning|AI-assisted test planning]]
-- [[concepts/test-data-generation-and-transformation|Test data generation and transformation]]
-- [[concepts/ui-automation-with-ai|UI automation with AI]]
-- [[concepts/exploratory-testing-augmented-by-ai|Exploratory testing augmented by AI]]
-- [[concepts/ai-agents-as-testing-assistants|AI agents as testing assistants]]
+- Test-driven development (TDD) with LLMs
+- AI-assisted test planning
+- Test data generation and transformation
+- UI automation with AI
+- Exploratory testing augmented by AI
+- AI agents as testing assistants
 - Retrieval-Augmented Generation (RAG)
-- [[concepts/fine-tuning-llms|Fine-tuning LLMs]]
+- Fine-tuning LLMs
 - [[concepts/vector-databases|Vector databases]]
-- [[concepts/context-windows-and-token-limitations|Context windows and token limitations]]
-- [[concepts/automation-bias|Automation bias]]
-- [[concepts/hallucinations-in-llms|Hallucinations in LLMs]]
-- [[concepts/data-provenance|Data provenance]]
-- [[concepts/data-privacy|Data privacy]]
+- Context windows and token limitations
+- Automation bias
+- Hallucinations in LLMs
+- Data provenance
+- Data privacy
 
 ## Key Entities
 

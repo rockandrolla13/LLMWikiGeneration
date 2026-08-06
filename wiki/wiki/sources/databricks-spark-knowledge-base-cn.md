@@ -50,20 +50,20 @@ The Databricks Spark Knowledge Base (Chinese Edition) is a translated technical 
 
 ## Main Concepts
 
-- [[concepts/rdd-partitioning-and-shuffling|RDD partitioning and shuffling]]
-- [[concepts/groupbykey-vs-reducebykey-trade-offs|GroupByKey vs ReduceByKey trade-offs]]
+- RDD partitioning and shuffling
+- GroupByKey vs ReduceByKey trade-offs
 - Driver memory management and collect() pitfalls
-- [[concepts/java-serialization-in-distributed-spark-tasks|Java serialization in distributed Spark tasks]]
+- Java serialization in distributed Spark tasks
 - Maven dependency management for Spark (uber/shaded JARs)
 - Spark Streaming fault handling (OneForOneStrategy error)
-- [[concepts/data-locality-in-spark|Data locality in Spark]]
+- Data locality in Spark
 
 ## Key Entities
 
 - [[entities/databricks|Databricks]]
 - [[entities/apache-spark|Apache Spark]]
-- [[entities/apache-maven|Apache Maven]]
-- [[entities/spark-streaming|Spark Streaming]]
+- Apache Maven
+- Spark Streaming
 
 ## Questions Raised
 

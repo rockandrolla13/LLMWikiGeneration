@@ -98,7 +98,7 @@ The order book is described by K limits on each side (bid and ask):
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/market-making|Market Making]]
 - [[concepts/hawkes-processes|Hawkes Processes]]
-- [[concepts/markov-decision-process|Markov Decision Process]]
+- Markov Decision Process
 - [[sources/lu-2018-market-making|Lu & Abergel (2018) Order-book Modelling]]
 
 <!-- AUTHORED REGION END -->

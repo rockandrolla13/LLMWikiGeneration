@@ -142,7 +142,7 @@ Where:
 
 - [[concepts/high-frequency-trading|High-Frequency Trading]]
 - [[concepts/market-making|Market Making]]
-- [[concepts/liquidity|Liquidity]]
+- Liquidity
 - [[concepts/adverse-selection|Adverse Selection]]
 - [[concepts/limit-order-book|Limit Order Book]]
 

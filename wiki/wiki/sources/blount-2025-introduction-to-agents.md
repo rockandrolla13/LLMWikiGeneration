@@ -75,16 +75,16 @@ Introduction to Agents (November 2025) is the first installment in a five-part s
 - Context Engineering (context window curation)
 - [[concepts/function-calling|Function Calling]]
 - Retrieval-Augmented Generation (RAG)
-- [[concepts/chain-of-thought-reasoning|Chain of Thought reasoning]]
-- [[concepts/react-reasoning-framework|ReAct reasoning framework]]
-- [[concepts/multi-agent-systems-and-design-patterns|Multi-Agent Systems and Design Patterns]]
+- Chain of Thought reasoning
+- ReAct reasoning framework
+- Multi-Agent Systems and Design Patterns
 - Agent Ops (evaluation, debugging, monitoring)
 - LM Judge (quality evaluation)
-- [[concepts/opentelemetry-tracing|OpenTelemetry tracing]]
+- OpenTelemetry tracing
 - Agent Interoperability (A2A API, Agents and Humans, Agents and Money)
-- [[concepts/agent-identity-and-security|Agent Identity and Security]]
-- [[concepts/agent-governance-and-fleet-management|Agent Governance and Fleet Management]]
-- [[concepts/self-evolving-systems-and-agent-gym-simulation|Self-Evolving Systems and Agent Gym / Simulation]]
+- Agent Identity and Security
+- Agent Governance and Fleet Management
+- Self-Evolving Systems and Agent Gym / Simulation
 - Grounding in Reality (real-time information retrieval)
 
 ## Key Entities

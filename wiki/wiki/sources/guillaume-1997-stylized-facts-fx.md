@@ -104,7 +104,7 @@ A foundational survey of empirical regularities in intra-daily foreign exchange 
 
 - [[concepts/stylized-facts|Stylized Facts]]
 - [[concepts/market-microstructure|Market Microstructure]]
-- [[concepts/heterogeneous-agents|Heterogeneous Agents]]
-- [[concepts/volatility-clustering|Volatility Clustering]]
+- Heterogeneous Agents
+- Volatility Clustering
 
 <!-- AUTHORED REGION END -->

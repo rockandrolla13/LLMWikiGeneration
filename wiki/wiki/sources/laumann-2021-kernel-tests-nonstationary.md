@@ -166,9 +166,9 @@ Tests H_0: X ⊥ Y vs H_1: X ⫫̸ Y
 ## See Also
 
 - [[concepts/kernel-methods|Kernel Methods]]
-- [[concepts/mmd|Maximum Mean Discrepancy]]
-- [[concepts/hsic|HSIC]]
-- [[concepts/nonstationarity|Nonstationarity]]
+- Maximum Mean Discrepancy
+- HSIC
+- Nonstationarity
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
 
 <!-- AUTHORED REGION END -->

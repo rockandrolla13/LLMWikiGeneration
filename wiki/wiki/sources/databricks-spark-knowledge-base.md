@@ -56,7 +56,7 @@ The Databricks Spark Knowledge Base is a practitioner-oriented reference guide p
 - Spark serialization model and Task not serializable errors
 - JAR dependency management with Maven shade plugin (uber JARs)
 - Spark cluster networking: hostname/port binding configuration (SPARK_LOCAL_IP, spark.driver.host)
-- [[concepts/rdd-partitioning-and-data-locality|RDD partitioning and data locality]]
+- RDD partitioning and data locality
 
 ## Key Entities
 

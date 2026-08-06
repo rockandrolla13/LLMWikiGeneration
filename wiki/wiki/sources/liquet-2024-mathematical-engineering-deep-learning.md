@@ -74,42 +74,42 @@ Mathematical Engineering of Deep Learning (Chapman & Hall/CRC, 2025; preface dat
 - Supervised and unsupervised learning principles
 - Linear models and iterative optimization-based learning
 - Gradient descent and first-order optimization methods
-- [[concepts/adam-adaptive-optimization-algorithm|ADAM adaptive optimization algorithm]]
-- [[concepts/automatic-differentiation|Automatic differentiation]]
-- [[concepts/second-order-optimization-methods|Second-order optimization methods]]
+- ADAM adaptive optimization algorithm
+- Automatic differentiation
+- Second-order optimization methods
 - Logistic regression as a shallow neural network
 - Softmax / multinomial regression for multi-class classification
-- [[concepts/cross-entropy-loss|Cross-entropy loss]]
+- Cross-entropy loss
 - Autoencoders (shallow and variational)
-- [[concepts/backpropagation-algorithm|Backpropagation algorithm]]
-- [[concepts/weight-initialization|Weight initialization]]
-- [[concepts/batch-normalization|Batch normalization]]
-- [[concepts/dropout-and-regularization|Dropout and regularization]]
+- Backpropagation algorithm
+- Weight initialization
+- Batch normalization
+- Dropout and regularization
 - Fully connected / feedforward deep neural networks (MLP)
-- [[concepts/expressive-power-universal-approximation|Expressive power / universal approximation]]
-- [[concepts/activation-functions|Activation functions]]
-- [[concepts/convolution-operation|Convolution operation]]
+- Expressive power / universal approximation
+- Activation functions
+- Convolution operation
 - Convolutional neural networks (CNNs)
 - Inception, ResNets, and landmark CNN architectures
-- [[concepts/object-localization-and-face-identification|Object localization and face identification]]
+- Object localization and face identification
 - Recurrent neural networks (RNNs)
 - Long short-term memory (LSTM)
 - Gated recurrent units (GRU)
-- [[concepts/encoder-decoder-architectures|Encoder-decoder architectures]]
-- [[concepts/attention-mechanism|Attention mechanism]]
-- [[concepts/transformer-architecture|Transformer architecture]]
-- [[concepts/generative-modeling-principles|Generative modeling principles]]
+- Encoder-decoder architectures
+- Attention mechanism
+- Transformer architecture
+- Generative modeling principles
 - Variational autoencoders (VAE)
 - Diffusion models (as hierarchical VAEs)
 - Generative adversarial networks (GANs)
 - Reinforcement learning and Markov decision processes
 - [[concepts/graph-neural-networks|Graph neural networks]]
-- [[concepts/k-means-clustering|K-means clustering]]
+- K-means clustering
 - Principal component analysis (PCA)
 - Singular value decomposition (SVD)
 - Multivariable calculus (gradients, chain rule, Taylor's theorem)
 - Cross-entropy, KL divergence, and information-theoretic expectations
-- [[concepts/multivariate-normal-distribution-computations|Multivariate normal distribution computations]]
+- Multivariate normal distribution computations
 
 ## Key Entities
 

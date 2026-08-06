@@ -50,13 +50,13 @@ Building Modern Data Applications Using Databricks Lakehouse (Packt, October 202
 
 ## Main Concepts
 
-- [[concepts/delta-live-tables-(dlt)-framework|Delta Live Tables (DLT) framework]]
+- Delta Live Tables (DLT) framework
 - Lakehouse architecture and medallion architecture (bronze/silver/gold)
-- [[concepts/delta-lake-format|Delta Lake format]]
+- Delta Lake format
 - Unity Catalog (data governance, lineage, access control)
 - CI/CD for data pipelines (Terraform, Databricks Asset Bundles)
-- [[concepts/auto-loader-and-real-time-data-ingestion|Auto Loader and real-time data ingestion]]
-- [[concepts/data-quality-monitoring-with-expectations|Data quality monitoring with Expectations]]
+- Auto Loader and real-time data ingestion
+- Data quality monitoring with Expectations
 
 ## Key Entities
 

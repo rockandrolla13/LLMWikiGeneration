@@ -86,10 +86,10 @@ Data: November 2008 - June 2021
 
 ## Key Concepts
 
-- [[concepts/green-bonds|Green Bonds]]
-- [[concepts/oil-shocks|Oil Shocks]]
-- [[concepts/wavelet-analysis|Wavelet Analysis]]
-- [[concepts/hedging|Hedging]]
+- Green Bonds
+- Oil Shocks
+- Wavelet Analysis
+- Hedging
 
 ## Policy Implications
 

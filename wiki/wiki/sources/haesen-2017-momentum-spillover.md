@@ -70,7 +70,7 @@ Investigates and improves momentum spillover from stocks to corporate bonds - th
 - [[concepts/bond-momentum|Bond Momentum]]
 - [[concepts/spillover-effect|Spillover Effect]]
 - [[concepts/residual-momentum|Residual Momentum]]
-- [[concepts/time-varying-risk|Time-Varying Risk]]
+- Time-Varying Risk
 
 ## Implications
 

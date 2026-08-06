@@ -64,37 +64,37 @@ Vibe Coding, authored by Gene Kim and Steve Yegge with a foreword by Anthropic C
 
 ## Main Concepts
 
-- [[concepts/vibe-coding|vibe coding]]
-- [[concepts/agentic-coding|agentic coding]]
-- [[concepts/chat-coding|chat coding]]
+- vibe coding
+- agentic coding
+- chat coding
 - [[concepts/code-completion|code completion]]
-- [[concepts/faafo-framework|faafo framework]]
-- [[concepts/context-window-management|context window management]]
-- [[concepts/reward-hacking|reward hacking]]
-- [[concepts/inner-development-loop|inner development loop]]
-- [[concepts/middle-development-loop|middle development loop]]
-- [[concepts/outer-development-loop|outer development loop]]
-- [[concepts/tracer-bullet-development|tracer bullet development]]
-- [[concepts/multi-agent-orchestration|multi agent orchestration]]
-- [[concepts/model-context-protocol|model context protocol]]
-- [[concepts/theory-of-constraints|theory of constraints]]
-- [[concepts/dora-metrics|dora metrics]]
-- [[concepts/continuous-integration-delivery|continuous integration delivery]]
+- faafo framework
+- context window management
+- reward hacking
+- inner development loop
+- middle development loop
+- outer development loop
+- tracer bullet development
+- multi agent orchestration
+- model context protocol
+- theory of constraints
+- dora metrics
+- continuous integration delivery
 
 ## Key Entities
 
-- [[entities/gene-kim|gene kim]]
-- [[entities/steve-yegge|steve yegge]]
-- [[entities/dario-amodei|dario amodei]]
-- [[entities/andrej-karpathy|andrej karpathy]]
+- gene kim
+- steve yegge
+- dario amodei
+- andrej karpathy
 - [[entities/anthropic|anthropic]]
-- [[entities/claude-code|claude code]]
+- claude code
 - [[entities/github-copilot|github copilot]]
-- [[entities/dora-research-group|dora research group]]
-- [[entities/adidas-engineering|adidas engineering]]
-- [[entities/booking-com-engineering|booking com engineering]]
-- [[entities/erik-meijer|erik meijer]]
-- [[entities/kent-beck|kent beck]]
+- dora research group
+- adidas engineering
+- booking com engineering
+- erik meijer
+- kent beck
 
 ## Questions Raised
 

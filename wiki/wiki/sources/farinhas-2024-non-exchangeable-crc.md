@@ -132,7 +132,7 @@ https://github.com/deep-spin/non-exchangeable-crc
 - [[concepts/exchangeability|Exchangeability]]
 - [[concepts/distribution-drift|Distribution Drift]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
-- [[concepts/total-variation-distance|Total Variation Distance]]
+- Total Variation Distance
 
 ## Related Entities
 

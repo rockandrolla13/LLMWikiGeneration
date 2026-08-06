@@ -94,7 +94,7 @@ This paper addresses the gap between theoretical optimal market-making strategie
 
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/market-making|Market Making]]
-- [[concepts/queue-reactive-model|Queue-Reactive Model]]
+- Queue-Reactive Model
 - [[sources/abergel-2017-algorithmic-trading-lob|Abergel et al. (2017) Algorithmic Trading]]
 
 <!-- AUTHORED REGION END -->

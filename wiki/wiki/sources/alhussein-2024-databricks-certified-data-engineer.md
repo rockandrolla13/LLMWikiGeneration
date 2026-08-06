@@ -51,17 +51,17 @@ Databricks Certified Data Engineer Associate Study Guide (O'Reilly, February 202
 ## Main Concepts
 
 - Data Lakehouse architecture (combining data lake and data warehouse)
-- [[concepts/delta-lake-and-delta-live-tables|Delta Lake and Delta Live Tables]]
-- [[concepts/elt-with-spark-sql-and-python|ELT with Spark SQL and Python]]
-- [[concepts/incremental-data-processing|Incremental data processing]]
+- Delta Lake and Delta Live Tables
+- ELT with Spark SQL and Python
+- Incremental data processing
 - Unity Catalog and Hive metastore (data governance)
-- [[concepts/databricks-jobs-and-production-pipelines|Databricks Jobs and production pipelines]]
+- Databricks Jobs and production pipelines
 
 ## Key Entities
 
 - Derar Alhussein (author)
 - [[entities/databricks|Databricks]]
-- [[entities/o-reilly-media|O'Reilly Media]]
+- O'Reilly Media
 - [[entities/apache-spark|Apache Spark]]
 - Tristen Wentling (technical reviewer, lead solutions architect at Databricks, co-author of Delta Lake: The Definitive Guide)
 - Holly Smith (technical reviewer, staff developer advocate at Databricks)

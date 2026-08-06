@@ -51,11 +51,11 @@ Agentic Coding for Beginners (Wasi, published on Leanpub, version dated 2025-11-
 ## Main Concepts
 
 - Agentic coding (intent-interpretation-generation-validation loop)
-- [[concepts/prompt-engineering-for-agentic-tasks|Prompt engineering for agentic tasks]]
+- Prompt engineering for agentic tasks
 - Retrieval-Augmented Generation (RAG) and memory management
 - Multi-agent system design (single-agent vs. multi-agent architectures)
 - Human-in-the-Loop (HITL) governance and adversarial safety
-- [[concepts/task-decomposition-and-hierarchical-planning|Task decomposition and hierarchical planning]]
+- Task decomposition and hierarchical planning
 - Context-aware coding and context window management
 
 ## Key Entities
@@ -67,7 +67,7 @@ Agentic Coding for Beginners (Wasi, published on Leanpub, version dated 2025-11-
 - Cursor (AI code editor)
 - VS Code (Microsoft)
 - [[entities/langchain|LangChain]]
-- [[entities/crewai|CrewAI]]
+- CrewAI
 - AutoGen (Microsoft)
 - Aaron Swartz (dedication)
 

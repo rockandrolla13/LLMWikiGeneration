@@ -132,8 +132,8 @@ Cross-responses are primarily a "spillover effect" of self-impact through correl
 
 ## See Also
 
-- [[concepts/price-impact|Price Impact]]
-- [[concepts/cross-correlations|Cross-Correlations]]
+- Price Impact
+- Cross-Correlations
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[sources/xu-2020-mlofi|Xu et al. (2020) MLOFI]]

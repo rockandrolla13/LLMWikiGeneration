@@ -50,17 +50,17 @@ A Practical Guide to Building Agents (OpenAI, 2025) is a concise technical guide
 
 ## Main Concepts
 
-- [[concepts/llm-powered-agents|LLM-powered agents]]
+- LLM-powered agents
 - Agent orchestration (single-agent and multi-agent patterns)
 - Tool definition and tool types (data, action, orchestration)
-- [[concepts/model-selection-and-cost-latency-optimization|Model selection and cost-latency optimization]]
-- [[concepts/agent-instructions-and-prompt-templates|Agent instructions and prompt templates]]
-- [[concepts/guardrails-for-safe-agent-execution|Guardrails for safe agent execution]]
+- Model selection and cost-latency optimization
+- Agent instructions and prompt templates
+- Guardrails for safe agent execution
 
 ## Key Entities
 
 - [[entities/openai|OpenAI]]
-- [[entities/openai-agents-sdk|OpenAI Agents SDK]]
+- OpenAI Agents SDK
 - o1 (model)
 - o3-mini (model)
 - Runner.run() method (Agents SDK)

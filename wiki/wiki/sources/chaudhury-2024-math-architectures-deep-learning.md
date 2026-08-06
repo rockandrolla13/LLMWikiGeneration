@@ -73,7 +73,7 @@ Math and Architectures of Deep Learning (2024, Manning Publications) by Krishnen
 - Neural network fundamentals: perceptron, MLP, forward propagation, backpropagation, activation functions (sigmoid, tanh, Heaviside)
 - Loss functions: regression loss, cross-entropy, binary cross-entropy, softmax cross-entropy, focal loss, hinge loss
 - Optimization: gradient descent, SGD with minibatches, momentum, Nesterov accelerated gradients, AdaGrad, RMSProp, Adam
-- [[concepts/regularization-l1-l2-dropout-mdl-perspective|Regularization: L1, L2, dropout, MDL perspective]]
+- Regularization: L1, L2, dropout, MDL perspective
 - Convolutions: 1D/2D/3D convolution, transposed convolution, pooling
 - CNN architectures: LeNet, VGGNet, Inception, ResNet
 - Object detection: R-CNN, Fast R-CNN, Faster R-CNN, region proposal network

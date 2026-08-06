@@ -62,17 +62,17 @@ Early-release O'Reilly book (first release 2026-01-21, first edition January 202
 ## Main Concepts
 
 - Small Language Models (SLMs)
-- [[concepts/agentic-applications|Agentic applications]]
+- Agentic applications
 - Model Context Protocol (MCP)
 - Retrieval Augmented Generation (RAG)
-- [[concepts/ollama-for-local-model-serving|Ollama for local model serving]]
-- [[concepts/litellm-as-a-model-abstraction-layer|LiteLLM as a model abstraction layer]]
-- [[concepts/wikidata-rdf-sparql|Wikidata / RDF / SPARQL]]
+- Ollama for local model serving
+- LiteLLM as a model abstraction layer
+- Wikidata / RDF / SPARQL
 - Python Data Science Stack (NumPy, SciPy, pandas, Matplotlib, scikit-learn, Jupyter)
-- [[concepts/knowledge-graphs|Knowledge graphs]]
-- [[concepts/containerisation-with-docker|Containerisation with Docker]]
-- [[concepts/openrouter-as-a-hosted-model-gateway|OpenRouter as a hosted model gateway]]
-- [[concepts/environment-management-with-conda-miniconda|Environment management with conda/miniconda]]
+- Knowledge graphs
+- Containerisation with Docker
+- OpenRouter as a hosted model gateway
+- Environment management with conda/miniconda
 
 ## Key Entities
 

@@ -73,8 +73,8 @@ PhD thesis advancing Graph Signal Processing (GSP) theory for Bayesian reconstru
 
 - [[concepts/graph-signal-processing|Graph Signal Processing]]
 - [[concepts/bayesian-inference|Bayesian Inference]]
-- [[concepts/kronecker-products|Kronecker Products]]
-- [[concepts/tensor-methods|Tensor Methods]]
+- Kronecker Products
+- Tensor Methods
 
 ## Technical Framework
 

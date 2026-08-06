@@ -75,9 +75,9 @@ PhD thesis applying machine learning to fixed income markets, covering yield cur
 ## Key Concepts
 
 - [[concepts/yield-curve-forecasting|Yield Curve Forecasting]]
-- [[concepts/lstm|Long Short-Term Memory]]
-- [[concepts/reinforcement-learning|Reinforcement Learning]]
-- [[concepts/neural-networks|Neural Networks]]
+- Long Short-Term Memory
+- Reinforcement Learning
+- Neural Networks
 
 ## Implications
 

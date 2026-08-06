@@ -109,7 +109,7 @@ Used because:
 - [[concepts/unscented-kalman-filter|Unscented Kalman Filter]] for nonlinear estimation
 - [[concepts/nelson-siegel-model|Nelson-Siegel Model]] for yield curves
 - [[concepts/liquidity-risk|Liquidity Risk]] in bond markets
-- [[concepts/affine-term-structure-models|Affine Term Structure Models]]
+- Affine Term Structure Models
 
 ## Citations
 

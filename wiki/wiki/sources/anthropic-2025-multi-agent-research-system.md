@@ -65,20 +65,20 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 
 ## Main Concepts
 
-- [[concepts/multi-agent-system|Multi-agent system]]
+- Multi-agent system
 - Orchestrator-worker (lead agent / subagent) pattern
-- [[concepts/parallel-subagent-spawning|Parallel subagent spawning]]
-- [[concepts/interleaved-extended-thinking|Interleaved / extended thinking]]
-- [[concepts/prompt-engineering-for-agents|Prompt engineering for agents]]
-- [[concepts/tool-design-and-mcp-tool-descriptions|Tool design and MCP tool descriptions]]
-- [[concepts/llm-as-judge-evaluation|LLM-as-judge evaluation]]
-- [[concepts/browsecomp-evaluation-benchmark|BrowseComp evaluation benchmark]]
-- [[concepts/rag-vs-multi-step-dynamic-search|RAG vs. multi-step dynamic search]]
-- [[concepts/token-budget-and-context-window-management|Token budget and context window management]]
-- [[concepts/rainbow-deployments|Rainbow deployments]]
-- [[concepts/end-state-evaluation|End-state evaluation]]
+- Parallel subagent spawning
+- Interleaved / extended thinking
+- Prompt engineering for agents
+- Tool design and MCP tool descriptions
+- LLM-as-judge evaluation
+- BrowseComp evaluation benchmark
+- RAG vs. multi-step dynamic search
+- Token budget and context window management
+- Rainbow deployments
+- End-state evaluation
 - Long-horizon conversation and context compression
-- [[concepts/subagent-artifact-filesystem-output-pattern|Subagent artifact / filesystem output pattern]]
+- Subagent artifact / filesystem output pattern
 - Observability and production tracing for agents
 - Breadth-first vs. depth-first research strategies
 
@@ -86,21 +86,21 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 
 - [[entities/anthropic|Anthropic]]
 - Claude (AI assistant)
-- [[entities/claude-opus-4|Claude Opus 4]]
-- [[entities/claude-sonnet-4|Claude Sonnet 4]]
-- [[entities/claude-sonnet-3-7|Claude Sonnet 3.7]]
-- [[entities/jeremy-hadfield|Jeremy Hadfield]]
-- [[entities/barry-zhang|Barry Zhang]]
-- [[entities/kenneth-lien|Kenneth Lien]]
-- [[entities/florian-scholz|Florian Scholz]]
-- [[entities/jeremy-fox|Jeremy Fox]]
-- [[entities/daniel-ford|Daniel Ford]]
-- [[entities/anthropic-apps-engineering-team|Anthropic apps engineering team]]
-- [[entities/anthropic-console|Anthropic Console]]
+- Claude Opus 4
+- Claude Sonnet 4
+- Claude Sonnet 3.7
+- Jeremy Hadfield
+- Barry Zhang
+- Kenneth Lien
+- Florian Scholz
+- Jeremy Fox
+- Daniel Ford
+- Anthropic apps engineering team
+- Anthropic Console
 - Anthropic Cookbook (open-source prompts)
-- [[entities/mcp-model-context-protocol-servers|MCP (Model Context Protocol) servers]]
-- [[entities/google-workspace|Google Workspace]]
-- [[entities/browsecomp-evaluation|BrowseComp evaluation]]
+- MCP (Model Context Protocol) servers
+- Google Workspace
+- BrowseComp evaluation
 - Clio (mentioned as section heading, likely internal tool)
 - Z-Library (document source/distribution channel)
 

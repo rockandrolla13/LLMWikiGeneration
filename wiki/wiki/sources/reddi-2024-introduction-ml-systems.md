@@ -64,24 +64,24 @@ Introduction to Machine Learning Systems: Principles and Practices of Engineerin
 
 ## Main Concepts
 
-- [[concepts/ml-systems-engineering|ML Systems Engineering]]
-- [[concepts/ml-system-lifecycle|ML System Lifecycle]]
-- [[concepts/cloud-machine-learning|Cloud Machine Learning]]
-- [[concepts/edge-machine-learning|Edge Machine Learning]]
-- [[concepts/mobile-machine-learning|Mobile Machine Learning]]
+- ML Systems Engineering
+- ML System Lifecycle
+- Cloud Machine Learning
+- Edge Machine Learning
+- Mobile Machine Learning
 - Tiny Machine Learning (TinyML)
-- [[concepts/hybrid-machine-learning|Hybrid Machine Learning]]
-- [[concepts/deep-learning-primer|Deep Learning Primer]]
+- Hybrid Machine Learning
+- Deep Learning Primer
 - DNN Architectures: MLP, CNN, RNN, Attention/Transformers
 - AI Workflow (problem definition, data collection, model development, deployment, maintenance)
-- [[concepts/deployment-decision-framework|Deployment Decision Framework]]
+- Deployment Decision Framework
 - Symbolic AI / Expert Systems / Statistical Learning / Shallow Learning / Deep Learning eras
-- [[concepts/forward-and-backward-propagation|Forward and Backward Propagation]]
-- [[concepts/loss-functions|Loss Functions]]
+- Forward and Backward Propagation
+- Loss Functions
 - Inference Pipeline (pre-processing, inference, post-processing)
 - System-level building blocks: computational primitives, memory access primitives, data movement primitives
-- [[concepts/biological-to-artificial-neurons|Biological to Artificial Neurons]]
-- [[concepts/ai-ethics-and-societal-impact|AI Ethics and Societal Impact]]
+- Biological to Artificial Neurons
+- AI Ethics and Societal Impact
 
 ## Key Entities
 

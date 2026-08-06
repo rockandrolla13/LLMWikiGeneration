@@ -60,17 +60,17 @@ Fundamentals of Data Engineering (O'Reilly, June 2022, First Edition) by Joe Rei
 ## Main Concepts
 
 - Data engineering lifecycle (generation, storage, ingestion, transformation, serving)
-- [[concepts/data-architecture-principles|Data architecture principles]]
-- [[concepts/technology-selection-framework|Technology selection framework]]
+- Data architecture principles
+- Technology selection framework
 - Cloud-first infrastructure and ephemeral/scalable systems
 - Data governance, security, and privacy (GDPR, CCPA)
-- [[concepts/etl-and-data-pipeline-design|ETL and data pipeline design]]
+- ETL and data pipeline design
 - Big Data frameworks (MapReduce, Spark, Flink)
-- [[concepts/data-warehousing-and-data-lakes|Data warehousing and data lakes]]
-- [[concepts/batch-and-streaming-systems|Batch and streaming systems]]
-- [[concepts/orchestration|Orchestration]]
-- [[concepts/serialisation-and-compression|Serialisation and compression]]
-- [[concepts/cloud-networking|Cloud networking]]
+- Data warehousing and data lakes
+- Batch and streaming systems
+- Orchestration
+- Serialisation and compression
+- Cloud networking
 
 ## Key Entities
 

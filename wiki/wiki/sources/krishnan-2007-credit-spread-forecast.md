@@ -75,8 +75,8 @@ Investigates firm-by-firm credit spread forecasting using the shape of credit-sp
 ## Key Concepts
 
 - [[concepts/credit-spread-curve|Credit Spread Curve]]
-- [[concepts/term-structure|Term Structure]]
-- [[concepts/diebold-li-model|Diebold-Li Model]]
+- Term Structure
+- Diebold-Li Model
 - [[concepts/yield-curve-forecasting|Yield Curve Forecasting]]
 
 ## Implications

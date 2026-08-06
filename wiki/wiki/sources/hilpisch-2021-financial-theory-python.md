@@ -66,33 +66,33 @@ Financial Theory with Python: A Gentle Introduction (2021) by Yves Hilpisch is a
 
 ## Main Concepts
 
-- [[concepts/two-state-economy-static-model-economy|Two-state economy / static model economy]]
-- [[concepts/three-state-economy-and-market-incompleteness|Three-state economy and market incompleteness]]
+- Two-state economy / static model economy
+- Three-state economy and market incompleteness
 - Net present value (NPV)
-- [[concepts/present-value-and-discounting|Present value and discounting]]
-- [[concepts/contingent-claims-and-replication-portfolios|Contingent claims and replication portfolios]]
-- [[concepts/arbitrage-pricing|Arbitrage pricing]]
-- [[concepts/martingale-measures-and-martingale-pricing|Martingale measures and martingale pricing]]
-- [[concepts/risk-neutral-pricing|Risk-neutral pricing]]
+- Present value and discounting
+- Contingent claims and replication portfolios
+- Arbitrage pricing
+- Martingale measures and martingale pricing
+- Risk-neutral pricing
 - First and Second Fundamental Theorems of Asset Pricing
-- [[concepts/arrow-debreu-securities|Arrow-Debreu securities]]
+- Arrow-Debreu securities
 - Mean-variance portfolios (modern portfolio theory)
 - Capital Asset Pricing Model (CAPM)
-- [[concepts/capital-market-line|Capital Market Line]]
-- [[concepts/super-replication-and-approximate-replication|Super-replication and approximate replication]]
-- [[concepts/expected-utility-maximization|Expected utility maximization]]
+- Capital Market Line
+- Super-replication and approximate replication
+- Expected utility maximization
 - Logarithmic and time-additive utility functions
 - Equilibrium pricing (complete and incomplete markets)
-- [[concepts/black-scholes-merton-option-pricing-model|Black-Scholes-Merton option pricing model]]
-- [[concepts/merton-jump-diffusion-option-pricing|Merton Jump-Diffusion option pricing]]
+- Black-Scholes-Merton option pricing model
+- Merton Jump-Diffusion option pricing
 - Binomial option pricing (binomial tree / binomial process)
-- [[concepts/monte-carlo-simulation-of-stock-price-paths|Monte Carlo simulation of stock price paths]]
-- [[concepts/stochastic-processes|Stochastic processes]]
-- [[concepts/market-completeness|Market completeness]]
-- [[concepts/probability-measure-and-expectation|Probability measure and expectation]]
-- [[concepts/volatility|Volatility]]
-- [[concepts/python-for-computational-finance|Python for computational finance]]
-- [[concepts/jupyter-notebooks|Jupyter Notebooks]]
+- Monte Carlo simulation of stock price paths
+- Stochastic processes
+- Market completeness
+- Probability measure and expectation
+- Volatility
+- Python for computational finance
+- Jupyter Notebooks
 - Vectorized code vs. Python loops (speed comparison)
 
 ## Key Entities

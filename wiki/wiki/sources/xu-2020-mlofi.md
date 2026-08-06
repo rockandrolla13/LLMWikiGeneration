@@ -136,7 +136,7 @@ Where e_n^m captures changes in queue sizes at level m
 
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/order-flow|Order Flow]]
-- [[concepts/price-formation|Price Formation]]
+- Price Formation
 - [[concepts/market-microstructure|Market Microstructure]]
 - [[sources/gould-2016-long-memory-fx|Gould et al. (2016) Long Memory in FX]]
 

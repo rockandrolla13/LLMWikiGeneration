@@ -96,8 +96,8 @@ This thesis develops an approach for on-line (real-time) Bayesian change-point d
 
 ## See Also
 
-- [[concepts/change-point-detection|Change-point Detection]]
+- Change-point Detection
 - [[concepts/bayesian-inference|Bayesian Inference]]
-- [[concepts/point-processes|Point Processes]]
+- Point Processes
 
 <!-- AUTHORED REGION END -->

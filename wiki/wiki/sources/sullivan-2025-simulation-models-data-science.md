@@ -61,20 +61,20 @@ Early-release O'Reilly book (First Release 2026-03-25; First Edition March 2027)
 ## Main Concepts
 
 - Simulation modeling (executable computer representation of real-world systems)
-- [[concepts/monte-carlo-simulation|Monte Carlo simulation]]
-- [[concepts/discrete-event-simulation|Discrete-event simulation]]
-- [[concepts/system-dynamics|System dynamics]]
-- [[concepts/agent-based-modeling|Agent-based modeling]]
+- Monte Carlo simulation
+- Discrete-event simulation
+- System dynamics
+- Agent-based modeling
 - Systems thinking (stocks and flows, feedback loops, delays, emergence, nonlinearity)
-- [[concepts/bullwhip-effect-in-supply-chains|Bullwhip effect in supply chains]]
+- Bullwhip effect in supply chains
 - Capacity planning and queueing theory (utilization, wait times, phase transitions)
 - Competitive market dynamics and price elasticity
 - Generative AI / specification-driven development for simulation
 - Probability distributions and statistical sampling
-- [[concepts/sensitivity-analysis|Sensitivity analysis]]
-- [[concepts/validation-of-simulation-models|Validation of simulation models]]
-- [[concepts/emergent-properties-and-nonlinearity|Emergent properties and nonlinearity]]
-- [[concepts/what-if-scenario-analysis|What-if / scenario analysis]]
+- Sensitivity analysis
+- Validation of simulation models
+- Emergent properties and nonlinearity
+- What-if / scenario analysis
 - Financial contagion (case study, Chapter 1 conclusion)
 
 ## Key Entities

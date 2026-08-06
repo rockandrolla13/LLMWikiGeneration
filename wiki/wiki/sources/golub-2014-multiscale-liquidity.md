@@ -98,9 +98,9 @@ For Brownian motion price processes:
 
 ## See Also
 
-- [[concepts/intrinsic-time|Intrinsic Time]]
-- [[concepts/directional-change|Directional Change]]
-- [[concepts/market-liquidity|Market Liquidity]]
+- Intrinsic Time
+- Directional Change
+- Market Liquidity
 - [[concepts/limit-order-book|Limit Order Book]]
 - [[concepts/stylized-facts|Stylized Facts]]
 - [[sources/murphy-2006-order-flow-critique|Murphy & Izzeldin (2006) Transaction Clock Critique]]

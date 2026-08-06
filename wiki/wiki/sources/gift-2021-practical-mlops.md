@@ -63,21 +63,21 @@ Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2
 
 ## Main Concepts
 
-- [[concepts/mlops|MLOps]]
-- [[concepts/devops-applied-to-ml|DevOps applied to ML]]
+- MLOps
+- DevOps applied to ML
 - Continuous Integration / Continuous Delivery (CI/CD) for ML
 - KaizenML (continuous improvement applied to ML pipelines)
-- [[concepts/automl|AutoML]]
-- [[concepts/feature-stores|Feature stores]]
-- [[concepts/containers-and-edge-deployment|Containers and edge deployment]]
-- [[concepts/model-drift-monitoring-and-observability|Model drift monitoring and observability]]
+- AutoML
+- Feature stores
+- Containers and edge deployment
+- Model drift monitoring and observability
 - Model interoperability (ONNX, Core ML)
-- [[concepts/infrastructure-as-code-for-ml|Infrastructure as Code for ML]]
+- Infrastructure as Code for ML
 - Serverless ML microservices (AWS Lambda)
-- [[concepts/dataops-and-data-engineering|DataOps and data engineering]]
-- [[concepts/mlops-design-patterns|MLOps design patterns]]
-- [[concepts/data-governance-and-cybersecurity|Data governance and cybersecurity]]
-- [[concepts/mlops-hierarchy-of-needs|MLOps hierarchy of needs]]
+- DataOps and data engineering
+- MLOps design patterns
+- Data governance and cybersecurity
+- MLOps hierarchy of needs
 
 ## Key Entities
 
@@ -95,12 +95,12 @@ Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2
 - Caltech (California Institute of Technology, mentioned as formative institution for Noah Gift)
 - Sqor Sports Social Network (case study organization in Chapter 12)
 - AWS (Amazon Web Services)
-- [[entities/microsoft-azure|Microsoft Azure]]
+- Microsoft Azure
 - Google Cloud Platform (GCP)
 - Apple (AutoML via Create ML and Core ML)
 - GitHub Actions (CI/CD tooling mentioned)
 - ONNX (Open Neural Network Exchange)
-- [[entities/aws-sagemaker|AWS SageMaker]]
+- AWS SageMaker
 - Ludwig (open-source AutoML framework)
 - FLAML (open-source AutoML framework from Microsoft)
 - TFHub (TensorFlow Hub)

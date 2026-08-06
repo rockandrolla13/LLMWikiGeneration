@@ -61,22 +61,22 @@ An Early Release O'Reilly book (first release 2025-08-06, first edition December
 
 ## Main Concepts
 
-- [[concepts/financial-data-architecture|Financial data architecture]]
-- [[concepts/financial-data-ecosystem|Financial data ecosystem]]
-- [[concepts/financial-data-management|Financial data management]]
-- [[concepts/reference-data-management|Reference data management]]
-- [[concepts/operational-data-management|Operational data management]]
-- [[concepts/analytical-data-management|Analytical data management]]
-- [[concepts/financial-data-governance|Financial data governance]]
-- [[concepts/financial-data-modelling|Financial data modelling]]
+- Financial data architecture
+- Financial data ecosystem
+- Financial data management
+- Reference data management
+- Operational data management
+- Analytical data management
+- Financial data governance
+- Financial data modelling
 - Financial instruments (stocks, bonds, derivatives, funds)
-- [[concepts/securities-exchanges-and-otc-markets|Securities exchanges and OTC markets]]
-- [[concepts/clearing-and-settlement|Clearing and settlement]]
-- [[concepts/securitisation|Securitisation]]
+- Securities exchanges and OTC markets
+- Clearing and settlement
+- Securitisation
 - Financial messaging standards (SWIFT, FIX, ISO 20022)
-- [[concepts/financial-data-value-chain|Financial data value chain]]
-- [[concepts/data-generating-mechanisms-in-finance|Data-generating mechanisms in finance]]
-- [[concepts/ai-and-analytics-for-financial-data|AI and analytics for financial data]]
+- Financial data value chain
+- Data-generating mechanisms in finance
+- AI and analytics for financial data
 - 3-tier data management (operational, reference, analytical)
 
 ## Key Entities
@@ -87,10 +87,10 @@ An Early Release O'Reilly book (first release 2025-08-06, first edition December
 - Jill Leonard (development editor)
 - Gregory Hyman (production editor)
 - New York Stock Exchange (NYSE)
-- [[entities/nasdaq|Nasdaq]]
+- Nasdaq
 - London Stock Exchange (LSE)
 - Chicago Mercantile Exchange (CME)
-- [[entities/s-p-500|S&P 500]]
+- S&P 500
 - Dow Jones Industrial Average (DJIA)
 - Microsoft (example company)
 - Google/GOOGL (example company)

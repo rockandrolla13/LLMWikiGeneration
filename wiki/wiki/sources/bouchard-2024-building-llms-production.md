@@ -51,13 +51,13 @@ Building LLMs for Production (2024) by Louis-François Bouchard, Louie Peters, a
 
 ## Main Concepts
 
-- [[concepts/retrieval-augmented-generation-(rag)|Retrieval-Augmented Generation (RAG)]]
-- [[concepts/transformer-architecture-and-gpt-family|Transformer architecture and GPT family]]
+- Retrieval-Augmented Generation (RAG)
+- Transformer architecture and GPT family
 - Prompt engineering and LangChain prompt templates
-- [[concepts/fine-tuning:-sft,-lora,-rlhf|Fine-tuning: SFT, LoRA, RLHF]]
-- [[concepts/llm-agents-and-autonomous-reasoning-engines|LLM agents and autonomous reasoning engines]]
-- [[concepts/model-deployment:-quantization-and-pruning|Model deployment: quantization and pruning]]
-- [[concepts/large-multimodal-models|Large Multimodal Models]]
+- Fine-tuning: SFT, LoRA, RLHF
+- LLM agents and autonomous reasoning engines
+- Model deployment: quantization and pruning
+- Large Multimodal Models
 
 ## Key Entities
 

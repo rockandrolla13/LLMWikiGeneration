@@ -152,7 +152,7 @@ Width Δα = α_max - α_min measures multifractal strength
 - [[concepts/mfdfa|MFDFA]]
 - [[concepts/long-memory|Long Memory]]
 - [[concepts/stylized-facts|Stylized Facts]]
-- [[concepts/cryptocurrency|Cryptocurrency]]
+- Cryptocurrency
 - [[sources/koukorinis-stylized-facts|Koukorinis et al. Stylized Facts]]
 
 <!-- AUTHORED REGION END -->
