@@ -66,7 +66,7 @@ This landmark paper examines whether structural models can predict credit spread
 
 ## Related Sources
 
-- [[sources/dickerson-2023-bond-pitfalls|Dickerson et al. (2024)]] - microstructure issues
+- [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]] - microstructure issues
 - [[sources/feng-2025-predicting-bond-returns|Feng et al. (2025)]] - ML bond prediction
 
 <!-- AUTHORED REGION END -->

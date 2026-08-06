@@ -18,4 +18,4 @@ Each contradiction page should:
 - Propose a resolution or mark as unresolved
 
 Use the page_type: contradiction frontmatter field.
-See [[concepts/]] and [[sources/]] for the pages involved.
+See the linked concept and source pages on each contradiction page.

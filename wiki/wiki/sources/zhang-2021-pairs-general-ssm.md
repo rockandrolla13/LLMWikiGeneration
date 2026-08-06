@@ -115,7 +115,7 @@ Key insight: Position sizing based on conditional volatility
 - [[concepts/kalman-filter|Kalman Filter]] - extended to nonlinear case
 - [[concepts/state-space-models|State Space Models]] - general framework
 - [[concepts/pairs-trading|Pairs Trading]] - application domain
-- [[concepts/heteroscedasticity|Heteroscedasticity]] - volatility clustering
+- [[concepts/heteroskedasticity|Heteroscedasticity]] - volatility clustering
 
 ## Citations
 

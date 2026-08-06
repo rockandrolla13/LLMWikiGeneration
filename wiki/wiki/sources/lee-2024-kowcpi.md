@@ -97,7 +97,7 @@ The paper demonstrates superior performance on real and synthetic time-series da
 ## Relation to Existing Work
 
 ### Weighted Conformal Prediction
-- Addresses the weight selection issue in [[sources/barber-2023-conformal-nonexchangeable|Barber et al. (2023)]]
+- Addresses the weight selection issue in [[sources/barber-2023-beyond-exchangeability|Barber et al. (2023)]]
 - Provides data-driven weights without prior knowledge
 
 ### Time-Series Conformal Prediction
