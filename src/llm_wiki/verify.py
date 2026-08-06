@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Optional
 
 from .wiki import Wiki
-from .frontmatter import parse_page, compute_content_hash, extract_wikilinks
+from .io import parse_page, compute_page_content_hash, extract_wikilinks
 from .schemas import PageType
 
 
@@ -213,7 +213,9 @@ def verify_revision_hashes(wiki: Wiki) -> VerificationResult:
                 continue  # Skip if no hash stored
 
             stored_hash = metadata["revision_hash"]
-            computed_hash = compute_content_hash(content)
+            # Must use the same normalisation the writer used, otherwise every
+            # page reports a mismatch purely from round-trip whitespace.
+            computed_hash = compute_page_content_hash(content)
 
             if stored_hash != computed_hash:
                 issues.append(
@@ -276,31 +278,72 @@ def verify_page_ids(wiki: Wiki) -> VerificationResult:
     )
 
 
+def resolve_link_targets(wiki: Wiki) -> set[str]:
+    """Build the set of strings a wikilink may legitimately point at.
+
+    A wiki page is reachable by any of three names, all of which appear in
+    real vaults:
+
+    - its page_id, e.g. ``concepts/carry-trade`` (the dominant convention here)
+    - its title, e.g. ``Carry Trade``
+    - its bare filename stem, e.g. ``carry-trade`` (how Obsidian resolves
+      short links)
+
+    Resolving against titles alone reports nearly every link as broken in a
+    page_id-linked wiki.
+
+    Args:
+        wiki: Wiki instance
+
+    Returns:
+        Set of every accepted link target
+    """
+    targets: set[str] = set()
+
+    for page_path in wiki.list_pages():
+        targets.add(page_path.stem)
+        try:
+            metadata, _ = parse_page(page_path)
+        except Exception:
+            continue
+        if metadata.get("title"):
+            targets.add(metadata["title"])
+        if metadata.get("page_id"):
+            targets.add(metadata["page_id"])
+        # Fall back to the path-derived page_id when frontmatter omits it
+        targets.add(str(page_path.relative_to(wiki.wiki_dir).with_suffix("")))
+
+    return targets
+
+
+def normalize_link_target(link: str) -> str:
+    """Strip the section anchor from a wikilink target.
+
+    ``[[Page#Section]]`` points at Page. Display text (``[[Page|text]]``) is
+    already removed by extract_wikilinks.
+    """
+    return link.split("#", 1)[0].strip()
+
+
 def verify_wikilinks(wiki: Wiki) -> VerificationResult:
     """Verify wikilinks point to existing pages or are flagged."""
     broken_links = []
 
-    # Get all page titles for lookup
-    page_titles = set()
-    for page_path in wiki.list_pages():
-        try:
-            metadata, _ = parse_page(page_path)
-            if "title" in metadata:
-                page_titles.add(metadata["title"])
-        except:
-            pass
+    targets = resolve_link_targets(wiki)
 
     # Check all wikilinks
     for page_path in wiki.list_pages():
         try:
             _, content = parse_page(page_path)
-            links = extract_wikilinks(content)
-            for link in links:
-                # Check if link target exists (by title)
-                if link not in page_titles:
-                    broken_links.append(f"{page_path.name}: [[{link}]]")
-        except:
-            pass
+        except Exception:
+            continue
+        for link in extract_wikilinks(content):
+            target = normalize_link_target(link)
+            # An anchor-only link ([[#Section]]) points within the same page
+            if not target:
+                continue
+            if target not in targets:
+                broken_links.append(f"{page_path.name}: [[{link}]]")
 
     if broken_links:
         return VerificationResult(

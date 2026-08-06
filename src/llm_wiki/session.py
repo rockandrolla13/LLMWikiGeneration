@@ -8,6 +8,7 @@ Key principle: Session provides navigation assistance, NOT knowledge.
 """
 
 from dataclasses import dataclass, field
+from .clock import utc_now
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
@@ -38,7 +39,7 @@ class NavigationEntry:
     """Record of a page view in the session."""
     page_id: str
     title: Optional[str] = None
-    timestamp: datetime = field(default_factory=datetime.utcnow)
+    timestamp: datetime = field(default_factory=utc_now)
     source: str = ""  # How the user arrived (search, link, direct)
 
     def to_dict(self) -> dict:
@@ -67,7 +68,7 @@ class QueryEntry:
     query: str
     result_count: int = 0
     top_results: list[str] = field(default_factory=list)  # page_ids
-    timestamp: datetime = field(default_factory=datetime.utcnow)
+    timestamp: datetime = field(default_factory=utc_now)
     filters: dict = field(default_factory=dict)  # page_types, tags, etc.
 
     def to_dict(self) -> dict:
@@ -97,7 +98,7 @@ class OperationEntry:
     """Record of an operation performed in the session."""
     kind: OperationKind
     description: str
-    timestamp: datetime = field(default_factory=datetime.utcnow)
+    timestamp: datetime = field(default_factory=utc_now)
     op_id: Optional[str] = None  # Reference to manifest entry if applicable
     details: dict = field(default_factory=dict)
 
@@ -149,7 +150,7 @@ class SessionContext:
     """
     session_id: str = field(default_factory=lambda: str(uuid.uuid4())[:8])
     wiki_root: Optional[Path] = None
-    started_at: datetime = field(default_factory=datetime.utcnow)
+    started_at: datetime = field(default_factory=utc_now)
     ended_at: Optional[datetime] = None
     status: SessionStatus = SessionStatus.ACTIVE
 
@@ -166,7 +167,7 @@ class SessionContext:
     @property
     def duration_seconds(self) -> float:
         """Session duration in seconds."""
-        end = self.ended_at or datetime.utcnow()
+        end = self.ended_at or utc_now()
         return (end - self.started_at).total_seconds()
 
     @property
@@ -337,7 +338,7 @@ class SessionContext:
     def end(self) -> None:
         """End the session."""
         self.status = SessionStatus.ENDED
-        self.ended_at = datetime.utcnow()
+        self.ended_at = utc_now()
 
     def to_dict(self) -> dict:
         """Convert to dictionary for serialization."""

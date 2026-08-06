@@ -40,13 +40,14 @@ from .commands import (
     wiki_guide,
     wiki_structure,
 )
-from .frontmatter import (
+from .io import (
     parse_page,
     write_page,
     compute_content_hash,
     compute_file_hash,
     extract_wikilinks,
     normalize_page_id,
+    is_generated,
     # Duplicate detection
     DuplicateCheckResult,
     check_duplicate,
@@ -80,29 +81,7 @@ from .session import (
     list_temp_sessions,
     cleanup_temp_sessions,
 )
-# Core protocols and registries (R2, R3)
-from .core import (
-    Registry,
-    VerificationCheck,
-    DerivedArtifactCompiler,
-    PageFactory,
-    VerificationRegistry,
-    ArtifactRegistry,
-)
-from .registry import (
-    default_checks,
-    default_compilers,
-    get_default_checks,
-    get_default_compilers,
-)
-# Page factories (R4)
-from .factories import (
-    create_source_page,
-    create_entity_page,
-    create_concept_page,
-    create_analysis_page,
-    create_contradiction_page,
-)
+from .verify import verify_wiki, VerificationResult, VerificationReport
 # Integrations (optional backends)
 from .integrations import (
     is_omega_available,
@@ -185,28 +164,15 @@ __all__ = [
     "compute_file_hash",
     "extract_wikilinks",
     "normalize_page_id",
+    "is_generated",
     # Duplicate Detection
     "DuplicateCheckResult",
     "check_duplicate",
     "format_duplicate_result",
-    # Core protocols (extensibility)
-    "Registry",
-    "VerificationCheck",
-    "DerivedArtifactCompiler",
-    "PageFactory",
-    "VerificationRegistry",
-    "ArtifactRegistry",
-    # Registries
-    "default_checks",
-    "default_compilers",
-    "get_default_checks",
-    "get_default_compilers",
-    # Page factories
-    "create_source_page",
-    "create_entity_page",
-    "create_concept_page",
-    "create_analysis_page",
-    "create_contradiction_page",
+    # Verification
+    "verify_wiki",
+    "VerificationResult",
+    "VerificationReport",
     # Integrations (OMEGA)
     "is_omega_available",
     "store_wiki_event",

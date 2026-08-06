@@ -17,7 +17,7 @@ from typing import Optional, Iterator
 from enum import Enum
 
 from .wiki import Wiki
-from .frontmatter import parse_page, extract_wikilinks
+from .io import parse_page, extract_wikilinks
 
 
 class SearchBackendType(Enum):

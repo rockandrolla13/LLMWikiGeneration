@@ -10,6 +10,7 @@ Defines dataclasses for all Tier 1 canonical page types:
 """
 
 from dataclasses import dataclass, field
+from .clock import utc_now
 from datetime import datetime
 from enum import Enum
 from typing import Optional
@@ -92,8 +93,8 @@ class PageMeta:
     # Revision tracking
     revision_id: int = 1
     revision_hash: str = ""
-    created: datetime = field(default_factory=datetime.utcnow)
-    updated: datetime = field(default_factory=datetime.utcnow)
+    created: datetime = field(default_factory=utc_now)
+    updated: datetime = field(default_factory=utc_now)
     updated_by: str = ""  # Reference to op_id in manifest.jsonl
 
     # Relationships

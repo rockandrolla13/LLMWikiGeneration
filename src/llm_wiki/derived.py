@@ -7,6 +7,7 @@ Generates and maintains derived artifacts that can be rebuilt from Tier 1:
 """
 
 from dataclasses import dataclass, field
+from .clock import utc_now
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
@@ -14,20 +15,9 @@ import hashlib
 import json
 
 from .wiki import Wiki
-from .frontmatter import parse_page, write_page, extract_wikilinks
+from .io import parse_page, write_page, extract_wikilinks
+from .io.page_io import GENERATION_HEADER, is_generated
 from .schemas import PageType, MindMapPriority
-
-
-# Generation header template
-GENERATION_HEADER = """<!--
-AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: {timestamp}
-Generator: llm-wiki {version}
-Source hash: {source_hash}
-Rebuild with: wiki:rebuild
--->
-
-"""
 
 
 @dataclass
@@ -147,7 +137,7 @@ def compile_index(wiki: Wiki) -> str:
 
     pages = gather_page_info(wiki)
     source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
+    now = utc_now()
 
     # Group by type
     by_type: dict[str, list[PageInfo]] = {
@@ -285,7 +275,7 @@ def compile_mind_map(wiki: Wiki) -> str:
 
     pages = gather_page_info(wiki)
     source_hash = compute_source_hash(wiki)
-    now = datetime.utcnow()
+    now = utc_now()
 
     # Filter and sort pages by priority
     priority_order = {"high": 0, "medium": 1, "low": 2, "exclude": 3}
@@ -491,7 +481,9 @@ def _check_artifact_freshness(path: Path, current_hash: str) -> FreshnessStatus:
             try:
                 ts = line.split(":", 1)[1].strip()
                 generated_at = datetime.fromisoformat(ts.rstrip("Z"))
-            except:
+            except ValueError:
+                # Unparseable timestamp in the header; freshness is decided by
+                # the source hash, so leave generated_at unset and continue.
                 pass
 
     is_fresh = artifact_hash == current_hash
@@ -506,49 +498,65 @@ def _check_artifact_freshness(path: Path, current_hash: str) -> FreshnessStatus:
     )
 
 
-def rebuild_derived(wiki: Wiki) -> dict:
+def rebuild_derived(wiki: Wiki, force: bool = False) -> dict:
     """Rebuild all derived artifacts.
 
     Regenerates index.md and MIND_MAP.md from Tier 1 data.
 
+    Artifacts that were not produced by this generator (no generation header)
+    are skipped rather than overwritten -- they are assumed to be hand-curated
+    and are not reproducible from Tier 1. Pass force=True to overwrite anyway.
+
     Args:
         wiki: Wiki instance
+        force: If True, overwrite hand-curated artifacts as well
 
     Returns:
-        Dict with rebuild results
+        Dict with keys: rebuilt, skipped, errors
     """
     results = {
         "rebuilt": [],
+        "skipped": [],
         "errors": [],
     }
 
     # Rebuild index.md
-    try:
-        index_content = compile_index(wiki)
-        index_path = wiki.wiki_dir / "index.md"
+    index_path = wiki.wiki_dir / "index.md"
+    if not force and not is_generated(index_path):
+        results["skipped"].append(
+            "index.md: hand-curated (no generation header); pass force=True to overwrite"
+        )
+    else:
+        try:
+            index_content = compile_index(wiki)
 
-        # Write with frontmatter
-        metadata = {
-            "title": "Wiki Index",
-            "page_type": "index",
-            "generated": True,
-            "updated": datetime.utcnow().isoformat() + "Z",
-        }
-        write_page(index_path, metadata, index_content)
-        results["rebuilt"].append("index.md")
-    except Exception as e:
-        results["errors"].append(f"index.md: {e}")
+            # Write with frontmatter
+            metadata = {
+                "title": "Wiki Index",
+                "page_type": "index",
+                "generated": True,
+                "updated": utc_now().isoformat() + "Z",
+            }
+            write_page(index_path, metadata, index_content)
+            results["rebuilt"].append("index.md")
+        except Exception as e:
+            results["errors"].append(f"index.md: {e}")
 
     # Rebuild MIND_MAP.md
-    try:
-        mind_map_content = compile_mind_map(wiki)
-        mind_map_path = wiki.root / "MIND_MAP.md"
+    mind_map_path = wiki.root / "MIND_MAP.md"
+    if not force and not is_generated(mind_map_path):
+        results["skipped"].append(
+            "MIND_MAP.md: hand-curated (no generation header); pass force=True to overwrite"
+        )
+    else:
+        try:
+            mind_map_content = compile_mind_map(wiki)
 
-        # Write directly (no frontmatter for MIND_MAP)
-        with open(mind_map_path, "w", encoding="utf-8") as f:
-            f.write(mind_map_content)
-        results["rebuilt"].append("MIND_MAP.md")
-    except Exception as e:
-        results["errors"].append(f"MIND_MAP.md: {e}")
+            # Write directly (no frontmatter for MIND_MAP)
+            with open(mind_map_path, "w", encoding="utf-8") as f:
+                f.write(mind_map_content)
+            results["rebuilt"].append("MIND_MAP.md")
+        except Exception as e:
+            results["errors"].append(f"MIND_MAP.md: {e}")
 
     return results

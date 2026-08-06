@@ -9,6 +9,7 @@ Format: JSON Lines (one JSON object per line)
 import json
 import os
 import uuid
+from .clock import utc_now
 from dataclasses import dataclass, field, asdict
 from datetime import datetime
 from enum import Enum
@@ -134,7 +135,7 @@ class ManifestEntry:
         return cls(
             op_id=f"op_{uuid.uuid4().hex[:12]}",
             op_type=op_type,
-            timestamp=datetime.utcnow(),
+            timestamp=utc_now(),
             actor=actor,
             inputs=inputs or OperationInputs(),
             outputs=OperationOutputs(),
@@ -163,8 +164,21 @@ class ManifestEntry:
 
     @classmethod
     def from_json_line(cls, line: str) -> "ManifestEntry":
-        """Deserialize from a JSON line."""
+        """Deserialize from a JSON line.
+
+        Handles two on-disk shapes:
+
+        - Current: has `op_type`, `actor`, `inputs`, `outputs`, `status`.
+        - Legacy: hand-written entries with `operation` and `page_id` and no
+          actor/status. These predate the current schema and appear in wikis
+          whose pages were authored directly rather than through wiki_ingest.
+
+        The manifest is append-only, so legacy entries are read in place and
+        never rewritten.
+        """
         d = json.loads(line)
+        if "op_type" not in d:
+            return cls._from_legacy_dict(d)
         return cls(
             op_id=d["op_id"],
             op_type=OperationType(d["op_type"]),
@@ -190,6 +204,61 @@ class ManifestEntry:
             duration_ms=d.get("duration_ms"),
             parent_op_id=d.get("parent_op_id"),
         )
+
+    @classmethod
+    def _from_legacy_dict(cls, d: dict) -> "ManifestEntry":
+        """Build an entry from a legacy hand-written manifest line.
+
+        Legacy shape:
+            {"op_id", "timestamp", "operation", "page_id", "revision_id", "comment"}
+
+        Legacy entries record completed page authoring, so they are read as
+        actor=llm, status=completed. `operation` is mapped onto the closest
+        OperationType; unrecognised values fall back to UPDATE.
+        """
+        operation = (d.get("operation") or "").lower()
+        op_type = _LEGACY_OPERATION_TYPES.get(operation, OperationType.UPDATE)
+
+        page_id = d.get("page_id")
+        page_ids = [page_id] if page_id else []
+        revision_id = d.get("revision_id")
+
+        outputs = OperationOutputs()
+        if op_type is OperationType.DELETE:
+            outputs.deleted_pages = page_ids
+        elif operation == "create":
+            outputs.created_pages = page_ids
+        else:
+            outputs.updated_pages = page_ids
+        if page_id and revision_id is not None:
+            outputs.page_revisions = {page_id: revision_id}
+
+        # Preserve the human-written note rather than dropping it. It is not an
+        # error, so it must not land in error_message.
+        comment = d.get("comment")
+        if comment:
+            outputs.extra = {"comment": comment}
+
+        return cls(
+            op_id=d["op_id"],
+            op_type=op_type,
+            timestamp=datetime.fromisoformat(d["timestamp"].rstrip("Z")),
+            actor=Actor(d.get("actor", Actor.LLM.value)),
+            inputs=OperationInputs(page_ids=page_ids),
+            outputs=outputs,
+            status=OperationStatus(d.get("status", OperationStatus.COMPLETED.value)),
+        )
+
+
+# Maps the legacy `operation` field onto the current OperationType enum.
+# "create" records page authoring, which ingest is the closest analogue of.
+_LEGACY_OPERATION_TYPES = {
+    "create": OperationType.INGEST,
+    "ingest": OperationType.INGEST,
+    "update": OperationType.UPDATE,
+    "delete": OperationType.DELETE,
+    "init": OperationType.INIT,
+}
 
 
 class Manifest:

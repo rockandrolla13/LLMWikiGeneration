@@ -15,6 +15,7 @@ from pathlib import Path
 from datetime import datetime
 import hashlib
 import re
+import yaml
 
 # Project root
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -98,25 +99,29 @@ def extract_metadata(md_path: Path) -> dict:
 
 
 def create_source_page(metadata: dict, content_preview: str, dry_run: bool = False) -> Path:
-    """Create a source summary page."""
+    """Create a source summary page.
+
+    Frontmatter is serialised with the YAML library rather than interpolated
+    into a string template: a title containing a quote, colon or newline
+    produced an unparseable page under the old hand-written approach.
+    """
     slug = metadata['slug']
     page_path = WIKI_ROOT / "sources" / f"{slug}.md"
 
     now = datetime.now().isoformat()
-    authors_yaml = ', '.join(f'"{a}"' for a in metadata.get('authors', []))
+    front = {
+        'title': metadata['title'],
+        'page_id': f"sources/{slug}",
+        'page_type': 'source',
+        'source_type': 'paper',
+        'authors': metadata.get('authors', []),
+        'created': now,
+        'updated': now,
+        'tags': [],
+        'related': [],
+    }
 
-    page_content = f"""---
-title: "{metadata['title']}"
-page_id: sources/{slug}
-page_type: source
-source_type: paper
-authors: [{authors_yaml}]
-created: {now}
-updated: {now}
-tags: []
-related: []
----
-
+    body = f"""
 ## Summary
 
 {content_preview[:500]}...
@@ -129,39 +134,51 @@ related: []
 
 - (To be identified)
 """
+    page_content = (
+        "---\n"
+        + yaml.safe_dump(front, default_flow_style=False, sort_keys=False, allow_unicode=True)
+        + "---\n"
+        + body
+    )
 
     if dry_run:
         print(f"  [DRY RUN] Would create: {page_path}")
     else:
         page_path.parent.mkdir(parents=True, exist_ok=True)
-        page_path.write_text(page_content)
+        page_path.write_text(page_content, encoding='utf-8')
         print(f"  ✓ Created: sources/{slug}.md")
 
     return page_path
 
 
 def update_index(new_pages: list[Path], dry_run: bool = False):
-    """Update wiki/index.md with new pages."""
+    """Report that index.md needs regenerating.
+
+    This function never actually edited the index -- it built an entry string
+    per page, discarded it, and printed a success message. Rather than leave a
+    routine that lies about what it did, it now states the real situation and
+    points at the command that does the work.
+    """
     index_path = WIKI_ROOT / "index.md"
 
     if not index_path.exists():
         print("  ⚠ index.md not found, skipping update")
         return
 
-    if dry_run:
-        print(f"  [DRY RUN] Would update index.md with {len(new_pages)} entries")
+    source_pages = [p for p in new_pages if "sources" in str(p)]
+    if not source_pages:
         return
 
-    # Read current index
-    content = index_path.read_text()
+    if dry_run:
+        print(f"  [DRY RUN] {len(source_pages)} new page(s) would need indexing")
+        return
 
-    # Add new entries to sources section
-    for page in new_pages:
-        if "sources" in str(page):
-            entry = f"- [[{page.stem}]]\n"
-            # Simple append (proper implementation would insert in right section)
-
-    print(f"  ✓ Updated index.md")
+    print(
+        f"  ⚠ index.md NOT updated -- {len(source_pages)} new page(s) are missing from it.\n"
+        f"    Regenerate with: python -c \"from pathlib import Path; "
+        f"from llm_wiki import Wiki, wiki_rebuild; "
+        f"wiki_rebuild(Wiki(Path('wiki')), force=True)\""
+    )
 
 
 def process_document(doc_path: Path, dry_run: bool = False) -> dict:

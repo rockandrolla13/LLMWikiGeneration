@@ -1,6 +1,6 @@
 """Unit tests for frontmatter module.
 
-Tests all functions in llm_wiki.frontmatter:
+Tests all functions in llm_wiki.io:
 - parse_page, write_page
 - compute_content_hash, compute_file_hash
 - update_frontmatter, get_frontmatter, get_content
@@ -12,7 +12,7 @@ import tempfile
 from pathlib import Path
 import pytest
 
-from llm_wiki.frontmatter import (
+from llm_wiki.io import (
     parse_page,
     write_page,
     compute_content_hash,

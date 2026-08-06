@@ -8,10 +8,10 @@ Provides high-level operations that can be invoked as skills:
 - rebuild: Regenerate derived artifacts
 """
 
+from .clock import utc_now
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
-import os
 
 from .wiki import Wiki
 from .manifest import (
@@ -22,8 +22,9 @@ from .manifest import (
     OperationOutputs,
     Actor,
 )
-from .frontmatter import (
+from .io import (
     write_page,
+    compute_page_content_hash,
     compute_file_hash,
     normalize_page_id,
 )
@@ -156,7 +157,7 @@ def wiki_ingest(
 
     try:
         # Create source page
-        now = datetime.utcnow()
+        now = utc_now()
         meta = PageMeta(
             title=title or stem,
             page_id=page_id,
@@ -186,13 +187,15 @@ def wiki_ingest(
         # Generate markdown content
         content = _generate_source_content(source_page)
 
+        # Stamp the revision hash into the metadata BEFORE writing, so the
+        # value actually lands on disk. Computing it after the write left the
+        # field empty on every ingested page and made the integrity check
+        # meaningless.
+        meta.revision_hash = compute_page_content_hash(content)
+
         # Write page
         page_path = wiki.wiki_dir / f"{page_id}.md"
-        content_hash = write_page(page_path, source_page.to_frontmatter_dict(), content)
-
-        # Update frontmatter with computed hash
-        frontmatter = source_page.to_frontmatter_dict()
-        frontmatter["revision_hash"] = content_hash
+        write_page(page_path, source_page.to_frontmatter_dict(), content)
 
         # Track created pages
         created_pages = [page_id]
@@ -308,7 +311,7 @@ def _create_entity_page(
     if wiki.page_exists(page_id):
         return {"success": False, "page_id": page_id, "reason": "already exists"}
 
-    now = datetime.utcnow()
+    now = utc_now()
     meta = PageMeta(
         title=entity_name,
         page_id=page_id,
@@ -334,11 +337,11 @@ def _create_entity_page(
 | [[{source_page_id}]] | Mentioned |
 """
 
+    meta.revision_hash = compute_page_content_hash(content)
     page_path = wiki.wiki_dir / f"{page_id}.md"
-    frontmatter = meta.to_frontmatter_dict()
-    content_hash = write_page(page_path, frontmatter, content)
+    write_page(page_path, meta.to_frontmatter_dict(), content)
 
-    return {"success": True, "page_id": page_id, "hash": content_hash}
+    return {"success": True, "page_id": page_id, "hash": meta.revision_hash}
 
 
 def _create_concept_page(
@@ -353,7 +356,7 @@ def _create_concept_page(
     if wiki.page_exists(page_id):
         return {"success": False, "page_id": page_id, "reason": "already exists"}
 
-    now = datetime.utcnow()
+    now = utc_now()
     meta = PageMeta(
         title=concept_name,
         page_id=page_id,
@@ -387,11 +390,11 @@ def _create_concept_page(
 - What is the precise definition?
 """
 
+    meta.revision_hash = compute_page_content_hash(content)
     page_path = wiki.wiki_dir / f"{page_id}.md"
-    frontmatter = meta.to_frontmatter_dict()
-    content_hash = write_page(page_path, frontmatter, content)
+    write_page(page_path, meta.to_frontmatter_dict(), content)
 
-    return {"success": True, "page_id": page_id, "hash": content_hash}
+    return {"success": True, "page_id": page_id, "hash": meta.revision_hash}
 
 
 def wiki_stats(wiki: Wiki) -> dict:
@@ -410,18 +413,28 @@ def wiki_stats(wiki: Wiki) -> dict:
     return stats
 
 
-def wiki_rebuild(wiki: Wiki, force: bool = False) -> dict:
+def wiki_rebuild(
+    wiki: Wiki,
+    force: bool = False,
+    overwrite_curated: bool = False,
+) -> dict:
     """Rebuild all derived artifacts (Tier 2).
 
     Regenerates index.md and MIND_MAP.md from Tier 1 data.
     Only rebuilds if stale, unless force=True.
 
+    Artifacts without a generation header are assumed to be hand-curated and
+    are skipped, not overwritten -- the generator cannot reproduce them.
+    `force` deliberately does NOT override that protection; it only bypasses
+    the freshness check. Use overwrite_curated=True to discard curated work.
+
     Args:
         wiki: Wiki instance
-        force: If True, rebuild even if fresh
+        force: If True, rebuild even if artifacts are fresh
+        overwrite_curated: If True, overwrite hand-curated artifacts (destructive)
 
     Returns:
-        Dict with rebuild results
+        Dict with rebuild results, including any skipped artifacts
     """
     from .derived import check_freshness, rebuild_derived
 
@@ -447,11 +460,12 @@ def wiki_rebuild(wiki: Wiki, force: bool = False) -> dict:
 
     try:
         # Rebuild all derived artifacts
-        result = rebuild_derived(wiki)
+        result = rebuild_derived(wiki, force=overwrite_curated)
 
         entry.outputs = OperationOutputs(
             extra={
                 "rebuilt": result["rebuilt"],
+                "skipped": result["skipped"],
                 "errors": result["errors"],
             }
         )
@@ -459,14 +473,19 @@ def wiki_rebuild(wiki: Wiki, force: bool = False) -> dict:
         wiki.manifest.append(entry)
 
         # Append to log
-        wiki.append_to_log(entry, f"Rebuilt {', '.join(result['rebuilt'])}")
+        wiki.append_to_log(entry, f"Rebuilt {', '.join(result['rebuilt']) or 'nothing'}")
+
+        message = f"Rebuilt {len(result['rebuilt'])} artifacts"
+        if result["skipped"]:
+            message += f", skipped {len(result['skipped'])} hand-curated"
 
         return {
             "success": len(result["errors"]) == 0,
             "op_id": entry.op_id,
             "rebuilt": result["rebuilt"],
+            "skipped": result["skipped"],
             "errors": result["errors"],
-            "message": f"Rebuilt {len(result['rebuilt'])} artifacts",
+            "message": message,
         }
 
     except Exception as e:

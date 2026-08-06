@@ -7,7 +7,48 @@ Uses python-frontmatter library for parsing.
 from pathlib import Path
 import frontmatter
 
-from .hashing import compute_content_hash
+from .hashing import compute_content_hash, compute_page_content_hash
+
+
+# Marker stamped into every artifact this tool generates. Its presence is what
+# distinguishes a regenerable file from hand-curated work that must not be
+# overwritten, so the literal is defined once and imported everywhere.
+GENERATED_MARKER = "AUTO-GENERATED FILE - DO NOT EDIT MANUALLY"
+
+GENERATION_HEADER = f"""<!--
+{GENERATED_MARKER}
+Generated: {{timestamp}}
+Generator: llm-wiki {{version}}
+Source hash: {{source_hash}}
+Rebuild with: wiki:rebuild
+-->
+
+"""
+
+
+def is_generated(file_path: Path) -> bool:
+    """Check whether an artifact is safe for the generator to overwrite.
+
+    Safe means one of:
+    - the file does not exist yet (nothing to lose), or
+    - the file carries GENERATED_MARKER, so this tool wrote it.
+
+    Hand-curated artifacts carry no marker. Overwriting one destroys work the
+    generator cannot reproduce, so callers must treat False as "skip".
+
+    Args:
+        file_path: Path to the artifact
+
+    Returns:
+        True if absent or generator-owned, False if hand-curated
+    """
+    if not file_path.exists():
+        return True
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        head = f.read(4096)
+
+    return GENERATED_MARKER in head
 
 
 def parse_page(file_path: Path) -> tuple[dict, str]:
@@ -55,7 +96,7 @@ def write_page(
     output = frontmatter.dumps(post)
 
     # Compute hash of content (body only, not frontmatter)
-    content_hash = compute_content_hash(content)
+    content_hash = compute_page_content_hash(content)
 
     if atomic:
         # Write to temp file then rename (atomic on POSIX)

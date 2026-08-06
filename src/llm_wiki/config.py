@@ -264,7 +264,7 @@ def get_default_config(
     Returns:
         WikiConfig with sensible defaults
     """
-    from datetime import datetime
+    from .clock import utc_now
 
     return WikiConfig(
         name=name,
@@ -273,5 +273,5 @@ def get_default_config(
         topic=topic,
         domain_keywords=[],
         created_by="llm-wiki",
-        created_at=datetime.utcnow().isoformat() + "Z",
+        created_at=utc_now().isoformat() + "Z",
     )

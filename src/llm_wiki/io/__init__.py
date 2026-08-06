@@ -7,7 +7,7 @@ This package provides file operations:
 - dedup: Duplicate detection for source ingestion
 """
 
-from .hashing import compute_content_hash, compute_file_hash
+from .hashing import compute_content_hash, compute_page_content_hash, compute_file_hash
 from .wikilinks import (
     extract_wikilinks,
     normalize_page_id,
@@ -21,6 +21,9 @@ from .page_io import (
     get_frontmatter,
     get_content,
     validate_frontmatter,
+    is_generated,
+    GENERATED_MARKER,
+    GENERATION_HEADER,
 )
 from .dedup import (
     DuplicateCheckResult,
@@ -34,6 +37,7 @@ from .dedup import (
 __all__ = [
     # Hashing
     "compute_content_hash",
+    "compute_page_content_hash",
     "compute_file_hash",
     # Wikilinks
     "extract_wikilinks",
@@ -47,6 +51,9 @@ __all__ = [
     "get_frontmatter",
     "get_content",
     "validate_frontmatter",
+    "is_generated",
+    "GENERATED_MARKER",
+    "GENERATION_HEADER",
     # Duplicate Detection
     "DuplicateCheckResult",
     "compute_source_content_hash",
