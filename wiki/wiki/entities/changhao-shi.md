@@ -2,6 +2,7 @@
 title: Changhao Shi
 page_id: entities/changhao-shi
 page_type: entity
+revision_id: 1
 entity_type: person
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

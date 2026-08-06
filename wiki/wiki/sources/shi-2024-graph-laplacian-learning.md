@@ -2,6 +2,7 @@
 title: Generalizing Graph Laplacian Learning (Shi 2024)
 page_id: sources/shi-2024-graph-laplacian-learning
 page_type: source
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

@@ -2,6 +2,7 @@
 title: Chrysoula Zerva
 page_id: entities/chrysoula-zerva
 page_type: entity
+revision_id: 1
 entity_type: person
 created: 2026-08-06 00:00:00+00:00
 updated: '2026-08-06T17:35:34Z'

@@ -2,6 +2,7 @@
 title: Trade Classification
 page_id: concepts/trade-classification
 page_type: concept
+revision_id: 1
 created: 2026-04-26 02:20:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

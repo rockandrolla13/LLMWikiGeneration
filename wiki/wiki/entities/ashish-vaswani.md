@@ -2,6 +2,7 @@
 title: Ashish Vaswani
 page_id: entities/ashish-vaswani
 page_type: entity
+revision_id: 1
 entity_type: person
 tags:
 - researcher

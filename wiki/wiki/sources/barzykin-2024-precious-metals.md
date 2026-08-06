@@ -2,6 +2,7 @@
 title: Algorithmic Market Making in Spot Precious Metals
 page_id: sources/barzykin-2024-precious-metals
 page_type: source
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

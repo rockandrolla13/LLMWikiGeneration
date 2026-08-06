@@ -2,6 +2,7 @@
 title: Spectral Graph Filters
 page_id: concepts/spectral-graph-filters
 page_type: concept
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

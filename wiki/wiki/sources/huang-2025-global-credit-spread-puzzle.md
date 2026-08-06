@@ -2,6 +2,7 @@
 title: The Global Credit Spread Puzzle
 page_id: sources/huang-2025-global-credit-spread-puzzle
 page_type: source
+revision_id: 1
 created: 2026-04-26 01:45:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

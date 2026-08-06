@@ -2,6 +2,7 @@
 title: 'Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management'
 page_id: sources/nunes-2022-ml-fixed-income
 page_type: source
+revision_id: 1
 created: 2026-04-26 02:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

@@ -3,6 +3,7 @@ title: A Combination Forecasting Model Using Machine Learning and Kalman Filter 
   Statistical Arbitrage
 page_id: sources/nobrega-2014-kalman-ml-stat-arb
 page_type: source
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

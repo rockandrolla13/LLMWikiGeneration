@@ -2,6 +2,7 @@
 title: Optimal execution with limit and market orders
 page_id: sources/cartea-2015-optimal-execution
 page_type: source
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

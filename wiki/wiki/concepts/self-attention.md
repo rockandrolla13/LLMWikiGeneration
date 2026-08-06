@@ -2,6 +2,7 @@
 title: Self-Attention
 page_id: concepts/self-attention
 page_type: concept
+revision_id: 1
 tags:
 - attention
 - neural-networks

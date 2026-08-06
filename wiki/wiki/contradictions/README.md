@@ -2,6 +2,7 @@
 title: "Contradictions"
 page_id: contradictions/README
 page_type: index
+revision_id: 1
 created: 2026-06-20T00:00:00Z
 updated: 2026-06-20T00:00:00Z
 tags: [contradictions, index]

@@ -2,6 +2,7 @@
 title: Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks
 page_id: sources/rehman-2024-green-bonds
 page_type: source
+revision_id: 1
 created: 2026-04-26 02:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

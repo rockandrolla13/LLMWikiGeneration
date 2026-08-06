@@ -2,6 +2,7 @@
 title: Graph Learning for Financial Networks (Yu 2024)
 page_id: sources/yu-2024-graph-learning-financial
 page_type: source
+revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
 tags:

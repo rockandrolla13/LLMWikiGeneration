@@ -2,6 +2,7 @@
 title: Distributionally Robust Optimization
 page_id: concepts/distributionally-robust-optimization
 page_type: concept
+revision_id: 1
 created: 2026-08-06 00:00:00+00:00
 updated: '2026-08-06T17:35:34Z'
 tags:

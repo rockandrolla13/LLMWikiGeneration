@@ -2,6 +2,7 @@
 title: Attention Is All You Need
 page_id: sources/attention-paper
 page_type: source
+revision_id: 1
 tags:
 - transformers
 - attention
