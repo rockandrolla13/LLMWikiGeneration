@@ -61,3 +61,9 @@ templates/latex-presentation/
 
 # held back: needs token with 'workflow' scope to push
 .github/workflows/deploy-wiki.yml
+
+# Root-level Obsidian config (local only)
+/.obsidian/
+
+# Copyrighted source PDFs must not be published to a public remote
+/*.pdf
