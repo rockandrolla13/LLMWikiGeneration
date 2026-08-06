@@ -317,12 +317,20 @@ def resolve_link_targets(wiki: Wiki) -> set[str]:
 
 
 def normalize_link_target(link: str) -> str:
-    """Strip the section anchor from a wikilink target.
+    """Reduce a raw wikilink to the page it actually points at.
 
-    ``[[Page#Section]]`` points at Page. Display text (``[[Page|text]]``) is
-    already removed by extract_wikilinks.
+    Handles two forms that would otherwise be reported as broken:
+
+    - ``[[Page#Section]]`` -- the anchor is dropped; it points at Page.
+    - ``[[Page\\|text]]`` -- inside a markdown table the pipe must be escaped,
+      so the captured target keeps a trailing backslash. Obsidian treats the
+      backslash as the escape character, not part of the page name.
+
+    Display text (``[[Page|text]]``) is already removed by extract_wikilinks.
     """
-    return link.split("#", 1)[0].strip()
+    target = link.split("#", 1)[0].strip()
+    # Trailing backslash is the escape before a table-escaped pipe
+    return target.rstrip("\\").strip()
 
 
 def verify_wikilinks(wiki: Wiki) -> VerificationResult:

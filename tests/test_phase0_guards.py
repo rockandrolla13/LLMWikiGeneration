@@ -81,14 +81,23 @@ class TestRebuildGuard:
         assert result["skipped"] == []
         assert GENERATED_MARKER in (tmp_path / "MIND_MAP.md").read_text()
 
-    def test_force_overwrites_curated(self, wiki, tmp_path):
+    def test_overwrite_curated_overwrites_curated(self, wiki, tmp_path):
         mind_map = tmp_path / "MIND_MAP.md"
         mind_map.write_text(CURATED_MIND_MAP, encoding="utf-8")
 
-        result = rebuild_derived(wiki, force=True)
+        result = rebuild_derived(wiki, overwrite_curated=True)
 
         assert "MIND_MAP.md" in result["rebuilt"]
         assert GENERATED_MARKER in mind_map.read_text()
+
+    def test_rebuild_derived_has_no_force_parameter(self, wiki):
+        """`force` means "ignore freshness" in wiki_rebuild. Reusing the word
+        here for "destroy curated work" is how accidents happen."""
+        import inspect
+
+        params = inspect.signature(rebuild_derived).parameters
+        assert "force" not in params
+        assert "overwrite_curated" in params
 
     def test_wiki_rebuild_force_does_not_overwrite_curated(self, wiki, tmp_path):
         """`force` bypasses the freshness check only -- never the guard.
@@ -263,3 +272,46 @@ class TestWikilinkResolution:
         assert "concepts/carry-trade" in targets
         assert "Carry Trade" in targets
         assert "carry-trade" in targets
+
+
+class TestEscapedPipeLinks:
+    """Inside a markdown table the pipe must be escaped as \\|, which leaves a
+    trailing backslash on the captured target. 32 links in the real wiki use
+    this form and were all reported broken."""
+
+    def test_table_escaped_pipe_resolves(self, wiki):
+        write_page_file(wiki, "concepts", "enbpi", "A concept.", title="EnbPI")
+        write_page_file(
+            wiki, "sources", "a-paper",
+            "| Method | Note |\n|---|---|\n| [[concepts/enbpi\\|EnbPI]] | x |",
+            title="A Paper",
+        )
+
+        result = verify_wikilinks(wiki)
+
+        assert result.passed, result.details
+
+    def test_normalize_strips_trailing_backslash(self):
+        assert normalize_link_target("concepts/enbpi\\") == "concepts/enbpi"
+        assert normalize_link_target("concepts/x\\#Sec") == "concepts/x"
+
+    def test_backslash_inside_name_is_not_stripped(self):
+        """Only a TRAILING backslash is an escape artefact."""
+        assert normalize_link_target("concepts/a\\b") == "concepts/a\\b"
+
+
+class TestMarkerSearchWindow:
+    """The marker sits after the frontmatter; real pages have ~6 KB of it."""
+
+    def test_marker_found_beyond_a_small_window(self, wiki, tmp_path):
+        from llm_wiki.io.page_io import GENERATED_MARKER, is_generated
+
+        big_frontmatter = "---\n" + "".join(
+            f"related_{i}: some-fairly-long-page-identifier-value-{i}\n"
+            for i in range(400)
+        ) + "---\n\n"
+        path = tmp_path / "big.md"
+        path.write_text(big_frontmatter + f"<!--\n{GENERATED_MARKER}\n-->\n", encoding="utf-8")
+
+        assert len(big_frontmatter) > 4096, "fixture must exceed the old window"
+        assert is_generated(path) is True

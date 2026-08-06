@@ -498,18 +498,21 @@ def _check_artifact_freshness(path: Path, current_hash: str) -> FreshnessStatus:
     )
 
 
-def rebuild_derived(wiki: Wiki, force: bool = False) -> dict:
+def rebuild_derived(wiki: Wiki, overwrite_curated: bool = False) -> dict:
     """Rebuild all derived artifacts.
 
     Regenerates index.md and MIND_MAP.md from Tier 1 data.
 
     Artifacts that were not produced by this generator (no generation header)
     are skipped rather than overwritten -- they are assumed to be hand-curated
-    and are not reproducible from Tier 1. Pass force=True to overwrite anyway.
+    and are not reproducible from Tier 1.
 
     Args:
         wiki: Wiki instance
-        force: If True, overwrite hand-curated artifacts as well
+        overwrite_curated: If True, overwrite hand-curated artifacts too
+            (destructive). Named explicitly rather than `force` so it can
+            never be confused with wiki_rebuild's `force`, which only
+            bypasses the freshness check.
 
     Returns:
         Dict with keys: rebuilt, skipped, errors
@@ -522,9 +525,9 @@ def rebuild_derived(wiki: Wiki, force: bool = False) -> dict:
 
     # Rebuild index.md
     index_path = wiki.wiki_dir / "index.md"
-    if not force and not is_generated(index_path):
+    if not overwrite_curated and not is_generated(index_path):
         results["skipped"].append(
-            "index.md: hand-curated (no generation header); pass force=True to overwrite"
+            "index.md: hand-curated (no generation header); pass overwrite_curated=True to overwrite"
         )
     else:
         try:
@@ -544,9 +547,9 @@ def rebuild_derived(wiki: Wiki, force: bool = False) -> dict:
 
     # Rebuild MIND_MAP.md
     mind_map_path = wiki.root / "MIND_MAP.md"
-    if not force and not is_generated(mind_map_path):
+    if not overwrite_curated and not is_generated(mind_map_path):
         results["skipped"].append(
-            "MIND_MAP.md: hand-curated (no generation header); pass force=True to overwrite"
+            "MIND_MAP.md: hand-curated (no generation header); pass overwrite_curated=True to overwrite"
         )
     else:
         try:

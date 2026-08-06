@@ -26,6 +26,13 @@ Rebuild with: wiki:rebuild
 """
 
 
+# How far into a file to look for the marker. The marker sits after the YAML
+# frontmatter, and real pages have been observed with ~6 KB of frontmatter
+# (long `related:` lists), so a small window would scan past the marker and
+# misreport a generated file as hand-curated.
+_MARKER_SEARCH_BYTES = 65536
+
+
 def is_generated(file_path: Path) -> bool:
     """Check whether an artifact is safe for the generator to overwrite.
 
@@ -46,7 +53,7 @@ def is_generated(file_path: Path) -> bool:
         return True
 
     with open(file_path, "r", encoding="utf-8") as f:
-        head = f.read(4096)
+        head = f.read(_MARKER_SEARCH_BYTES)
 
     return GENERATED_MARKER in head
 

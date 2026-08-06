@@ -460,7 +460,7 @@ def wiki_rebuild(
 
     try:
         # Rebuild all derived artifacts
-        result = rebuild_derived(wiki, force=overwrite_curated)
+        result = rebuild_derived(wiki, overwrite_curated=overwrite_curated)
 
         entry.outputs = OperationOutputs(
             extra={
