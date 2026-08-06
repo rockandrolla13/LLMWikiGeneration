@@ -60,39 +60,39 @@ Early-release O'Reilly book (First Release 2026-03-25; First Edition March 2027)
 
 ## Main Concepts
 
-- [[concepts/simulation-modeling-executable-computer-representation-of-real-world-systems-|Simulation modeling (executable computer representation of real-world systems)]]
+- Simulation modeling (executable computer representation of real-world systems)
 - [[concepts/monte-carlo-simulation|Monte Carlo simulation]]
 - [[concepts/discrete-event-simulation|Discrete-event simulation]]
 - [[concepts/system-dynamics|System dynamics]]
 - [[concepts/agent-based-modeling|Agent-based modeling]]
-- [[concepts/systems-thinking-stocks-and-flows-feedback-loops-delays-emergence-nonlinearity-|Systems thinking (stocks and flows, feedback loops, delays, emergence, nonlinearity)]]
+- Systems thinking (stocks and flows, feedback loops, delays, emergence, nonlinearity)
 - [[concepts/bullwhip-effect-in-supply-chains|Bullwhip effect in supply chains]]
-- [[concepts/capacity-planning-and-queueing-theory-utilization-wait-times-phase-transitions-|Capacity planning and queueing theory (utilization, wait times, phase transitions)]]
-- [[concepts/competitive-market-dynamics-and-price-elasticity|Competitive market dynamics and price elasticity]]
-- [[concepts/generative-ai-specification-driven-development-for-simulation|Generative AI / specification-driven development for simulation]]
-- [[concepts/probability-distributions-and-statistical-sampling|Probability distributions and statistical sampling]]
+- Capacity planning and queueing theory (utilization, wait times, phase transitions)
+- Competitive market dynamics and price elasticity
+- Generative AI / specification-driven development for simulation
+- Probability distributions and statistical sampling
 - [[concepts/sensitivity-analysis|Sensitivity analysis]]
 - [[concepts/validation-of-simulation-models|Validation of simulation models]]
 - [[concepts/emergent-properties-and-nonlinearity|Emergent properties and nonlinearity]]
 - [[concepts/what-if-scenario-analysis|What-if / scenario analysis]]
-- [[concepts/financial-contagion-case-study-chapter-1-conclusion-|Financial contagion (case study, Chapter 1 conclusion)]]
+- Financial contagion (case study, Chapter 1 conclusion)
 
 ## Key Entities
 
-- [[entities/dan-sullivan-author-|Dan Sullivan (author)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/aaron-black-acquisitions-editor-|Aaron Black (Acquisitions Editor)]]
-- [[entities/jeff-bleiel-development-editor-|Jeff Bleiel (Development Editor)]]
-- [[entities/clare-laylock-production-editor-|Clare Laylock (Production Editor)]]
-- [[entities/karen-montgomery-cover-designer-|Karen Montgomery (Cover Designer)]]
-- [[entities/kate-dullea-interior-illustrator-|Kate Dullea (Interior Illustrator)]]
-- [[entities/david-futato-interior-designer-|David Futato (Interior Designer)]]
-- [[entities/simul8-specialist-simulation-language-mentioned-as-a-traditional-barrier-|Simul8 (specialist simulation language, mentioned as a traditional barrier)]]
-- [[entities/anylogic-specialist-simulation-language-mentioned-as-a-traditional-barrier-|AnyLogic (specialist simulation language, mentioned as a traditional barrier)]]
-- [[entities/python-programming-language-for-simulation-|Python (programming language for simulation)]]
-- [[entities/r-programming-language-for-simulation-|R (programming language for simulation)]]
-- [[entities/sql-comparison-tool-democratised-data-analysis-|SQL (comparison tool — democratised data analysis)]]
-- [[entities/pandas-comparison-tool-standard-data-science-library-|Pandas (comparison tool — standard data-science library)]]
+- Dan Sullivan (author)
+- O'Reilly Media (publisher)
+- Aaron Black (Acquisitions Editor)
+- Jeff Bleiel (Development Editor)
+- Clare Laylock (Production Editor)
+- Karen Montgomery (Cover Designer)
+- Kate Dullea (Interior Illustrator)
+- David Futato (Interior Designer)
+- Simul8 (specialist simulation language, mentioned as a traditional barrier)
+- AnyLogic (specialist simulation language, mentioned as a traditional barrier)
+- Python (programming language for simulation)
+- R (programming language for simulation)
+- SQL (comparison tool — democratised data analysis)
+- Pandas (comparison tool — standard data-science library)
 
 ## Questions Raised
 

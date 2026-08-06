@@ -69,36 +69,36 @@ An Early Release O'Reilly book (first release 2025-08-06, first edition December
 - [[concepts/analytical-data-management|Analytical data management]]
 - [[concepts/financial-data-governance|Financial data governance]]
 - [[concepts/financial-data-modelling|Financial data modelling]]
-- [[concepts/financial-instruments-stocks-bonds-derivatives-funds-|Financial instruments (stocks, bonds, derivatives, funds)]]
+- Financial instruments (stocks, bonds, derivatives, funds)
 - [[concepts/securities-exchanges-and-otc-markets|Securities exchanges and OTC markets]]
 - [[concepts/clearing-and-settlement|Clearing and settlement]]
 - [[concepts/securitisation|Securitisation]]
-- [[concepts/financial-messaging-standards-swift-fix-iso-20022-|Financial messaging standards (SWIFT, FIX, ISO 20022)]]
+- Financial messaging standards (SWIFT, FIX, ISO 20022)
 - [[concepts/financial-data-value-chain|Financial data value chain]]
 - [[concepts/data-generating-mechanisms-in-finance|Data-generating mechanisms in finance]]
 - [[concepts/ai-and-analytics-for-financial-data|AI and analytics for financial data]]
-- [[concepts/3-tier-data-management-operational-reference-analytical-|3-tier data management (operational, reference, analytical)]]
+- 3-tier data management (operational, reference, analytical)
 
 ## Key Entities
 
-- [[entities/tamer-khraisha-author-|Tamer Khraisha (author)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/michelle-smith-acquisitions-editor-|Michelle Smith (acquisitions editor)]]
-- [[entities/jill-leonard-development-editor-|Jill Leonard (development editor)]]
-- [[entities/gregory-hyman-production-editor-|Gregory Hyman (production editor)]]
-- [[entities/new-york-stock-exchange-nyse-|New York Stock Exchange (NYSE)]]
+- Tamer Khraisha (author)
+- O'Reilly Media (publisher)
+- Michelle Smith (acquisitions editor)
+- Jill Leonard (development editor)
+- Gregory Hyman (production editor)
+- New York Stock Exchange (NYSE)
 - [[entities/nasdaq|Nasdaq]]
-- [[entities/london-stock-exchange-lse-|London Stock Exchange (LSE)]]
-- [[entities/chicago-mercantile-exchange-cme-|Chicago Mercantile Exchange (CME)]]
+- London Stock Exchange (LSE)
+- Chicago Mercantile Exchange (CME)
 - [[entities/s-p-500|S&P 500]]
-- [[entities/dow-jones-industrial-average-djia-|Dow Jones Industrial Average (DJIA)]]
-- [[entities/microsoft-example-company-|Microsoft (example company)]]
-- [[entities/google-googl-example-company-|Google/GOOGL (example company)]]
-- [[entities/sec-securities-and-exchange-commission-|SEC (Securities and Exchange Commission)]]
-- [[entities/basel-iii-regulatory-framework-|Basel III (regulatory framework)]]
-- [[entities/swift-messaging-standard-|SWIFT (messaging standard)]]
-- [[entities/fix-messaging-standard-|FIX (messaging standard)]]
-- [[entities/iso-20022-messaging-standard-|ISO 20022 (messaging standard)]]
+- Dow Jones Industrial Average (DJIA)
+- Microsoft (example company)
+- Google/GOOGL (example company)
+- SEC (Securities and Exchange Commission)
+- Basel III (regulatory framework)
+- SWIFT (messaging standard)
+- FIX (messaging standard)
+- ISO 20022 (messaging standard)
 
 ## Questions Raised
 

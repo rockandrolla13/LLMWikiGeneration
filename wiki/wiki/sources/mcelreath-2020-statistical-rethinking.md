@@ -65,41 +65,41 @@ Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed., 
 - [[concepts/bayesian-statistical-inference|Bayesian statistical inference]]
 - [[concepts/posterior-distribution|Posterior distribution]]
 - [[concepts/prior-predictive-simulation|Prior predictive simulation]]
-- [[concepts/quadratic-laplace-approximation-to-the-posterior|Quadratic (Laplace) approximation to the posterior]]
-- [[concepts/markov-chain-monte-carlo-mcmc-|Markov Chain Monte Carlo (MCMC)]]
-- [[concepts/hamiltonian-monte-carlo-hmc-|Hamiltonian Monte Carlo (HMC)]]
-- [[concepts/directed-acyclic-graphs-dags-and-causal-inference|Directed acyclic graphs (DAGs) and causal inference]]
+- Quadratic (Laplace) approximation to the posterior
+- Markov Chain Monte Carlo (MCMC)
+- Hamiltonian Monte Carlo (HMC)
+- Directed acyclic graphs (DAGs) and causal inference
 - [[concepts/spurious-association-and-collider-bias|Spurious association and collider bias]]
-- [[concepts/multilevel-hierarchical-models-varying-effects-|Multilevel / hierarchical models (varying effects)]]
-- [[concepts/generalized-linear-models-glm-and-maximum-entropy-priors|Generalized linear models (GLM) and maximum entropy priors]]
-- [[concepts/regularization-and-overfitting-information-criteria-cross-validation-waic-|Regularization and overfitting (information criteria, cross-validation, WAIC)]]
+- Multilevel / hierarchical models (varying effects)
+- Generalized linear models (GLM) and maximum entropy priors
+- Regularization and overfitting (information criteria, cross-validation, WAIC)
 - [[concepts/gaussian-processes|Gaussian processes]]
 - [[concepts/missing-data-and-measurement-error|Missing data and measurement error]]
 - [[concepts/ordered-categorical-models|Ordered categorical models]]
 - [[concepts/splines|Splines]]
 - [[concepts/ordinary-differential-equation-models|Ordinary differential equation models]]
-- [[concepts/social-relations-model-social-network-|Social relations model (social network)]]
+- Social relations model (social network)
 - [[concepts/phylogenetic-regression|Phylogenetic regression]]
 
 ## Key Entities
 
-- [[entities/richard-mcelreath-author-max-planck-institute-for-evolutionary-anthropology-leipzig-|Richard McElreath (author; Max Planck Institute for Evolutionary Anthropology, Leipzig)]]
-- [[entities/crc-press-chapman-hall-taylor-francis-group-publisher-|CRC Press / Chapman & Hall / Taylor & Francis Group (publisher)]]
-- [[entities/max-planck-institute-for-evolutionary-anthropology-leipzig|Max Planck Institute for Evolutionary Anthropology, Leipzig]]
-- [[entities/bret-beheim-contributor-commented-on-multiple-chapters-|Bret Beheim (contributor, commented on multiple chapters)]]
-- [[entities/aki-vehtari-contributor-commented-on-multiple-chapters-|Aki Vehtari (contributor, commented on multiple chapters)]]
-- [[entities/seamus-heaney-poet-quoted-in-preface-1939-2013-|Seamus Heaney (poet quoted in preface, 1939-2013)]]
-- [[entities/emmanuel-paradis-author-of-r-for-beginners-recommended-resource-|Emmanuel Paradis (author of R for Beginners, recommended resource)]]
-- [[entities/bruce-lee-metaphor-used-in-teaching-philosophy-passage-|Bruce Lee (metaphor used in teaching philosophy passage)]]
-- [[entities/stan-probabilistic-programming-language-core-tool-|Stan (probabilistic programming language, core tool)]]
-- [[entities/r-programming-language-primary-language-of-the-book-|R (programming language, primary language of the book)]]
-- [[entities/rethinking-r-package-custom-package-accompanying-the-book-|rethinking (R package, custom package accompanying the book)]]
-- [[entities/quap-function-in-rethinking-package-for-quadratic-approximation-|quap (function in rethinking package for quadratic approximation)]]
-- [[entities/ulam-function-in-rethinking-package-replacing-map2stan-interfaces-to-stan-|ulam (function in rethinking package replacing map2stan, interfaces to Stan)]]
-- [[entities/brms-r-package-mentioned-as-recommended-post-book-tool-|brms (R package, mentioned as recommended post-book tool)]]
-- [[entities/rstanarm-r-package-mentioned-as-recommended-post-book-tool-|rstanarm (R package, mentioned as recommended post-book tool)]]
-- [[entities/pymc-python-bayesian-library-recommended-alternative-|PyMC (Python Bayesian library, recommended alternative)]]
-- [[entities/julia-programming-language-recommended-alternative-|Julia (programming language, recommended alternative)]]
+- Richard McElreath (author; Max Planck Institute for Evolutionary Anthropology, Leipzig)
+- CRC Press / Chapman & Hall / Taylor & Francis Group (publisher)
+- Max Planck Institute for Evolutionary Anthropology, Leipzig
+- Bret Beheim (contributor, commented on multiple chapters)
+- Aki Vehtari (contributor, commented on multiple chapters)
+- Seamus Heaney (poet quoted in preface, 1939-2013)
+- Emmanuel Paradis (author of R for Beginners, recommended resource)
+- Bruce Lee (metaphor used in teaching philosophy passage)
+- Stan (probabilistic programming language, core tool)
+- R (programming language, primary language of the book)
+- rethinking (R package, custom package accompanying the book)
+- quap (function in rethinking package for quadratic approximation)
+- ulam (function in rethinking package replacing map2stan, interfaces to Stan)
+- brms (R package, mentioned as recommended post-book tool)
+- rstanarm (R package, mentioned as recommended post-book tool)
+- PyMC (Python Bayesian library, recommended alternative)
+- Julia (programming language, recommended alternative)
 
 ## Questions Raised
 

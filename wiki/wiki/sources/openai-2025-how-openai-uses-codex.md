@@ -62,36 +62,36 @@ A 12-page internal guide published by OpenAI in 2025 describing how OpenAI's own
 - [[concepts/agentic-coding-assistant|Agentic coding assistant]]
 - [[concepts/code-understanding-and-codebase-navigation|Code understanding and codebase navigation]]
 - [[concepts/refactoring-and-large-scale-migrations|Refactoring and large-scale migrations]]
-- [[concepts/performance-optimization-and-bottleneck-detection|Performance optimization and bottleneck detection]]
-- [[concepts/automated-test-generation-and-coverage-improvement|Automated test generation and coverage improvement]]
+- Performance optimization and bottleneck detection
+- Automated test generation and coverage improvement
 - [[concepts/development-velocity-and-async-task-delegation|Development velocity and async task delegation]]
 - [[concepts/flow-state-preservation-and-context-handoff|Flow state preservation and context handoff]]
-- [[concepts/exploration-and-ideation-alternative-design-evaluation-|Exploration and ideation (alternative design evaluation)]]
-- [[concepts/ask-mode-vs-code-mode-two-step-prompting-pattern-|Ask Mode vs Code Mode (two-step prompting pattern)]]
+- Exploration and ideation (alternative design evaluation)
+- Ask Mode vs Code Mode (two-step prompting pattern)
 - [[concepts/agents-md-persistent-context-file|AGENTS.md persistent context file]]
 - [[concepts/best-of-n-output-sampling|Best-of-N output sampling]]
 - [[concepts/task-queue-as-lightweight-backlog|Task queue as lightweight backlog]]
-- [[concepts/prompt-engineering-for-code-agents-github-issue-style-|Prompt engineering for code agents (GitHub Issue style)]]
+- Prompt engineering for code agents (GitHub Issue style)
 
 ## Key Entities
 
-- [[entities/openai-organization-author-and-subject-|OpenAI (organization — author and subject)]]
-- [[entities/codex-openai-s-agentic-ai-coding-assistant-|Codex (OpenAI's agentic AI coding assistant)]]
-- [[entities/chatgpt-web-internal-team-product-|ChatGPT Web (internal team/product)]]
-- [[entities/chatgpt-enterprise-internal-team-product-|ChatGPT Enterprise (internal team/product)]]
-- [[entities/chatgpt-desktop-internal-team-product-|ChatGPT Desktop (internal team/product)]]
-- [[entities/chatgpt-api-internal-team-|ChatGPT API (internal team)]]
-- [[entities/api-platform-internal-team-|API Platform (internal team)]]
-- [[entities/infrastructure-services-internal-team-|Infrastructure Services (internal team)]]
-- [[entities/api-reliability-internal-team-|API Reliability (internal team)]]
-- [[entities/model-serving-internal-team-|Model Serving (internal team)]]
-- [[entities/payments-and-billing-internal-team-|Payments and Billing (internal team)]]
-- [[entities/internal-tools-internal-team-|Internal Tools (internal team)]]
-- [[entities/infrastructure-observability-internal-team-|Infrastructure Observability (internal team)]]
-- [[entities/retrieval-systems-internal-team-performance-engineering-|Retrieval Systems (internal team — Performance Engineering)]]
-- [[entities/datadog-third-party-observability-tool-referenced-in-engineer-anecdote-|Datadog (third-party observability tool referenced in engineer anecdote)]]
-- [[entities/terraform-infrastructure-as-code-tool-referenced-in-engineer-anecdote-|Terraform (infrastructure-as-code tool referenced in engineer anecdote)]]
-- [[entities/github-pr-issue-workflow-referenced-in-best-practices-|GitHub (PR/Issue workflow referenced in best practices)]]
+- OpenAI (organization — author and subject)
+- Codex (OpenAI's agentic AI coding assistant)
+- ChatGPT Web (internal team/product)
+- ChatGPT Enterprise (internal team/product)
+- ChatGPT Desktop (internal team/product)
+- ChatGPT API (internal team)
+- API Platform (internal team)
+- Infrastructure Services (internal team)
+- API Reliability (internal team)
+- Model Serving (internal team)
+- Payments and Billing (internal team)
+- Internal Tools (internal team)
+- Infrastructure Observability (internal team)
+- Retrieval Systems (internal team — Performance Engineering)
+- Datadog (third-party observability tool referenced in engineer anecdote)
+- Terraform (infrastructure-as-code tool referenced in engineer anecdote)
+- GitHub (PR/Issue workflow referenced in best practices)
 
 ## Questions Raised
 

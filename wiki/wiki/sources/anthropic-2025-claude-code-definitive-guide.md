@@ -53,19 +53,19 @@ Claude Code: The Definitive Guide to Agentic Development is a book written entir
 
 - [[concepts/agentic-execution-loop|Agentic execution loop]]
 - [[concepts/context-window-management-and-auto-compaction|Context window management and auto-compaction]]
-- [[concepts/four-phase-workflow-(explore-/-plan-/-implement-/-commit)|Four-phase workflow (Explore / Plan / Implement / Commit)]]
-- [[concepts/permission-modes-as-workflow-selectors-(plan-mode,-default,-auto-accept-edits,-full-auto-accept)|Permission modes as workflow selectors (plan mode, default, auto-accept edits, full auto-accept)]]
-- [[concepts/task-classification:-async-(fire-and-forget)-vs.-sync-(supervised)-execution|Task classification: async (fire-and-forget) vs. sync (supervised) execution]]
-- [[concepts/session-strategy-and-claude.md-as-persistent-knowledge-store|Session strategy and CLAUDE.md as persistent knowledge store]]
+- Four-phase workflow (Explore / Plan / Implement / Commit)
+- Permission modes as workflow selectors (plan mode, default, auto-accept edits, full auto-accept)
+- Task classification: async (fire-and-forget) vs. sync (supervised) execution
+- Session strategy and CLAUDE.md as persistent knowledge store
 - [[concepts/one-shot-then-collaborate-escalation-pattern|One-shot-then-collaborate escalation pattern]]
 
 ## Key Entities
 
-- [[entities/anthropic-sole-company-named-creator-of-claude-code-|Anthropic (sole company named; creator of Claude Code)]]
-- [[entities/claude-code-the-agentic-coding-tool-the-book-is-about-|Claude Code (the agentic coding tool the book is about)]]
-- [[entities/vladimir-korostyshevskiy-book-designer-director-wrote-the-about-this-book-note-|Vladimir Korostyshevskiy (book designer/director, wrote the About This Book note)]]
-- [[entities/claude-ai-model-used-to-write-the-book-|Claude (AI model used to write the book)]]
-- [[entities/gemini-and-perplexity-ai-tools-used-for-source-research-during-book-production-mentioned-in-about-this-book-only-|Gemini and Perplexity (AI tools used for source research during book production — mentioned in About This Book only)]]
+- Anthropic (sole company named; creator of Claude Code)
+- Claude Code (the agentic coding tool the book is about)
+- Vladimir Korostyshevskiy (book designer/director, wrote the About This Book note)
+- Claude (AI model used to write the book)
+- Gemini and Perplexity (AI tools used for source research during book production — mentioned in About This Book only)
 
 ## Questions Raised
 

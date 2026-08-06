@@ -69,28 +69,28 @@ Introduction to Machine Learning Systems: Principles and Practices of Engineerin
 - [[concepts/cloud-machine-learning|Cloud Machine Learning]]
 - [[concepts/edge-machine-learning|Edge Machine Learning]]
 - [[concepts/mobile-machine-learning|Mobile Machine Learning]]
-- [[concepts/tiny-machine-learning-tinyml-|Tiny Machine Learning (TinyML)]]
+- Tiny Machine Learning (TinyML)
 - [[concepts/hybrid-machine-learning|Hybrid Machine Learning]]
 - [[concepts/deep-learning-primer|Deep Learning Primer]]
-- [[concepts/dnn-architectures-mlp-cnn-rnn-attention-transformers|DNN Architectures: MLP, CNN, RNN, Attention/Transformers]]
-- [[concepts/ai-workflow-problem-definition-data-collection-model-development-deployment-maintenance-|AI Workflow (problem definition, data collection, model development, deployment, maintenance)]]
+- DNN Architectures: MLP, CNN, RNN, Attention/Transformers
+- AI Workflow (problem definition, data collection, model development, deployment, maintenance)
 - [[concepts/deployment-decision-framework|Deployment Decision Framework]]
-- [[concepts/symbolic-ai-expert-systems-statistical-learning-shallow-learning-deep-learning-eras|Symbolic AI / Expert Systems / Statistical Learning / Shallow Learning / Deep Learning eras]]
+- Symbolic AI / Expert Systems / Statistical Learning / Shallow Learning / Deep Learning eras
 - [[concepts/forward-and-backward-propagation|Forward and Backward Propagation]]
 - [[concepts/loss-functions|Loss Functions]]
-- [[concepts/inference-pipeline-pre-processing-inference-post-processing-|Inference Pipeline (pre-processing, inference, post-processing)]]
-- [[concepts/system-level-building-blocks-computational-primitives-memory-access-primitives-data-movement-primitives|System-level building blocks: computational primitives, memory access primitives, data movement primitives]]
+- Inference Pipeline (pre-processing, inference, post-processing)
+- System-level building blocks: computational primitives, memory access primitives, data movement primitives
 - [[concepts/biological-to-artificial-neurons|Biological to Artificial Neurons]]
 - [[concepts/ai-ethics-and-societal-impact|AI Ethics and Societal Impact]]
 
 ## Key Entities
 
-- [[entities/vijay-janapa-reddi-author-harvard-seas-professor-|Vijay Janapa Reddi (author, Harvard SEAS Professor)]]
-- [[entities/harvard-university-school-of-engineering-and-applied-sciences|Harvard University School of Engineering and Applied Sciences]]
-- [[entities/socratiq-ai-ai-learning-companion-feature-|SocratiQ AI (AI learning companion feature)]]
-- [[entities/farmbeats-microsoft-agricultural-ml-project-used-as-case-study-|FarmBeats (Microsoft agricultural ML project, used as case study)]]
-- [[entities/alphafold-deepmind-scientific-ml-used-as-case-study-|AlphaFold (DeepMind scientific ML, used as case study)]]
-- [[entities/usps-postal-service-dl-case-study-|USPS Postal Service (DL case study)]]
+- Vijay Janapa Reddi (author, Harvard SEAS Professor)
+- Harvard University School of Engineering and Applied Sciences
+- SocratiQ AI (AI learning companion feature)
+- FarmBeats (Microsoft agricultural ML project, used as case study)
+- AlphaFold (DeepMind scientific ML, used as case study)
+- USPS Postal Service (DL case study)
 
 ## Questions Raised
 

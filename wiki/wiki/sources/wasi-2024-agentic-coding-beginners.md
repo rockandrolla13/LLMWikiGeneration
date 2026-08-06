@@ -50,26 +50,26 @@ Agentic Coding for Beginners (Wasi, published on Leanpub, version dated 2025-11-
 
 ## Main Concepts
 
-- [[concepts/agentic-coding-(intent-interpretation-generation-validation-loop)|Agentic coding (intent-interpretation-generation-validation loop)]]
+- Agentic coding (intent-interpretation-generation-validation loop)
 - [[concepts/prompt-engineering-for-agentic-tasks|Prompt engineering for agentic tasks]]
-- [[concepts/retrieval-augmented-generation-(rag)-and-memory-management|Retrieval-Augmented Generation (RAG) and memory management]]
-- [[concepts/multi-agent-system-design-(single-agent-vs.-multi-agent-architectures)|Multi-agent system design (single-agent vs. multi-agent architectures)]]
-- [[concepts/human-in-the-loop-(hitl)-governance-and-adversarial-safety|Human-in-the-Loop (HITL) governance and adversarial safety]]
+- Retrieval-Augmented Generation (RAG) and memory management
+- Multi-agent system design (single-agent vs. multi-agent architectures)
+- Human-in-the-Loop (HITL) governance and adversarial safety
 - [[concepts/task-decomposition-and-hierarchical-planning|Task decomposition and hierarchical planning]]
-- [[concepts/context-aware-coding-and-context-window-management|Context-aware coding and context window management]]
+- Context-aware coding and context window management
 
 ## Key Entities
 
-- [[entities/wasi-author-|Wasi (author)]]
-- [[entities/leanpub-publisher-platform-|Leanpub (publisher platform)]]
+- Wasi (author)
+- Leanpub (publisher platform)
 - [[entities/github-copilot|GitHub Copilot]]
-- [[entities/chatgpt-openai-|ChatGPT (OpenAI)]]
-- [[entities/cursor-ai-code-editor-|Cursor (AI code editor)]]
-- [[entities/vs-code-microsoft-|VS Code (Microsoft)]]
+- ChatGPT (OpenAI)
+- Cursor (AI code editor)
+- VS Code (Microsoft)
 - [[entities/langchain|LangChain]]
 - [[entities/crewai|CrewAI]]
-- [[entities/autogen-microsoft-|AutoGen (Microsoft)]]
-- [[entities/aaron-swartz-dedication-|Aaron Swartz (dedication)]]
+- AutoGen (Microsoft)
+- Aaron Swartz (dedication)
 
 ## Questions Raised
 

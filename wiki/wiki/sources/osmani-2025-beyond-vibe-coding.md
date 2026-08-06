@@ -50,25 +50,25 @@ Beyond Vibe Coding: From Coder to AI-Era Developer (O'Reilly, August 2025) by Ad
 
 ## Main Concepts
 
-- [[concepts/vibe-coding-(prompt-first,-conversational-ai-driven-development)|Vibe coding (prompt-first, conversational AI-driven development)]]
-- [[concepts/ai-assisted-engineering-(plan-first,-structured-ai-across-the-sdlc)|AI-assisted engineering (plan-first, structured AI across the SDLC)]]
-- [[concepts/the-knowledge-paradox-(ai-amplifies-experienced-developers-more-than-beginners)|The knowledge paradox (AI amplifies experienced developers more than beginners)]]
-- [[concepts/developer-role-transformation:-from-code-artisan-to-product-orchestrator|Developer role transformation: from code artisan to product orchestrator]]
-- [[concepts/technical-debt-and-code-quality-risks-in-ai-generated-codebases|Technical debt and code quality risks in AI-generated codebases]]
-- [[concepts/prompt-engineering-and-iterative-refinement-workflows|Prompt engineering and iterative refinement workflows]]
+- Vibe coding (prompt-first, conversational AI-driven development)
+- AI-assisted engineering (plan-first, structured AI across the SDLC)
+- The knowledge paradox (AI amplifies experienced developers more than beginners)
+- Developer role transformation: from code artisan to product orchestrator
+- Technical debt and code quality risks in AI-generated codebases
+- Prompt engineering and iterative refinement workflows
 
 ## Key Entities
 
-- [[entities/addy-osmani-author-google-chrome-engineering-lead-|Addy Osmani (author, Google Chrome engineering lead)]]
-- [[entities/andrej-karpathy-ai-pioneer-who-coined-vibe-coding-|Andrej Karpathy (AI pioneer who coined 'vibe coding')]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/anthropic-claude-ai-model-cited-as-primary-coding-assistant-|Anthropic Claude (AI model cited as primary coding assistant)]]
-- [[entities/cursor-and-windsurf-ai-augmented-ides-named-explicitly-|Cursor and Windsurf (AI-augmented IDEs named explicitly)]]
-- [[entities/openai-codex-chatgpt-named-|OpenAI (Codex, ChatGPT named)]]
-- [[entities/google-gemini-named-as-integrated-model-|Google Gemini (named as integrated model)]]
-- [[entities/github-copilot-named-as-ai-autocompletion-tool-|GitHub Copilot (named as AI autocompletion tool)]]
-- [[entities/replit-ai-coding-environment-cited-in-example-|Replit (AI coding environment cited in example)]]
-- [[entities/jensen-huang-nvidia-quoted-on-english-as-the-new-programming-language-|Jensen Huang / NVIDIA (quoted on English as the new programming language)]]
+- Addy Osmani (author, Google Chrome engineering lead)
+- Andrej Karpathy (AI pioneer who coined 'vibe coding')
+- O'Reilly Media (publisher)
+- Anthropic Claude (AI model cited as primary coding assistant)
+- Cursor and Windsurf (AI-augmented IDEs named explicitly)
+- OpenAI (Codex, ChatGPT named)
+- Google Gemini (named as integrated model)
+- GitHub Copilot (named as AI autocompletion tool)
+- Replit (AI coding environment cited in example)
+- Jensen Huang / NVIDIA (quoted on English as the new programming language)
 
 ## Questions Raised
 

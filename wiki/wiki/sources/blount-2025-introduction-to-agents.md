@@ -69,42 +69,42 @@ Introduction to Agents (November 2025) is the first installment in a five-part s
 ## Main Concepts
 
 - [[concepts/ai-agents|AI Agents]]
-- [[concepts/agent-architecture-model-tools-orchestration-layer-deployment-|Agent Architecture (Model / Tools / Orchestration Layer / Deployment)]]
-- [[concepts/agentic-problem-solving-process-5-step-loop-mission-scene-think-act-observe-|Agentic Problem-Solving Process (5-step loop: Mission, Scene, Think, Act, Observe)]]
-- [[concepts/taxonomy-of-agentic-systems-levels-0-4-|Taxonomy of Agentic Systems (Levels 0–4)]]
-- [[concepts/context-engineering-context-window-curation-|Context Engineering (context window curation)]]
+- Agent Architecture (Model / Tools / Orchestration Layer / Deployment)
+- Agentic Problem-Solving Process (5-step loop: Mission, Scene, Think, Act, Observe)
+- Taxonomy of Agentic Systems (Levels 0–4)
+- Context Engineering (context window curation)
 - [[concepts/function-calling|Function Calling]]
-- [[concepts/retrieval-augmented-generation-rag-|Retrieval-Augmented Generation (RAG)]]
+- Retrieval-Augmented Generation (RAG)
 - [[concepts/chain-of-thought-reasoning|Chain of Thought reasoning]]
 - [[concepts/react-reasoning-framework|ReAct reasoning framework]]
 - [[concepts/multi-agent-systems-and-design-patterns|Multi-Agent Systems and Design Patterns]]
-- [[concepts/agent-ops-evaluation-debugging-monitoring-|Agent Ops (evaluation, debugging, monitoring)]]
-- [[concepts/lm-judge-quality-evaluation-|LM Judge (quality evaluation)]]
+- Agent Ops (evaluation, debugging, monitoring)
+- LM Judge (quality evaluation)
 - [[concepts/opentelemetry-tracing|OpenTelemetry tracing]]
-- [[concepts/agent-interoperability-a2a-api-agents-and-humans-agents-and-money-|Agent Interoperability (A2A API, Agents and Humans, Agents and Money)]]
+- Agent Interoperability (A2A API, Agents and Humans, Agents and Money)
 - [[concepts/agent-identity-and-security|Agent Identity and Security]]
 - [[concepts/agent-governance-and-fleet-management|Agent Governance and Fleet Management]]
 - [[concepts/self-evolving-systems-and-agent-gym-simulation|Self-Evolving Systems and Agent Gym / Simulation]]
-- [[concepts/grounding-in-reality-real-time-information-retrieval-|Grounding in Reality (real-time information retrieval)]]
+- Grounding in Reality (real-time information retrieval)
 
 ## Key Entities
 
-- [[entities/alan-blount-author-|Alan Blount (author)]]
-- [[entities/antonio-gulli-author-|Antonio Gulli (author)]]
-- [[entities/shubham-saboo-author-|Shubham Saboo (author)]]
-- [[entities/michael-zimmermann-author-|Michael Zimmermann (author)]]
-- [[entities/vladimir-vuskovic-author-|Vladimir Vuskovic (author)]]
-- [[entities/anant-nawalgaria-content-contributor-and-curator-|Anant Nawalgaria (content contributor and curator)]]
-- [[entities/kanchana-patlolla-content-contributor-and-curator-|Kanchana Patlolla (content contributor and curator)]]
-- [[entities/enrique-chan-content-contributor-|Enrique Chan (content contributor)]]
-- [[entities/mike-clark-content-contributor-|Mike Clark (content contributor)]]
-- [[entities/derek-egan-content-contributor-|Derek Egan (content contributor)]]
-- [[entities/julia-wiesinger-content-contributor-|Julia Wiesinger (content contributor)]]
-- [[entities/michael-lanning-designer-|Michael Lanning (designer)]]
-- [[entities/google-implied-organizational-affiliation-authors-reference-google-co-scientist-alphaevolve-adk-agent-development-kit-and-gemini-ecosystem-|Google (implied organizational affiliation — authors reference Google Co-Scientist, AlphaEvolve, ADK/Agent Development Kit, and Gemini ecosystem)]]
-- [[entities/google-co-scientist-advanced-agent-example-|Google Co-Scientist (advanced agent example)]]
-- [[entities/alphaevolve-agent-advanced-agent-example-|AlphaEvolve Agent (advanced agent example)]]
-- [[entities/adk-agent-development-kit-referenced-as-securing-an-adk-agent-|ADK — Agent Development Kit (referenced as 'Securing an ADK Agent')]]
+- Alan Blount (author)
+- Antonio Gulli (author)
+- Shubham Saboo (author)
+- Michael Zimmermann (author)
+- Vladimir Vuskovic (author)
+- Anant Nawalgaria (content contributor and curator)
+- Kanchana Patlolla (content contributor and curator)
+- Enrique Chan (content contributor)
+- Mike Clark (content contributor)
+- Derek Egan (content contributor)
+- Julia Wiesinger (content contributor)
+- Michael Lanning (designer)
+- Google (implied organizational affiliation — authors reference Google Co-Scientist, AlphaEvolve, ADK/Agent Development Kit, and Gemini ecosystem)
+- Google Co-Scientist (advanced agent example)
+- AlphaEvolve Agent (advanced agent example)
+- ADK — Agent Development Kit (referenced as 'Securing an ADK Agent')
 
 ## Questions Raised
 

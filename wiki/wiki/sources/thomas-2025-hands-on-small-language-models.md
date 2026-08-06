@@ -61,14 +61,14 @@ Early-release O'Reilly book (first release 2026-01-21, first edition January 202
 
 ## Main Concepts
 
-- [[concepts/small-language-models-slms-|Small Language Models (SLMs)]]
+- Small Language Models (SLMs)
 - [[concepts/agentic-applications|Agentic applications]]
-- [[concepts/model-context-protocol-mcp-|Model Context Protocol (MCP)]]
-- [[concepts/retrieval-augmented-generation-rag-|Retrieval Augmented Generation (RAG)]]
+- Model Context Protocol (MCP)
+- Retrieval Augmented Generation (RAG)
 - [[concepts/ollama-for-local-model-serving|Ollama for local model serving]]
 - [[concepts/litellm-as-a-model-abstraction-layer|LiteLLM as a model abstraction layer]]
 - [[concepts/wikidata-rdf-sparql|Wikidata / RDF / SPARQL]]
-- [[concepts/python-data-science-stack-numpy-scipy-pandas-matplotlib-scikit-learn-jupyter-|Python Data Science Stack (NumPy, SciPy, pandas, Matplotlib, scikit-learn, Jupyter)]]
+- Python Data Science Stack (NumPy, SciPy, pandas, Matplotlib, scikit-learn, Jupyter)
 - [[concepts/knowledge-graphs|Knowledge graphs]]
 - [[concepts/containerisation-with-docker|Containerisation with Docker]]
 - [[concepts/openrouter-as-a-hosted-model-gateway|OpenRouter as a hosted model gateway]]
@@ -76,20 +76,20 @@ Early-release O'Reilly book (first release 2026-01-21, first edition January 202
 
 ## Key Entities
 
-- [[entities/alexander-n-thomas-author-|Alexander N. Thomas (author)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/nicole-butterfield-acquisitions-editor-|Nicole Butterfield (acquisitions editor)]]
-- [[entities/michele-cronin-development-editor-|Michele Cronin (development editor)]]
-- [[entities/anthropic-creator-of-mcp-|Anthropic (creator of MCP)]]
-- [[entities/ollama-local-model-serving-framework-|Ollama (local model serving framework)]]
-- [[entities/litellm-multi-provider-llm-abstraction-library-|LiteLLM (multi-provider LLM abstraction library)]]
-- [[entities/librechat-open-source-chat-application-|LibreChat (open-source chat application)]]
-- [[entities/openrouter-hosted-multi-model-api-gateway-|OpenRouter (hosted multi-model API gateway)]]
-- [[entities/huggingface-model-and-dataset-platform-|HuggingFace (model and dataset platform)]]
-- [[entities/kaggle-ml-competition-and-dataset-platform-|Kaggle (ML competition and dataset platform)]]
-- [[entities/wikimedia-foundation-wikipedia-and-wikidata-|Wikimedia Foundation (Wikipedia and Wikidata)]]
-- [[entities/anaconda-miniconda-python-package-manager-|Anaconda / Miniconda (Python package manager)]]
-- [[entities/docker-containerisation-platform-|Docker (containerisation platform)]]
+- Alexander N. Thomas (author)
+- O'Reilly Media (publisher)
+- Nicole Butterfield (acquisitions editor)
+- Michele Cronin (development editor)
+- Anthropic (creator of MCP)
+- Ollama (local model serving framework)
+- LiteLLM (multi-provider LLM abstraction library)
+- LibreChat (open-source chat application)
+- OpenRouter (hosted multi-model API gateway)
+- HuggingFace (model and dataset platform)
+- Kaggle (ML competition and dataset platform)
+- Wikimedia Foundation (Wikipedia and Wikidata)
+- Anaconda / Miniconda (Python package manager)
+- Docker (containerisation platform)
 
 ## Questions Raised
 

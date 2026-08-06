@@ -62,54 +62,54 @@ Financial Data Engineering: Design and Build Data-Driven Financial Products (O'R
 
 ## Main Concepts
 
-- [[concepts/financial-data-engineering-domain-driven-specialization-|Financial data engineering (domain-driven specialization)]]
-- [[concepts/financial-data-ecosystem-structure-and-characteristics|Financial data ecosystem structure and characteristics]]
+- Financial data engineering (domain-driven specialization)
+- Financial data ecosystem structure and characteristics
 - [[concepts/financial-identification-and-entity-systems|Financial identification and entity systems]]
-- [[concepts/data-governance-frameworks-for-financial-institutions|Data governance frameworks for financial institutions]]
+- Data governance frameworks for financial institutions
 - [[concepts/data-storage-models-and-database-selection|Data storage models and database selection]]
 - [[concepts/data-modeling-for-financial-data|Data modeling for financial data]]
 - [[concepts/data-workflows-and-pipeline-orchestration|Data workflows and pipeline orchestration]]
 - [[concepts/data-ingestion-mechanisms|Data ingestion mechanisms]]
 - [[concepts/data-transformation|Data transformation]]
 - [[concepts/big-data-and-cloud-computing-in-finance|Big data and cloud computing in finance]]
-- [[concepts/regulatory-compliance-and-financial-data-management|Regulatory compliance and financial data management]]
+- Regulatory compliance and financial data management
 - [[concepts/tokenization-in-financial-data|Tokenization in financial data]]
-- [[concepts/machine-learning-and-generative-ai-in-financial-context|Machine learning and generative AI in financial context]]
+- Machine learning and generative AI in financial context
 - [[concepts/data-quality-and-data-integrity-frameworks|Data quality and data integrity frameworks]]
 - [[concepts/sql-and-data-warehousing-history|SQL and data warehousing history]]
 
 ## Key Entities
 
-- [[entities/tamer-khraisha-author-background-in-financial-economics-network-science-fintech-|Tamer Khraisha (author; background in financial economics, network science, fintech)]]
-- [[entities/martijn-groot-foreword-author-financial-data-management-expert-author-of-managing-financial-information-in-the-trade-lifecycle-elsevier-2008-and-a-primer-in-financial-data-management-elsevier-2017-|Martijn Groot (foreword author; Financial Data Management expert; author of Managing Financial Information in the Trade Lifecycle, Elsevier 2008, and A Primer in Financial Data Management, Elsevier 2017)]]
-- [[entities/brian-buzzelli-afterword-author-head-of-data-practice-meradia-|Brian Buzzelli (afterword author; Head of Data Practice, Meradia)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/mckinsey-global-institute-cited-for-2011-banking-data-report-|McKinsey Global Institute (cited for 2011 banking data report)]]
-- [[entities/jpmorgan-chase-data-volume-example-450-petabytes-|JPMorgan Chase (data volume example: 450+ petabytes)]]
-- [[entities/bank-of-new-york-mellon-data-volume-example-110m-gigabytes-|Bank of New York Mellon (data volume example: 110M+ gigabytes)]]
-- [[entities/apache-hadoop-big-data-era-reference-point-2005-|Apache Hadoop (big data era reference point, ~2005)]]
-- [[entities/ibm-and-oracle-early-sql-data-warehousing-pioneers-1970s-1980s-|IBM and Oracle (early SQL/data warehousing pioneers, 1970s–1980s)]]
-- [[entities/bloomberg-data-vendor-example-|Bloomberg (data vendor example)]]
-- [[entities/london-stock-exchange-group-lseg-data-vendor-example-|London Stock Exchange Group / LSEG (data vendor example)]]
-- [[entities/nyse-london-stock-exchange-chicago-mercantile-exchange-security-exchanges-|NYSE, London Stock Exchange, Chicago Mercantile Exchange (security exchanges)]]
-- [[entities/federal-reserve-european-central-bank-central-banks-|Federal Reserve, European Central Bank (central banks)]]
-- [[entities/securities-and-exchange-commission-regulator-|Securities and Exchange Commission (regulator)]]
-- [[entities/blackrock-vanguard-group-asset-managers-|BlackRock, Vanguard Group (asset managers)]]
-- [[entities/citadel-renaissance-technologies-hedge-funds-|Citadel, Renaissance Technologies (hedge funds)]]
-- [[entities/revolut-wise-betterment-fintech-companies-|Revolut, Wise, Betterment (FinTech companies)]]
-- [[entities/amazon-google-apple-big-tech-in-finance-|Amazon, Google, Apple (big tech in finance)]]
-- [[entities/morgan-stanley-goldman-sachs-investment-banks-|Morgan Stanley, Goldman Sachs (investment banks)]]
-- [[entities/s-p-global-ratings-moody-s-credit-rating-agencies-|S&P Global Ratings, Moody's (credit rating agencies)]]
-- [[entities/fannie-mae-freddie-mac-government-sponsored-enterprises-|Fannie Mae, Freddie Mac (government-sponsored enterprises)]]
-- [[entities/linkedin-netflix-google-meta-airbnb-open-source-data-framework-contributors-|LinkedIn, Netflix, Google, Meta, Airbnb (open-source data framework contributors)]]
-- [[entities/shivani-gole-technical-reviewer-data-engineer-mckinsey-|Shivani Gole (technical reviewer; Data Engineer, McKinsey)]]
-- [[entities/pankaj-gupta-technical-reviewer-manager-data-engineering-discover-financial-services-|Pankaj Gupta (technical reviewer; Manager Data Engineering, Discover Financial Services)]]
-- [[entities/aakash-atul-alurkar-technical-reviewer-senior-pm-financial-services-zoom-|Aakash Atul Alurkar (technical reviewer; Senior PM Financial Services, Zoom)]]
-- [[entities/ganesh-harke-technical-reviewer-tech-lead-citibank-n-a-|Ganesh Harke (technical reviewer; Tech Lead, Citibank N.A.)]]
-- [[entities/abdullah-karasan-technical-reviewer-founder-leveragai-adjunct-faculty-umbc-|Abdullah Karasan (technical reviewer; Founder, Leveragai; Adjunct Faculty, UMBC)]]
-- [[entities/johnnie-jones-technical-reviewer-director-of-data-engineering-boeing-employee-credit-union-becu-|Johnnie Jones (technical reviewer; Director of Data Engineering, Boeing Employee Credit Union BECU)]]
-- [[entities/vipul-bharat-marlecha-technical-reviewer-senior-data-engineer-netflix-|Vipul Bharat Marlecha (technical reviewer; Senior Data Engineer, Netflix)]]
-- [[entities/rosario-nunzio-mantegna-acknowledged-contributor-|Rosario Nunzio Mantegna (acknowledged contributor)]]
+- Tamer Khraisha (author; background in financial economics, network science, fintech)
+- Martijn Groot (foreword author; Financial Data Management expert; author of Managing Financial Information in the Trade Lifecycle, Elsevier 2008, and A Primer in Financial Data Management, Elsevier 2017)
+- Brian Buzzelli (afterword author; Head of Data Practice, Meradia)
+- O'Reilly Media (publisher)
+- McKinsey Global Institute (cited for 2011 banking data report)
+- JPMorgan Chase (data volume example: 450+ petabytes)
+- Bank of New York Mellon (data volume example: 110M+ gigabytes)
+- Apache Hadoop (big data era reference point, ~2005)
+- IBM and Oracle (early SQL/data warehousing pioneers, 1970s–1980s)
+- Bloomberg (data vendor example)
+- London Stock Exchange Group / LSEG (data vendor example)
+- NYSE, London Stock Exchange, Chicago Mercantile Exchange (security exchanges)
+- Federal Reserve, European Central Bank (central banks)
+- Securities and Exchange Commission (regulator)
+- BlackRock, Vanguard Group (asset managers)
+- Citadel, Renaissance Technologies (hedge funds)
+- Revolut, Wise, Betterment (FinTech companies)
+- Amazon, Google, Apple (big tech in finance)
+- Morgan Stanley, Goldman Sachs (investment banks)
+- S&P Global Ratings, Moody's (credit rating agencies)
+- Fannie Mae, Freddie Mac (government-sponsored enterprises)
+- LinkedIn, Netflix, Google, Meta, Airbnb (open-source data framework contributors)
+- Shivani Gole (technical reviewer; Data Engineer, McKinsey)
+- Pankaj Gupta (technical reviewer; Manager Data Engineering, Discover Financial Services)
+- Aakash Atul Alurkar (technical reviewer; Senior PM Financial Services, Zoom)
+- Ganesh Harke (technical reviewer; Tech Lead, Citibank N.A.)
+- Abdullah Karasan (technical reviewer; Founder, Leveragai; Adjunct Faculty, UMBC)
+- Johnnie Jones (technical reviewer; Director of Data Engineering, Boeing Employee Credit Union BECU)
+- Vipul Bharat Marlecha (technical reviewer; Senior Data Engineer, Netflix)
+- Rosario Nunzio Mantegna (acknowledged contributor)
 
 ## Questions Raised
 

@@ -71,57 +71,57 @@ Mathematical Engineering of Deep Learning (Chapman & Hall/CRC, 2025; preface dat
 
 ## Main Concepts
 
-- [[concepts/supervised-and-unsupervised-learning-principles|Supervised and unsupervised learning principles]]
-- [[concepts/linear-models-and-iterative-optimization-based-learning|Linear models and iterative optimization-based learning]]
-- [[concepts/gradient-descent-and-first-order-optimization-methods|Gradient descent and first-order optimization methods]]
+- Supervised and unsupervised learning principles
+- Linear models and iterative optimization-based learning
+- Gradient descent and first-order optimization methods
 - [[concepts/adam-adaptive-optimization-algorithm|ADAM adaptive optimization algorithm]]
 - [[concepts/automatic-differentiation|Automatic differentiation]]
 - [[concepts/second-order-optimization-methods|Second-order optimization methods]]
-- [[concepts/logistic-regression-as-a-shallow-neural-network|Logistic regression as a shallow neural network]]
-- [[concepts/softmax-multinomial-regression-for-multi-class-classification|Softmax / multinomial regression for multi-class classification]]
+- Logistic regression as a shallow neural network
+- Softmax / multinomial regression for multi-class classification
 - [[concepts/cross-entropy-loss|Cross-entropy loss]]
-- [[concepts/autoencoders-shallow-and-variational-|Autoencoders (shallow and variational)]]
+- Autoencoders (shallow and variational)
 - [[concepts/backpropagation-algorithm|Backpropagation algorithm]]
 - [[concepts/weight-initialization|Weight initialization]]
 - [[concepts/batch-normalization|Batch normalization]]
 - [[concepts/dropout-and-regularization|Dropout and regularization]]
-- [[concepts/fully-connected-feedforward-deep-neural-networks-mlp-|Fully connected / feedforward deep neural networks (MLP)]]
+- Fully connected / feedforward deep neural networks (MLP)
 - [[concepts/expressive-power-universal-approximation|Expressive power / universal approximation]]
 - [[concepts/activation-functions|Activation functions]]
 - [[concepts/convolution-operation|Convolution operation]]
-- [[concepts/convolutional-neural-networks-cnns-|Convolutional neural networks (CNNs)]]
-- [[concepts/inception-resnets-and-landmark-cnn-architectures|Inception, ResNets, and landmark CNN architectures]]
+- Convolutional neural networks (CNNs)
+- Inception, ResNets, and landmark CNN architectures
 - [[concepts/object-localization-and-face-identification|Object localization and face identification]]
-- [[concepts/recurrent-neural-networks-rnns-|Recurrent neural networks (RNNs)]]
-- [[concepts/long-short-term-memory-lstm-|Long short-term memory (LSTM)]]
-- [[concepts/gated-recurrent-units-gru-|Gated recurrent units (GRU)]]
+- Recurrent neural networks (RNNs)
+- Long short-term memory (LSTM)
+- Gated recurrent units (GRU)
 - [[concepts/encoder-decoder-architectures|Encoder-decoder architectures]]
 - [[concepts/attention-mechanism|Attention mechanism]]
 - [[concepts/transformer-architecture|Transformer architecture]]
 - [[concepts/generative-modeling-principles|Generative modeling principles]]
-- [[concepts/variational-autoencoders-vae-|Variational autoencoders (VAE)]]
-- [[concepts/diffusion-models-as-hierarchical-vaes-|Diffusion models (as hierarchical VAEs)]]
-- [[concepts/generative-adversarial-networks-gans-|Generative adversarial networks (GANs)]]
-- [[concepts/reinforcement-learning-and-markov-decision-processes|Reinforcement learning and Markov decision processes]]
+- Variational autoencoders (VAE)
+- Diffusion models (as hierarchical VAEs)
+- Generative adversarial networks (GANs)
+- Reinforcement learning and Markov decision processes
 - [[concepts/graph-neural-networks|Graph neural networks]]
 - [[concepts/k-means-clustering|K-means clustering]]
-- [[concepts/principal-component-analysis-pca-|Principal component analysis (PCA)]]
-- [[concepts/singular-value-decomposition-svd-|Singular value decomposition (SVD)]]
-- [[concepts/multivariable-calculus-gradients-chain-rule-taylor-s-theorem-|Multivariable calculus (gradients, chain rule, Taylor's theorem)]]
-- [[concepts/cross-entropy-kl-divergence-and-information-theoretic-expectations|Cross-entropy, KL divergence, and information-theoretic expectations]]
+- Principal component analysis (PCA)
+- Singular value decomposition (SVD)
+- Multivariable calculus (gradients, chain rule, Taylor's theorem)
+- Cross-entropy, KL divergence, and information-theoretic expectations
 - [[concepts/multivariate-normal-distribution-computations|Multivariate normal distribution computations]]
 
 ## Key Entities
 
-- [[entities/benoit-liquet-author-|Benoit Liquet (author)]]
-- [[entities/sarat-moka-author-|Sarat Moka (author)]]
-- [[entities/yoni-nazarathy-author-|Yoni Nazarathy (author)]]
-- [[entities/chapman-hall-crc-press-publisher-|Chapman & Hall / CRC Press (publisher)]]
-- [[entities/taylor-francis-group-parent-publisher-|Taylor & Francis Group (parent publisher)]]
-- [[entities/amsi-australian-mathematical-sciences-institute-origin-of-the-2021-summer-school-course|AMSI (Australian Mathematical Sciences Institute) — origin of the 2021 summer school course]]
-- [[entities/deeplearningmath-org-companion-website-|deeplearningmath.org (companion website)]]
-- [[entities/imagenet-dataset-mentioned-as-key-example-|ImageNet (dataset mentioned as key example)]]
-- [[entities/mnist-digits-dataset-mentioned-as-key-example-|MNIST digits (dataset mentioned as key example)]]
+- Benoit Liquet (author)
+- Sarat Moka (author)
+- Yoni Nazarathy (author)
+- Chapman & Hall / CRC Press (publisher)
+- Taylor & Francis Group (parent publisher)
+- AMSI (Australian Mathematical Sciences Institute) — origin of the 2021 summer school course
+- deeplearningmath.org (companion website)
+- ImageNet (dataset mentioned as key example)
+- MNIST digits (dataset mentioned as key example)
 
 ## Questions Raised
 

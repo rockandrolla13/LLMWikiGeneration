@@ -51,22 +51,22 @@ Building Modern Data Applications Using Databricks Lakehouse (Packt, October 202
 ## Main Concepts
 
 - [[concepts/delta-live-tables-(dlt)-framework|Delta Live Tables (DLT) framework]]
-- [[concepts/lakehouse-architecture-and-medallion-architecture-(bronze/silver/gold)|Lakehouse architecture and medallion architecture (bronze/silver/gold)]]
+- Lakehouse architecture and medallion architecture (bronze/silver/gold)
 - [[concepts/delta-lake-format|Delta Lake format]]
-- [[concepts/unity-catalog-(data-governance,-lineage,-access-control)|Unity Catalog (data governance, lineage, access control)]]
-- [[concepts/ci/cd-for-data-pipelines-(terraform,-databricks-asset-bundles)|CI/CD for data pipelines (Terraform, Databricks Asset Bundles)]]
+- Unity Catalog (data governance, lineage, access control)
+- CI/CD for data pipelines (Terraform, Databricks Asset Bundles)
 - [[concepts/auto-loader-and-real-time-data-ingestion|Auto Loader and real-time data ingestion]]
 - [[concepts/data-quality-monitoring-with-expectations|Data quality monitoring with Expectations]]
 
 ## Key Entities
 
-- [[entities/will-girten-author-lead-specialist-solutions-architect-at-databricks-|Will Girten (author, lead specialist solutions architect at Databricks)]]
-- [[entities/databricks-platform-provider-|Databricks (platform provider)]]
-- [[entities/packt-publishing-publisher-|Packt Publishing (publisher)]]
-- [[entities/apache-spark-underlying-processing-engine-|Apache Spark (underlying processing engine)]]
-- [[entities/apache-hadoop-historical-big-data-engine-mentioned-in-evolution-narrative-|Apache Hadoop (historical big data engine mentioned in evolution narrative)]]
-- [[entities/mlflow-open-source-component-of-databricks-platform-|MLflow (open source component of Databricks platform)]]
-- [[entities/gartner-cited-for-2024-magic-quadrant-recognition-of-databricks-|Gartner (cited for 2024 Magic Quadrant recognition of Databricks)]]
+- Will Girten (author, lead specialist solutions architect at Databricks)
+- Databricks (platform provider)
+- Packt Publishing (publisher)
+- Apache Spark (underlying processing engine)
+- Apache Hadoop (historical big data engine mentioned in evolution narrative)
+- MLflow (open source component of Databricks platform)
+- Gartner (cited for 2024 Magic Quadrant recognition of Databricks)
 
 ## Questions Raised
 

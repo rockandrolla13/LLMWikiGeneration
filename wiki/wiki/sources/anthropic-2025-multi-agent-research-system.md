@@ -66,7 +66,7 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 ## Main Concepts
 
 - [[concepts/multi-agent-system|Multi-agent system]]
-- [[concepts/orchestrator-worker-lead-agent-subagent-pattern|Orchestrator-worker (lead agent / subagent) pattern]]
+- Orchestrator-worker (lead agent / subagent) pattern
 - [[concepts/parallel-subagent-spawning|Parallel subagent spawning]]
 - [[concepts/interleaved-extended-thinking|Interleaved / extended thinking]]
 - [[concepts/prompt-engineering-for-agents|Prompt engineering for agents]]
@@ -77,15 +77,15 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 - [[concepts/token-budget-and-context-window-management|Token budget and context window management]]
 - [[concepts/rainbow-deployments|Rainbow deployments]]
 - [[concepts/end-state-evaluation|End-state evaluation]]
-- [[concepts/long-horizon-conversation-and-context-compression|Long-horizon conversation and context compression]]
+- Long-horizon conversation and context compression
 - [[concepts/subagent-artifact-filesystem-output-pattern|Subagent artifact / filesystem output pattern]]
-- [[concepts/observability-and-production-tracing-for-agents|Observability and production tracing for agents]]
-- [[concepts/breadth-first-vs-depth-first-research-strategies|Breadth-first vs. depth-first research strategies]]
+- Observability and production tracing for agents
+- Breadth-first vs. depth-first research strategies
 
 ## Key Entities
 
 - [[entities/anthropic|Anthropic]]
-- [[entities/claude-ai-assistant-|Claude (AI assistant)]]
+- Claude (AI assistant)
 - [[entities/claude-opus-4|Claude Opus 4]]
 - [[entities/claude-sonnet-4|Claude Sonnet 4]]
 - [[entities/claude-sonnet-3-7|Claude Sonnet 3.7]]
@@ -97,12 +97,12 @@ A technical blog post / short report by Anthropic (2025) describing how they bui
 - [[entities/daniel-ford|Daniel Ford]]
 - [[entities/anthropic-apps-engineering-team|Anthropic apps engineering team]]
 - [[entities/anthropic-console|Anthropic Console]]
-- [[entities/anthropic-cookbook-open-source-prompts-|Anthropic Cookbook (open-source prompts)]]
+- Anthropic Cookbook (open-source prompts)
 - [[entities/mcp-model-context-protocol-servers|MCP (Model Context Protocol) servers]]
 - [[entities/google-workspace|Google Workspace]]
 - [[entities/browsecomp-evaluation|BrowseComp evaluation]]
-- [[entities/clio-mentioned-as-section-heading-likely-internal-tool-|Clio (mentioned as section heading, likely internal tool)]]
-- [[entities/z-library-document-source-distribution-channel-|Z-Library (document source/distribution channel)]]
+- Clio (mentioned as section heading, likely internal tool)
+- Z-Library (document source/distribution channel)
 
 ## Questions Raised
 

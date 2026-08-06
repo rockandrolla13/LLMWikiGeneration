@@ -64,48 +64,48 @@ Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software
 - [[concepts/sociotechnical-architecture|Sociotechnical architecture]]
 - [[concepts/sociotechnical-complexity|Sociotechnical complexity]]
 - [[concepts/digital-transformation|Digital transformation]]
-- [[concepts/domain-driven-design-ddd-|Domain-Driven Design (DDD)]]
+- Domain-Driven Design (DDD)
 - [[concepts/team-topologies|Team Topologies]]
 - [[concepts/event-driven-asynchronous-systems|Event-driven / asynchronous systems]]
 - [[concepts/microservices-and-cloud-native-platforms|Microservices and cloud-native platforms]]
 - [[concepts/information-systems-architecture|Information systems architecture]]
-- [[concepts/mago-case-study-referenced-in-endorsements-as-a-real-modernization-project-example-|MAGO case study (referenced in endorsements as a real modernization project example)]]
+- MAGO case study (referenced in endorsements as a real modernization project example)
 - [[concepts/mental-models|Mental models]]
 - [[concepts/modernization|Modernization]]
-- [[concepts/kafka-streams-container-orchestration-infrastructure-as-code-mentioned-as-real-world-context-|Kafka streams / container orchestration / infrastructure as code (mentioned as real-world context)]]
+- Kafka streams / container orchestration / infrastructure as code (mentioned as real-world context)
 - [[concepts/continuous-deployment-and-devops|Continuous deployment and DevOps]]
 
 ## Key Entities
 
-- [[entities/diana-montalion-author-systems-architect-founder-principal-mentrix-group-llc-|Diana Montalion (author; systems architect; founder/principal, Mentrix Group LLC)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/mentrix-group-llc-author-s-company-copyright-holder-|Mentrix Group LLC (author's company; copyright holder)]]
-- [[entities/kent-beck-endorser-chief-scientist-mechanical-orchard-author-of-tidy-first-|Kent Beck (endorser; chief scientist, Mechanical Orchard; author of Tidy First?)]]
-- [[entities/jessica-kerr-endorser-symmathecist-|Jessica Kerr (endorser; symmathecist)]]
-- [[entities/kevlin-henney-endorser-independent-consultant-editor-of-97-things-every-programmer-should-know-|Kevlin Henney (endorser; independent consultant; editor of 97 Things Every Programmer Should Know)]]
-- [[entities/dr-eduardo-da-silva-endorser-independent-consultant-on-sociotechnical-architecture-modernization-|Dr. Eduardo da Silva (endorser; independent consultant on sociotechnical architecture modernization)]]
-- [[entities/matt-mclarty-endorser-cto-of-boomi-co-author-of-unbundling-the-enterprise-and-microservice-architecture-|Matt McLarty (endorser; CTO of Boomi; co-author of Unbundling the Enterprise and Microservice Architecture)]]
-- [[entities/xin-yao-endorser-independent-consultant-domain-driven-designer-sociotechnical-architect-|Xin Yao (endorser; independent consultant, domain-driven designer, sociotechnical architect)]]
-- [[entities/nick-tune-endorser-author-of-architecture-modernization-|Nick Tune (endorser; author of Architecture Modernization)]]
-- [[entities/vlad-khononov-endorser-author-of-learning-domain-driven-design-and-balancing-coupling-in-software-design-|Vlad Khononov (endorser; author of Learning Domain-Driven Design and Balancing Coupling in Software Design)]]
-- [[entities/jacqui-read-endorser-author-of-communication-patterns-principal-consultant-|Jacqui Read (endorser; author of Communication Patterns; principal consultant)]]
-- [[entities/andrew-harmel-law-endorser-technical-principal-author-of-facilitating-software-architecture-|Andrew Harmel-Law (endorser; technical principal; author of Facilitating Software Architecture)]]
-- [[entities/mike-amundsen-endorser-author-of-restful-web-api-patterns-and-practices-cookbook-|Mike Amundsen (endorser; author of RESTful Web API Patterns and Practices Cookbook)]]
-- [[entities/jo-o-rosa-endorser-independent-consultant-team-topologies-valued-practitioner-|João Rosa (endorser; independent consultant; Team Topologies valued practitioner)]]
-- [[entities/kenny-baas-schwegler-endorser-independent-software-consultant-co-author-of-collaborative-software-design-|Kenny Baas-Schwegler (endorser; independent software consultant; co-author of Collaborative Software Design)]]
-- [[entities/avraham-poupko-endorser-principal-architect-at-forescout-technologies-|Avraham Poupko (endorser; principal architect at Forescout Technologies)]]
-- [[entities/paul-rayner-endorser-author-of-the-eventstorming-handbook-founder-of-explore-domain-driven-design-conference-|Paul Rayner (endorser; author of The EventStorming Handbook; founder of Explore Domain-Driven Design conference)]]
-- [[entities/dawn-ahukanna-endorser-design-principal-and-frontend-architect-|Dawn Ahukanna (endorser; design principal and frontend architect)]]
-- [[entities/andrea-magnorsky-endorser-programmer-creator-of-bytesize-architecture-sessions-|Andrea Magnorsky (endorser; programmer; creator of Bytesize Architecture Sessions)]]
-- [[entities/trond-hjorteland-endorser-it-consultant-capra-consulting-sociotechnical-practitioner-|Trond Hjorteland (endorser; IT consultant, Capra Consulting; sociotechnical practitioner)]]
-- [[entities/alexandra-paskulin-endorser-technical-writer-|Alexandra Paskulin (endorser; technical writer)]]
-- [[entities/the-economist-organization-mentioned-as-a-client-employer-where-author-worked-during-major-digital-transformation-|The Economist (organization; mentioned as a client/employer where author worked during major digital transformation)]]
-- [[entities/tim-starling-wikimedia-wikipedia-engineer-mentioned-for-providing-code-review-to-author-|Tim Starling (Wikimedia/Wikipedia engineer; mentioned for providing code review to author)]]
-- [[entities/diana-hume-george-creative-nonfiction-writing-mentor-to-the-author-|Diana Hume George (creative nonfiction writing mentor to the author)]]
-- [[entities/david-michelson-acquisitions-editor-o-reilly-|David Michelson (acquisitions editor, O'Reilly)]]
-- [[entities/shira-evans-development-editor-o-reilly-|Shira Evans (development editor, O'Reilly)]]
-- [[entities/tracy-kidder-quoted-in-preface-epigraph-author-of-the-soul-of-a-new-machine-|Tracy Kidder (quoted in preface epigraph; author of The Soul of a New Machine)]]
-- [[entities/donella-meadows-referenced-by-endorser-andrew-harmel-law-as-prior-systems-thinking-authority-whose-work-this-book-heirs-|Donella Meadows (referenced by endorser Andrew Harmel-Law as prior systems thinking authority whose work this book heirs)]]
+- Diana Montalion (author; systems architect; founder/principal, Mentrix Group LLC)
+- O'Reilly Media (publisher)
+- Mentrix Group LLC (author's company; copyright holder)
+- Kent Beck (endorser; chief scientist, Mechanical Orchard; author of Tidy First?)
+- Jessica Kerr (endorser; symmathecist)
+- Kevlin Henney (endorser; independent consultant; editor of 97 Things Every Programmer Should Know)
+- Dr. Eduardo da Silva (endorser; independent consultant on sociotechnical architecture modernization)
+- Matt McLarty (endorser; CTO of Boomi; co-author of Unbundling the Enterprise and Microservice Architecture)
+- Xin Yao (endorser; independent consultant, domain-driven designer, sociotechnical architect)
+- Nick Tune (endorser; author of Architecture Modernization)
+- Vlad Khononov (endorser; author of Learning Domain-Driven Design and Balancing Coupling in Software Design)
+- Jacqui Read (endorser; author of Communication Patterns; principal consultant)
+- Andrew Harmel-Law (endorser; technical principal; author of Facilitating Software Architecture)
+- Mike Amundsen (endorser; author of RESTful Web API Patterns and Practices Cookbook)
+- João Rosa (endorser; independent consultant; Team Topologies valued practitioner)
+- Kenny Baas-Schwegler (endorser; independent software consultant; co-author of Collaborative Software Design)
+- Avraham Poupko (endorser; principal architect at Forescout Technologies)
+- Paul Rayner (endorser; author of The EventStorming Handbook; founder of Explore Domain-Driven Design conference)
+- Dawn Ahukanna (endorser; design principal and frontend architect)
+- Andrea Magnorsky (endorser; programmer; creator of Bytesize Architecture Sessions)
+- Trond Hjorteland (endorser; IT consultant, Capra Consulting; sociotechnical practitioner)
+- Alexandra Paskulin (endorser; technical writer)
+- The Economist (organization; mentioned as a client/employer where author worked during major digital transformation)
+- Tim Starling (Wikimedia/Wikipedia engineer; mentioned for providing code review to author)
+- Diana Hume George (creative nonfiction writing mentor to the author)
+- David Michelson (acquisitions editor, O'Reilly)
+- Shira Evans (development editor, O'Reilly)
+- Tracy Kidder (quoted in preface epigraph; author of The Soul of a New Machine)
+- Donella Meadows (referenced by endorser Andrew Harmel-Law as prior systems thinking authority whose work this book heirs)
 
 ## Questions Raised
 

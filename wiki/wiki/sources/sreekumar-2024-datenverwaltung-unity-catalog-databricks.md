@@ -66,36 +66,36 @@ A German-language O'Reilly book (first edition, September 2025) titled "Datenver
 - [[concepts/unity-catalog|Unity Catalog]]
 - [[concepts/lakehouse-architecture|Lakehouse architecture]]
 - [[concepts/databricks-data-intelligence-platform|Databricks Data Intelligence Platform]]
-- [[concepts/identity-management-sso-identity-provisioning-|Identity Management (SSO, identity provisioning)]]
+- Identity Management (SSO, identity provisioning)
 - [[concepts/access-controls-and-permissions-model|Access Controls and Permissions Model]]
 - [[concepts/ai-ml-governance|AI/ML Governance]]
 - [[concepts/observability-and-data-discoverability|Observability and Data Discoverability]]
-- [[concepts/data-sharing-and-collaboration-delta-sharing-|Data Sharing and Collaboration (Delta Sharing)]]
+- Data Sharing and Collaboration (Delta Sharing)
 - [[concepts/open-access-open-source-catalog|Open Access / Open Source Catalog]]
-- [[concepts/regulatory-compliance-gdpr-|Regulatory Compliance (GDPR)]]
+- Regulatory Compliance (GDPR)
 - [[concepts/hive-metastore-hms-migration|Hive Metastore (HMS) migration]]
-- [[concepts/compute-access-modes-standard-dedicated-serverless-|Compute access modes (Standard, Dedicated, Serverless)]]
+- Compute access modes (Standard, Dedicated, Serverless)
 - [[concepts/cross-metastore-governance|Cross-Metastore Governance]]
-- [[concepts/open-formats-delta-apache-iceberg-|Open Formats (Delta, Apache Iceberg)]]
+- Open Formats (Delta, Apache Iceberg)
 - [[concepts/etl-pipeline-governance|ETL Pipeline Governance]]
 - [[concepts/data-quality|Data Quality]]
 
 ## Key Entities
 
-- [[entities/kiran-sreekumar-author-|Kiran Sreekumar (author)]]
-- [[entities/karthik-subbarao-also-cited-as-karthikeya-sampa-subbarao-author-|Karthik Subbarao (also cited as Karthikeya Sampa Subbarao, author)]]
-- [[entities/matei-zaharia-cto-and-co-founder-of-databricks-foreword-author-|Matei Zaharia (CTO and co-founder of Databricks, foreword author)]]
-- [[entities/databricks-platform-company-|Databricks (platform company)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/nexa-boutique-fictional-case-study-organization-|Nexa Boutique (fictional case-study organization)]]
-- [[entities/ashok-singamaneni-senior-software-engineer-at-nike-endorser-|Ashok Singamaneni (Senior Software Engineer at Nike, endorser)]]
-- [[entities/tristen-wentling-lead-solutions-architect-at-databricks-endorser-|Tristen Wentling (Lead Solutions Architect at Databricks, endorser)]]
-- [[entities/lars-george-lead-product-specialist-at-databricks-endorser-|Lars George (Lead Product Specialist at Databricks, endorser)]]
-- [[entities/arup-nanda-managing-director-head-of-data-and-ai-at-jpmorganchase-endorser-|Arup Nanda (Managing Director, Head of Data and AI at JPMorganChase, endorser)]]
-- [[entities/nike-mentioned-in-endorsements-|Nike (mentioned in endorsements)]]
-- [[entities/jpmorganchase-mentioned-in-endorsements-|JPMorganChase (mentioned in endorsements)]]
-- [[entities/aaron-black-acquisitions-editor-|Aaron Black (Acquisitions Editor)]]
-- [[entities/corbin-collins-development-editor-|Corbin Collins (Development Editor)]]
+- Kiran Sreekumar (author)
+- Karthik Subbarao (also cited as Karthikeya Sampa Subbarao, author)
+- Matei Zaharia (CTO and co-founder of Databricks, foreword author)
+- Databricks (platform company)
+- O'Reilly Media (publisher)
+- Nexa Boutique (fictional case-study organization)
+- Ashok Singamaneni (Senior Software Engineer at Nike, endorser)
+- Tristen Wentling (Lead Solutions Architect at Databricks, endorser)
+- Lars George (Lead Product Specialist at Databricks, endorser)
+- Arup Nanda (Managing Director, Head of Data and AI at JPMorganChase, endorser)
+- Nike (mentioned in endorsements)
+- JPMorganChase (mentioned in endorsements)
+- Aaron Black (Acquisitions Editor)
+- Corbin Collins (Development Editor)
 
 ## Questions Raised
 

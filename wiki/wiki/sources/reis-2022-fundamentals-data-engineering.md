@@ -59,13 +59,13 @@ Fundamentals of Data Engineering (O'Reilly, June 2022, First Edition) by Joe Rei
 
 ## Main Concepts
 
-- [[concepts/data-engineering-lifecycle-generation-storage-ingestion-transformation-serving-|Data engineering lifecycle (generation, storage, ingestion, transformation, serving)]]
+- Data engineering lifecycle (generation, storage, ingestion, transformation, serving)
 - [[concepts/data-architecture-principles|Data architecture principles]]
 - [[concepts/technology-selection-framework|Technology selection framework]]
-- [[concepts/cloud-first-infrastructure-and-ephemeral-scalable-systems|Cloud-first infrastructure and ephemeral/scalable systems]]
-- [[concepts/data-governance-security-and-privacy-gdpr-ccpa-|Data governance, security, and privacy (GDPR, CCPA)]]
+- Cloud-first infrastructure and ephemeral/scalable systems
+- Data governance, security, and privacy (GDPR, CCPA)
 - [[concepts/etl-and-data-pipeline-design|ETL and data pipeline design]]
-- [[concepts/big-data-frameworks-mapreduce-spark-flink-|Big Data frameworks (MapReduce, Spark, Flink)]]
+- Big Data frameworks (MapReduce, Spark, Flink)
 - [[concepts/data-warehousing-and-data-lakes|Data warehousing and data lakes]]
 - [[concepts/batch-and-streaming-systems|Batch and streaming systems]]
 - [[concepts/orchestration|Orchestration]]
@@ -74,19 +74,19 @@ Fundamentals of Data Engineering (O'Reilly, June 2022, First Edition) by Joe Rei
 
 ## Key Entities
 
-- [[entities/joe-reis-author-co-founder-ternary-data-|Joe Reis (author, co-founder Ternary Data)]]
-- [[entities/matt-housley-author-co-founder-ternary-data-|Matt Housley (author, co-founder Ternary Data)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/bill-inmon-technical-reviewer-and-industry-expert-|Bill Inmon (technical reviewer and industry expert)]]
-- [[entities/zhamak-dehghani-data-mesh-architect-mentioned-as-expert-consulted-|Zhamak Dehghani (data mesh architect, mentioned as expert consulted)]]
-- [[entities/jordan-tigani-expert-consulted-|Jordan Tigani (expert consulted)]]
-- [[entities/maxime-beauchemin-quoted-expert-defined-data-engineering-as-superset-of-bi-data-warehousing-software-engineering-|Maxime Beauchemin (quoted expert, defined data engineering as superset of BI/data warehousing + software engineering)]]
-- [[entities/jesse-anderson-quoted-expert-two-type-taxonomy-sql-focused-vs-big-data-focused-|Jesse Anderson (quoted expert, two-type taxonomy: SQL-focused vs Big Data-focused)]]
-- [[entities/lewis-gavin-quoted-expert-|Lewis Gavin (quoted expert)]]
-- [[entities/alexsoft-quoted-definition-source-|AlexSoft (quoted definition source)]]
-- [[entities/aws-azure-google-cloud-platform-cloud-platforms-referenced-for-prerequisites-|AWS, Azure, Google Cloud Platform (cloud platforms referenced for prerequisites)]]
-- [[entities/snowflake-databricks-data-platforms-referenced-for-prerequisites-|Snowflake, Databricks (data platforms referenced for prerequisites)]]
-- [[entities/hadoop-cassandra-hbase-spark-flink-big-data-technologies-cited-in-definitions-|Hadoop, Cassandra, HBase, Spark, Flink (Big Data technologies cited in definitions)]]
+- Joe Reis (author, co-founder Ternary Data)
+- Matt Housley (author, co-founder Ternary Data)
+- O'Reilly Media (publisher)
+- Bill Inmon (technical reviewer and industry expert)
+- Zhamak Dehghani (data mesh architect, mentioned as expert consulted)
+- Jordan Tigani (expert consulted)
+- Maxime Beauchemin (quoted expert, defined data engineering as superset of BI/data warehousing + software engineering)
+- Jesse Anderson (quoted expert, two-type taxonomy: SQL-focused vs Big Data-focused)
+- Lewis Gavin (quoted expert)
+- AlexSoft (quoted definition source)
+- AWS, Azure, Google Cloud Platform (cloud platforms referenced for prerequisites)
+- Snowflake, Databricks (data platforms referenced for prerequisites)
+- Hadoop, Cassandra, HBase, Spark, Flink (Big Data technologies cited in definitions)
 
 ## Questions Raised
 

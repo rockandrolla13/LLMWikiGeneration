@@ -53,7 +53,7 @@ Building LLMs for Production (2024) by Louis-François Bouchard, Louie Peters, a
 
 - [[concepts/retrieval-augmented-generation-(rag)|Retrieval-Augmented Generation (RAG)]]
 - [[concepts/transformer-architecture-and-gpt-family|Transformer architecture and GPT family]]
-- [[concepts/prompt-engineering-and-langchain-prompt-templates|Prompt engineering and LangChain prompt templates]]
+- Prompt engineering and LangChain prompt templates
 - [[concepts/fine-tuning:-sft,-lora,-rlhf|Fine-tuning: SFT, LoRA, RLHF]]
 - [[concepts/llm-agents-and-autonomous-reasoning-engines|LLM agents and autonomous reasoning engines]]
 - [[concepts/model-deployment:-quantization-and-pruning|Model deployment: quantization and pruning]]
@@ -61,16 +61,16 @@ Building LLMs for Production (2024) by Louis-François Bouchard, Louie Peters, a
 
 ## Key Entities
 
-- [[entities/louis-fran-ois-bouchard-cto-co-founder-towards-ai-|Louis-François Bouchard (CTO/Co-Founder, Towards AI)]]
-- [[entities/louie-peters-ceo-co-founder-towards-ai-|Louie Peters (CEO/Co-Founder, Towards AI)]]
-- [[entities/towards-ai-publisher-and-platform-|Towards AI (publisher and platform)]]
+- Louis-François Bouchard (CTO/Co-Founder, Towards AI)
+- Louie Peters (CEO/Co-Founder, Towards AI)
+- Towards AI (publisher and platform)
 - [[entities/langchain|LangChain]]
 - [[entities/llamaindex|LlamaIndex]]
-- [[entities/openai-gpt-chatgpt-assistants-autogpt-|OpenAI (GPT, ChatGPT, Assistants, AutoGPT)]]
-- [[entities/weights-biases-langsmith-mentioned-alongside-|Weights & Biases (LangSmith mentioned alongside)]]
+- OpenAI (GPT, ChatGPT, Assistants, AutoGPT)
+- Weights & Biases (LangSmith mentioned alongside)
 - [[entities/cohere|Cohere]]
-- [[entities/jerry-liu-co-founder-llamaindex-|Jerry Liu (Co-founder, LlamaIndex)]]
-- [[entities/mila-quebec-ai-institute-|Mila (Quebec AI Institute)]]
+- Jerry Liu (Co-founder, LlamaIndex)
+- Mila (Quebec AI Institute)
 
 ## Questions Raised
 

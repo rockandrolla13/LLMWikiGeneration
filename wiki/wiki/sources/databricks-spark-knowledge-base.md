@@ -50,20 +50,20 @@ The Databricks Spark Knowledge Base is a practitioner-oriented reference guide p
 
 ## Main Concepts
 
-- [[concepts/rdd-transformations-and-shuffle-behavior-(reducebykey-vs-groupbykey)|RDD transformations and shuffle behavior (reduceByKey vs groupByKey)]]
-- [[concepts/driver-memory-management-and-safe-rdd-collection-patterns|Driver memory management and safe RDD collection patterns]]
-- [[concepts/bad-input-data-handling-with-flatmap-and-filter|Bad input data handling with flatMap and filter]]
-- [[concepts/spark-serialization-model-and-task-not-serializable-errors|Spark serialization model and Task not serializable errors]]
-- [[concepts/jar-dependency-management-with-maven-shade-plugin-(uber-jars)|JAR dependency management with Maven shade plugin (uber JARs)]]
-- [[concepts/spark-cluster-networking:-hostname/port-binding-configuration-(spark_local_ip,-spark.driver.host)|Spark cluster networking: hostname/port binding configuration (SPARK_LOCAL_IP, spark.driver.host)]]
+- RDD transformations and shuffle behavior (reduceByKey vs groupByKey)
+- Driver memory management and safe RDD collection patterns
+- Bad input data handling with flatMap and filter
+- Spark serialization model and Task not serializable errors
+- JAR dependency management with Maven shade plugin (uber JARs)
+- Spark cluster networking: hostname/port binding configuration (SPARK_LOCAL_IP, spark.driver.host)
 - [[concepts/rdd-partitioning-and-data-locality|RDD partitioning and data locality]]
 
 ## Key Entities
 
-- [[entities/databricks-publisher-and-author-organization-|Databricks (publisher and author organization)]]
-- [[entities/apache-spark-the-distributed-computing-framework-documented-throughout-|Apache Spark (the distributed computing framework documented throughout)]]
-- [[entities/apache-maven-build-tool-maven-shade-plugin-example-included-|Apache Maven (build tool; maven-shade-plugin example included)]]
-- [[entities/gitbook-original-publication-platform-noted-in-the-document-|Gitbook (original publication platform noted in the document)]]
+- Databricks (publisher and author organization)
+- Apache Spark (the distributed computing framework documented throughout)
+- Apache Maven (build tool; maven-shade-plugin example included)
+- Gitbook (original publication platform noted in the document)
 
 ## Questions Raised
 

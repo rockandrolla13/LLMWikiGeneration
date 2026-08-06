@@ -65,15 +65,15 @@ Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2
 
 - [[concepts/mlops|MLOps]]
 - [[concepts/devops-applied-to-ml|DevOps applied to ML]]
-- [[concepts/continuous-integration-continuous-delivery-ci-cd-for-ml|Continuous Integration / Continuous Delivery (CI/CD) for ML]]
-- [[concepts/kaizenml-continuous-improvement-applied-to-ml-pipelines-|KaizenML (continuous improvement applied to ML pipelines)]]
+- Continuous Integration / Continuous Delivery (CI/CD) for ML
+- KaizenML (continuous improvement applied to ML pipelines)
 - [[concepts/automl|AutoML]]
 - [[concepts/feature-stores|Feature stores]]
 - [[concepts/containers-and-edge-deployment|Containers and edge deployment]]
 - [[concepts/model-drift-monitoring-and-observability|Model drift monitoring and observability]]
-- [[concepts/model-interoperability-onnx-core-ml-|Model interoperability (ONNX, Core ML)]]
+- Model interoperability (ONNX, Core ML)
 - [[concepts/infrastructure-as-code-for-ml|Infrastructure as Code for ML]]
-- [[concepts/serverless-ml-microservices-aws-lambda-|Serverless ML microservices (AWS Lambda)]]
+- Serverless ML microservices (AWS Lambda)
 - [[concepts/dataops-and-data-engineering|DataOps and data engineering]]
 - [[concepts/mlops-design-patterns|MLOps design patterns]]
 - [[concepts/data-governance-and-cybersecurity|Data governance and cybersecurity]]
@@ -81,31 +81,31 @@ Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2
 
 ## Key Entities
 
-- [[entities/noah-gift-author-adjunct-professor-at-duke-northwestern-uc-davis-former-cto-engineering-manager-at-bay-area-startups-|Noah Gift (author, adjunct professor at Duke, Northwestern, UC Davis; former CTO/engineering manager at Bay Area startups)]]
-- [[entities/alfredo-deza-author-microsoft-developer-advocate-systems-administration-background-|Alfredo Deza (author, Microsoft developer advocate, systems administration background)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/tim-o-reilly-o-reilly-foo-camp-discussion-participant-|Tim O'Reilly (O'Reilly Foo Camp discussion participant)]]
-- [[entities/mike-loukides-o-reilly-foo-camp-discussion-participant-|Mike Loukides (O'Reilly Foo Camp discussion participant)]]
-- [[entities/roger-magoulas-o-reilly-foo-camp-participant-|Roger Magoulas (O'Reilly Foo Camp participant)]]
-- [[entities/fei-fei-li-stanford-ai-head-mentioned-in-preface-anecdote-|Fei-Fei Li (Stanford AI head, mentioned in preface anecdote)]]
-- [[entities/david-baltimore-nobel-prize-winning-scientist-at-caltech-mentioned-in-preface-|David Baltimore (Nobel Prize-winning scientist at Caltech, mentioned in preface)]]
-- [[entities/david-goodstein-physicist-at-caltech-mentioned-in-preface-|David Goodstein (physicist at Caltech, mentioned in preface)]]
-- [[entities/joseph-bogen-neurosurgeon-and-mentor-at-caltech-mentioned-in-preface-|Joseph Bogen (neurosurgeon and mentor at Caltech, mentioned in preface)]]
-- [[entities/jonathan-haber-author-of-critical-thinking-mit-press-cited-in-preface-|Jonathan Haber (author of Critical Thinking, MIT Press, cited in preface)]]
-- [[entities/caltech-california-institute-of-technology-mentioned-as-formative-institution-for-noah-gift-|Caltech (California Institute of Technology, mentioned as formative institution for Noah Gift)]]
-- [[entities/sqor-sports-social-network-case-study-organization-in-chapter-12-|Sqor Sports Social Network (case study organization in Chapter 12)]]
-- [[entities/aws-amazon-web-services-|AWS (Amazon Web Services)]]
+- Noah Gift (author, adjunct professor at Duke, Northwestern, UC Davis; former CTO/engineering manager at Bay Area startups)
+- Alfredo Deza (author, Microsoft developer advocate, systems administration background)
+- O'Reilly Media (publisher)
+- Tim O'Reilly (O'Reilly Foo Camp discussion participant)
+- Mike Loukides (O'Reilly Foo Camp discussion participant)
+- Roger Magoulas (O'Reilly Foo Camp participant)
+- Fei-Fei Li (Stanford AI head, mentioned in preface anecdote)
+- David Baltimore (Nobel Prize-winning scientist at Caltech, mentioned in preface)
+- David Goodstein (physicist at Caltech, mentioned in preface)
+- Joseph Bogen (neurosurgeon and mentor at Caltech, mentioned in preface)
+- Jonathan Haber (author of Critical Thinking, MIT Press, cited in preface)
+- Caltech (California Institute of Technology, mentioned as formative institution for Noah Gift)
+- Sqor Sports Social Network (case study organization in Chapter 12)
+- AWS (Amazon Web Services)
 - [[entities/microsoft-azure|Microsoft Azure]]
-- [[entities/google-cloud-platform-gcp-|Google Cloud Platform (GCP)]]
-- [[entities/apple-automl-via-create-ml-and-core-ml-|Apple (AutoML via Create ML and Core ML)]]
-- [[entities/github-actions-ci-cd-tooling-mentioned-|GitHub Actions (CI/CD tooling mentioned)]]
-- [[entities/onnx-open-neural-network-exchange-|ONNX (Open Neural Network Exchange)]]
+- Google Cloud Platform (GCP)
+- Apple (AutoML via Create ML and Core ML)
+- GitHub Actions (CI/CD tooling mentioned)
+- ONNX (Open Neural Network Exchange)
 - [[entities/aws-sagemaker|AWS SageMaker]]
-- [[entities/ludwig-open-source-automl-framework-|Ludwig (open-source AutoML framework)]]
-- [[entities/flaml-open-source-automl-framework-from-microsoft-|FLAML (open-source AutoML framework from Microsoft)]]
-- [[entities/tfhub-tensorflow-hub-|TFHub (TensorFlow Hub)]]
-- [[entities/coral-google-edge-device-|Coral (Google edge device)]]
-- [[entities/azure-percept-microsoft-edge-device-|Azure Percept (Microsoft edge device)]]
+- Ludwig (open-source AutoML framework)
+- FLAML (open-source AutoML framework from Microsoft)
+- TFHub (TensorFlow Hub)
+- Coral (Google edge device)
+- Azure Percept (Microsoft edge device)
 
 ## Questions Raised
 

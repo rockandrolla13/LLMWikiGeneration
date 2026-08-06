@@ -50,21 +50,21 @@ Coding with AI (MEAP edition) by Jeremy C. Morgan, published by Manning Publicat
 
 ## Main Concepts
 
-- [[concepts/ai-assisted-code-generation-vs-traditional-code-completion|AI-assisted code generation vs traditional code completion]]
-- [[concepts/github-copilot-and-llm-powered-coding-assistants|GitHub Copilot and LLM-powered coding assistants]]
-- [[concepts/software-development-lifecycle-(sdlc)-integration-with-ai|Software development lifecycle (SDLC) integration with AI]]
-- [[concepts/prompt-engineering-for-code-and-documentation-tasks|Prompt engineering for code and documentation tasks]]
-- [[concepts/toxicity-filtering-and-proxy-architecture-for-llm-api-access|Toxicity filtering and proxy architecture for LLM API access]]
-- [[concepts/automated-documentation-generation-with-chatgpt|Automated documentation generation with ChatGPT]]
-- [[concepts/unit-testing-and-test-generation-with-ai-assistance|Unit testing and test generation with AI assistance]]
+- AI-assisted code generation vs traditional code completion
+- GitHub Copilot and LLM-powered coding assistants
+- Software development lifecycle (SDLC) integration with AI
+- Prompt engineering for code and documentation tasks
+- Toxicity filtering and proxy architecture for LLM API access
+- Automated documentation generation with ChatGPT
+- Unit testing and test generation with AI assistance
 
 ## Key Entities
 
-- [[entities/jeremy-c-morgan-author-|Jeremy C. Morgan (author)]]
-- [[entities/manning-publications-publisher-|Manning Publications (publisher)]]
-- [[entities/github-copilot-openai-codex-backed-tool-shown-in-vs-code-|GitHub Copilot (OpenAI Codex-backed tool, shown in VS Code)]]
-- [[entities/chatgpt-openai-shown-via-chatgpt-4-interface-screenshots-|ChatGPT / OpenAI (shown via ChatGPT 4 interface screenshots)]]
-- [[entities/visual-studio-code-ide-used-throughout-examples-|Visual Studio Code (IDE used throughout examples)]]
+- Jeremy C. Morgan (author)
+- Manning Publications (publisher)
+- GitHub Copilot (OpenAI Codex-backed tool, shown in VS Code)
+- ChatGPT / OpenAI (shown via ChatGPT 4 interface screenshots)
+- Visual Studio Code (IDE used throughout examples)
 
 ## Questions Raised
 

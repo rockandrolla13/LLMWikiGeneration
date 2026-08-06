@@ -51,20 +51,20 @@ Building Embodied AI Systems: The Agents, the Architecture Principles, Challenge
 
 ## Main Concepts
 
-- [[concepts/embodied-ai-(physical-and-virtual-agent-perception,-navigation,-and-action)|Embodied AI (physical and virtual agent perception, navigation, and action)]]
-- [[concepts/computer-vision-for-embodied-agents-(semantic-segmentation,-3d-point-clouds,-resnet,-clip,-mask-r-cnn,-kernel-point-convolution)|Computer Vision for Embodied Agents (semantic segmentation, 3D point clouds, ResNet, CLIP, MASK R-CNN, Kernel Point Convolution)]]
-- [[concepts/reinforcement-learning-for-robotics-and-drones-(ddppo,-proximal-policy-optimization)|Reinforcement Learning for Robotics and Drones (DDPPO, proximal policy optimization)]]
-- [[concepts/vision-language-models-for-autonomous-driving-and-transportation|Vision-Language Models for Autonomous Driving and Transportation]]
-- [[concepts/edge-computing,-cloud-analytics,-and-5g-for-autonomous-systems|Edge Computing, Cloud Analytics, and 5G for Autonomous Systems]]
-- [[concepts/cybersecurity-and-privacy-in-embodied-ai-(industry-4.0/5.0-contexts)|Cybersecurity and Privacy in Embodied AI (Industry 4.0/5.0 contexts)]]
+- Embodied AI (physical and virtual agent perception, navigation, and action)
+- Computer Vision for Embodied Agents (semantic segmentation, 3D point clouds, ResNet, CLIP, MASK R-CNN, Kernel Point Convolution)
+- Reinforcement Learning for Robotics and Drones (DDPPO, proximal policy optimization)
+- Vision-Language Models for Autonomous Driving and Transportation
+- Edge Computing, Cloud Analytics, and 5G for Autonomous Systems
+- Cybersecurity and Privacy in Embodied AI (Industry 4.0/5.0 contexts)
 
 ## Key Entities
 
-- [[entities/pethuru-raj-reliance-jio-platforms-bengaluru-lead-editor-|Pethuru Raj (Reliance Jio Platforms, Bengaluru — lead editor)]]
-- [[entities/alvaro-rocha-university-of-lisbon-series-editor-and-co-editor-|Alvaro Rocha (University of Lisbon — series editor and co-editor)]]
-- [[entities/intel-labs-identified-as-a-leading-institution-in-embodied-ai-research-|Intel Labs (identified as a leading institution in embodied AI research)]]
-- [[entities/facebook-ai-research-fair-identified-as-a-leading-institution-in-embodied-ai-research-|Facebook AI Research / FAIR (identified as a leading institution in embodied AI research)]]
-- [[entities/springer-nature-switzerland-ag-publisher-isem-series-vol-14-|Springer Nature Switzerland AG (publisher, ISEM series Vol. 14)]]
+- Pethuru Raj (Reliance Jio Platforms, Bengaluru — lead editor)
+- Alvaro Rocha (University of Lisbon — series editor and co-editor)
+- Intel Labs (identified as a leading institution in embodied AI research)
+- Facebook AI Research / FAIR (identified as a leading institution in embodied AI research)
+- Springer Nature Switzerland AG (publisher, ISEM series Vol. 14)
 
 ## Questions Raised
 

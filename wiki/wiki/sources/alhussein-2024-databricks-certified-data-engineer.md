@@ -50,21 +50,21 @@ Databricks Certified Data Engineer Associate Study Guide (O'Reilly, February 202
 
 ## Main Concepts
 
-- [[concepts/data-lakehouse-architecture-(combining-data-lake-and-data-warehouse)|Data Lakehouse architecture (combining data lake and data warehouse)]]
+- Data Lakehouse architecture (combining data lake and data warehouse)
 - [[concepts/delta-lake-and-delta-live-tables|Delta Lake and Delta Live Tables]]
 - [[concepts/elt-with-spark-sql-and-python|ELT with Spark SQL and Python]]
 - [[concepts/incremental-data-processing|Incremental data processing]]
-- [[concepts/unity-catalog-and-hive-metastore-(data-governance)|Unity Catalog and Hive metastore (data governance)]]
+- Unity Catalog and Hive metastore (data governance)
 - [[concepts/databricks-jobs-and-production-pipelines|Databricks Jobs and production pipelines]]
 
 ## Key Entities
 
-- [[entities/derar-alhussein-author-|Derar Alhussein (author)]]
+- Derar Alhussein (author)
 - [[entities/databricks|Databricks]]
 - [[entities/o-reilly-media|O'Reilly Media]]
 - [[entities/apache-spark|Apache Spark]]
-- [[entities/tristen-wentling-technical-reviewer-lead-solutions-architect-at-databricks-co-author-of-delta-lake-the-definitive-guide-|Tristen Wentling (technical reviewer, lead solutions architect at Databricks, co-author of Delta Lake: The Definitive Guide)]]
-- [[entities/holly-smith-technical-reviewer-staff-developer-advocate-at-databricks-|Holly Smith (technical reviewer, staff developer advocate at Databricks)]]
+- Tristen Wentling (technical reviewer, lead solutions architect at Databricks, co-author of Delta Lake: The Definitive Guide)
+- Holly Smith (technical reviewer, staff developer advocate at Databricks)
 
 ## Questions Raised
 

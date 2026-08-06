@@ -65,47 +65,47 @@ Learning AutoML by Kerem Tomak (published April 2026 by O'Reilly Media, ISBN 979
 
 ## Main Concepts
 
-- [[concepts/automl-automated-machine-learning-|AutoML (Automated Machine Learning)]]
-- [[concepts/hyperparameter-optimisation-hpo-|Hyperparameter Optimisation (HPO)]]
-- [[concepts/neural-architecture-search-nas-|Neural Architecture Search (NAS)]]
-- [[concepts/automated-feature-engineering-and-data-preprocessing|Automated Feature Engineering and Data Preprocessing]]
+- AutoML (Automated Machine Learning)
+- Hyperparameter Optimisation (HPO)
+- Neural Architecture Search (NAS)
+- Automated Feature Engineering and Data Preprocessing
 - [[concepts/tabular-data-modelling|Tabular Data Modelling]]
 - [[concepts/nlp-text-automl|NLP / Text AutoML]]
 - [[concepts/time-series-forecasting|Time Series Forecasting]]
 - [[concepts/computer-vision-automl|Computer Vision AutoML]]
-- [[concepts/mlops-and-workflow-integration-mlflow-kubeflow-|MLOps and Workflow Integration (MLflow, Kubeflow)]]
+- MLOps and Workflow Integration (MLflow, Kubeflow)
 - [[concepts/apache-airflow-data-pipelines|Apache Airflow Data Pipelines]]
 - [[concepts/ci-cd-for-machine-learning|CI/CD for Machine Learning]]
 - [[concepts/model-monitoring-and-drift-detection|Model Monitoring and Drift Detection]]
-- [[concepts/fairness-aware-machine-learning-and-bias-mitigation-adversarial-debiasing-fairness-aware-ensembles-post-hoc-calibration-|Fairness-Aware Machine Learning and Bias Mitigation (adversarial debiasing, fairness-aware ensembles, post-hoc calibration)]]
-- [[concepts/explainability-and-governance-in-regulated-industries|Explainability and Governance in Regulated Industries]]
+- Fairness-Aware Machine Learning and Bias Mitigation (adversarial debiasing, fairness-aware ensembles, post-hoc calibration)
+- Explainability and Governance in Regulated Industries
 - [[concepts/hipaa-compliance-in-healthcare-ai|HIPAA Compliance in Healthcare AI]]
 - [[concepts/real-time-fraud-detection-at-scale|Real-time Fraud Detection at Scale]]
-- [[concepts/retail-demand-forecasting-omnichannel-|Retail Demand Forecasting (omnichannel)]]
+- Retail Demand Forecasting (omnichannel)
 - [[concepts/patient-readmission-prediction|Patient Readmission Prediction]]
-- [[concepts/citizen-developer-democratisation-of-data-science|Citizen Developer / Democratisation of Data Science]]
+- Citizen Developer / Democratisation of Data Science
 - [[concepts/analytical-ai-vs-generative-ai|Analytical AI vs Generative AI]]
 
 ## Key Entities
 
-- [[entities/kerem-tomak-author-|Kerem Tomak (author)]]
-- [[entities/thomas-h-davenport-foreword-author-distinguished-professor-babson-college-fellow-mit-initiative-on-the-digital-economy-|Thomas H. Davenport (foreword author; Distinguished Professor, Babson College; Fellow, MIT Initiative on the Digital Economy)]]
-- [[entities/gregory-wheeler-foreword-author-professor-of-computational-science-and-philosophy-frankfurt-school-of-finance-and-management-|Gregory Wheeler (foreword author; Professor of Computational Science and Philosophy, Frankfurt School of Finance and Management)]]
-- [[entities/ashkan-roshanayi-endorser-ceo-datachef-|Ashkan Roshanayi (endorser; CEO, DataChef)]]
-- [[entities/baris-kavakli-endorser-ceo-portera-|Baris Kavakli (endorser; CEO, Portera)]]
-- [[entities/ian-barkin-collaborator-on-citizen-developer-research-|Ian Barkin (collaborator on citizen developer research)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/medessence-de-author-s-company-used-autogluon-in-production-|medessence.de (author's company; used AutoGluon in production)]]
-- [[entities/autogluon-primary-automl-framework-covered-|AutoGluon (primary AutoML framework covered)]]
-- [[entities/tpot-automl-framework-mentioned-|TPOT (AutoML framework mentioned)]]
+- Kerem Tomak (author)
+- Thomas H. Davenport (foreword author; Distinguished Professor, Babson College; Fellow, MIT Initiative on the Digital Economy)
+- Gregory Wheeler (foreword author; Professor of Computational Science and Philosophy, Frankfurt School of Finance and Management)
+- Ashkan Roshanayi (endorser; CEO, DataChef)
+- Baris Kavakli (endorser; CEO, Portera)
+- Ian Barkin (collaborator on citizen developer research)
+- O'Reilly Media (publisher)
+- medessence.de (author's company; used AutoGluon in production)
+- AutoGluon (primary AutoML framework covered)
+- TPOT (AutoML framework mentioned)
 - [[entities/mlflow|MLflow]]
 - [[entities/kubeflow|Kubeflow]]
 - [[entities/apache-airflow|Apache Airflow]]
 - [[entities/babson-college|Babson College]]
 - [[entities/mit-initiative-on-the-digital-economy|MIT Initiative on the Digital Economy]]
 - [[entities/frankfurt-school-of-finance-and-management|Frankfurt School of Finance and Management]]
-- [[entities/aaron-black-acquisitions-editor-|Aaron Black (Acquisitions Editor)]]
-- [[entities/shira-evans-development-editor-|Shira Evans (Development Editor)]]
+- Aaron Black (Acquisitions Editor)
+- Shira Evans (Development Editor)
 
 ## Questions Raised
 

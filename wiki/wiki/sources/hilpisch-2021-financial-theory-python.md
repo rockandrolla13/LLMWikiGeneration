@@ -68,24 +68,24 @@ Financial Theory with Python: A Gentle Introduction (2021) by Yves Hilpisch is a
 
 - [[concepts/two-state-economy-static-model-economy|Two-state economy / static model economy]]
 - [[concepts/three-state-economy-and-market-incompleteness|Three-state economy and market incompleteness]]
-- [[concepts/net-present-value-npv-|Net present value (NPV)]]
+- Net present value (NPV)
 - [[concepts/present-value-and-discounting|Present value and discounting]]
 - [[concepts/contingent-claims-and-replication-portfolios|Contingent claims and replication portfolios]]
 - [[concepts/arbitrage-pricing|Arbitrage pricing]]
 - [[concepts/martingale-measures-and-martingale-pricing|Martingale measures and martingale pricing]]
 - [[concepts/risk-neutral-pricing|Risk-neutral pricing]]
-- [[concepts/first-and-second-fundamental-theorems-of-asset-pricing|First and Second Fundamental Theorems of Asset Pricing]]
+- First and Second Fundamental Theorems of Asset Pricing
 - [[concepts/arrow-debreu-securities|Arrow-Debreu securities]]
-- [[concepts/mean-variance-portfolios-modern-portfolio-theory-|Mean-variance portfolios (modern portfolio theory)]]
-- [[concepts/capital-asset-pricing-model-capm-|Capital Asset Pricing Model (CAPM)]]
+- Mean-variance portfolios (modern portfolio theory)
+- Capital Asset Pricing Model (CAPM)
 - [[concepts/capital-market-line|Capital Market Line]]
 - [[concepts/super-replication-and-approximate-replication|Super-replication and approximate replication]]
 - [[concepts/expected-utility-maximization|Expected utility maximization]]
-- [[concepts/logarithmic-and-time-additive-utility-functions|Logarithmic and time-additive utility functions]]
-- [[concepts/equilibrium-pricing-complete-and-incomplete-markets-|Equilibrium pricing (complete and incomplete markets)]]
+- Logarithmic and time-additive utility functions
+- Equilibrium pricing (complete and incomplete markets)
 - [[concepts/black-scholes-merton-option-pricing-model|Black-Scholes-Merton option pricing model]]
 - [[concepts/merton-jump-diffusion-option-pricing|Merton Jump-Diffusion option pricing]]
-- [[concepts/binomial-option-pricing-binomial-tree-binomial-process-|Binomial option pricing (binomial tree / binomial process)]]
+- Binomial option pricing (binomial tree / binomial process)
 - [[concepts/monte-carlo-simulation-of-stock-price-paths|Monte Carlo simulation of stock price paths]]
 - [[concepts/stochastic-processes|Stochastic processes]]
 - [[concepts/market-completeness|Market completeness]]
@@ -93,23 +93,23 @@ Financial Theory with Python: A Gentle Introduction (2021) by Yves Hilpisch is a
 - [[concepts/volatility|Volatility]]
 - [[concepts/python-for-computational-finance|Python for computational finance]]
 - [[concepts/jupyter-notebooks|Jupyter Notebooks]]
-- [[concepts/vectorized-code-vs-python-loops-speed-comparison-|Vectorized code vs. Python loops (speed comparison)]]
+- Vectorized code vs. Python loops (speed comparison)
 
 ## Key Entities
 
-- [[entities/yves-hilpisch-author-|Yves Hilpisch (author)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/the-python-quants-hilpisch-s-company-mentioned-in-context-of-certificate-programs-in-python-for-finance-|The Python Quants (Hilpisch's company, mentioned in context of Certificate Programs in Python for Finance)]]
-- [[entities/quant-platform-finpy-pqp-io-companion-code-notebook-platform-|Quant Platform (finpy.pqp.io — companion code/notebook platform)]]
-- [[entities/frank-milne-quoted-on-history-of-finance-theory-|Frank Milne (quoted on history of finance theory)]]
-- [[entities/rubinstein-2006-referenced-for-periodisation-of-finance-history-|Rubinstein (2006) (referenced for periodisation of finance history)]]
-- [[entities/kindman-and-taylor-2021-opening-epigraph-usd-30bn-asset-management-platform-rewrite-in-python-|Kindman and Taylor (2021) (opening epigraph — USD 30bn asset management platform rewrite in Python)]]
-- [[entities/pemberton-and-rau-2016-recommended-introductory-mathematics-book-|Pemberton and Rau (2016) (recommended introductory mathematics book)]]
-- [[entities/laurence-fletcher-2020-quoted-on-hedge-funds-and-technology-|Laurence Fletcher (2020) (quoted on hedge funds and technology)]]
-- [[entities/python-for-finance-2nd-ed-2018-by-hilpisch-companion-sequel-book|Python for Finance (2nd ed., 2018) by Hilpisch — companion/sequel book]]
-- [[entities/michelle-smith-acquisitions-editor-|Michelle Smith (acquisitions editor)]]
-- [[entities/michele-cronin-development-editor-|Michele Cronin (development editor)]]
-- [[entities/daniel-elfanbaum-production-editor-|Daniel Elfanbaum (production editor)]]
+- Yves Hilpisch (author)
+- O'Reilly Media (publisher)
+- The Python Quants (Hilpisch's company, mentioned in context of Certificate Programs in Python for Finance)
+- Quant Platform (finpy.pqp.io — companion code/notebook platform)
+- Frank Milne (quoted on history of finance theory)
+- Rubinstein (2006) (referenced for periodisation of finance history)
+- Kindman and Taylor (2021) (opening epigraph — USD 30bn asset management platform rewrite in Python)
+- Pemberton and Rau (2016) (recommended introductory mathematics book)
+- Laurence Fletcher (2020) (quoted on hedge funds and technology)
+- Python for Finance (2nd ed., 2018) by Hilpisch — companion/sequel book
+- Michelle Smith (acquisitions editor)
+- Michele Cronin (development editor)
+- Daniel Elfanbaum (production editor)
 
 ## Questions Raised
 

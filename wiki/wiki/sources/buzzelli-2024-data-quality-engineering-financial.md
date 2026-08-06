@@ -50,24 +50,24 @@ Data Quality Engineering in Financial Services (O'Reilly, 2022) by Brian Buzzell
 
 ## Main Concepts
 
-- [[concepts/data-quality-specifications-(dqs)-with-valid/suspect/invalid-tolerances|Data Quality Specifications (DQS) with Valid/Suspect/Invalid tolerances]]
-- [[concepts/eight-data-dimensions:-completeness,-timeliness,-accuracy,-precision,-conformity,-congruence,-collection,-cohesion|Eight data dimensions: completeness, timeliness, accuracy, precision, conformity, congruence, collection, cohesion]]
-- [[concepts/data-shape-and-volume-types:-time-series,-cross-section,-panel-data|Data shape and volume types: time series, cross-section, panel data]]
-- [[concepts/manufacturing-principles-applied-to-data-(lean,-tqm,-six-sigma-analogy)|Manufacturing principles applied to data (Lean, TQM, Six Sigma analogy)]]
-- [[concepts/master-data-management-(raw,-staged,-mastered-data-architecture)|Master data management (raw, staged, mastered data architecture)]]
-- [[concepts/data-governance-frameworks,-councils,-and-operating-models|Data governance frameworks, councils, and operating models]]
-- [[concepts/operational-efficiency-cost-modeling-for-data-quality|Operational efficiency cost modeling for data quality]]
+- Data Quality Specifications (DQS) with Valid/Suspect/Invalid tolerances
+- Eight data dimensions: completeness, timeliness, accuracy, precision, conformity, congruence, collection, cohesion
+- Data shape and volume types: time series, cross-section, panel data
+- Manufacturing principles applied to data (Lean, TQM, Six Sigma analogy)
+- Master data management (raw, staged, mastered data architecture)
+- Data governance frameworks, councils, and operating models
+- Operational efficiency cost modeling for data quality
 
 ## Key Entities
 
-- [[entities/brian-buzzelli-author-svp-head-of-enterprise-data-management-acadian-asset-management-|Brian Buzzelli (author, SVP Head of Enterprise Data Management, Acadian Asset Management)]]
-- [[entities/acadian-asset-management-quantitative-institutional-asset-manager-author-s-employer-|Acadian Asset Management (quantitative institutional asset manager, author's employer)]]
-- [[entities/o-reilly-media-publisher-|O'Reilly Media (publisher)]]
-- [[entities/edm-council-enterprise-data-management-council-industry-standards-body-founded-2005-by-mike-atkin-formerly-of-fisd-|EDM Council / Enterprise Data Management Council (industry standards body, founded 2005 by Mike Atkin formerly of FISD)]]
-- [[entities/gleif-global-legal-entity-identifier-foundation-data-standards-body-|GLEIF — Global Legal Entity Identifier Foundation (data standards body)]]
-- [[entities/fisd-financial-information-services-division-of-siia|FISD — Financial Information Services Division of SIIA]]
-- [[entities/bloomberg-and-reuters-historical-primary-market-data-vendors-mentioned-|Bloomberg and Reuters (historical primary market data vendors mentioned)]]
-- [[entities/eagle-pace-asset-control-cadis-goldensource-edm-platform-vendors-mentioned-|Eagle PACE, Asset Control, Cadis, GoldenSource (EDM platform vendors mentioned)]]
+- Brian Buzzelli (author, SVP Head of Enterprise Data Management, Acadian Asset Management)
+- Acadian Asset Management (quantitative institutional asset manager, author's employer)
+- O'Reilly Media (publisher)
+- EDM Council / Enterprise Data Management Council (industry standards body, founded 2005 by Mike Atkin formerly of FISD)
+- GLEIF — Global Legal Entity Identifier Foundation (data standards body)
+- FISD — Financial Information Services Division of SIIA
+- Bloomberg and Reuters (historical primary market data vendors mentioned)
+- Eagle PACE, Asset Control, Cadis, GoldenSource (EDM platform vendors mentioned)
 
 ## Questions Raised
 

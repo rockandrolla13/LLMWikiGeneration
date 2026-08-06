@@ -57,16 +57,16 @@ Build a DeepSeek Model From Scratch (MEAP edition, 2025) by Raj Abhijit Dandekar
 - [[concepts/mixture-of-experts-(moe)|Mixture-of-Experts (MoE)]]
 - [[concepts/multi-token-prediction-(mtp)|Multi-Token Prediction (MTP)]]
 - [[concepts/fp8-quantization-(8-bit-floating-point)|FP8 quantization (8-bit floating-point)]]
-- [[concepts/reinforcement-learning-for-post-training-(pure-rl,-rejection-sampling)|Reinforcement Learning for post-training (Pure RL, rejection sampling)]]
+- Reinforcement Learning for post-training (Pure RL, rejection sampling)
 - [[concepts/knowledge-distillation|Knowledge Distillation]]
 
 ## Key Entities
 
-- [[entities/deepseek-ai-lab-china-founded-2023-led-by-liang-wenfeng-|DeepSeek (AI lab, China, founded 2023, led by Liang Wenfeng)]]
-- [[entities/vizuara-youtube-channel-educational-brand-of-the-authors-|Vizuara (YouTube channel / educational brand of the authors)]]
-- [[entities/openai-gpt-series-o1-1217-model-used-as-performance-benchmark-|OpenAI (GPT series, o1-1217 model, used as performance benchmark)]]
-- [[entities/meta-llama-and-llama-2-referenced-as-open-source-context-|Meta (LLaMA and LLaMA-2, referenced as open-source context)]]
-- [[entities/qwen2-5-and-llama3-base-models-used-for-distilled-checkpoints-|Qwen2.5 and Llama3 (base models used for distilled checkpoints)]]
+- DeepSeek (AI lab, China, founded 2023, led by Liang Wenfeng)
+- Vizuara (YouTube channel / educational brand of the authors)
+- OpenAI (GPT series, o1-1217 model, used as performance benchmark)
+- Meta (LLaMA and LLaMA-2, referenced as open-source context)
+- Qwen2.5 and Llama3 (base models used for distilled checkpoints)
 
 ## Questions Raised
 

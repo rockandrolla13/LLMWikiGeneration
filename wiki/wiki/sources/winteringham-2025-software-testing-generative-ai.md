@@ -60,7 +60,7 @@ Software Testing with Generative AI (2025) by Mark Winteringham, published by Ma
 
 ## Main Concepts
 
-- [[concepts/large-language-models-llms-|Large Language Models (LLMs)]]
+- Large Language Models (LLMs)
 - [[concepts/prompt-engineering|Prompt engineering]]
 - [[concepts/few-shot-prompting|Few-shot prompting]]
 - [[concepts/test-driven-development-tdd-with-llms|Test-driven development (TDD) with LLMs]]
@@ -69,7 +69,7 @@ Software Testing with Generative AI (2025) by Mark Winteringham, published by Ma
 - [[concepts/ui-automation-with-ai|UI automation with AI]]
 - [[concepts/exploratory-testing-augmented-by-ai|Exploratory testing augmented by AI]]
 - [[concepts/ai-agents-as-testing-assistants|AI agents as testing assistants]]
-- [[concepts/retrieval-augmented-generation-rag-|Retrieval-Augmented Generation (RAG)]]
+- Retrieval-Augmented Generation (RAG)
 - [[concepts/fine-tuning-llms|Fine-tuning LLMs]]
 - [[concepts/vector-databases|Vector databases]]
 - [[concepts/context-windows-and-token-limitations|Context windows and token limitations]]
@@ -80,19 +80,19 @@ Software Testing with Generative AI (2025) by Mark Winteringham, published by Ma
 
 ## Key Entities
 
-- [[entities/mark-winteringham-author-|Mark Winteringham (author)]]
-- [[entities/nicola-martin-foreword-author-|Nicola Martin (foreword author)]]
-- [[entities/manning-publications-publisher-|Manning Publications (publisher)]]
-- [[entities/openai-mentioned-in-context-of-test-data-management-setup-|OpenAI (mentioned in context of test data management setup)]]
-- [[entities/sam-moore-dedication-|Sam Moore (dedication)]]
-- [[entities/becky-whitney-development-editor-|Becky Whitney (development editor)]]
-- [[entities/robert-walsh-technical-editor-|Robert Walsh (technical editor)]]
-- [[entities/kishor-rit-review-editor-|Kishor Rit (review editor)]]
-- [[entities/kathy-rossland-production-editor-|Kathy Rossland (production editor)]]
-- [[entities/lana-todorovic-arndt-copy-editor-|Lana Todorovic-Arndt (copy editor)]]
-- [[entities/olga-milanko-proofreader-|Olga Milanko (proofreader)]]
-- [[entities/tamara-svelic-sabljic-typesetter-|Tamara Svelic Sabljic (typesetter)]]
-- [[entities/marija-tudor-cover-designer-|Marija Tudor (cover designer)]]
+- Mark Winteringham (author)
+- Nicola Martin (foreword author)
+- Manning Publications (publisher)
+- OpenAI (mentioned in context of test data management setup)
+- Sam Moore (dedication)
+- Becky Whitney (development editor)
+- Robert Walsh (technical editor)
+- Kishor Rit (review editor)
+- Kathy Rossland (production editor)
+- Lana Todorovic-Arndt (copy editor)
+- Olga Milanko (proofreader)
+- Tamara Svelic Sabljic (typesetter)
+- Marija Tudor (cover designer)
 
 ## Questions Raised
 

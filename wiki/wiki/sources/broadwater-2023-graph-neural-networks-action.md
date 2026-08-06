@@ -61,49 +61,49 @@ Graph Neural Networks in Action (Manning, 2025 copyright; ISBN 9781617299056) by
 
 ## Main Concepts
 
-- [[concepts/graph-neural-networks-gnns-|Graph Neural Networks (GNNs)]]
+- Graph Neural Networks (GNNs)
 - [[concepts/graph-embeddings|Graph embeddings]]
 - [[concepts/node2vec|Node2Vec]]
 - [[concepts/message-passing|Message passing]]
-- [[concepts/graph-convolutional-networks-gcn-|Graph Convolutional Networks (GCN)]]
+- Graph Convolutional Networks (GCN)
 - [[concepts/graphsage|GraphSAGE]]
 - [[concepts/neighborhood-aggregation|Neighborhood aggregation]]
-- [[concepts/graph-attention-networks-gat-|Graph Attention Networks (GAT)]]
+- Graph Attention Networks (GAT)
 - [[concepts/oversmoothing|Oversmoothing]]
 - [[concepts/graph-autoencoders|Graph autoencoders]]
-- [[concepts/variational-graph-autoencoders-vgae-|Variational graph autoencoders (VGAE)]]
+- Variational graph autoencoders (VGAE)
 - [[concepts/link-prediction|Link prediction]]
 - [[concepts/spatiotemporal-gnns|Spatiotemporal GNNs]]
 - [[concepts/dynamic-graphs|Dynamic graphs]]
-- [[concepts/neural-relational-inference-nri-|Neural Relational Inference (NRI)]]
+- Neural Relational Inference (NRI)
 - [[concepts/gumbel-softmax|Gumbel-Softmax]]
 - [[concepts/temporal-adjacency-matrices|Temporal adjacency matrices]]
 - [[concepts/mini-batching-and-sampling-for-large-graphs|Mini-batching and sampling for large graphs]]
-- [[concepts/distributed-data-parallel-ddp-|Distributed data parallel (DDP)]]
+- Distributed data parallel (DDP)
 - [[concepts/graph-coarsening|Graph coarsening]]
 - [[concepts/transductive-vs-inductive-learning|Transductive vs. inductive learning]]
 - [[concepts/spectral-vs-spatial-convolution|Spectral vs. spatial convolution]]
 - [[concepts/node-features-and-edge-features|Node features and edge features]]
-- [[concepts/graph-data-pipeline-etl-preprocessing-|Graph data pipeline (ETL, preprocessing)]]
+- Graph data pipeline (ETL, preprocessing)
 - [[concepts/recommendation-engines|Recommendation engines]]
 - [[concepts/drug-discovery-molecular-graphs|Drug discovery / molecular graphs]]
 - [[concepts/fraud-spam-detection|Fraud/spam detection]]
 
 ## Key Entities
 
-- [[entities/keita-broadwater-author-former-cloudera-fast-forward-labs-|Keita Broadwater (author; former Cloudera/Fast Forward Labs)]]
-- [[entities/namid-stillman-co-author-|Namid Stillman (co-author)]]
-- [[entities/matthias-fey-foreword-author-creator-of-pytorch-geometric-founding-engineer-at-kumo-ai-|Matthias Fey (foreword author; creator of PyTorch Geometric; founding engineer at Kumo.AI)]]
-- [[entities/manning-publications-publisher-|Manning Publications (publisher)]]
-- [[entities/pytorch-geometric-pyg-primary-implementation-framework-|PyTorch Geometric (PyG) (primary implementation framework)]]
-- [[entities/cloudera-employer-where-broadwater-first-encountered-gnns-|Cloudera (employer where Broadwater first encountered GNNs)]]
-- [[entities/fast-forward-labs-team-where-book-concept-originated-|Fast Forward Labs (team where book concept originated)]]
-- [[entities/linkedin-inspiration-for-network-visualization-in-preface-|LinkedIn (inspiration for network visualization in preface)]]
-- [[entities/kumo-ai-matthias-fey-s-company-|Kumo.AI (Matthias Fey's company)]]
-- [[entities/amazon-products-dataset-used-in-chapters-3-5-7-|Amazon Products dataset (used in chapters 3, 5, 7)]]
-- [[entities/geogrid-dataset-used-in-chapter-7-|GeoGrid dataset (used in chapter 7)]]
-- [[entities/frances-lefkowitz-development-editor-|Frances Lefkowitz (development editor)]]
-- [[entities/frances-buontempo-technical-development-editor-|Frances Buontempo (technical development editor)]]
+- Keita Broadwater (author; former Cloudera/Fast Forward Labs)
+- Namid Stillman (co-author)
+- Matthias Fey (foreword author; creator of PyTorch Geometric; founding engineer at Kumo.AI)
+- Manning Publications (publisher)
+- PyTorch Geometric (PyG) (primary implementation framework)
+- Cloudera (employer where Broadwater first encountered GNNs)
+- Fast Forward Labs (team where book concept originated)
+- LinkedIn (inspiration for network visualization in preface)
+- Kumo.AI (Matthias Fey's company)
+- Amazon Products dataset (used in chapters 3, 5, 7)
+- GeoGrid dataset (used in chapter 7)
+- Frances Lefkowitz (development editor)
+- Frances Buontempo (technical development editor)
 
 ## Questions Raised
 
