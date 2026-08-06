@@ -2,6 +2,7 @@
 title: Building Fundamental Factors for Banks (Signal Processing, 8 January 2019)
 page_id: sources/db-2019-01-08-fundamental-factors-banks
 page_type: source
+source_path: markdown_output/Fundamental Factors for Banks.md
 source_type: sell-side-research
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

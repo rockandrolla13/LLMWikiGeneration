@@ -2,6 +2,7 @@
 title: Global Factor Monitor (Quantitative Musing, 5 November 2020)
 page_id: sources/db-2020-11-05-global-factor-monitor
 page_type: source
+source_path: markdown_output/d3ea8aa0_0a10_11eb_b600_309433ce0310_604.md
 source_type: sell-side-research
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

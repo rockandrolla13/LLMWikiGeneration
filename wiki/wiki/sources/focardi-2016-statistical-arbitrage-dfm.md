@@ -3,6 +3,7 @@ title: 'A New Approach to Statistical Arbitrage: Strategies Based on Dynamic Fac
   Models of Prices'
 page_id: sources/focardi-2016-statistical-arbitrage-dfm
 page_type: source
+source_path: markdown_output/1-s2.0-S0378426615002824-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

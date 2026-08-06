@@ -3,6 +3,7 @@ title: Estimation of Common Factors for Microstructure Noise and Efficient Price
   a High-Frequency Dual Factor Model
 page_id: sources/li-2023-microstructure-noise-efficient-price
 page_type: source
+source_path: markdown_output/1-s2.0-S0304407623000131-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

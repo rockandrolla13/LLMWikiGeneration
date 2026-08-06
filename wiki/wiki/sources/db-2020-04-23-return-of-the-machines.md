@@ -2,6 +2,7 @@
 title: The Return of the Machines (Quantcraft, 23 April 2020)
 page_id: sources/db-2020-04-23-return-of-the-machines
 page_type: source
+source_path: markdown_output/2f08da6e_4c53_467d_a155_f0955e99b2a1_604.md
 source_type: sell-side-research
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

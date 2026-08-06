@@ -2,6 +2,7 @@
 title: Finding Profitable Forecast Combinations Using Probability Scoring Rules
 page_id: sources/grant-2010-forecast-combinations-scoring-rules
 page_type: source
+source_path: markdown_output/1-s2.0-S0169207010000051-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

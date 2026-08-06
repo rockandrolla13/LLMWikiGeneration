@@ -2,6 +2,7 @@
 title: 'Systematic Momentum: A New Class of Price Patterns'
 page_id: sources/li-2025-systematic-momentum
 page_type: source
+source_path: markdown_output/li-yuan-zhou-systematic-momentum.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

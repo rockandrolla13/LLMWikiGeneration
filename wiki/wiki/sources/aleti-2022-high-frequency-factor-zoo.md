@@ -2,6 +2,7 @@
 title: The High-Frequency Factor Zoo
 page_id: sources/aleti-2022-high-frequency-factor-zoo
 page_type: source
+source_path: markdown_output/ssrn-4021620.md
 source_type: working-paper
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

@@ -3,6 +3,7 @@ title: Using Principal Component Analysis to Estimate a High Dimensional Factor 
   with High-Frequency Data
 page_id: sources/aitsahalia-2017-pca-hf-factor-model
 page_type: source
+source_path: markdown_output/1-s2.0-S0304407617301677-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

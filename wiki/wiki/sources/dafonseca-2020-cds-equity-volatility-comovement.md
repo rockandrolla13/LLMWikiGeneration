@@ -3,6 +3,7 @@ title: 'The Co-Movement of Credit Default Swap Spreads, Equity Returns and Volat
   Evidence from Asia-Pacific Markets'
 page_id: sources/dafonseca-2020-cds-equity-volatility-comovement
 page_type: source
+source_path: markdown_output/Int Rev Finance - 2018 - Da Fonseca - The Co‐Movement of Credit Default Swap Spreads  Equity Returns and Volatility .md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

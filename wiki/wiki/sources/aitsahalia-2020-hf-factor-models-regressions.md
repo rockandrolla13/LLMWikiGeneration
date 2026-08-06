@@ -2,6 +2,7 @@
 title: High-Frequency Factor Models and Regressions
 page_id: sources/aitsahalia-2020-hf-factor-models-regressions
 page_type: source
+source_path: markdown_output/1-s2.0-S0304407620300129-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

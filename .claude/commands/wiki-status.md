@@ -86,6 +86,10 @@ print("MIND_MAP.md is hand-curated; rebuild refuses to overwrite it.")
 
 ## What the numbers mean
 
+- **Numeric Provenance** compares every decimal figure on a source page against
+  the document that page cites. It exists because two invented statistics were
+  found in drafted pages. Pages counted `unverifiable` have no text source
+  recorded -- add `source_path: markdown_output/<file>.md` to bring them in.
 - **Integrity failures** are usually real. `Page Frontmatter` means pages are missing a
   required field. `Wikilinks` means pages link to something that was never written.
 - **Missing pages** is the useful worklist. A page linked five times is worth writing

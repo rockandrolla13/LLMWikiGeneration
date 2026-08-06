@@ -2,6 +2,7 @@
 title: Evaluating Factor Pricing Models Using High-Frequency Panels
 page_id: sources/chang-2016-factor-pricing-hf-panels
 page_type: source
+source_path: markdown_output/Quantitative Economics - 2016 - Chang - Evaluating factor pricing models using high‐frequency panels.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

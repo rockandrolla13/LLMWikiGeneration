@@ -2,6 +2,7 @@
 title: 'Understanding Systematic Risk: A High-Frequency Approach'
 page_id: sources/pelger-2015-understanding-systematic-risk
 page_type: source
+source_path: markdown_output/2015-09_MarkusPelger.md
 source_type: working-paper
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

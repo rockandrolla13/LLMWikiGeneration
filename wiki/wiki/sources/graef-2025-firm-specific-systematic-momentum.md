@@ -2,6 +2,7 @@
 title: Firm-specific versus systematic momentum
 page_id: sources/graef-2025-firm-specific-systematic-momentum
 page_type: source
+source_path: markdown_output/1-s2.0-S1544612325002272-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

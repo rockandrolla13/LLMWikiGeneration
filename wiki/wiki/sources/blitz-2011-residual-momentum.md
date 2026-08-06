@@ -2,6 +2,7 @@
 title: Residual momentum
 page_id: sources/blitz-2011-residual-momentum
 page_type: source
+source_path: markdown_output/1-s2.0-S0927539811000041-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

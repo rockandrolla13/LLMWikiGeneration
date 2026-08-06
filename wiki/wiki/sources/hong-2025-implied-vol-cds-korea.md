@@ -3,6 +3,7 @@ title: Do Changes in the Implied Volatility of Stock Options Predict Future Chan
   in CDS Spreads?
 page_id: sources/hong-2025-implied-vol-cds-korea
 page_type: source
+source_path: markdown_output/jdqs-12-2024-0048.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

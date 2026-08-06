@@ -2,6 +2,7 @@
 title: Implied Volatility Changes and Corporate Bond Returns
 page_id: sources/cao-2023-implied-vol-bond-returns
 page_type: source
+source_path: markdown_output/EBSCO-FullText-08_05_2026.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

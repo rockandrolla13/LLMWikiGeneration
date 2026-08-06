@@ -83,6 +83,7 @@ def verify_wiki(wiki: Wiki) -> VerificationReport:
     results.append(verify_page_ids(wiki))
     results.append(verify_wikilinks(wiki))
     results.append(verify_manifest_operations(wiki))
+    results.append(verify_numeric_provenance(wiki))
 
     passed = sum(1 for r in results if r.passed)
     failed = len(results) - passed
@@ -364,4 +365,49 @@ def verify_manifest_operations(wiki: Wiki) -> VerificationResult:
         name="Manifest Operations",
         passed=True,
         message=f"Manifest consistent ({len(entries)} operations)",
+    )
+
+
+def verify_numeric_provenance(wiki: Wiki) -> VerificationResult:
+    """Verify that figures on source pages appear in the documents they cite.
+
+    A summary page is easy to write and hard to check, and the failure that
+    matters is an invented statistic that reads as precise. This compares every
+    decimal figure on each source page against the text of the document that
+    page records as its origin.
+
+    Pages with no recorded source, or whose source is a PDF rather than
+    converted text, are counted as unverifiable rather than passing quietly --
+    an unchecked page should not look the same as a checked one.
+    """
+    from .provenance import check_wiki_provenance
+
+    results = check_wiki_provenance(wiki)
+    verifiable = [r for r in results if r.verifiable]
+    failing = [r for r in verifiable if r.unsupported]
+    unverifiable = len(results) - len(verifiable)
+    checked = sum(r.checked for r in verifiable)
+
+    if failing:
+        details = [
+            f"{r.page_id}: {', '.join(r.unsupported)} not found in {Path(r.source_path).name}"
+            for r in failing
+        ]
+        return VerificationResult(
+            name="Numeric Provenance",
+            passed=False,
+            message=(
+                f"{sum(len(r.unsupported) for r in failing)} figures on "
+                f"{len(failing)} pages do not appear in their source document"
+            ),
+            details=details[:10],
+        )
+
+    return VerificationResult(
+        name="Numeric Provenance",
+        passed=True,
+        message=(
+            f"{checked} figures across {len(verifiable)} pages all trace to their "
+            f"source ({unverifiable} pages unverifiable: no text source recorded)"
+        ),
     )

@@ -2,6 +2,7 @@
 title: Optimal Option Market Making and Volatility Arbitrage
 page_id: sources/lucic-2024-option-market-making-vol-arbitrage
 page_type: source
+source_path: markdown_output/4729290.md
 source_type: working-paper
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

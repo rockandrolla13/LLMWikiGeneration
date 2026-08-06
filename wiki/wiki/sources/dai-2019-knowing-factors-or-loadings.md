@@ -3,6 +3,7 @@ title: Knowing Factors or Factor Loadings, or Neither? Evaluating Estimators of 
   Covariance Matrices with Noisy and Asynchronous Data
 page_id: sources/dai-2019-knowing-factors-or-loadings
 page_type: source
+source_path: markdown_output/1-s2.0-S0304407618301702-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00

@@ -3,6 +3,7 @@ title: The Relative Informational Efficiency of Stocks, Options and Credit Defau
   Swaps During the Financial Crisis
 page_id: sources/amadori-2014-relative-informational-efficiency
 page_type: source
+source_path: markdown_output/jrf-04-2014-0044.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00
