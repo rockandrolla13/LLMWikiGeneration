@@ -5,6 +5,8 @@ Interactive workflow for managing your wiki with Obsidian as the visual frontend
 ## Environment Check
 
 ```python
+import sys
+sys.path.insert(0, "src")
 import subprocess
 import sys
 
@@ -31,7 +33,7 @@ Show current wiki state:
 from pathlib import Path
 from llm_wiki import Wiki, wiki_stats
 
-wiki = Wiki(Path("."))
+wiki = Wiki(Path("wiki"))
 if wiki.exists():
     stats = wiki_stats(wiki)
     print(f"Wiki: {stats['wiki_name']}")

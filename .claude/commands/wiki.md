@@ -16,11 +16,13 @@ Main entry point for LLM Wiki. Routes to specific commands based on action.
 ## Implementation
 
 ```python
+import sys
+sys.path.insert(0, "src")
 from pathlib import Path
 from llm_wiki import Wiki, wiki_stats, wiki_help
 from llm_wiki.integrations.omega import is_omega_available
 
-wiki_path = Path(".")
+wiki_path = Path("wiki")
 wiki = Wiki(wiki_path)
 
 # Parse $ARGUMENTS
@@ -35,10 +37,10 @@ if not args or args == "status":
 Topic: {stats['wiki_topic']}
 
 Pages: {stats['total_pages']}
-├── Sources:  {stats.get('source_count', 0)}
-├── Entities: {stats.get('entity_count', 0)}
-├── Concepts: {stats.get('concept_count', 0)}
-└── Analyses: {stats.get('analysis_count', 0)}
+├── Sources:  {stats['total_sources']}
+├── Entities: {stats['total_entities']}
+├── Concepts: {stats['total_concepts']}
+└── Analyses: {stats['total_analyses']}
 
 OMEGA: {'✓ connected' if is_omega_available() else '✗ not installed'}
 

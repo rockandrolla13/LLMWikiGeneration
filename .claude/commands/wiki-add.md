@@ -62,15 +62,17 @@ fi
 ```
 
 ```python
+import sys
+sys.path.insert(0, "src")
 # Step 2-4: Ingest and create pages
 from pathlib import Path
 from llm_wiki import Wiki, wiki_ingest
 
-wiki = Wiki(Path("."))
+wiki = Wiki(Path("wiki"))
 result = wiki_ingest(wiki, source_path=Path(SOURCE))
 
 if result["success"]:
-    print(f"✓ Source: {result['source_page']}")
+    print(f"✓ Source: {result['page_id']}")
     print(f"✓ Created: {result.get('created_pages', [])}")
     print(f"✓ Updated: {result.get('updated_pages', [])}")
 ```

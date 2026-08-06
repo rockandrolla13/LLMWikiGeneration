@@ -30,13 +30,15 @@ Before ingesting, read the source and discuss with user:
 Then execute:
 
 ```python
+import sys
+sys.path.insert(0, "src")
 from pathlib import Path
 from llm_wiki import (
     Wiki, wiki_ingest, is_omega_available, store_wiki_event,
     check_duplicate, format_duplicate_result
 )
 
-wiki = Wiki(Path("."))
+wiki = Wiki(Path("wiki"))
 source_path = Path("<source_path>")
 
 # Check for duplicates first
@@ -54,11 +56,14 @@ else:
         title="<title>",
         source_type="<type>",  # article, paper, book, video, podcast, note
         authors=["<author1>", "<author2>"],
-        content_hash=dup_result.new_hash,  # Include hash in metadata
+        summary="<one-paragraph summary>",
+        extracted_concepts=["<concept>"],   # creates concept pages
+        extracted_entities=["<entity>"],    # creates entity pages
+        tags=["<tag>"],
     )
 
     if result["success"]:
-        print(f"Ingested: {result['source_page']}")
+        print(f"Ingested: {result['page_id']}")
         print(f"Created pages: {result.get('created_pages', [])}")
 
         # Store in OMEGA

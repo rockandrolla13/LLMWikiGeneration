@@ -3,13 +3,15 @@ Resume work on this wiki with OMEGA session briefing. $ARGUMENTS
 Call this at the start of a new session to get context from previous work.
 
 ```python
+import sys
+sys.path.insert(0, "src")
 from pathlib import Path
 from llm_wiki import (
     Wiki, wiki_stats,
     is_omega_available, get_wiki_briefing, query_wiki_history,
 )
 
-wiki = Wiki(Path("."))
+wiki = Wiki(Path("wiki"))
 
 print(f"=== Resuming: {wiki.config.name} ===")
 print(f"Topic: {wiki.config.topic}")
@@ -17,7 +19,7 @@ print()
 
 # Get wiki stats
 stats = wiki_stats(wiki)
-print(f"Current state: {stats['total_pages']} pages, {stats['source_count']} sources")
+print(f"Current state: {stats['total_pages']} pages, {stats['total_sources']} sources")
 print()
 
 # Get OMEGA briefing

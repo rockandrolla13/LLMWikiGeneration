@@ -8,6 +8,8 @@ Types:
 - error: A mistake to avoid in the future
 
 ```python
+import sys
+sys.path.insert(0, "src")
 from pathlib import Path
 from llm_wiki import Wiki, is_omega_available, store_wiki_event, store_lesson
 
@@ -15,7 +17,7 @@ if not is_omega_available():
     print("OMEGA not installed. Install with: pip install omega-memory[server]")
     exit()
 
-wiki = Wiki(Path("."))
+wiki = Wiki(Path("wiki"))
 
 # Parse the user's input
 # $ARGUMENTS contains: "<type>: <content>" or just "<content>"
