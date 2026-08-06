@@ -10,7 +10,6 @@ related:
 - concepts/behavioral-finance
 - concepts/bond-momentum
 - concepts/factor-investing
-revision_hash: sha256:20c0ebb09800ecce9c489f37967e42641c6e9aff1dc99f37041463c88b2e32b6
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

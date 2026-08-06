@@ -12,7 +12,6 @@ sources:
 - sources/anon-2024-vector-databases-rag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:9518c9ebfac7ee9f
 ---
 
 # Multimodal Retrieval

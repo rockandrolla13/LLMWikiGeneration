@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Google
-revision_hash: sha256:c4f9232634e91ee9
 ---
 
 # Google Gemini

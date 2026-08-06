@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
-revision_hash: sha256:8094558c82e7ec90
 ---
 
 # Contrast Security

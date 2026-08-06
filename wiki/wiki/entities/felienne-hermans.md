@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Leiden Institute of Advanced Computer Science, Leiden University; Vrije Universiteit Amsterdam
-revision_hash: sha256:e6585ed0e58bfe9d
 ---
 
 # Felienne Hermans

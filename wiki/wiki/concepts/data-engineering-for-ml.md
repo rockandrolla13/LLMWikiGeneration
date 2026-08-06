@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:76be2bca1367132c
 ---
 
 # Data Engineering for ML

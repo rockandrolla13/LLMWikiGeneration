@@ -12,7 +12,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 related: []
 mind_map_priority: medium
-revision_hash: sha256:032397ff8ba20721
 ---
 
 # Ontology

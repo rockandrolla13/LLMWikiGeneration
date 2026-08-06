@@ -20,7 +20,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/shrina-poojara
-revision_hash: sha256:781cc1b689c8ebdcf5e9f4e2e370bcc1d44dc3ab17013bb24316197c211af2ac
 revision_id: 1
 source_hash: sha256:b6924f95249e3376c775eaf1cecd38bd55c3ef610311a700d56ca4258353d6a0
 source_path: raw/creditmacro/Morgan Stanley - FAQs on Hybrids — Hybrids Monitor and

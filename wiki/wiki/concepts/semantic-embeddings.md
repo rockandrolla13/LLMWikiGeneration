@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:209099ff12e3e7cf
 ---
 
 # Semantic Embeddings

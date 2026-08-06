@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Anysphere
-revision_hash: sha256:3462eda1313a04d8
 ---
 
 # Cursor

@@ -14,7 +14,6 @@ sources:
 - sources/berryman-2024-prompt-engineering-llms
 mind_map_priority: medium
 affiliation: XBOW
-revision_hash: sha256:d96d1ba77eae5df9
 ---
 
 # Albert Ziegler

@@ -29,7 +29,6 @@ related:
 - concepts/confounding
 - concepts/back-door-front-door-adjustment
 - concepts/instrumental-variables
-revision_hash: sha256:01d7ce6cb163ab49960481ea34890f4387c8fae37d1e767358b44cf03b12f30b
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

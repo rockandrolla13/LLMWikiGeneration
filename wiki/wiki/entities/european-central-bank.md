@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/european-central-bank
 page_type: entity
 related: []
-revision_hash: sha256:f2a752054b3de074d819906dc7cc6d45a58cc2c34ea229d7f25c03b2920895f9
 revision_id: 2
 sources:
 - sources/ms-2019-02-28-ecb-preview-tltro-funding

@@ -14,7 +14,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
 affiliation: IBM
-revision_hash: sha256:300fd38b3d1e6b36
 ---
 
 # Paul Zikopoulos

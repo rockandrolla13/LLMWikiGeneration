@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:6a5b8a6a7f85408e
 ---
 
 # OWASP Top 10 for LLM Applications

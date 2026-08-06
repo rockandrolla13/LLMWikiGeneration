@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
 affiliation: Data Artisans / Alibaba
-revision_hash: sha256:0f8058efd91f7ec7
 ---
 
 # Apache Flink

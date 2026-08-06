@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/leonard-savage
 page_type: entity
 related: []
-revision_hash: sha256:eea9dc96c036248a06f8f1f9c595637ae6665d9bb547516e9475dc13fe6d0e0b
 revision_id: 1
 sources:
 - sources/gneiting-2007-strictly-proper-scoring-rules

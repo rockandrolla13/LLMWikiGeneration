@@ -14,7 +14,6 @@ related:
 - concepts/volatility-risk-premia
 - entities/andres-jaime
 - entities/morgan-stanley
-revision_hash: sha256:040c4c4b753dacf0e88c7c27c2286c9c6ca2664eb6d17b6cda06af502360d49d
 revision_id: 1
 source_hash: sha256:950db12ae0d14377786470d929892b72bc25391fc9e6de059e4f721643289214
 source_path: raw/creditmacro/Morgan Stanley - EM Quant Strategy — EMFX Quant's Lab

@@ -25,7 +25,6 @@ related:
 - entities/jingli-li
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_hash: sha256:25f418de0b0916a1e699463fced9f8226fe43d03a26c52e09ee3db15bf8ae106
 revision_id: 1
 source_hash: sha256:c732d7f9f49c80f351c167c347e2db9f99f3c89b0caa1a19818ce9aaa6555462
 source_path: raw/creditmacro/Morgan Stanley - US Corporate Credit Strategy Brief —

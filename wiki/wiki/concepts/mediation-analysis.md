@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/four-way-effect-decomposition
-revision_hash: sha256:45c7aa6f0eda00f3373f5e48100ad1683c7dda2f18fbc7ca06263c71f03b5b3a
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

@@ -18,7 +18,6 @@ related:
 - concepts/term-structure-risk-premium
 - entities/christian-wolff
 - entities/dennis-bams
-revision_hash: sha256:f77f4447fa083a19d1bc737bc9c5fcdd39f011e0f8e75faf4e4fc2954ff97129
 revision_id: 1
 source_hash: sha256:fc63a9a0cb1f9c91d12de6ade7b1bab58b6bf4d5726bcbd2d7a8845fa8dd2727
 source_path: raw/creditmacro/1-s2.0-S1042443102000458-main.md

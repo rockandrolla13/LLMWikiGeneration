@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: Google Research
-revision_hash: sha256:ee22d4a19f3aae47
 ---
 
 # Xuezhi Wang

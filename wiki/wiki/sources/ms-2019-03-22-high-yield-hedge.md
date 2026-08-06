@@ -20,7 +20,6 @@ related:
 - entities/adam-richmond
 - entities/morgan-stanley
 - entities/vishwas-patkar
-revision_hash: sha256:f4efc6bcbacec87e46f891c82adc0a7eeaaca96504d8c71a0c1a2ba9af83f411
 revision_id: 1
 source_hash: sha256:e23e7980fab98887a79b5e54bb83168db7538fd1ee28b9e7decbed5faa8cfa7c
 source_path: raw/creditmacro/Morgan Stanley - A High Yield Hedge - 2019-03-22.md

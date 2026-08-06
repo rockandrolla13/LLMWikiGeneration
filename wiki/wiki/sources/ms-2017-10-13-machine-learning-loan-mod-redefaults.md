@@ -18,7 +18,6 @@ related:
 - entities/jeen-ng
 - entities/morgan-stanley
 - entities/vishwanath-tirupattur
-revision_hash: sha256:73408de9f6f849cf1bc928f3a24ff84aba8d1f327f17ebc23ae6699a87b39df4
 revision_id: 1
 source_hash: sha256:0fa192572cacfd55909946838e8e2f5b3ed76452137ec48c05d987968b433712
 source_path: raw/creditmacro/Morgan Stanley - MODs Machine Learning on Drivers - 2017-10-13.md

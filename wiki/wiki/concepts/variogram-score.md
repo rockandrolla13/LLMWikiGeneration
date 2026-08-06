@@ -10,7 +10,6 @@ related:
 - concepts/energy-score
 - concepts/realized-covariance
 - concepts/strictly-proper-scoring-rules
-revision_hash: sha256:e774fda5477715745872af9939470325268e87bad57b652237cbb451bd47751e
 revision_id: 1
 sources:
 - sources/ziel-2019-multivariate-forecasting-evaluation

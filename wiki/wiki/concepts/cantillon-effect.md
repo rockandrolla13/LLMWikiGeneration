@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/cantillon-effect
 page_type: concept
 related: []
-revision_hash: sha256:736d5e92790fb320d69c398065743eb08b6f1548921d63127e7bcdeda9a9ae10
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

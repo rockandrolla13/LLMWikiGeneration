@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:cbe5db966f817f0a
 ---
 
 # OpenAI API

@@ -92,7 +92,6 @@ class PageMeta:
 
     # Revision tracking
     revision_id: int = 1
-    revision_hash: str = ""
     created: datetime = field(default_factory=utc_now)
     updated: datetime = field(default_factory=utc_now)
     updated_by: str = ""  # Reference to op_id in manifest.jsonl
@@ -115,7 +114,6 @@ class PageMeta:
             "page_id": self.page_id,
             "page_type": self.page_type.value,
             "revision_id": self.revision_id,
-            "revision_hash": self.revision_hash,
             "created": self.created.isoformat() + "Z",
             "updated": self.updated.isoformat() + "Z",
             "updated_by": self.updated_by,

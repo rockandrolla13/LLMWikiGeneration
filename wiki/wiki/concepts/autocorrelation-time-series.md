@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/interrupted-time-series-design
 - concepts/segmented-regression
-revision_hash: sha256:b052be2f76bf56acb3836e1364bd4450d8a7a3d7d534b4091753ed7dedcc8b1c
 revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting

@@ -40,7 +40,6 @@ related:
 - entities/oreilly-media
 - entities/patrick-lewis
 mind_map_priority: medium
-revision_hash: sha256:aa134a902686eeab
 ---
 
 # AI Engineering

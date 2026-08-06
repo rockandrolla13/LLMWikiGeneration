@@ -21,7 +21,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: high
-revision_hash: sha256:ecb0049df317adf8
 ---
 
 # OpenAI

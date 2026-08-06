@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/code-smells
 mind_map_priority: medium
-revision_hash: sha256:060d9fd2558f57dd
 ---
 
 # Linguistic Anti-Patterns

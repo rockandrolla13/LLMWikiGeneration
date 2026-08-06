@@ -41,7 +41,6 @@ related:
 - entities/tabnine
 - entities/tom-taulli
 mind_map_priority: medium
-revision_hash: sha256:2196e152748a3b04
 ---
 
 # AI-Assisted Programming

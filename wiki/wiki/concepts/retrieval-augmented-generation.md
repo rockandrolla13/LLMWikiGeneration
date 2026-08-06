@@ -25,7 +25,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: high
-revision_hash: sha256:41757c9d69753b26
 ---
 
 # Retrieval-Augmented Generation

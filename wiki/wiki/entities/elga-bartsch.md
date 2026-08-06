@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/elga-bartsch
 page_type: entity
 related: []
-revision_hash: sha256:e94a1526b239b0cef0a766bbdbfc264fb5e9086ad7972fdcb87cdbd066d7d547
 revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide

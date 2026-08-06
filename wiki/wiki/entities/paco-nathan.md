@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Senzing
-revision_hash: sha256:e4f3e9212c92762e
 ---
 
 # Paco Nathan

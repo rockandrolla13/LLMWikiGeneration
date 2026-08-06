@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/lbo-risk
-revision_hash: sha256:715fde8509f8b2e42e427b26092007f8a81f31ee880a80c1292e15fca2b2c382
 revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix

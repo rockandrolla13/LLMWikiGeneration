@@ -7,7 +7,7 @@ This package provides file operations:
 - dedup: Duplicate detection for source ingestion
 """
 
-from .hashing import compute_content_hash, compute_page_content_hash, compute_file_hash
+from .hashing import compute_content_hash, compute_file_hash
 from .wikilinks import (
     extract_wikilinks,
     normalize_page_id,
@@ -37,7 +37,6 @@ from .dedup import (
 __all__ = [
     # Hashing
     "compute_content_hash",
-    "compute_page_content_hash",
     "compute_file_hash",
     # Wikilinks
     "extract_wikilinks",

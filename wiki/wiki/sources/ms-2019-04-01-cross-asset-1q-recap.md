@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:c33a649a4bc004645f276c24e070ac63ffc80b48a7b117d31e136d58d10f61af
 revision_id: 1
 source_hash: sha256:56b097cc9c86f3ed009ccc46fa4859f4544ff2f9031f2a5339a8d5908c10effa
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the

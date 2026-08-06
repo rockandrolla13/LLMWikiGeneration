@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jason-karceski
 page_type: entity
 related: []
-revision_hash: sha256:794d496c8393ff4e62c6f1e6593878d275755363fad3d7896f046c213d9024ee
 revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates

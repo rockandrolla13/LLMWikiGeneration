@@ -27,7 +27,6 @@ related:
 - entities/purva-pruthi
 - entities/stefan-wager
 - entities/susan-athey
-revision_hash: sha256:5f7cb8349d6e8468ecde4605fa3143425c81919b7cc02581450e7ea06f3ede8b
 revision_id: 1
 source_hash: sha256:b7a009354b909cd222cda85d49f4a7b4282eefa9bfd2ddb764fa57c7d1527003
 source_path: raw/causality-testing/2010.03051v2.pdf

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/cliff-asness
 page_type: entity
 related: []
-revision_hash: sha256:7077471d645db4e5721f8f12657f290c7b2d1b6c10849988c59f6a3b67ac34ab
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

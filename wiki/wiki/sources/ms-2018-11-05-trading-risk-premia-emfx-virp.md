@@ -15,7 +15,6 @@ related:
 - concepts/volatility-risk-premia
 - entities/andres-jaime
 - entities/morgan-stanley
-revision_hash: sha256:e55ab3fd1b12e97e39dc784a4edb22ab9994f19864591f5bbcb3007d6fc680c6
 revision_id: 1
 source_hash: sha256:75670fe1da1ddfbf3972134b6db6ff7b8d3d66f64e9aa8e2e316ac129c876501
 source_path: raw/creditmacro/Morgan Stanley - EM Quant Strategy — Trading Risk Premia

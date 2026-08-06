@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/spillover-effect
 - concepts/structural-vector-autoregression
-revision_hash: sha256:2a6c9048343624ea73859a8575822d0faa962d83b9e6f22ee249b3737bed5cf2
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

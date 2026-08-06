@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:1b12a843eb17779a
 ---
 
 # Test in Production

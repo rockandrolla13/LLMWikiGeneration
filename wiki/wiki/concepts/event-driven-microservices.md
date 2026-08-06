@@ -12,7 +12,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 related: []
 mind_map_priority: medium
-revision_hash: sha256:81f55527d4b82c34
 ---
 
 # Event-Driven Microservices

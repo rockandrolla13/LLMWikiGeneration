@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andres-jaime
 page_type: entity
 related: []
-revision_hash: sha256:89b0b086f1648bf9242ec3a765d2ba59355fdcd3ead42a27af5e0bb21db35725
 revision_id: 1
 sources:
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor

@@ -13,7 +13,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 related: []
 mind_map_priority: medium
-revision_hash: sha256:0d114c7cc0a27a96
 ---
 
 # AI Hallucination

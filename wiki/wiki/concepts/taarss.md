@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_hash: sha256:ebf33b2ec73409f9286e033533c0dfdb160d4049faf5d24cacff5efd97feb512
 revision_id: 1
 sources:
 - sources/mercado-2015-taarss-flow-whisperer

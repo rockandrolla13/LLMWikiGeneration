@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/gek-teng-khoo
 page_type: entity
 related: []
-revision_hash: sha256:e910db945c2211023a6a9c7c62a7c28691e490438e038b367732ed73d89ab8aa
 revision_id: 1
 sources:
 - sources/ms-2019-02-11-fx-positioning-tracker

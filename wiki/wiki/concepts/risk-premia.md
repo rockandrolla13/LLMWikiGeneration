@@ -23,7 +23,6 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_hash: sha256:78f075d3815c96c4474289cb35d2ee0b5acac681baef09e8aefa474093f5a6b1
 revision_id: 2
 sources:
 - sources/ilmanen-2011-expected-returns

@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
-revision_hash: sha256:d67a83e22dee5576
 ---
 
 # Weights and Biases

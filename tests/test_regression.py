@@ -194,14 +194,10 @@ class TestDataIntegrity:
         page_path = tmp_path / "wiki" / "sources" / "test.md"
         metadata, content = parse_page(page_path)
 
-        # Ingest must persist a revision_hash, and it must survive the
-        # write/read round trip. This assertion used to be guarded by
-        # `if stored_hash:` and so never ran -- ingest wrote no hash at all.
-        from llm_wiki.io import compute_page_content_hash
-
-        stored_hash = metadata.get("revision_hash", "")
-        assert stored_hash, "ingest must persist revision_hash"
-        assert stored_hash == compute_page_content_hash(content)
+        # revision_hash was removed: the values on every existing page were
+        # not hashes of anything, and git already reports what changed.
+        assert "revision_hash" not in metadata
+        assert content.strip(), "page must still have a body"
 
     def test_source_hash_integrity(self, tmp_path):
         """Source file hash is recorded correctly."""

@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:b177b8bc071f0fb5
 ---
 
 # Dense Retrieval

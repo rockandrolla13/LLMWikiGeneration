@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
-revision_hash: sha256:e1685f3feeb4f370
 ---
 
 # Hugging Face

@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Meta
-revision_hash: sha256:d56e1981b974409c
 ---
 
 # Meta Llama

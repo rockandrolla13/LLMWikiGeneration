@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/miguel-hernan
 page_type: entity
 related: []
-revision_hash: sha256:9cf94cc304ba629c83a30d033b9b20a0741bc6b3aea0d41f75e17ed91974330e
 revision_id: 1
 sources:
 - sources/hernan-2020-causal-inference-what-if

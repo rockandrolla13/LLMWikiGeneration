@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
-revision_hash: sha256:a4893b7ec7d72334
 ---
 
 # LlamaIndex

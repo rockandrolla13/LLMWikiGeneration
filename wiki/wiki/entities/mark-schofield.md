@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/mark-schofield
 page_type: entity
 related: []
-revision_hash: sha256:233b4b212e214d172a1e2c239ba86503e25cca9df1ab6e5616ce0be9958d9bed
 revision_id: 1
 sources:
 - sources/schofield-2019-citi-macro-views

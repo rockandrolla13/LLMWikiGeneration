@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/aleksandr-nozhnitskiy
 page_type: entity
 related: []
-revision_hash: sha256:bb4ac90b3bac5b3b8d516e2ef728d68a0a01f7a0958bc9c19935f548e2b5c3c1
 revision_id: 1
 sources:
 - sources/ms-2019-02-28-selling-the-rally

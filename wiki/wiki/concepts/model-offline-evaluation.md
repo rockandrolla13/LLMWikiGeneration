@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/calibration
 mind_map_priority: medium
-revision_hash: sha256:7bc7f94db7c4f2d6
 ---
 
 # Model Offline Evaluation

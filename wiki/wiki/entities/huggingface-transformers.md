@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: Hugging Face
-revision_hash: sha256:d8f2caa7f888a11d
 ---
 
 # Hugging Face Transformers

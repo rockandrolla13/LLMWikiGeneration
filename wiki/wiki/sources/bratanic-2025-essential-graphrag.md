@@ -42,7 +42,6 @@ related:
 - entities/paco-nathan
 - entities/tomaz-bratanic
 mind_map_priority: medium
-revision_hash: sha256:8183d1362d61b136
 ---
 
 # Essential GraphRAG

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/dana-mackenzie
 page_type: entity
 related: []
-revision_hash: sha256:ccaeb85e6d9b9f360676df5a7f3c71712e0f622f300122576724f84dd6164a21
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

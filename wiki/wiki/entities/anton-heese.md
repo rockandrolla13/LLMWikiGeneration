@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/anton-heese
 page_type: entity
 related: []
-revision_hash: sha256:95752909a522947dea8856efde5f227b133ff65d2f66d6f7ea7ea113cba4623d
 revision_id: 1
 sources:
 - sources/ms-2015-03-06-bond-market-indicators

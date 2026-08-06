@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/graph-neural-networks
 mind_map_priority: medium
-revision_hash: sha256:e15d9c46ed15796c
 ---
 
 # Graph-Native Machine Learning

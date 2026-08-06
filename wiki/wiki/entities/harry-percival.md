@@ -14,7 +14,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
 affiliation: MADE.com
-revision_hash: sha256:2faf1e6cd460032d
 ---
 
 # Harry Percival

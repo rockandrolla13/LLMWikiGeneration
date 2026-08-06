@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:e65b46be069f4a8c
 ---
 
 # Eric Evans

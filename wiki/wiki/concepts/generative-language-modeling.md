@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:973c223aebd4fd33
 ---
 
 # Generative Language Modeling

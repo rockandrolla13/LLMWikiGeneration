@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/paul-rosenbaum
 page_type: entity
 related: []
-revision_hash: sha256:1648b5912e5d157a17af46017eba707fc6d5af50c8d842737e0efd3481819faa
 revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference

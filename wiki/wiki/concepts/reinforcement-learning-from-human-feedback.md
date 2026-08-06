@@ -16,7 +16,6 @@ related:
 - concepts/parameter-efficient-fine-tuning
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:3438d167706356b5
 ---
 
 # Reinforcement Learning from Human Feedback

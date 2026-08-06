@@ -8,7 +8,6 @@ page_id: concepts/sales-growth-base-rates
 page_type: concept
 related:
 - concepts/behavioral-finance
-revision_hash: sha256:9320d5bd347a6cc4f3d358ab450d48348b2be7bc008a57708d231c2dff96fbb9
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

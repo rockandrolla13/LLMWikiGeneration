@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/mendelevitch-2025-hands-on-rag
 mind_map_priority: medium
-revision_hash: sha256:f9f234227733d8a8
 ---
 
 # Vectara

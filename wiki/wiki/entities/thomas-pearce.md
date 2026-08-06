@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/thomas-pearce
 page_type: entity
 related: []
-revision_hash: sha256:7f4d83ad217819766eed92d445c02de5ecc4f868e35021534a21c24c3f0090c5
 revision_id: 1
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum

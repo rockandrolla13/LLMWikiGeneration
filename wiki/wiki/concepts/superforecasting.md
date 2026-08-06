@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/calibration
-revision_hash: sha256:243dfc2b46ee9136485e764ee1f9d4917c3fde135d95791a75c0ef49f8b373ef
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

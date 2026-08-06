@@ -27,7 +27,6 @@ related:
 - entities/katerina-smidkova
 - entities/marek-rusnak
 - entities/tomas-havranek
-revision_hash: sha256:12562dd7155a45fba51c9976322aeb366e243e6bdef5d557fb33c2ca5befe00a
 revision_id: 1
 source_hash: sha256:3bd6a2fbcaff1beece0bec44d5b301e1f34b4596316c6b3fd2766d6bc798b26f
 source_path: raw/creditmacro/1-s2.0-S0261560613000028-main.md

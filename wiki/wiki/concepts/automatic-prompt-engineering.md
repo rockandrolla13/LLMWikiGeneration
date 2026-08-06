@@ -12,7 +12,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:ce7b5378d201fd4d
 ---
 
 # Automatic Prompt Engineering

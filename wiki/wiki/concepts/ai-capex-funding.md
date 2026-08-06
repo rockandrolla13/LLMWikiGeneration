@@ -10,7 +10,6 @@ related:
 - concepts/agentic-ai
 - concepts/corporate-bonds
 - concepts/generative-ai
-revision_hash: sha256:77fb8357e0e1f29d0872975b58003c05a1c889f144d6ce24863db7cbbc32fc5c
 revision_id: 1
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix

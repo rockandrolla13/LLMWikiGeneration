@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/tomas-havranek
 page_type: entity
 related: []
-revision_hash: sha256:0ccdf758545289caf27e0a87e4d4bdb006192b9636b78cd1dc1b1acb1f6b16d6
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

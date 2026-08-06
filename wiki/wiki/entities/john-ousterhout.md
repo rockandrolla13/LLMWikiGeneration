@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: Stanford University
-revision_hash: sha256:a423339093a6af66
 ---
 
 # John Ousterhout

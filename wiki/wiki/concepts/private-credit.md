@@ -11,7 +11,6 @@ related:
 - concepts/lbo-risk
 - concepts/liquidity-risk
 - concepts/private-credit-leveraged-loans
-revision_hash: sha256:9575c84ba92cd8e774ee548abf9c7c462a460b28db2b648edb1d6e97af79f6db
 revision_id: 2
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk

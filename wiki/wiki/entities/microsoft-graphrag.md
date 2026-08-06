@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Microsoft Research
-revision_hash: sha256:a3ef7f65b9209924
 ---
 
 # Microsoft GraphRAG

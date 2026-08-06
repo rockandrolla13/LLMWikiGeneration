@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:27aec7085e233c22
 ---
 
 # GELU Activation

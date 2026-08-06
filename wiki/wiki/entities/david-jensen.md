@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-jensen
 page_type: entity
 related: []
-revision_hash: sha256:904f5f084e8089a7d7646089e683c158d2be28ca1c4b8fd893abf2f3bd4c37eb
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

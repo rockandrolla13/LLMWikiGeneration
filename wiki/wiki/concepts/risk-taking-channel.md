@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/risk-taking-channel
 page_type: concept
 related: []
-revision_hash: sha256:8e947a85675d650a3d43d0ae7c3784410635fab6a33a7195c4b7e275c2476961
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

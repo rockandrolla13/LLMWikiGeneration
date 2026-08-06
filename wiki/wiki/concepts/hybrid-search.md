@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/vector-similarity-search
 mind_map_priority: medium
-revision_hash: sha256:7daca07ddc783c4c
 ---
 
 # Hybrid Search

@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:9683223c5761656b
 ---
 
 # Tom Brown

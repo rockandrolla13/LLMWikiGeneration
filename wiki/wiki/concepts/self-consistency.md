@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/chain-of-thought-prompting
 mind_map_priority: medium
-revision_hash: sha256:33a04ebe97b657e0
 ---
 
 # Self-Consistency

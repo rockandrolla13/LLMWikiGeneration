@@ -41,7 +41,6 @@ related:
 - entities/patrick-lewis
 - entities/vectara
 mind_map_priority: medium
-revision_hash: sha256:87cbf327acc6df2b
 ---
 
 # Hands-On RAG for Production

@@ -12,7 +12,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:27fa3a1a5b92ab4a
 ---
 
 # Knowledge Graph Construction

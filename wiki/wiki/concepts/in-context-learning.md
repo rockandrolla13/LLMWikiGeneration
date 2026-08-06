@@ -17,7 +17,6 @@ related:
 - concepts/prompt-engineering
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:552c3121762ae56e
 ---
 
 # In-Context Learning

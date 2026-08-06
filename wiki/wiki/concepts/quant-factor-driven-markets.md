@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_hash: sha256:5b6463c0b57d9d1b89cb545324ba4a916965ecfaa77533541aaa9a122612c072
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

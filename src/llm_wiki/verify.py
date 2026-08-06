@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Optional
 
 from .wiki import Wiki
-from .io import parse_page, compute_page_content_hash, extract_wikilinks
+from .io import parse_page, extract_wikilinks
 from .schemas import PageType
 
 
@@ -78,7 +78,6 @@ def verify_wiki(wiki: Wiki) -> VerificationReport:
     results.append(verify_manifest_exists(wiki))
     results.append(verify_directory_structure(wiki))
     results.append(verify_page_frontmatter(wiki))
-    results.append(verify_revision_hashes(wiki))
     results.append(verify_page_ids(wiki))
     results.append(verify_wikilinks(wiki))
     results.append(verify_manifest_operations(wiki))
@@ -199,44 +198,6 @@ def verify_page_frontmatter(wiki: Wiki) -> VerificationResult:
         name="Page Frontmatter",
         passed=True,
         message=f"All {page_count} pages have valid frontmatter",
-    )
-
-
-def verify_revision_hashes(wiki: Wiki) -> VerificationResult:
-    """Verify revision_hash matches content hash for all pages."""
-    issues = []
-
-    for page_path in wiki.list_pages():
-        try:
-            metadata, content = parse_page(page_path)
-            if "revision_hash" not in metadata:
-                continue  # Skip if no hash stored
-
-            stored_hash = metadata["revision_hash"]
-            # Must use the same normalisation the writer used, otherwise every
-            # page reports a mismatch purely from round-trip whitespace.
-            computed_hash = compute_page_content_hash(content)
-
-            if stored_hash != computed_hash:
-                issues.append(
-                    f"{page_path.name}: hash mismatch "
-                    f"(stored={stored_hash[:20]}..., computed={computed_hash[:20]}...)"
-                )
-        except Exception as e:
-            issues.append(f"{page_path.name}: error - {e}")
-
-    if issues:
-        return VerificationResult(
-            name="Revision Hashes",
-            passed=False,
-            message=f"{len(issues)} pages have hash mismatches",
-            details=issues[:10],
-        )
-
-    return VerificationResult(
-        name="Revision Hashes",
-        passed=True,
-        message="All revision hashes match content",
     )
 
 

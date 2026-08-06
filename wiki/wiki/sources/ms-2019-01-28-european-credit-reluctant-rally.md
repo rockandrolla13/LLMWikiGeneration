@@ -18,7 +18,6 @@ related:
 - entities/max-blass
 - entities/morgan-stanley
 - entities/srikanth-sankaran
-revision_hash: sha256:124a0693f5362aebc34b4e7e4df20856966108310f2c50eea86fec75773b3402
 revision_id: 1
 source_hash: sha256:3f5c7ee7a3db3aeaea826cb78de693236954bbd37d18893a78a802648f6a72ec
 source_path: raw/creditmacro/Morgan Stanley - European Credit Playbook A Reluctant

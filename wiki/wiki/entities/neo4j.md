@@ -14,7 +14,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
-revision_hash: sha256:9aaa7c2800a72960
 ---
 
 # Neo4j

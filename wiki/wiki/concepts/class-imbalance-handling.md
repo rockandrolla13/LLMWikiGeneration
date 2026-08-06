@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:dd7c2ee6bf5954f6
 ---
 
 # Class Imbalance Handling

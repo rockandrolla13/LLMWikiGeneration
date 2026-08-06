@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/feature-engineering
 mind_map_priority: medium
-revision_hash: sha256:d3347d876187f7f5
 ---
 
 # Feature Store

@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/hazard-rate-curve
 - concepts/survival-probability
-revision_hash: sha256:06793c6c13d8ab17987d7c4fe9a54012872fbe03eb53f44c9d3b6e408a2731cb
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

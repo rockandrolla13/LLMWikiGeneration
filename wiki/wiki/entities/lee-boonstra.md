@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: Google
-revision_hash: sha256:2d9e182579da115f
 ---
 
 # Lee Boonstra

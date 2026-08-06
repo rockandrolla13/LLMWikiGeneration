@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
-revision_hash: sha256:f647fb68b5d74ee1
 ---
 
 # Google

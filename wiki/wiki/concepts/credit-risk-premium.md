@@ -11,7 +11,6 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
 - concepts/factor-models
-revision_hash: sha256:10abadb86afdf4f6196f15019325ca7df8e0b39943afdea88883646084871172
 revision_id: 1
 sources:
 - sources/ilmanen-2011-expected-returns

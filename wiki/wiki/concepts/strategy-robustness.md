@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/market-timing
 - concepts/mean-reversion
-revision_hash: sha256:7e669419336a548ceb6b82cdacbbeb47a721e8839d7cb35ed31f9751f27a6215
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

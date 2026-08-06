@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:b25be5a384e27d43
 ---
 
 # tiktoken

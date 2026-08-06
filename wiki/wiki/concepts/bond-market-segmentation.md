@@ -8,7 +8,6 @@ page_id: concepts/bond-market-segmentation
 page_type: concept
 related:
 - concepts/corporate-bonds
-revision_hash: sha256:bed1c2941236aabf7b9f83cf12eb4a6d2915e4ac9cb92b3001f1ec7671dce874
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

@@ -18,7 +18,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: high
-revision_hash: sha256:447f7e05c17a8dfe
 ---
 
 # Embeddings

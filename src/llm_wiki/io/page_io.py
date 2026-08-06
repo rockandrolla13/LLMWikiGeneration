@@ -7,7 +7,7 @@ Uses python-frontmatter library for parsing.
 from pathlib import Path
 import frontmatter
 
-from .hashing import compute_content_hash, compute_page_content_hash
+from .hashing import compute_content_hash
 
 
 # Marker stamped into every artifact this tool generates. Its presence is what
@@ -103,7 +103,7 @@ def write_page(
     output = frontmatter.dumps(post)
 
     # Compute hash of content (body only, not frontmatter)
-    content_hash = compute_page_content_hash(content)
+    content_hash = compute_content_hash(content)
 
     if atomic:
         # Write to temp file then rename (atomic on POSIX)

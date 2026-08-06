@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:2f497679b3510806
 ---
 
 # Redis

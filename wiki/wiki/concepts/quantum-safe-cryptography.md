@@ -12,7 +12,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 related: []
 mind_map_priority: medium
-revision_hash: sha256:6d8996853abaa5f7
 ---
 
 # Quantum-Safe Cryptography

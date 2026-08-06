@@ -14,7 +14,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 mind_map_priority: medium
 affiliation: Neo4j
-revision_hash: sha256:73226ade1268a667
 ---
 
 # Maya Natarajan

@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:ba829ffbcf9e0ed0
 ---
 
 # Insecure Output Handling

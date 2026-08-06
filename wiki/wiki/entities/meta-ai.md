@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/mendelevitch-2025-hands-on-rag
 mind_map_priority: medium
-revision_hash: sha256:e0c0328bc12139a8
 ---
 
 # Meta AI

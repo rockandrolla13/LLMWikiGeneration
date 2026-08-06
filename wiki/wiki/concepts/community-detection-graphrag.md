@@ -12,7 +12,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:9a42230c6c27bbd4
 ---
 
 # Community Detection for GraphRAG

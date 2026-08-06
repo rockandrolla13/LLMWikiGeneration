@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
-revision_hash: sha256:da0279d28f43bc5b
 ---
 
 # IBM

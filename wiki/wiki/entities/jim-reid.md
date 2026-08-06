@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jim-reid
 page_type: entity
 related: []
-revision_hash: sha256:1ad5f62973e4d2dafb4a384100fc3a85a9d0616fd84f4c382e580f945c0aaf9d
 revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai

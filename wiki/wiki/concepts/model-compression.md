@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:bb41e96aa4d91aa5
 ---
 
 # Model Compression

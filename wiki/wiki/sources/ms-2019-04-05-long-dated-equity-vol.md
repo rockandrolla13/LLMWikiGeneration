@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:fa6f7a277b0b210988489d11fc8ff0a6bdc2351a866fefe2663eb5d0dd45804a
 revision_id: 1
 source_hash: sha256:8b4e66b1f0844891f87c72538efea4c7d84cf1b90aa0e7a31ba4526b6ce894e8
 source_path: raw/creditmacro/Morgan Stanley - Long-Dated Vol Lines Up - 2019-04-05.md

@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/monetary-irregular-deposit-contract
 page_type: concept
 related: []
-revision_hash: sha256:f34caa919cf3c0ffb280f82d5999d05bdc15bb9d38fd27d1710503c338a14cf2
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

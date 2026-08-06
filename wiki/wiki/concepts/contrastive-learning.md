@@ -16,7 +16,6 @@ related:
 - concepts/dense-retrieval
 - concepts/token-embeddings
 mind_map_priority: medium
-revision_hash: sha256:0514b87d58fac080
 ---
 
 # Contrastive Learning

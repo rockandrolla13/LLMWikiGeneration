@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/retrieval-augmented-generation
 mind_map_priority: medium
-revision_hash: sha256:0cf2f08bf0ca06e4
 ---
 
 # Agentic RAG

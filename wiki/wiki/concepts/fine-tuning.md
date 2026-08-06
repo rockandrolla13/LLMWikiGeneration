@@ -12,7 +12,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 related: []
 mind_map_priority: medium
-revision_hash: sha256:17712a8432371d90
 ---
 
 # Fine-Tuning

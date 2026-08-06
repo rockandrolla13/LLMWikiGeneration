@@ -8,7 +8,6 @@ page_id: concepts/fractional-kelly-position-sizing
 page_type: concept
 related:
 - concepts/algorithmic-trading
-revision_hash: sha256:698070abfcc2dd3405792b6681cdec21b49de18daf884c1f35d304d1cd5b6acb
 revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan

@@ -8,7 +8,6 @@ page_id: concepts/bayesian-model-averaging
 page_type: concept
 related:
 - concepts/factor-models
-revision_hash: sha256:91fbd8adc60121e4385dac405b2b64c4bc8bda94ae83ba67cc00a0ab55674903
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

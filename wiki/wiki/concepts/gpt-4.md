@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:c7bad6cdbdf71c27
 ---
 
 # GPT-4

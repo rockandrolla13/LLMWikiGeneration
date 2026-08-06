@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:a6a4f2d6f19c5ae8
 ---
 
 # Decoding Strategies

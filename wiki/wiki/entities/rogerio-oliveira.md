@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/rogerio-oliveira
 page_type: entity
 related: []
-revision_hash: sha256:b909d5edb94ea0e1b2d14e3cd0f6b4f097a8a0825b63f43ada0fd7e0a4c435de
 revision_id: 1
 sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly

@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/system-prompting
 mind_map_priority: medium
-revision_hash: sha256:d5140d837bdcef0e
 ---
 
 # Role Prompting

@@ -16,7 +16,6 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/style-premia
-revision_hash: sha256:7a92202421843e940d9c7a7adacc75fb4a93ec244d35c5231ab69ed9fbd25100
 revision_id: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

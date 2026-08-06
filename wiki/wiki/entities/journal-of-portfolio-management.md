@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/journal-of-portfolio-management
 page_type: entity
 related: []
-revision_hash: sha256:e0a3821c9be2b5775450cdab1cbac5252077e5cfe0963a1d89e993279ad8e8fe
 revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging

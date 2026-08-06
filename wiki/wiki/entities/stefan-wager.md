@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/stefan-wager
 page_type: entity
 related: []
-revision_hash: sha256:9d2efb056ed4abd0a7e81d1868bd8b4f207cb0e3893480720d03eab4614f0cbe
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

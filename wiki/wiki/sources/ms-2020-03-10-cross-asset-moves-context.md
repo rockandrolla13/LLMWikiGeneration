@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:c2ce05413933986ed5f9d2058ef7c83720b45c155d5b1804503f87cef3a80038
 revision_id: 1
 source_hash: sha256:46b3ea9e8539fc523e8119908aa71cbbc06f9440db279bf2b36fd29708cc30d5
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Brief — Taking Stock – Recent

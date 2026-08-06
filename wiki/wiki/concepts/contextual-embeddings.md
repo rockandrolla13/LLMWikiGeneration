@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:41f77c153e89e052
 ---
 
 # Contextual Embeddings

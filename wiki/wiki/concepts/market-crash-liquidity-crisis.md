@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/liquidity-risk
-revision_hash: sha256:cbad628816d38ede0809836e01e3f69cd892ca5e896abf388bd392450bf56fcd
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

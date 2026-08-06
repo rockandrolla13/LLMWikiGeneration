@@ -8,7 +8,6 @@ page_id: concepts/null-hypothesis-significance-testing
 page_type: concept
 related:
 - concepts/calibration
-revision_hash: sha256:887308f9c260e879140730551ffa1c537af54a7b60e52551bdddc7ba190efcea
 revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong

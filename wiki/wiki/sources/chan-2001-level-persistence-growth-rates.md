@@ -20,7 +20,6 @@ related:
 - entities/josef-lakonishok
 - entities/louis-chan
 - entities/national-bureau-of-economic-research
-revision_hash: sha256:e5bac63aaba4fbeec0a7ea3db22be767a3fb210b10fa24af820247da6c71868f
 revision_id: 1
 source_hash: sha256:205496942c0dc82961c6fba6f2670cee391da91c669a4587b84b22a7dfcd83df
 source_path: raw/creditmacro/w8282.md

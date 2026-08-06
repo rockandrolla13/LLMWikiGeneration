@@ -43,7 +43,6 @@ related:
 - entities/oreilly-media
 - entities/shunyu-yao
 mind_map_priority: medium
-revision_hash: sha256:9a5841c55ec1fe33
 ---
 
 # Learning LangChain

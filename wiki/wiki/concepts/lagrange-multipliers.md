@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/constrained-optimization
 - concepts/minimum-variance-portfolio
-revision_hash: sha256:70fef736ac5cdaf514c9c2fa6b25f028159609cb981bc168f1d40a9d342670c4
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

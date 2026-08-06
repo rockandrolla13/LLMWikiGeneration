@@ -41,7 +41,6 @@ related:
 - entities/redis
 - entities/sqlalchemy
 mind_map_priority: medium
-revision_hash: sha256:fff22579b48b752b
 ---
 
 # Architecture Patterns with Python

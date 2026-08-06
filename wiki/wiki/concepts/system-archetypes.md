@@ -8,7 +8,6 @@ page_id: concepts/system-archetypes
 page_type: concept
 related:
 - concepts/feedback-loops
-revision_hash: sha256:97bc337722ca2ab89decbb3b983fb0b4ffa22b87e330042452ed97d856daf491
 revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models

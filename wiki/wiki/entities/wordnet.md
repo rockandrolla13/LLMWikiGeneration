@@ -14,7 +14,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 mind_map_priority: medium
 affiliation: Global WordNet Association
-revision_hash: sha256:3d77d9de56e4b10e
 ---
 
 # WordNet

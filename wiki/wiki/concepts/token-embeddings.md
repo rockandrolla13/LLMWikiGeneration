@@ -17,7 +17,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:c8b211139b95c79b
 ---
 
 # Token Embeddings

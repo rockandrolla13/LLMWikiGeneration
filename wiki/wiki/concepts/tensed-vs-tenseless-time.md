@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/tensed-vs-tenseless-time
 page_type: concept
 related: []
-revision_hash: sha256:680ac6248b675e8d386db60a4e657074960af19acdb0dfc46478455d0b46cfd5
 revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation

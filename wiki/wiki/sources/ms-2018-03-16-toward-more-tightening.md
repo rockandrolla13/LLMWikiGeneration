@@ -25,7 +25,6 @@ related:
 - entities/koichi-sugisaki
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_hash: sha256:b091c914c6c419a4ad451ed43195c355ddc7336b992caad0b099518d063862e8
 revision_id: 1
 source_hash: sha256:358ae8bfeace908278efbfc010187e081dbe5d9b8fa1cb8154fafbec01b547be
 source_path: raw/creditmacro/Morgan Stanley - Global Interest Rate Strategist — Toward

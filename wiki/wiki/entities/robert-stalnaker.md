@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-stalnaker
 page_type: entity
 related: []
-revision_hash: sha256:db4f8a8dd7bebff5bc073416311202bf4d811cc63421c4fbc516c1ce7ceb7f14
 revision_id: 1
 sources:
 - sources/schulz-counterfactuals-and-probability

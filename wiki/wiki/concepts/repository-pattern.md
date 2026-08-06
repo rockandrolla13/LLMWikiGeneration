@@ -12,7 +12,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 related: []
 mind_map_priority: medium
-revision_hash: sha256:10b00dea042d1fee
 ---
 
 # Repository Pattern

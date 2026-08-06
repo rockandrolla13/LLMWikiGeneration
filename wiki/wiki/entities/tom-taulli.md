@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
-revision_hash: sha256:54062b7575badfe6
 ---
 
 # Tom Taulli

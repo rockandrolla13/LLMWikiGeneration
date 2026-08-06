@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:92a46f5aa9d9c5ce
 ---
 
 # Inference Optimization

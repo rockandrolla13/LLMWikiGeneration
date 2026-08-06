@@ -22,7 +22,6 @@ related:
 - entities/peter-carr
 - entities/robert-geske
 - entities/robert-merton
-revision_hash: sha256:128cdbc36398d8eb6e9f8d4e1a80c1445f9aac0b1a874ab96ebd95737af6fcad
 revision_id: 1
 source_hash: sha256:d228904f46af96fbf59ce9292315e235d77ffae830b3f93efe9065a8b6a5c254
 source_path: raw/creditmacro/raae005.md

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vishy-tirupattur
 page_type: entity
 related: []
-revision_hash: sha256:4c6adb036fb9f70eb255b45435d0e7d1d679591630bedbfcb8f32de3a756aaf3
 revision_id: 1
 sources:
 - sources/patkar-2026-ms-global-credit-midyear

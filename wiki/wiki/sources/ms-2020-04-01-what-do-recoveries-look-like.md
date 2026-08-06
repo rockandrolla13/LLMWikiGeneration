@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/naomi-poole
 - entities/serena-tang
-revision_hash: sha256:5035ea4950d27ae2421402fcd6c7849b5d0d5e8bb6d7ea402c3b7d6ec2beb221
 revision_id: 1
 source_hash: sha256:e897cec48f3c0df3dcbcc5dfec07abfd10ffe8a520444dd55c650aa36a29ec71
 source_path: raw/creditmacro/Morgan Stanley - Cross-Asset Dispatches — What Do Recoveries

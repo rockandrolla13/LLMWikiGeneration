@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: Google Research
-revision_hash: sha256:63248498ea4bd6f1
 ---
 
 # Jason Wei

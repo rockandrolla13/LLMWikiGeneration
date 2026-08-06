@@ -8,7 +8,6 @@ page_id: concepts/wealth-inequality-financialized-capitalism
 page_type: concept
 related:
 - concepts/behavioral-finance
-revision_hash: sha256:9445cf269b60d35d0a77cd87b121d07c8a8f62878bd2ecf8ef516a0b8038eb48
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

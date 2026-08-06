@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/causation-versus-unification
-revision_hash: sha256:2185b2a9599b5b952a38a485b1322333a27271735c3386548159bffde0954956
 revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation

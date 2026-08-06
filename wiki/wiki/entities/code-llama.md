@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Meta
-revision_hash: sha256:ac517157fbc1f262
 ---
 
 # Code Llama

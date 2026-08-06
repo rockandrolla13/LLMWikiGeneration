@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:8d9df1644cc4c7a8
 ---
 
 # Data Poisoning

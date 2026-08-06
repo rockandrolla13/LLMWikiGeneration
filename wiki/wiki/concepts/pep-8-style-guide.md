@@ -12,7 +12,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 related: []
 mind_map_priority: medium
-revision_hash: sha256:f1445852f219ae66
 ---
 
 # PEP 8 Style Guide

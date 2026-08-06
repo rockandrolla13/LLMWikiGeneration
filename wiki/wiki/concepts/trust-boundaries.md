@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:cb811220bd6fdd1e
 ---
 
 # Trust Boundaries

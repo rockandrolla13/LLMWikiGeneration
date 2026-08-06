@@ -14,7 +14,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 mind_map_priority: medium
 affiliation: Google Cloud
-revision_hash: sha256:ca7ce200b6b7b764
 ---
 
 # Vertex AI

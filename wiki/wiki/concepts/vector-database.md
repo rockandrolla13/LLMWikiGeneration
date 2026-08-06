@@ -13,7 +13,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:d19914cba15e6843
 ---
 
 # Vector Database

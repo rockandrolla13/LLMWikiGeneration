@@ -12,7 +12,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 related: []
 mind_map_priority: medium
-revision_hash: sha256:d79b6ea90e4b8fea
 ---
 
 # Don't Repeat Yourself (DRY)

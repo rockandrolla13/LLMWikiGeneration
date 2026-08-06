@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/mean-reversion
 - concepts/statistical-arbitrage
-revision_hash: sha256:a65720ddaa60c15be518a0f99e46a7ffce56d8ae6080dbfb8acca91c97263f16
 revision_id: 1
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit

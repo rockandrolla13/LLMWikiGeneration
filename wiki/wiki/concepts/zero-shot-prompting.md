@@ -12,7 +12,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3f9054672b4982c5
 ---
 
 # Zero-shot Prompting

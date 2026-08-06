@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/demand-and-supply-analysis
 page_type: concept
 related: []
-revision_hash: sha256:68090db6008196f48f023ac7b2f45af3985bf9bee3f98dee3eb9f702d0ef8446
 revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook

@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
 affiliation: Confluent
-revision_hash: sha256:a877929ab39a7946
 ---
 
 # Apache Kafka

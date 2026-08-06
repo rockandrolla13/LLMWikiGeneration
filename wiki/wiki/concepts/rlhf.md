@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 related: []
 mind_map_priority: high
-revision_hash: sha256:eb85048e33430b72
 ---
 
 # Reinforcement Learning from Human Feedback

@@ -11,7 +11,6 @@ related:
 - concepts/local-average-treatment-effect
 - concepts/regression-discontinuity
 - concepts/structural-vector-autoregression
-revision_hash: sha256:8dd4dadb1b48b9f6511f9939c61810e94c855fa195453a1443d64544e2177180
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/no-arbitrage-restrictions
 - concepts/stochastic-volatility-with-jumps
-revision_hash: sha256:6bacc7eb07b157466847c17858442872fa9d36ad4fc74687a7e34b9bfe0c5bb5
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

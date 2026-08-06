@@ -8,7 +8,6 @@ page_id: concepts/credit-growth
 page_type: concept
 related:
 - concepts/default-rates
-revision_hash: sha256:49bdcc51c884581e34b56057cb99a844477c74822b31923536dc54583eab9683
 revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes

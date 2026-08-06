@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:52b31d113c6e2a9e
 ---
 
 # Threat Modeling for LLM Applications

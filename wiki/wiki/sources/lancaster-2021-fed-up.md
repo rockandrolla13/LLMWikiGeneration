@@ -20,7 +20,6 @@ related:
 - entities/jerome-powell
 - entities/jim-simons
 - entities/stanley-druckenmiller
-revision_hash: sha256:d7192d7e2cdf6eba7240c43d5e5fc7e89ea65763942e81e43a4df1a8c24a768e
 revision_id: 1
 source_hash: sha256:c4d2055ccc3e1cc6875c2e7c8e52b0d724c2b9a853ca4ebce16f2fb4bc0b924e
 source_path: raw/creditmacro/Fed Up (Colin Lancaster [Lancaster, Colin]) (z-library.sk,

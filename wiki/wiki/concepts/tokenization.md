@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:c50f5d5692188c68
 ---
 
 # Tokenization

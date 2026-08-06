@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/agent-based-models
 - concepts/behavioral-finance
-revision_hash: sha256:d1fc1ecc9898626d4df67df11aa0d02d85e270861d991c173b5f2d19a48b2618
 revision_id: 1
 sources:
 - sources/meadows-2008-thinking-in-systems

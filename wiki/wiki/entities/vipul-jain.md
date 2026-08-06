@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/vipul-jain
 page_type: entity
 related: []
-revision_hash: sha256:c072e51a6715ebb3a65c77af00aa112a6a3c602275ae69bdb578be292cab2bb6
 revision_id: 1
 sources:
 - sources/ms-2013-12-13-top-10-rates-surprises-2014

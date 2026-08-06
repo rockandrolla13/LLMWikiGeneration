@@ -16,7 +16,6 @@ related:
 - entities/chetan-ahya
 - entities/michael-zezas
 - entities/morgan-stanley
-revision_hash: sha256:dd9f7df1ec93c4e81759c9b5d0244abc95c07815c69c1c8bc22621c7e4189cc4
 revision_id: 1
 source_hash: sha256:d0315bc33783931c17138c583873a7851bea93c0b642d004a12619634b0b82c4
 source_path: raw/creditmacro/Morgan Stanley - FROM MORGAN STANLEY RESEARCH — Andrew

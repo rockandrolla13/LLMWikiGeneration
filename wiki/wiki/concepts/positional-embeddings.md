@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:7b693345d3786df4
 ---
 
 # Positional Embeddings

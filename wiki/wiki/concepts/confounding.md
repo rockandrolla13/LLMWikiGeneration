@@ -15,7 +15,6 @@ related:
 - concepts/potential-outcomes
 - concepts/propensity-score
 - concepts/unmeasured-confounding-sensitivity-analysis
-revision_hash: sha256:5910481a7398a2b1f6c581d79c1184c458d683e26ca107556222681a6cc93a1d
 revision_id: 2
 sources:
 - sources/gentzel-2021-osrct-evaluation

@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:c0302ab283504df9
 ---
 
 # Multi-Head Attention

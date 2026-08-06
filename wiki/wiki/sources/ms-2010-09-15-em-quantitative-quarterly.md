@@ -23,7 +23,6 @@ related:
 - entities/paolo-batori
 - entities/rashique-rahman
 - entities/rogerio-oliveira
-revision_hash: sha256:9c0effe11cf10b504bf0516c5f56680c7314b670473e31d7f2ca6ade137d234c
 revision_id: 1
 source_hash: sha256:0f38e9cd410e1642f7af8a8167f0bc46d20b90114a01b9eb92a3296b532998f8
 source_path: raw/creditmacro/Morgan Stanley - Emerging Markets Quantitative Quarterly

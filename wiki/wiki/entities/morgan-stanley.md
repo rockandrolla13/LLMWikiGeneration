@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_hash: sha256:ec52fe9137b8e745c9b8bead1deeab7a2e0d8f25713469e3f8af13e0f10314f6
 revision_id: 2
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option

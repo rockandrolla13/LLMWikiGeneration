@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/knowledge-graph-construction
 mind_map_priority: medium
-revision_hash: sha256:2891fe2257db5bc2
 ---
 
 # Entity Resolution

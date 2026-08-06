@@ -14,7 +14,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
 affiliation: former OpenAI
-revision_hash: sha256:d13079f038cfcf36
 ---
 
 # Luke Metz

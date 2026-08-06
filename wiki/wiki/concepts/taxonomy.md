@@ -12,7 +12,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 related: []
 mind_map_priority: medium
-revision_hash: sha256:a0ec5257b645c9a3
 ---
 
 # Taxonomy

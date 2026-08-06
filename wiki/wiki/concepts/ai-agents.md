@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:afc4334a7fe7698b
 ---
 
 # AI Agents

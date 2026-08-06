@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-geske
 page_type: entity
 related: []
-revision_hash: sha256:851b090ff5c86173b1d27ae78c46717ef4252f71a0664305ee9da78d06a5722f
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

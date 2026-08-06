@@ -14,7 +14,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
 affiliation: IBM
-revision_hash: sha256:93af45f69bf28d56
 ---
 
 # Rob Thomas

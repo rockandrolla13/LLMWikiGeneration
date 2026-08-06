@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Open Worldwide Application Security Project
-revision_hash: sha256:0f97049d949cfce5
 ---
 
 # OWASP

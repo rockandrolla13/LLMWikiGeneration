@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/pep-8-style-guide
 mind_map_priority: medium
-revision_hash: sha256:2355d2b6bf0e0212
 ---
 
 # Code Linting and Formatting

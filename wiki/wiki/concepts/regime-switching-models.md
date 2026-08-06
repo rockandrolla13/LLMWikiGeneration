@@ -12,7 +12,6 @@ related:
 - concepts/mean-reversion
 - concepts/quantitative-easing
 - concepts/statistical-arbitrage
-revision_hash: sha256:d2ed3625db5c642e01638dd180e3a57c2cc51cfd2448a5b31b2354a22fdedc27
 revision_id: 1
 sources:
 - sources/ms-2018-07-09-em-risk-indicator-regime-switching

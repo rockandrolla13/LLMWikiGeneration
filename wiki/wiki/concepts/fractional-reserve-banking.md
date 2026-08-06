@@ -8,7 +8,6 @@ page_id: concepts/fractional-reserve-banking
 page_type: concept
 related:
 - concepts/bubble-detection
-revision_hash: sha256:5db550def9fc54f8d5509a4943e489829ad23c0d1100bdef6c4cf9556a107a7a
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

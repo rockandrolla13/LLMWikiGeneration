@@ -19,7 +19,6 @@ related:
 - entities/mayank-gargh
 - entities/morgan-stanley
 - entities/owen-roberts
-revision_hash: sha256:0f49608451a53b03ab2af9fe3ecba4dc777c00500aaabeed64854dc7aa5e4f91
 revision_id: 1
 source_hash: sha256:3f88f6ce1e97cfa6cab7d1dcc88d33faaa9e159f2111d54771c8b903671cb196
 source_path: raw/creditmacro/Morgan Stanley - Mayank Gargh — Laurence Mutkin - 2008-08-28.md

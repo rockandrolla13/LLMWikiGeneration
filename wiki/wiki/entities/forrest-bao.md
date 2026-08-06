@@ -14,7 +14,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 mind_map_priority: medium
 affiliation: Vectara
-revision_hash: sha256:08cf02f711dab000
 ---
 
 # Forrest Bao

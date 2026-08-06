@@ -32,7 +32,6 @@ related:
 - entities/oxford-university-press
 - entities/roberto-motto
 - entities/wolfgang-lemke
-revision_hash: sha256:171f7fb637c415f52aa26e613a4a3138f9963179b6355f45a3e2678f633ad6af
 revision_id: 1
 source_hash: sha256:69617b8b2802422bb98417981fa2f5a7dcec60c193083ccf8b501e47f395fdc3
 source_path: raw/creditmacro/Monetary Policy in Times of Crisis A Tale of Two Decades

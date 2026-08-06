@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: Meta AI
-revision_hash: sha256:574a695a1660b3f0
 ---
 
 # PyTorch

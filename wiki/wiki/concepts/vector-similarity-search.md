@@ -12,7 +12,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:ac89afdeefd523a4
 ---
 
 # Vector Similarity Search

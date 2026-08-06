@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/zombie-firms
 page_type: concept
 related: []
-revision_hash: sha256:5c8ad43b7c73002a1ee573046e51e746d41c0901b2238b33de9664f996dc0f79
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

@@ -26,7 +26,6 @@ related:
 - entities/silvi-mantri
 - entities/tarek-hamid
 - entities/thomas-egan
-revision_hash: sha256:9fd027ae099c443051c863a16e2e34e86374ff947905c66c421517aa6a035bb6
 revision_id: 1
 source_hash: sha256:80fae62ffa1fea5623ba5dad728b6ecb9155d3773dc8a59067b1c8724c5f8d7f
 source_path: raw/creditmacro/JPM_AI_Capex_Funding_Dat_2026-05-11_5290840.md

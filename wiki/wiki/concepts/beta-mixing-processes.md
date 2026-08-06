@@ -8,7 +8,6 @@ page_id: concepts/beta-mixing-processes
 page_type: concept
 related:
 - concepts/state-space-models
-revision_hash: sha256:269a36e1e5b497cc700f38c45cfa83436e8cb61ab0369098cea6dec220ae7fce
 revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series

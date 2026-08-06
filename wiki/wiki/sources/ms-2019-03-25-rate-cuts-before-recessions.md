@@ -14,7 +14,6 @@ related:
 - concepts/term-structure-risk-premium
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_hash: sha256:c436f8db26f6a32da87b2b1c8d9556fcfa1cb01378cb2e5cfbff9338a26c20ae
 revision_id: 1
 source_hash: sha256:0176336392bde292d9603f53e0c08fa112b682e7c2de7449b83c2adbdf02d18a
 source_path: raw/creditmacro/Morgan Stanley - What Also Comes Before Recessions Rate

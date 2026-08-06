@@ -14,7 +14,6 @@ sources:
 - sources/berryman-2024-prompt-engineering-llms
 mind_map_priority: medium
 affiliation: Arcturus Labs
-revision_hash: sha256:5f50a33c1b7ad1f1
 ---
 
 # John Berryman

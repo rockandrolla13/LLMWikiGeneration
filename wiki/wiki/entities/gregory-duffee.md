@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/gregory-duffee
 page_type: entity
 related: []
-revision_hash: sha256:092887b1cb3796bc58c055a124a073ae2780e5486df4d6cdaf44d823fe861c53
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

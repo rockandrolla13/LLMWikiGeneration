@@ -12,7 +12,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 related: []
 mind_map_priority: medium
-revision_hash: sha256:26c62a4c02fb76b3
 ---
 
 # Generative Computing

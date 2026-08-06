@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/pierre-collin-dufresne
 page_type: entity
 related: []
-revision_hash: sha256:dcd9c048aa709b2d029d88b8db7a909c8ba304e0738e75bafc1d12c7ed2a5588
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

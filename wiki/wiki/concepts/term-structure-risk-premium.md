@@ -18,7 +18,6 @@ related:
 - concepts/quantitative-easing
 - concepts/risk-premia
 - concepts/yield-curve-steepeners-flatteners
-revision_hash: sha256:4cf947f10acce662c2f82d286e938e9e2bda9b752f5d67596bba0119cef0823e
 revision_id: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel

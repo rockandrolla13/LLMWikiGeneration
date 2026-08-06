@@ -22,7 +22,6 @@ related:
 - entities/morgan-stanley
 - entities/sivan-mahadevan
 - entities/viktor-hjort
-revision_hash: sha256:d29434417f548ddd1372d0f2c9e760f4d6239c69bab8511878537c22c70009fe
 revision_id: 1
 source_hash: sha256:26173f61f2bbba9420be4a404814519f1c87f8c31a75fdbd0cbaa8964a4468fb
 source_path: raw/creditmacro/Morgan Stanley - Global Derivatives Strategy — Differentiation

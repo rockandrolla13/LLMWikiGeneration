@@ -14,7 +14,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 mind_map_priority: medium
 affiliation: Tabnine
-revision_hash: sha256:d90fbdef62694a32
 ---
 
 # Tabnine

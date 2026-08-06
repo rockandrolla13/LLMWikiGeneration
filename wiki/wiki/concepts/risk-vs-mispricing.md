@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/factor-models
-revision_hash: sha256:63ca6c54d4ddbf8521579986267271abdf9e8512ddb75e0773f8cac9ac8dcfeb
 revision_id: 1
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns

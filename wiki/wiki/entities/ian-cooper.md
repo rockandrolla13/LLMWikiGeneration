@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:dc897e1f96cae245
 ---
 
 # Ian Cooper

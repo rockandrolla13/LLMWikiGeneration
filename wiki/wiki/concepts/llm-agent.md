@@ -12,7 +12,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 related: []
 mind_map_priority: medium
-revision_hash: sha256:e02eff3dd6998e64
 ---
 
 # LLM Agent

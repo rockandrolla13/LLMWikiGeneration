@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:089cc0453f23cd95
 ---
 
 # Layer Normalization

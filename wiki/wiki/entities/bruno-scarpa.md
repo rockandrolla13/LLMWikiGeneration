@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/bruno-scarpa
 page_type: entity
 related: []
-revision_hash: sha256:2d2c6e19c161631e2effab4bcf03ff0a667b479c5859888b6569bbdda4000dae
 revision_id: 1
 sources:
 - sources/azzalini-2012-data-analysis-and-data-mining

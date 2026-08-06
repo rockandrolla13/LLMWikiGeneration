@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/data-distribution-shift
 mind_map_priority: medium
-revision_hash: sha256:5e209e86f8fb2971
 ---
 
 # Continual Learning

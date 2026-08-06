@@ -21,7 +21,6 @@ related:
 - entities/anton-heese
 - entities/matthew-hornbach
 - entities/morgan-stanley
-revision_hash: sha256:7ac93165b3bc0ff0f08c0914305c2bd1f77c1e0266f17d9f6ab9feac351a7090
 revision_id: 1
 source_hash: sha256:464b8d5efaa1a91dc98239122d4d3d62e283bbba79485807c9e58c5f9dff5ee7
 source_path: raw/creditmacro/Morgan Stanley - Our Bond Market Indicators A Powerful

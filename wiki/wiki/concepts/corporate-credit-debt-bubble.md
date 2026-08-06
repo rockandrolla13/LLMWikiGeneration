@@ -10,7 +10,6 @@ related:
 - concepts/bubble-detection
 - concepts/corporate-bonds
 - concepts/sovereign-debt-crisis
-revision_hash: sha256:b65b8f97e64e5641a15bc5e06245e0960dc5799318ff0ead2007b90a74ba2e5c
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

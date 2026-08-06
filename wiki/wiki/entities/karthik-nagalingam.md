@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/karthik-nagalingam
 page_type: entity
 related: []
-revision_hash: sha256:e318c47d3f66eacb979267df8b8f7ebc22ef4d55fbefc6cf23344d830809bbdd
 revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai

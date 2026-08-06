@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/deep-learning-for-finance
 - concepts/feature-engineering
-revision_hash: sha256:e02f449ee79b20c4e063d1057fa8f6e15cda415bdd37498c99540d4b23f28999
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

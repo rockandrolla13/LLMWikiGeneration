@@ -12,7 +12,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 related: []
 mind_map_priority: medium
-revision_hash: sha256:c0d9fbcc5e055581
 ---
 
 # Autonomous AI Agents

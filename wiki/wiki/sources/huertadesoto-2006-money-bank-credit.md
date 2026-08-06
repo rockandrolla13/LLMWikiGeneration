@@ -20,7 +20,6 @@ related:
 - entities/ludwig-von-mises
 - entities/ludwig-von-mises-institute
 - entities/murray-rothbard
-revision_hash: sha256:3e2a5f95ba3ae11f33e709683e53ce4477ca6a2a7b134dbd38e3a9b8c8775f7b
 revision_id: 1
 source_hash: sha256:506b54335b76c4efaab43917b45e56e38b8714ff11ae1effd9145173023bca40
 source_path: raw/creditmacro/Money, Bank Credit, and Economic Cycles (Jesús Huerta

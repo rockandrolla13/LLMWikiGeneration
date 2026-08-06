@@ -12,7 +12,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3780be95e6c0f051
 ---
 
 # Refactoring

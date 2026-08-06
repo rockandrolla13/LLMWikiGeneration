@@ -12,7 +12,6 @@ sources:
 - sources/berryman-2024-prompt-engineering-llms
 related: []
 mind_map_priority: medium
-revision_hash: sha256:b15885fc57a9c047
 ---
 
 # LLM-as-Judge

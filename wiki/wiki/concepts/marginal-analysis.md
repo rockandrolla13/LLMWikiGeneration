@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/marginal-analysis
 page_type: concept
 related: []
-revision_hash: sha256:622a92c63e492204685a135a012065cf0a5d16d0e68984ae08692135968fdd32
 revision_id: 1
 sources:
 - sources/lukac-2026-economic-analysis-through-mathematics

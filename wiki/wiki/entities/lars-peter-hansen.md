@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/lars-peter-hansen
 page_type: entity
 related: []
-revision_hash: sha256:ebfb1b23e98dc2bead3c49ae6115d51012a9a683e64e179e7f1799e0254c8e80
 revision_id: 1
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory

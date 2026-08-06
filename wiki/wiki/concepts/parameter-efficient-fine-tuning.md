@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:b2dd65df71b017b5
 ---
 
 # Parameter-Efficient Fine-Tuning

@@ -8,7 +8,6 @@ page_id: concepts/humes-problem-of-causation
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:41745211dbda8d1d2fc5868317ea5dd2ab7bec3fc0eb74c4c14e4a2ff933aadf
 revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation

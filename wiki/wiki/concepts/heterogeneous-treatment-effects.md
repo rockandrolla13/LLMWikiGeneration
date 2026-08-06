@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/potential-outcomes
-revision_hash: sha256:ecfd799a151017099cced2d66122fefd0459b2137f40e2d8cc447faf2757e565
 revision_id: 1
 sources:
 - sources/hill-2011-bart-causal-inference

@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2022-designing-ml-systems
 related: []
 mind_map_priority: medium
-revision_hash: sha256:dc39a79bfd61d8b1
 ---
 
 # Batch vs Online Prediction

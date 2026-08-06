@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/mean-reversion
-revision_hash: sha256:fbe319da8a5a5d65ce03b68d2213e7fbda379c8937ed6c852e77888ef5e17979
 revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong

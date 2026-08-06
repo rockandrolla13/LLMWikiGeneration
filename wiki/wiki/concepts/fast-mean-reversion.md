@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/algorithmic-trading
 - concepts/mean-reversion
-revision_hash: sha256:a36f3877d5958781afc508be7bbfbeeed0c5736e3774174255f35e6bbe970d17
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

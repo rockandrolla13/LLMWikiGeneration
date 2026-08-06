@@ -15,7 +15,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: high
-revision_hash: sha256:d09615a8d30876d4
 ---
 
 # Prompt Injection

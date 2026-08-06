@@ -12,7 +12,6 @@ sources:
 - sources/boonstra-2024-google-prompt-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:defe9284e67c3e63
 ---
 
 # System Prompting

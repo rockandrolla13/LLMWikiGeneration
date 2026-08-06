@@ -20,7 +20,6 @@ related:
 - entities/morgan-stanley
 - entities/robert-rosener
 - entities/sarah-wolfe
-revision_hash: sha256:070c93fb8862c9c64074d6d218bd45b6b3117f0ce968d3817022bf449a137c93
 revision_id: 1
 source_hash: sha256:28f31961d0e4931e4d3dde0a0cf15d0823a05870159272b95f33843dfa9ca544
 source_path: raw/creditmacro/Morgan Stanley - US Economics — Deeper Drop, Slower Climb

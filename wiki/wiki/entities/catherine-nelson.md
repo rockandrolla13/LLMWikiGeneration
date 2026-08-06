@@ -14,7 +14,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
 affiliation: SAP Concur
-revision_hash: sha256:4c3790bb6db7cafb
 ---
 
 # Catherine Nelson

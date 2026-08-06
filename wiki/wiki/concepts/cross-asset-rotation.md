@@ -17,7 +17,6 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/risk-premia
-revision_hash: sha256:f5b55ec430d76464847c20db0979a2ec17b6a52a022c304533691373c626bba5
 revision_id: 2
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum

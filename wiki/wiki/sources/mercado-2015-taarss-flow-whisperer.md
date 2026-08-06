@@ -16,7 +16,6 @@ related:
 - concepts/taarss
 - entities/deutsche-bank
 - entities/sebastian-mercado
-revision_hash: sha256:c05708d01d168a5a2908d79e66aede9d6c020b06804af3c5297a3df8ccff5a4f
 revision_id: 1
 source_hash: sha256:98b1403fad221c780a768d0f8a470369d8ea9e9649881e35a79b9c14b9fdd30a
 source_path: raw/creditmacro/Taars.md

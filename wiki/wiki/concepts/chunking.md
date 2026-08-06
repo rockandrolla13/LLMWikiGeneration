@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/working-memory-in-programming
 mind_map_priority: medium
-revision_hash: sha256:72504b7364df9bd5
 ---
 
 # Chunking

@@ -10,7 +10,6 @@ related:
 - concepts/carry-rolldown
 - concepts/factor-investing
 - concepts/market-timing
-revision_hash: sha256:c84bdd9da8b0b8fed11c7e9a26990266f7175befef408fc6e4981ada80ed13aa
 revision_id: 1
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund

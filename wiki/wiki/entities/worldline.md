@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
-revision_hash: sha256:3e87e0b6be34b8db
 ---
 
 # Worldline

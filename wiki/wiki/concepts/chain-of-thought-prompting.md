@@ -21,7 +21,6 @@ related:
 - concepts/in-context-learning
 - concepts/prompt-engineering
 mind_map_priority: high
-revision_hash: sha256:d511e191d20a7c92
 ---
 
 # Chain-of-Thought Prompting

@@ -13,7 +13,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 related: []
 mind_map_priority: medium
-revision_hash: sha256:8b734d66ccef86ab
 ---
 
 # LLM-as-a-Judge

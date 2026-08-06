@@ -8,7 +8,6 @@ page_id: concepts/correlation-vs-causation
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:660548221130d5d9357ee2f617565d99a6d062053746e8b02f5c0e69f8dede2d
 revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong

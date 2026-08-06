@@ -12,7 +12,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 related: []
 mind_map_priority: medium
-revision_hash: sha256:c1f62b44c1a9402e
 ---
 
 # Hallucination

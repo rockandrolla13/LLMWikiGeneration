@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:bba1653f20ed045e
 ---
 
 # Language Model Pretraining

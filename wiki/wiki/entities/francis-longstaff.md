@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/francis-longstaff
 page_type: entity
 related: []
-revision_hash: sha256:892b58885dc0555575462504861ce801eaa579c90485907ff7e89777af76382d
 revision_id: 1
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes

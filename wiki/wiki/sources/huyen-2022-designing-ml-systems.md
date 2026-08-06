@@ -41,7 +41,6 @@ related:
 - entities/stanford-cs-329s
 - entities/tvm
 mind_map_priority: medium
-revision_hash: sha256:760cdc827eb6074b
 ---
 
 # Designing Machine Learning Systems

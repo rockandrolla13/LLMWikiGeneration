@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-rosener
 page_type: entity
 related: []
-revision_hash: sha256:8b87ea14a9216c4fbf708eb2ce8edf48dbdcab18675cd145001e328411a00471
 revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary

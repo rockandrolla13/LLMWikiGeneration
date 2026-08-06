@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/steve-caprio
 page_type: entity
 related: []
-revision_hash: sha256:f1ebefa72abbff07468f85204211bf1eb2649442dcb44b21017ef7715b45fc26
 revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai

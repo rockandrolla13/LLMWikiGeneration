@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/anon-2024-vector-databases-rag
 mind_map_priority: medium
-revision_hash: sha256:945c81d544e978ae
 ---
 
 # John Anderson

@@ -16,7 +16,6 @@ related:
 - entities/jackie-ineke
 - entities/joe-hopkins
 - entities/morgan-stanley
-revision_hash: sha256:cacdc1c317054d780f123820dafa760f7899b6d5ef95a12beb9d2f02088dcbba
 revision_id: 1
 source_hash: sha256:c12b20f64a5f5b9da1ec40ede8f7502cb6f9fab3d69b863e2bb7bf308a4123fb
 source_path: raw/creditmacro/Morgan Stanley - European Banks — Autumn AT1 Primer –

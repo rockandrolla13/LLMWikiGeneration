@@ -8,7 +8,6 @@ page_id: concepts/singularist-causation
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:a79b547ab5b5a1380afc05a7e7d5957299f59ea4c644dd548f7daafd56410c7a
 revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation

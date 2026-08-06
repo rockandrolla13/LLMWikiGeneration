@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/philip-tetlock
 page_type: entity
 related: []
-revision_hash: sha256:4bf15df29583926e6d2819251c248b0e7c8f49d7a6ccd2eea12e69d9dbb7cd15
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

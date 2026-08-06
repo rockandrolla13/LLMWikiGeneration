@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/shona-fielding
 page_type: entity
 related: []
-revision_hash: sha256:ff32d5b6fe5549631dc0af1dcff215b46fe9ce5d4911cc63221bd300dc308bb1
 revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting

@@ -15,7 +15,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 mind_map_priority: medium
 affiliation: Meta AI (formerly Facebook AI Research)
-revision_hash: sha256:06dfcedd53e26d21
 ---
 
 # Patrick Lewis

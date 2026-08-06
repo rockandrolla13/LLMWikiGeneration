@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/nelson-2024-swe-for-data-scientists
 mind_map_priority: medium
-revision_hash: sha256:d4ae99374e25caa0
 ---
 
 # Pandas

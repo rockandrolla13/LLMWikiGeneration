@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/andrew-sheets
 page_type: entity
 related: []
-revision_hash: sha256:596b367a8cd3f93e691889367e69a3103afa1af63d4d137e7c8b76e1f2066fc7
 revision_id: 1
 sources:
 - sources/ms-2011-03-28-high-grade-mid-cycle

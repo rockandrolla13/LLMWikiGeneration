@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/transductive-learning
 mind_map_priority: medium
-revision_hash: sha256:b958aa06ad31d707
 ---
 
 # Few-Shot Learning

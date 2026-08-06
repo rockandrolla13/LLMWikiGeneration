@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/francis-galton
 page_type: entity
 related: []
-revision_hash: sha256:ace268fe534c0df71b2e6c4caccedcc119849651870bcb209486a9806c8ed95c
 revision_id: 1
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong

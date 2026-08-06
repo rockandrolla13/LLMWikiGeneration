@@ -13,7 +13,6 @@ sources:
 - sources/taulli-2024-ai-assisted-programming
 related: []
 mind_map_priority: medium
-revision_hash: sha256:b1f9a81aa32def04
 ---
 
 # Test-Driven Development

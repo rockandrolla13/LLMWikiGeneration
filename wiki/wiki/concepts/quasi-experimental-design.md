@@ -11,7 +11,6 @@ related:
 - concepts/difference-in-differences
 - concepts/potential-outcomes
 - concepts/randomised-controlled-trial
-revision_hash: sha256:ec416247d5e62cc09cf64f1edac0cfdfa7a6d72411ecf79432f26dc88ca3677d
 revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting

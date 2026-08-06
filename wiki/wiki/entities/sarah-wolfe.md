@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/sarah-wolfe
 page_type: entity
 related: []
-revision_hash: sha256:281dca21ceba6423ac1e298dcf57458467b8a9e94ed42fa50f1e229d342ff3f1
 revision_id: 1
 sources:
 - sources/ms-2020-04-03-deeper-drop-slower-climb

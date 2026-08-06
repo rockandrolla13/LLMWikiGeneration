@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/shreya-chander
 page_type: entity
 related: []
-revision_hash: sha256:f52853eae1d2e1f2170a21f44502fea04154d7539c6e6b49d462142221491c1e
 revision_id: 1
 sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-d-zezas
 page_type: entity
 related: []
-revision_hash: sha256:8a49786de90ad191cc22908ded7893fa21759451a997f76f2a53a8f30b617055
 revision_id: 1
 sources:
 - sources/ms-2019-03-01-global-insights-polling

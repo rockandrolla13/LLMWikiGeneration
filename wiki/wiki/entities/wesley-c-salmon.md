@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/wesley-c-salmon
 page_type: entity
 related: []
-revision_hash: sha256:6429858dfa9ee1678da56d39462bf704bb979cc66979dbf289c728745184d042
 revision_id: 1
 sources:
 - sources/salmon-1998-causality-and-explanation

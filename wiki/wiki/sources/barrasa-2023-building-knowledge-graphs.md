@@ -42,7 +42,6 @@ related:
 - entities/spacy
 - entities/wordnet
 mind_map_priority: medium
-revision_hash: sha256:1846b6522a7dda48
 ---
 
 # Building Knowledge Graphs

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jan-babecky
 page_type: entity
 related: []
-revision_hash: sha256:50b2f65c98d3f887c5eb91de6d5ac5d81928f62b8506314c8d810d85b76c4a1d
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

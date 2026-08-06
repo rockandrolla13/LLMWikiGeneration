@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-hume
 page_type: entity
 related: []
-revision_hash: sha256:595d49c2b046377f1ba300d2cc648d412001cd1b3368dc99452b2136d3aed4af
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

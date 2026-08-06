@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/harriman-house
 page_type: entity
 related: []
-revision_hash: sha256:3a920975af39a86cc7f31871ce4605347caa312090f66d9c83be0e6af47a82e4
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

@@ -20,7 +20,6 @@ related:
 - entities/elga-bartsch
 - entities/melanie-baker
 - entities/morgan-stanley
-revision_hash: sha256:0e9b2f8c422365b2bc56adbc52913ea383c2470f5154706f025349b2816591cb
 revision_id: 1
 source_hash: sha256:746d5e9f3f77a1bde7a73a69d56df713835d51bef72646bdc0ba6f3598b13cc0
 source_path: raw/creditmacro/Morgan Stanley - European Economics A Practioner’s Guide

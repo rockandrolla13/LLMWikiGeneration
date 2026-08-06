@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/louis-chan
 page_type: entity
 related: []
-revision_hash: sha256:434ff45d844c796585ac6bb99c148930e4125e304a939a21711c0a3c324f19e6
 revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/christina-romer
 page_type: entity
 related: []
-revision_hash: sha256:bbd3ad97a6e42a5de048fb3d77ea860ebf3a16d4660884e5bee296afcb25f797
 revision_id: 1
 sources:
 - sources/cai-2023-testing-conditional-independence-time-series

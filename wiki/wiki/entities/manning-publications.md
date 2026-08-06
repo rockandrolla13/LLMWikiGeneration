@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
-revision_hash: sha256:f79935397396efdb
 ---
 
 # Manning Publications

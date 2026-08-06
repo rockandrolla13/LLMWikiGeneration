@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-hamburger
 page_type: entity
 related: []
-revision_hash: sha256:0f57abcb508e19c9c5123f2ce982682aac2b62a1957407e4f8fda6f483747d10
 revision_id: 1
 sources:
 - sources/patkar-2026-ms-global-credit-midyear

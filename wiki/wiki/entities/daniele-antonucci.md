@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/daniele-antonucci
 page_type: entity
 related: []
-revision_hash: sha256:75177ae35748fb10e3ff883200bf934492e59bbe6a117365e9fab344fe8e6f2f
 revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide

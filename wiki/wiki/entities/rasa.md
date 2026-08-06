@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/barrasa-2023-building-knowledge-graphs
 mind_map_priority: medium
-revision_hash: sha256:1fe955ab714d0fe3
 ---
 
 # Rasa

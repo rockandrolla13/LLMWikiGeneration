@@ -12,7 +12,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 related: []
 mind_map_priority: medium
-revision_hash: sha256:2833c14f91995c5a
 ---
 
 # AI Governance

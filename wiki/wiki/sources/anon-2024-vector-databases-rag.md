@@ -32,7 +32,6 @@ related:
 - concepts/vector-indexing
 - entities/john-anderson
 mind_map_priority: medium
-revision_hash: sha256:625063ab1a1a1173
 ---
 
 # Utilizing Vector Databases to Enhance RAG Models

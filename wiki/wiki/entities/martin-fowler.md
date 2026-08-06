@@ -15,7 +15,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
 affiliation: ThoughtWorks
-revision_hash: sha256:50e08d6503fdc8a7
 ---
 
 # Martin Fowler

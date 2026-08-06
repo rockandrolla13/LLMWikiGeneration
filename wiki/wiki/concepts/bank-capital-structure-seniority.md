@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/additional-tier-1-capital
 - concepts/corporate-bonds
-revision_hash: sha256:dbb6631b94c8138279ca6f100a8401b95b66ec24d26149a5a106b99cc4689760
 revision_id: 1
 sources:
 - sources/ms-2019-05-23-value-tier2-seniors

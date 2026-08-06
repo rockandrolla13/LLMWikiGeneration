@@ -43,7 +43,6 @@ related:
 - entities/paul-zikopoulos
 - entities/rob-thomas
 mind_map_priority: medium
-revision_hash: sha256:1a77353f5ece31ae
 ---
 
 # AI Value Creators

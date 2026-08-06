@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Independent researcher (Puerto Rico)
-revision_hash: sha256:cab87a9d56e97abb
 ---
 
 # Arturo Geigel

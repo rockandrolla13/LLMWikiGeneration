@@ -15,7 +15,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 mind_map_priority: medium
 affiliation: Claypot AI; Stanford University (CS 329S)
-revision_hash: sha256:756a4fc4ab3a9ebb
 ---
 
 # Chip Huyen

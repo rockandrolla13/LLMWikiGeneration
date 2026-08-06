@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/christian-wolff
 page_type: entity
 related: []
-revision_hash: sha256:94b1b17739c2da3e3f80ce548bb5b8303c117fa3809b8b87a00b930d74f84009
 revision_id: 1
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel

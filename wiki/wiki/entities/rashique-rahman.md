@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/rashique-rahman
 page_type: entity
 related: []
-revision_hash: sha256:a7f96d0147622b0671f64663ef16bd897c0da62dac2d2371d068c8c935e59a7a
 revision_id: 1
 sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly

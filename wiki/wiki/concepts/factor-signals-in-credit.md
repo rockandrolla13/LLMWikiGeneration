@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/statistical-arbitrage
-revision_hash: sha256:0ee054cdc1851ae816a4941fb45bfd03dbcc145ea3c2bab8bd6b1478f598c616
 revision_id: 1
 sources:
 - sources/koukorinis-2024-xantium-business-plan

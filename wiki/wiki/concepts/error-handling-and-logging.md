@@ -12,7 +12,6 @@ sources:
 - sources/nelson-2024-swe-for-data-scientists
 related: []
 mind_map_priority: medium
-revision_hash: sha256:caeca44069fb7639
 ---
 
 # Error Handling and Logging

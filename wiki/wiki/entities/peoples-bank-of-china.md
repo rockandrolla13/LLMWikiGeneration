@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/peoples-bank-of-china
 page_type: entity
 related: []
-revision_hash: sha256:4a0823c9767a59e3147ffa33d9cc26b9ef7ee52ac071f9a76be9a9a9564a8317
 revision_id: 1
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes

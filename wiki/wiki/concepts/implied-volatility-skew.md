@@ -8,7 +8,6 @@ page_id: concepts/implied-volatility-skew
 page_type: concept
 related:
 - concepts/risk-premia
-revision_hash: sha256:dbc8cfa9bfe004abb86fe0c4a33041fa34a4cce6a43b8885f5e5e475315b7dad
 revision_id: 2
 sources:
 - sources/bhansali-2018-right-tail-hedging

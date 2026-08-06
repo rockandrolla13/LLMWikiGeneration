@@ -12,7 +12,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 related: []
 mind_map_priority: medium
-revision_hash: sha256:784a90a8a7160cb5
 ---
 
 # Function Calling

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/philipp-erfurth
 page_type: entity
 related: []
-revision_hash: sha256:5855dadb979413bcd4fb34511c39cdfd07b1e1c8b8e22256c1827f44634924bb
 revision_id: 1
 sources:
 - sources/ms-2013-10-30-japanification-or-salvation

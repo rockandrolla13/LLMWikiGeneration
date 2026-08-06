@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: medium
-revision_hash: sha256:e9b847775526cf8b
 ---
 
 # Mayo Oshin

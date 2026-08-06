@@ -5,7 +5,6 @@ page_id: concepts/mental-model-of-code
 page_type: concept
 related:
 - concepts/mental-models
-revision_hash: sha256:f363726c57f87ea9
 revision_id: 2
 sources:
 - sources/hermans-2024-code-reading-in-practice

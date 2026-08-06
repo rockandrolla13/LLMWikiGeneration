@@ -10,7 +10,6 @@ related:
 - concepts/backtesting
 - concepts/data-leakage
 - concepts/look-ahead-bias
-revision_hash: sha256:ae4682e6aca6076e7a7e824b701eba09bd5ff8ee6aefeb2425e4ae58fd2a25a7
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: Lightning AI (previously University of Wisconsin-Madison)
-revision_hash: sha256:0ba0a68971dd4ff1
 ---
 
 # Sebastian Raschka

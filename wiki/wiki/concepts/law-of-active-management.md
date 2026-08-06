@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/mean-reversion
-revision_hash: sha256:813481dd9da4ff0afb17771b0173eae0a84fcc138f9b8c5cf6b962c2940758eb
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

@@ -14,7 +14,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
 affiliation: IBM / Red Hat
-revision_hash: sha256:53ddfd47f53c6820
 ---
 
 # InstructLab

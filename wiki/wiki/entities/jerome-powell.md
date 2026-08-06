@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/jerome-powell
 page_type: entity
 related: []
-revision_hash: sha256:3f0f5448a8f30527f71a24c8822f1041951271312b671a11dc55b5e5fb488926
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

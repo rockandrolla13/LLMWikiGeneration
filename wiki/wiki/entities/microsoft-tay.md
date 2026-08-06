@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Microsoft
-revision_hash: sha256:cbb315c9574c59fc
 ---
 
 # Microsoft Tay

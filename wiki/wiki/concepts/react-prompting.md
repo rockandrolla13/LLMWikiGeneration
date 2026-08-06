@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/chain-of-thought-prompting
 mind_map_priority: medium
-revision_hash: sha256:dff3fedd0d7f4386
 ---
 
 # ReAct Prompting

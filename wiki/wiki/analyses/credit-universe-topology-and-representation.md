@@ -39,7 +39,6 @@ related:
 - sources/dong-2020-gsp-for-ml
 - sources/he-2024-functional-regression
 - sources/yu-2024-graph-learning-financial
-revision_hash: sha256:d45181f68051f709cfac0ed768c5754f80be7e83551704042e2dbbd3facaeb87
 revision_id: 1
 sources:
 - sources/yu-2024-graph-learning-financial

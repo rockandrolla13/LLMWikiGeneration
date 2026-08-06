@@ -8,7 +8,6 @@ page_id: concepts/ecb-price-stability-definition
 page_type: concept
 related:
 - concepts/great-moderation
-revision_hash: sha256:4b3083f2d7179ecdb925594373589578a3ff069dfb3302fccdabf643f29fe192
 revision_id: 1
 sources:
 - sources/rostagno-2021-ecb-monetary-policy-crisis

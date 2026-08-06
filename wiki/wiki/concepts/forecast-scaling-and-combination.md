@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/algorithmic-trading
 - concepts/market-timing
-revision_hash: sha256:e5629ccce85f8bbf8d4093539b14e5d9f00d5ee76ca089de9fdf8c8789bb9f3d
 revision_id: 1
 sources:
 - sources/carver-2015-systematic-trading

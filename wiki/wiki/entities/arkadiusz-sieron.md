@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/arkadiusz-sieron
 page_type: entity
 related: []
-revision_hash: sha256:b55137f9e18bd1ac1d6f704b4ed2823be6f873abc8356b8628b5f38d677b7410
 revision_id: 1
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession

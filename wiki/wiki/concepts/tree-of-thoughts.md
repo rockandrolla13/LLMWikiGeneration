@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/chain-of-thought-prompting
 mind_map_priority: medium
-revision_hash: sha256:a94860639553b3d4
 ---
 
 # Tree of Thoughts

@@ -12,7 +12,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 related: []
 mind_map_priority: medium
-revision_hash: sha256:c6fa90d6775deaf3
 ---
 
 # Entry Point Analysis

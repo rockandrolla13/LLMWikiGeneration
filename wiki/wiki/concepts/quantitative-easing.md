@@ -18,7 +18,6 @@ related:
 - concepts/regime-switching-models
 - concepts/sovereign-debt-crisis
 - concepts/term-structure-risk-premium
-revision_hash: sha256:a127a3086f705ab81c39aba4832057e346a54211e6322d513c20e158688a5298
 revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up

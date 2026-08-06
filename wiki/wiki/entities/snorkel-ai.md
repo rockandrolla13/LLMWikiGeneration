@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
-revision_hash: sha256:882fb4c79b9c28d7
 ---
 
 # Snorkel AI

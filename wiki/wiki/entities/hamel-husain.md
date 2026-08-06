@@ -14,7 +14,6 @@ sources:
 - sources/berryman-2024-prompt-engineering-llms
 mind_map_priority: medium
 affiliation: Independent
-revision_hash: sha256:68b68147801a09ff
 ---
 
 # Hamel Husain

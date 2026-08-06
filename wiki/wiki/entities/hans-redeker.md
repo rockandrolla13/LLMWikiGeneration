@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/hans-redeker
 page_type: entity
 related: []
-revision_hash: sha256:b2d857ccd8aaec3dfaf37f5e8c3a90a42c0bef1984634a087025f91c95254955
 revision_id: 1
 sources:
 - sources/ms-2019-03-11-europe-surprise-upside

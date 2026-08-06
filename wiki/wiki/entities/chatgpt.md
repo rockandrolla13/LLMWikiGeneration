@@ -15,7 +15,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:73923898b079f60d
 ---
 
 # ChatGPT

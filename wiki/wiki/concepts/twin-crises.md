@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/sovereign-debt-crisis
 - concepts/spillover-effect
-revision_hash: sha256:9b3897650bf45442a8721ffed77934a8e25777376fac25cd1381fad132ee4e61
 revision_id: 1
 sources:
 - sources/babecky-2014-developed-country-crisis-ewi

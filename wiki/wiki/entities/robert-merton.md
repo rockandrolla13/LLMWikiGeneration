@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-merton
 page_type: entity
 related: []
-revision_hash: sha256:6eb92661b7047b0bf62535875aeca9d37aff650d4b080d618ae7a5a8efda4777
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

@@ -1,8 +1,11 @@
 """Tests for the Phase 2 correctness fixes.
 
-Each test pins a bug that shipped silently: a hash that was computed but never
-written, a hash convention that could never verify, path properties that
-changed answer with call order, and a script that emitted invalid YAML.
+Each test pins a bug that shipped silently: path properties that changed
+answer with call order, and a script that emitted invalid YAML.
+
+The revision_hash tests that used to live here were removed with the field
+itself -- git already records what changed on every page, so a per-page
+fingerprint was a worse copy of something the repo already provides.
 """
 
 from datetime import datetime
@@ -14,91 +17,7 @@ import yaml
 
 from llm_wiki import Wiki, wiki_init, wiki_ingest
 from llm_wiki.clock import utc_now
-from llm_wiki.io import (
-    compute_content_hash,
-    compute_page_content_hash,
-    parse_page,
-    write_page,
-)
-
-
-class TestPageHashRoundTrip:
-    """A stored revision_hash must be verifiable after a write/read cycle."""
-
-    @pytest.mark.parametrize("content", [
-        "# Title\n\nBody.\n\n",          # trailing blank lines
-        "\n\n# Title\n\nBody.",          # leading blank lines
-        "# Title\n\nBody.",              # already tight
-        "# Title\n\nBody with trailing spaces.   \n",
-    ])
-    def test_hash_survives_round_trip(self, tmp_path, content):
-        path = tmp_path / "page.md"
-        written_hash = write_page(path, {"title": "T"}, content)
-
-        _, read_back = parse_page(path)
-
-        assert compute_page_content_hash(read_back) == written_hash
-
-    def test_raw_hash_does_not_survive_round_trip(self, tmp_path):
-        """Documents WHY the normalised variant exists.
-
-        The frontmatter library strips surrounding whitespace, so the raw hash
-        of the pre-write body differs from the raw hash of the post-read body.
-        """
-        content = "# Title\n\nBody.\n\n"
-        path = tmp_path / "page.md"
-        write_page(path, {"title": "T"}, content)
-
-        _, read_back = parse_page(path)
-
-        assert compute_content_hash(content) != compute_content_hash(read_back)
-        # ...but the normalised form agrees
-        assert compute_page_content_hash(content) == compute_page_content_hash(read_back)
-
-
-class TestIngestPersistsRevisionHash:
-    """wiki_ingest computed a hash into a local dict and dropped it."""
-
-    def test_source_page_has_matching_hash(self, tmp_path):
-        wiki_init(tmp_path, name="T")
-        wiki = Wiki(tmp_path)
-        (tmp_path / "raw" / "doc.md").write_text("# Doc\n\nBody.")
-
-        wiki_ingest(wiki, Path("raw/doc.md"), title="Doc")
-
-        metadata, content = parse_page(tmp_path / "wiki" / "sources" / "doc.md")
-        assert metadata["revision_hash"]
-        assert metadata["revision_hash"] == compute_page_content_hash(content)
-
-    def test_derived_entity_and_concept_pages_have_matching_hashes(self, tmp_path):
-        wiki_init(tmp_path, name="T")
-        wiki = Wiki(tmp_path)
-        (tmp_path / "raw" / "doc.md").write_text("# Doc\n\nBody.")
-
-        wiki_ingest(
-            wiki,
-            Path("raw/doc.md"),
-            title="Doc",
-            extracted_entities=["Ada Lovelace"],
-            extracted_concepts=["Analytical Engine"],
-        )
-
-        for rel in ["entities/ada_lovelace.md", "concepts/analytical_engine.md"]:
-            metadata, content = parse_page(tmp_path / "wiki" / rel)
-            assert metadata["revision_hash"] == compute_page_content_hash(content), rel
-
-    def test_verify_revision_hashes_passes_after_ingest(self, tmp_path):
-        from llm_wiki.verify import verify_revision_hashes
-
-        wiki_init(tmp_path, name="T")
-        wiki = Wiki(tmp_path)
-        (tmp_path / "raw" / "doc.md").write_text("# Doc\n\nBody.")
-        wiki_ingest(wiki, Path("raw/doc.md"), title="Doc",
-                    extracted_concepts=["Some Concept"])
-
-        result = verify_revision_hashes(wiki)
-
-        assert result.passed, result.details
+from llm_wiki.io import parse_page
 
 
 class TestPathPropertiesAreOrderIndependent:

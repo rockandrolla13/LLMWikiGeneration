@@ -10,7 +10,6 @@ related:
 - concepts/causal-inference
 - concepts/double-machine-learning
 - concepts/potential-outcomes
-revision_hash: sha256:aee0a9ccd43878139cb83b66a8867f5321aeb9dbe67373509a4f1173633d9148
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

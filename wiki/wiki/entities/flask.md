@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/percival-2020-architecture-patterns-python
 mind_map_priority: medium
-revision_hash: sha256:8802809a24631e57
 ---
 
 # Flask

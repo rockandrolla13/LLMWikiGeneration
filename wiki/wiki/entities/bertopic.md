@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/alammar-2024-hands-on-llm
 mind_map_priority: medium
-revision_hash: sha256:4999d67b667eb06f
 ---
 
 # BERTopic

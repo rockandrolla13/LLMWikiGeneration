@@ -21,7 +21,6 @@ related:
 - entities/john-wiley-sons
 - entities/marcos-lopez-de-prado
 - entities/worldquant
-revision_hash: sha256:24c01b780bcd47fa9ebd61d169deab117602cec843d499e69be7c48484d4a8a9
 revision_id: 1
 source_hash: sha256:75fc2cc0ecbaf3328895280cbb6bcda3461439bc9347969da1ce0533bce7df71
 source_path: raw/creditmacro/Finding Alphas (A Quantitative Approach to Building Trading

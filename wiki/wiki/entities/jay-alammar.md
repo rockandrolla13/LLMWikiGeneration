@@ -14,7 +14,6 @@ sources:
 - sources/alammar-2024-hands-on-llm
 mind_map_priority: medium
 affiliation: Cohere
-revision_hash: sha256:79b0f44372bfe69f
 ---
 
 # Jay Alammar

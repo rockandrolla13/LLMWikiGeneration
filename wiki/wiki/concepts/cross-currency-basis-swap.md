@@ -8,7 +8,6 @@ page_id: concepts/cross-currency-basis-swap
 page_type: concept
 related:
 - concepts/forward-rate
-revision_hash: sha256:d385e6b6a1b7cf2704a2da6a39277a53a35909e5b33904d556f51f45849251df
 revision_id: 1
 sources:
 - sources/ms-2016-03-22-xccy-basis-primer

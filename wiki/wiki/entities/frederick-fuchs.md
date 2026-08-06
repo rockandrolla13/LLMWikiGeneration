@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/frederick-fuchs
 page_type: entity
 related: []
-revision_hash: sha256:d5c96471047666a97e8864c453eb5c97f0ec224759f632d806ad589833f90577
 revision_id: 1
 sources:
 - sources/ms-2018-11-25-the-bear-has-begun

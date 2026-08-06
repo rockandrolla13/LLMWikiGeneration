@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/marcus-p-dawson
 page_type: entity
 related: []
-revision_hash: sha256:ad32edeb851ccb4977dce5f658674102eb6d0253a774348e9257dbb8f22b68ea
 revision_id: 1
 sources:
 - sources/dawson-2020-systems-mental-models

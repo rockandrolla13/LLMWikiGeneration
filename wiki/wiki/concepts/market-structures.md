@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/market-structures
 page_type: concept
 related: []
-revision_hash: sha256:67f2fea4dd0b745fc4c51618741494096ff79634de21cb4ffe3f0f8912585494
 revision_id: 1
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook

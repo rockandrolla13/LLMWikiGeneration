@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
-revision_hash: sha256:7482d12a24da9f46
 ---
 
 # DeepSeek

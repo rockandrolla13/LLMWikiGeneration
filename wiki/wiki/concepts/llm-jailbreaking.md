@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/prompt-injection
 mind_map_priority: medium
-revision_hash: sha256:33ba5fe1c1b1c74b
 ---
 
 # Jailbreaking

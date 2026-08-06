@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/olivier-bizimana
 page_type: entity
 related: []
-revision_hash: sha256:e33263e76fb3e1f9112f6832a60250d8ab5811731fc64acd93866ae25613f7eb
 revision_id: 1
 sources:
 - sources/ms-2011-11-28-europe-economics-recession-returns

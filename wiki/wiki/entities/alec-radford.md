@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: OpenAI
-revision_hash: sha256:eee817146ae24def
 ---
 
 # Alec Radford

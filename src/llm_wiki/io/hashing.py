@@ -21,24 +21,6 @@ def compute_content_hash(content: str) -> str:
     return f"sha256:{digest}"
 
 
-def compute_page_content_hash(content: str) -> str:
-    """Compute the revision hash of a page body.
-
-    Serialising a page and reading it back is not byte-preserving: the
-    frontmatter library strips surrounding whitespace, so a hash taken over the
-    pre-write body can never match one taken over the post-read body. Hashing
-    the stripped form makes the value stable across a write/read round trip,
-    which is the only way a stored revision_hash can ever be verified.
-
-    Args:
-        content: Markdown body content
-
-    Returns:
-        Hash string in format "sha256:hexdigest"
-    """
-    return compute_content_hash(content.strip())
-
-
 def compute_file_hash(file_path: Path) -> str:
     """Compute SHA-256 hash of a file.
 

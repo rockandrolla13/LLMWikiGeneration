@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Meta Fundamental AI Research
-revision_hash: sha256:e11a37e912f228cc
 ---
 
 # FAISS

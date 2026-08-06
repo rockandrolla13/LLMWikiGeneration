@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/transductive-learning
 mind_map_priority: medium
-revision_hash: sha256:e4422a32a3452e18
 ---
 
 # Few-shot Prompting

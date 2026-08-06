@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/phanikiran-naraparaju
 page_type: entity
 related: []
-revision_hash: sha256:3da845da07435799364c4fe90e18f6118d8fbb4dee0d0f3c0179494f28fe2c97
 revision_id: 1
 sources:
 - sources/ms-2011-03-28-high-grade-mid-cycle

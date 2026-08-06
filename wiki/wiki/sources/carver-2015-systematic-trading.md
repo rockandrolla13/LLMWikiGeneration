@@ -19,7 +19,6 @@ related:
 - entities/daniel-kahneman
 - entities/harriman-house
 - entities/robert-carver
-revision_hash: sha256:65d1466519689a76d1ad0f34cd007e65c93375b4cfd48d506bf5eb32fded0fd0
 revision_id: 1
 source_hash: sha256:43e1066fe7c787c6d88324eba2c853dd0f7bcd0739dc57bc5d7551d0b17d0bf2
 source_path: raw/creditmacro/Systematic Trading - A unique new method for designing

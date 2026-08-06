@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/default-rates
 - concepts/speculative-grade-default-rate
-revision_hash: sha256:365b68e543978b1b113df175170638ad773cd4fb0ef610913f0d0f7955e4f262
 revision_id: 2
 sources:
 - sources/caprio-2026-steady-but-ai

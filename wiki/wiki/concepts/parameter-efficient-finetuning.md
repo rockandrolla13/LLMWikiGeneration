@@ -12,7 +12,6 @@ sources:
 - sources/huyen-2025-ai-engineering
 related: []
 mind_map_priority: medium
-revision_hash: sha256:4efcee297378f198
 ---
 
 # Parameter-Efficient Finetuning

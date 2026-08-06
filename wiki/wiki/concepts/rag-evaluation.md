@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/calibration
 mind_map_priority: medium
-revision_hash: sha256:20ae53ae565bb4e0
 ---
 
 # RAG Evaluation

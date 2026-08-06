@@ -40,7 +40,6 @@ related:
 - entities/vertex-ai
 - entities/xuezhi-wang
 mind_map_priority: medium
-revision_hash: sha256:33e32f4fdcec0b68
 ---
 
 # Prompt Engineering

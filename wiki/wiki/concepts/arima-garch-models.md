@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/backtesting
 - concepts/mean-reversion
-revision_hash: sha256:68dafd77ff3121ede8acfe90439f1791560bb86d73b7a4d9656457629665e7db
 revision_id: 1
 sources:
 - sources/halls-moore-advanced-algorithmic-trading

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/max-blass
 page_type: entity
 related: []
-revision_hash: sha256:6939db2225f1a59524a0937d299d26857b1b45a466af25e6cee07f69024965bb
 revision_id: 1
 sources:
 - sources/ms-2015-11-16-corporate-hybrids-playbook

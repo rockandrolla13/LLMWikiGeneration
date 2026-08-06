@@ -21,7 +21,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: high
-revision_hash: sha256:5ca7d96c4b105567
 ---
 
 # Prompt Engineering

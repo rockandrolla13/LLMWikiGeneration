@@ -20,7 +20,6 @@ related:
 - entities/judea-pearl
 - entities/oxford-university-press
 - entities/tyler-vanderweele
-revision_hash: sha256:c5a03638ddda96fce977356b832e5acd5a3424e473e97becd14c373cb1bbab15
 revision_id: 1
 source_hash: sha256:80dbc4976c13288d5534098f950b13d39ee1f8e797331b81d695eacbb20c386a
 source_path: raw/creditmacro/Explanation in Causal Inference Methods for Mediation

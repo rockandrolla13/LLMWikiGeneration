@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/confounding
-revision_hash: sha256:db110838bcbea74b34298c49eeed8dfb6052ecec2441350b42ee77964cf2fb20
 revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference

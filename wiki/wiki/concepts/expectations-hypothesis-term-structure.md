@@ -12,7 +12,6 @@ related:
 - concepts/government-bond-spreads
 - concepts/mean-reversion
 - concepts/term-structure-risk-premium
-revision_hash: sha256:3dffa627c148b00f44e904dc307d486c6876335680e7d7f993d898337c6aba22
 revision_id: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel

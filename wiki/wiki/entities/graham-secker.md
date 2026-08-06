@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/graham-secker
 page_type: entity
 related: []
-revision_hash: sha256:0447c8b0de3ccc57c7cd08016bad365a84e509b9e0ab2ce01dcefce167b5fc5b
 revision_id: 1
 sources:
 - sources/ms-2019-03-11-europe-surprise-upside

@@ -16,7 +16,6 @@ related:
 - concepts/token-embeddings
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:8a3f8866c62fc04d
 ---
 
 # Multimodal Embeddings

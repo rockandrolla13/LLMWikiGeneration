@@ -14,7 +14,6 @@ sources:
 - sources/raschka-2024-build-llm-from-scratch
 mind_map_priority: medium
 affiliation: Microsoft Research
-revision_hash: sha256:83683ca1d627368c
 ---
 
 # Edward Hu

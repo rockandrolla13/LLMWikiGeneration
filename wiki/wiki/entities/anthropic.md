@@ -15,7 +15,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
-revision_hash: sha256:4da59b2f9ebeb65b
 ---
 
 # Anthropic

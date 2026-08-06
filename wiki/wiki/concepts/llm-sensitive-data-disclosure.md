@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:1a0364d575466e60
 ---
 
 # Sensitive Data Disclosure in LLMs

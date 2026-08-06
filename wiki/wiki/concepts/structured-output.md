@@ -12,7 +12,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3ee731af44c98f2d
 ---
 
 # Structured Output

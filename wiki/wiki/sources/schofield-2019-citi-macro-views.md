@@ -19,7 +19,6 @@ related:
 - entities/benjamin-nabarro
 - entities/citigroup
 - entities/mark-schofield
-revision_hash: sha256:dc076809813075fcaa9fddef9dd4cff49211915e7590d23f1b424c1d7dddafc8
 revision_id: 1
 source_hash: sha256:d6ffdbdc3758c2565fa776ed8869ab2a0b38d56ba00d81dc510b6e5757ccbd72
 source_path: raw/creditmacro/CITI VIEWS MACRO BOOK.md

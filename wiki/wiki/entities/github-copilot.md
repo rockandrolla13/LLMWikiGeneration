@@ -16,7 +16,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: high
 affiliation: GitHub / Microsoft
-revision_hash: sha256:d2505c28195fe90d
 ---
 
 # GitHub Copilot

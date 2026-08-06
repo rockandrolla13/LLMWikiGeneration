@@ -20,7 +20,6 @@ related:
 - entities/christopher-piros
 - entities/jerald-pinto
 - entities/john-wiley-sons
-revision_hash: sha256:743a6a9535577c83e6a541e710c9a5924df41ee149efb2b48a19786786b8d505
 revision_id: 1
 source_hash: sha256:707efb82c3b50dd9f6f50e004f2746cba2b1fb2dc20e636a2721761cd4e2ffc9
 source_path: raw/creditmacro/Economics for Investment Decision Makers Workbook Micro,

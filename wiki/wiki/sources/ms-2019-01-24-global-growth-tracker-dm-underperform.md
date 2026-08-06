@@ -19,7 +19,6 @@ related:
 - entities/federal-reserve
 - entities/morgan-stanley
 - entities/nora-wassermann
-revision_hash: sha256:f8aeff9d4dff0440ee263dc8f6e8aeb3b90da996e7f291d1c24bd80d52d349f3
 revision_id: 1
 source_hash: sha256:fd789256515e92a604317a3b16fb159505891f13ed60261126bc56ab5bd70c15
 source_path: raw/creditmacro/Morgan Stanley - Global Economics — Global Growth Tracker

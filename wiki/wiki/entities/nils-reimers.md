@@ -14,7 +14,6 @@ sources:
 - sources/alammar-2024-hands-on-llm
 mind_map_priority: medium
 affiliation: Cohere
-revision_hash: sha256:4801d5cf6310276d
 ---
 
 # Nils Reimers

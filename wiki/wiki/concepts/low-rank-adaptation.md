@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:af2cfd9120201933
 ---
 
 # Low-Rank Adaptation

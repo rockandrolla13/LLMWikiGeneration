@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:73d3b40bc3aca716
 ---
 
 # Classification Fine-Tuning

@@ -21,7 +21,6 @@ related:
 - entities/morgan-stanley
 - entities/phanikiran-naraparaju
 - entities/serena-tang
-revision_hash: sha256:f8196b49913afc117a622c0832aadfca16059df0a0d52b434cd57258ec6904c7
 revision_id: 1
 source_hash: sha256:5ccccf84fcaa95ebcda0a6fb180d2de7cad983e2134e5efed844a1edec436b77
 source_path: raw/creditmacro/Morgan Stanley - European High Yield Strategy Monthly

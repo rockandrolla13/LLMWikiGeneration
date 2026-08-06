@@ -10,7 +10,6 @@ related:
 - concepts/factor-models
 - concepts/kalman-filter-state-space
 - concepts/term-structure-risk-premium
-revision_hash: sha256:b0cf6588a31fabcf04c5de0825a7db6b663645b9c37ddb6daced559fd5f34b8f
 revision_id: 1
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel

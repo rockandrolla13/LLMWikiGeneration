@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Worldline; Universite libre de Bruxelles
-revision_hash: sha256:de6909fdf6dd98cc
 ---
 
 # Olivier Caelen

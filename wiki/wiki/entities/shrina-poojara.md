@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/shrina-poojara
 page_type: entity
 related: []
-revision_hash: sha256:bc968b66b8159d65aa1c95280ae0ceac02d93dbdd4a17d4ce4184788c68c8bef
 revision_id: 1
 sources:
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids

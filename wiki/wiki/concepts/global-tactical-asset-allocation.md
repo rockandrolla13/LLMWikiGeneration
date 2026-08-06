@@ -12,7 +12,6 @@ related:
 - concepts/market-timing
 - concepts/risk-parity
 - concepts/risk-premia
-revision_hash: sha256:9979edd16950d73def23e2a0b045db6f3dc061817450bca920b16082ecd05a3c
 revision_id: 2
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum

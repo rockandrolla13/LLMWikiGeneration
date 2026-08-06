@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/federal-reserve
 page_type: entity
 related: []
-revision_hash: sha256:c961a5b0dc051a8855addfa369ab2be9fbf736bf5ac6e4016c6803ab01b9fdb8
 revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/cem-keltek
 page_type: entity
 related: []
-revision_hash: sha256:e908b01887fb7d540a1d5662c5f23a87a1c211e8f0b186d60c827c83116bad86
 revision_id: 1
 sources:
 - sources/caprio-2026-steady-but-ai

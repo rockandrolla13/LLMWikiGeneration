@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/molly-wharton
 page_type: entity
 related: []
-revision_hash: sha256:c79d86513bc1f5a38cefde1c680b738aa95a4f395cf7ca03dd4c2490d1a0be90
 revision_id: 1
 sources:
 - sources/ms-2019-01-25-treasury-market-commentary

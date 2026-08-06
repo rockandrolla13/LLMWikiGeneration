@@ -13,7 +13,6 @@ tags:
 sources:
 - sources/huyen-2022-designing-ml-systems
 mind_map_priority: medium
-revision_hash: sha256:fddc1d5a7236c5fb
 ---
 
 # Claypot AI

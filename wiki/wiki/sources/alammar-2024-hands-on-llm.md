@@ -42,7 +42,6 @@ related:
 - entities/maarten-grootendorst
 - entities/nils-reimers
 mind_map_priority: medium
-revision_hash: sha256:582343ec71d7c232
 ---
 
 # Hands-On Large Language Models

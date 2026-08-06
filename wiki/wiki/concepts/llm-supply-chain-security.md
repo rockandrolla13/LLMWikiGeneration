@@ -12,7 +12,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 related: []
 mind_map_priority: medium
-revision_hash: sha256:c5a9643fe98e08b0
 ---
 
 # LLM Supply Chain Security

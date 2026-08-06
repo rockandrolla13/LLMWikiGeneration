@@ -14,7 +14,6 @@ sources:
 - sources/alammar-2024-hands-on-llm
 mind_map_priority: medium
 affiliation: Netherlands Comprehensive Cancer Organization (IKNL)
-revision_hash: sha256:9a57a496d74c2588
 ---
 
 # Maarten Grootendorst

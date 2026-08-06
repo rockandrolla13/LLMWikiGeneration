@@ -14,7 +14,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 mind_map_priority: medium
 affiliation: Worldline R&D
-revision_hash: sha256:5542fee578bb99ab
 ---
 
 # Marie-Alice Blete

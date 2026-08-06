@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Washington State University
-revision_hash: sha256:64c0e2825c486e60
 ---
 
 # Venera Arnaoudova

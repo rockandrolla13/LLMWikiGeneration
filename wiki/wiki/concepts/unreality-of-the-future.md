@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/unreality-of-the-future
 page_type: concept
 related: []
-revision_hash: sha256:9f94c05140f037c650a63ce56df951e3d137733bc9360de27d796516bb1f3aed
 revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation

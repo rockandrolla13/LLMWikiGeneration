@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:5d1da1b0670b1c17
 ---
 
 # Byte Pair Encoding

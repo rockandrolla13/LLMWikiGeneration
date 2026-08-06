@@ -10,7 +10,6 @@ related:
 - concepts/algorithmic-trading
 - concepts/backtesting
 - concepts/look-ahead-bias
-revision_hash: sha256:39d44aeee0b233a6c70edbeb3a3a2c175b8865ff2634d2e35ddb30c486e809f0
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

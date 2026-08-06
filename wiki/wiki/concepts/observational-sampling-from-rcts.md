@@ -10,7 +10,6 @@ related:
 - concepts/confounding
 - concepts/do-operator
 - concepts/potential-outcomes
-revision_hash: sha256:cd7a00625a58cfba0f6cef1ba641ebddc6b74443e81668dab791d71088bd1f17
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

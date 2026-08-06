@@ -8,7 +8,6 @@ page_id: concepts/ladder-of-causation
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:7ef466d92586348c6fb8962fae827b5f86a2ec7d2de217dbf7a173c4f9015c41
 revision_id: 1
 sources:
 - sources/pearl-2018-book-of-why

@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/subadra-rajappa
 page_type: entity
 related: []
-revision_hash: sha256:912212dc1f7be42f09b859725ff37f3759376130441cac60259905ffeea077d3
 revision_id: 1
 sources:
 - sources/ms-2013-12-13-top-10-rates-surprises-2014

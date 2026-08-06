@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/marcos-lopez-de-prado
 page_type: entity
 related: []
-revision_hash: sha256:95cc2831a6fc0e232a9b0c5b017321d73b22293cb5c2407e15c2ff448f6fad46
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

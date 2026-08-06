@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/data-distribution-shift
 mind_map_priority: medium
-revision_hash: sha256:c105e14faf954e2b
 ---
 
 # ML Monitoring and Observability

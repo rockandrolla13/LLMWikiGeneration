@@ -7,7 +7,6 @@ mind_map_priority: medium
 page_id: concepts/structure-of-production
 page_type: concept
 related: []
-revision_hash: sha256:a09030060ef0b3247550e84439a61c473f537858d428017a2ba5da0927f8deea
 revision_id: 1
 sources:
 - sources/huertadesoto-2006-money-bank-credit

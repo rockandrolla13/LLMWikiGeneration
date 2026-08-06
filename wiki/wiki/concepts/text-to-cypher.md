@@ -12,7 +12,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:c59d396380ccb809
 ---
 
 # Text-to-Cypher Generation

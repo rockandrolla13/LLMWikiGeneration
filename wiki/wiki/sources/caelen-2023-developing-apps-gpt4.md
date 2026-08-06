@@ -44,7 +44,6 @@ related:
 - entities/tom-taulli
 - entities/worldline
 mind_map_priority: medium
-revision_hash: sha256:1828104a73669f4b
 ---
 
 # Developing Apps with GPT-4 and ChatGPT

@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:b0a20a1816e9ce96
 ---
 
 # Foundation Models

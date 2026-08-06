@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/autocorrelation-time-series
 - concepts/interrupted-time-series-design
-revision_hash: sha256:fbb8c9fc77131f7d8792d4178b638c038646d860be47563829ff614cc1e41dd2
 revision_id: 1
 sources:
 - sources/hudson-2019-its-healthcare-reporting

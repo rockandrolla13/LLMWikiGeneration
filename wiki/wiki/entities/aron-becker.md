@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/aron-becker
 page_type: entity
 related: []
-revision_hash: sha256:72314638171ca79070c13a095b9f58a4580c94ac63467605575bce9ab32a3e7e
 revision_id: 2
 sources:
 - sources/ms-2015-11-16-corporate-hybrids-playbook

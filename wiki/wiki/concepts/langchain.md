@@ -17,7 +17,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:6b10f030685cb0d0
 ---
 
 # LangChain

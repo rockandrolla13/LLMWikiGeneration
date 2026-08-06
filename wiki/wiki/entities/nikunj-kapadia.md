@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/nikunj-kapadia
 page_type: entity
 related: []
-revision_hash: sha256:35c0cdc480c78db6ef401485a052926b2c62ebed5a0f70330401f9c8a2b08b49
 revision_id: 1
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit

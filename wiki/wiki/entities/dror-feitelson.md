@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Hebrew University of Jerusalem
-revision_hash: sha256:46f888813a3cdef1
 ---
 
 # Dror Feitelson

@@ -39,7 +39,6 @@ related:
 - entities/openai
 - entities/oreilly-media
 mind_map_priority: medium
-revision_hash: sha256:b199dea328348cb1
 ---
 
 # Prompt Engineering for LLMs

@@ -14,7 +14,6 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 mind_map_priority: medium
 affiliation: Contrast Security; OWASP
-revision_hash: sha256:7aeb5ca70fcca912
 ---
 
 # Steve Wilson

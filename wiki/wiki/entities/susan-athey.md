@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/susan-athey
 page_type: entity
 related: []
-revision_hash: sha256:e019b465851498ae8c8744aed8836d164242af2d2a6cccd2014a075cdd4c2415
 revision_id: 1
 sources:
 - sources/gentzel-2021-osrct-evaluation

@@ -14,7 +14,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: medium
 affiliation: LangChain
-revision_hash: sha256:c32f4990a1f14a7d
 ---
 
 # Nuno Campos

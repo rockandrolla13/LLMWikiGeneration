@@ -14,7 +14,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: medium
 affiliation: IBM Research
-revision_hash: sha256:166c3ce54389ce07
 ---
 
 # Kate Soule

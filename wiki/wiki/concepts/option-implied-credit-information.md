@@ -10,7 +10,6 @@ related:
 - concepts/cds-bond-basis
 - concepts/credit-spread-puzzle
 - concepts/stochastic-volatility-with-jumps
-revision_hash: sha256:2d594a6d661d1448fb35775bc784e60c6d2669294ea4b525ea919f02c738cddf
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

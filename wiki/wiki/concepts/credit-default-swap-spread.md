@@ -10,7 +10,6 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
 - concepts/liquidity-risk
-revision_hash: sha256:e1120fae1d804a03c0a85efa23d81f76b7e26af177383b6e8dc0a2da741bc11b
 revision_id: 1
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit

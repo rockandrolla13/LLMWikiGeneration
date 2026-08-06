@@ -12,7 +12,6 @@ sources:
 - sources/barrasa-2023-building-knowledge-graphs
 related: []
 mind_map_priority: medium
-revision_hash: sha256:05d24a0a4cb180f6
 ---
 
 # Property Graph Model

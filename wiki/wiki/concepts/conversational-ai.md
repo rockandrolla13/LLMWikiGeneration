@@ -14,7 +14,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:b67f42244e393e20
 ---
 
 # Conversational AI

@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/cds-bond-basis
 - concepts/corporate-bonds
-revision_hash: sha256:bc67f8fe1eac108d700be80c983cc08f4c3afd3c888fc6d5ddc226ea4be4d4a4
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

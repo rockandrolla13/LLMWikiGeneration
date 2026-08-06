@@ -12,7 +12,6 @@ sources:
 - sources/mendelevitch-2025-hands-on-rag
 related: []
 mind_map_priority: medium
-revision_hash: sha256:7f44a0617d14cf2b
 ---
 
 # LLM Hallucination

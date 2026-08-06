@@ -24,7 +24,6 @@ from .manifest import (
 )
 from .io import (
     write_page,
-    compute_page_content_hash,
     compute_file_hash,
     normalize_page_id,
 )
@@ -187,12 +186,6 @@ def wiki_ingest(
         # Generate markdown content
         content = _generate_source_content(source_page)
 
-        # Stamp the revision hash into the metadata BEFORE writing, so the
-        # value actually lands on disk. Computing it after the write left the
-        # field empty on every ingested page and made the integrity check
-        # meaningless.
-        meta.revision_hash = compute_page_content_hash(content)
-
         # Write page
         page_path = wiki.wiki_dir / f"{page_id}.md"
         write_page(page_path, source_page.to_frontmatter_dict(), content)
@@ -337,11 +330,10 @@ def _create_entity_page(
 | [[{source_page_id}]] | Mentioned |
 """
 
-    meta.revision_hash = compute_page_content_hash(content)
     page_path = wiki.wiki_dir / f"{page_id}.md"
     write_page(page_path, meta.to_frontmatter_dict(), content)
 
-    return {"success": True, "page_id": page_id, "hash": meta.revision_hash}
+    return {"success": True, "page_id": page_id}
 
 
 def _create_concept_page(
@@ -390,11 +382,10 @@ def _create_concept_page(
 - What is the precise definition?
 """
 
-    meta.revision_hash = compute_page_content_hash(content)
     page_path = wiki.wiki_dir / f"{page_id}.md"
     write_page(page_path, meta.to_frontmatter_dict(), content)
 
-    return {"success": True, "page_id": page_id, "hash": meta.revision_hash}
+    return {"success": True, "page_id": page_id}
 
 
 def wiki_stats(wiki: Wiki) -> dict:

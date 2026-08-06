@@ -8,7 +8,6 @@ page_id: concepts/causal-theory-of-time-direction
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:d55c8b0eb092a63d7b6e0c90ea3be7214fa104ac1bc439da27ee9bb60477b7d0
 revision_id: 1
 sources:
 - sources/tooley-1997-time-tense-causation

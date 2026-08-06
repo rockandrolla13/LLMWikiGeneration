@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-halls-moore
 page_type: entity
 related: []
-revision_hash: sha256:484ab9082601b322b0917e285c08887c111205259039960a61ded5447b75adce
 revision_id: 1
 sources:
 - sources/halls-moore-advanced-algorithmic-trading

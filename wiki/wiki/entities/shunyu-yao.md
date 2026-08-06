@@ -15,7 +15,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: medium
 affiliation: Princeton
-revision_hash: sha256:0ea3b9f5d24a2078
 ---
 
 # Shunyu Yao

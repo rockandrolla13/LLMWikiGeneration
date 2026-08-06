@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/algorithmic-trading
 - concepts/etf-flows
-revision_hash: sha256:17d727d9ca7bfcd781d901a087b43f79a6fd75fb0f8ee47cba183461e4078237
 revision_id: 1
 sources:
 - sources/mercado-2015-taarss-flow-whisperer

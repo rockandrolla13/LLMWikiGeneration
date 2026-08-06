@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/mean-reversion
 - concepts/statistical-arbitrage
-revision_hash: sha256:91c5198c851537c0ac287f141b69d0276f126c3132b8ea422a3328ed46d53564
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies

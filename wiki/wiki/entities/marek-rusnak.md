@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/marek-rusnak
 page_type: entity
 related: []
-revision_hash: sha256:21ddc0881bae5d8a07ae9d15911d36861e6da016e90eeab2b9177c365c4fc8fb
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

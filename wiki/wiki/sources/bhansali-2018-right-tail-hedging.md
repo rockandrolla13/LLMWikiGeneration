@@ -20,7 +20,6 @@ related:
 - entities/longtail-alpha
 - entities/robert-merton
 - entities/vineer-bhansali
-revision_hash: sha256:26c5d217b66fe1f4f0d98913dd7ac3766e937a47aa1e999ce20553ff5f76537d
 revision_id: 1
 source_hash: sha256:69e9a81b6e615da3b2707c0005d58090a44eaa927a83e0a96c868696222aa270
 source_path: raw/creditmacro/document.md

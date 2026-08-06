@@ -22,7 +22,6 @@ related:
 - entities/phanikiran-naraparaju
 - entities/serena-tang
 - entities/wanting-low
-revision_hash: sha256:ac78c239536c6e29462de608f8a4e4b3b99b8c04cf7da8082c20d8f0fd759916
 revision_id: 1
 source_hash: sha256:f82ea922e7303549a02d49411bc2127dcb3879ac3be50b0023b2c4a06b322e09
 source_path: raw/creditmacro/Morgan Stanley - CROSS-ASSET STRATEGY — Global In the

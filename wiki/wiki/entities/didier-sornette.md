@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/didier-sornette
 page_type: entity
 related: []
-revision_hash: sha256:ade5d9de532385ebe2f607577de032c0e0e247801f7fb3578a92444533ac1f88
 revision_id: 1
 sources:
 - sources/bhansali-2018-right-tail-hedging

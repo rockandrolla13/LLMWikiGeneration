@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/david-card
 page_type: entity
 related: []
-revision_hash: sha256:6003d5d0370e64a93244a69beae34f5fbc8359d98f713ce9066c206ffab3dd8d
 revision_id: 1
 sources:
 - sources/angrist-2009-mostly-harmless-econometrics

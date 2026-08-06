@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/davide-avino
 page_type: entity
 related: []
-revision_hash: sha256:8bb36c67577dbf44629490fc38900e3149bdbe7621581c8b0790063c363d3979
 revision_id: 1
 sources:
 - sources/avino-2024-hedging-credit-equity-options

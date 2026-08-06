@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/katerina-smidkova
 page_type: entity
 related: []
-revision_hash: sha256:472cf6610a60c9546171a5d94a7373905e16a8d04c64306d7f67b0668057fb74
 revision_id: 1
 sources:
 - sources/babecky-2013-leading-indicators-crisis-incidence

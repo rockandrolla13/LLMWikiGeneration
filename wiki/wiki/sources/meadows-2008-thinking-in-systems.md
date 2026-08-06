@@ -19,7 +19,6 @@ related:
 - entities/chelsea-green-publishing
 - entities/donella-meadows
 - entities/jay-forrester
-revision_hash: sha256:25387542acb83554735c1d1cbc2560282650e9c6257b48e377faa2811bffe1a6
 revision_id: 1
 source_hash: sha256:c1a5197ab893d51d8791f50e2f10ecc5d6f7eaf22aaa81a9ba4761a6ace09a91
 source_path: raw/creditmacro/Thinking in Systems A Primer (Meadows, Donella H.) (z-library.sk,

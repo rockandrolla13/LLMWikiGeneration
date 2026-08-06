@@ -12,7 +12,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 related: []
 mind_map_priority: medium
-revision_hash: sha256:3f35c5ef7dc9f497
 ---
 
 # Domain-Driven Design

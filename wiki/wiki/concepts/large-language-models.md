@@ -16,7 +16,6 @@ related:
 - concepts/self-attention
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:7a61d98e5e28fc31
 ---
 
 # Large Language Models

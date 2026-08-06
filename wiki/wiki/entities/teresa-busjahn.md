@@ -14,7 +14,6 @@ sources:
 - sources/hermans-2024-code-reading-in-practice
 mind_map_priority: medium
 affiliation: Freie Universität Berlin
-revision_hash: sha256:90a9f05275ef44eb
 ---
 
 # Teresa Busjahn

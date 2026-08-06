@@ -19,7 +19,6 @@ related:
 - entities/john-mctaggart
 - entities/michael-tooley
 - entities/oxford-university-press
-revision_hash: sha256:d0303db4cf7bf2cd34b594b1cdb6a227cd7c1666e9ea82cd722cf9d15a557129
 revision_id: 1
 source_hash: sha256:e47e3dac08c445a2cb38f4c94bfa6c985e5564f4b0bcb7a91907e80bfb84297a
 source_path: raw/creditmacro/Time, Tense, and Causation (Michael Tooley) (z-library.sk,

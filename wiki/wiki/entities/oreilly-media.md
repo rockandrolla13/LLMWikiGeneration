@@ -19,7 +19,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 mind_map_priority: high
 affiliation: Sebastopol, CA
-revision_hash: sha256:f4c6ee888578b7b7
 ---
 
 # O'Reilly Media

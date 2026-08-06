@@ -42,7 +42,6 @@ related:
 - entities/owasp
 - entities/steve-wilson
 mind_map_priority: medium
-revision_hash: sha256:788a72e903e004df
 ---
 
 # The Developer's Playbook for Large Language Model Security

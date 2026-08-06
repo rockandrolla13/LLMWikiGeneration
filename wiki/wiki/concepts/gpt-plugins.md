@@ -12,7 +12,6 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 related: []
 mind_map_priority: medium
-revision_hash: sha256:6ea2919afc8f0823
 ---
 
 # GPT Plug-ins

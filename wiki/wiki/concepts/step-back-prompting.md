@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/chain-of-thought-prompting
 mind_map_priority: medium
-revision_hash: sha256:8195e56be1051af8
 ---
 
 # Step-Back Prompting

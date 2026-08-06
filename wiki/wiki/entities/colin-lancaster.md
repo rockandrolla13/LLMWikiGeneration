@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/colin-lancaster
 page_type: entity
 related: []
-revision_hash: sha256:42cb53370d767d76f1108417df21f76b3c6cf8ed97925045b703ad3fd4b683e8
 revision_id: 1
 sources:
 - sources/lancaster-2021-fed-up

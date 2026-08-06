@@ -41,7 +41,6 @@ related:
 - entities/sebastian-raschka
 - entities/tiktoken
 mind_map_priority: medium
-revision_hash: sha256:92ac0419f91612c9
 ---
 
 # Build a Large Language Model (From Scratch)

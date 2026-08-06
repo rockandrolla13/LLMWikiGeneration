@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/koichi-sugisaki
 page_type: entity
 related: []
-revision_hash: sha256:8b60840fb3d119f46a638196b4910d0ef9331ca54a610d70a5bbba68f17543d7
 revision_id: 1
 sources:
 - sources/ms-2016-03-22-xccy-basis-primer

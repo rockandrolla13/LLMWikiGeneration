@@ -23,7 +23,6 @@ related:
 - entities/patryk-drozdzik
 - entities/philipp-erfurth
 - entities/sung-woen-kang
-revision_hash: sha256:d6a961bffe102cfbf6f4edb57bd959b91cd0bc9db3e397d011dba1c171109af1
 revision_id: 1
 source_hash: sha256:add1769d1606fa6c3e90b347065aba2ebce88a0218a54685c7554d82ca872869
 source_path: raw/creditmacro/Morgan Stanley - Global Economics Team — The Global Macro

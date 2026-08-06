@@ -20,7 +20,6 @@ sources:
 - sources/thomas-2025-ai-value-creators
 mind_map_priority: high
 affiliation: LangChain, Inc.
-revision_hash: sha256:82049afdf76abc15
 ---
 
 # LangChain

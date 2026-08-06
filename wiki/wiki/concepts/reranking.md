@@ -15,7 +15,6 @@ sources:
 related:
 - concepts/transformers
 mind_map_priority: medium
-revision_hash: sha256:4bef03800664ebca
 ---
 
 # Reranking

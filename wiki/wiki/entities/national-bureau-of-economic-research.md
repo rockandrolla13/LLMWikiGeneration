@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/national-bureau-of-economic-research
 page_type: entity
 related: []
-revision_hash: sha256:851b53a8d2c690d0a42782fe8eb83e9a381c5bddf1bc73ecee87aa9418c8ba5e
 revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates

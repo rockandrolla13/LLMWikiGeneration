@@ -10,7 +10,6 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/value-at-risk
-revision_hash: sha256:58ca4aaefe67913582fa94101ef7471e4ac42025c35545e05738ad96918ebc17
 revision_id: 1
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns

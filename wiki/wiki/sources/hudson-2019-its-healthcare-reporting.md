@@ -21,7 +21,6 @@ related:
 - entities/jemma-hudson
 - entities/shona-fielding
 - entities/university-of-aberdeen
-revision_hash: sha256:a7db6fca75002ed6d71dfe3938f0e6f309d2172a75685f6bc4f7197b28b9f596
 revision_id: 1
 source_hash: sha256:3dc9c95cf4c2104cfe179dfad76877369659e3eafe95bf5c1736690e84e90266
 source_path: raw/causality-testing/s12874-019-0777-x.pdf

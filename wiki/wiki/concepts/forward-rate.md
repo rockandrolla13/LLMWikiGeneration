@@ -14,7 +14,6 @@ related:
 - concepts/expectations-hypothesis-term-structure
 - concepts/government-bond-spreads
 - concepts/term-structure-risk-premium
-revision_hash: sha256:a75eede22f60f3ff1fe3865d7391d1dd99ef14f70145acd0f7e968cb9b457d91
 revision_id: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel

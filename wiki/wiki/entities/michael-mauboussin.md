@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/michael-mauboussin
 page_type: entity
 related: []
-revision_hash: sha256:52d759285cea4978f1315983ebd0e8cef3ebd8858c2cb6500a2b2501c9b73e04
 revision_id: 1
 sources:
 - sources/mauboussin-2026-bayes-base-rates

@@ -12,7 +12,6 @@ sources:
 - sources/percival-2020-architecture-patterns-python
 related: []
 mind_map_priority: medium
-revision_hash: sha256:21abdd29133198d4
 ---
 
 # Command-Query Responsibility Segregation

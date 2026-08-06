@@ -9,7 +9,6 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/quantitative-easing
-revision_hash: sha256:978dd81f991b46766ebe939d55200baa828eb5495e28a0e4ba43f1ed5ef61020
 revision_id: 1
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide

@@ -14,7 +14,6 @@ sources:
 - sources/bratanic-2025-essential-graphrag
 mind_map_priority: medium
 affiliation: Neo4j
-revision_hash: sha256:581c400e6a044d39
 ---
 
 # Tomaz Bratanic

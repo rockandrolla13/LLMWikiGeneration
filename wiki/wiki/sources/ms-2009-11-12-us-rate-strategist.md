@@ -14,7 +14,6 @@ related:
 - concepts/quantitative-easing
 - entities/jim-caron
 - entities/morgan-stanley
-revision_hash: sha256:aeb41dfd92f6de42050f241a260c2b3a989568516d358b951a365849ac08977a
 revision_id: 1
 source_hash: sha256:805ad6c051d9f0989d61e54d372bc378b96c49216d1f8347796887d27dfbdf0a
 source_path: raw/creditmacro/Morgan Stanley - Morgan Stanley & Co. Incorporated Jim

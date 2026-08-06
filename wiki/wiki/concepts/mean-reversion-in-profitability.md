@@ -8,7 +8,6 @@ page_id: concepts/mean-reversion-in-profitability
 page_type: concept
 related:
 - concepts/mean-reversion
-revision_hash: sha256:17947afc08ca5c7426c18a568af920285401e67e216c59567ee035b288dfbed4
 revision_id: 1
 sources:
 - sources/chan-2001-level-persistence-growth-rates

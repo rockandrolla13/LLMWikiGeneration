@@ -38,7 +38,6 @@ related:
 - entities/teresa-busjahn
 - entities/venera-arnaoudova
 mind_map_priority: medium
-revision_hash: sha256:7909e78158a23726
 ---
 
 # Code Reading in Practice

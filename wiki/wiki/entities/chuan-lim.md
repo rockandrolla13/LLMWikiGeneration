@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/chuan-lim
 page_type: entity
 related: []
-revision_hash: sha256:1bbfbe5f4a6446b19bcded3d122d6e7ad80e4f63711937bdb13d53a150defd43
 revision_id: 1
 sources:
 - sources/ms-2010-09-15-em-quantitative-quarterly

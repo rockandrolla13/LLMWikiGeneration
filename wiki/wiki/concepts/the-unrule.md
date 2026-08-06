@@ -8,7 +8,6 @@ page_id: concepts/the-unrule
 page_type: concept
 related:
 - concepts/algorithmic-trading
-revision_hash: sha256:fb407f40974b72d6757017eaaca53232621f59a8a98cb9cdf7825a43ad9c1d7f
 revision_id: 1
 sources:
 - sources/tulchinsky-2020-finding-alphas

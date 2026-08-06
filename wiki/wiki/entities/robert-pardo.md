@@ -8,7 +8,6 @@ mind_map_priority: low
 page_id: entities/robert-pardo
 page_type: entity
 related: []
-revision_hash: sha256:125ca37d42add36603cefe19dd8ac4bad440d2a0c1f747a96d94e49e31949c10
 revision_id: 1
 sources:
 - sources/pardo-2008-evaluation-optimization-trading-strategies

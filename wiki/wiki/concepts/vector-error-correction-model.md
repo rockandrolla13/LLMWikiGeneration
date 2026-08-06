@@ -10,7 +10,6 @@ related:
 - concepts/cointegration
 - concepts/half-life-of-adjustment
 - concepts/structural-vector-autoregression
-revision_hash: sha256:c7548126e0f58fb84ad6ef1d8980f7b2cf3b870436131379968d85eb98309b76
 revision_id: 1
 sources:
 - sources/duasa-2010-predicting-crisis-recovery

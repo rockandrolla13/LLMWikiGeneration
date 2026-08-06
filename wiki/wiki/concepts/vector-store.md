@@ -12,7 +12,6 @@ sources:
 - sources/oshin-2025-learning-langchain
 related: []
 mind_map_priority: medium
-revision_hash: sha256:8f3caf034fd7bc41
 ---
 
 # Vector Store

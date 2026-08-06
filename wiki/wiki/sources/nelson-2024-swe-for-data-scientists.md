@@ -40,7 +40,6 @@ related:
 - entities/tim-peters
 - entities/weights-and-biases
 mind_map_priority: medium
-revision_hash: sha256:1be67d4ba7625b6b
 ---
 
 # Software Engineering for Data Scientists

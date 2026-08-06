@@ -8,7 +8,6 @@ page_id: concepts/spillover-interference-effects
 page_type: concept
 related:
 - concepts/causal-inference
-revision_hash: sha256:ad267c929408fefd72d30e0cba62ea938a1f8ae0355d1c175942cef8cf453193
 revision_id: 1
 sources:
 - sources/vanderweele-2015-explanation-causal-inference
