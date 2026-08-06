@@ -76,7 +76,7 @@ A practitioner quantitative-trading book by Michael Halls-Moore (QuantStart) tea
 ## Entities
 
 - [[entities/michael-halls-moore|Michael L. Halls-Moore]]
-- [[entities/quantstart|QuantStart]]
+- QuantStart
 
 ## Source
 

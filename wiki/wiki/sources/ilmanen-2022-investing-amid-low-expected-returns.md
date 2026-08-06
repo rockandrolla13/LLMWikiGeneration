@@ -81,7 +81,7 @@ Ilmanen's 2022 book confronts the secular challenge of low expected returns: aft
 - [[entities/antti-ilmanen|Antti Ilmanen]]
 - [[entities/cliff-asness|Cliff Asness]]
 - [[entities/aqr-capital-management|AQR Capital Management]]
-- [[entities/john-wiley-sons|John Wiley & Sons]]
+- John Wiley & Sons
 
 ## Source
 

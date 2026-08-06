@@ -80,7 +80,7 @@ A comprehensive Austrian-school treatise arguing that fractional-reserve banking
 - [[entities/ludwig-von-mises|Ludwig von Mises]]
 - [[entities/friedrich-hayek|Friedrich A. Hayek]]
 - [[entities/murray-rothbard|Murray N. Rothbard]]
-- [[entities/ludwig-von-mises-institute|Ludwig von Mises Institute]]
+- Ludwig von Mises Institute
 
 ## Source
 

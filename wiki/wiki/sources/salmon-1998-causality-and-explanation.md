@@ -75,7 +75,7 @@ A collection of 26 essays by Wesley C. Salmon gathering three decades of his wor
 
 - [[entities/wesley-c-salmon|Wesley C. Salmon]]
 - [[entities/david-hume|David Hume]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

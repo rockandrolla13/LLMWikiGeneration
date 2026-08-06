@@ -75,7 +75,7 @@ A popular-mathematics book arguing that mathematics is the formalization and dis
 - [[entities/jordan-ellenberg|Jordan Ellenberg]]
 - [[entities/abraham-wald|Abraham Wald]]
 - [[entities/francis-galton|Francis Galton]]
-- [[entities/penguin-press|The Penguin Press]]
+- The Penguin Press
 
 ## Source
 

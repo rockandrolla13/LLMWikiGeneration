@@ -84,7 +84,7 @@ An edited volume by Igor Tulchinsky and WorldQuant staff on the industrial proce
 - [[entities/worldquant|WorldQuant]]
 - [[entities/marcos-lopez-de-prado|Marcos Lopez de Prado]]
 - [[entities/campbell-harvey|Campbell Harvey]]
-- [[entities/john-wiley-sons|John Wiley & Sons]]
+- John Wiley & Sons
 
 ## Source
 

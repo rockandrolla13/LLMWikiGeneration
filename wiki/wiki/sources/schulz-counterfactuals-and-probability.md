@@ -80,7 +80,7 @@ Moritz Schulz studies the behaviour of counterfactual conditionals under uncerta
 - [[entities/david-lewis|David Lewis]]
 - [[entities/robert-stalnaker|Robert Stalnaker]]
 - [[entities/ernest-adams|Ernest Adams]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

@@ -83,7 +83,7 @@ A graduate-level applied econometrics text organized around credible causal infe
 - [[entities/jorn-steffen-pischke|Jörn-Steffen Pischke]]
 - [[entities/victor-chernozhukov|Victor Chernozhukov]]
 - [[entities/david-card|David Card]]
-- [[entities/princeton-university-press|Princeton University Press]]
+- Princeton University Press
 
 ## Source
 

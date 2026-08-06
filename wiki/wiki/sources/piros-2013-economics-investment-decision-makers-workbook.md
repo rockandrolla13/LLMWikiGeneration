@@ -80,7 +80,7 @@ The companion Workbook to the CFA Institute Investment Series text 'Economics fo
 - [[entities/christopher-piros|Christopher D. Piros]]
 - [[entities/jerald-pinto|Jerald E. Pinto]]
 - [[entities/cfa-institute|CFA Institute]]
-- [[entities/john-wiley-sons|John Wiley & Sons]]
+- John Wiley & Sons
 
 ## Source
 

@@ -81,7 +81,7 @@ Ilmanen's comprehensive cross-asset treatment of where investment rewards come f
 
 - [[entities/antti-ilmanen|Antti Ilmanen]]
 - [[entities/cliff-asness|Cliff Asness]]
-- [[entities/john-wiley-sons|John Wiley & Sons]]
+- John Wiley & Sons
 
 ## Source
 

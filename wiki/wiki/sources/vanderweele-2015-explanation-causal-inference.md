@@ -80,7 +80,7 @@ VanderWeele provides the first book-length treatment of mediation and interactio
 - [[entities/tyler-vanderweele|Tyler J. VanderWeele]]
 - [[entities/judea-pearl|Judea Pearl]]
 - [[entities/james-robins|James Robins]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

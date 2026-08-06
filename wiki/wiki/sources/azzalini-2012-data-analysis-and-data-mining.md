@@ -79,7 +79,7 @@ A graduate introductory textbook positioning data mining at the intersection of 
 
 - [[entities/adelchi-azzalini|Adelchi Azzalini]]
 - [[entities/bruno-scarpa|Bruno Scarpa]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

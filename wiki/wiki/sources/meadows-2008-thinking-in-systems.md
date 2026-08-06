@@ -79,7 +79,7 @@ A posthumously published primer (edited by Diana Wright) distilling three decade
 
 - [[entities/donella-meadows|Donella H. Meadows]]
 - [[entities/jay-forrester|Jay Forrester]]
-- [[entities/chelsea-green-publishing|Chelsea Green Publishing]]
+- Chelsea Green Publishing
 
 ## Source
 

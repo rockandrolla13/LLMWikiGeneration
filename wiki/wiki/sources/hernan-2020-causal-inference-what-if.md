@@ -80,7 +80,7 @@ A graduate textbook on the identification and estimation of causal effects from 
 
 - [[entities/miguel-hernan|Miguel A. Hernán]]
 - [[entities/james-robins|James M. Robins]]
-- [[entities/chapman-hall-crc|Chapman & Hall/CRC]]
+- Chapman & Hall/CRC
 
 ## Source
 

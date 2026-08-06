@@ -83,7 +83,7 @@ Arkadiusz Sieroń (University of Wrocław; Austrian-school economist) argues the
 - [[entities/ludwig-von-mises|Ludwig von Mises]]
 - [[entities/claudio-borio|Claudio Borio]]
 - [[entities/john-maynard-keynes|John Maynard Keynes]]
-- [[entities/routledge|Routledge]]
+- Routledge
 
 ## Source
 

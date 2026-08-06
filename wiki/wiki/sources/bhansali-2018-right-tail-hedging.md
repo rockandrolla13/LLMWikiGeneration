@@ -77,7 +77,7 @@ Bhansali argues that upside ('right tail') hedging using call options can be opt
 
 - [[entities/vineer-bhansali|Vineer Bhansali]]
 - [[entities/longtail-alpha|LongTail Alpha, LLC]]
-- [[entities/journal-of-portfolio-management|The Journal of Portfolio Management]]
+- The Journal of Portfolio Management
 - [[entities/robert-merton|Robert C. Merton]]
 - [[entities/didier-sornette|Didier Sornette]]
 

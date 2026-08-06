@@ -73,7 +73,7 @@ A textbook (Springer, 2026) by Zrinka Lukač of the University of Zagreb. The ce
 ## Entities
 
 - [[entities/zrinka-lukac|Zrinka Lukač]]
-- [[entities/springer-nature|Springer Nature]]
+- Springer Nature
 
 ## Source
 

@@ -78,7 +78,7 @@ Robert Carver presents 30 fully systematic futures trading strategies, all rule-
 
 - [[entities/robert-carver|Robert Carver]]
 - [[entities/ahl-man-group|AHL (Man Group)]]
-- [[entities/harriman-house|Harriman House]]
+- Harriman House
 
 ## Source
 

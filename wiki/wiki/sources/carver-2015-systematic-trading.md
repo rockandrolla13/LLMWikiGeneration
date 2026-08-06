@@ -80,7 +80,7 @@ Robert Carver presents a complete, modular framework for designing systematic tr
 
 - [[entities/robert-carver|Robert Carver]]
 - [[entities/daniel-kahneman|Daniel Kahneman]]
-- [[entities/harriman-house|Harriman House]]
+- Harriman House
 
 ## Source
 

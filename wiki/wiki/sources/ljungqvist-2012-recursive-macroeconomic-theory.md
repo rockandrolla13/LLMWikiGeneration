@@ -84,7 +84,7 @@ A canonical graduate textbook arguing that recursive methods are a pervasive, un
 - [[entities/lars-ljungqvist|Lars Ljungqvist]]
 - [[entities/thomas-sargent|Thomas J. Sargent]]
 - [[entities/lars-peter-hansen|Lars Peter Hansen]]
-- [[entities/mit-press|The MIT Press]]
+- The MIT Press
 
 ## Source
 

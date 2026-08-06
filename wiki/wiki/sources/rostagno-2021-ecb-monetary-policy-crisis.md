@@ -100,7 +100,7 @@ Written by seven ECB economists, this volume narrates the first two decades of E
 - [[entities/jonathan-yiangou|Jonathan Yiangou]]
 - [[entities/european-central-bank|European Central Bank]]
 - [[entities/mario-draghi|Mario Draghi]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

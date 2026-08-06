@@ -78,7 +78,7 @@ Michael Tooley defends an 'intermediate' tensed metaphysics of time on which the
 - [[entities/michael-tooley|Michael Tooley]]
 - [[entities/david-lewis|David Lewis]]
 - [[entities/john-mctaggart|John McTaggart]]
-- [[entities/oxford-university-press|Oxford University Press]]
+- Oxford University Press
 
 ## Source
 

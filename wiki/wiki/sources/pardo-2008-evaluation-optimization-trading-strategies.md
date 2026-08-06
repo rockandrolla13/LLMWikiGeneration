@@ -74,7 +74,7 @@ Robert Pardo's practitioner methodology for building, testing, optimizing, and v
 ## Entities
 
 - [[entities/robert-pardo|Robert Pardo]]
-- [[entities/john-wiley-sons|John Wiley & Sons]]
+- John Wiley & Sons
 
 ## Source
 

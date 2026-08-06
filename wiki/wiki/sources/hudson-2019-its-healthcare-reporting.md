@@ -81,7 +81,7 @@ The authors conclude that reporting of ITS design features and results is curren
 - [[entities/shona-fielding|Shona Fielding]]
 - [[entities/craig-ramsay|Craig R. Ramsay]]
 - [[entities/university-of-aberdeen|University of Aberdeen]]
-- [[entities/bmc-medical-research-methodology|BMC Medical Research Methodology]]
+- BMC Medical Research Methodology
 
 ## Source
 
