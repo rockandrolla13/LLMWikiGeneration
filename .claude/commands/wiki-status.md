@@ -1,62 +1,100 @@
-Show wiki status, statistics, and OMEGA memory summary. $ARGUMENTS
+Show wiki health: size, integrity checks, broken links, and what needs writing. $ARGUMENTS
+
+Run this from the repository root. The wiki lives in `wiki/`, not `.`.
 
 ```python
+import sys, collections
 from pathlib import Path
-from llm_wiki import (
-    Wiki, wiki_stats, wiki_freshness,
-    is_omega_available, get_wiki_briefing, query_wiki_history,
-)
 
-wiki = Wiki(Path("."))
+sys.path.insert(0, "src")
 
-# Get wiki stats
-print("=== Wiki Status ===")
+from llm_wiki import Wiki, wiki_stats, wiki_freshness
+from llm_wiki.io import parse_page, extract_wikilinks, normalize_link_target
+from llm_wiki.verify import verify_wiki
+
+WIKI = Path("wiki")          # the vault: contains schema.yml, manifest.jsonl, wiki/
+wiki = Wiki(WIKI)
+
+# ---------------------------------------------------------------- size
 stats = wiki_stats(wiki)
-print(f"Name: {wiki.config.name}")
-print(f"Topic: {wiki.config.topic}")
-print(f"Pages: {stats['total_pages']}")
-print(f"Links: {stats['total_links']}")
-print(f"Sources: {stats['source_count']}")
-print(f"Entities: {stats['entity_count']}")
-print(f"Concepts: {stats['concept_count']}")
+print("=== Wiki ===")
+print(f"Name    : {stats['wiki_name']}")
+print(f"Topic   : {stats['wiki_topic']}")
+print(f"Pages   : {stats['total_pages']}")
+print(f"  sources        {stats['total_sources']}")
+print(f"  concepts       {stats['total_concepts']}")
+print(f"  entities       {stats['total_entities']}")
+print(f"  analyses       {stats['total_analyses']}")
+print(f"  contradictions {stats['total_contradictions']}")
+print(f"Ledger  : {stats['total_operations']} operations, {stats['total_ingests']} ingests")
 
-# Check freshness
+# ---------------------------------------------------------------- schema
+v2 = sum(1 for p in wiki.list_pages()
+         if (parse_page(p)[0].get("schema_version") == 2))
+total = stats["total_pages"]
+print(f"Schema  : {v2}/{total} pages on v2" + ("" if v2 == total else "  <- migrate the rest"))
+
+# ---------------------------------------------------------------- integrity
 print()
-print("=== Freshness ===")
+print("=== Integrity ===")
+report = verify_wiki(wiki)
+print(f"{report.passed}/{report.total_checks} checks pass")
+for r in report.results:
+    if not r.passed:
+        print(f"  FAIL  {r.name}: {r.message}")
+
+# ---------------------------------------------------------------- gaps
+print()
+print("=== Missing pages ===")
+targets = set()
+for p in wiki.list_pages():
+    targets.add(p.stem)
+    targets.add(str(p.relative_to(wiki.wiki_dir).with_suffix("")))
+    try:
+        meta, _ = parse_page(p)
+    except Exception:
+        continue
+    if meta.get("title"):
+        targets.add(meta["title"])
+    if meta.get("page_id"):
+        targets.add(meta["page_id"])
+
+missing = collections.Counter()
+for p in wiki.list_pages():
+    try:
+        _, body = parse_page(p)
+    except Exception:
+        continue
+    for link in extract_wikilinks(body):
+        t = normalize_link_target(link)
+        if t and t not in targets:
+            missing[t] += 1
+
+print(f"{sum(missing.values())} links point at {len(missing)} pages that do not exist")
+for name, n in missing.most_common(10):
+    print(f"  {n:3d}x  {name}")
+
+# ---------------------------------------------------------------- derived
+print()
+print("=== Derived files ===")
 fresh = wiki_freshness(wiki)
-if fresh['stale_pages']:
-    print(f"Stale pages: {len(fresh['stale_pages'])}")
-else:
-    print("All pages up to date")
-
-# OMEGA memory summary
-if is_omega_available():
-    print()
-    print("=== OMEGA Memory ===")
-    briefing = get_wiki_briefing(wiki.config.name, limit=5)
-    if briefing:
-        print(f"Recent memories: {len(briefing)}")
-        for b in briefing[:3]:
-            content = b.get('content', '')[:80]
-            print(f"  - {content}...")
-
-    # Show recent decisions
-    decisions = query_wiki_history("decision", wiki.config.name, limit=3)
-    lessons = query_wiki_history("lesson", wiki.config.name, limit=3)
-    print(f"  Decisions stored: found results")
-    print(f"  Lessons stored: found results")
-else:
-    print()
-    print("=== OMEGA ===")
-    print("Not installed. Install with: pip install omega-memory[server]")
+for name, s in fresh["artifacts"].items():
+    state = "fresh" if s["is_fresh"] else "stale"
+    print(f"  {name:16s} {state}")
+print("MIND_MAP.md is hand-curated; rebuild refuses to overwrite it.")
 ```
 
-Index files:
-- wiki/wiki/index.md — lightweight summary (one line per page), used by /wiki-query
-- wiki/wiki/index.full.md — full catalog with summaries and stats, use this for detailed
-  maintenance inspection (page counts, summaries, broken links, etc.)
+## What the numbers mean
 
-Offer next actions:
-- /wiki-ingest to add more sources
-- /wiki-query to search
-- wiki_rebuild() if derived files are stale
+- **Integrity failures** are usually real. `Page Frontmatter` means pages are missing a
+  required field. `Wikilinks` means pages link to something that was never written.
+- **Missing pages** is the useful worklist. A page linked five times is worth writing
+  before one linked once.
+- **Stale derived files** just means `index.md` has not been regenerated since the last
+  ingest. Fix with `wiki_rebuild(wiki, force=True)` — it will not touch `MIND_MAP.md`.
+
+## Next actions
+
+- `/wiki-ingest` — add sources
+- `/wiki-query` — search and synthesise
+- `wiki_rebuild(wiki, force=True)` — regenerate `index.md` and `index.full.md`
