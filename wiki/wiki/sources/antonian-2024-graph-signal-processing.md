@@ -2,6 +2,7 @@
 title: Bayesian Reconstruction and Regression with Multivariate Graph Signals
 page_id: sources/antonian-2024-graph-signal-processing
 page_type: source
+source_path: markdown_output/AntonianE_0324_macsSS.md
 revision_id: 1
 created: 2026-04-26 02:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

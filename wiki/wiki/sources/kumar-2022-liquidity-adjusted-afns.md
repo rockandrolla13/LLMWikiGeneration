@@ -2,6 +2,7 @@
 title: Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model
 page_id: sources/kumar-2022-liquidity-adjusted-afns
 page_type: source
+source_path: markdown_output/Term structure estimation with liquidity-adjusted.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

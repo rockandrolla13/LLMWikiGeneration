@@ -2,6 +2,7 @@
 title: Conformal Prediction (CMU Lecture Notes, Spring 2023)
 page_id: sources/tibshirani-2023-cp-lecture-notes
 page_type: source
+source_path: markdown_output/conformal.md
 source_type: lecture-notes
 revision_id: 1
 created: 2026-05-24 20:00:00+00:00

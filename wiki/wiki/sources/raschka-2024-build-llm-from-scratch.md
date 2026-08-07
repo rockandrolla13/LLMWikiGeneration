@@ -2,6 +2,7 @@
 title: Build a Large Language Model (From Scratch)
 page_id: sources/raschka-2024-build-llm-from-scratch
 page_type: source
+source_path: markdown_output/raschka-2024-build-llm-from-scratch.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

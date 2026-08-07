@@ -2,6 +2,7 @@
 title: Architecture Patterns with Python
 page_id: sources/percival-2020-architecture-patterns-python
 page_type: source
+source_path: markdown_output/percival-2020-architecture-patterns-python.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

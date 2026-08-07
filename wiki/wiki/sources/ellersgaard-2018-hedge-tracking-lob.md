@@ -2,6 +2,7 @@
 title: Optimal Hedge Tracking Portfolios in a Limit Order Book
 page_id: sources/ellersgaard-2018-hedge-tracking-lob
 page_type: source
+source_path: markdown_output/S238262661850003X.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

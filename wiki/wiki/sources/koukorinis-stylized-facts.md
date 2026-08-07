@@ -3,6 +3,7 @@ title: 'Revisiting stylised facts: information clock, persistence, long memory a
   dependence'
 page_id: sources/koukorinis-stylized-facts
 page_type: source
+source_path: markdown_output/Stylised_Facts_Paper_Only.md
 source_type: working-paper
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

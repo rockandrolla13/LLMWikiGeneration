@@ -3,6 +3,7 @@ title: Incorporating hierarchical credibility theory into modelling of multi-cou
   mortality rates
 page_id: sources/tsai-2020-hierarchical-mortality
 page_type: source
+source_path: markdown_output/1-s2.0-S0167668720300019-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

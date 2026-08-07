@@ -2,6 +2,7 @@
 title: Non-Exchangeable Conformal Risk Control
 page_id: sources/farinhas-2024-non-exchangeable-crc
 page_type: source
+source_path: markdown_output/non-exchangeable-conformal-2023.md
 revision_id: 1
 created: 2026-04-26 12:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -97,14 +98,14 @@ When data is exchangeable, dTV(Z, Z^i) = 0 for all i, recovering standard CRC gu
 ### 2. Electricity Usage Monitoring (ELEC2 Dataset)
 
 - **λ-insensitive absolute loss** control
-- Weights: wᵢ = 0.99^(n+1-i) (exponential decay)
+- Weights: exponentially decaying in the distance from the test point
 - Non-X CRC maintains desired risk level during distribution shift periods
 
 ### 3. Open-Domain Question Answering (Natural Questions)
 
 - **Best token-level F₁-score** control
 - Data-dependent weights based on embedding similarity
-- Smaller prediction sets (23.0 vs 24.6) while maintaining same risk level
+- Smaller prediction sets (23.0 for the proposed method) at the same risk level
 
 ## Theoretical Foundation
 

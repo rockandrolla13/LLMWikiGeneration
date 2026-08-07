@@ -29,7 +29,7 @@ related:
 - entities/susan-athey
 revision_id: 1
 source_hash: sha256:b7a009354b909cd222cda85d49f4a7b4282eefa9bfd2ddb764fa57c7d1527003
-source_path: raw/causality-testing/2010.03051v2.pdf
+source_path: markdown_output/2010.03051v2.md
 source_type: paper
 sources: []
 tags: []

@@ -3,6 +3,7 @@ title: A Gentle Introduction to Conformal Prediction and Distribution-Free Uncer
   Quantification
 page_id: sources/angelopoulos-2022-gentle-intro
 page_type: source
+source_path: markdown_output/2107.07511v6.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 14:00:00+00:00

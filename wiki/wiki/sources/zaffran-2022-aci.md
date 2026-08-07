@@ -2,6 +2,7 @@
 title: Adaptive Conformal Predictions for Time Series
 page_id: sources/zaffran-2022-aci
 page_type: source
+source_path: markdown_output/2202.07282v1.md
 source_type: paper
 revision_id: 1
 created: 2026-04-10 18:00:00+00:00

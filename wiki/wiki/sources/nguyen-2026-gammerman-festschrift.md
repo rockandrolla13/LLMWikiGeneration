@@ -2,6 +2,7 @@
 title: 'The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman'
 page_id: sources/nguyen-2026-gammerman-festschrift
 page_type: source
+source_path: markdown_output/978-3-032-15120-9.md
 source_type: edited-volume
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

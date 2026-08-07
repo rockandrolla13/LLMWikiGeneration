@@ -2,6 +2,7 @@
 title: Predicting Individual Corporate Bond Returns
 page_id: sources/feng-2025-predicting-bond-returns
 page_type: source
+source_path: markdown_output/Predicting individual corporate bond returns.md
 revision_id: 1
 created: 2026-04-26 01:45:00+00:00
 updated: '2026-06-20T01:03:51Z'

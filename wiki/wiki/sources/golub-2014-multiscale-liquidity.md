@@ -2,6 +2,7 @@
 title: Multi-scale Representation of High Frequency Market Liquidity
 page_id: sources/golub-2014-multiscale-liquidity
 page_type: source
+source_path: markdown_output/1402.2198.md
 source_type: preprint
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

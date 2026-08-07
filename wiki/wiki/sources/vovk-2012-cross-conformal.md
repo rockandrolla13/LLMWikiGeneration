@@ -2,6 +2,7 @@
 title: Cross-conformal predictors
 page_id: sources/vovk-2012-cross-conformal
 page_type: source
+source_path: markdown_output/1208.0806v1.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 16:00:00+00:00

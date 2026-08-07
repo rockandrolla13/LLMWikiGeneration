@@ -2,6 +2,7 @@
 title: Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents
 page_id: sources/petit-2025-data-driven-flow-etf
 page_type: source
+source_path: markdown_output/DataDrivenFlowETF.md
 source_type: paper
 revision_id: 1
 created: 2026-05-06 23:30:00+00:00

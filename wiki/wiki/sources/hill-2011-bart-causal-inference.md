@@ -26,7 +26,7 @@ related:
 - entities/robert-mcculloch
 revision_id: 1
 source_hash: sha256:ecf024dd367bdb3bc0c384a69f2da5aaf88ba28818651cdecde87308087fd55d
-source_path: raw/causality-testing/Bayesian Nonparametric Modeling for Causal Inference.pdf
+source_path: markdown_output/Bayesian Nonparametric Modeling for Causal Inference.md
 source_type: paper
 sources: []
 tags: []

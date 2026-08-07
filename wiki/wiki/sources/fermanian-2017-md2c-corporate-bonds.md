@@ -3,6 +3,7 @@ title: 'The Behavior of Dealers and Clients on the European Corporate Bond Marke
   The Case of Multi-Dealer-to-Client Platforms'
 page_id: sources/fermanian-2017-md2c-corporate-bonds
 page_type: source
+source_path: markdown_output/S2382626617500046.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

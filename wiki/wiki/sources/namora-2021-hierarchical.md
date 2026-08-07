@@ -2,6 +2,7 @@
 title: Hierarchical Credibility Model
 page_id: sources/namora-2021-hierarchical
 page_type: source
+source_path: markdown_output/030011_1_online.md
 source_type: conference-paper
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

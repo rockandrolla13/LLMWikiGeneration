@@ -2,6 +2,7 @@
 title: Optimal Quoting under Adverse Selection and Price Reading
 page_id: sources/barzykin-2025-adverse-selection
 page_type: source
+source_path: markdown_output/2508.20225v2.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

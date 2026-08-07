@@ -2,6 +2,7 @@
 title: Priced risk in corporate bonds
 page_id: sources/dickerson-2023-bond-risk
 page_type: source
+source_path: markdown_output/1-s2.0-S0304405X23001393-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

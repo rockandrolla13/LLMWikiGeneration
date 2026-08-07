@@ -2,6 +2,7 @@
 title: Kernel-based Optimally Weighted Conformal Prediction Intervals
 page_id: sources/lee-2024-kowcpi
 page_type: source
+source_path: markdown_output/kowcpi-2024.md
 revision_id: 1
 created: 2026-04-26 10:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

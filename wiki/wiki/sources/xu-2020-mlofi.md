@@ -2,6 +2,7 @@
 title: Multi-Level Order-Flow Imbalance in a Limit Order Book
 page_id: sources/xu-2020-mlofi
 page_type: source
+source_path: markdown_output/S2382626619500114.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

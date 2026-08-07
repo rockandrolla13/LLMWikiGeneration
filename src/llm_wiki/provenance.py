@@ -24,6 +24,13 @@ What it deliberately does NOT do:
   separately as unverifiable rather than silently passing.
 - It does not check pages whose source is a PDF. Comparing prose against
   binary produces confident nonsense; convert the PDF first.
+
+Rejected relaxation: accepting a percent/fraction twin (0.9999 for "99.99%")
+was tried and removed. It reads as reasonable, but small values have twins that
+occur in almost any document -- 0.2 passes because "20" appears somewhere, 0.5
+because "50" does -- and it waved through figures already known to be invented.
+A page that paraphrases a quantile as a percentage should say so in the
+paper's own notation instead. Precision here is worth more than convenience.
 """
 
 from __future__ import annotations
@@ -39,8 +46,15 @@ _DECIMAL = re.compile(r"\d+\.\d+")
 # Wikilinks carry page slugs and years that are navigation, not claims.
 _WIKILINK = re.compile(r"\[\[[^\]]*\]\]")
 
-# arXiv identifiers and DOIs look like decimals but are names, not measurements.
-_IDENTIFIER = re.compile(r"(?:arxiv[:\s]*)?\b\d{4}\.\d{4,5}(?:v\d+)?\b", re.IGNORECASE)
+# arXiv IDs, DOIs and version strings look like decimals but name a thing rather
+# than measure one. DOI prefixes ("10.1214") were flagged as invented figures
+# until this covered them.
+_IDENTIFIER = re.compile(
+    r"(?:arxiv[:\s]*)?\b\d{4}\.\d{4,5}(?:v\d+)?\b"   # arXiv: 1905.02928v1
+    r"|\b10\.\d{4,9}(?:[./][\w.()/-]+)*"                # DOI:   10.1214/20-AOS1965
+    r"|\bv?\d+\.\d+\.\d+\b",                          # semver: 1.2.3
+    re.IGNORECASE,
+)
 
 # Only text sources can be compared. A PDF read as text yields garbage.
 TEXT_SUFFIXES = {".md", ".markdown", ".txt", ".rst"}

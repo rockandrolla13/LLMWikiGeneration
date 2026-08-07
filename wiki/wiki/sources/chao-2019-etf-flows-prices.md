@@ -2,6 +2,7 @@
 title: Why Do ETF Flows Move Prices?
 page_id: sources/chao-2019-etf-flows-prices
 page_type: source
+source_path: markdown_output/Why Do ETF Flows Move Prices.md
 source_type: report
 revision_id: 1
 created: 2026-05-06 23:30:00+00:00

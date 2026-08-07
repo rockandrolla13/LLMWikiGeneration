@@ -2,6 +2,7 @@
 title: AI Engineering
 page_id: sources/huyen-2025-ai-engineering
 page_type: source
+source_path: markdown_output/huyen-2025-ai-engineering.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

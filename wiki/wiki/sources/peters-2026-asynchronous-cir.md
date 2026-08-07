@@ -3,6 +3,7 @@ title: Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsag
   Topological HMM Inference
 page_id: sources/peters-2026-asynchronous-cir
 page_type: source
+source_path: markdown_output/Multivariate_Regime_Switching_Spot_Rate_Models_via_Topological_HMM_and_OM_functionals.md
 revision_id: 2
 created: 2026-05-15 22:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

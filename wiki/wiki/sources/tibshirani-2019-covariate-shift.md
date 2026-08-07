@@ -2,6 +2,7 @@
 title: Conformal Prediction Under Covariate Shift
 page_id: sources/tibshirani-2019-covariate-shift
 page_type: source
+source_path: markdown_output/1904.06019v3.md
 source_type: paper
 revision_id: 2
 created: 2026-05-24 18:00:00+00:00

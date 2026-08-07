@@ -2,6 +2,7 @@
 title: Next-Generation Credit Curves
 page_id: sources/ubs-2012-next-gen-credit-curves
 page_type: source
+source_path: markdown_output/next gen credit curves.md
 revision_id: 1
 created: 2026-05-05 23:15:00+00:00
 updated: '2026-06-20T01:03:51Z'

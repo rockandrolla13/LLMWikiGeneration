@@ -2,6 +2,7 @@
 title: Multi-Distribution Robust Conformal Prediction
 page_id: sources/yang-2026-multi-distribution-robust-cp
 page_type: source
+source_path: markdown_output/multi-distribution-robust-cp-2026.md
 revision_id: 1
 created: 2026-04-26 12:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

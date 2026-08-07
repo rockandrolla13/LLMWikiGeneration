@@ -3,6 +3,7 @@ title: 'Asset Class Liquidity Risk Indicators: Timing the Risk in European and U
   Equity and Bond Markets'
 page_id: sources/coppola-2025-asset-class-liquidity-indicators
 page_type: source
+source_path: markdown_output/1-s2.0-S1572308924001542-main.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

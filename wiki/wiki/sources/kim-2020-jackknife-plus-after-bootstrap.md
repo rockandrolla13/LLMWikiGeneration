@@ -2,6 +2,7 @@
 title: Predictive Inference Is Free with the Jackknife+-after-Bootstrap
 page_id: sources/kim-2020-jackknife-plus-after-bootstrap
 page_type: source
+source_path: markdown_output/2002.09025.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

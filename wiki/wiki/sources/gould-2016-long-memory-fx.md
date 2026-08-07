@@ -2,6 +2,7 @@
 title: The Long Memory of Order Flow in the Foreign Exchange Spot Market
 page_id: sources/gould-2016-long-memory-fx
 page_type: source
+source_path: markdown_output/S2382626616500015.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

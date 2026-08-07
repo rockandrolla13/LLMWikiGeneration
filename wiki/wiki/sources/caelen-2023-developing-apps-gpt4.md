@@ -2,6 +2,7 @@
 title: Developing Apps with GPT-4 and ChatGPT
 page_id: sources/caelen-2023-developing-apps-gpt4
 page_type: source
+source_path: markdown_output/caelen-2023-developing-apps-gpt4.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

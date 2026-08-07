@@ -2,6 +2,7 @@
 title: Designing Machine Learning Systems
 page_id: sources/huyen-2022-designing-ml-systems
 page_type: source
+source_path: markdown_output/huyen-2022-designing-ml-systems.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

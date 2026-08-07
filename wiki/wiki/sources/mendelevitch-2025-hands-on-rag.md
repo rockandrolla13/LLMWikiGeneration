@@ -2,6 +2,7 @@
 title: Hands-On RAG for Production
 page_id: sources/mendelevitch-2025-hands-on-rag
 page_type: source
+source_path: markdown_output/mendelevitch-2025-hands-on-rag.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

@@ -2,6 +2,7 @@
 title: Conformal PID Control for Time Series Prediction
 page_id: sources/angelopoulos-2023-conformal-pid
 page_type: source
+source_path: markdown_output/2307.16895.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

@@ -3,6 +3,7 @@ title: 'From the bird''s eye to the microscope: A survey of new stylized facts o
   the intra-daily foreign exchange markets'
 page_id: sources/guillaume-1997-stylized-facts-fx
 page_type: source
+source_path: markdown_output/s007800050018.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

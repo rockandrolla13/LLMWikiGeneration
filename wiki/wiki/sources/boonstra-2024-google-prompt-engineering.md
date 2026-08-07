@@ -2,6 +2,7 @@
 title: Prompt Engineering
 page_id: sources/boonstra-2024-google-prompt-engineering
 page_type: source
+source_path: markdown_output/boonstra-2024-google-prompt-engineering.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
@@ -65,7 +66,7 @@ The second half is a best-practices manual: provide diverse examples, prefer pos
 ## Key Contributions
 
 - A clean taxonomy separating system, contextual, and role prompting as orthogonal framing concerns
-- Concrete starting recipes for temperature/top-K/top-P (e.g. 0.2/0.95/30 for balanced output; 0 for math and CoT)
+- Concrete starting recipes for temperature, top-K and top-P, including a temperature of 0 for maths and chain-of-thought
 - A standardised prompt-documentation table template (name, goal, model, sampling settings, prompt, output) for tracking iterations
 - Prefer-instructions-over-constraints heuristic with worked DO/DON'T examples
 - End-to-end ReAct agent code example using LangChain + VertexAI + SerpAPI counting Metallica band members' children

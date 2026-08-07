@@ -2,6 +2,7 @@
 title: Algorithmic Learning in a Random World
 page_id: sources/vovk-2005-algorithmic-learning
 page_type: source
+source_path: markdown_output/L-G-0000000478-0002330810.md
 source_type: book
 revision_id: 1
 created: 2026-05-24 16:00:00+00:00

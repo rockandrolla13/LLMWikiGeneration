@@ -2,6 +2,7 @@
 title: Classification with Valid and Adaptive Coverage
 page_id: sources/romano-2020-aps
 page_type: source
+source_path: markdown_output/2006.02544.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

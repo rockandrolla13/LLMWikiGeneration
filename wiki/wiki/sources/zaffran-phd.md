@@ -3,6 +3,7 @@ title: 'Post-hoc predictive uncertainty quantification: methods with application
   to electricity price forecasting'
 page_id: sources/zaffran-phd
 page_type: source
+source_path: markdown_output/Zaffran_PhD_Manuscript.md
 source_type: thesis
 revision_id: 1
 created: 2026-04-10 18:00:00+00:00

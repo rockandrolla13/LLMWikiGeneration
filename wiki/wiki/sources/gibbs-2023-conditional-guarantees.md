@@ -2,6 +2,7 @@
 title: Conformal Prediction with Conditional Guarantees
 page_id: sources/gibbs-2023-conditional-guarantees
 page_type: source
+source_path: markdown_output/2305.12616.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

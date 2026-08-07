@@ -2,6 +2,7 @@
 title: Dealing with multi-currency inventory risk in FX cash markets
 page_id: sources/barzykin-2022-multi-currency-inventory
 page_type: source
+source_path: markdown_output/Dealing_with_multi-currency_inventory_risk_in_FX_c.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

@@ -3,6 +3,7 @@ title: 'Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passi
   Flow Distortions'
 page_id: sources/optiver-2025-corporate-bond-etf-contraflow
 page_type: source
+source_path: markdown_output/ContraFlow.md
 source_type: whitepaper
 revision_id: 1
 created: 2026-05-06 23:30:00+00:00

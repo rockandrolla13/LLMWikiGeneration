@@ -2,6 +2,7 @@
 title: Graph Learning for Financial Networks (Yu 2024)
 page_id: sources/yu-2024-graph-learning-financial
 page_type: source
+source_path: markdown_output/misiakos-graph-learning.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -61,8 +62,8 @@ This dissertation analyzes the over-the-counter (OTC) corporate bond dealer netw
 ## Data and Methodology
 
 ### TRACE Dataset
-- 67.7M total transaction records
-- 22.5M dealer-to-dealer transactions (after deduplication)
+- 2.5 million complete transaction chains; 2 million incomplete
+- 0.85 million chains involving two or more dealers; 1.7 million involving one
 - Covers 2010-2015 period
 - Enhanced with buyer/seller identity information
 

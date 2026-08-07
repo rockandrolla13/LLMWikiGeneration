@@ -2,6 +2,7 @@
 title: Gaussian Processes on Graphs (Zhi 2024)
 page_id: sources/zhi-2024-gaussian-processes-graphs
 page_type: source
+source_path: markdown_output/Zhi_2024_Gaussian_processes_on.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

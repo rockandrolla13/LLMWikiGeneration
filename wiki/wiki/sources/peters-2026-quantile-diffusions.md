@@ -2,6 +2,7 @@
 title: Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
 page_id: sources/peters-2026-quantile-diffusions
 page_type: source
+source_path: markdown_output/QD1_IME_March2026.md
 revision_id: 2
 created: 2026-05-15 22:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

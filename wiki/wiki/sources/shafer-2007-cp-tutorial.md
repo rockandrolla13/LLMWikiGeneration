@@ -2,6 +2,7 @@
 title: A Tutorial on Conformal Prediction
 page_id: sources/shafer-2007-cp-tutorial
 page_type: source
+source_path: markdown_output/0706.3188v1.md
 source_type: tutorial
 revision_id: 1
 created: 2026-05-24 16:00:00+00:00

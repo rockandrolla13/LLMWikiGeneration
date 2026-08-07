@@ -2,6 +2,7 @@
 title: Efficiently Weighted Estimation of Tail and Interquantile Expectations
 page_id: sources/barendse-2026-efficient-tail-interquantile
 page_type: source
+source_path: markdown_output/nbag003.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

@@ -2,6 +2,7 @@
 title: Conformal Inference for Online Prediction with Arbitrary Distribution Shifts
 page_id: sources/gibbs-2024-online-aci
 page_type: source
+source_path: markdown_output/2208.08401.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

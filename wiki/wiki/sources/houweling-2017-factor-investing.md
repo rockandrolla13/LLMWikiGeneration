@@ -2,6 +2,7 @@
 title: Factor Investing in the Corporate Bond Market
 page_id: sources/houweling-2017-factor-investing
 page_type: source
+source_path: markdown_output/ssrn-2516322.md
 revision_id: 1
 created: 2026-04-26 01:45:00+00:00
 updated: '2026-06-20T01:03:51Z'

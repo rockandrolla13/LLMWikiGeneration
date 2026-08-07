@@ -2,6 +2,7 @@
 title: Predictive Inference with the Jackknife+
 page_id: sources/barber-2021-jackknife-plus
 page_type: source
+source_path: markdown_output/1905.02928.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

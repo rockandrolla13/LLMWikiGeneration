@@ -2,6 +2,7 @@
 title: Multi-output Gaussian processes for multi-population longevity modelling
 page_id: sources/huynh-2021-mogp-longevity
 page_type: source
+source_path: markdown_output/multi-output-gaussian-processes-for-multi-population-longevity-modelling.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

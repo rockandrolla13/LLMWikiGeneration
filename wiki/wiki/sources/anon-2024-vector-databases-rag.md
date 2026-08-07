@@ -2,6 +2,7 @@
 title: Utilizing Vector Databases to Enhance RAG Models
 page_id: sources/anon-2024-vector-databases-rag
 page_type: source
+source_path: markdown_output/anon-2024-vector-databases-rag.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

@@ -23,7 +23,7 @@ related:
 - entities/university-of-aberdeen
 revision_id: 1
 source_hash: sha256:3dc9c95cf4c2104cfe179dfad76877369659e3eafe95bf5c1736690e84e90266
-source_path: raw/causality-testing/s12874-019-0777-x.pdf
+source_path: markdown_output/s12874-019-0777-x.md
 source_type: paper
 sources: []
 tags: []

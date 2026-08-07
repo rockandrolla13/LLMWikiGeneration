@@ -2,6 +2,7 @@
 title: 'Bayesian On-line Change-point Detection: Spatio-temporal point processes'
 page_id: sources/zachos-2018-change-point-detection
 page_type: source
+source_path: markdown_output/change_point_detection_dissertation.md
 source_type: dissertation
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

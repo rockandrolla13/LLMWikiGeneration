@@ -2,6 +2,7 @@
 title: Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 page_id: sources/laumann-2021-kernel-tests-nonstationary
 page_type: source
+source_path: markdown_output/engproc-05-00031-v2.md
 source_type: conference-paper
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

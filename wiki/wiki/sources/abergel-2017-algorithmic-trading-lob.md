@@ -2,6 +2,7 @@
 title: Algorithmic trading in a microstructural limit order book model
 page_id: sources/abergel-2017-algorithmic-trading-lob
 page_type: source
+source_path: markdown_output/1705.01446.md
 source_type: preprint
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

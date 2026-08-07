@@ -2,6 +2,7 @@
 title: 'Introducing LEVER: A Framework for Scoring LEVeraging Event Risk'
 page_id: sources/trinh-2006-lever-framework
 page_type: source
+source_path: markdown_output/Introducing LEVER - A Framework for Scoring Leveraging Event Risk (9 January 2006).md
 revision_id: 1
 created: 2026-05-05 23:15:00+00:00
 updated: '2026-06-20T01:03:51Z'

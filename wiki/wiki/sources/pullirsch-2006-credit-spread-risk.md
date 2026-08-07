@@ -2,6 +2,7 @@
 title: Measuring Credit-Spread Risk on a Single Issuer Basis
 page_id: sources/pullirsch-2006-credit-spread-risk
 page_type: source
+source_path: markdown_output/Measuring Credit-Spread Risk.md
 revision_id: 1
 created: 2026-05-05 23:15:00+00:00
 updated: '2026-06-20T01:03:51Z'

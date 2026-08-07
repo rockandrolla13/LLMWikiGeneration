@@ -2,6 +2,7 @@
 title: Jump Clustering, Information Flows, and Stock Price Efficiency
 page_id: sources/chen-2024-jump-clustering-information-flows
 page_type: source
+source_path: markdown_output/nbae009.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

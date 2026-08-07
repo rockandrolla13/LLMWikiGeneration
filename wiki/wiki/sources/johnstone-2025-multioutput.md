@@ -2,6 +2,7 @@
 title: Exact and Approximate Conformal Inference for Multi-Output Regression
 page_id: sources/johnstone-2025-multioutput
 page_type: source
+source_path: markdown_output/johnstone25a.md
 source_type: paper
 revision_id: 1
 created: 2026-04-10 18:00:00+00:00

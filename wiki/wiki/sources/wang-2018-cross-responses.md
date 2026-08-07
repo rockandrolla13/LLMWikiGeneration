@@ -2,6 +2,7 @@
 title: Microscopic Understanding of Cross-Responses Between Stocks
 page_id: sources/wang-2018-cross-responses
 page_type: source
+source_path: markdown_output/S2382626618500090.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

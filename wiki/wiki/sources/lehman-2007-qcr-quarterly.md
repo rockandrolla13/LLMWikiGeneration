@@ -2,6 +2,7 @@
 title: 'QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk'
 page_id: sources/lehman-2007-qcr-quarterly
 page_type: source
+source_path: markdown_output/Trading Event Risk in Credit Markets using LEVER (2007).md
 revision_id: 1
 created: 2026-05-05 23:15:00+00:00
 updated: '2026-06-20T01:03:51Z'

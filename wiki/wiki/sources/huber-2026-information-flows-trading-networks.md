@@ -2,6 +2,7 @@
 title: Information Flows in Trading Networks
 page_id: sources/huber-2026-information-flows-trading-networks
 page_type: source
+source_path: markdown_output/1-s2.0-S0165410126000194-main.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

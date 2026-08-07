@@ -2,6 +2,7 @@
 title: Code Reading in Practice
 page_id: sources/hermans-2024-code-reading-in-practice
 page_type: source
+source_path: markdown_output/hermans-2024-code-reading-in-practice.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

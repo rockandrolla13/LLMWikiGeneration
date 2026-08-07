@@ -2,6 +2,7 @@
 title: Pairs Trading with General State Space Models
 page_id: sources/zhang-2021-pairs-general-ssm
 page_type: source
+source_path: markdown_output/Pairs trading with general state space models.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -97,15 +98,15 @@ Key insight: Position sizing based on conditional volatility
 
 | Method | Ann. Return | Sharpe Ratio |
 |--------|-------------|--------------|
-| Conventional | 13.11% | 1.10 |
+| Conventional | (not stated) | 1.10 |
 | Proposed | 21.86% | 2.95 |
 
 ### EWT vs EWH (Taiwan/Hong Kong ETFs)
 
 | Method | Ann. Return | Sharpe Ratio |
 |--------|-------------|--------------|
-| Conventional | 14.80% | 1.13 |
-| Proposed | 31.84% | 3.89 |
+| Conventional | (not stated) | 1.13 |
+| Proposed | 31.84% | (not stated) |
 
 ### Bank Pairs
 - Small banks: Higher returns (more volatile spreads)

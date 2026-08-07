@@ -2,6 +2,7 @@
 title: The Developer's Playbook for Large Language Model Security
 page_id: sources/wilson-2024-llm-security-playbook
 page_type: source
+source_path: markdown_output/wilson-2024-llm-security-playbook.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

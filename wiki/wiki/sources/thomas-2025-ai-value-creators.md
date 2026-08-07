@@ -2,6 +2,7 @@
 title: AI Value Creators
 page_id: sources/thomas-2025-ai-value-creators
 page_type: source
+source_path: markdown_output/thomas-2024-ai-value-creators.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

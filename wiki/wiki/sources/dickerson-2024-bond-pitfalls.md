@@ -2,6 +2,7 @@
 title: Common Pitfalls in the Evaluation of Corporate Bond Strategies
 page_id: sources/dickerson-2024-bond-pitfalls
 page_type: source
+source_path: markdown_output/ssrn-4575879.md
 revision_id: 1
 created: 2026-04-26 01:45:00+00:00
 updated: '2026-06-20T01:03:51Z'

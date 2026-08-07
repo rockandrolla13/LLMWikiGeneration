@@ -2,6 +2,7 @@
 title: 'Market making by an FX dealer: tiers, pricing ladders and hedging rates'
 page_id: sources/barzykin-2021-fx-dealer-tiers
 page_type: source
+source_path: markdown_output/2112.02269v3.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

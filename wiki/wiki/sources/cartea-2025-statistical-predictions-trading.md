@@ -2,6 +2,7 @@
 title: Statistical Predictions of Trading Strategies in Electronic Markets
 page_id: sources/cartea-2025-statistical-predictions-trading
 page_type: source
+source_path: markdown_output/nbae025.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

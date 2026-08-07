@@ -2,6 +2,7 @@
 title: A Review and Comparative Analysis of Univariate Conformal Regression Methods
 page_id: sources/bao-2025-review
 page_type: source
+source_path: markdown_output/bao25a.md
 source_type: paper
 revision_id: 1
 created: 2026-04-10 18:00:00+00:00

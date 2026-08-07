@@ -2,6 +2,7 @@
 title: On Forecasting the Term Structure of Credit Spreads
 page_id: sources/krishnan-2007-credit-spread-forecast
 page_type: source
+source_path: markdown_output/wp 0705 on forecasting the term structure of credit spreads pdf.md
 revision_id: 1
 created: 2026-04-26 02:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

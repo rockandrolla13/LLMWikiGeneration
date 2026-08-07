@@ -2,6 +2,7 @@
 title: 'Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach'
 page_id: sources/omrane-2017-yield-curve-forecasting
 page_type: source
+source_path: markdown_output/mf-11-2016-0330.md
 revision_id: 1
 created: 2026-04-26 03:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

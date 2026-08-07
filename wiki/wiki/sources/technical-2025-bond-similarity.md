@@ -3,6 +3,7 @@ title: 'Enhanced Corporate Bond Similarity Framework: Integrating Random Forest 
   Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation'
 page_id: sources/technical-2025-bond-similarity
 page_type: source
+source_path: markdown_output/output.md
 source_type: technical-report
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00
@@ -77,7 +78,7 @@ Three-factor parametrization:
 Captures cyclical long-memory behavior:
 - Gegenbauer polynomial basis
 - Frequency parameter for cycles
-- Memory parameter d ∈ (0, 0.5) for stationarity
+- A memory parameter governing long-range dependence and stationarity
 
 ### 4. Tukey G-and-H Transformation
 

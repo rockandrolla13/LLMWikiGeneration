@@ -2,6 +2,7 @@
 title: Conformal Prediction Beyond Exchangeability
 page_id: sources/barber-2023-beyond-exchangeability
 page_type: source
+source_path: markdown_output/2202.13415.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

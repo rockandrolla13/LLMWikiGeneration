@@ -2,6 +2,7 @@
 title: Prompt Engineering for LLMs
 page_id: sources/berryman-2024-prompt-engineering-llms
 page_type: source
+source_path: markdown_output/berryman-2024-prompt-engineering-llms.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'

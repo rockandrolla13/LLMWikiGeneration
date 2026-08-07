@@ -2,6 +2,7 @@
 title: Adaptive Conformal Inference Under Distribution Shift
 page_id: sources/gibbs-2021-aci
 page_type: source
+source_path: markdown_output/2106.00170.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

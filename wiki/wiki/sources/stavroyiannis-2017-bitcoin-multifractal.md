@@ -2,6 +2,7 @@
 title: High Frequency Multifractal Properties of Bitcoin
 page_id: sources/stavroyiannis-2017-bitcoin-multifractal
 page_type: source
+source_path: markdown_output/High_frequency multifractal properties of bitcoin.md
 source_type: conference-paper
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

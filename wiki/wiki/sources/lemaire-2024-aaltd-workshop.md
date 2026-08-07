@@ -2,6 +2,7 @@
 title: Advanced Analytics and Learning on Temporal Data (AALTD 2024)
 page_id: sources/lemaire-2024-aaltd-workshop
 page_type: source
+source_path: markdown_output/978-3-031-77066-1.md
 source_type: edited-volume
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

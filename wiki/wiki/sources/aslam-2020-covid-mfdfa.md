@@ -3,6 +3,7 @@ title: Evidence of Intraday Multifractality in European Stock Markets during COV
   (2020)
 page_id: sources/aslam-2020-covid-mfdfa
 page_type: source
+source_path: markdown_output/ijfs-08-00031-v2.md
 source_type: journal-article
 revision_id: 1
 created: 2026-04-25 23:30:00+00:00

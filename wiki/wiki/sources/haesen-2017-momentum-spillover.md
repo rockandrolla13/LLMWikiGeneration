@@ -2,6 +2,7 @@
 title: Momentum Spillover from Stocks to Corporate Bonds
 page_id: sources/haesen-2017-momentum-spillover
 page_type: source
+source_path: markdown_output/ssrn_id2932937_code158781.md
 revision_id: 1
 created: 2026-04-26 02:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

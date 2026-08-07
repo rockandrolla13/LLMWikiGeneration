@@ -3,6 +3,7 @@ title: 'Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel I
   Approach'
 page_id: sources/nolte-2011-fx-latent-factor-panel-intensity
 page_type: source
+source_path: markdown_output/nbq033.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

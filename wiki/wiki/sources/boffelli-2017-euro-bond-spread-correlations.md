@@ -3,6 +3,7 @@ title: High- and Low-Frequency Correlations in European Government Bond Spreads 
   Their Macroeconomic Drivers
 page_id: sources/boffelli-2017-euro-bond-spread-correlations
 page_type: source
+source_path: markdown_output/nbv023.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

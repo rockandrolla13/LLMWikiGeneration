@@ -2,6 +2,7 @@
 title: Multifactor Timing with Deep Learning
 page_id: sources/cotturo-2026-multifactor-timing-deep-learning
 page_type: source
+source_path: markdown_output/nbag006.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

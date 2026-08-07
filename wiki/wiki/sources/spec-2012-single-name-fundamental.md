@@ -2,6 +2,7 @@
 title: 'Specification Draft: Single Name Fundamental Analysis'
 page_id: sources/spec-2012-single-name-fundamental
 page_type: source
+source_path: markdown_output/Specification Draft Single Name Fundamental Analysis (v. 080212).md
 revision_id: 1
 created: 2026-05-05 23:15:00+00:00
 updated: '2026-06-20T01:03:51Z'

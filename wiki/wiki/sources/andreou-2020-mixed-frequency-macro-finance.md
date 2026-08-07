@@ -2,6 +2,7 @@
 title: 'Mixed-Frequency Macro-Finance Factor Models: Theory and Applications'
 page_id: sources/andreou-2020-mixed-frequency-macro-finance
 page_type: source
+source_path: markdown_output/nbaa015.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

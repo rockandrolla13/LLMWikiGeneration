@@ -2,6 +2,7 @@
 title: Distribution-Free, Risk-Controlling Prediction Sets
 page_id: sources/bates-2021-rcps
 page_type: source
+source_path: markdown_output/2101.02703.md
 source_type: paper
 revision_id: 1
 created: 2026-05-24 18:00:00+00:00

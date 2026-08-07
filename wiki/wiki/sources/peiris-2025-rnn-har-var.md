@@ -3,6 +3,7 @@ title: Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Me
   and Non-Linear Realized Volatility Model
 page_id: sources/peiris-2025-rnn-har-var
 page_type: source
+source_path: markdown_output/nbaf017.md
 source_type: paper
 revision_id: 1
 created: 2026-05-21 12:00:00+00:00

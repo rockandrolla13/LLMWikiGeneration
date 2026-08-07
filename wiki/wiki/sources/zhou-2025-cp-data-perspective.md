@@ -2,6 +2,7 @@
 title: 'Conformal Prediction: A Data Perspective'
 page_id: sources/zhou-2025-cp-data-perspective
 page_type: source
+source_path: markdown_output/3736575.md
 source_type: survey
 revision_id: 1
 created: 2026-05-24 16:00:00+00:00

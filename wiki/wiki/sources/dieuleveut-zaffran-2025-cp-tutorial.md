@@ -2,6 +2,7 @@
 title: 'Conformal Prediction: A Tutorial (Hi! PARIS Summer School)'
 page_id: sources/dieuleveut-zaffran-2025-cp-tutorial
 page_type: source
+source_path: markdown_output/main.md
 source_type: tutorial-slides
 revision_id: 1
 created: 2026-05-21 14:00:00+00:00

@@ -2,6 +2,7 @@
 title: Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics
 page_id: sources/adams-2025-functional
 page_type: source
+source_path: markdown_output/adams25b.md
 source_type: paper
 revision_id: 1
 created: 2026-04-10 18:00:00+00:00

@@ -2,6 +2,7 @@
 title: Order-book modelling and market making strategies
 page_id: sources/lu-2018-market-making
 page_type: source
+source_path: markdown_output/1806.05101.md
 source_type: preprint
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

@@ -2,6 +2,7 @@
 title: 'Extreme Conformal Prediction: Reliable Intervals for High-Impact Events'
 page_id: sources/pasche-2025-extreme-conformal
 page_type: source
+source_path: markdown_output/extreme-conformal-2025.md
 revision_id: 1
 created: 2026-04-26 10:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -36,7 +37,7 @@ content_hash: sha256:22076c30bf9f87a1d7bb38a4bf030776b5c86bdafd25c49993deae4ec7a
 <!-- AUTHORED REGION START -->
 # Extreme Conformal Prediction: Reliable Intervals for High-Impact Events
 
-**Pasche, Lam, and Engelke (2025)** propose a novel method bridging [[concepts/extreme-value-theory|extreme value statistics]] and [[concepts/conformal-prediction|conformal prediction]] to construct reliable prediction intervals for high-impact events requiring very high confidence levels (e.g., 99.99%).
+**Pasche, Lam, and Engelke (2025)** propose a novel method bridging [[concepts/extreme-value-theory|extreme value statistics]] and [[concepts/conformal-prediction|conformal prediction]] to construct reliable prediction intervals for high-impact events requiring very high confidence levels (the paper works at quantile levels of 0.999, 0.9999 and 0.99999).
 
 ## Motivation
 

@@ -2,6 +2,7 @@
 title: Distributional Conformal Prediction
 page_id: sources/chernozhukov-2021-distributional-cp
 page_type: source
+source_path: markdown_output/distributional-cp-2021.md
 revision_id: 1
 created: 2026-04-26 12:00:00+00:00
 updated: '2026-06-20T01:03:51Z'

@@ -36,7 +36,7 @@ related:
 - entities/zongwu-cai
 revision_id: 1
 source_hash: sha256:3d07d42abedd8002e795cf719b00e41e963e4b0915c151d003f876622ff41e7c
-source_path: raw/causality-testing/Testing_TS.pdf
+source_path: markdown_output/Testing_TS.md
 source_type: paper
 sources: []
 tags: []

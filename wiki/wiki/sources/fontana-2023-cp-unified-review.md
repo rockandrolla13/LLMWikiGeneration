@@ -2,6 +2,7 @@
 title: 'Conformal prediction: A unified review of theory and new challenges'
 page_id: sources/fontana-2023-cp-unified-review
 page_type: source
+source_path: markdown_output/21-BEJ1447.md
 source_type: review-paper
 revision_id: 1
 created: 2026-05-24 16:00:00+00:00

@@ -3,6 +3,7 @@ title: Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commod
   Futures Term Structure Dynamics
 page_id: sources/he-2024-functional-regression
 page_type: source
+source_path: markdown_output/2412.05889v1.md
 source_type: working-paper
 revision_id: 1
 created: 2026-04-25 22:00:00+00:00

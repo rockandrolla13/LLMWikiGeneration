@@ -2,6 +2,7 @@
 title: Learning LangChain
 page_id: sources/oshin-2025-learning-langchain
 page_type: source
+source_path: markdown_output/oshin-2025-learning-langchain.md
 source_type: book
 revision_id: 1
 created: '2026-05-17T16:44:06Z'
