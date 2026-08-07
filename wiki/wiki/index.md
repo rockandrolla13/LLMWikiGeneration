@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-06-19T23:27:50.611248Z'
+updated: '2026-08-07T12:37:36.035964Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-06-19T23:27:50.609728Z
+Generated: 2026-08-07T12:37:36.034667Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:8bd98b848e3483b6
+Source hash: sha256:78934fc199adcbbb
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-06-19
-Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, contradictions: 0)
+Last updated: 2026-08-07
+Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, contradictions: 0)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -29,6 +29,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/angelopoulos-2022-gentle-intro — A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
 - sources/stocker-2025-conformal-timeseries-intro — A Gentle Introduction to Conformal Time Series Forecasting
 - sources/ms-2019-03-22-high-yield-hedge — A High Yield Hedge
+- sources/focardi-2016-statistical-arbitrage-dfm — A New Approach to Statistical Arbitrage: Strategies Based on Dynamic Factor Models of Prices
 - sources/de-moura-2016-pairs-trading — A Pairs Trading Strategy Based on Linear State Space Models
 - sources/moura-2016-pairs-trading-kalman — A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter
 - sources/openai-2025-practical-guide-building-agents — A Practical Guide to Building Agents
@@ -67,6 +68,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/dandekar-2025-build-deepseek-model — Build a DeepSeek Model From Scratch
 - sources/raschka-2024-build-llm-from-scratch — Build a Large Language Model (From Scratch)
 - sources/raj-2025-building-embodied-ai-systems — Building Embodied AI Systems
+- sources/db-2019-01-08-fundamental-factors-banks — Building Fundamental Factors for Banks (Signal Processing, 8 January 2019)
 - sources/barrasa-2023-building-knowledge-graphs — Building Knowledge Graphs
 - sources/bouchard-2024-building-llms-production — Building LLMs for Production
 - sources/girten-2024-building-modern-data-databricks — Building Modern Data Applications Using Databricks Lakehouse
@@ -112,8 +114,8 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2020-03-19-volatility-peaks-before-markets-trough — Cross-Asset Dispatches: Volatility Peaks Before Markets Trough
 - sources/ms-2020-04-01-what-do-recoveries-look-like — Cross-Asset Dispatches: What Do Recoveries Usually Look Like?
 - sources/ms-2019-04-07-cross-asset-playbook-late-cycle-weaker-dollar — Cross-Asset Playbook – April 2019: Late-Cycle and Weaker Dollar
-- sources/ms-2019-02-11-cross-asset-playbook-fundamental-problems — Cross-Asset Playbook – February 2019: Fundamental Problems
 - sources/ms-2019-02-11-cross-asset-playbook-fundamental-problems-2 — Cross-Asset Playbook – February 2019: Fundamental Problems
+- sources/ms-2019-02-11-cross-asset-playbook-fundamental-problems — Cross-Asset Playbook – February 2019: Fundamental Problems
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact — Cross-Asset Playbook – January 2019: Turning Points Intact
 - sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks — Cross-Asset Playbook – March 2019: Overpricing Goldilocks, Underpricing Tails
 - sources/ms-2020-03-17-cross-asset-playbook-brace-for-recession — Cross-Asset Playbook – March 2020: Brace for Recession
@@ -128,6 +130,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/databricks-spark-knowledge-base — Databricks Spark Knowledge Base
 - sources/databricks-spark-knowledge-base-cn — Databricks Spark Knowledge Base (Chinese Edition)
 - sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks — Datenverwaltung mit Unity Catalog auf Databricks
+- sources/chiah-2019-day-of-week-anomaly-returns — Day-of-the-week effect in anomaly returns: International evidence
 - sources/barzykin-2022-multi-currency-inventory — Dealing with multi-currency inventory risk in FX cash markets
 - sources/khraisha-2024-designing-financial-data-architectures — Designing Financial Data Architectures
 - sources/huyen-2022-designing-ml-systems — Designing Machine Learning Systems
@@ -136,6 +139,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/lei-2018-distribution-free-regression — Distribution-Free Predictive Inference for Regression
 - sources/bates-2021-rcps — Distribution-Free, Risk-Controlling Prediction Sets
 - sources/chernozhukov-2021-distributional-cp — Distributional Conformal Prediction
+- sources/hong-2025-implied-vol-cds-korea — Do Changes in the Implied Volatility of Stock Options Predict Future Changes in CDS Spreads?
 - sources/koukorinis-2026-draci — Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence
 - sources/triantafyllopoulos-2011-mean-reverting-spreads — Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage
 - sources/ms-2019-02-28-ecb-preview-tltro-funding — ECB Preview: TLTRO Funding on its Way
@@ -147,8 +151,10 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits — EM Strategy Update: No Rush for the Exits
 - sources/ms-2010-09-15-em-quantitative-quarterly — Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy
 - sources/ms-2019-02-11-emfx-quants-lab-steady-path — EMFX Quant's Lab: Steady Path
+- sources/van-zundert-2018-thesis — Empirical Studies on the Cross-Section of Corporate Bond and Stock Markets
 - sources/technical-2025-bond-similarity — Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity, Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation
 - sources/bratanic-2025-essential-graphrag — Essential GraphRAG
+- sources/li-2023-microstructure-noise-efficient-price — Estimation of Common Factors for Microstructure Noise and Efficient Price in a High-Frequency Dual Factor Model
 - sources/ms-2011-11-28-europe-economics-recession-returns — Europe Economics: Recession Returns
 - sources/ms-2019-03-11-europe-surprise-upside — Europe looks set to surprise on the upside
 - sources/ms-2019-03-11-untested-cycle-corporate-risk — European Banks - Equity & Credit: Untested Cycle - watch for corporate risk
@@ -157,8 +163,8 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2020-03-11-facing-cycle-picking-swiss — European Banks: Facing the Cycle – Picking Swiss
 - sources/ms-2019-05-23-value-tier2-seniors — European Banks: Hunting for Value in Tier 2 and Seniors
 - sources/ms-2019-01-28-european-credit-reluctant-rally — European Credit Playbook: A Reluctant Rally
-- sources/ms-2019-01-28-european-credit-watch — European Credit Strategy — What We're Watching
 - sources/ms-2017-07-10-european-credit-watch — European Credit Strategy — What We're Watching
+- sources/ms-2019-01-28-european-credit-watch — European Credit Strategy — What We're Watching
 - sources/ms-2019-03-04-a-premium-for-size — European Credit Strategy: A Premium for Size
 - sources/ms-2015-11-16-corporate-hybrids-playbook — European Credit Strategy: Corporate Hybrids Playbook
 - sources/ms-2019-02-04-corporate-hybrids-playbook — European Credit Strategy: Corporate Hybrids Playbook — Staying in Short Calls, Revisiting Call Risks
@@ -170,18 +176,22 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum — European Equity Strategy: Global growth momentum starts to recover: what is priced in?
 - sources/ms-2017-06-23-hy-leveraged-finance-playbook — European High Yield Strategy Monthly Leveraged Finance Playbook — Performance
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook — European High Yield Strategy Monthly Leveraged Finance Playbook — Returns
+- sources/chang-2016-factor-pricing-hf-panels — Evaluating Factor Pricing Models Using High-Frequency Panels
 - sources/aslam-2020-covid-mfdfa — Evidence of Intraday Multifractality in European Stock Markets during COVID-19 (2020)
 - sources/johnstone-2025-multioutput — Exact and Approximate Conformal Inference for Multi-Output Regression
 - sources/ilmanen-2011-expected-returns — Expected Returns: An Investor's Guide to Harvesting Market Rewards
 - sources/vanderweele-2015-explanation-causal-inference — Explanation in Causal Inference: Methods for Mediation and Interaction
 - sources/pasche-2025-extreme-conformal — Extreme Conformal Prediction: Reliable Intervals for High-Impact Events
 - sources/houweling-2017-factor-investing — Factor Investing in the Corporate Bond Market
+- sources/elton-2004-valuation-corporate-bonds — Factors Affecting the Valuation of Corporate Bonds
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids — FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
 - sources/lancaster-2021-fed-up — Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
 - sources/lokin-2024-fill-probabilities — Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
 - sources/khraisha-2024-financial-data-engineering — Financial Data Engineering: Design and Build Data-Driven Financial Products
 - sources/hilpisch-2021-financial-theory-python — Financial Theory with Python: A Gentle Introduction
 - sources/tulchinsky-2020-finding-alphas — Finding Alphas: A Quantitative Approach to Building Trading Strategies (Second Edition)
+- sources/grant-2010-forecast-combinations-scoring-rules — Finding Profitable Forecast Combinations Using Probability Scoring Rules
+- sources/graef-2025-firm-specific-systematic-momentum — Firm-specific versus systematic momentum
 - sources/montana-2009-flexible-least-squares — Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage
 - sources/ms-2019-05-17-tariffs-government-bonds — For Whom the Tariffs Toll
 - sources/omrane-2017-yield-curve-forecasting — Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach
@@ -189,6 +199,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/reis-2022-fundamentals-data-engineering — Fundamentals of Data Engineering
 - sources/zhi-2024-gaussian-processes-graphs — Gaussian Processes on Graphs (Zhi 2024)
 - sources/shi-2024-graph-laplacian-learning — Generalizing Graph Laplacian Learning (Shi 2024)
+- sources/db-2020-11-05-global-factor-monitor — Global Factor Monitor (Quantitative Musing, 5 November 2020)
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform — Global Growth Tracker – DMs Underperform More than Expected
 - sources/ms-2020-04-01-in-the-flow-q1-recap — Global In the Flow First Quarter Recap: What a Year This Quarter Has Been
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers — Global In the Flow: 2018 by the Numbers
@@ -219,13 +230,16 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/namora-2021-hierarchical — Hierarchical Credibility Model
 - sources/stavroyiannis-2017-bitcoin-multifractal — High Frequency Multifractal Properties of Bitcoin
 - sources/boffelli-2017-euro-bond-spread-correlations — High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers
+- sources/aitsahalia-2020-hf-factor-models-regressions — High-Frequency Factor Models and Regressions
 - sources/gentzel-2021-osrct-evaluation — How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference
 - sources/ellenberg-2014-how-not-to-be-wrong — How Not to Be Wrong: The Power of Mathematical Thinking
 - sources/openai-2025-how-openai-uses-codex — How OpenAI Uses Codex
 - sources/anthropic-2025-multi-agent-research-system — How We Built Our Multi-Agent Research System
+- sources/cao-2023-implied-vol-bond-returns — Implied Volatility Changes and Corporate Bond Returns
 - sources/tsai-2020-hierarchical-mortality — Incorporating hierarchical credibility theory into modelling of multi-country mortality rates
 - sources/huber-2026-information-flows-trading-networks — Information Flows in Trading Networks
 - sources/ms-2019-01-11-balance-sheet-normalization — Insight into the Balance Sheet
+- sources/kelly-2026-ipca — Instrumented Principal Component Analysis
 - sources/trinh-2006-lever-framework — Introducing LEVER: A Framework for Scoring LEVeraging Event Risk
 - sources/ms-2018-03-16-credit-bmi — Introducing the Credit Bond Market Indicator (credit-BMI)
 - sources/blount-2025-introduction-to-agents — Introduction to Agents
@@ -235,6 +249,8 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/chen-2024-jump-clustering-information-flows — Jump Clustering, Information Flows, and Stock Price Efficiency
 - sources/laumann-2021-kernel-tests-nonstationary — Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 - sources/lee-2024-kowcpi — Kernel-based Optimally Weighted Conformal Prediction Intervals
+- sources/dai-2019-knowing-factors-or-loadings — Knowing Factors or Factor Loadings, or Neither? Evaluating Estimators of Large Covariance Matrices with Noisy and Asynchronous Data
+- sources/pelger-2019-large-dimensional-hf-factor-model — Large-Dimensional Factor Modeling Based on High-Frequency Observations
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio — Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model
 - sources/babecky-2013-leading-indicators-crisis-incidence — Leading indicators of crisis incidence: Evidence from developed countries
 - sources/angelopoulos-2021-learn-then-test — Learn Then Test: Calibrating Predictive Algorithms to Achieve Risk Control
@@ -258,7 +274,9 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/gueant-2019-particle-filtering-bonds — Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach
 - sources/andreou-2020-mixed-frequency-macro-finance — Mixed-Frequency Macro-Finance Factor Models: Theory and Applications
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults — MODs: Machine Learning on Drivers
+- sources/daniel-2016-momentum-crashes — Momentum crashes
 - sources/ms-2016-09-27-momentum-for-diversification — Momentum for Diversification
+- sources/jostova-2013-momentum — Momentum in Corporate Bond Returns
 - sources/haesen-2017-momentum-spillover — Momentum Spillover from Stocks to Corporate Bonds
 - sources/sieron-2021-monetary-policy-after-great-recession — Monetary Policy after the Great Recession: The Role of Interest Rates
 - sources/rostagno-2021-ecb-monetary-policy-crisis — Monetary Policy in Times of Crisis: A Tale of Two Decades of the European Central Bank
@@ -281,6 +299,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2019-02-13-ecb-periphery-one-size — One Size Doesn't Fit All
 - sources/cartea-2015-optimal-execution — Optimal execution with limit and market orders
 - sources/ellersgaard-2018-hedge-tracking-lob — Optimal Hedge Tracking Portfolios in a Limit Order Book
+- sources/lucic-2024-option-market-making-vol-arbitrage — Optimal Option Market Making and Volatility Arbitrage
 - sources/barzykin-2025-adverse-selection — Optimal Quoting under Adverse Selection and Price Reading
 - sources/murphy-2006-order-flow-critique — Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)
 - sources/lu-2018-market-making — Order-book modelling and market making strategies
@@ -288,6 +307,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/zhang-2021-pairs-general-ssm — Pairs Trading with General State Space Models
 - sources/zaffran-phd — Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting
 - sources/gift-2021-practical-mlops — Practical MLOps: Operationalizing Machine Learning Models
+- sources/bali-2022-bond-ml — Predicting Corporate Bond Returns: Merton Meets Machine Learning
 - sources/feng-2025-predicting-bond-returns — Predicting Individual Corporate Bond Returns
 - sources/duasa-2010-predicting-crisis-recovery — Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis
 - sources/kim-2020-jackknife-plus-after-bootstrap — Predictive Inference Is Free with the Jackknife+-after-Bootstrap
@@ -299,6 +319,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/peters-2026-quantile-diffusions — Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
 - sources/xie-2026-realized-probability-market-timing — Realized Probability Index is a Better Market Timing Indicator
 - sources/ljungqvist-2012-recursive-macroeconomic-theory — Recursive Macroeconomic Theory
+- sources/blitz-2011-residual-momentum — Residual momentum
 - sources/koukorinis-stylized-facts — Revisiting stylised facts: information clock, persistence, long memory and dependence
 - sources/bergault-2023-rfq-pricing — RFQ Impact Pricing and Liquidity Dynamics
 - sources/bhansali-2018-right-tail-hedging — Right Tail Hedging: Managing Risk When Markets Melt Up
@@ -314,11 +335,13 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/mcelreath-2020-statistical-rethinking — Statistical Rethinking: A Bayesian Course with Examples in R and STAN
 - sources/gneiting-2007-strictly-proper-scoring-rules — Strictly Proper Scoring Rules, Prediction, and Estimation
 - sources/ms-2020-03-29-full-court-policy-press — Sunday Start | What's Next in Global Macro: A Full-Court Policy Press
+- sources/li-2025-systematic-momentum — Systematic Momentum: A New Class of Price Patterns
 - sources/carver-2015-systematic-trading — Systematic Trading: A unique new method for designing trading and investing systems
 - sources/kumar-2022-liquidity-adjusted-afns — Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model
 - sources/cai-2023-testing-conditional-independence-time-series — Testing Conditional Independence in Causal Inference for Time Series Data
 - sources/fermanian-2017-md2c-corporate-bonds — The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms
 - sources/pearl-2018-book-of-why — The Book of Why: The New Science of Cause and Effect
+- sources/dafonseca-2020-cds-equity-volatility-comovement — The Co-Movement of Credit Default Swap Spreads, Equity Returns and Volatility: Evidence from Asia-Pacific Markets
 - sources/martin-2024-credit-curve — The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return
 - sources/collin-dufresne-2001-determinants-credit-spread-changes — The Determinants of Credit Spread Changes
 - sources/wilson-2024-llm-security-playbook — The Developer's Playbook for Large Language Model Security
@@ -327,9 +350,12 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/mercado-2015-taarss-flow-whisperer — The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1
 - sources/huang-2025-global-credit-spread-puzzle — The Global Credit Spread Puzzle
 - sources/ms-2013-10-30-japanification-or-salvation — The Global Macro Analyst: Japanification or Salvation
+- sources/aleti-2022-high-frequency-factor-zoo — The High-Frequency Factor Zoo
 - sources/nguyen-2026-gammerman-festschrift — The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman
 - sources/chan-2001-level-persistence-growth-rates — The Level and Persistence of Growth Rates
 - sources/gould-2016-long-memory-fx — The Long Memory of Order Flow in the Foreign Exchange Spot Market
+- sources/amadori-2014-relative-informational-efficiency — The Relative Informational Efficiency of Stocks, Options and Credit Default Swaps During the Financial Crisis
+- sources/db-2020-04-23-return-of-the-machines — The Return of the Machines (Quantcraft, 23 April 2020)
 - sources/dawson-2020-systems-mental-models — Thinking in Systems and Mental Models: Think Like a Super Thinker
 - sources/meadows-2008-thinking-in-systems — Thinking in Systems: A Primer
 - sources/ms-2020-03-27-fiscal-package-unemployment — Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?
@@ -341,6 +367,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2008-08-28-gilt-futures-ctd-option — UK Interest Rate Strategist: Gilt Futures: The Return of the Option
 - sources/angelopoulos-2021-raps — Uncertainty Sets for Image Classifiers using Conformal Prediction
 - sources/avramov-2007-changes-corporate-credit-spreads — Understanding Changes in Corporate Credit Spreads
+- sources/pelger-2015-understanding-systematic-risk — Understanding Systematic Risk: A High-Frequency Approach
 - sources/rehman-2024-green-bonds — Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks
 - sources/ms-2019-02-28-selling-the-rally — US Corporate Credit Strategy Brief: Selling the Rally
 - sources/ms-2019-02-01-credit-strategy-chartbook — US Corporate Credit Strategy Chartbook
@@ -351,8 +378,10 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - sources/ms-2019-03-25-rate-cuts-before-recessions — US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts
 - sources/ms-2018-04-05-funding-market-signals — US Interest Rate Strategy: Funding Market Signals (Correction)
 - sources/ms-2018-02-27-who-buys-treasuries — US Interest Rate Strategy: Who Is Going to Buy Treasuries?
+- sources/aitsahalia-2017-pca-hf-factor-model — Using Principal Component Analysis to Estimate a High Dimensional Factor Model with High-Frequency Data
 - sources/anon-2024-vector-databases-rag — Utilizing Vector Databases to Enhance RAG Models
 - sources/yegge-2025-vibe-coding — Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond
+- sources/van-zundert-2017-volatility-momentum — Volatility-Adjusted Momentum
 - sources/ms-2011-03-28-high-grade-mid-cycle — Weekly Credit Wrap: High Grade, Mid-Cycle
 - sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging — Weekly Credit Wrap: High Yield — Pricing Tomorrow's Deleveraging Today
 - sources/chao-2019-etf-flows-prices — Why Do ETF Flows Move Prices?
@@ -415,10 +444,13 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/bayesian-nonparametrics — Bayesian Nonparametrics
 - concepts/bayesian-updating — Bayesian Updating
 - concepts/behavioral-finance — Behavioral Finance
+- concepts/bespoke-cdo — Bespoke CDO
 - concepts/bias-variance-tradeoff — Bias-Variance Trade-off and Model Selection
+- concepts/bid-ask-spread — Bid-Ask Spread
 - concepts/block-conformal-prediction — Block Conformal Prediction (BCP)
 - concepts/bond-capm — Bond CAPM
 - concepts/bond-index-inclusion-criteria — Bond Index Inclusion Criteria
+- concepts/bond-liquidity — Bond Liquidity
 - concepts/bond-market-segmentation — Bond Market Segmentation
 - concepts/bond-momentum — Bond Momentum
 - concepts/bounded-rationality — Bounded Rationality
@@ -438,6 +470,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/causal-inference — Causal Inference
 - concepts/causal-theory-of-time-direction — Causal Theory of the Direction of Time
 - concepts/causation-versus-unification — Causation versus Unification in Explanation
+- concepts/cdo-tranches — CDO Tranches
 - concepts/cds-bond-basis — CDS-Bond Basis
 - concepts/chain-of-thought-prompting — Chain-of-Thought Prompting
 - concepts/chaos-theory — Chaos Theory and Non-linearity
@@ -498,6 +531,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/credibility-theory — Credibility Theory
 - concepts/credible-government-policy — Credible Government Policy and Time Consistency
 - concepts/credit-default-swap-spread — Credit Default Swap Spread
+- concepts/credit-default-swaps — Credit Default Swaps
 - concepts/credit-growth — Credit growth
 - concepts/credit-hedge-ratios-equity-options — Credit Hedge Ratios with Equity Options
 - concepts/credit-relative-value — Credit Relative Value
@@ -517,6 +551,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/currency-exchange-rates — Currency Exchange Rates and Forecasting
 - concepts/curse-of-dimensionality — Curse of Dimensionality
 - concepts/cypher-query-language — Cypher Query Language
+- concepts/data-distribution-shift — Data Distribution Shift
 - concepts/data-engineering-for-ml — Data Engineering for ML
 - concepts/data-fabric — Data Fabric
 - concepts/data-leakage — Data Leakage
@@ -542,6 +577,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/distressed-exchange — Distressed Exchange
 - concepts/distribution-drift — Distribution Drift
 - concepts/distributional-conformal-prediction — Distributional Conformal Prediction
+- concepts/distributionally-robust-optimization — Distributionally Robust Optimization
 - concepts/do-operator — do-operator and do-calculus
 - concepts/docstrings — Docstrings
 - concepts/domain-events — Domain Events
@@ -552,6 +588,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/dsge-threshold-bvar-counterfactual-analysis — DSGE and Threshold BVAR Counterfactual Analysis
 - concepts/dtaci — DtACI (Dynamically-tuned Adaptive Conformal Inference)
 - concepts/dynamic-equicorrelation — Dynamic Equicorrelation
+- concepts/dynamic-factor-model — Dynamic Factor Model
 - concepts/early-warning-indicators — Early Warning Indicators
 - concepts/earnings-growth-persistence — Earnings Growth Persistence
 - concepts/ecb-price-stability-definition — ECB Price Stability Definition
@@ -566,12 +603,14 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/entry-point-analysis — Entry Point Analysis
 - concepts/epsilon-operator-counterfactuals — Epsilon-Operator Semantics for Counterfactuals
 - concepts/equity-forward-pricing — Equity Forward Pricing
+- concepts/error-correction-model — Error Correction Model
 - concepts/error-handling-and-logging — Error Handling and Logging
 - concepts/etf-creation-redemption-arbitrage — ETF Creation/Redemption Arbitrage
 - concepts/etf-flow-anomalies — ETF Flow Anomalies (Create-to-Lend)
 - concepts/etf-flow-tactical-asset-allocation — ETF Flow-Based Tactical Asset Allocation
 - concepts/etf-flows — ETF Flows
 - concepts/evaluation-constraint-counterfactuals — Evaluation Constraint on Counterfactuals
+- concepts/event-risk — Event Risk
 - concepts/event-driven-microservices — Event-Driven Microservices
 - concepts/ewmac-carry-trading-rules — EWMAC and Carry Trading Rules
 - concepts/exchangeability — Exchangeability
@@ -579,6 +618,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/expected-shortfall — Expected Shortfall
 - concepts/experiment-tracking — Experiment Tracking
 - concepts/explanatory-asymmetry — Explanatory Asymmetry
+- concepts/extended-kalman-filter — Extended Kalman Filter
 - concepts/extreme-value-theory — Extreme Value Theory
 - concepts/eye-tracking-in-code-reading — Eye Tracking in Code Reading
 - concepts/factor-investing — Factor Investing in Corporate Bonds
@@ -648,6 +688,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/hazard-rate-curve — Hazard Rate Curve
 - concepts/har-model — Heterogeneous Autoregressive Model
 - concepts/heterogeneous-treatment-effects — Heterogeneous Treatment Effects
+- concepts/heteroskedasticity — Heteroskedasticity
 - concepts/hexagonal-architecture — Hexagonal Architecture
 - concepts/hidden-markov-models — Hidden Markov Models for Regime Detection
 - concepts/hierarchical-clustering — Hierarchical Clustering
@@ -667,6 +708,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/illiquidity-premium — Illiquidity Premium
 - concepts/imaging — Imaging
 - concepts/implied-volatility-skew — Implied Volatility Skew
+- concepts/implied-volatility-surface — Implied Volatility Surface
 - concepts/in-context-learning — In-Context Learning
 - concepts/bewley-incomplete-markets-models — Incomplete-Markets Heterogeneous-Agent (Bewley) Models
 - concepts/index-reconstitution — Index Reconstitution
@@ -693,6 +735,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/jump-diffusion-option-pricing — Jump-Diffusion Option Pricing
 - concepts/kalman-filter — Kalman Filter
 - concepts/kalman-filter-state-space — Kalman Filter State-Space Estimation
+- concepts/kernel-methods — Kernel Methods
 - concepts/knowledge-graph — Knowledge Graph
 - concepts/knowledge-graph-construction — Knowledge Graph Construction
 - concepts/knowledge-lake — Knowledge Lake
@@ -714,6 +757,8 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/lender-of-last-resort — Lender of Last Resort
 - concepts/lever-score — LEVER Score
 - concepts/leverage-points — Leverage Points
+- concepts/leverage-ratios — Leverage Ratios
+- concepts/leveraged-recapitalization — Leveraged Recapitalization
 - concepts/libor-ois-spread — Libor-OIS spread
 - concepts/limit-order-book — Limit Order Book
 - concepts/limits-to-arbitrage — Limits to Arbitrage
@@ -752,9 +797,11 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/market-crash-liquidity-crisis — Market Crash and Liquidity Crisis Dynamics
 - concepts/market-integration-concordance-measure — Market Integration Concordance Measure
 - concepts/market-making — Market Making
+- concepts/market-microstructure — Market Microstructure
 - concepts/market-microstructure-noise — Market Microstructure Noise
 - concepts/market-structures — Market Structures
 - concepts/market-timing — Market Timing
+- concepts/market-implied-ratings — Market-Implied Ratings
 - concepts/markov-switching-models — Markov-Switching Models
 - concepts/mask-conditional-validity — Mask-Conditional Validity
 - concepts/material-non-public-information — Material Non-Public Information
@@ -821,7 +868,9 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/optimal-execution — Optimal Execution
 - concepts/optimum-score-estimation — Optimum Score Estimation
 - concepts/option-implied-credit-information — Option-Implied Information in Credit Markets
+- concepts/order-flow — Order Flow
 - concepts/order-flow-prediction — Order Flow Prediction
+- concepts/order-imbalance — Order Imbalance
 - concepts/ornstein-uhlenbeck-process — Ornstein-Uhlenbeck Process
 - concepts/outright-monetary-transactions — Outright Monetary Transactions
 - concepts/overfitting-backtesting — Over-fitting in Back-testing
@@ -865,6 +914,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/quasi-experimental-design — Quasi-Experimental Design
 - concepts/rag-evaluation — RAG Evaluation
 - concepts/ramsey-optimal-taxation — Ramsey Optimal Taxation
+- concepts/random-forest — Random Forest
 - concepts/random-forest-proximity — Random Forest Proximity
 - concepts/randomised-controlled-trial — Randomised Controlled Trial
 - concepts/ranked-probability-score — Ranked Probability Score
@@ -887,7 +937,9 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/reinforcement-learning-from-human-feedback — Reinforcement Learning from Human Feedback
 - concepts/rlhf — Reinforcement Learning from Human Feedback
 - concepts/relative-value-spread-trading — Relative Value / Spread Trading
+- concepts/relative-value-analysis — Relative Value Analysis
 - concepts/repository-pattern — Repository Pattern
+- concepts/request-for-quotes — Request for Quotes
 - concepts/reranking — Reranking
 - concepts/residual-momentum — Residual Momentum
 - concepts/resilience-self-organization-hierarchy — Resilience, Self-Organization, and Hierarchy
@@ -942,21 +994,26 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/spillover-interference-effects — Spillover and Interference Effects
 - concepts/splines-and-additive-models — Splines and Generalized Additive Models
 - concepts/split-conformal-prediction — Split Conformal Prediction
+- concepts/spread — Spread
 - concepts/spread-per-turn-of-leverage — Spread Per Turn of Leverage
 - concepts/state-space-models — State-Space Models
+- concepts/stationarity — Stationarity
 - concepts/statistical-arbitrage — Statistical Arbitrage
 - concepts/step-back-prompting — Step-Back Prompting
 - concepts/stochastic-conditional-intensity — Stochastic Conditional Intensity
+- concepts/stochastic-optimal-control — Stochastic Optimal Control
 - concepts/stochastic-volatility-with-jumps — Stochastic Volatility with Jumps
 - concepts/stock-price-efficiency — Stock Price Efficiency
 - concepts/stocks-and-flows — Stocks and Flows
 - concepts/trading-strategy-optimization — Strategy Optimization
 - concepts/strictly-proper-scoring-rules — Strictly Proper Scoring Rules
+- concepts/structural-models — Structural Models
 - concepts/structural-risk — Structural Risk (Funding and Redemption Options)
 - concepts/structural-vector-autoregression — Structural Vector Autoregression
 - concepts/structure-of-production — Structure of Production
 - concepts/structured-output — Structured Output
 - concepts/style-premia — Style Premia (Value, Momentum, Carry, Defensive)
+- concepts/stylized-facts — Stylized Facts
 - concepts/sufficient-cause-interaction — Sufficient-Cause Interaction (Synergism)
 - concepts/superforecasting — Superforecasting
 - concepts/survival-probability — Survival Probability
@@ -981,6 +1038,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/the-unrule — The UnRule (Cutting Losses)
 - concepts/llm-threat-modeling — Threat Modeling for LLM Applications
 - concepts/tick-loss — Tick (Pinball) Loss
+- concepts/time-varying-regression — Time-Varying Regression
 - concepts/token-embeddings — Token Embeddings
 - concepts/tokenization — Tokenization
 - concepts/tool-calling — Tool Calling
@@ -1004,6 +1062,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/value-premium — Value Premium
 - concepts/value-at-risk — Value-at-Risk
 - concepts/variogram-score — Variogram Score
+- concepts/vasicek-model — Vasicek Model
 - concepts/vector-database — Vector Database
 - concepts/vector-databases — Vector Databases
 - concepts/vector-error-correction-model — Vector Error Correction Model
@@ -1020,9 +1079,12 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - concepts/weighted-conformal-prediction — Weighted Conformal Prediction (WCP)
 - concepts/working-memory-in-programming — Working Memory in Programming
 - concepts/worst-case-coverage — Worst-Case Coverage
+- concepts/yield-curve — Yield Curve
+- concepts/yield-curve-forecasting — Yield Curve Forecasting
 - concepts/yield-curve-steepeners-flatteners — Yield curve steepeners and flatteners
 - concepts/yield-to-maturity — Yield to Maturity
 - concepts/z-spread — Z-Spread
+- concepts/zero-coupon-curve — Zero-Coupon Curve
 - concepts/zero-shot-prompting — Zero-shot Prompting
 - concepts/zombie-firms — Zombie Firms and Zombification
 - concepts/beta-mixing — β-Mixing
@@ -1080,7 +1142,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/benjamin-nabarro — Benjamin Nabarro
 - entities/bent-flyvbjerg — Bent Flyvbjerg
 - entities/bertopic — BERTopic
-- entities/bmc-medical-research-methodology — BMC Medical Research Methodology
 - entities/bob-gregory — Bob Gregory
 - entities/bodha-bhattacharya — Bodha Bhattacharya
 - entities/borek-vasicek — Borek Vasicek
@@ -1095,12 +1156,11 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/cath-sleeman — Cath Sleeman
 - entities/catherine-nelson — Catherine Nelson
 - entities/cem-keltek — Cem Keltek
+- entities/cesare-robotti — Cesare Robotti
 - entities/cfa-institute — CFA Institute
 - entities/changhao-shi — Changhao Shi
 - entities/chao-wang — Chao Wang
-- entities/chapman-hall-crc — Chapman & Hall/CRC
 - entities/chatgpt — ChatGPT
-- entities/chelsea-green-publishing — Chelsea Green Publishing
 - entities/chen-xu — Chen Xu
 - entities/chetan-ahya — Chetan Ahya
 - entities/chip-huyen — Chip Huyen
@@ -1111,6 +1171,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/christopher-sims — Christopher A. Sims
 - entities/christopher-piros — Christopher D. Piros
 - entities/christopher-r-metli — Christopher R Metli
+- entities/chrysoula-zerva — Chrysoula Zerva
 - entities/chuan-lim — Chuan Lim
 - entities/citigroup — Citigroup
 - entities/claudio-borio — Claudio Borio
@@ -1128,6 +1189,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/daniel-kahneman — Daniel Kahneman
 - entities/daniele-antonucci — Daniele Antonucci
 - entities/darrell-duffie — Darrell Duffie
+- entities/databricks — Databricks
 - entities/david-card — David Card
 - entities/david-romer — David H. Romer
 - entities/david-hamburger — David Hamburger
@@ -1138,6 +1200,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/davide-avino — Davide E. Avino
 - entities/deepseek — DeepSeek
 - entities/dennis-bams — Dennis Bams
+- entities/dennis-ulmer — Dennis Ulmer
 - entities/derrick-y-kam — Derrick Y Kam
 - entities/deutsche-bank — Deutsche Bank
 - entities/deutsche-bank-research — Deutsche Bank Research
@@ -1202,7 +1265,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/hamel-husain — Hamel Husain
 - entities/hans-redeker — Hans W Redeker
 - entities/hans-w-redeker — Hans W Redeker
-- entities/harriman-house — Harriman House
 - entities/harrison-chase — Harrison Chase
 - entities/harry-percival — Harry Percival
 - entities/hedy-language — Hedy
@@ -1264,7 +1326,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/john-maynard-keynes — John Maynard Keynes
 - entities/john-mctaggart — John McTaggart
 - entities/john-ousterhout — John Ousterhout
-- entities/john-wiley-sons — John Wiley & Sons
 - entities/jonathan-ashworth — Jonathan Ashworth
 - entities/jonathan-graber — Jonathan Graber
 - entities/jonathan-yiangou — Jonathan Yiangou
@@ -1310,7 +1371,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/luc-bauwens — Luc Bauwens
 - entities/luca-bosatta — Luca Bosatta
 - entities/ludwig-von-mises — Ludwig von Mises
-- entities/ludwig-von-mises-institute — Ludwig von Mises Institute
 - entities/luke-metz — Luke Metz
 - entities/m-stocker — M. Stocker
 - entities/maarten-grootendorst — Maarten Grootendorst
@@ -1392,7 +1452,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/oskar-hane — Oskar Hane
 - entities/owasp — OWASP
 - entities/owen-roberts — Owen Roberts
-- entities/oxford-university-press — Oxford University Press
 - entities/paco-nathan — Paco Nathan
 - entities/pandas — Pandas
 - entities/paolo-batori — Paolo Batori
@@ -1405,6 +1464,7 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/paul-cotturo — Paul Cotturo
 - entities/paul-rosenbaum — Paul R. Rosenbaum
 - entities/paul-zikopoulos — Paul Zikopoulos
+- entities/pavel-shevchenko — Pavel V. Shevchenko
 - entities/peoples-bank-of-china — People's Bank of China
 - entities/peter-carr — Peter Carr
 - entities/phanikiran-naraparaju — Phanikiran Naraparaju
@@ -1413,12 +1473,10 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/philippe-bergault — Philippe Bergault
 - entities/pierre-collin-dufresne — Pierre Collin-Dufresne
 - entities/pierre-pinson — Pierre Pinson
-- entities/princeton-university-press — Princeton University Press
 - entities/purva-pruthi — Purva Pruthi
 - entities/pytorch — PyTorch
 - entities/qi-li — Qi Li
 - entities/quang-vuong — Quang Vuong
-- entities/quantstart — QuantStart
 - entities/rainer-pullirsch — Rainer Pullirsch
 - entities/rangika-peiris — Rangika Peiris
 - entities/rasa — Rasa
@@ -1446,7 +1504,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/roger-koenker — Roger Koenker
 - entities/rogerio-oliveira — Rogerio Oliveira
 - entities/rose-yu — Rose Yu
-- entities/routledge — Routledge
 - entities/ryan-tibshirani — Ryan J. Tibshirani
 - entities/saad-labyad — Saad Labyad
 - entities/sam-elprince — Sam Elprince
@@ -1480,7 +1537,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/souhaib-ben-taieb — Souhaib Ben Taieb
 - entities/spacy — spaCy
 - entities/sphinx — Sphinx
-- entities/springer-nature — Springer Nature
 - entities/sqlalchemy — SQLAlchemy
 - entities/srikanth-sankaran — Srikanth Sankaran
 - entities/stanford-cs-329s — Stanford CS 329S
@@ -1496,9 +1552,6 @@ Total pages: 1541 (sources: 335, concepts: 668, entities: 531, analyses: 7, cont
 - entities/tabnine — Tabnine
 - entities/tarek-hamid — Tarek Hamid
 - entities/teresa-busjahn — Teresa Busjahn
-- entities/journal-of-portfolio-management — The Journal of Portfolio Management
-- entities/mit-press — The MIT Press
-- entities/penguin-press — The Penguin Press
 - entities/thomas-egan — Thomas Egan
 - entities/thomas-sargent — Thomas J. Sargent
 - entities/thomas-pearce — Thomas Pearce
