@@ -81,6 +81,7 @@ Applies machine learning to predict corporate bond returns using 45 years of dat
 ## Related Sources
 
 - [[sources/bali-2022-bond-ml|Bali et al. (2022)]] - related ML approach
-- [[sources/kelly-2023-ipca|Kelly et al. (2023)]] - IPCA factors
+- [[sources/kelly-2026-ipca|Kelly et al., Instrumented Principal Component Analysis]] - the IPCA method
+- `sources/kelly-2023-modeling-corporate-bond-returns` - Kelly, Palhares & Pruitt (2023), J. Finance 78, 1967-2008. Cited in the bibliography; not yet in this wiki.
 
 <!-- AUTHORED REGION END -->
