@@ -2,6 +2,7 @@
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/spillover-effect
 page_type: concept
+source_path: markdown_output/ssrn_id2932937_code158781.md
 related:
 - concepts/asian-financial-crisis-1997
 - concepts/bond-momentum
@@ -50,9 +51,12 @@ Haesen, Houweling, and van Zundert (2017):
 
 | Strategy | Sharpe Ratio | Max Drawdown |
 |----------|--------------|--------------|
-| Direct Bond Momentum | 0.45 | -60% |
-| Equity Spillover | 0.55 | -80% |
-| Residual Spillover | 0.65 | -30% |
+| Total momentum spillover | 0.35 | -80% |
+| Residual momentum spillover | **0.77** | **-25%** |
+
+Volatility halves from 8.85% to 4.80% at the same time. Verified against the
+source document 2026-08-09; the previous figures in this table (0.45/0.55/0.65,
+-60%/-30%) do not appear in the paper.
 
 ## Types of Spillover
 

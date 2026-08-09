@@ -2,6 +2,7 @@
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/residual-momentum
 page_type: concept
+source_path: markdown_output/ssrn_id2932937_code158781.md
 related:
 - concepts/bond-momentum
 - concepts/spillover-effect
@@ -78,10 +79,24 @@ From Haesen et al. (2017):
 
 | Strategy | Sharpe | Max DD | Skew |
 |----------|--------|--------|------|
-| Total Bond Mom | 0.45 | -60% | Negative |
-| Residual Bond Mom | 0.55 | -25% | Neutral |
-| Total Spillover | 0.55 | -80% | Negative |
-| Residual Spillover | 0.65 | -30% | Neutral |
+| Total momentum spillover | 0.35 | -80% | 8.85% |
+| Residual momentum spillover | **0.77** | **-25%** | **4.80%** |
+
+Verified against the source document 2026-08-09. An earlier version of this table
+reported Sharpe ratios of 0.45/0.55/0.65 and drawdowns of -60%/-30% for four
+strategy variants; none of those figures appears in the paper, and the only 0.45
+in it is a leverage statistic. The paper reports one comparison, the one above.
+
+Hedging default risk *after* forming a total-momentum portfolio is less effective
+than residualising before: volatility falls only to at most 6.17%, against 4.80%
+for residual momentum spillover.
+
+The winner-minus-loser portfolio has a Sharpe ratio of 0.42 in investment grade
+and 0.44 in high yield. In IG it returns 1.73% per annum, or 14bp per month,
+which the authors note is the same order as the 11bp per month in Gebhardt et al.
+(2005) on 1973-1996 data — so their 1994-2013 result is an out-of-sample
+confirmation. Across the full universe, decile Sharpe ratios fall monotonically
+from 0.59 (winners) to 0.06 (losers), with annual alphas from 1.94% to -2.86%.
 
 ## Factor Models for Residualization
 
