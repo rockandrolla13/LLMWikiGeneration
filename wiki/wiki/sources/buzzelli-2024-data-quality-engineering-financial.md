@@ -2,6 +2,9 @@
 title: Data Quality Engineering in Financial Services
 page_id: sources/buzzelli-2024-data-quality-engineering-financial
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:31fda428bfdd44b350e6ce0b189127f4494c937d3ed10f549e18c8526ed
 **Authors:** Brian Buzzelli  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/buzzelli-2024-data-quality-engineering-financial.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/buzzelli-2024-data-quality-engineering-financial.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Data Quality Engineering in Financial Services (O'Reilly, 2022) by Brian Buzzelli, SVP and Head of Enterprise Data Management at Acadian Asset Management, argues that financial data management can be transformed by applying manufacturing quality control principles. The core thesis is that data has measurable "dimensions" (completeness, timeliness, accuracy, precision, conformity, congruence, collection, cohesion) analogous to physical properties of raw materials, and that these dimensions can be governed by quantitative Data Quality Specifications (DQS) with explicit Valid/Suspect/Invalid tolerance thresholds. The book covers the full enterprise data management stack: data shape and volume types (time series, cross-section, panel), DQS construction and worked examples, data quality metrics and visualization, an operational efficiency cost model, data governance frameworks and councils, master data management, data project methodology, and enterprise-scale implementation. The target audience spans data engineers, data architects, data scientists, data analysts, and business professionals in data-intensive financial functions such as portfolio management, trading, compliance, accounting operations, and performance measurement.

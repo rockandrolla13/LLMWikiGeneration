@@ -2,6 +2,9 @@
 title: Building LLMs for Production
 page_id: sources/bouchard-2024-building-llms-production
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -33,8 +36,7 @@ content_hash: sha256:a89879bc38b3085e14feb2388c4315549a1b7650dc434414617b51aecbf
 **Authors:** Louis-François Bouchard  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/bouchard-2024-building-llms-production.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/bouchard-2024-building-llms-production.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Building LLMs for Production (2024) by Louis-François Bouchard, Louie Peters, and the Towards AI team is a hands-on, code-accompanied textbook covering the full stack of deploying large language models in real-world applications. It progresses from transformer architecture fundamentals and key LLM terminology through prompt engineering, the LangChain and LlamaIndex frameworks, retrieval-augmented generation (RAG), autonomous agents, fine-tuning (SFT, LoRA, RLHF), and production deployment including quantization and pruning. Each chapter pairs theory with runnable Google Colab notebooks and end-to-end project tutorials (chatbots, summarizers, financial document analysis, etc.), targeting readers with basic Python skills but no prior AI/NLP background.

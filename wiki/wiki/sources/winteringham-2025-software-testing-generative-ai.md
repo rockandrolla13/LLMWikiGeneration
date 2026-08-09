@@ -2,6 +2,9 @@
 title: Software Testing with Generative AI
 page_id: sources/winteringham-2025-software-testing-generative-ai
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -41,8 +44,7 @@ content_hash: sha256:6e8e09ab68adfcb12324e3ea7f0cf6aee5a3bd460e1a5ad56a82d1f0e8d
 **Authors:** Mark Winteringham  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/winteringham-2025-software-testing-generative-ai.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/winteringham-2025-software-testing-generative-ai.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Software Testing with Generative AI (2025) by Mark Winteringham, published by Manning Publications, is a practical guide for software testers and developers on integrating large language models (LLMs) into the software testing lifecycle. The book is organised around three tenets — Mindset, Technique, and Context — covering how to establish a productive relationship with LLMs, apply them to specific testing tasks via prompt engineering, and customise them with RAG and fine-tuning for domain-specific testing contexts. It spans 12 chapters across three parts, with a foreword by Nicola Martin.

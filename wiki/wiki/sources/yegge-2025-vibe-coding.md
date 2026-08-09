@@ -3,6 +3,9 @@ title: 'Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents
   and Beyond'
 page_id: sources/yegge-2025-vibe-coding
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:15ed536755c4c79976be1285678d5ad8b86992b20e4ebbac2311d19d2eb
 **Authors:** Gene Kim, Steve Yegge  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/yegge-2025-vibe-coding.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/yegge-2025-vibe-coding.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Vibe Coding, authored by Gene Kim and Steve Yegge with a foreword by Anthropic CEO Dario Amodei, argues that AI-assisted coding agents represent a fundamental transformation in software development — one comparable in magnitude to the introduction of electricity in manufacturing. The book introduces the FAAFO framework (Fast, Ambitious, Autonomous, Fun, Optionality) to articulate the concrete benefits of directing AI agents rather than writing code manually, and uses a restaurant-kitchen metaphor throughout to frame the developer as executive chef orchestrating AI sous-chefs. Structured around inner, middle, and outer development loops, it provides principles, workflow patterns, and organizational guidance that the authors claim remain durable even as specific tools and models change rapidly.

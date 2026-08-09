@@ -2,6 +2,9 @@
 title: 'Beyond Vibe Coding: From Coder to AI-Era Developer'
 page_id: sources/osmani-2025-beyond-vibe-coding
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:95fe77a54f537d53a0ffc8ea34d97276659929c91d5c6fe6f28e5985deb
 **Authors:** Addy Osmani  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/osmani-2025-beyond-vibe-coding.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/osmani-2025-beyond-vibe-coding.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Beyond Vibe Coding: From Coder to AI-Era Developer (O'Reilly, August 2025) by Addy Osmani argues that the developer's role is shifting from writing code line-by-line to orchestrating AI systems with human judgment, architectural thinking, and product vision. The book distinguishes between "vibe coding" (free-form, prompt-first, conversational AI-driven development for speed and exploration) and "AI-assisted engineering" (plan-first, structured use of AI across the full SDLC). Osmani frames AI as amplifying experienced developers disproportionately over beginners due to what he calls the "knowledge paradox," and targets engineering leads, product-minded engineers, and CTOs navigating team and process transformation in the AI era. The preface and Chapter 1 are present in the first 250 lines; the full table of contents is not visible in this section, though Part I (Foundations), Part II (practical workflows), and Part III (security, ethics, and tools) are mentioned in the preface narrative.

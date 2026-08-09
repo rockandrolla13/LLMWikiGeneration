@@ -2,6 +2,9 @@
 title: Building Embodied AI Systems
 page_id: sources/raj-2025-building-embodied-ai-systems
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 2
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -33,8 +36,7 @@ content_hash: sha256:df65ab9cc5f23509d25098bddde9098b5cbf44f781cbdd8c13b68942e24
 **Authors:** Pethuru Raj, Alvaro Rocha  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/raj-2025-building-embodied-ai-systems.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/raj-2025-building-embodied-ai-systems.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Building Embodied AI Systems: The Agents, the Architecture Principles, Challenges, and Application Domains (Springer, 2024, ISEM Vol. 14) is an edited academic volume by Pethuru Raj, Alvaro Rocha, Simar Preet Singh, Pushan Kumar Dutta, and B. Sundaravadivazhagan. It brings together 22 contributed chapters covering the conceptual foundations, algorithmic models, architectural principles, security considerations, and real-world application domains of Embodied AI — AI systems where virtual or physical agents (robots, drones, autonomous vehicles) perceive, navigate, and act in physical or simulated environments. Chapters span topics from computer vision and reinforcement learning for drone/robot autonomy, to healthcare, industrial IoT, smart cities, 5G connectivity, metaverse, and cybersecurity for embodied systems.

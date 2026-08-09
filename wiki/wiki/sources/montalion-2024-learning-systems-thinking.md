@@ -2,6 +2,9 @@
 title: 'Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals'
 page_id: sources/montalion-2024-learning-systems-thinking
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -41,8 +44,7 @@ content_hash: sha256:976419dce79d84683a9b6e3d41c9cf6b6389d881de3732f01d1888b4959
 **Authors:** Diana Montalion  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/montalion-2024-learning-systems-thinking.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/montalion-2024-learning-systems-thinking.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals (O'Reilly Media, July 2024, first edition) by Diana Montalion argues that software professionals must shift from linear, reductionist thinking to systems thinking in order to navigate the increasing sociotechnical complexity of modern software. The preface opens with a personal narrative tracing the author's journey from bookstore owner in Missoula, Montana through PHP developer and open-source contributor to a systems architect working on large-scale, cloud-native, distributed information systems. This narrative is used to illustrate how the internet itself transformed from simple document delivery to a complex, asynchronous, event-driven information graph — and how that transformation demands a commensurate shift in how technologists think. The book is positioned as a practical, layered guide that equips software professionals with non-linear mental models, language, and practices for working with complex sociotechnical systems.

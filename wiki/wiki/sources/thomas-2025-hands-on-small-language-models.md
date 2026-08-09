@@ -2,6 +2,9 @@
 title: Hands-on Small Language Models
 page_id: sources/thomas-2025-hands-on-small-language-models
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -42,8 +45,7 @@ content_hash: sha256:4c58a50da17f13088091fdf5f9dc48ec562bf31fa88c10973225cd82b35
 **Authors:** Alexander Thomas  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/thomas-2025-hands-on-small-language-models.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/thomas-2025-hands-on-small-language-models.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Early-release O'Reilly book (first release 2026-01-21, first edition January 2027) by Alexander N. Thomas on building practical agentic applications using Small Language Models (SLMs). The available portion covers the book's table of contents, environment setup, and an introductory hands-on project called "Theoros" — a movie-search agentic system used as a throughline example. The book demonstrates how to combine SLMs with MCP (Model Context Protocol), Ollama, LiteLLM, LibreChat, and external data sources (Wikipedia, Wikidata, HuggingFace, Kaggle). Only Chapters 2 and 3 were available in the early release; Chapters 1 and 4–8 were listed but marked unavailable at time of extraction.

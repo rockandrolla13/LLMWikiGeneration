@@ -2,6 +2,9 @@
 title: 'Financial Theory with Python: A Gentle Introduction'
 page_id: sources/hilpisch-2021-financial-theory-python
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -46,8 +49,7 @@ content_hash: sha256:dff5da01f2eb1a76ea7040049f7a56f1a0d96bf799d76e9c975e7b3421b
 **Authors:** Yves Hilpisch  
 **Year:** 2021  
 **Type:** book  
-**Markdown source:** `markdown_output/hilpisch-2021-financial-theory-python.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/hilpisch-2021-financial-theory-python.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Financial Theory with Python: A Gentle Introduction (2021) by Yves Hilpisch is a beginner-oriented textbook published by O'Reilly Media that teaches financial theory and Python programming simultaneously from scratch. It progresses through increasingly complex model economies — two-state, three-state, general static, and dynamic — to introduce core asset-pricing concepts (arbitrage pricing, martingale measures, risk-neutral pricing, CAPM, Black-Scholes-Merton) alongside executable Python code. The book is explicitly positioned as a prerequisite to Hilpisch's more advanced Python for Finance (2nd ed., 2018) and targets readers with only basic mathematics background (calculus, linear algebra, probability theory).

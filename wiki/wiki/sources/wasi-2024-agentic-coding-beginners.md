@@ -2,6 +2,9 @@
 title: Agentic Coding for Beginners
 page_id: sources/wasi-2024-agentic-coding-beginners
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:3308359849cbc82c3a82591f5300351c9e66caf07a97f1abe435ad1ec39
 **Authors:** Wasi  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/wasi-2024-agentic-coding-beginners.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/wasi-2024-agentic-coding-beginners.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Agentic Coding for Beginners (Wasi, published on Leanpub, version dated 2025-11-12) is a practitioner-oriented introduction to the emerging paradigm of AI-assisted software development. The book defines "agentic coding" as a collaborative loop between a human developer and an intelligent agent — the human provides intent and judgment while the agent handles interpretation, code generation, and self-correction. It covers the full workflow from environment setup (VS Code, Cursor, Copilot, ChatGPT) through task decomposition, tool integration, memory and RAG, multi-agent orchestration (LangChain, CrewAI, AutoGen), governance, and hands-on projects, concluding with a discussion of scaling, trust, alignment, and the autonomous future of software development.

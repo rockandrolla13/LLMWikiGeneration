@@ -2,6 +2,9 @@
 title: Introduction to Agents
 page_id: sources/blount-2025-introduction-to-agents
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -47,8 +50,7 @@ content_hash: sha256:e8751c241cc7a35fe1972c0f1f09cb0033718bdf9cef584f59a01a990b6
 **Authors:** Alan Blount, Antonio Gulli, Shubham Saboo  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/blount-2025-introduction-to-agents.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/blount-2025-introduction-to-agents.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Introduction to Agents (November 2025) is the first installment in a five-part series authored by Alan Blount, Antonio Gulli, Shubham Saboo, Michael Zimmermann, and Vladimir Vuskovic, with content contributions from Enrique Chan, Mike Clark, Derek Egan, Anant Nawalgaria, Kanchana Patlolla, and Julia Wiesinger. It is a comprehensive foundational guide addressing the transition from passive, prediction-based AI models to autonomous, goal-driven AI agents capable of multi-step planning and execution. The document defines the core anatomy of an agent (Model, Tools, Orchestration Layer, Deployment), introduces a five-level taxonomy of agentic systems (Level 0: Core Reasoning to Level 4: Self-Evolving), and covers production concerns including Agent Ops, evaluation, multi-agent design patterns, security, interoperability, and agent governance. It positions itself as a guide for developers, architects, and product leaders moving from prototypes to production-grade agentic systems.

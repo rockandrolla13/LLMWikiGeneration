@@ -2,6 +2,9 @@
 title: Build a DeepSeek Model From Scratch
 page_id: sources/dandekar-2025-build-deepseek-model
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 2
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -34,8 +37,7 @@ content_hash: sha256:be8a26d3a2fd53caaa937f58ba5c3ebbec3154a19f89a42ef73024d1715
 **Authors:** Raj Abhijit Dandekar, Rajat Dandekar  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/dandekar-2025-build-deepseek-model.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/dandekar-2025-build-deepseek-model.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Build a DeepSeek Model From Scratch (MEAP edition, 2025) by Raj Abhijit Dandekar, Rajat Dandekar, Sreedath Panat, and Naman Dwivedi is a hands-on technical guide that teaches readers how to implement the core innovations of the DeepSeek-R1 large language model from first principles using Python and PyTorch. The book is structured as a four-stage roadmap covering: (1) Key-Value Cache as an inference foundation, (2) core architectural components Multi-Head Latent Attention (MLA) and Mixture-of-Experts (MoE), (3) advanced training techniques including Multi-Token Prediction (MTP) and FP8 quantization, and (4) post-training methods including reinforcement learning and knowledge distillation. Implementations are designed to run on consumer hardware using scaled-down model versions. The book grew out of Vizuara's YouTube series "Build DeepSeek from Scratch" launched in February 2025.

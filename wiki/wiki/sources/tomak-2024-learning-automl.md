@@ -2,6 +2,9 @@
 title: Learning AutoML
 page_id: sources/tomak-2024-learning-automl
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -46,8 +49,7 @@ content_hash: sha256:ac1877f20f319a29355b107b897b22bf700aa51b7dbddae9b584a6f3b2a
 **Authors:** Kerem Tomak  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/tomak-2024-learning-automl.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/tomak-2024-learning-automl.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Learning AutoML by Kerem Tomak (published April 2026 by O'Reilly Media, ISBN 979-8-341-64318-5) is a comprehensive guide to automated machine learning covering everything from foundational concepts through production deployment. The book bridges organisational/business and technical perspectives, with a strong focus on AutoGluon as the primary hands-on framework. It addresses the gap between proof-of-concept models and production-ready systems, and is structured in five parts: Foundations, Core Techniques, AutoML for Different Data Types, Production/MLOps, and Industry Case Studies.

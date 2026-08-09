@@ -2,6 +2,9 @@
 title: 'Multi-Agent Coordination: A Reinforcement Learning Approach'
 page_id: sources/sadhu-2024-multi-agent-coordination-rl
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:c94864ea88721e8d18b5fc97e1fd4e53dbc9ef1deddf7762f722325f103
 **Authors:** Arup Kumar Sadhu, Amit Konar  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/sadhu-2024-multi-agent-coordination-rl.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/sadhu-2024-multi-agent-coordination-rl.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Book: "Multi-Agent Coordination: A Reinforcement Learning Approach" by Arup Kumar Sadhu and Amit Konar. Published 2021 by Wiley-IEEE Press (copyrighted 2021 John Wiley & Sons, Inc.; note: the filename says 2024 but the text gives 2021 as the publication year). The book develops multi-robot/multi-agent coordination algorithms grounded in multi-agent Q-learning (MAQL), game theory (Nash and correlated equilibria), and evolutionary/metaheuristic optimization. It addresses cooperative path planning in both simulated and real robotic environments (Khepera II robots), targeting the dual challenges of convergence speed and the curse of dimensionality in joint state-action spaces. A hybrid evolutionary algorithm (ICFA, fusing Imperialist Competitive Algorithm and Firefly Algorithm) is also proposed for trajectory optimisation in a stick-carrying task.

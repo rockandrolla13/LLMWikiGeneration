@@ -2,6 +2,9 @@
 title: Databricks Spark Knowledge Base
 page_id: sources/databricks-spark-knowledge-base
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:2aeb6b992afd77d97107a70185e9d3221068eb2f23e8a01fb979003dfc4
 **Authors:** Databricks  
 **Year:** 2023  
 **Type:** book  
-**Markdown source:** `markdown_output/databricks-spark-knowledge-base.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/databricks-spark-knowledge-base.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 The Databricks Spark Knowledge Base is a practitioner-oriented reference guide published by Databricks that documents common Apache Spark patterns, pitfalls, and diagnostics. It is organized around three functional areas: best practices for writing efficient Spark code (e.g., preferring reduceByKey over groupByKey, avoiding large driver-side collects, handling malformed input with flatMap), general troubleshooting for runtime and deployment errors (serialization failures, missing JAR dependencies, SSH connection issues), and performance and optimization guidance covering RDD partitioning and data locality. The content originated as a Gitbook and covers Scala, Python, Java, and Maven-based Spark applications. No author names, publication dates, or version numbers appear in the first 250 lines; the text references Spark 1.1.0 in a Maven example, suggesting the material dates from early Spark releases.

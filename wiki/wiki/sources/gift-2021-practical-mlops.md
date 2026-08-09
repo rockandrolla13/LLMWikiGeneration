@@ -2,6 +2,9 @@
 title: 'Practical MLOps: Operationalizing Machine Learning Models'
 page_id: sources/gift-2021-practical-mlops
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -45,8 +48,7 @@ content_hash: sha256:91acd3bc532a00a7ea4074a88246b2aab9bbbbfb908c7ff75009342b362
 **Authors:** Noah Gift, Alfredo Deza  
 **Year:** 2021  
 **Type:** book  
-**Markdown source:** `markdown_output/gift-2021-practical-mlops.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/gift-2021-practical-mlops.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Practical MLOps: Operationalizing Machine Learning Models (O'Reilly, September 2021, first edition, ISBN 978-1-098-10301-9) by Noah Gift and Alfredo Deza is a practitioner-oriented book on deploying and operating machine learning models in production. Its central argument is that the ML industry is failing to deliver business value because models are not reaching production reliably or quickly, and that applying DevOps-style automation — extended with ML-specific tooling — can close that gap by an order of magnitude. The book covers the full operationalization lifecycle across AWS, Azure, and GCP, including CI/CD pipelines, containers, edge deployment, AutoML, monitoring/drift detection, model interoperability, microservices, and command-line tooling, with real-world case studies from the authors' industry experience. The preface explicitly frames democratization of ML as a core motivation: "programming is a human right" and MLOps/AutoML should put these capabilities into the hands of doctors, lawyers, mechanics, and teachers, not just ML specialists.

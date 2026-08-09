@@ -2,6 +2,9 @@
 title: The Elements of Statistical Learning
 page_id: sources/hastie-2009-elements-statistical-learning
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:0e9723d11dc13206fce54dbe1178898d0e66eabf337847e6f633475b109
 **Authors:** Trevor Hastie, Robert Tibshirani, Jerome Friedman  
 **Year:** 2009  
 **Type:** book  
-**Markdown source:** `markdown_output/hastie-2009-elements-statistical-learning.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/hastie-2009-elements-statistical-learning.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 The Elements of Statistical Learning (second edition, 2009) is a comprehensive graduate-level textbook that unifies statistical, machine-learning, and data-mining approaches to learning from data under a coherent statistical framework. Written by three Stanford statisticians, the book covers both supervised learning (regression and classification) and unsupervised learning, progressing from foundational linear methods through to ensemble methods, graphical models, and high-dimensional problems where the number of features far exceeds the number of observations. Its central argument is that bias-variance trade-off and model complexity are the fundamental organising principles behind all learning methods, and that a statistical viewpoint provides the conceptual tools needed to evaluate and compare the rapidly growing zoo of algorithms from computer science and engineering.

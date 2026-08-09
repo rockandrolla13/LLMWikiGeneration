@@ -2,6 +2,9 @@
 title: A Practical Guide to Building Agents
 page_id: sources/openai-2025-practical-guide-building-agents
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:98257d06983d736c09b85e20546202baaaeb7384d0aa18ae71f6328dd0e
 **Authors:** OpenAI  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/openai-2025-practical-guide-building-agents.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/openai-2025-practical-guide-building-agents.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 A Practical Guide to Building Agents (OpenAI, 2025) is a concise technical guide aimed at product and engineering teams building LLM-powered autonomous systems for the first time. It distills insights from customer deployments into actionable best practices covering how to identify agent-worthy use cases, design agent logic using models, tools, and instructions, orchestrate single- and multi-agent workflows, and apply guardrails for safe and predictable operation. The guide uses OpenAI's Agents SDK for code examples but explicitly notes the concepts apply to any library or from-scratch implementation.

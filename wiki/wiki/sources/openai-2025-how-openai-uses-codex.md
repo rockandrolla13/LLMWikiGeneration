@@ -2,6 +2,9 @@
 title: How OpenAI Uses Codex
 page_id: sources/openai-2025-how-openai-uses-codex
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -39,8 +42,7 @@ content_hash: sha256:61fe71d20ce24519292f460d0a21627ec1b5777fa9212365c14228e3ebd
 **Authors:** OpenAI  
 **Year:** 2025  
 **Type:** article  
-**Markdown source:** `markdown_output/openai-2025-how-openai-uses-codex.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/openai-2025-how-openai-uses-codex.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 A 12-page internal guide published by OpenAI in 2025 describing how OpenAI's own engineering teams use Codex — their agentic AI coding assistant — in day-to-day software development. Drawing from engineer interviews and internal usage data, the document catalogs seven use cases (code understanding, refactoring/migrations, performance optimization, test coverage, development velocity, staying in flow, and exploration/ideation) alongside six best practices, with concrete example prompts for each use case. The "Looking Ahead" section notes Codex is still in research preview and signals further workflow integration as models improve.

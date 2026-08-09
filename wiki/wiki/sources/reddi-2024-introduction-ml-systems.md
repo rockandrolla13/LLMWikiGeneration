@@ -2,6 +2,9 @@
 title: Introduction to Machine Learning Systems
 page_id: sources/reddi-2024-introduction-ml-systems
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -45,8 +48,7 @@ content_hash: sha256:d8e05bf95b8802253584b190e26717fabfc9339e3e3d26c0e131d0b0610
 **Authors:** Vijay Janapa Reddi  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/reddi-2024-introduction-ml-systems.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/reddi-2024-introduction-ml-systems.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Introduction to Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems is a textbook authored by Prof. Vijay Janapa Reddi of Harvard University's School of Engineering and Applied Sciences, dated September 4, 2025 (as printed in the converted markdown). The book covers the engineering principles of ML systems from foundations (AI pervasiveness, AI/ML basics, historical eras of AI, ML lifecycle, DL primer, DNN architectures) through principles (AI workflow, deployment stages, maintenance) and across deployment contexts (cloud, edge, mobile, TinyML, hybrid). It includes a featured AI learning companion called SocratiQ AI, is openly licensed, and was developed with community collaboration and support from funding agencies, academic institutions, non-profits, and corporate sponsors.

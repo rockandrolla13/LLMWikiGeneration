@@ -2,6 +2,9 @@
 title: Datenverwaltung mit Unity Catalog auf Databricks
 page_id: sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:ba68f62fee1e3d1e8b151bab346fe6142e09f351e4ef1066d83d3faa44f
 **Authors:** Kiran Sreekumar, Karthik Subbarao  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/sreekumar-2024-datenverwaltung-unity-catalog-databricks.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/sreekumar-2024-datenverwaltung-unity-catalog-databricks.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 A German-language O'Reilly book (first edition, September 2025) titled "Datenverwaltung mit Unity Catalog auf Databricks" (original English title: "Data Governance with Unity Catalog on Databricks") by Kiran Sreekumar and Karthik Subbarao, with a foreword by Matei Zaharia (CTO and co-founder of Databricks). The book provides a comprehensive practical guide to implementing data and AI governance using Databricks Unity Catalog, covering its architecture, identity management, access controls, AI governance, observability, data sharing, regulatory compliance, and adoption strategies. A fictional organization called "Nexa Boutique" is used as a case study throughout. The book was translated into German by AI (O'Reilly). ISBN 978-1-098-17963-2.

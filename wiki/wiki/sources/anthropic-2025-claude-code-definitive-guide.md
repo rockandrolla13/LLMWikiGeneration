@@ -2,6 +2,9 @@
 title: 'Claude Code: The Definitive Guide to Agentic Development'
 page_id: sources/anthropic-2025-claude-code-definitive-guide
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -33,8 +36,7 @@ content_hash: sha256:9e18665fcfb89da69521310f6db3c76208b302eb983ff65c4c73f2eab16
 **Authors:** Anthropic  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/anthropic-2025-claude-code-definitive-guide.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/anthropic-2025-claude-code-definitive-guide.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Claude Code: The Definitive Guide to Agentic Development is a book written entirely by Claude Code (Anthropic's agentic coding tool) under the direction of Vladimir Korostyshevskiy (February 2026). It targets experienced Claude Code users who have been using the tool for months and want to advance beyond basics. The book covers the mental models, advanced capabilities, practical patterns, and organizational strategies for agentic development — including the agentic execution loop, context window management, four-phase workflow (explore/plan/implement/commit), permission modes as workflow selectors, task classification for autonomous vs. supervised execution, and session management strategies. No formal table of contents appeared in the first 250 lines; content begins directly with an "About This Book" note followed by Chapter 1.

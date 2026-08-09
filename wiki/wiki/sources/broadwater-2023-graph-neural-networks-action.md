@@ -2,6 +2,9 @@
 title: Graph Neural Networks in Action
 page_id: sources/broadwater-2023-graph-neural-networks-action
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -42,8 +45,7 @@ content_hash: sha256:b47a6c84de35004aa979b51948cfce3f72c8cfe714dce1beac0c0d6b041
 **Authors:** Keita Broadwater, Namid Stillman  
 **Year:** 2023  
 **Type:** book  
-**Markdown source:** `markdown_output/broadwater-2023-graph-neural-networks-action.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/broadwater-2023-graph-neural-networks-action.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Graph Neural Networks in Action (Manning, 2025 copyright; ISBN 9781617299056) by Keita Broadwater and Namid Stillman, with foreword by Matthias Fey (creator of PyTorch Geometric), is a practitioner-oriented guide to building GNN applications. The book covers the full GNN project pipeline — from raw data through graph data modeling, embeddings, model training, and scaling — using PyTorch Geometric as the primary implementation framework. It is structured in three parts: First Steps (graph fundamentals and embeddings), Graph Neural Networks (GCN/GraphSAGE, GAT, graph autoencoders), and Advanced Topics (spatiotemporal/dynamic graphs, scaling, and project considerations). Two appendices cover graph theory fundamentals and PyTorch Geometric installation. The book was authored out of a felt need for a single, accessible, non-academic resource that fills gaps left by scattered online tutorials, particularly for practitioners at companies without large ML research teams.

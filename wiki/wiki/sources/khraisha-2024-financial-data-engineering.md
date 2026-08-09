@@ -2,6 +2,9 @@
 title: 'Financial Data Engineering: Design and Build Data-Driven Financial Products'
 page_id: sources/khraisha-2024-financial-data-engineering
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:adb3d0a08e44b0ce99f76628470ac79dbae19989f6db542112f8842c492
 **Authors:** Tamer Khraisha  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/khraisha-2024-financial-data-engineering.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/khraisha-2024-financial-data-engineering.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Financial Data Engineering: Design and Build Data-Driven Financial Products (O'Reilly, first edition October 2024, ISBN 978-1-098-15999-3) by Tamer Khraisha is a comprehensive practitioner guide that bridges data engineering and the financial domain. The book defines "financial data engineering" as a domain-driven specialization of data engineering tailored to the distinct regulatory, governance, security, and data-management requirements of financial markets. It covers the full financial data engineering lifecycle across 12 chapters in two parts: Part I (Chapters 1–5) builds finance-domain foundations (financial data ecosystem, identification/entity systems, data governance), and Part II (Chapters 6–12) covers data engineering practice (storage, modeling, databases, workflows, ingestion, transformation) with finance-specific applications. Chapter 12 presents four hands-on projects using Python, SQL/PostgreSQL, JupyterLab, Pandas, Docker, and Git. The book uses more than 1,000 references and is supplemented by a GitHub repository.

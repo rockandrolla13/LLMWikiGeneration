@@ -2,6 +2,9 @@
 title: Simulation Models for Data Science
 page_id: sources/sullivan-2025-simulation-models-data-science
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -42,8 +45,7 @@ content_hash: sha256:8c6a0af8df6a1b6e0bcc9d5e2c33a6dacaa370c75a1e3c0c920664a2663
 **Authors:** Dan Sullivan  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/sullivan-2025-simulation-models-data-science.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/sullivan-2025-simulation-models-data-science.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Early-release O'Reilly book (First Release 2026-03-25; First Edition March 2027) by Dan Sullivan, published by O'Reilly Media. The book makes the case that simulation modeling — Monte Carlo, discrete-event, system-dynamics, and agent-based approaches — fills gaps that statistical and machine learning methods leave when analyzing complex, dynamic business systems. A central theme is that generative AI and specification-driven development have dramatically lowered the barrier to entry for simulation, making it a general-purpose tool analogous to how spreadsheets democratized financial modelling and SQL democratized data analysis. Only Chapters 1 and 2 are available in this early release; Chapters 3–11 are listed but marked unavailable.

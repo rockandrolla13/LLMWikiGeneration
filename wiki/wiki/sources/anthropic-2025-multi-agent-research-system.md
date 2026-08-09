@@ -2,6 +2,9 @@
 title: How We Built Our Multi-Agent Research System
 page_id: sources/anthropic-2025-multi-agent-research-system
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 4
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -44,8 +47,7 @@ content_hash: sha256:ac46f42564c74fea04daf52097aa8048efdebb06a67efc1d9e93881a788
 **Authors:** Anthropic  
 **Year:** 2025  
 **Type:** article  
-**Markdown source:** `markdown_output/anthropic-2025-multi-agent-research-system.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/anthropic-2025-multi-agent-research-system.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 A technical blog post / short report by Anthropic (2025) describing how they built the "Research" feature for Claude: a production multi-agent system in which a lead orchestrator agent (Claude Opus 4) plans and delegates parallel subagent workers (Claude Sonnet 4) to search the web, Google Workspace, and integrated tools in order to answer complex, open-ended research queries. The document covers architecture decisions, prompt engineering principles, evaluation strategies, and production engineering challenges, and is authored by Jeremy Hadfield, Barry Zhang, Kenneth Lien, Florian Scholz, Jeremy Fox, and Daniel Ford.

@@ -2,6 +2,9 @@
 title: 'Statistical Rethinking: A Bayesian Course with Examples in R and STAN'
 page_id: sources/mcelreath-2020-statistical-rethinking
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:bdff28ebe6dd39215008c45ba88df7ebada7196a3b9879a7a08bace793d
 **Authors:** Richard McElreath  
 **Year:** 2020  
 **Type:** book  
-**Markdown source:** `markdown_output/mcelreath-2020-statistical-rethinking.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/mcelreath-2020-statistical-rethinking.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed., 2020) by Richard McElreath is a graduate-level textbook published by CRC Press (Chapman & Hall/CRC Texts in Statistical Science). It teaches Bayesian statistical modeling from first principles using R and Stan, deliberately avoiding p-values and significance testing. The book spans 17 chapters plus endnotes and bibliography, progressing from basic probability and grid approximation through MCMC, GLMs, multilevel models, Gaussian processes, missing data, and ODE-based models. The second edition adds prior predictive simulation, DAGs for causal inference, splines, ordered categorical predictors, phylogenetic regression, and social network models, plus expanded raw Stan code. The author's stated goal is to provide the statistics textbook he wished he had in graduate school, written for researchers who sense something is wrong with conventional statistical practice but do not yet know where to turn.

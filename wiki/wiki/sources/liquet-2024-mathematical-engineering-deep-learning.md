@@ -2,6 +2,9 @@
 title: Mathematical Engineering of Deep Learning
 page_id: sources/liquet-2024-mathematical-engineering-deep-learning
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -53,8 +56,7 @@ content_hash: sha256:e022fe4cf1f64eb4da6dde77fd7ccef0fc8db416eecc87b5a6d67c76d52
 **Authors:** Benoit Liquet, Sarat Moka, Yoni Nazarathy  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/liquet-2024-mathematical-engineering-deep-learning.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/liquet-2024-mathematical-engineering-deep-learning.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Mathematical Engineering of Deep Learning (Chapman & Hall/CRC, 2025; preface dated February 2024) by Benoit Liquet, Sarat Moka, and Yoni Nazarathy is an 8-chapter graduate-level textbook that presents deep learning entirely through mathematical notation — equations and algorithms — without tying coverage to any programming language, computational framework, neuroscience analogy, or historical narrative. The book is self-contained for readers who already have undergraduate-level exposure to calculus, probability, and linear algebra (roughly equivalent to three or four university courses). It progresses from machine learning principles and optimization through feedforward networks, CNNs, sequence models/transformers, and a final survey chapter on generative models, reinforcement learning, and graph neural networks. Two appendices provide mathematical support on multivariable calculus and information-theoretic expectations.

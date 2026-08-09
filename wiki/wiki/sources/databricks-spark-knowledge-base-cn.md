@@ -2,6 +2,9 @@
 title: Databricks Spark Knowledge Base (Chinese Edition)
 page_id: sources/databricks-spark-knowledge-base-cn
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -33,8 +36,7 @@ content_hash: sha256:63815523ad4dbd2dae129f16c9f236f4a626d963ce6d3e55c9f89d21b40
 **Authors:** Databricks  
 **Year:** 2023  
 **Type:** book  
-**Markdown source:** `markdown_output/databricks-spark-knowledge-base-cn.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/databricks-spark-knowledge-base-cn.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 The Databricks Spark Knowledge Base (Chinese Edition) is a translated technical reference compiled from the official Databricks GitBook (http://databricks.gitbooks.io/databricks-spark-knowledge-base/). It is a concise, practitioner-oriented guide covering Apache Spark best practices, common fault troubleshooting, performance optimization, and Spark Streaming diagnostics — written in simplified Chinese for Chinese-speaking data engineers and developers working with Spark clusters. The TOC is present in the first few lines; the remainder of the first 250 lines is the actual chapter content, not a preface or author introduction.

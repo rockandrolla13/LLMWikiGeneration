@@ -2,6 +2,9 @@
 title: Coding with AI
 page_id: sources/morgan-2025-coding-with-ai
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:498b9e59829e01c63f9a9ff865fa3332e7943b4bd3f0332733ffaa63c1f
 **Authors:** Jeremy C. Morgan  
 **Year:** 2025  
 **Type:** book  
-**Markdown source:** `markdown_output/morgan-2025-coding-with-ai.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/morgan-2025-coding-with-ai.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Coding with AI (MEAP edition) by Jeremy C. Morgan, published by Manning Publications, is a practical guide to integrating AI coding assistants into the software development workflow. The book covers how large language models power generative AI tools like GitHub Copilot and ChatGPT, contrasting them with traditional rule-based code completion. It walks through AI assistance at each phase of the software development lifecycle — from ideation and technology selection through code generation, code review and analysis, testing and debugging, documentation generation, and deployment — using a running project example (a Flask-based ham radio practice web app) to illustrate concepts hands-on. NOTE: The markdown source file is severely degraded; the PDF-to-markdown conversion extracted only images and table fragments, leaving the body text inaccessible as markdown. No table of contents or preface text was recoverable from the file. This summary is based solely on what was directly observable in extracted images and the sparse readable table data.

@@ -2,6 +2,9 @@
 title: Designing Financial Data Architectures
 page_id: sources/khraisha-2024-designing-financial-data-architectures
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -43,8 +46,7 @@ content_hash: sha256:cbde6374f0c1dbc642a2bc6d62da2464eb3f2d4aaa32a7204a9b1991c38
 **Authors:** Tamer Khraisha  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/khraisha-2024-designing-financial-data-architectures.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/khraisha-2024-designing-financial-data-architectures.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 An Early Release O'Reilly book (first release 2025-08-06, first edition December 2026) by Tamer Khraisha titled "Designing Financial Data Architectures: Patterns and Principles for AI, Analytics, and Operational Efficiency." Published by O'Reilly Media. The book addresses the challenge of managing the complexity of financial data at scale, arguing that finance has evolved into a full-fledged information industry where data is no longer a byproduct but central to operations, innovation, and competition. Only Chapters 1 and 2 were available in the Early Release read (first 250 lines). Chapter 1 covers finance basics and the financial data ecosystem; subsequent chapters cover data modelling, governance, reference data, operational systems, ledger systems, messaging systems, and analytical systems. The book targets readers from both financial and non-financial backgrounds who work with financial data infrastructure.

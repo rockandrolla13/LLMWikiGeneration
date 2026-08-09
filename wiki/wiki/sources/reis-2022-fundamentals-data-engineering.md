@@ -2,6 +2,9 @@
 title: Fundamentals of Data Engineering
 page_id: sources/reis-2022-fundamentals-data-engineering
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -42,8 +45,7 @@ content_hash: sha256:39427c26167eb636299f431862df34d0fce382cd5881792300fd98c65ef
 **Authors:** Joe Reis, Matt Housley  
 **Year:** 2022  
 **Type:** book  
-**Markdown source:** `markdown_output/reis-2022-fundamentals-data-engineering.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/reis-2022-fundamentals-data-engineering.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Fundamentals of Data Engineering (O'Reilly, June 2022, First Edition) by Joe Reis and Matt Housley is a technology-agnostic, cloud-first reference book that defines the data engineering lifecycle — generation, storage, ingestion, transformation, and serving — and shows practitioners how to assemble disparate tools and technologies into coherent, production-grade data systems. The authors, self-described "recovering data scientists," wrote the book to fill a gap between narrow tool-specific guides and real-world end-to-end system design. The book is organised into four parts: foundational concepts and architecture principles (Part I), a deep-dive into each lifecycle stage (Part II), security/privacy and the future of data engineering (Part III), and appendices on cloud networking and serialisation/compression. It takes a deliberately cloud-first stance, treating infrastructure as ephemeral and scalable, while aiming to articulate principles that will remain relevant for a decade or more.

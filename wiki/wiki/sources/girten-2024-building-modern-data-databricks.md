@@ -2,6 +2,9 @@
 title: Building Modern Data Applications Using Databricks Lakehouse
 page_id: sources/girten-2024-building-modern-data-databricks
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -32,8 +35,7 @@ content_hash: sha256:812fe9bf2ee89931e2b68b998e22a8101c82b13f4aa3d0a07e9ecb0a062
 **Authors:** Will Girten  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/girten-2024-building-modern-data-databricks.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/girten-2024-building-modern-data-databricks.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Building Modern Data Applications Using Databricks Lakehouse (Packt, October 2024) by Will Girten is a practitioner-oriented guide to designing and deploying production-ready data pipelines on the Databricks Data Intelligence Platform. It walks through the evolution from data warehouses to data lakes to the lakehouse pattern, then systematically covers the Delta Live Tables (DLT) framework for near-real-time ingestion and transformation, Unity Catalog for data governance and lineage, and CI/CD tooling (Terraform, Databricks Asset Bundles) for pipeline deployment and monitoring across environments.

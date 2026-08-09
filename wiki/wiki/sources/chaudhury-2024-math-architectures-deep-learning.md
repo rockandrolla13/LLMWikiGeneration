@@ -2,6 +2,9 @@
 title: Math and Architectures of Deep Learning
 page_id: sources/chaudhury-2024-math-architectures-deep-learning
 page_type: source
+verification:
+  status: unverified
+  unverified_claims: 0
 revision_id: 1
 created: 2026-06-19 00:00:00+00:00
 updated: '2026-06-20T01:03:51Z'
@@ -45,8 +48,7 @@ content_hash: sha256:3a1a7c4dbe28a79d43a7b1fc54f4bbc0141eab24e6870e16935afa389da
 **Authors:** Krishnendu Chaudhury  
 **Year:** 2024  
 **Type:** book  
-**Markdown source:** `markdown_output/chaudhury-2024-math-architectures-deep-learning.md`
-
+**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/chaudhury-2024-math-architectures-deep-learning.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
 ## Summary
 
 Math and Architectures of Deep Learning (2024, Manning Publications) by Krishnendu Chaudhury, with co-authors Ananya H. Ashok, Sujay Narumanchi, and Devashish Shankar, is a 14-chapter textbook that bridges rigorous mathematical foundations with practical deep learning implementation in PyTorch. It progresses from first-principles linear algebra, calculus, and probability through neural network training, CNNs, generative models, and Bayesian inference, with extensive PyTorch code woven into each chapter. The foreword is by Prith Banerjee. ISBN 9781617296482.
