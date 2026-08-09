@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-08-07T12:37:36.035964Z'
+updated: '2026-08-09T13:35:04.372616Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-08-07T12:37:36.034667Z
+Generated: 2026-08-09T13:35:04.371284Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:78934fc199adcbbb
+Source hash: sha256:b897ccf8698c069f
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,7 +17,7 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-08-07
+Last updated: 2026-08-09
 Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, contradictions: 0)
 
 ## Sources
@@ -674,8 +674,8 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/graph-neural-networks — Graph Neural Networks
 - concepts/graph-signal-processing — Graph Signal Processing
 - concepts/graph-native-machine-learning — Graph-Native Machine Learning
-- concepts/graphrag — GraphRAG
 - concepts/graph-rag — GraphRAG
+- concepts/graphrag — GraphRAG
 - concepts/great-moderation — Great Moderation
 - concepts/green-bond-spreads — Green Bond Spreads
 - concepts/group-factor-models — Group Factor Models
@@ -1285,8 +1285,8 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/jacob-nell — Jacob Nell
 - entities/jakub-mateju — Jakub Mateju
 - entities/james-egan — James Egan
-- entities/james-k-lord — James K Lord
 - entities/james-lord — James K Lord
+- entities/james-k-lord — James K Lord
 - entities/james-robins — James M. Robins
 - entities/jan-babecky — Jan Babecky
 - entities/jan-kozak — Jan Kozak

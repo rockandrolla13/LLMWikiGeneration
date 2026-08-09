@@ -81,7 +81,68 @@ fresh = wiki_freshness(wiki)
 for name, s in fresh["artifacts"].items():
     state = "fresh" if s["is_fresh"] else "stale"
     print(f"  {name:16s} {state}")
-print("MIND_MAP.md is hand-curated; rebuild refuses to overwrite it.")
+
+# ---------------------------------------------------------------- last rebuilt
+# The ledger already records this -- do not invent a separate flag file, it would
+# become a second source of truth that drifts. Note the key is `op_type`, not
+# `operation_type`; querying the wrong name silently returns zero rebuilds.
+import json
+
+print()
+print("=== Last rebuilt ===")
+rebuilds = []
+for line in (WIKI / "manifest.jsonl").read_text().splitlines():
+    line = line.strip()
+    if not line:
+        continue
+    try:
+        op = json.loads(line)
+    except json.JSONDecodeError:
+        continue
+    if op.get("op_type") == "rebuild":
+        rebuilds.append(op)
+
+if not rebuilds:
+    print("  index.md / index.full.md : never rebuilt through wiki_rebuild()")
+else:
+    latest = {}
+    for op in rebuilds:                       # ledger is append-ordered
+        for art in op.get("outputs", {}).get("rebuilt", []):
+            latest[art] = op["timestamp"]
+    for art in ("index.md", "index.full.md"):
+        print(f"  {art:16s} {latest.get(art, 'never')}")
+    print(f"  ({len(rebuilds)} rebuild operations in the ledger)")
+
+# MIND_MAP.md is never machine-rebuilt, so it needs a different clock: its last
+# git commit, and its own self-reported coverage versus today's counts.
+import re
+import subprocess
+
+mm = WIKI / "MIND_MAP.md"
+try:
+    edited = subprocess.run(
+        ["git", "log", "-1", "--format=%cs", "--", str(mm)],
+        capture_output=True, text=True, check=True,
+    ).stdout.strip() or "uncommitted"
+except Exception:
+    edited = "unknown (git unavailable)"
+print(f"  {'MIND_MAP.md':16s} {edited}  (hand-curated -- rebuild refuses to overwrite it)")
+
+m = re.search(
+    r"Coverage as of (\d{4}-\d{2}-\d{2}):\s*\*\*(\d+) sources, (\d+) entities, (\d+) concepts\*\*",
+    mm.read_text(),
+)
+if m:
+    as_of, src, ent, con = m.group(1), int(m.group(2)), int(m.group(3)), int(m.group(4))
+    drift = (stats["total_sources"] - src, stats["total_entities"] - ent,
+             stats["total_concepts"] - con)
+    print(f"    self-reported coverage as of {as_of}: "
+          f"{src} sources, {ent} entities, {con} concepts")
+    if any(d > 0 for d in drift):
+        print(f"    NOT ON THE MAP since then: +{drift[0]} sources, "
+              f"+{drift[1]} entities, +{drift[2]} concepts")
+else:
+    print("    no 'Coverage as of' line found -- cannot judge how stale it is")
 ```
 
 ## What the numbers mean
