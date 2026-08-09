@@ -62,8 +62,5 @@ wiki/raw/conformal-prediction
 templates/latex-paper/
 templates/latex-presentation/
 
-# held back: needs token with 'workflow' scope to push
-.github/workflows/deploy-wiki.yml
-
 # Local session handoff, never published
 /AFTER-REBOOT.md
