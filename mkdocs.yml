@@ -2,6 +2,15 @@ site_name: LLM Wiki
 docs_dir: wiki
 site_dir: site
 
+# raw/ is three git symlinks pointing at local source documents. They resolve
+# on Andreas's machine and nowhere else, so the CI build crashed walking into
+# them. Excluding is right regardless: the targets are source PDFs and must not
+# be published. The .jsonl ledgers are machine state, not pages.
+exclude_docs: |
+  raw/
+  *.jsonl
+  *.canvas
+
 theme:
   name: material
   features:
