@@ -64,3 +64,10 @@ templates/latex-presentation/
 
 # Local session handoff, never published
 /AFTER-REBOOT.md
+# Local research designs, never published (this repo is public)
+/research/
+# Root-level PDFs and the local Obsidian config. Never publish source documents:
+# some are copyrighted and this repo is public. Written on refactor/llm-wiki-phase0-2
+# on 2026-08-07 and lost when that branch was abandoned rather than merged.
+/*.pdf
+/.obsidian/
