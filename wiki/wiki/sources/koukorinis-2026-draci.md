@@ -83,7 +83,7 @@ Under geometric β-mixing and standard nuisance convergence, asymptotic rate mat
 | Regime | VS-DR-ACI Coverage | VS-DR-ACI Width | Alternatives |
 |--------|-------------------|-----------------|--------------|
 | Stationary | 90.0% | Narrowest | All valid |
-| Dependence only (ρ=0.95) | 89.9% | 4.9 | All valid but wider |
+| Dependence only (ρ=0.95) | 89.9% | 3.38 | All valid but wider (Split-CF 9.15, DR-ACI 9.45, DML-Wald-PO 10.66) |
 | Dependence + Drift | 89.9% | 4.9 | Split: -29pp, Bootstrap: 46× wider |
 
 **Critical finding**: VS-DR-ACI is the only method maintaining valid coverage AND stable width under combined temporal dependence and distribution drift.

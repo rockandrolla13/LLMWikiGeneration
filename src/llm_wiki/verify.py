@@ -63,11 +63,14 @@ class VerificationReport:
         return "\n".join(lines)
 
 
-def verify_wiki(wiki: Wiki) -> VerificationReport:
+def verify_wiki(wiki: Wiki, record_baseline: bool = True) -> VerificationReport:
     """Run all verification checks on a wiki.
 
     Args:
         wiki: Wiki instance to verify
+        record_baseline: Whether coverage baselines may be written to the
+            manifest. False makes verification read-only, at the cost of
+            leaving the coverage-regression guards unarmed.
 
     Returns:
         VerificationReport with all check results
@@ -79,11 +82,11 @@ def verify_wiki(wiki: Wiki) -> VerificationReport:
     results.append(verify_manifest_exists(wiki))
     results.append(verify_directory_structure(wiki))
     results.append(verify_page_frontmatter(wiki))
-    results.append(verify_revision_hashes(wiki))
+    results.append(verify_revision_hashes(wiki, record_baseline=record_baseline))
     results.append(verify_page_ids(wiki))
     results.append(verify_wikilinks(wiki))
     results.append(verify_manifest_operations(wiki))
-    results.append(verify_numeric_provenance(wiki))
+    results.append(verify_numeric_provenance(wiki, record_baseline=record_baseline))
 
     passed = sum(1 for r in results if r.passed)
     failed = len(results) - passed
@@ -204,16 +207,41 @@ def verify_page_frontmatter(wiki: Wiki) -> VerificationResult:
     )
 
 
-def verify_revision_hashes(wiki: Wiki) -> VerificationResult:
-    """Verify revision_hash matches content hash for all pages."""
+def verify_revision_hashes(
+    wiki: Wiki, record_baseline: bool = True
+) -> VerificationResult:
+    """Verify revision_hash matches content hash for the pages that store one.
+
+    Pages without a `revision_hash` field cannot be compared. That is a gap to
+    backfill rather than a mismatch to fail on, so it does not fail the check --
+    but it is stated in the message, because the alternative is what this check
+    used to do. Every page in this wiki lacks the field, every page was skipped,
+    and it reported "All revision hashes match content" while comparing nothing.
+    Editing a page body by hand did not disturb it.
+
+    What does fail is a real mismatch, or a fall in how many pages carry a hash
+    with nothing in the manifest to explain it. Coverage that only ever grows is
+    the property worth guarding: hashes should not evaporate.
+
+    Args:
+        wiki: Wiki instance to verify
+        record_baseline: Whether coverage may be written to the manifest.
+            False makes this read-only, at the cost of not arming the guard.
+    """
+    from .coverage import check_regression
+
     issues = []
+    total = 0
+    hashed = 0
 
     for page_path in wiki.list_pages():
+        total += 1
         try:
             metadata, content = parse_page(page_path)
             if "revision_hash" not in metadata:
-                continue  # Skip if no hash stored
+                continue
 
+            hashed += 1
             stored_hash = metadata["revision_hash"]
             computed_hash = compute_content_hash(content)
 
@@ -225,18 +253,47 @@ def verify_revision_hashes(wiki: Wiki) -> VerificationResult:
         except Exception as e:
             issues.append(f"{page_path.name}: error - {e}")
 
-    if issues:
+    regression = check_regression(
+        wiki,
+        "revision_hashes",
+        covered=hashed,
+        subject="revision-hash coverage",
+        record=record_baseline,
+    )
+
+    if issues or regression:
+        problems = []
+        if issues:
+            problems.append(
+                f"{len(issues)} {'page' if len(issues) == 1 else 'pages'} "
+                f"{'has' if len(issues) == 1 else 'have'} hash mismatches"
+            )
+        if regression:
+            problems.append(regression)
         return VerificationResult(
             name="Revision Hashes",
             passed=False,
-            message=f"{len(issues)} pages have hash mismatches",
+            message="; ".join(problems),
             details=issues[:10],
+        )
+
+    if hashed == 0:
+        return VerificationResult(
+            name="Revision Hashes",
+            passed=True,
+            message=(
+                f"0 of {total} pages carry a revision_hash, so this check "
+                f"verifies nothing until they do"
+            ),
         )
 
     return VerificationResult(
         name="Revision Hashes",
         passed=True,
-        message="All revision hashes match content",
+        message=(
+            f"{hashed} of {total} pages carry a revision_hash and all match "
+            f"their content"
+        ),
     )
 
 
@@ -368,7 +425,9 @@ def verify_manifest_operations(wiki: Wiki) -> VerificationResult:
     )
 
 
-def verify_numeric_provenance(wiki: Wiki) -> VerificationResult:
+def verify_numeric_provenance(
+    wiki: Wiki, record_baseline: bool = True
+) -> VerificationResult:
     """Verify that figures on source pages appear in the documents they cite.
 
     A summary page is easy to write and hard to check, and the failure that
@@ -376,38 +435,80 @@ def verify_numeric_provenance(wiki: Wiki) -> VerificationResult:
     decimal figure on each source page against the text of the document that
     page records as its origin.
 
-    Pages with no recorded source, or whose source is a PDF rather than
-    converted text, are counted as unverifiable rather than passing quietly --
-    an unchecked page should not look the same as a checked one.
+    Pages that could not be checked are reported by reason rather than as one
+    lump, because the reasons mean different things. A page recording no source
+    never had an origin written down; a page whose recorded source is not on
+    disk makes a claim about its origin that cannot be located. The second is
+    worth investigating and is not, on this corpus, evidence that the document
+    once existed.
+
+    The check also fails when fewer pages are checkable than the last recorded
+    baseline and nothing in the manifest accounts for the loss. Without that,
+    losing access to the source documents makes this check quieter instead of
+    louder -- which is exactly how a broken symlink dropped 153 pages out of the
+    checked set while the report still read "all pass".
+
+    Args:
+        wiki: Wiki instance to verify
+        record_baseline: Whether coverage may be written back to the manifest.
+            False makes this read-only, at the cost of not arming the guard.
     """
-    from .provenance import check_wiki_provenance
+    from .coverage import check_regression
+    from .provenance import Unverifiable, check_wiki_provenance, summarize_coverage
 
     results = check_wiki_provenance(wiki)
     verifiable = [r for r in results if r.verifiable]
     failing = [r for r in verifiable if r.unsupported]
-    unverifiable = len(results) - len(verifiable)
-    checked = sum(r.checked for r in verifiable)
+    coverage = summarize_coverage(results)
+    regression = check_regression(
+        wiki,
+        "numeric_provenance",
+        covered=coverage.verified_pages,
+        detail={"verified_figures": coverage.verified_figures},
+        subject="verified provenance coverage",
+        detail_unit=("verified_figures", "figures"),
+        record=record_baseline,
+    )
 
-    if failing:
-        details = [
-            f"{r.page_id}: {', '.join(r.unsupported)} not found in {Path(r.source_path).name}"
-            for r in failing
-        ]
+    unchecked = (
+        f"{coverage.source_missing} record a source not found on disk, "
+        f"{coverage.no_source} record no source at all, "
+        f"{coverage.not_text} cite a PDF"
+    )
+    traced = (
+        f"{coverage.verified_figures} figures across {coverage.verified_pages} "
+        f"pages trace to their source"
+    )
+
+    if failing or regression:
+        problems = []
+        details = []
+        if failing:
+            problems.append(
+                f"{sum(len(r.unsupported) for r in failing)} figures on "
+                f"{len(failing)} pages do not appear in their source document"
+            )
+            details.extend(
+                f"{r.page_id}: {', '.join(r.unsupported)} not found in "
+                f"{Path(r.source_path).name}"
+                for r in failing[:10]
+            )
+        if regression:
+            problems.append(regression)
+            details.extend(
+                f"{r.page_id}: {r.note}"
+                for r in results
+                if r.reason is Unverifiable.SOURCE_MISSING
+            )
         return VerificationResult(
             name="Numeric Provenance",
             passed=False,
-            message=(
-                f"{sum(len(r.unsupported) for r in failing)} figures on "
-                f"{len(failing)} pages do not appear in their source document"
-            ),
-            details=details[:10],
+            message="; ".join(problems),
+            details=details[:20],
         )
 
     return VerificationResult(
         name="Numeric Provenance",
         passed=True,
-        message=(
-            f"{checked} figures across {len(verifiable)} pages all trace to their "
-            f"source ({unverifiable} pages unverifiable: no text source recorded)"
-        ),
+        message=f"{traced} ({len(results) - len(verifiable)} unverifiable: {unchecked})",
     )

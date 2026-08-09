@@ -9,12 +9,23 @@ other numbers are real.
 
 import pytest
 
+from llm_wiki import Wiki, wiki_init
+from llm_wiki.frontmatter import write_page
+from llm_wiki.manifest import (
+    ManifestEntry,
+    OperationInputs,
+    OperationStatus,
+    OperationType,
+)
 from llm_wiki.provenance import (
     ProvenanceResult,
+    Unverifiable,
     check_page_provenance,
+    extract_body_source_path,
     extract_numeric_claims,
     normalize_document,
     resolve_source_path,
+    summarize_coverage,
 )
 
 
@@ -144,3 +155,239 @@ class TestResultSemantics:
 
     def test_clean_is_passed(self):
         assert ProvenanceResult("p", "d.md", checked=3).passed
+
+
+class TestBodySourcePath:
+    """Most pages in this corpus state their origin in prose, not frontmatter."""
+
+    def test_reads_the_bold_backticked_form(self):
+        body = "## Provenance\n\n**Markdown source:** `markdown_output/a-2025-b.md`\n"
+        assert extract_body_source_path(body) == "markdown_output/a-2025-b.md"
+
+    def test_tolerates_formatting_variation(self):
+        for line in [
+            "Markdown source: markdown_output/d.md",
+            "**Markdown source**: `markdown_output/d.md`",
+            "   **Markdown source:**   `markdown_output/d.md`   ",
+            "**markdown SOURCE:** markdown_output/d.md",
+        ]:
+            assert extract_body_source_path(line) == "markdown_output/d.md", line
+
+    def test_keeps_spaces_inside_a_backticked_path(self):
+        body = "**Markdown source:** `markdown_output/A pairs trade.md`"
+        assert extract_body_source_path(body) == "markdown_output/A pairs trade.md"
+
+    def test_ignores_prose_that_merely_mentions_a_source(self):
+        assert extract_body_source_path("The markdown source was lost.") is None
+        assert extract_body_source_path("Converted from a PDF.") is None
+
+    def test_returns_none_when_absent(self):
+        assert extract_body_source_path("# A page\n\nNo provenance here.\n") is None
+
+
+class TestBodySourceFallback:
+    """The fallback must find pages the frontmatter-only check could not see."""
+
+    def test_body_line_makes_a_page_verifiable(self, tmp_path, paper):
+        r = check_page_provenance(
+            tmp_path,
+            "sources/x",
+            {},
+            f"Returns of 0.62%.\n\n**Markdown source:** `{paper}`\n",
+        )
+        assert r.passed
+        assert r.checked == 1
+
+    def test_body_line_catches_an_invented_figure(self, tmp_path, paper):
+        r = check_page_provenance(
+            tmp_path,
+            "sources/x",
+            {},
+            f"Returns of 0.99%.\n\n**Markdown source:** `{paper}`\n",
+        )
+        assert not r.passed
+        assert r.unsupported == ["0.99"]
+
+    def test_frontmatter_wins_over_the_body_line(self, tmp_path, paper):
+        """Frontmatter is the declared field; prose is only the fallback."""
+        r = check_page_provenance(
+            tmp_path,
+            "sources/x",
+            {"source_path": str(paper)},
+            "Returns of 0.62%.\n\n**Markdown source:** `nowhere/absent.md`\n",
+        )
+        assert r.passed
+        assert r.source_path == str(paper)
+
+    def test_body_path_resolves_relative_to_the_wiki_root(self, tmp_path):
+        (tmp_path / "markdown_output").mkdir()
+        (tmp_path / "markdown_output" / "d.md").write_text(
+            "A Sharpe of 1.42.", encoding="utf-8"
+        )
+        r = check_page_provenance(
+            tmp_path,
+            "sources/x",
+            {},
+            "Sharpe 1.42.\n\n**Markdown source:** `markdown_output/d.md`\n",
+        )
+        assert r.passed
+
+
+class TestUnverifiableReasons:
+    """Three states, not one bucket. Only one of them is actionable."""
+
+    def test_no_source_anywhere(self, tmp_path):
+        r = check_page_provenance(tmp_path, "sources/x", {}, "A claim of 9.99.")
+        assert r.reason is Unverifiable.NO_SOURCE
+        assert not r.verifiable
+
+    def test_source_recorded_but_file_missing(self, tmp_path):
+        """The actionable state: the page names a document, disk does not have it."""
+        r = check_page_provenance(
+            tmp_path,
+            "sources/x",
+            {},
+            "A claim of 9.99.\n\n**Markdown source:** `markdown_output/gone.md`\n",
+        )
+        assert r.reason is Unverifiable.SOURCE_MISSING
+        assert r.source_path == "markdown_output/gone.md"
+        assert not r.verifiable
+
+    def test_frontmatter_source_missing_uses_the_same_reason(self, tmp_path):
+        r = check_page_provenance(
+            tmp_path, "sources/x", {"source_path": "nowhere/absent.md"}, "0.62"
+        )
+        assert r.reason is Unverifiable.SOURCE_MISSING
+
+    def test_pdf_source_is_its_own_reason(self, tmp_path):
+        pdf = tmp_path / "paper.pdf"
+        pdf.write_bytes(b"%PDF-1.4 binary junk")
+        r = check_page_provenance(
+            tmp_path, "sources/x", {"source_path": str(pdf)}, "A figure of 0.62."
+        )
+        assert r.reason is Unverifiable.NOT_TEXT
+
+    def test_verified_page_has_no_reason(self, tmp_path, paper):
+        r = check_page_provenance(
+            tmp_path, "sources/x", {"source_path": str(paper)}, "Returns 0.62%."
+        )
+        assert r.reason is None
+
+
+class TestSummarizeCoverage:
+    def test_counts_each_state_separately(self):
+        coverage = summarize_coverage([
+            ProvenanceResult("a", "d.md", checked=3),
+            ProvenanceResult("b", "e.md", checked=1),
+            ProvenanceResult("c", "gone.md", note="x", reason=Unverifiable.SOURCE_MISSING),
+            ProvenanceResult("d", None, note="x", reason=Unverifiable.NO_SOURCE),
+            ProvenanceResult("e", "p.pdf", note="x", reason=Unverifiable.NOT_TEXT),
+        ])
+        assert coverage.verified_pages == 2
+        assert coverage.verified_figures == 4
+        assert coverage.source_missing == 1
+        assert coverage.no_source == 1
+        assert coverage.not_text == 1
+
+    def test_a_page_with_unsupported_figures_still_counts_as_covered(self):
+        """Coverage measures what was read, not what passed."""
+        coverage = summarize_coverage(
+            [ProvenanceResult("a", "d.md", checked=3, unsupported=["9.99"])]
+        )
+        assert coverage.verified_pages == 1
+
+
+# --- End-to-end through the verification report ---------------------------
+
+
+def make_wiki(tmp_path):
+    root = tmp_path / "vault"
+    wiki_init(root, name="Coverage Wiki")
+    return Wiki(root)
+
+
+def add_source_page(wiki, slug: str, figure: str, doc_name: str) -> None:
+    """Write a source page whose figure lives in `markdown_output/<doc_name>`."""
+    docs = wiki.root / "markdown_output"
+    docs.mkdir(exist_ok=True)
+    (docs / doc_name).write_text(f"The value is {figure}.\n", encoding="utf-8")
+    write_page(
+        wiki.wiki_dir / "sources" / f"{slug}.md",
+        {
+            "title": slug,
+            "page_id": f"sources/{slug}",
+            "page_type": "source",
+            "revision_id": 1,
+        },
+        f"A figure of {figure}.\n\n**Markdown source:** `markdown_output/{doc_name}`\n",
+    )
+
+
+def append_op(wiki, op_type: OperationType) -> None:
+    entry = ManifestEntry.create(op_type, inputs=OperationInputs())
+    entry.status = OperationStatus.COMPLETED
+    wiki.manifest.append(entry)
+
+
+class TestVerifyNumericProvenanceCheck:
+    """End-to-end through the VerificationResult the report shows."""
+
+    def test_message_separates_the_three_states(self, tmp_path):
+        from llm_wiki.verify import verify_numeric_provenance
+
+        wiki = make_wiki(tmp_path)
+        add_source_page(wiki, "good", "0.62", "good.md")
+        write_page(
+            wiki.wiki_dir / "sources" / "orphan.md",
+            {
+                "title": "orphan",
+                "page_id": "sources/orphan",
+                "page_type": "source",
+                "revision_id": 1,
+            },
+            "A figure of 1.23.\n\n**Markdown source:** `markdown_output/gone.md`\n",
+        )
+        write_page(
+            wiki.wiki_dir / "sources" / "silent.md",
+            {
+                "title": "silent",
+                "page_id": "sources/silent",
+                "page_type": "source",
+                "revision_id": 1,
+            },
+            "A figure of 4.56 with no provenance line at all.\n",
+        )
+
+        result = verify_numeric_provenance(wiki, record_baseline=False)
+
+        assert result.passed
+        assert "1 record a source not found on disk" in result.message
+        assert "1 record no source at all" in result.message
+
+    def test_a_silent_coverage_drop_fails_the_check(self, tmp_path):
+        from llm_wiki.verify import verify_numeric_provenance
+
+        wiki = make_wiki(tmp_path)
+        add_source_page(wiki, "a", "0.62", "a.md")
+        add_source_page(wiki, "b", "3.14", "b.md")
+
+        assert verify_numeric_provenance(wiki).passed
+
+        (wiki.root / "markdown_output" / "b.md").unlink()
+        result = verify_numeric_provenance(wiki)
+
+        assert not result.passed
+        assert "1 page" in result.message
+
+    def test_an_ingest_lets_coverage_fall_without_failing(self, tmp_path):
+        from llm_wiki.verify import verify_numeric_provenance
+
+        wiki = make_wiki(tmp_path)
+        add_source_page(wiki, "a", "0.62", "a.md")
+        add_source_page(wiki, "b", "3.14", "b.md")
+        assert verify_numeric_provenance(wiki).passed
+
+        (wiki.wiki_dir / "sources" / "b.md").unlink()
+        append_op(wiki, OperationType.DELETE)
+
+        assert verify_numeric_provenance(wiki).passed

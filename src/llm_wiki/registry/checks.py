@@ -161,48 +161,22 @@ class PageFrontmatterCheck:
 
 
 class RevisionHashesCheck:
-    """Verify revision_hash matches content hash for all pages."""
+    """Verify revision_hash matches content hash for the pages that store one.
+
+    This delegates rather than reimplementing. The copy that used to live here
+    carried the same bug as the original -- it skipped every page without a
+    `revision_hash`, which was all of them, and reported success -- and fixing
+    one copy while the other stayed wrong is how that happens twice.
+    """
 
     @property
     def name(self) -> str:
         return "Revision Hashes"
 
     def execute(self, wiki: "Wiki") -> "VerificationResult":
-        from ..verify import VerificationResult
-        from ..frontmatter import parse_page, compute_content_hash
+        from ..verify import verify_revision_hashes
 
-        issues = []
-
-        for page_path in wiki.list_pages():
-            try:
-                metadata, content = parse_page(page_path)
-                if "revision_hash" not in metadata:
-                    continue  # Skip if no hash stored
-
-                stored_hash = metadata["revision_hash"]
-                computed_hash = compute_content_hash(content)
-
-                if stored_hash != computed_hash:
-                    issues.append(
-                        f"{page_path.name}: hash mismatch "
-                        f"(stored={stored_hash[:20]}..., computed={computed_hash[:20]}...)"
-                    )
-            except Exception as e:
-                issues.append(f"{page_path.name}: error - {e}")
-
-        if issues:
-            return VerificationResult(
-                name=self.name,
-                passed=False,
-                message=f"{len(issues)} pages have hash mismatches",
-                details=issues[:10],
-            )
-
-        return VerificationResult(
-            name=self.name,
-            passed=True,
-            message="All revision hashes match content",
-        )
+        return verify_revision_hashes(wiki)
 
 
 class PageIdsCheck:

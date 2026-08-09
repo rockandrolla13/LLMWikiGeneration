@@ -37,6 +37,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass, field
+from enum import Enum
 from pathlib import Path
 
 # Decimals only. Integers ("2019", "3 factors", "Section 4") match too much
@@ -63,6 +64,42 @@ TEXT_SUFFIXES = {".md", ".markdown", ".txt", ".rst"}
 _CODE_FENCE = re.compile(r"```.*?```", re.DOTALL)
 _INLINE_CODE = re.compile(r"`[^`]*`")
 
+# Most source pages in this corpus never got a `source_path` frontmatter field.
+# They state their origin in prose instead, on a line of the form
+#
+#     **Markdown source:** `markdown_output/anthropic-2025-agents.md`
+#
+# Reading only the frontmatter field made 35 such pages look like pages that
+# recorded no origin at all, which is the difference between "nothing to check"
+# and "the document this cites is gone". Bold markers, the colon's position and
+# the backticks all vary, so none of them are required. The label itself is,
+# because "source" alone appears in ordinary prose on nearly every page.
+_BODY_SOURCE = re.compile(
+    r"^[ \t]*\*{0,2}[ \t]*markdown[ _-]?source[ \t]*:?[ \t]*\*{0,2}[ \t]*:?[ \t]*"
+    r"(?:`([^`\n]+)`|(\S+))[ \t]*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+
+class Unverifiable(Enum):
+    """Why a page could not be checked. The states differ in what they imply.
+
+    Collapsing them into one "unverifiable" count hid the distinction that
+    matters: a page naming a document that is not on disk looks exactly like a
+    page naming nothing at all. The first says a claimed origin cannot be
+    located, which is worth investigating; the second says no origin was ever
+    written down. Neither promises the document can be recovered -- the pages in
+    this corpus that carry a body source line appear never to have had one
+    written -- so SOURCE_MISSING is deliberately named for what was observed
+    rather than for a remedy.
+    """
+
+    NO_SOURCE = "no_source"           # nothing recorded anywhere
+    SOURCE_MISSING = "source_missing"  # recorded, but the file is not on disk
+    NOT_TEXT = "not_text"             # recorded, but it is a PDF
+    UNREADABLE = "unreadable"         # recorded and present, but it will not open
+    PAGE_UNREADABLE = "page_unreadable"  # the wiki page itself will not parse
+
 
 @dataclass
 class ProvenanceResult:
@@ -73,6 +110,7 @@ class ProvenanceResult:
     checked: int = 0
     unsupported: list[str] = field(default_factory=list)
     note: str | None = None
+    reason: Unverifiable | None = None
 
     @property
     def verifiable(self) -> bool:
@@ -134,6 +172,21 @@ def resolve_source_path(wiki_root: Path, source_path: str) -> Path | None:
     return None
 
 
+def extract_body_source_path(body: str) -> str | None:
+    """Read the origin a page states in prose rather than in its frontmatter.
+
+    Args:
+        body: Markdown body of a wiki page
+
+    Returns:
+        The path the page names, or None if it names none
+    """
+    match = _BODY_SOURCE.search(body)
+    if not match:
+        return None
+    return (match.group(1) or match.group(2)).strip()
+
+
 def check_page_provenance(
     wiki_root: Path,
     page_id: str,
@@ -142,6 +195,11 @@ def check_page_provenance(
 ) -> ProvenanceResult:
     """Check one page's figures against the document it came from.
 
+    The origin is taken from the `source_path` frontmatter field when present,
+    and from the page's own "Markdown source" line otherwise. Frontmatter wins:
+    it is the declared field, and the prose line is a fallback for the many
+    pages that never got one.
+
     Args:
         wiki_root: The wiki directory
         page_id: Page identifier, for reporting
@@ -149,16 +207,25 @@ def check_page_provenance(
         body: Page markdown body
 
     Returns:
-        ProvenanceResult; `note` is set when the page could not be checked
+        ProvenanceResult; `note` and `reason` are set when the page could not
+        be checked
     """
-    source_path = metadata.get("source_path")
+    source_path = metadata.get("source_path") or extract_body_source_path(body)
     if not source_path:
-        return ProvenanceResult(page_id, None, note="no source_path recorded")
+        return ProvenanceResult(
+            page_id,
+            None,
+            note="no source_path in frontmatter and no markdown-source line in body",
+            reason=Unverifiable.NO_SOURCE,
+        )
 
     resolved = resolve_source_path(wiki_root, str(source_path))
     if resolved is None:
         return ProvenanceResult(
-            page_id, str(source_path), note=f"source document not found: {source_path}"
+            page_id,
+            str(source_path),
+            note=f"source document not found: {source_path}",
+            reason=Unverifiable.SOURCE_MISSING,
         )
 
     if resolved.suffix.lower() not in TEXT_SUFFIXES:
@@ -167,12 +234,18 @@ def check_page_provenance(
             page_id,
             str(source_path),
             note=f"source is {resolved.suffix or 'binary'}, not text; convert it first",
+            reason=Unverifiable.NOT_TEXT,
         )
 
     try:
         document = normalize_document(resolved.read_text(encoding="utf-8", errors="ignore"))
     except OSError as e:
-        return ProvenanceResult(page_id, str(source_path), note=f"unreadable: {e}")
+        return ProvenanceResult(
+            page_id,
+            str(source_path),
+            note=f"unreadable: {e}",
+            reason=Unverifiable.UNREADABLE,
+        )
 
     claims = extract_numeric_claims(body)
     unsupported = sorted(c for c in claims if c not in document)
@@ -197,9 +270,58 @@ def check_wiki_provenance(wiki) -> list[ProvenanceResult]:
             metadata, body = parse_page(path)
         except Exception as e:
             results.append(
-                ProvenanceResult(path.stem, None, note=f"page unreadable: {e}")
+                ProvenanceResult(
+                    path.stem,
+                    None,
+                    note=f"page unreadable: {e}",
+                    reason=Unverifiable.PAGE_UNREADABLE,
+                )
             )
             continue
         page_id = metadata.get("page_id") or path.stem
         results.append(check_page_provenance(wiki.root, page_id, metadata, body))
     return results
+
+
+# --- Coverage ------------------------------------------------------------
+#
+# The numeric check cannot fail on a page it never reads, so losing access to
+# the source documents makes it quieter rather than louder. These counts are
+# what the shared guard in `coverage.py` watches over time.
+
+
+@dataclass
+class Coverage:
+    """How many source pages the numeric check could actually read."""
+
+    verified_pages: int = 0
+    verified_figures: int = 0
+    source_missing: int = 0
+    no_source: int = 0
+    not_text: int = 0
+
+
+def summarize_coverage(results: list[ProvenanceResult]) -> Coverage:
+    """Reduce per-page results to the counts worth watching over time.
+
+    Coverage measures what the check could read, not what passed: a page with
+    an invented figure is still a page the check examined.
+
+    Args:
+        results: One ProvenanceResult per source page
+
+    Returns:
+        Coverage counts
+    """
+    coverage = Coverage()
+    for r in results:
+        if r.verifiable:
+            coverage.verified_pages += 1
+            coverage.verified_figures += r.checked
+        elif r.reason is Unverifiable.SOURCE_MISSING:
+            coverage.source_missing += 1
+        elif r.reason is Unverifiable.NOT_TEXT:
+            coverage.not_text += 1
+        else:
+            coverage.no_source += 1
+    return coverage

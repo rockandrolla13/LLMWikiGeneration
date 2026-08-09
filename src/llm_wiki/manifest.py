@@ -209,6 +209,13 @@ class ManifestEntry:
                 deleted_pages=outputs.get("deleted_pages", []),
                 page_revisions=outputs.get("page_revisions", {}),
                 derived_invalidated=outputs.get("derived_invalidated", []),
+                # to_dict() flattens `extra` into the object, so anything the
+                # named fields do not claim has to come back through `extra` or
+                # it is lost on the next read. Entries written by rebuild and by
+                # the provenance coverage baseline live entirely in these keys.
+                extra={
+                    k: v for k, v in outputs.items() if k not in _NAMED_OUTPUT_KEYS
+                },
             ),
             status=_coerce_enum(OperationStatus, d.get("status"), OperationStatus.COMPLETED),
             error_message=d.get("error_message"),
@@ -259,6 +266,19 @@ class ManifestEntry:
             outputs=outputs,
             status=OperationStatus(d.get("status", OperationStatus.COMPLETED.value)),
         )
+
+
+# Output keys that OperationOutputs has a field for; everything else on disk is
+# preserved in `extra`.
+_NAMED_OUTPUT_KEYS = frozenset(
+    {
+        "created_pages",
+        "updated_pages",
+        "deleted_pages",
+        "page_revisions",
+        "derived_invalidated",
+    }
+)
 
 
 # Maps the legacy `operation` field onto the current OperationType enum.
