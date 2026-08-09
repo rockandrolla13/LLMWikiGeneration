@@ -20,15 +20,14 @@ REPO="/media/ak/10E1026C4FA6006E/GitRepos/LLMWikiGeneration"
 PYTHON="/home/ak/anaconda3/bin/python3"
 LOG="$HOME/wiki-mindmap-drift.log"
 
-# Threshold is set to the count measured on 2026-08-09, after the matcher was
-# corrected to per-node comparison. The job stays silent until MORE sources drift
-# off the map than were already off it. Lower it after a curation session, or the
-# job will not speak again until drift re-accumulates.
+# Threshold, after the 2026-08-09 curation session closed the backlog. Coverage
+# is now 364 of 364 sources; the checker still reports 2 because it cannot align
+# two Morgan Stanley notes whose titles vary between the page and the node, and
+# both do have nodes. So 5 is the first level that means something real.
 #
-# Was 96 under the earlier whole-file surname matcher, which counted a source as
-# covered whenever any node happened to mention one of its authors. That hid
-# roughly a hundred genuinely absent sources.
-THRESHOLD=199
+# History: 199 before that session, and 96 before the matcher was corrected to
+# compare per node rather than against the whole file.
+THRESHOLD=5
 
 # cd matters: source_path values in this vault resolve relative to the repo root,
 # and cron does not inherit a working directory.
