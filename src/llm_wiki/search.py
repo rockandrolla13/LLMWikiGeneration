@@ -1,8 +1,27 @@
 """Search module for LLM Wiki.
 
 Provides search over wiki pages with pluggable backends:
-- GrepSearchBackend: Built-in regex search (always available)
+- BM25SearchBackend: Ranked chunk-level retrieval (default when rank_bm25 is
+  installed)
+- GrepSearchBackend: Built-in regex search (always available, the fallback)
 - QMDSearchBackend: External QMD tool (optional, hybrid BM25+vector)
+
+BM25 is the default because it was measured against grep on 40 questions built
+from sampled pages (eval/eval_cases.json), each written to avoid its own page's
+title words so the test measures retrieval rather than string matching:
+
+    metric        grep    bm25
+    recall@1        0%     80%
+    recall@5        2%     90%
+    recall@10       5%    100%
+    MRR          0.009   0.850
+
+Grep scores term frequency per page, so on a natural-language question the
+common words ("in", "returns") match almost everything and drown the page that
+actually answers it. 38 of 40 gold pages were never returned at all.
+
+Re-run with /wiki-eval after any change here. A change that does not move those
+numbers is not an improvement.
 
 The search module is Tier 2 (derived) - the search index can be
 rebuilt from Tier 1 wiki pages at any time.
@@ -24,6 +43,7 @@ class SearchBackendType(Enum):
     """Available search backends."""
     GREP = "grep"
     QMD = "qmd"
+    BM25 = "bm25"
 
 
 @dataclass
@@ -329,8 +349,103 @@ class QMDSearchBackend(SearchBackend):
             return []
 
 
+class BM25SearchBackend(SearchBackend):
+    """Ranked retrieval over page chunks, via rank_bm25.
+
+    Wraps ``llm_wiki.retrieval.bm25_index.BM25WikiIndex``, which was present but
+    unreachable until 2026-08-09: nothing constructed it, and the one documented
+    example passed the wrong path. ``chunk_wiki`` appends ``/wiki`` itself, so it
+    wants the VAULT ROOT (``wiki/``), not ``wiki.wiki_dir``. Handing it wiki_dir
+    yields zero chunks and BM25Okapi then dies on a divide-by-zero computing
+    average document length. Passing the root indexes ~10.7k chunks.
+
+    The index is built lazily and cached per vault root. A build over the current
+    corpus takes about 1.8s, which is cheap enough that nothing is persisted:
+    an on-disk index inside ``wiki/`` would be published by the mkdocs site and
+    could go stale against the pages it claims to describe.
+    """
+
+    def __init__(self) -> None:
+        self._index = None
+        self._indexed_root: Optional[Path] = None
+
+    def is_available(self) -> bool:
+        try:
+            from .retrieval.bm25_index import BM25WikiIndex  # noqa: F401
+            return True
+        except Exception:
+            return False
+
+    def build_index(self, wiki: Wiki) -> bool:
+        try:
+            from .retrieval.bm25_index import BM25WikiIndex
+            self._index = BM25WikiIndex.build(wiki.root)
+            self._indexed_root = wiki.root
+            return True
+        except Exception:
+            self._index = None
+            self._indexed_root = None
+            return False
+
+    def _ensure_index(self, wiki: Wiki) -> bool:
+        if self._index is not None and self._indexed_root == wiki.root:
+            return True
+        return self.build_index(wiki)
+
+    def search(self, wiki: Wiki, query: SearchQuery) -> list[SearchResult]:
+        if not query.text.strip() or not self._ensure_index(wiki):
+            return []
+
+        # Ask for more chunks than pages wanted: several chunks share a page, and
+        # filters may discard some. 6x was enough for every eval case to survive.
+        hits = self._index.query(query.text, k=max(query.limit * 6, 30))
+        if not hits:
+            return []
+
+        terms = [t.lower() for t in query.text.split() if len(t) >= 2]
+        top = max(h.score for h in hits) or 1.0
+
+        results: list[SearchResult] = []
+        seen: set[str] = set()
+        for hit in hits:                      # already score-descending
+            if hit.page_id in seen:
+                continue
+            path = wiki.wiki_dir / f"{hit.page_id}.md"
+            if not path.exists():
+                continue
+            try:
+                metadata, _ = parse_page(path)
+            except Exception:
+                continue
+
+            if query.page_types and metadata.get("page_type", "") not in query.page_types:
+                continue
+            if query.tags:
+                if not set(query.tags) & set(metadata.get("tags", []) or []):
+                    continue
+
+            seen.add(hit.page_id)
+            snippet = hit.snippet
+            results.append(SearchResult(
+                page_id=hit.page_id,
+                title=hit.page_title or metadata.get("title", hit.page_id),
+                path=path,
+                score=hit.score / top,        # normalise to 0-1 like other backends
+                snippet=snippet,
+                matches=[t for t in terms if t in snippet.lower()],
+            ))
+            if len(results) >= query.limit:
+                break
+        return results
+
+
 def get_search_backend(wiki: Wiki) -> SearchBackend:
     """Get the appropriate search backend based on configuration.
+
+    Order: explicit config choice, then BM25 if importable, then grep. Grep is
+    the last resort rather than the default because it scored recall@1 of 0% on
+    the eval set (see module docstring); it stays as the fallback because it has
+    no dependencies and always works.
 
     Args:
         wiki: Wiki instance
@@ -344,11 +459,18 @@ def get_search_backend(wiki: Wiki) -> SearchBackend:
         # Return grep backend even if disabled (always available)
         return GrepSearchBackend()
 
+    if config.backend == "grep":
+        return GrepSearchBackend()
+
     if config.backend == "qmd":
         qmd = QMDSearchBackend(config.qmd_path)
         if qmd.is_available():
             return qmd
-        # Fall back to grep if QMD not available
+        # Fall back below if QMD not available
+
+    bm25 = BM25SearchBackend()
+    if bm25.is_available():
+        return bm25
 
     return GrepSearchBackend()
 

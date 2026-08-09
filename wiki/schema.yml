@@ -34,7 +34,9 @@ mind_map:
   - 400
 search:
   enabled: true
-  backend: grep
+  # bm25 measured against grep on eval/eval_cases.json (40 questions):
+  # recall@1 80% vs 0%, MRR 0.850 vs 0.009. Set back to grep to disable.
+  backend: bm25
   qmd_path: null
 revision_tracking:
   enabled: true

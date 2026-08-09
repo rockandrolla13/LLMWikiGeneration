@@ -15,6 +15,11 @@ dependencies = [
     "mkdocs>=1.5",
     "mkdocs-material>=9.0",
     "watchdog>=3.0",
+    # Required, not optional: wiki/schema.yml selects the bm25 backend, and
+    # without this the backend reports itself unavailable and search silently
+    # degrades to grep -- which scored recall@1 of 0% on eval/eval_cases.json.
+    # A silent 0% is worse than an import error.
+    "rank-bm25>=0.2.2",
 ]
 
 [project.optional-dependencies]
