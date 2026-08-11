@@ -66,6 +66,9 @@ templates/latex-presentation/
 /AFTER-REBOOT.md
 # Local research designs, never published (this repo is public)
 /research/
+# Second Brain captures: personal notes, tasks and people. The code that runs
+# it is tracked; the contents never are. This repo is public.
+/secondbrain/
 # Root-level PDFs and the local Obsidian config. Never publish source documents:
 # some are copyrighted and this repo is public. Written on refactor/llm-wiki-phase0-2
 # on 2026-08-07 and lost when that branch was abandoned rather than merged.
