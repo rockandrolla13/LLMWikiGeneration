@@ -109,8 +109,8 @@ Second Brain Status
 
 Configuration:
   Node ID: home
-  Database: /Users/lee/.local/share/secondbrain/secondbrain.db
-  Vault: /Users/lee/Obsidian/Vault
+  Database: /home/ak/.local/share/secondbrain/secondbrain.db
+  Vault: /home/ak/Obsidian/Vault
   API Key: Configured
 
 Database:
