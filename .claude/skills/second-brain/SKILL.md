@@ -1,20 +1,21 @@
 ---
 name: second-brain
-description: Personal intelligence system for capturing thoughts, managing knowledge, and surfacing insights. Use when user wants to capture an idea, task, or note during conversation; query their knowledge base; check their inbox; review digests; or update task status. Triggers include "remember this," "add a task," "what did I say about," "show my inbox," or "mark complete."
+description: Capture thoughts, tasks and ideas during a session, then retrieve them later. Use when the user wants to record an idea, task or note; search what they have captured; check their inbox; see a digest; or complete, archive, reprioritise or link an existing item. Triggers include "remember this," "add a task," "what did I say about," "show my inbox," and "mark complete."
 license: MIT
 ---
 
 # Second Brain Skill
 
-Conversational interface to the Second Brain personal knowledge management system. Capture thoughts naturally during Claude Code sessions, query your knowledge graph, and manage your inbox.
+Conversational interface to the Second Brain, a capture system that lives in
+this repository. It is the companion to the wiki: the wiki holds what you have
+read, this holds what you thought while reading it.
 
 ## Core Philosophy
 
 **Capture at the point of thinking, not after.**
 
-This skill enables seamless capture during work sessions without breaking flow:
 - Capture thoughts as they emerge
-- Query past decisions and notes
+- Retrieve past decisions and notes
 - Surface today's priorities
 - Track what needs review
 
@@ -24,29 +25,40 @@ This skill enables seamless capture during work sessions without breaking flow:
 
 ## Before You Start
 
-**Run `sb status` first.** If it fails or `sb` is not on PATH, Second Brain is not installed
-on this machine. Say so and stop. Do not improvise a substitute.
+**Run `sb status` first.** If it reports a missing database, run `sb init`. If
+the `sb` command itself is not found, the package is not installed — from the
+repository root, `pip install -e .`, or run it directly as
+`python -m llm_wiki.secondbrain.cli`.
 
-**Only ever go through the `sb` CLI.** Never write to the SQLite database or the Obsidian
-vault by hand, even when a command you want does not exist. Direct writes create nodes the
-system does not know about and can corrupt the graph. If a capability is missing, say it is
-missing.
+**Only ever go through the `sb` CLI.** Never edit
+`secondbrain/.data/secondbrain.db` or write into `secondbrain/vault/` by hand.
+The database is the source of truth and export overwrites vault files from it,
+so hand edits are silently lost. Every capability described here has a command;
+if you find yourself wanting to write a file directly, you have misread the
+reference.
 
 **Reference files:**
-- `references/cli-reference.md` — the complete `sb` command set. This is the authority on
-  what the CLI can do.
-- `references/node-types.md` — the classification decision tree, node type definitions,
-  priority levels and domain heuristics. Read this before classifying anything by hand.
+- `references/cli-reference.md` — every command, option and exit code. The
+  authority on what the CLI can do.
+- `references/node-types.md` — the classification decision tree, type
+  definitions, priority levels and domain heuristics.
 
 ---
 
-## What Works, and How
+## Where things live
 
-| Capability | How it works |
+| | |
 |---|---|
-| Capture, inbox, process, digest, status, list, show | Direct `sb` commands |
-| Query, transcript processing | Composed from `sb list` / `sb show` / `sb capture`, with the limits noted below |
-| Complete, reopen, set priority, archive, retag | **Not possible.** The CLI has no command that modifies an existing node. |
+| Code | `src/llm_wiki/secondbrain/` |
+| Database | `secondbrain/.data/secondbrain.db` |
+| Vault | `secondbrain/vault/` — plain markdown, open it in Obsidian |
+| Tests | `tests/test_secondbrain_*.py` |
+
+`secondbrain/` is gitignored. This repository is public; captured notes are not.
+
+**Never point the vault at `wiki/`.** That vault is schema-v2, provenance-checked
+and index-rebuilt, and untyped captures among those pages break the integrity
+checks.
 
 ---
 
@@ -54,260 +66,138 @@ missing.
 
 ### 1. Capture
 
-Capture thoughts, tasks, ideas, and references directly from conversation.
-
-**Usage patterns:**
-- "Remember that the API rate limit is 1000 req/min"
-- "Add a task to review the PR from Sarah"
-- "Note: decided to use Supabase for sync"
-- "Capture this idea: what if we..."
-
-**Classification:**
-The system uses AI to classify captures into types:
-- **task**: Actionable item with completion state
-- **idea**: Non-actionable insight worth remembering
-- **reference**: Information for later retrieval
-- **meeting**: Time-bound event with notes
-- **goal**: Outcome you're working toward
-- **project**: Collection of related work
-- **value**: Core principle that guides decisions
-- **person**: Relationship context
-
-See `references/node-types.md` for the full decision tree and the boundaries between types.
-
-**Classification happens in `sb process`, not in `sb capture`.** `sb capture` writes the text
-to the inbox and returns an ID. Nothing is classified until `sb process` runs. This means the
-node type and the confidence score **do not exist at capture time** — do not report them then.
-
-**Confidence threshold:**
-- High confidence (≥0.6): Auto-classified
-- Low confidence (<0.6): Sent to needs_review
-
-To find out how a capture was classified, run `sb process`, then `sb inbox --status needs_review`.
-
----
-
-### 2. Query
-
-Search and explore your knowledge graph.
-
-**Usage patterns:**
-- "What did I say about authentication?"
-- "What projects support the 'shipping velocity' goal?"
-- "Show me tasks related to the SecondBrain project"
-- "Who did I meet with about the budget?"
-
-**There is no `sb query` command.** Queries are composed:
-
 ```bash
-sb list task --limit 50      # or the relevant type
-sb show <id>                 # for anything that looks relevant
+sb capture "Remember that the API rate limit is 1000 req/min"
+sb capture "Idea: order flow imbalance may lead spread moves" --source cli
 ```
 
-Then filter and rank the results yourself, and answer from what you read.
+**Recognise capture intent** in ordinary conversation:
+- Direct: "Remember this...", "Add a task..."
+- Implicit: "I should...", "Don't forget...", "Note to self..."
 
-**What this supports:**
-- **Filter by type**: `sb list idea`
-- **Filter by domain**: `sb list --domain work`
-- **Filter by status**: `sb list --status active`
+**Write the type in when you know it.** A capture beginning `Task:`, `Idea:`,
+`Decision:`, `Meeting:`, `Goal:`, `Project:`, `Person:` or `Value:` classifies at
+0.95 confidence and never needs review. This is the single highest-value thing
+you can do at capture time.
 
-**What this does not support, and you should say so when asked:**
-- **Semantic search.** You are reading a listing and matching by meaning yourself. A node
-  whose title does not surface in the listing will be missed.
-- **Graph traversal.** There is no command that follows `supports`, `blocks` or `contains`
-  edges. Questions like "what projects support this goal?" cannot be answered reliably —
-  answer from what the listings show and say the edges were not traversed.
+**Confirm with the id, and nothing else.** `sb capture` does not classify. The
+node type and the confidence score **do not exist yet**, so do not report them.
+Say what was captured, give the short id, and mention that `sb process` will
+file it.
 
-This composition is workable while the graph is small. It degrades as the graph grows past
-what a listing can hold.
-
----
-
-### 3. Inbox
-
-Review and triage pending captures.
-
-**Usage patterns:**
-- "Show my inbox"
-- "What's waiting for review?"
-- "How many pending captures?"
+### 2. Process
 
 ```bash
-sb inbox                        # pending captures
-sb inbox --status needs_review  # low-confidence items
+sb process              # classify everything pending
+sb process --dry-run    # report without writing
+```
+
+Classification is rule-based and deterministic — no API call, no cost. Rows
+marked `?` scored below 0.6 and are flagged `needs_review`; the node is still
+created, because losing the thought is worse than filing it imperfectly.
+
+Resolve a flagged item with `sb retype <id> <type>`, which also clears the
+review flag.
+
+### 3. Retrieve
+
+```bash
+sb list task --status active
+sb list --domain work --limit 50
+sb show abc12345
+sb query "authentication"
+```
+
+**`sb query` is a substring match, not semantic search.** It matches characters,
+so a note that means the same thing in different words will be missed. When you
+answer from it, say that — do not present it as an exhaustive search. For a
+broader sweep, `sb list` a type and read the titles yourself.
+
+Relationships are real: `sb show` prints a node's outgoing links, and
+`sb link <src> <dst> <relation>` creates them.
+
+### 4. Inbox
+
+```bash
+sb inbox                        # pending
+sb inbox --status needs_review  # low confidence, awaiting a decision
 sb status                       # counts only
 ```
 
-**Inbox states:**
-- **pending**: Awaiting AI classification
-- **needs_review**: Low confidence, needs human decision
-- **processing**: Currently being classified
-
-Triage means reporting what is there. Resolving a `needs_review` item requires changing a
-node, which the CLI cannot do — see §5.
-
----
-
-### 4. Digest
-
-Get actionable summaries of what matters.
-
-**Usage patterns:**
-- "What should I focus on today?"
-- "Show me today's digest"
-- "What's overdue?"
+### 5. Digest
 
 ```bash
-sb digest
+sb digest             # today, under 150 words
+sb digest --weekly    # seven days, under 250 words
 ```
 
-**Digest includes:**
-- Due tasks (today and overdue)
-- High priority items
-- Today's meetings
-- Items needing review
-- Recent insights
+### 6. Actions
 
-**Constraints:**
-- Daily digest: <150 words
-- Weekly review: <250 words
-
-**There is no weekly review command.** `sb digest` produces the daily digest only. A weekly
-summary has to be composed from `sb list` output, under the same word limit.
-
----
-
-### 5. Actions
-
-**Not available.** The `sb` CLI has no command that modifies a node once it exists. There is
-no way to mark a task complete, reopen it, change its priority, change its status, or add a
-domain tag.
-
-When the user asks for one of these:
-- "Mark the PR review task done"
-- "Complete task abc123"
-- "Archive the old project"
-- "Set priority to high for..."
-
-Say the CLI cannot do it yet. Do not edit the database or the vault to fake it. If it helps,
-offer to capture a note recording the intent, and be clear that this creates a new node rather
-than changing the existing one.
-
----
-
-## Workflow Integration
-
-### During Work Sessions
-
-When user mentions something capture-worthy during natural conversation:
-
-1. **Recognize capture intent:**
-   - Direct: "Remember this...", "Add a task..."
-   - Implicit: "I should...", "Don't forget...", "Note to self..."
-
-2. **Capture with context:**
-   - Include relevant context from current conversation
-   - Tag with source: `--source cli` (Claude Code session)
-   - Put any relationships in the captured text itself; there is no flag for edges
-
-3. **Confirm capture:**
-   - Brief confirmation with the returned ID
-   - Do not state a node type or a confidence score — neither exists until `sb process` runs
-
-### Quick Actions
+All available. Each writes an audit row and refreshes the node's vault file.
 
 ```bash
-sb capture "thought or idea"   # Capture immediately
-sb inbox                       # Show pending items
-sb process                     # Classify what is pending
-sb digest                      # Today's actionable summary
-sb list task                   # List nodes of a type
-sb show <id>                   # Full detail on one node
-sb status                      # System health check
+sb done <ref>                  # completed
+sb reopen <ref>                # back to active
+sb archive <ref>               # out of listings, still in the graph
+sb priority <ref> <0-4>        # 0 critical, 2 default, 4 backlog
+sb domain <ref> work|personal|both
+sb retype <ref> <node-type>    # correct the classifier
+sb link <src> <dst> <relation>
 ```
 
-There is no `sb query` and no `sb done`.
+`<ref>` is a full id, a unique id prefix, or an exact title. An ambiguous prefix
+is an error rather than a guess — add characters, do not pick one.
 
 ---
 
 ## Meeting Transcript Processing
 
-**Use case:** Paste meeting transcripts to automatically extract and capture structured content.
+There is no transcript command. Compose it: extract the items, capture each one
+with an explicit type prefix, classify, then link them to the meeting.
 
-There is no transcript command. This is composed: you do the extraction, then one
-`sb capture` per extracted item, then `sb process`.
+1. **Extract** — meeting summary, action items, decisions, people, follow-ups,
+   insights.
 
-### Workflow
-
-1. **User pastes transcript:**
-   ```
-   "Here's the transcript from today's standup:
-   [transcript content]"
-   ```
-
-2. **Extract the items yourself** — meeting summary, action items, decisions, people,
-   follow-ups, insights.
-
-3. **Capture each one**, writing the type and context into the text so classification has
-   something to work with:
+2. **Capture each one with its type written in**, so nothing lands in review:
 
    ```bash
-   sb capture "Meeting: Daily Standup - Jan 15. [summary]" --source cli
-   sb capture "Task: Review PR #1234. From standup Jan 15. High priority." --source cli
-   sb capture "Decision: using Postgres instead of MongoDB. From standup Jan 15." --source cli
+   sb capture "Meeting: Daily Standup 2026-01-15. [summary]"
+   sb capture "Task: review PR #1234. From standup 2026-01-15. High priority."
+   sb capture "Decision: using Postgres instead of MongoDB."
+   sb capture "Person: Sarah Chen - VP Engineering"
    ```
 
-4. **Classify:** run `sb process`, then `sb inbox --status needs_review` to see what did not
-   land confidently.
+3. **Classify:** `sb process`
 
-5. **Report what was captured**, with IDs.
+4. **Link them to the meeting** so the graph is navigable:
 
-**What this loses, and you should say so.** Captures are independent. You cannot create the
-edges linking tasks to the meeting, assign a task to a person, or set a due date — the CLI has
-no flags for any of that. Everything is encoded in text and inferred by the classifier.
-Assignments and dates survive only as words in the note.
+   ```bash
+   sb link <task-id> <meeting-id> mentioned_in
+   sb link <task-id> <person-id> assigned_to
+   ```
+
+5. **Report** what was captured, with ids, and flag anything in `needs_review`.
+
+**What this loses.** Due dates are only picked up in recognised formats — ISO,
+"March 15", "15 March", "today", "tomorrow". Anything vaguer ("end of next
+sprint") survives as words in the note, not as a due date. Say so rather than
+implying a date was set.
 
 ### Extraction Patterns
 
-**Action items (→ TASK):**
-- "TODO: ...", "Action: ...", "Need to..."
-- "Sarah will...", "I'll...", "We should..."
-- "@mentions with action verbs"
+**Action items (→ TASK):** "TODO:", "Action:", "Need to...", "Sarah will...",
+"I'll...", "We should..."
 
-**Decisions (→ REFERENCE):**
-- "Decided: ...", "Agreed: ..."
-- "We're going with...", "The plan is..."
-- "Final decision: ..."
+**Decisions (→ REFERENCE):** "Decided:", "Agreed:", "We're going with...",
+"Final decision:"
 
-**Follow-ups (→ MEETING):**
-- "Let's meet again...", "Schedule a follow-up..."
-- "Next week we'll discuss..."
-- Explicit dates/times mentioned
+**Follow-ups (→ MEETING):** "Let's meet again...", "Schedule a follow-up...",
+explicit dates and times
 
-**People (→ PERSON links):**
-- Names mentioned in context
-- @mentions
-- "talked to...", "asked..."
+**People (→ PERSON):** names in context, @mentions, "talked to...", "asked..."
 
-**Insights (→ IDEA):**
-- Observations about patterns
-- Hypotheses mentioned
-- "I noticed...", "Interesting that..."
-
-### Configuration
-
-A `~/.config/secondbrain/daemons.yml` with `transcript_processing` settings has been proposed
-but is not documented in `references/cli-reference.md`. Treat it as unverified — check whether
-it exists before relying on it.
-
-```yaml
-# ~/.config/secondbrain/daemons.yml — UNVERIFIED
-transcript_processing:
-  auto_assign_unassigned: true  # Assign to self
-  default_task_priority: 2
-  flag_low_confidence: true     # Mark uncertain extractions
-  link_to_meeting: true         # Connect all items to meeting node
-```
+**Insights (→ IDEA):** "I noticed...", "Interesting that...", observations about
+patterns, hypotheses
 
 ---
 
@@ -326,8 +216,7 @@ transcript_processing:
 | idea | Non-actionable insight | "What if AI for onboarding?" |
 | reference | Info for retrieval | "API rate limit: 1000/min" |
 
-Full definitions, boundaries and the classification decision tree are in
-`references/node-types.md`.
+Full definitions and the decision tree are in `references/node-types.md`.
 
 ### Edge Types
 
@@ -342,123 +231,57 @@ Full definitions, boundaries and the classification decision tree are in
 | related_to | General relationship | idea → reference |
 | child_of | Subtask/child | task → task |
 
-**Edges exist in the data model but not in the CLI.** No documented command creates, reads or
-follows an edge. Treat the table above as the schema, not as something you can act on.
-
----
-
-## Implementation
-
-### CLI Integration
-
-This skill wraps the `sb` CLI. The full command set, with options and exit codes, is in
-`references/cli-reference.md`.
-
-```bash
-sb init                   # Initialize database and directories
-sb capture "content"      # Capture a thought
-sb inbox                  # List pending captures
-sb process                # Classify pending captures
-sb digest                 # Generate daily digest
-sb list [type]            # List nodes
-sb show <id>              # Show node details
-sb status                 # System health check
-```
-
-That is the whole set. Anything not on this list does not exist.
-
-### Database
-
-- Local SQLite at `~/.local/share/secondbrain/secondbrain.db`
-- Obsidian vault for markdown output
-- Graph model: nodes + typed edges
-
-Read-only concern for this skill. Never write to either directly.
-
-### Configuration
-
-There are two configuration surfaces and the precedence between them is not documented.
-`references/cli-reference.md` lists the environment variables, including `ANTHROPIC_API_KEY`,
-`DATABASE_PATH` and `LOG_LEVEL`, which do not appear in the YAML below.
-
-```yaml
-# ~/.config/secondbrain/config.yml
-node_id: "home"
-vault_path: "/path/to/vault"
-classification:
-  model: "claude-sonnet-4-20250514"
-  confidence_threshold: 0.6
-```
-
-The pinned classification model is a Claude 4 identifier. Newer models exist. Leave it alone
-unless the user asks — the pin may be deliberate.
+Create them with `sb link`, read them with `sb show`.
 
 ---
 
 ## Context Awareness
 
-### Use Session Context
+Context goes into the captured text — there is no separate field for it. When
+capturing during work, fold in what you were doing: the file under discussion,
+the error being debugged, the rationale behind a decision.
 
-When capturing, leverage current conversation context:
-
-- **File being discussed**: Link to related codebase notes
-- **Error being debugged**: Capture as reference with solution
-- **Decision being made**: Note with rationale
-- **Meeting notes mentioned**: Parse for action items
-
-Context goes into the captured text. There is no separate field for it.
-
-### Domain Detection
-
-Infer domain from context:
-- In work project directory → domain: work
-- Personal topics mentioned → domain: personal
-- Both contexts mixed → domain: both
-
-Domain cannot be set on capture. `--domain` is a filter on `sb list`, not a flag on
-`sb capture`. Write the domain signal into the captured text and let classification infer it.
-See the heuristics in `references/node-types.md`.
+Domain is inferred from wording, not set on capture. `--domain` is a filter on
+`sb list`, not a flag on `sb capture`. To fix one, use `sb domain <ref> work`.
+The heuristics are in `references/node-types.md`.
 
 ---
 
 ## Example Interactions
 
-### Capture During Work
+### Capture during work
 
 ```
 User: "The deadline for the API migration is March 15th"
-Assistant: [runs: sb capture "API migration deadline - due March 15th" --source cli]
-Captured (ID: abc12345). Not classified yet — run sb process when you want it filed.
+Assistant: [sb capture "Task: API migration deadline - March 15th"]
+Captured (4acbbce5). Run `sb process` when you want it filed.
 ```
 
-### Query Knowledge
+### Retrieve
 
 ```
 User: "What did we decide about authentication?"
-Assistant: [runs: sb list reference --limit 50, then sb show on the relevant ones]
-Found 3 related items:
-- [reference] "Use JWT with refresh tokens" (Jan 5)
-- [task] "Implement OAuth flow" (in_progress)
-- [meeting] "Auth design review with Sarah" (Jan 3)
+Assistant: [sb query "auth"]
+Three matches:
+- [reference] Use JWT with refresh tokens (1011cf7d)
+- [task] Implement OAuth flow (4acbbce5)
+- [meeting] Auth design review with Sarah (6bcb6eb2)
 
-Read from a listing, not a semantic search — there may be more I did not surface.
+Substring match, so anything phrased differently would not surface.
 ```
 
-### Morning Digest
+### Morning digest
 
 ```
 User: "What should I focus on today?"
-Assistant: [runs: sb digest]
+Assistant: [sb digest]
 
-📋 Today's Focus (Wed, Jan 15):
-- [OVERDUE] Review PR from Sarah (due Jan 14)
-- [HIGH] Prepare API migration plan
-- [DUE TODAY] Call dentist to reschedule
+Focus (2026-08-11):
+- [OVERDUE] Review PR from Sarah (4acbbce5)
+- [DUE TODAY] Call dentist to reschedule (6bcb6eb2)
 
-📅 Meetings:
-- 10:00 1:1 with Mike
-
-⚠️ Needs Review: 2 items in inbox
+Needs review:
+- hmm (e319a652)
 ```
 
 ---
@@ -466,56 +289,32 @@ Assistant: [runs: sb digest]
 ## Anti-Patterns
 
 **Don't:**
-- Capture every single thing mentioned (be selective)
-- Force classification when context is unclear
+- Capture every single thing mentioned — be selective
 - Interrupt flow for minor captures
-- Create duplicate entries for same concept
-- Over-classify simple notes
-- Invent a command that is not in `references/cli-reference.md`
-- Write to the database or the vault directly when a command is missing
 - Report a node type or confidence score at capture time
+- Present `sb query` results as an exhaustive search
+- Invent a command that is not in `references/cli-reference.md`
+- Edit the database or the vault directly
+- Guess which node an ambiguous id prefix meant
 
 **Do:**
-- Capture when user expresses intent or importance
-- Ask for clarification if capture intent is ambiguous
-- Batch confirmations when capturing multiple items
-- Link to existing nodes when relationships are clear
-- Respect user's domain boundaries
-- Say plainly when a capability does not exist
-
----
-
-## Integration Points
-
-None of these have a documented CLI surface. Treat them as intended design, not as things
-this skill can do today.
-
-**With beads issue tracker:**
-- Cross-reference tasks with beads issues
-- Import epic/task relationships
-
-**With Obsidian vault:**
-- Generated markdown syncs via Obsidian Sync
-- Wikilinks enable navigation
-- Daily notes include digest
-
-**With SiliconDoppelgangerActual:**
-- Deep queries via agent conversation
-- Complex graph traversals
-- Multi-step reasoning about priorities
+- Capture when the user signals intent or importance
+- Write the type prefix in at capture time when you know it
+- Batch confirmations when capturing several items
+- Link related nodes once they exist
+- Say plainly when something could not be captured as asked
 
 ---
 
 ## Success Metrics
 
-**Skill succeeds when:**
-- Captures happen naturally without flow interruption
-- User finds past information quickly
-- Daily digests surface actionable items
-- Inbox stays manageable (<10 items needing review)
-- Classification accuracy >85%
+**The skill is working when:**
+- Captures happen without breaking the user's flow
+- Past information is found quickly
+- Digests surface what is actually due
+- Fewer than ten items sit in `needs_review`
 
-**User feels:**
+**The user feels:**
 - Confident nothing important is lost
 - Informed about what matters today
 - In control of their knowledge system
