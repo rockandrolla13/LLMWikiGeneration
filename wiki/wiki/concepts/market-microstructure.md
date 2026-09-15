@@ -1,22 +1,9 @@
 ---
-title: Market Microstructure
+content_hash: sha256:049f22ea4edb5a4ae96adafd3996e0cca48127f48e776e9b6e8813d7852a9f52
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: high
 page_id: concepts/market-microstructure
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
-tags:
-- market-microstructure
-- limit-order-book
-- price-formation
-- liquidity
-- high-frequency
-sources:
-- sources/guillaume-1997-stylized-facts-fx
-- sources/xu-2020-mlofi
-- sources/wang-2018-cross-responses
-- sources/lokin-2024-fill-probabilities
-- sources/fermanian-2017-md2c-corporate-bonds
 related:
 - concepts/limit-order-book
 - concepts/stylized-facts
@@ -24,10 +11,31 @@ related:
 - concepts/market-making
 - concepts/fill-probability
 - concepts/optimal-execution
-mind_map_priority: high
+- concepts/price-impact
+- concepts/cross-impact
+- concepts/order-flow-imbalance
+- concepts/square-root-law
+- concepts/metaorder
+revision_id: 2
 schema_version: 2
+sources:
+- sources/guillaume-1997-stylized-facts-fx
+- sources/xu-2020-mlofi
+- sources/wang-2018-cross-responses
+- sources/lokin-2024-fill-probabilities
+- sources/fermanian-2017-md2c-corporate-bonds
+- sources/cont-2023-cross-impact-ofi
+- sources/maitrier-2026-square-root-impact-framework
+- sources/hu-2025-ofi-csi300-ou
+tags:
+- market-microstructure
+- limit-order-book
+- price-formation
+- liquidity
+- high-frequency
+title: Market Microstructure
+updated: '2026-08-13T00:00:00Z'
 uuid: 32fd6571-1456-5608-972d-aaa16cdfce5e
-content_hash: sha256:259dc716d82cb66d536fb35023a0f9da9357a8fa4fe3a4562774d78029b24a58
 ---
 
 <!-- AUTHORED REGION START -->
@@ -56,6 +64,14 @@ The sources here cover both, and they behave differently.
 
 [[sources/wang-2018-cross-responses|Wang & Guhr (2018)]] decompose cross-responses between stocks (TAQ, 96 liquid NYSE names, 2008). Self-impact decays as a power law; cross-impact is much smaller. Roughly 90% of the cross-response comes from **correlated trade signs**, not from one stock's trades directly impacting another. Stocks co-move because order flow is correlated.
 
+## Impact at Three Scales
+
+Price impact does not have one shape; it has a different one at each scale, and much apparent disagreement in this literature is scale confusion. See [[concepts/price-impact|Price Impact]] for the full table.
+
+Briefly: at the level of book events, [[concepts/order-flow-imbalance|OFI]] against same-interval return is **linear** and explains 84–90% of variation out of sample. At the level of a [[concepts/metaorder|metaorder]], impact is **concave** — the [[concepts/square-root-law|square-root law]] — and decays after execution. These are reconciled by treating the linear aggregate relation as the shadow of many overlapping square-root-impact metaorders.
+
+The Wang & Guhr finding above — that ~90% of cross-response comes from correlated trade signs rather than direct [[concepts/cross-impact|cross-impact]] — is independently corroborated by [[sources/cont-2023-cross-impact-ofi|Cont, Cucuringu & Zhang (2023)]] on different data and by a different route: once a stock's own book is integrated across depth, other stocks' order flow adds essentially nothing to explaining its contemporaneous return.
+
 ## Open Questions
 
 - How far does the deep-book result in [[sources/xu-2020-mlofi|Xu et al. (2020)]] generalise beyond six Nasdaq names?
@@ -65,6 +81,6 @@ The sources here cover both, and they behave differently.
 
 [[concepts/limit-order-book|Limit Order Book]] · [[concepts/stylized-facts|Stylized Facts]] · [[concepts/long-memory|Long Memory]] · [[concepts/market-making|Market Making]] · [[concepts/fill-probability|Fill Probability]] · [[concepts/optimal-execution|Optimal Execution]] · [[entities/martin-gould|Martin Gould]] · [[entities/olivier-gueant|Olivier Guéant]]
 
-**Not yet written:** `concepts/order-flow`, `concepts/price-impact`, `concepts/price-formation`, `concepts/request-for-quotes`, `concepts/cross-correlations`
+**Not yet written:** `concepts/price-formation`, `concepts/request-for-quotes`, `concepts/cross-correlations`
 
 <!-- AUTHORED REGION END -->

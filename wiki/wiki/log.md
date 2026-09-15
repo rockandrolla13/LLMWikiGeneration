@@ -1,3 +1,13 @@
+---
+
+## [ingest_order_flow_imbalance_2026_08_13] Order Flow Imbalance & Price Impact Cluster
+**Date:** 2026-08-13
+**Type:** batch_ingest
+**Sources added (6):** cont-2023-cross-impact-ofi, sitaru-2023-decomposed-ofi, su-2021-generalized-ofi, hu-2025-ofi-csi300-ou, maitrier-2026-square-root-impact-framework, maitrier-2025-artificial-market-generator
+**Concepts created (6):** order-flow-imbalance, price-impact, cross-impact, square-root-law, metaorder, propagator-model
+**Entities created (5):** rama-cont, mihai-cucuringu, chao-zhang, jean-philippe-bouchaud, guillaume-maitrier
+**Concepts deepened (4):** order-imbalance, order-flow, market-microstructure, limit-order-book
+**Note:** Requested as 9 papers; 4 of the 9 were the same Cont/Cucuringu/Zhang work under successive titles (confirmed by its own footnote and by arXiv 2112.13213 v1), so 6 distinct sources were written. PDFs retained under `raw/order-flow-imbalance/`.
 
 ---
 

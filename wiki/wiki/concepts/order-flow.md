@@ -1,10 +1,29 @@
 ---
-title: Order Flow
+content_hash: sha256:96424b6641cc1d2f56869289c5d6c7c884821c6adf1e6817dc8781ac23ee53b1
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: high
 page_id: concepts/order-flow
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
+related:
+- concepts/long-memory
+- concepts/limit-order-book
+- concepts/hurst-exponent
+- concepts/market-microstructure
+- concepts/stylized-facts
+- concepts/order-flow-imbalance
+- concepts/metaorder
+- concepts/square-root-law
+- concepts/propagator-model
+- concepts/price-impact
+revision_id: 2
+schema_version: 2
+sources:
+- sources/gould-2016-long-memory-fx
+- sources/xu-2020-mlofi
+- sources/koukorinis-stylized-facts
+- sources/wang-2018-cross-responses
+- sources/maitrier-2026-square-root-impact-framework
+- sources/maitrier-2025-artificial-market-generator
 tags:
 - order-flow
 - long-memory
@@ -12,21 +31,9 @@ tags:
 - price-formation
 - hurst-exponent
 - market-microstructure
-sources:
-- sources/gould-2016-long-memory-fx
-- sources/xu-2020-mlofi
-- sources/koukorinis-stylized-facts
-- sources/wang-2018-cross-responses
-related:
-- concepts/long-memory
-- concepts/limit-order-book
-- concepts/hurst-exponent
-- concepts/market-microstructure
-- concepts/stylized-facts
-mind_map_priority: high
-schema_version: 2
+title: Order Flow
+updated: '2026-08-13T00:00:00Z'
 uuid: 7eb42b82-0296-55ab-bd0c-d12c2def1750
-content_hash: sha256:8452faa44779e4aeca5b550708e365dbc03c6fbfccd6eb76947b617da37b2cac
 ---
 
 <!-- AUTHORED REGION START -->
@@ -57,6 +64,14 @@ Correlated signs, rather than direct cross-impact, explain co-movement between s
 
 Two standard readings of sign persistence — order splitting by large traders, and herding — are not distinguished by the evidence collected here.
 
+## Where the Long Memory Comes From
+
+The persistence documented above has a proposed cause: **[[concepts/metaorder|metaorder]] splitting**. A large parent order worked over an hour emits same-signed children throughout, so a power-law distribution of parent sizes mechanically produces long-memory signs, with the tail exponents related by $\gamma = \mu - 1$ (Lillo, Mike & Farmer).
+
+That would settle the splitting-versus-herding question this page leaves open — except that [[sources/maitrier-2026-square-root-impact-framework|Maitrier & Bouchaud (2025)]] reopen it. They show that with transient square-root impact, splitting alone gives **sub-diffusive** prices. Recovering diffusion requires the signs of *distinct* metaorders to be long-range correlated too. If that is right, herding in some form is doing part of the work after all.
+
+For the measurement side of order flow, see [[concepts/order-flow-imbalance|Order Flow Imbalance]].
+
 ## Open Questions
 
 - Does H ≈ 0.7 hold across asset classes, or is it specific to liquid FX and equities?
@@ -66,6 +81,6 @@ Two standard readings of sign persistence — order splitting by large traders, 
 
 [[concepts/long-memory|Long Memory]] · [[concepts/hurst-exponent|Hurst Exponent]] · [[concepts/limit-order-book|Limit Order Book]] · [[concepts/market-microstructure|Market Microstructure]] · [[concepts/stylized-facts|Stylized Facts]] · [[entities/martin-gould|Martin Gould]]
 
-**Not yet written:** `concepts/order-imbalance`, `concepts/price-impact`, `concepts/price-formation`
+**Not yet written:** `concepts/price-formation`
 
 <!-- AUTHORED REGION END -->

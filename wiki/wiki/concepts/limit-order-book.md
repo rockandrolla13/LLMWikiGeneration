@@ -1,16 +1,22 @@
 ---
-title: Limit Order Book
+content_hash: sha256:cde054f13e3ce717996843b795b91237d9cc42d11c9c03ba243481f451fd1a79
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/limit-order-book
 page_type: concept
-revision_id: 3
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- market-microstructure
-- trading
-- order-flow
-- price-discovery
-- liquidity
+related:
+- concepts/market-making
+- concepts/optimal-execution
+- concepts/fill-probability
+- concepts/avellaneda-stoikov-model
+- concepts/inventory-risk
+- entities/alvaro-cartea
+- entities/sebastian-jaimungal
+- concepts/order-flow-imbalance
+- concepts/price-impact
+- concepts/cross-impact
+revision_id: 4
+schema_version: 2
 sources:
 - sources/xu-2020-mlofi
 - sources/ellersgaard-2018-hedge-tracking-lob
@@ -21,18 +27,18 @@ sources:
 - sources/cartea-2015-optimal-execution
 - sources/lokin-2024-fill-probabilities
 - sources/cartea-2025-statistical-predictions-trading
-related:
-- concepts/market-making
-- concepts/optimal-execution
-- concepts/fill-probability
-- concepts/avellaneda-stoikov-model
-- concepts/inventory-risk
-- entities/alvaro-cartea
-- entities/sebastian-jaimungal
-mind_map_priority: high
-schema_version: 2
+- sources/cont-2023-cross-impact-ofi
+- sources/sitaru-2023-decomposed-ofi
+- sources/su-2021-generalized-ofi
+tags:
+- market-microstructure
+- trading
+- order-flow
+- price-discovery
+- liquidity
+title: Limit Order Book
+updated: '2026-08-13T00:00:00Z'
 uuid: 59895ea7-0832-5d8e-954f-6ecf3a13fb11
-content_hash: sha256:3fe4706a6ab3fb4c61f338959efc13f764645e0e983c809383bfa4d64dd3fb7c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -158,5 +164,16 @@ The LOB is central to understanding how prices form:
 - [[entities/sebastian-jaimungal|Sebastian Jaimungal]]
 - [[sources/abergel-2017-algorithmic-trading-lob|Abergel (2017) Algorithmic Trading]]
 - [[sources/cartea-2025-statistical-predictions-trading|Cartea et al. (2025) Statistical Predictions of Trading Strategies]] — algorithm-level order-flow prediction in Euronext Amsterdam LOB
+
+
+## Reading the Book for Price Prediction
+
+The book is not only a matching structure; it is the input to the best-performing short-horizon return models. The variable that extracts it is **[[concepts/order-flow-imbalance|order flow imbalance]]** — net signed change in bid and ask queues, counting limit order arrivals and cancellations as well as executions.
+
+Three findings about how deep to read:
+
+- **Depth matters, and not in the obvious way.** [[sources/cont-2023-cross-impact-ofi|Cont, Cucuringu & Zhang (2023)]] show the ten level-OFIs are correlated above 0.75, that one principal component captures 89% of them, and that the best level receives the *smallest* weight in it. Deeper levels are weighted more for high-volume and low-volatility stocks, less for wide-spread ones.
+- **Event type matters for forecasting.** [[sources/sitaru-2023-decomposed-ofi|Sitaru, Calinescu & Cucuringu (2023)]] show that separating adds, cancels and trades roughly triples forecast-implied PnL, driven by the add component. This requires market-by-order data — snapshots will not do.
+- **Snapshot frequency constrains the estimator.** [[sources/su-2021-generalized-ofi|Su et al. (2021)]] show the standard OFI definition assumes the best quote moves at most one tick between observations, which fails on three-second Chinese snapshot data.
 
 <!-- AUTHORED REGION END -->

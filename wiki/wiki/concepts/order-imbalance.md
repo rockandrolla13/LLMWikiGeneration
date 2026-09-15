@@ -1,30 +1,37 @@
 ---
-title: Order Imbalance
+content_hash: sha256:e18ee2251de75459d6aae67e11603b990ec4cff55a0f6c7bd31e295cd4a01b6f
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/order-imbalance
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
-tags:
-- order-imbalance
-- etf-flows
-- order-flow
-- market-microstructure
-- limit-order-book
-sources:
-- sources/petit-2025-data-driven-flow-etf
-- sources/xu-2020-mlofi
-- sources/koukorinis-stylized-facts
 related:
 - concepts/order-flow
 - concepts/etf-flows
 - concepts/flow-decomposition
 - concepts/limit-order-book
 - concepts/market-microstructure
-mind_map_priority: medium
+- concepts/order-flow-imbalance
+- concepts/price-impact
+- concepts/cross-impact
+revision_id: 2
 schema_version: 2
+sources:
+- sources/petit-2025-data-driven-flow-etf
+- sources/xu-2020-mlofi
+- sources/koukorinis-stylized-facts
+- sources/cont-2023-cross-impact-ofi
+- sources/sitaru-2023-decomposed-ofi
+- sources/su-2021-generalized-ofi
+- sources/hu-2025-ofi-csi300-ou
+tags:
+- order-imbalance
+- etf-flows
+- order-flow
+- market-microstructure
+- limit-order-book
+title: Order Imbalance
+updated: '2026-08-13T00:00:00Z'
 uuid: 1540ec85-cc5d-51ef-90b6-490aeee07443
-content_hash: sha256:de026a07e58e033d56f58b9bc48ab5379c63926c6b706c29f4604f8643c7c6e5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -43,6 +50,14 @@ The net difference between buy-initiated and sell-initiated activity over an int
 ## Why It Is Studied
 
 [[sources/koukorinis-stylized-facts|Koukorinis, Peters & Germano (2022)]] list order imbalance among the variables examined when characterising persistence and dependence in high-frequency data — imbalance is one of the series in which long memory is looked for, alongside inter-arrival rates and volumes.
+
+## Order Flow Imbalance as a Measured Quantity
+
+Imbalance in the abstract becomes a specific estimator once you have to compute it. That estimator is **[[concepts/order-flow-imbalance|order flow imbalance]]**, and it now has four competing definitions — by depth, by aggregation, by event type, and by tick-crossing. Each is a different answer to what should count as net flow.
+
+The result that matters most for this page: [[sources/cont-2023-cross-impact-ofi|Cont, Cucuringu & Zhang (2023)]] find the first principal component of multi-level OFI explains 89% of its variance, and the **best level carries the smallest weight in it**. Imbalance at the touch is the least representative slice of book imbalance, not the most.
+
+[[sources/sitaru-2023-decomposed-ofi|Sitaru, Calinescu & Cucuringu (2023)]] split imbalance by the event that caused it and find the forecasting content sits in **order submissions**, not executions — add-OFI is selected by LASSO far more often than trade-OFI at every level and every lag.
 
 ## Open Questions
 
