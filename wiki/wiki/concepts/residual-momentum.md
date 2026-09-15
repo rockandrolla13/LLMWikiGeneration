@@ -8,6 +8,8 @@ related:
 - concepts/spillover-effect
 - concepts/style-premia
 - sources/haesen-2017-momentum-spillover
+- concepts/factor-momentum
+- sources/ehsani-2022-factor-momentum
 revision_id: 2
 tags:
 - momentum
@@ -16,10 +18,10 @@ tags:
 - risk-management
 - corporate-bonds
 title: Residual Momentum
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-15T00:00:00Z'
 schema_version: 2
 uuid: a5b66ad3-9e58-5268-913b-27a594f2d184
-content_hash: sha256:b96282114982590ace0916f3870733701d35e72cd4a1b4349b4d15bd8fd0829f
+content_hash: sha256:990886d7fee1b64654375e215e3cc5d72f8a4c106c0c0ba66ed350e47de0fe7d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -98,6 +100,12 @@ which the authors note is the same order as the 11bp per month in Gebhardt et al
 confirmation. Across the full universe, decile Sharpe ratios fall monotonically
 from 0.59 (winners) to 0.06 (losers), with annual alphas from 1.94% to -2.86%.
 
+## Caveat: Residuals Inherit Omitted-Factor Momentum
+
+[[sources/ehsani-2022-factor-momentum|Ehsani & Linnainmaa (2022)]] show that residual momentum can be profitable even when firm-specific returns are pure noise. If the model used to residualise leaves out autocorrelated factors, the residuals carry those factors' momentum. Removing a factor that is very systematic but not autocorrelated, like the market, makes the residual signal stronger. In US stocks CAPM-residual momentum earns 58 bps a month against 45 bps for raw returns, then falls to 44 bps and 37 bps on three- and five-factor residuals. None of the three is significant once [[concepts/factor-momentum|factor momentum]] is controlled for. They also note residual strategies carry an implicit bet against beta. High residual returns come partly from low estimated betas.
+
+So the choice of residualising model decides what the signal measures. That matters for the bond construction above, where the factor set (term, credit, liquidity) is itself a modelling choice. [[sources/graef-2025-firm-specific-systematic-momentum|Graef, Hoechle & Schmid (2025)]] reach the opposite conclusion on the firm-specific component; see [[contradictions/factor-momentum-transmission|Factor momentum transmission]].
+
 ## Factor Models for Residualization
 
 ### For Equities
@@ -119,6 +127,7 @@ from 0.59 (winners) to 0.06 (losers), with annual alphas from 1.94% to -2.86%.
 ## Sources
 
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
+- [[sources/ehsani-2022-factor-momentum|Ehsani & Linnainmaa (2022)]]
 
 ## Related (credit-macro ingest, 2026-06-09)
 

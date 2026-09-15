@@ -1702,3 +1702,13 @@ Status: completed
 
 Operation ID: op_f05cdeddc096
 Status: completed
+
+
+---
+
+## [2026-09-15] ingest | Factor Momentum and the Momentum Factor (Ehsani & Linnainmaa 2022)
+
+Operation ID: op_ehsani2022fm
+Status: completed
+Created: sources/ehsani-2022-factor-momentum, concepts/factor-momentum, entities/sina-ehsani, entities/juhani-linnainmaa, contradictions/factor-momentum-transmission
+Updated: concepts/cross-sectional-momentum, concepts/residual-momentum, concepts/factor-timing, sources/graef-2025-firm-specific-systematic-momentum

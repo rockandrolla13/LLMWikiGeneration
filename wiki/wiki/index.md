@@ -183,6 +183,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/vanderweele-2015-explanation-causal-inference — Explanation in Causal Inference: Methods for Mediation and Interaction
 - sources/pasche-2025-extreme-conformal — Extreme Conformal Prediction: Reliable Intervals for High-Impact Events
 - sources/houweling-2017-factor-investing — Factor Investing in the Corporate Bond Market
+- sources/ehsani-2022-factor-momentum — Factor Momentum and the Momentum Factor
 - sources/elton-2004-valuation-corporate-bonds — Factors Affecting the Valuation of Corporate Bonds
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids — FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
 - sources/lancaster-2021-fed-up — Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
@@ -623,6 +624,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/eye-tracking-in-code-reading — Eye Tracking in Code Reading
 - concepts/factor-investing — Factor Investing in Corporate Bonds
 - concepts/factor-models — Factor Models
+- concepts/factor-momentum — Factor Momentum
 - concepts/factor-signals-in-credit — Factor Signals in Credit
 - concepts/factor-timing — Factor Timing
 - concepts/fama-french-factors — Fama-French Factors
@@ -1335,6 +1337,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/josef-lakonishok — Josef Lakonishok
 - entities/joshua-angrist — Joshua D. Angrist
 - entities/judea-pearl — Judea Pearl
+- entities/juhani-linnainmaa — Juhani T. Linnainmaa
 - entities/juha-seppala — Juha Seppala
 - entities/julie-josse — Julie Josse
 - entities/jorn-steffen-pischke — Jörn-Steffen Pischke
@@ -1531,6 +1534,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/simon-t-bodilsen — Simon T. Bodilsen
 - entities/simona-boffelli — Simona Boffelli
 - entities/simone-vantini — Simone Vantini
+- entities/sina-ehsani — Sina Ehsani
 - entities/sivan-mahadevan — Sivan Mahadevan
 - entities/snorkel-ai — Snorkel AI
 - entities/sophia-sun — Sophia Sun
@@ -1623,4 +1627,4 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - analyses/testing-unconfoundedness-vs-g-methods-identifiability — Testing Unconfoundedness vs the g-Methods Identifiability Conditions
 
 ## Contradictions
-*(No contradictions yet)*
+- contradictions/factor-momentum-transmission — Does Factor Momentum Cause Stock Momentum?

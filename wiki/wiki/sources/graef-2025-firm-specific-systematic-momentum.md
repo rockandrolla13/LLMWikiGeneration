@@ -6,7 +6,7 @@ source_path: markdown_output/1-s2.0-S1544612325002272-main.md
 source_type: journal-article
 revision_id: 1
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T20:51:36Z'
+updated: '2026-09-15T00:00:00Z'
 authors:
 - Frank Graef
 - Daniel Hoechle
@@ -25,10 +25,13 @@ related:
 - concepts/cross-sectional-momentum
 - concepts/fama-french-factors
 - concepts/factor-timing
+- concepts/factor-momentum
+- sources/ehsani-2022-factor-momentum
+- contradictions/factor-momentum-transmission
 mind_map_priority: medium
 schema_version: 2
 uuid: de94bc89-6df9-56a5-9158-6b9db3cbd344
-content_hash: sha256:49bc1b20397a2dcdcd9ee8b0865ce1d8f8110c3d9ec29fb13460d7c2bc97f7fd
+content_hash: sha256:b9a0ab5634ada29c36988ecc32489aba60d6b0e539d3d033769bef55b873a7b5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -75,6 +78,8 @@ A short, targeted rebuttal, not a general theory. It does not dispute that facto
 
 [[sources/blitz-2011-residual-momentum|Blitz, Huij & Martens (2011)]] is the direct antecedent for the idiosyncratic-momentum signal. [[sources/li-2025-systematic-momentum|Li, Yuan & Zhou (2025)]] reach the opposite conclusion about the systematic component using an intraday, characteristic-regression construction. [[sources/daniel-2016-momentum-crashes|Daniel & Moskowitz (2016)]] is cited for momentum's time-varying risk exposures.
 
-**Not yet written:** `concepts/factor-momentum`, `entities/juhani-linnainmaa`, `entities/markus-schmid`
+The paper under test is now in the wiki: [[sources/ehsani-2022-factor-momentum|Ehsani & Linnainmaa (2022)]], with the disagreement written up at [[contradictions/factor-momentum-transmission|Factor momentum transmission]]. See also [[concepts/factor-momentum|Factor Momentum]] and [[entities/juhani-linnainmaa|Juhani Linnainmaa]].
+
+**Not yet written:** `entities/markus-schmid`
 
 <!-- AUTHORED REGION END -->
