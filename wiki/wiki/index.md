@@ -35,9 +35,11 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/openai-2025-practical-guide-building-agents — A Practical Guide to Building Agents
 - sources/bao-2025-review — A Review and Comparative Analysis of Univariate Conformal Regression Methods
 - sources/shafer-2007-cp-tutorial — A Tutorial on Conformal Prediction
+- sources/xu-2021-bandit-multiple-testing — A unified framework for bandit multiple testing
 - sources/gibbs-2021-aci — Adaptive Conformal Inference Under Distribution Shift
 - sources/zaffran-2022-aci — Adaptive Conformal Predictions for Time Series
 - sources/ms-2020-03-27-add-to-credit — Add to Credit – and How Much Do Markets Lead the Economy?
+- sources/vovk-2021-admissible-merging-pvalues — Admissible ways of merging p-values under arbitrary dependence
 - sources/halls-moore-advanced-algorithmic-trading — Advanced Algorithmic Trading
 - sources/lemaire-2024-aaltd-workshop — Advanced Analytics and Learning on Temporal Data (AALTD 2024)
 - sources/carver-2023-advanced-futures-trading-strategies — Advanced Futures Trading Strategies
@@ -57,6 +59,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/percival-2020-architecture-patterns-python — Architecture Patterns with Python
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor — Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach
 - sources/coppola-2025-asset-class-liquidity-indicators — Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets
+- sources/ignatiadis-2024-asymptotic-compound-evalues — Asymptotic and compound e-values: multiple testing and empirical Bayes
 - sources/peters-2026-asynchronous-cir — Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference
 - sources/attention-paper — Attention Is All You Need
 - sources/babecky-2014-developed-country-crisis-ewi — Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators
@@ -83,8 +86,13 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/bergault-2019-multi-asset-market-making — Closed-form approximations in multi-asset market making
 - sources/hermans-2024-code-reading-in-practice — Code Reading in Practice
 - sources/morgan-2025-coding-with-ai — Coding with AI
+- sources/ming-2026-demi-supermartingales — Combining e-values using demi-supermartingales
+- sources/gasparin-2025-combining-exchangeable-pvalues — Combining exchangeable p-values
 - sources/dickerson-2024-bond-pitfalls — Common Pitfalls in the Evaluation of Corporate Bond Strategies
+- sources/vovk-2019-confidence-discoveries-evalues — Confidence and discoveries with e-values
+- sources/vovk-2026-ci-causal-sequential — Confidence intervals for causal effects in sequential decision making
 - sources/adams-2025-functional — Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics
+- sources/vovk-2026-conformal-e-confounding — Conformal e-prediction in the presence of confounding
 - sources/gibbs-2024-online-aci — Conformal Inference for Online Prediction with Arbitrary Distribution Shifts
 - sources/angelopoulos-2023-conformal-pid — Conformal PID Control for Time Series Prediction
 - sources/tibshirani-2023-cp-lecture-notes — Conformal Prediction (CMU Lecture Notes, Spring 2023)
@@ -141,7 +149,11 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/chernozhukov-2021-distributional-cp — Distributional Conformal Prediction
 - sources/hong-2025-implied-vol-cds-korea — Do Changes in the Implied Volatility of Stock Options Predict Future Changes in CDS Spreads?
 - sources/koukorinis-2026-draci — Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence
+- sources/bendor-2007-dts — DTS (Duration Times Spread) - A New Measure of Spread Exposure in Credit Portfolios
 - sources/triantafyllopoulos-2011-mean-reverting-spreads — Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage
+- sources/wang-2022-e-backtesting — E-backtesting
+- sources/ignatiadis-2023-evalues-unnormalized-weights — E-values as unnormalized weights in multiple testing
+- sources/vovk-2020-evalues-calibration-combination — E-values: calibration, combination, and applications
 - sources/ms-2019-02-28-ecb-preview-tltro-funding — ECB Preview: TLTRO Funding on its Way
 - sources/lukac-2026-economic-analysis-through-mathematics — Economic Analysis Through Mathematics: Tools and Techniques for Decision Making
 - sources/piros-2013-economics-investment-decision-makers-workbook — Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics
@@ -185,6 +197,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/houweling-2017-factor-investing — Factor Investing in the Corporate Bond Market
 - sources/ehsani-2022-factor-momentum — Factor Momentum and the Momentum Factor
 - sources/elton-2004-valuation-corporate-bonds — Factors Affecting the Valuation of Corporate Bonds
+- sources/wang-2021-fdr-control-evalues — False discovery rate control with e-values
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids — FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
 - sources/lancaster-2021-fed-up — Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
 - sources/lokin-2024-fill-probabilities — Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
@@ -237,6 +250,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/openai-2025-how-openai-uses-codex — How OpenAI Uses Codex
 - sources/anthropic-2025-multi-agent-research-system — How We Built Our Multi-Agent Research System
 - sources/cao-2023-implied-vol-bond-returns — Implied Volatility Changes and Corporate Bond Returns
+- sources/blier-wong-2024-improved-thresholds — Improved thresholds for e-values
 - sources/tsai-2020-hierarchical-mortality — Incorporating hierarchical credibility theory into modelling of multi-country mortality rates
 - sources/huber-2026-information-flows-trading-networks — Information Flows in Trading Networks
 - sources/ms-2019-01-11-balance-sheet-normalization — Insight into the Balance Sheet
@@ -270,6 +284,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/chaudhury-2024-math-architectures-deep-learning — Math and Architectures of Deep Learning
 - sources/liquet-2024-mathematical-engineering-deep-learning — Mathematical Engineering of Deep Learning
 - sources/pullirsch-2006-credit-spread-risk — Measuring Credit-Spread Risk on a Single Issuer Basis
+- sources/vovk-2024-merging-sequential-evalues — Merging sequential e-values via martingales
 - sources/hudson-2019-its-healthcare-reporting — Methodology and reporting characteristics of studies using interrupted time series design in healthcare
 - sources/wang-2018-cross-responses — Microscopic Understanding of Cross-Responses Between Stocks
 - sources/gueant-2019-particle-filtering-bonds — Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach
@@ -293,11 +308,16 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/huynh-2021-mogp-longevity — Multi-output Gaussian processes for multi-population longevity modelling
 - sources/golub-2014-multiscale-liquidity — Multi-scale Representation of High Frequency Market Liquidity
 - sources/cotturo-2026-multifactor-timing-deep-learning — Multifactor Timing with Deep Learning
+- sources/chi-2024-multiple-testing-negative-dependence — Multiple testing under negative dependence
 - sources/ziel-2019-multivariate-forecasting-evaluation — Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules
 - sources/ubs-2012-next-gen-credit-curves — Next-Generation Credit Curves
 - sources/farinhas-2024-non-exchangeable-crc — Non-Exchangeable Conformal Risk Control
+- sources/vovk-2024-nonparametric-e-tests-symmetry — Nonparametric e-tests of symmetry
 - sources/krishnan-2007-credit-spread-forecast — On Forecasting the Term Structure of Credit Spreads
+- sources/zhang-2024-powerful-p-e-composite — On the existence of powerful p-values and e-values for composite hypotheses
 - sources/ms-2019-02-13-ecb-periphery-one-size — One Size Doesn't Fit All
+- sources/su-2026-llm-watermark-eprocesses — Online LLM watermark detection via e-processes
+- sources/hore-2026-monotone-density-calibration — Online monotone density estimation and log-optimal calibration
 - sources/cartea-2015-optimal-execution — Optimal execution with limit and market orders
 - sources/ellersgaard-2018-hedge-tracking-lob — Optimal Hedge Tracking Portfolios in a Limit Order Book
 - sources/lucic-2024-option-market-making-vol-arbitrage — Optimal Option Market Making and Volatility Arbitrage
@@ -307,6 +327,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/ms-2015-03-06-bond-market-indicators — Our Bond Market Indicators: A Powerful Systematic Approach
 - sources/zhang-2021-pairs-general-ssm — Pairs Trading with General State Space Models
 - sources/zaffran-phd — Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting
+- sources/xu-2024-post-selection-evalue-ci — Post-selection inference for e-value based confidence intervals
 - sources/gift-2021-practical-mlops — Practical MLOps: Operationalizing Machine Learning Models
 - sources/bali-2022-bond-ml — Predicting Corporate Bond Returns: Merton Meets Machine Learning
 - sources/feng-2025-predicting-bond-returns — Predicting Individual Corporate Bond Returns
@@ -340,6 +361,8 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/carver-2015-systematic-trading — Systematic Trading: A unique new method for designing trading and investing systems
 - sources/kumar-2022-liquidity-adjusted-afns — Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model
 - sources/cai-2023-testing-conditional-independence-time-series — Testing Conditional Independence in Causal Inference for Time Series Data
+- sources/fan-2024-testing-mean-variance-eprocesses — Testing the mean and variance by e-processes
+- sources/wang-2023-p-star-values — Testing with p*-values: between p-values, mid p-values, and e-values
 - sources/fermanian-2017-md2c-corporate-bonds — The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms
 - sources/pearl-2018-book-of-why — The Book of Why: The New Science of Cause and Effect
 - sources/dafonseca-2020-cds-equity-volatility-comovement — The Co-Movement of Credit Default Swap Spreads, Equity Returns and Volatility: Evidence from Asia-Pacific Markets
@@ -355,16 +378,20 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/nguyen-2026-gammerman-festschrift — The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman
 - sources/chan-2001-level-persistence-growth-rates — The Level and Persistence of Growth Rates
 - sources/gould-2016-long-memory-fx — The Long Memory of Order Flow in the Foreign Exchange Spot Market
+- sources/wang-2025-admissible-merging-evalues — The only admissible way of merging arbitrary e-values
+- sources/cont-2014-price-impact-order-book-events — The Price Impact of Order Book Events
 - sources/amadori-2014-relative-informational-efficiency — The Relative Informational Efficiency of Stocks, Options and Credit Default Swaps During the Financial Crisis
 - sources/db-2020-04-23-return-of-the-machines — The Return of the Machines (Quantcraft, 23 April 2020)
 - sources/dawson-2020-systems-mental-models — Thinking in Systems and Mental Models: Think Like a Super Thinker
 - sources/meadows-2008-thinking-in-systems — Thinking in Systems: A Primer
 - sources/ms-2020-03-27-fiscal-package-unemployment — Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?
 - sources/tooley-1997-time-tense-causation — Time, Tense, and Causation
+- sources/ignatiadis-2026-compound-adaptive-bh — Tiny but uniform improvements of adaptive BH procedures via compound e-values
 - sources/brigida-2019-trade-intensity-liquidity — Trade Intensity and Liquidity
 - sources/nolte-2011-fx-latent-factor-panel-intensity — Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel Intensity Approach
 - sources/ms-2018-11-05-trading-risk-premia-emfx-virp — Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)
 - sources/ms-2019-01-25-treasury-market-commentary — Treasury Market Commentary, January 25
+- sources/vovk-2024-true-false-discoveries-evalues — True and false discoveries with independent and sequential e-values
 - sources/ms-2008-08-28-gilt-futures-ctd-option — UK Interest Rate Strategist: Gilt Futures: The Return of the Option
 - sources/angelopoulos-2021-raps — Uncertainty Sets for Image Classifiers using Conformal Prediction
 - sources/avramov-2007-changes-corporate-credit-spreads — Understanding Changes in Corporate Credit Spreads
@@ -414,6 +441,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/alpha-correlation-turnover — Alpha Correlation and Turnover
 - concepts/amihud-illiquidity — Amihud Illiquidity
 - concepts/analyst-forecast-optimism-bias — Analyst Forecast Optimism Bias
+- concepts/anytime-valid-inference — Anytime-Valid Inference
 - concepts/approximate-factor-models — Approximate Factor Models
 - concepts/arima-garch-models — ARIMA and GARCH Volatility Models
 - concepts/asian-financial-crisis-1997 — Asian Financial Crisis of 1997
@@ -588,8 +616,11 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/doubly-robust-estimation — Doubly Robust Estimation
 - concepts/dsge-threshold-bvar-counterfactual-analysis — DSGE and Threshold BVAR Counterfactual Analysis
 - concepts/dtaci — DtACI (Dynamically-tuned Adaptive Conformal Inference)
+- concepts/duration-times-spread — Duration Times Spread (DTS)
 - concepts/dynamic-equicorrelation — Dynamic Equicorrelation
 - concepts/dynamic-factor-model — Dynamic Factor Model
+- concepts/e-process — E-process
+- concepts/e-value — E-value
 - concepts/early-warning-indicators — Early Warning Indicators
 - concepts/earnings-growth-persistence — Earnings Growth Persistence
 - concepts/ecb-price-stability-definition — ECB Price Stability Definition
@@ -627,6 +658,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/factor-momentum — Factor Momentum
 - concepts/factor-signals-in-credit — Factor Signals in Credit
 - concepts/factor-timing — Factor Timing
+- concepts/false-discovery-rate — False Discovery Rate
 - concepts/fama-french-factors — Fama-French Factors
 - concepts/fast-mean-reversion — Fast Mean Reversion
 - concepts/feature-engineering — Feature Engineering
@@ -815,6 +847,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/mediation-analysis — Mediation Analysis
 - concepts/mental-model-of-code — Mental Model of Code
 - concepts/mental-models — Mental Models for Decision-Making
+- concepts/p-value-merging — Merging P-values and E-values
 - concepts/merton-model — Merton Structural Model
 - concepts/message-bus — Message Bus
 - concepts/metadata-knowledge-graph — Metadata Knowledge Graph
@@ -845,6 +878,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/multimodal-embeddings — Multimodal Embeddings
 - concepts/multimodal-rag — Multimodal RAG
 - concepts/multimodal-retrieval — Multimodal Retrieval
+- concepts/multiple-testing — Multiple Testing
 - concepts/multitask-learning — Multitask Learning
 - concepts/multivariate-realized-kernel — Multivariate Realized Kernel
 - concepts/nadaraya-watson-estimator — Nadaraya-Watson Estimator
@@ -1036,6 +1070,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/term-structure-risk-premium — Term Structure Risk Premium
 - concepts/test-in-production — Test in Production
 - concepts/test-driven-development — Test-Driven Development
+- concepts/testing-by-betting — Testing by Betting
 - concepts/text-to-cypher — Text-to-Cypher Generation
 - concepts/the-unrule — The UnRule (Cutting Losses)
 - concepts/llm-threat-modeling — Threat Modeling for LLM Applications
@@ -1133,9 +1168,11 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/apache-kafka — Apache Kafka
 - entities/apache-spark — Apache Spark
 - entities/aqr-capital-management — AQR Capital Management
+- entities/arik-ben-dor — Arik Ben Dor
 - entities/arkadiusz-sieron — Arkadiusz Sieroń
 - entities/arnaud-mares — Arnaud Marès
 - entities/aron-becker — Aron Becker
+- entities/arseniy-kukanov — Arseniy Kukanov
 - entities/arthur-saint-guilhem — Arthur Saint Guilhem
 - entities/arturo-geigel — Arturo Geigel
 - entities/ashish-vaswani — Ashish Vaswani
@@ -1225,6 +1262,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/eric-evans — Eric Evans
 - entities/eric-ghysels — Eric Ghysels
 - entities/erica-spear — Erica R. Spear
+- entities/erik-van-leeuwen — Erik van Leeuwen
 - entities/ernest-adams — Ernest Adams
 - entities/european-central-bank — European Central Bank
 - entities/evan-patterson — Evan Patterson
@@ -1297,6 +1335,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/jason-wei — Jason Wei
 - entities/jay-alammar — Jay Alammar
 - entities/jay-forrester — Jay Forrester
+- entities/jay-hyman — Jay Hyman
 - entities/jeen-ng — Jeen Ng
 - entities/jeff-williams — Jeff Williams
 - entities/jemma-hudson — Jemma Hudson
@@ -1364,6 +1403,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/lehman-brothers — Lehman Brothers
 - entities/leon-van-veldhuijzen — Leon van Veldhuijzen
 - entities/leonard-savage — Leonard J. Savage
+- entities/lev-dynkin — Lev Dynkin
 - entities/lightning-ai — Lightning AI
 - entities/lihua-lei — Lihua Lei
 - entities/lindsey-matthews — Lindsey Matthews
@@ -1445,6 +1485,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/nursilah-ahmad — Nursilah Ahmad
 - entities/oreilly-media — O'Reilly Media
 - entities/ofer-mendelevitch — Ofer Mendelevitch
+- entities/olaf-penninga — Olaf Penninga
 - entities/ole-barndorff-nielsen — Ole Barndorff-Nielsen
 - entities/olivier-bizimana — Olivier Bizimana
 - entities/olivier-pasche — Olivier C. Pasche
@@ -1479,6 +1520,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/purva-pruthi — Purva Pruthi
 - entities/pytorch — PyTorch
 - entities/qi-li — Qi Li
+- entities/qiuqi-wang — Qiuqi Wang
 - entities/quang-vuong — Quang Vuong
 - entities/rainer-pullirsch — Rainer Pullirsch
 - entities/rangika-peiris — Rangika Peiris
@@ -1507,12 +1549,14 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/roger-koenker — Roger Koenker
 - entities/rogerio-oliveira — Rogerio Oliveira
 - entities/rose-yu — Rose Yu
+- entities/ruodu-wang — Ruodu Wang
 - entities/ryan-tibshirani — Ryan J. Tibshirani
 - entities/saad-labyad — Saad Labyad
 - entities/sam-elprince — Sam Elprince
 - entities/samuel-n-cohen — Samuel N. Cohen
 - entities/sander-barendse — Sander Barendse
 - entities/sarah-wolfe — Sarah A. Wolfe
+- entities/sasha-stoikov — Sasha Stoikov
 - entities/scikit-learn — scikit-learn
 - entities/sebastian-engelke — Sebastian Engelke
 - entities/sebastian-jaimungal — Sebastian Jaimungal
@@ -1613,6 +1657,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/yu-gui — Yu Gui
 - entities/yuqi-yang — Yuqi Yang
 - entities/yuying-sun — Yuying Sun
+- entities/ziyu-xu — Ziyu Xu
 - entities/zongwu-cai — Zongwu Cai
 - entities/zrinka-lukac — Zrinka Lukač
 - entities/alvaro-cartea — Álvaro Cartea
@@ -1620,6 +1665,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 ## Analyses
 - analyses/credit-universe-topology-and-representation — A Credit Universe as a Dynamic Sheaf: Representation and Topology
 - analyses/ai-engineering-as-a-discipline — AI Engineering as a Discipline
+- analyses/bond-momentum-signal-design-and-testing — Bond Momentum Signal: Findings, Test Plan and Next Steps
 - analyses/conformal-prediction-for-hft-traders — Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction
 - analyses/conformal-tukey-gh-intervals — Conformal Prediction with Tukey g-h Transformation
 - analyses/credit-spread-determinants-causal-reading — Credit-Spread Determinants: An Empirical and Do-Calculus Reading

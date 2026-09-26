@@ -3,11 +3,12 @@ authors:
 - Rama Cont
 - Mihai Cucuringu
 - Chao Zhang
-content_hash: sha256:3ee4eb5a32094f1b2a0f194944d01a9de60ff12bff4d94f26e63f38a8dc5c671
+content_hash: sha256:cf5abe8677580d7f360ca1fa3b23652d41a86dadfa6ab19c9b5ca47341bd81e7
 created: 2026-08-13 00:00:00+00:00
 page_id: sources/cont-2023-cross-impact-ofi
 page_type: source
 related:
+- sources/cont-2014-price-impact-order-book-events
 - concepts/order-flow-imbalance
 - concepts/cross-impact
 - concepts/price-impact
@@ -19,7 +20,7 @@ related:
 - entities/chao-zhang
 - sources/xu-2020-mlofi
 - sources/sitaru-2023-decomposed-ofi
-revision_id: 1
+revision_id: 2
 schema_version: 2
 source_hash: sha256:c00654ab9950984cd916bd38901dd3c820c38f78e475d5411ae897dc9d84596d
 source_path: markdown_output/2112.13213.md
@@ -33,7 +34,7 @@ tags:
 - lasso
 - equity-markets
 title: Cross-Impact of Order Flow Imbalance in Equity Markets
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: 45c61d03-f04a-5acd-be91-dabce2defe66
 year: 2023
 ---
@@ -43,7 +44,7 @@ year: 2023
 
 ## Summary
 
-The paper that settles two questions about [[concepts/order-flow-imbalance|order flow imbalance]] at once. First, it shows how to compress OFI measured across ten levels of the [[concepts/limit-order-book|limit order book]] into a single **integrated OFI**, which explains contemporaneous returns far better than the best-level OFI of Cont, Kukanov & Stoikov (2014). Second, having done that, it shows that [[concepts/cross-impact|cross-impact]] largely evaporates: once a stock's own book is read properly, the order flow of *other* stocks adds nothing to explaining its contemporaneous return. Cross-asset flow does, however, help *forecast* returns a minute ahead — an asymmetry the authors read as a lag between flow forming and other traders noticing it.
+The paper that settles two questions about [[concepts/order-flow-imbalance|order flow imbalance]] at once. First, it shows how to compress OFI measured across ten levels of the [[concepts/limit-order-book|limit order book]] into a single **integrated OFI**, which explains contemporaneous returns far better than the best-level OFI of [[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov (2014)]]. Second, having done that, it shows that [[concepts/cross-impact|cross-impact]] largely evaporates: once a stock's own book is read properly, the order flow of *other* stocks adds nothing to explaining its contemporaneous return. Cross-asset flow does, however, help *forecast* returns a minute ahead — an asymmetry the authors read as a lag between flow forming and other traders noticing it.
 
 ## Data
 
@@ -122,6 +123,7 @@ This paper accumulated four titles. Earlier versions circulated as *"Price Impac
 
 ## Related
 
+- [[sources/cont-2014-price-impact-order-book-events]] — the founding best-level construction, whose depth scaling and linear fit this paper generalises
 - [[sources/xu-2020-mlofi]] — the multi-level OFI vector this paper compresses into a scalar
 - [[sources/sitaru-2023-decomposed-ofi]] — decomposes the same OFI by event type instead, on the same LOBSTER dataset
 - [[sources/su-2021-generalized-ofi]] — an independent generalisation of OFI, on Chinese data

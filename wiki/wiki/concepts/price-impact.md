@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:20d203f3fe5e06bdfcb3cc3098d49e11a701b363295a399e237d3bf8be8fe590
+content_hash: sha256:b93c4cc6c82809e7f373f4b7afd788f61859c27c61d2bf1ee10b3c3e34a6202a
 created: 2026-08-13 00:00:00+00:00
 mind_map_priority: high
 page_id: concepts/price-impact
@@ -12,9 +12,10 @@ related:
 - concepts/cross-impact
 - concepts/optimal-execution
 - concepts/market-microstructure
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
+- sources/cont-2014-price-impact-order-book-events
 - sources/cont-2023-cross-impact-ofi
 - sources/sitaru-2023-decomposed-ofi
 - sources/su-2021-generalized-ofi
@@ -29,7 +30,7 @@ tags:
 - execution-cost
 - limit-order-book
 title: Price Impact
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: 1dbd1f71-72c6-5bc1-8321-f1c674ed3cff
 ---
 
@@ -59,6 +60,8 @@ Price impact means different things at different scales, and the literature is e
 The rows are [[concepts/order-flow-imbalance|order flow imbalance]], the [[concepts/metaorder|metaorder]], and the aggregate tape respectively.
 
 These are not competing claims. [[sources/maitrier-2026-square-root-impact-framework|Maitrier & Bouchaud]] show a locally linear aggregate relation emerging from a superposition of overlapping square-root-impact metaorders, which is what reconciles the top and middle rows.
+
+There is a second square root in this literature that is easy to confuse with the first. [[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov (2014)]] derive a concave relation between price change and *traded volume over a fixed clock interval* from their linear OFI model alone: volume grows with the number of events, OFI grows with its square root, so price change against volume looks like a square root with a slope that is random from one interval to the next. They call it a statistical artefact of aggregation and show volume drops out once $|\text{OFI}|$ is controlled for. That is a claim about interval regressions on public data, not about the impact of a metaorder against its own executed size, which is what the square-root law proper describes.
 
 ## Contemporaneous versus Predictive
 

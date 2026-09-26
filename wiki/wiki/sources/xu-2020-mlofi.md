@@ -4,9 +4,9 @@ page_id: sources/xu-2020-mlofi
 page_type: source
 source_path: markdown_output/S2382626619500114.md
 source_type: journal-article
-revision_id: 1
+revision_id: 2
 created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-25T21:37:03Z'
 authors:
 - Ke Xu
 - Martin D. Gould
@@ -21,6 +21,7 @@ tags:
 - ridge-regression
 - nasdaq
 related:
+- sources/cont-2014-price-impact-order-book-events
 - concepts/limit-order-book
 - concepts/order-flow
 - concepts/price-formation
@@ -30,7 +31,7 @@ related:
 mind_map_priority: high
 schema_version: 2
 uuid: 2658fd5b-92d5-5eaf-930a-9e1439509750
-content_hash: sha256:ae93adcb994c5580e24a7c92d3128303f517c89e22d1b31847f2241ed3bd767e
+content_hash: sha256:a5e0ff201fa4ed20b8a8367275404868ecb91853318004188001da3d1e304a75
 ---
 
 <!-- AUTHORED REGION START -->
@@ -46,7 +47,7 @@ content_hash: sha256:ae93adcb994c5580e24a7c92d3128303f517c89e22d1b31847f2241ed3b
 
 ## Summary
 
-This paper extends the Order-Flow Imbalance (OFI) framework of Cont et al. (2014) by studying Multi-Level Order-Flow Imbalance (MLOFI) - a vector quantity measuring net order flow at multiple price levels in a limit order book. Using high-quality LOBSTER data for six Nasdaq stocks, the authors demonstrate that order-flow activity deep in the LOB significantly influences price formation, contrary to earlier conclusions.
+This paper extends the Order-Flow Imbalance (OFI) framework of [[sources/cont-2014-price-impact-order-book-events|Cont et al. (2014)]] by studying Multi-Level Order-Flow Imbalance (MLOFI) - a vector quantity measuring net order flow at multiple price levels in a limit order book. Using high-quality LOBSTER data for six Nasdaq stocks, the authors demonstrate that order-flow activity deep in the LOB significantly influences price formation, contrary to earlier conclusions.
 
 ## Key Contributions
 
@@ -124,6 +125,7 @@ Where e_n^m captures changes in queue sizes at level m
 ## Comparison with Prior Work
 
 ### Cont et al. (2014)
+- [[sources/cont-2014-price-impact-order-book-events|Source page]]
 - Concluded deep LOB has little influence
 - Used OLS regression only
 - TAQ data (less precise timestamps)

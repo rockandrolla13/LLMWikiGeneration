@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:2643cbc049f23fde0255b3b1de0e05e7e55f36e30c196637f4aba7f3d0c44370
+content_hash: sha256:bb18d90b3ca67b7df2f6f411e658441ce0b927e0f7d36eb87879151591700848
 created: 2026-08-13 00:00:00+00:00
 mind_map_priority: high
 page_id: concepts/order-flow-imbalance
@@ -12,9 +12,10 @@ related:
 - concepts/limit-order-book
 - concepts/market-microstructure
 - concepts/square-root-law
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
+- sources/cont-2014-price-impact-order-book-events
 - sources/cont-2023-cross-impact-ofi
 - sources/sitaru-2023-decomposed-ofi
 - sources/su-2021-generalized-ofi
@@ -28,7 +29,7 @@ tags:
 - order-flow
 - high-frequency
 title: Order Flow Imbalance
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: 8d68029b-1c56-5800-8e37-aeb82dbbff49
 ---
 
@@ -45,7 +46,19 @@ Two things distinguish this from trade imbalance. It counts **limit order arriva
 
 Because limit order depth has a strong intraday pattern, OFI is normally scaled by average depth over the interval.
 
-The construction is due to Cont, Kukanov & Stoikov (2014), who found best-level OFI explains roughly 65% of contemporaneous return variation.
+The construction is due to [[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov (2014)]], who found best-level OFI explains roughly 65% of contemporaneous return variation.
+
+## What the Founding Paper Established
+
+Four results from the 2014 paper are the base the rest of the page builds on.
+
+**Impact is linear.** On 50 randomly chosen S&P 500 stocks over April 2010, ten-second mid-price changes regressed on best-level OFI give an average $R^2$ of 65%. A quadratic term adds three points and is insignificant. The fit rises as the interval lengthens and the finding is unchanged from half a second to ten minutes.
+
+**The slope is inverse to depth.** The price impact coefficient $\beta_i$ in each half-hour window scales as $c / AD_i^{\lambda}$, where $AD_i$ is the average best-quote depth. $\lambda = 1$ cannot be rejected for 35 of the 50 stocks. This is what a stylised book with constant depth predicts, and it turns intraday patterns in impact and volatility into a consequence of the known intraday pattern in depth: impact is about twice its average at the open, where depth is half its average.
+
+**Trades are already inside OFI.** Trade imbalance explains 32% of the same variation, and becomes insignificant once OFI is in the regression.
+
+**The square-root price–volume relation is an aggregation artefact.** If prices follow OFI linearly and events are i.i.d., the central limit theorem makes OFI scale as the square root of event count while volume scales linearly with it, so a noisy square-root dependence of price change on volume emerges with a *random* slope. Volume drops out of the regression once $|\text{OFI}|$ is included.
 
 ## Four Generalisations
 
@@ -67,7 +80,7 @@ Everything since has extended OFI along one of four axes.
 
 ## Relation to Impact Theory
 
-OFI models are locally **linear**: return regressed on imbalance. Metaorder impact is **concave** — the [[concepts/square-root-law|square-root law]]. [[sources/maitrier-2026-square-root-impact-framework|Maitrier & Bouchaud]] argue these are consistent, with the linear aggregate relation emerging from overlapping square-root-impact [[concepts/metaorder|metaorders]], and predict a specific non-monotonic structure in the correlation between returns and volume-weighted imbalance.
+OFI models are locally **linear**: return regressed on imbalance. Metaorder impact is **concave** — the [[concepts/square-root-law|square-root law]]. The founding paper already had a version of this tension, and resolved it in its own terms: a square-root relation between price change and *volume* over fixed intervals follows from linear OFI impact by a scaling argument, with a slope that is a fresh random draw each interval. That is a statement about interval aggregation, not about metaorders, so it does not by itself settle the metaorder question. [[sources/maitrier-2026-square-root-impact-framework|Maitrier & Bouchaud]] argue these are consistent, with the linear aggregate relation emerging from overlapping square-root-impact [[concepts/metaorder|metaorders]], and predict a specific non-monotonic structure in the correlation between returns and volume-weighted imbalance.
 
 ## Practical Caveats
 
@@ -77,7 +90,7 @@ OFI models are locally **linear**: return regressed on imbalance. Metaorder impa
 
 ## Related
 
-- Researchers: [[entities/rama-cont|Rama Cont]] · [[entities/mihai-cucuringu|Mihai Cucuringu]] · [[entities/chao-zhang|Chao Zhang]]
+- Researchers: [[entities/rama-cont|Rama Cont]] · [[entities/arseniy-kukanov|Arseniy Kukanov]] · [[entities/sasha-stoikov|Sasha Stoikov]] · [[entities/mihai-cucuringu|Mihai Cucuringu]] · [[entities/chao-zhang|Chao Zhang]]
 - [[concepts/order-imbalance]] — the broader family of imbalance measures
 - [[concepts/order-flow]] — the underlying stream and its long memory
 - [[concepts/price-impact]], [[concepts/cross-impact]], [[concepts/market-microstructure]]

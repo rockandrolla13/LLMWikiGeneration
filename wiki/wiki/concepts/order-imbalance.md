@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e18ee2251de75459d6aae67e11603b990ec4cff55a0f6c7bd31e295cd4a01b6f
+content_hash: sha256:1fab036795034f78be526e0ece7af82d211025f1419e40af61f0347ae12120ba
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/order-imbalance
@@ -13,9 +13,10 @@ related:
 - concepts/order-flow-imbalance
 - concepts/price-impact
 - concepts/cross-impact
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
+- sources/cont-2014-price-impact-order-book-events
 - sources/petit-2025-data-driven-flow-etf
 - sources/xu-2020-mlofi
 - sources/koukorinis-stylized-facts
@@ -30,7 +31,7 @@ tags:
 - market-microstructure
 - limit-order-book
 title: Order Imbalance
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: 1540ec85-cc5d-51ef-90b6-490aeee07443
 ---
 
@@ -42,6 +43,10 @@ The net difference between buy-initiated and sell-initiated activity over an int
 ## At the Book Level
 
 [[sources/xu-2020-mlofi|Xu, Gould & Howison (2020)]] generalise scalar Order-Flow Imbalance into **Multi-Level OFI**, a vector measuring net flow across several price levels of the [[concepts/limit-order-book|limit order book]], counting limit order arrivals, cancellations and market orders together. Imbalance deep in the book turns out to matter for price formation, not just imbalance at the touch. See [[concepts/order-flow|Order Flow]].
+
+## Trade Imbalance Versus Book Imbalance
+
+The older measure is **trade imbalance**: buyer-initiated volume minus seller-initiated volume over an interval, with trades signed by a quote or tick test. [[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov (2014)]] compare it directly with order flow imbalance on ten-second mid-price changes for 50 US stocks. Trade imbalance alone explains 32% of the variation; OFI explains 65%; in a joint regression the trade-imbalance coefficient loses significance in most subsamples while OFI keeps its full strength. The reading is that trades are one kind of book event among several, and their effect is already counted in the more general measure. The same paper shows that traded volume, and the number of trades, stop explaining the size of price moves once $|\text{OFI}|$ is controlled for.
 
 ## At the ETF Level
 

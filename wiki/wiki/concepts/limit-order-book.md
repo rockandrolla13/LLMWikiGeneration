@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:cde054f13e3ce717996843b795b91237d9cc42d11c9c03ba243481f451fd1a79
+content_hash: sha256:3f06be7d7dacd7cc6d1fe38108bb7e89f35daf49b97a860ab9977bd4634a4653
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: high
 page_id: concepts/limit-order-book
@@ -15,9 +15,10 @@ related:
 - concepts/order-flow-imbalance
 - concepts/price-impact
 - concepts/cross-impact
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
+- sources/cont-2014-price-impact-order-book-events
 - sources/xu-2020-mlofi
 - sources/ellersgaard-2018-hedge-tracking-lob
 - sources/wang-2018-cross-responses
@@ -37,7 +38,7 @@ tags:
 - price-discovery
 - liquidity
 title: Limit Order Book
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: 59895ea7-0832-5d8e-954f-6ecf3a13fb11
 ---
 
@@ -86,7 +87,7 @@ Bid Side (Buys)
 - **Total Depth:** Aggregate volume in entire book
 
 ### Order Flow Imbalance
-- **OFI:** Net order flow at best bid/ask (Cont et al., 2014)
+- **OFI:** Net order flow at best bid/ask ([[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov, 2014]])
 - **MLOFI:** Multi-level extension capturing deep book activity [[sources/xu-2020-mlofi|Xu et al. (2020)]]
 
 ## Price Formation

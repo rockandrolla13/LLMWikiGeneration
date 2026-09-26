@@ -10,16 +10,18 @@ related:
 - concepts/minimum-variance-portfolio
 - concepts/value-at-risk
 - concepts/volatility-targeting
+- concepts/duration-times-spread
 revision_id: 1
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
+- sources/bendor-2007-dts
 tags: []
 title: Volatility-Based Position Sizing
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-15T00:00:00Z'
 updated_by: creditmacro-batch
 schema_version: 2
 uuid: 15ca38b6-681d-5f2c-9754-19911499c53f
-content_hash: sha256:7262046a8078c310b3772f39cb8d467333c6c3285af132494e971ba89e77ee85
+content_hash: sha256:de100e0055ca3e06d09daec44e90a96aeb64a8af5e0f69ccb73c39a1840da6df
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,9 +31,14 @@ content_hash: sha256:7262046a8078c310b3772f39cb8d467333c6c3285af132494e971ba89e7
 
 A position-management methodology sizing each position so its expected risk contribution matches a target volatility, allowing heterogeneous strategies and instruments to be combined consistently.
 
+## Forecasting Volatility for Credit
+
+Sizing needs a volatility forecast. For corporate bonds, [[sources/bendor-2007-dts|Ben Dor et al. (2007)]] show that [[concepts/duration-times-spread|DTS]] times the historical volatility of relative spread changes gives near-unbiased excess-return volatility forecasts (normalised standard deviation 1.01). Forecasts based on absolute spread changes give 1.14 or 0.92, depending on the window. Because the DTS forecast uses the current spread, it adjusts immediately when spreads move.
+
 ## Sources
 
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]
+- [[sources/bendor-2007-dts|DTS (Duration Times Spread) (2007)]]
 
 ## Related Concepts
 

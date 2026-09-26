@@ -5,7 +5,7 @@ page_type: entity
 entity_type: person
 revision_id: 2
 created: 2026-04-10 18:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-16T00:00:00Z'
 tags:
 - researcher
 - conformal-prediction
@@ -29,7 +29,7 @@ related:
 mind_map_priority: high
 schema_version: 2
 uuid: 4ca0b88b-dc14-557f-b5c6-fabc8226c83d
-content_hash: sha256:8040e635f22f0d7b68a7c033854c6636336e6eca56310f71ae30627d69e86065
+content_hash: sha256:48e3973f447c970b36445bedddf1d2e075f5ce5abe907966110fb0a1290b9cd2
 ---
 
 <!-- AUTHORED REGION START -->
@@ -72,6 +72,19 @@ His framework is now widely used in machine learning for applications requiring 
 - [[sources/vovk-2005-algorithmic-learning]] — foundational CP textbook with [[entities/alexander-gammerman|Gammerman]] and [[entities/glenn-shafer|Shafer]].
 - [[sources/shafer-2007-cp-tutorial]] — canonical 58-page CP tutorial with [[entities/glenn-shafer|Shafer]].
 - [[sources/vovk-2012-cross-conformal]] — primary source for [[concepts/cross-conformal-prediction|cross-conformal prediction]].
+
+### E-values
+
+With [[entities/ruodu-wang|Ruodu Wang]], Vovk founded the [[concepts/e-value|e-value]] literature — the second framework in this wiki built on betting rather than tail probabilities.
+
+- [[sources/vovk-2020-evalues-calibration-combination|E-values: calibration, combination, and applications]] (2021) — the founding paper.
+- [[sources/vovk-2019-confidence-discoveries-evalues|Confidence and discoveries with e-values]] (2023) — e-processes and discovery matrices.
+- [[sources/vovk-2021-admissible-merging-pvalues|Admissible ways of merging p-values under arbitrary dependence]] (2022), with Bin Wang.
+- [[sources/vovk-2024-merging-sequential-evalues|Merging sequential e-values via martingales]] (2024) — betting is the only admissible sequential merge.
+- [[sources/vovk-2024-true-false-discoveries-evalues|True and false discoveries with independent and sequential e-values]] (2024).
+- [[sources/vovk-2024-nonparametric-e-tests-symmetry|Nonparametric e-tests of symmetry]] (2024).
+- [[sources/vovk-2026-conformal-e-confounding|Conformal e-prediction in the presence of confounding]] (2026) — joins the e-value work to his own conformal framework.
+- [[sources/vovk-2026-ci-causal-sequential|Confidence intervals for causal effects in sequential decision making]] (2026).
 
 ## See Also
 

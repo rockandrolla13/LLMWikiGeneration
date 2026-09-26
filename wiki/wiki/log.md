@@ -1722,3 +1722,44 @@ Operation ID: op_ehsani2022fm
 Status: completed
 Created: sources/ehsani-2022-factor-momentum, concepts/factor-momentum, entities/sina-ehsani, entities/juhani-linnainmaa, contradictions/factor-momentum-transmission
 Updated: concepts/cross-sectional-momentum, concepts/residual-momentum, concepts/factor-timing, sources/graef-2025-firm-specific-systematic-momentum
+
+
+---
+
+## [2026-09-15] ingest | DTS (Duration Times Spread) (Ben Dor et al. 2007)
+
+Operation ID: op_bendor2007dts
+Status: completed
+Created: sources/bendor-2007-dts, concepts/duration-times-spread, entities/arik-ben-dor, entities/lev-dynkin, entities/jay-hyman, entities/erik-van-leeuwen, entities/olaf-penninga
+Updated: entities/patrick-houweling, entities/lehman-brothers, concepts/credit-spread-changes, concepts/factor-models, concepts/volatility-targeting-position-sizing
+
+
+---
+
+## [2026-09-15] analysis | Bond Momentum Signal: Findings, Test Plan and Next Steps
+
+Operation ID: op_bondmomnote
+Status: completed
+Created: analyses/bond-momentum-signal-design-and-testing
+
+
+---
+
+## [2026-09-16] ingest | Ruodu Wang working paper series (25 papers on e-values)
+
+Operation ID: op_ruoduwang25
+Status: completed
+Created: 35 pages (25 sources, 7 concepts, 3 entities)
+Updated: entities/vladimir-vovk, entities/aaditya-ramdas, entities/johanna-ziegel, concepts/backtesting, concepts/expected-shortfall, concepts/null-hypothesis-significance-testing
+Source: https://sas.uwaterloo.ca/~wang/pages/WPS6.html
+
+
+---
+
+## [2026-09-25] ingest | The Price Impact of Order Book Events (Cont, Kukanov & Stoikov 2014)
+
+Operation ID: op_cont2014ofi
+Status: completed
+Created: sources/cont-2014-price-impact-order-book-events, entities/arseniy-kukanov, entities/sasha-stoikov
+Updated: concepts/order-flow-imbalance, concepts/order-imbalance, concepts/price-impact, concepts/square-root-law, concepts/limit-order-book, entities/rama-cont, sources/cont-2023-cross-impact-ofi, sources/xu-2020-mlofi
+Source: arXiv:1011.6402v3, downloaded to raw/ofi-feature-papers/cont-2014-price-impact-order-book-events.pdf

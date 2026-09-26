@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:24d7845c93df3d789ae69ff4a0c1dab3094d3e2b2019f8fc5b67a1d1b17235c4
+content_hash: sha256:8e8b8b9f50e77fd7863f5942ce3cb1baec2a9e31111e5d9fefee8d94fe1a8572
 created: 2026-08-13 00:00:00+00:00
 mind_map_priority: high
 page_id: concepts/square-root-law
@@ -10,9 +10,10 @@ related:
 - concepts/price-impact
 - concepts/order-flow-imbalance
 - concepts/optimal-execution
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
+- sources/cont-2014-price-impact-order-book-events
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
 tags:
@@ -24,7 +25,7 @@ tags:
 - volatility
 - market-microstructure
 title: Square-Root Law of Market Impact
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-25T21:37:03Z'
 uuid: d361d26d-9c7b-5175-b89c-b34a8d15d24b
 ---
 
@@ -46,6 +47,10 @@ It looks like the random walk statement that price moves grow as $\sqrt{T}$, and
 3. Impact **decays** after execution ends. It is transient, not permanent.
 
 Each of these contradicts the Kyle model, which predicts linear and permanent impact from information revelation.
+
+## Not the Same as the Interval Price–Volume Square Root
+
+[[sources/cont-2014-price-impact-order-book-events|Cont, Kukanov & Stoikov (2014)]] also report a square root, but of a different object. Regressing ten-second price changes on traded volume over the same interval gives a concave fit, and they show this follows from linear impact in [[concepts/order-flow-imbalance|order flow imbalance]] by a central-limit argument: volume scales with the number of book events and OFI with its square root. The slope of that relation is a fresh random draw every interval, and volume loses all explanatory power once $|\text{OFI}|$ is included. The metaorder law is a statement about average impact against a single parent order's executed size, and neither result explains the other.
 
 ## The Reconciliation Problem
 

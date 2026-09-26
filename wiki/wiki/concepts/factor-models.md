@@ -23,6 +23,7 @@ related:
 - concepts/risk-vs-mispricing
 - concepts/style-premia
 - concepts/trend-following
+- concepts/duration-times-spread
 revision_id: 4
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
@@ -35,16 +36,17 @@ sources:
 - sources/ms-2018-04-16-credit-bmi-update
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
+- sources/bendor-2007-dts
 tags:
 - asset-pricing
 - risk-management
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-15T00:00:00Z'
 schema_version: 2
 uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
-content_hash: sha256:886896ad51178288af97d84e9c1b542f6d9c7012e0f8590af7f60b58c9515685
+content_hash: sha256:e8e27d8acf7c0fd556291361f3b22dd4191001c8ecd6a4714c7d9e6a6de52548
 ---
 
 <!-- AUTHORED REGION START -->
@@ -94,6 +96,10 @@ Corporate bond factor models face difficulties:
 - Default risk is jump risk, not continuous
 - Issue-specific effects dominate
 - Limited time series for individual bonds
+
+### Spread Factors: Absolute or Relative
+
+[[sources/bendor-2007-dts|Ben Dor et al. (2007)]] argue credit risk factors should be relative spread changes with [[concepts/duration-times-spread|DTS]] loadings, rather than absolute spread changes with spread-duration loadings. They give two reasons. Relative spread factors are more stable over time. And a single factor per sector can replace the sector-by-quality grid, because spread level already captures quality.
 
 ## See Also
 
