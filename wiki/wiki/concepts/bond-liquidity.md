@@ -1,30 +1,37 @@
 ---
-title: Bond Liquidity
+content_hash: sha256:734f6339fac9478832b387cec548e6ae58a419cf9b9f49e770cf4cf0298afaa0
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/bond-liquidity
 page_type: concept
+related:
+- concepts/credit-spread-puzzle
+- concepts/structural-models
+- concepts/corporate-bond-liquidity-premium
+- concepts/liquidity-risk
 revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+schema_version: 2
+sources:
+- sources/huang-2025-global-credit-spread-puzzle
+- sources/fermanian-2017-md2c-corporate-bonds
+- sources/dickerson-2024-bond-pitfalls
+- sources/kumar-2022-liquidity-adjusted-afns
+- sources/coz-2024-when-cross-impact-relevant
+- sources/dobrev-2025-order-flow-imbalances-amplification-price-movements
+- sources/dsouza-2003-empirical-analysis-liquidity-order-flow-brokered
+- sources/ginebri-2008-order-dynamics-italian-treasury-security-wholesale
+- sources/luo-2011-profitable-opportunities-around-macroeconomic-announcements-u
+- sources/scalia-1998-information-transmission-causality-italian-treasury-bond-market
+- sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
 tags:
 - liquidity
 - corporate-bonds
 - otc-markets
 - credit-spreads
 - market-microstructure
-sources:
-- sources/huang-2025-global-credit-spread-puzzle
-- sources/fermanian-2017-md2c-corporate-bonds
-- sources/dickerson-2024-bond-pitfalls
-- sources/kumar-2022-liquidity-adjusted-afns
-related:
-- concepts/credit-spread-puzzle
-- concepts/structural-models
-- concepts/corporate-bond-liquidity-premium
-- concepts/liquidity-risk
-mind_map_priority: medium
-schema_version: 2
+title: Bond Liquidity
+updated: '2026-09-27T01:47:00Z'
 uuid: 98af7bca-952d-5087-b72a-c1d874f057a6
-content_hash: sha256:734f6339fac9478832b387cec548e6ae58a419cf9b9f49e770cf4cf0298afaa0
 ---
 
 <!-- AUTHORED REGION START -->

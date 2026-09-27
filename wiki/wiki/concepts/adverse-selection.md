@@ -1,27 +1,54 @@
 ---
-title: Adverse Selection
+content_hash: sha256:4da0187e9d2cf0a791f8b25a3421bc602f44e472cd3fe217e2e1e442553b69fc
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/adverse-selection
 page_type: concept
-revision_id: 1
-created: 2026-04-26 03:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- market-making
-- information-asymmetry
-- trading
-- market-microstructure
-sources:
-- sources/barzykin-2025-adverse-selection
-- sources/barzykin-2021-fx-dealer-tiers
 related:
 - concepts/market-making
 - concepts/inventory-risk
 - concepts/client-tiering
 - concepts/limit-order-book
 - entities/olivier-gueant
+revision_id: 1
 schema_version: 2
+sources:
+- sources/barzykin-2025-adverse-selection
+- sources/barzykin-2021-fx-dealer-tiers
+- sources/andersen-2013-assessing-measures-order-flow-toxicity-early
+- sources/bambade-2019-new-way-compute-probability-informed-trading
+- sources/bieganowski-2026-explainable-patterns-cryptocurrency-microstructure
+- sources/bongaerts-2025-cross-sectional-identification-private-information
+- sources/bozzetto-2026-fee-structure-order-flow-informativeness-cryptocurrency
+- sources/bugaenko-2020-empirical-study-market-impact-conditional-order
+- sources/calcada-2016-microstructural-changes-befor-macroeconomic-announcements-predictability
+- sources/cartea-2018-enhancing-trading-strategies-order-book-signals
+- sources/dixon-2017-sequence-classification-limit-order-book-recurrent
+- sources/feigin-2015-assessing-informed-trading-measures-against-material
+- sources/ferreruela-2025-informed-trading-investor-beliefs-consensus-volatility
+- sources/hanke-2015-order-flow-imbalance-effects-german-stock
+- sources/he-2016-volume-synchronised-probability-informed-trading-chinese
+- sources/hiremath-2026-early-detection-latent-microstructure-regimes-limit
+- sources/jiang-2015-volume-synchronized-probability-informed-trading-vpin
+- sources/kang-2019-flow-toxicity-highfrequency-trading-its-impact
+- sources/lipton-2013-trade-arrival-dynamics-quote-imbalance-limit
+- sources/luo-2011-profitable-opportunities-around-macroeconomic-announcements-u
+- sources/mertens-2021-liquidity-fluctuations-latent-dynamics-price-impact
+- sources/miranda-2019-order-flow-dynamics-prediction-order-cancelation
+- sources/rubisov-2015-statistical-arbitrage-limit-order-book-imbalance
+- sources/siqueira-2023-analise-dos-algoritmos-tick-rule-e
+- sources/siqueira-2023-analysis-tick-rule-bulk-volume-classification
+- sources/song-2014-parameter-analysis-vpin-volume-synchronized-probability
+- sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus
+- sources/xu-2026-when-quotes-crumble-detecting-transient-mechanical
+- sources/zhai-2026-public-trader-identity-adverse-selection-return
+tags:
+- market-making
+- information-asymmetry
+- trading
+- market-microstructure
+title: Adverse Selection
+updated: '2026-09-27T01:47:00Z'
 uuid: d728f155-d525-5123-8578-ca0abf6bbeec
-content_hash: sha256:4da0187e9d2cf0a791f8b25a3421bc602f44e472cd3fe217e2e1e442553b69fc
 ---
 
 <!-- AUTHORED REGION START -->

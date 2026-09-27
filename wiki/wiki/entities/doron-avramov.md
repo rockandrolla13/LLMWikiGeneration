@@ -1,5 +1,6 @@
 ---
 aliases: []
+content_hash: sha256:01348c645d56923007849c3cad26a8aaed9928e9082e69b608205095690068c7
 created: '2026-06-09T12:00:00Z'
 entity_type: person
 external_ids: {}
@@ -9,15 +10,15 @@ page_id: entities/doron-avramov
 page_type: entity
 related: []
 revision_id: 1
+schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 tags: []
 title: Doron Avramov
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-27T01:47:00Z'
 updated_by: creditmacro-batch
-schema_version: 2
 uuid: 1980b759-fd97-5b3a-a296-3fcbbf95fff8
-content_hash: sha256:01348c645d56923007849c3cad26a8aaed9928e9082e69b608205095690068c7
 ---
 
 <!-- AUTHORED REGION START -->

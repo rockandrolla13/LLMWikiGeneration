@@ -1,29 +1,32 @@
 ---
-title: Flow Decomposition
+content_hash: sha256:d4dea4756f8d602e728f824959a7628456293dac9b8d3e127f83769257a42355
+created: 2026-05-06 23:35:00+00:00
+mind_map_priority: high
 page_id: concepts/flow-decomposition
 page_type: concept
+related:
+- concepts/etf-flows
+- concepts/index-reconstitution
+- concepts/order-imbalance
+- concepts/clustering
 revision_id: 1
-created: 2026-05-06 23:35:00+00:00
-updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+sources:
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/petit-2025-data-driven-flow-etf
+- sources/chao-2019-etf-flows-prices
+- sources/lu-2023-trade-co-occurrence-trade-flow-decomposition
+- sources/michael-2022-option-volume-imbalance-predictor-equity-market
+- sources/zhang-2026-clusterlob-enhancing-trading-strategies-clustering-orders-published
 tags:
 - etf
 - order-flow
 - signal-construction
 - factor-investing
 - market-microstructure
-sources:
-- sources/optiver-2025-corporate-bond-etf-contraflow
-- sources/petit-2025-data-driven-flow-etf
-- sources/chao-2019-etf-flows-prices
-related:
-- concepts/etf-flows
-- concepts/index-reconstitution
-- concepts/order-imbalance
-- concepts/clustering
-mind_map_priority: high
-schema_version: 2
+title: Flow Decomposition
+updated: '2026-09-27T01:47:00Z'
 uuid: d1ee56ba-e677-5c9e-a787-4f8408b30842
-content_hash: sha256:d4dea4756f8d602e728f824959a7628456293dac9b8d3e127f83769257a42355
 ---
 
 <!-- AUTHORED REGION START -->

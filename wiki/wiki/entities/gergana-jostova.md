@@ -1,5 +1,6 @@
 ---
 aliases: []
+content_hash: sha256:60947af0e5784d5aa8a257ee48162aec72a78611ece2765fc3ccd6dc2bac64c9
 created: '2026-06-09T12:00:00Z'
 entity_type: person
 external_ids: {}
@@ -9,15 +10,15 @@ page_id: entities/gergana-jostova
 page_type: entity
 related: []
 revision_id: 1
+schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 tags: []
 title: Gergana Jostova
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-27T01:47:00Z'
 updated_by: creditmacro-batch
-schema_version: 2
 uuid: 41044bbf-4774-5431-8d40-3214ce50a48e
-content_hash: sha256:60947af0e5784d5aa8a257ee48162aec72a78611ece2765fc3ccd6dc2bac64c9
 ---
 
 <!-- AUTHORED REGION START -->

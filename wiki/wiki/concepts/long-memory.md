@@ -1,31 +1,41 @@
 ---
-title: Long Memory
+content_hash: sha256:8b6c58ff41e7e8f31fc6aa72a95e8f760b3bfd6a55631700bf0cc62e93750339
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/long-memory
 page_type: concept
-revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- time-series
-- autocorrelation
-- hurst-exponent
-- fractional-processes
-- stylized-facts
-sources:
-- sources/gould-2016-long-memory-fx
-- sources/koukorinis-stylized-facts
-- sources/stavroyiannis-2017-bitcoin-multifractal
-- sources/guillaume-1997-stylized-facts-fx
 related:
 - concepts/stylized-facts
 - concepts/mfdfa
 - concepts/hurst-exponent
 - concepts/order-flow
 - concepts/volatility-clustering
-mind_map_priority: high
+revision_id: 1
 schema_version: 2
+sources:
+- sources/gould-2016-long-memory-fx
+- sources/koukorinis-stylized-facts
+- sources/stavroyiannis-2017-bitcoin-multifractal
+- sources/guillaume-1997-stylized-facts-fx
+- sources/aldrich-2014-random-walk-high-frequency-trading
+- sources/angstmann-2026-event-time-order-flow-memory-operational
+- sources/angstmann-2026-revisiting-trade-sign-long-memory-square
+- sources/gencay-2004-information-flow-between-volatilities-across-time-scales
+- sources/gillemot-2006-there-s-more-volatility-than-volume
+- sources/gontis-2023-discrete-q-exponential-limit-order-cancellation
+- sources/karyampas-2011-probability-informed-trading-volatility-etf
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact
+- sources/shternshis-2023-price-predictability-ultra-high-frequency-entropy
+- sources/vlasiuk-2025-push-response-anomalies-high-frequency-s
+tags:
+- time-series
+- autocorrelation
+- hurst-exponent
+- fractional-processes
+- stylized-facts
+title: Long Memory
+updated: '2026-09-27T01:47:00Z'
 uuid: 4e52ab02-6398-57ca-8761-d68eb92746a3
-content_hash: sha256:8b6c58ff41e7e8f31fc6aa72a95e8f760b3bfd6a55631700bf0cc62e93750339
 ---
 
 <!-- AUTHORED REGION START -->

@@ -1,25 +1,28 @@
 ---
-title: Graph Neural Networks
+content_hash: sha256:1f3bf4484c107aba465dd14142693e572030234ead23843abf39aee19c6a07c9
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/graph-neural-networks
 page_type: concept
-revision_id: 1
-created: 2026-04-26 03:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- deep-learning
-- graphs
-- neural-networks
-- machine-learning
-- spectral-methods
 related:
 - concepts/graph-signal-processing
 - concepts/graph-convolutional-networks
 - concepts/spectral-graph-filters
 - concepts/graph-laplacian
 - sources/dong-2020-gsp-for-ml
+revision_id: 1
 schema_version: 2
+sources:
+- sources/chen-2022-multivariate-realized-volatility-forecasting-graph-neural
+- sources/li-2026-research-high-frequency-financial-transaction-behavior
+tags:
+- deep-learning
+- graphs
+- neural-networks
+- machine-learning
+- spectral-methods
+title: Graph Neural Networks
+updated: '2026-09-27T01:47:00Z'
 uuid: 6b899e56-3255-54cd-9027-7da6327cb01f
-content_hash: sha256:1f3bf4484c107aba465dd14142693e572030234ead23843abf39aee19c6a07c9
 ---
 
 <!-- AUTHORED REGION START -->

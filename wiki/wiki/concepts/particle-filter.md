@@ -1,21 +1,22 @@
 ---
-title: Particle Filter
+content_hash: sha256:ba8a56a12ce5ae205c4a6ca547a895095d8df303bf129dc7bb61e037c319f11f
+created: 2026-05-21 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/particle-filter
 page_type: concept
+related: []
 revision_id: 1
-created: 2026-05-21 12:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+sources:
+- sources/chen-2024-jump-clustering-information-flows
+- sources/dahlhaus-2013-online-spot-volatility-estimation-decomposition-nonlinear
 tags:
 - sequential-monte-carlo
 - state-space-models
 - filtering
-sources:
-- sources/chen-2024-jump-clustering-information-flows
-related: []
-mind_map_priority: medium
-schema_version: 2
+title: Particle Filter
+updated: '2026-09-27T01:47:00Z'
 uuid: 21c741f8-b6dc-5abb-8365-a44955ebad2d
-content_hash: sha256:ba8a56a12ce5ae205c4a6ca547a895095d8df303bf129dc7bb61e037c319f11f
 ---
 
 <!-- AUTHORED REGION START -->

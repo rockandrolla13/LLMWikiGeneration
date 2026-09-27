@@ -1,24 +1,26 @@
 ---
-title: Multi-Head Attention
+content_hash: sha256:a3fb4bb011866f6da4341bdc2cb1fdad6c1d577bc97e1726f95116cc9bd074b6
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/multi-head-attention
 page_type: concept
+related:
+- concepts/self-attention
+- concepts/transformers
 revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+schema_version: 2
+sources:
+- sources/raschka-2024-build-llm-from-scratch
+- sources/shabani-2022-multi-head-temporal-attention-augmented-bilinear
+- sources/yang-2025-efficient-deep-learning-model-predict-stock
 tags:
 - ai-engineering
 - self-attention
 - transformers
-sources:
-- sources/raschka-2024-build-llm-from-scratch
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Multi-Head Attention
+updated: '2026-09-27T01:47:00Z'
+updated_by: wiki-batch-ai-engineering-2026-05-17
 uuid: 83f3481a-3acc-56d8-823e-464be89f683f
-content_hash: sha256:a3fb4bb011866f6da4341bdc2cb1fdad6c1d577bc97e1726f95116cc9bd074b6
 ---
 
 <!-- AUTHORED REGION START -->

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:6da10232e2847dd3c9b91c302d372ecb99929505b2738e412a5a37298eb78e3a
 created: 2026-04-26 02:20:00+00:00
 page_id: concepts/bond-momentum
 page_type: concept
@@ -15,16 +16,17 @@ related:
 - sources/haesen-2017-momentum-spillover
 - sources/houweling-2017-factor-investing
 revision_id: 2
+schema_version: 2
+sources:
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 tags:
 - momentum
 - corporate-bonds
 - factor-investing
 - anomalies
 title: Bond Momentum
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 24c7f565-7c35-5502-8f0b-f071d475a18a
-content_hash: sha256:6da10232e2847dd3c9b91c302d372ecb99929505b2738e412a5a37298eb78e3a
 ---
 
 <!-- AUTHORED REGION START -->

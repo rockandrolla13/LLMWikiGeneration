@@ -1,25 +1,27 @@
 ---
-title: Mike Ludkovski
+affiliation: UC Santa Barbara
+content_hash: sha256:262efe50581128860fe59cad60d20c88f6631277b7cfa9ffd90ae7ce1f912edb
+created: 2026-04-25 22:00:00+00:00
+entity_type: person
+mind_map_priority: medium
 page_id: entities/mike-ludkovski
 page_type: entity
-entity_type: person
+related:
+- sources/huynh-2021-mogp-longevity
+- concepts/gaussian-processes
+- concepts/multi-population-mortality
 revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-affiliation: UC Santa Barbara
+schema_version: 2
+sources:
+- sources/bechler-2017-order-flows-limit-order-book-resiliency
 tags:
 - gaussian-processes
 - actuarial-science
 - mortality-modelling
 - machine-learning
-related:
-- sources/huynh-2021-mogp-longevity
-- concepts/gaussian-processes
-- concepts/multi-population-mortality
-mind_map_priority: medium
-schema_version: 2
+title: Mike Ludkovski
+updated: '2026-09-27T01:47:00Z'
 uuid: 0512acb1-4952-5aed-b739-bcd82b6fddf1
-content_hash: sha256:262efe50581128860fe59cad60d20c88f6631277b7cfa9ffd90ae7ce1f912edb
 ---
 
 <!-- AUTHORED REGION START -->

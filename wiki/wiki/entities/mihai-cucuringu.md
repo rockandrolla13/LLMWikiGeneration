@@ -20,6 +20,10 @@ schema_version: 2
 sources:
 - sources/cont-2023-cross-impact-ofi
 - sources/sitaru-2023-decomposed-ofi
+- sources/brutti-2026-noise-robust-orthogonal-clustering-applications-equity-markets
+- sources/lu-2023-trade-co-occurrence-trade-flow-decomposition
+- sources/michael-2022-option-volume-imbalance-predictor-equity-market
+- sources/zhang-2026-clusterlob-enhancing-trading-strategies-clustering-orders-published
 tags:
 - researcher
 - market-microstructure
@@ -28,7 +32,7 @@ tags:
 - quantitative-finance
 - machine-learning
 title: Mihai Cucuringu
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: 1c4d035d-486d-5d3d-a4ef-a383c9a6e13a
 ---
 

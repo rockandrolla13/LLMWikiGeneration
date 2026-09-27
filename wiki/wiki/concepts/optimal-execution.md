@@ -1,27 +1,37 @@
 ---
-title: Optimal Execution
+content_hash: sha256:f89721a8c6ecf3a592af588980d3f6afd8e41a2aebdff5484dabcc92359ae55c
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/optimal-execution
 page_type: concept
-revision_id: 1
-created: 2026-04-26 03:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- algorithmic-trading
-- market-impact
-- stochastic-control
-- transaction-costs
-sources:
-- sources/cartea-2015-optimal-execution
-- sources/lokin-2024-fill-probabilities
 related:
 - concepts/market-making
 - concepts/limit-order-book
 - concepts/inventory-risk
 - entities/alvaro-cartea
 - entities/sebastian-jaimungal
+revision_id: 1
 schema_version: 2
+sources:
+- sources/cartea-2015-optimal-execution
+- sources/lokin-2024-fill-probabilities
+- sources/anantha-2025-event-time-anchor-selection-multi-contract
+- sources/bacidore-2012-cluster-analysis-evaluating-trading-strategies
+- sources/besson-2016-cross-or-not-cross-spread-that
+- sources/ferreira-2020-machine-learning-algorithmic-trading-leading-reinforced
+- sources/lehalle-2019-incorporating-signals-into-optimal-trading
+- sources/lipton-2013-trade-arrival-dynamics-quote-imbalance-limit
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell
+- sources/rubisov-2015-statistical-arbitrage-limit-order-book-imbalance
+- sources/stoikov-2016-reducing-transaction-costs-low-latency-trading
+- sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus
+tags:
+- algorithmic-trading
+- market-impact
+- stochastic-control
+- transaction-costs
+title: Optimal Execution
+updated: '2026-09-27T01:47:00Z'
 uuid: 6305caf8-be81-5252-9dc9-8c625ccf5722
-content_hash: sha256:f89721a8c6ecf3a592af588980d3f6afd8e41a2aebdff5484dabcc92359ae55c
 ---
 
 <!-- AUTHORED REGION START -->

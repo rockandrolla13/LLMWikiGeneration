@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:8db4dbba3b1e0f6c372f30dbed1e6f595a22eb49d4679a5644d681e96b319715
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,6 +45,7 @@ related:
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
 revision_id: 3
+schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 - sources/caprio-2026-steady-but-ai
@@ -80,15 +82,14 @@ sources:
 - sources/ms-2020-04-03-global-macro-commentary-covid
 - sources/patkar-2026-ms-global-credit-midyear
 - sources/schofield-2019-citi-macro-views
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
-content_hash: sha256:8db4dbba3b1e0f6c372f30dbed1e6f595a22eb49d4679a5644d681e96b319715
 ---
 
 <!-- AUTHORED REGION START -->

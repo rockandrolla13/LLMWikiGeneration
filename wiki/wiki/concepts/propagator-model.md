@@ -15,6 +15,7 @@ schema_version: 2
 sources:
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell
 tags:
 - propagator-model
 - price-impact
@@ -23,7 +24,7 @@ tags:
 - diffusivity
 - econophysics
 title: Propagator Model
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: a913ad39-bce7-59d2-bebd-ee237ce64dc6
 ---
 

@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:a56c706fee547934a6b161201075ff4da860136e8096e7ab46013cd8b5dc1077
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,15 +13,15 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-targeting-position-sizing
 revision_id: 2
+schema_version: 2
 sources:
 - sources/carver-2015-systematic-trading
+- sources/spears-2020-investment-sizing-deep-learning-prediction-uncertainties
 tags: []
 title: Volatility Targeting
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-27T01:47:00Z'
 updated_by: creditmacro-batch
-schema_version: 2
 uuid: a4528e93-7569-5bca-a2a7-6563fdfa134f
-content_hash: sha256:a56c706fee547934a6b161201075ff4da860136e8096e7ab46013cd8b5dc1077
 ---
 
 <!-- AUTHORED REGION START -->

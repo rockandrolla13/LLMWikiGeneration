@@ -1,27 +1,68 @@
 ---
-title: Bid-Ask Spread
+content_hash: sha256:238bd9c3db5eb5d81a030b17d174e3ade1b30806c16116b739ff6964fc8f5006
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/bid-ask-spread
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
-tags:
-- market-microstructure
-- market-making
-- liquidity
-- transaction-costs
-sources:
-- sources/bergault-2019-multi-asset-market-making
-- sources/guillaume-1997-stylized-facts-fx
 related:
 - concepts/market-making
 - concepts/market-microstructure
 - concepts/liquidity-risk
 - concepts/avellaneda-stoikov-model
-mind_map_priority: medium
+revision_id: 1
 schema_version: 2
+sources:
+- sources/bergault-2019-multi-asset-market-making
+- sources/guillaume-1997-stylized-facts-fx
+- sources/abdulkarim-2019-topics-market-microstructure
+- sources/bakhach-2018-developing-trading-strategies-under-directional-changes
+- sources/besson-2016-cross-or-not-cross-spread-that
+- sources/bieganowski-2026-explainable-patterns-cryptocurrency-microstructure
+- sources/bonart-2018-continuous-efficient-fundamental-price-discrete-order
+- sources/calcada-2016-microstructural-changes-befor-macroeconomic-announcements-predictability
+- sources/dahlhaus-2013-online-spot-volatility-estimation-decomposition-nonlinear
+- sources/das-2026-predicting-stock-price-movements-high-frequency
+- sources/deep-2025-binary-tree-option-pricing-under-market
+- sources/dsouza-2003-empirical-analysis-liquidity-order-flow-brokered
+- sources/eisler-2007-limit-order-book-different-time-scales
+- sources/eisler-2011-price-impact-order-book-events-market
+- sources/fabre-2025-learning-spoofability-limit-order-books-interpretable
+- sources/ferreruela-2025-informed-trading-investor-beliefs-consensus-volatility
+- sources/george-2025-deep-reinforcement-learning-trading-strategy-development
+- sources/ginebri-2008-order-dynamics-italian-treasury-security-wholesale
+- sources/glattfelder-2010-patterns-high-frequency-fx-data-discovery
+- sources/hanke-2015-order-flow-imbalance-effects-german-stock
+- sources/hiremath-2026-early-detection-latent-microstructure-regimes-limit
+- sources/hirnschall-2020-deep-learning-approach-analyzing-limit-order
+- sources/jeon-2026-when-does-order-flow-matter-state
+- sources/jiang-2015-volume-synchronized-probability-informed-trading-vpin
+- sources/kang-2019-flow-toxicity-highfrequency-trading-its-impact
+- sources/karyampas-2011-probability-informed-trading-volatility-etf
+- sources/kong-2025-volatility-estimation-agricultural-futures-markets-microstructure
+- sources/liu-2025-reproducible-baseline-forecasting-high-frequency-realized
+- sources/lu-2009-essays-behavioral-finance-market-microstructure
+- sources/luo-2011-profitable-opportunities-around-macroeconomic-announcements-u
+- sources/mucciante-2023-estimation-order-book-dependent-hawkes-process
+- sources/qin-2026-polymarket-v1-database
+- sources/rao-2024-hybrid-lstm-knn-framework-detecting-market
+- sources/rola-2025-boltzmann-price-toward-understanding-fair-price
+- sources/scaillet-2017-high-frequency-jump-analysis-bitcoin-market
+- sources/sfendourakis-2020-lob-modeling-hawkes-processes-state-dependent
+- sources/stoikov-2016-reducing-transaction-costs-low-latency-trading
+- sources/takahashi-2025-returns-order-flow-imbalances-intraday-dynamics
+- sources/valenzuela-2015-relative-liquidity-future-volatility
+- sources/vlasiuk-2025-push-response-anomalies-high-frequency-s
+- sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
+- sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models
+- sources/wu-2012-information-content-euro-bund-futures-options
+tags:
+- market-microstructure
+- market-making
+- liquidity
+- transaction-costs
+title: Bid-Ask Spread
+updated: '2026-09-27T01:47:00Z'
 uuid: 966ebb57-7455-593f-a382-47c52af3d64d
-content_hash: sha256:238bd9c3db5eb5d81a030b17d174e3ade1b30806c16116b739ff6964fc8f5006
 ---
 
 <!-- AUTHORED REGION START -->

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:1060907a55411074920c7c3cf2c873ed2627ef2e91fbd9dfbd363593ccba8213
 created: 2026-05-06 23:35:00+00:00
 mind_map_priority: high
 page_id: concepts/etf-flows
@@ -17,6 +18,7 @@ related:
 - concepts/non-fundamental-demand-shocks
 - concepts/order-imbalance
 revision_id: 3
+schema_version: 2
 sources:
 - sources/chao-2019-etf-flows-prices
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits
@@ -31,6 +33,7 @@ sources:
 - sources/ms-2019-04-01-cross-asset-1q-recap
 - sources/optiver-2025-corporate-bond-etf-contraflow
 - sources/petit-2025-data-driven-flow-etf
+- sources/kalev-2025-lietf-trading-behavior-during-u-s
 tags:
 - etf
 - passive-investing
@@ -38,10 +41,8 @@ tags:
 - price-impact
 - return-predictability
 title: ETF Flows
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 3f64dd11-6e5e-54ec-8635-501db69705d9
-content_hash: sha256:1060907a55411074920c7c3cf2c873ed2627ef2e91fbd9dfbd363593ccba8213
 ---
 
 <!-- AUTHORED REGION START -->

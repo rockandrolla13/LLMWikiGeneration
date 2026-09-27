@@ -1,21 +1,25 @@
 ---
-title: Trader Clustering
+content_hash: sha256:3314a3d741fd72214f39ff00f11566a4bd4a808abcebca45ea481cdd97c8578f
+created: 2026-05-21 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/trader-clustering
 page_type: concept
+related: []
 revision_id: 1
-created: 2026-05-21 12:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+sources:
+- sources/cartea-2025-statistical-predictions-trading
+- sources/bacidore-2012-cluster-analysis-evaluating-trading-strategies
+- sources/lehalle-2019-incorporating-signals-into-optimal-trading
+- sources/wilinski-2026-classifying-clustering-trading-agents
+- sources/zhang-2026-clusterlob-enhancing-trading-strategies-clustering-orders-published
 tags:
 - unsupervised-learning
 - market-microstructure
 - behavioral-finance
-sources:
-- sources/cartea-2025-statistical-predictions-trading
-related: []
-mind_map_priority: medium
-schema_version: 2
+title: Trader Clustering
+updated: '2026-09-27T01:47:00Z'
 uuid: fed809be-5a57-5a34-bb4f-5c589a50c9f9
-content_hash: sha256:3314a3d741fd72214f39ff00f11566a4bd4a808abcebca45ea481cdd97c8578f
 ---
 
 <!-- AUTHORED REGION START -->

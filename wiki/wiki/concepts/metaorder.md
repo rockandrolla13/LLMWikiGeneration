@@ -15,6 +15,12 @@ schema_version: 2
 sources:
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
+- sources/angstmann-2026-revisiting-trade-sign-long-memory-square
+- sources/bugaenko-2020-empirical-study-market-impact-conditional-order
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact
+- sources/pham-2020-effects-trade-size-market-depth-immediate
+- sources/rola-2025-boltzmann-price-toward-understanding-fair-price
 tags:
 - metaorder
 - order-splitting
@@ -23,7 +29,7 @@ tags:
 - square-root-law
 - market-microstructure
 title: Metaorder
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: 853eabae-05a7-5de0-95d6-820e7849b396
 ---
 

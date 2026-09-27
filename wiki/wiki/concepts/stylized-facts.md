@@ -1,17 +1,17 @@
 ---
-title: Stylized Facts
+content_hash: sha256:bf4c95c6c6973e48264b8e995af18679777bedaeda1f0d66dc3af1345b56fc42
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: high
 page_id: concepts/stylized-facts
 page_type: concept
+related:
+- concepts/long-memory
+- concepts/mfdfa
+- concepts/hurst-exponent
+- concepts/copulas
+- concepts/limit-order-book
 revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
-tags:
-- stylized-facts
-- high-frequency-data
-- market-microstructure
-- long-memory
-- multifractality
-- econophysics
+schema_version: 2
 sources:
 - sources/guillaume-1997-stylized-facts-fx
 - sources/koukorinis-stylized-facts
@@ -19,16 +19,50 @@ sources:
 - sources/stavroyiannis-2017-bitcoin-multifractal
 - sources/golub-2014-multiscale-liquidity
 - sources/murphy-2006-order-flow-critique
-related:
-- concepts/long-memory
-- concepts/mfdfa
-- concepts/hurst-exponent
-- concepts/copulas
-- concepts/limit-order-book
-mind_map_priority: high
-schema_version: 2
+- sources/aldrich-2014-random-walk-high-frequency-trading
+- sources/aloud-2016-time-series-analysis-indicators-under-directional
+- sources/bakhach-2018-developing-trading-strategies-under-directional-changes
+- sources/barardehi-2025-revisiting-shaped-patterns-volatility-price-impacts
+- sources/bechler-2017-order-flows-limit-order-book-resiliency
+- sources/briola-2024-hlobinformation-persistence-structure-limit-order-books
+- sources/chang-2021-epps-effect-under-alternative-sampling-schemes
+- sources/chen-2019-studying-regime-change-directional-change
+- sources/constantinou-2010-periodicities-fx-markets-intrinsic-time
+- sources/corradi-2015-liquidity-crises-different-time-scales
+- sources/dahlhaus-2013-online-spot-volatility-estimation-decomposition-nonlinear
+- sources/eisler-2007-limit-order-book-different-time-scales
+- sources/fayyaz-2026-frequency-controlled-comparison-tick-minute-based
+- sources/gencay-2004-information-flow-between-volatilities-across-time-scales
+- sources/gillemot-2006-there-s-more-volatility-than-volume
+- sources/glattfelder-2010-patterns-high-frequency-fx-data-discovery
+- sources/glattfelder-2022-bridging-gap-decoding-intrinsic-nature-time
+- sources/glattfelder-2024-theory-intrinsic-time-primer
+- sources/gontis-2023-discrete-q-exponential-limit-order-cancellation
+- sources/gu-2007-empirical-distributions-chinese-stock-returns-different
+- sources/mynbaev-2020-full-limit-order-book-price-jump
+- sources/onofri-2025-emergence-randomness-temporally-aggregated-financial-tick
+- sources/palsma-2019-optimising-directional-changes-trading-strategies-different
+- sources/rayment-2023-high-frequency-trading-deep-reinforcement-learning
+- sources/rola-2025-boltzmann-price-toward-understanding-fair-price
+- sources/shi-2021-limit-order-book-recreation-model-lobrm
+- sources/shternshis-2023-price-predictability-ultra-high-frequency-entropy
+- sources/silva-2005-applications-physics-finance-economics-returns-trading
+- sources/silva-2007-stochastic-volatility-financial-markets-fluctuating-rate
+- sources/sjogren-2021-general-compound-hawkes-processes-mid-price
+- sources/tao-2018-directional-change-information-extraction-financial-market
+- sources/tsang-2024-nowcasting-directional-change-high-frequency-fx
+- sources/turkoglu-2015-natural-time-crash-risk
+- sources/ye-2017-developing-sustainable-trading-strategies-directional-changes
+tags:
+- stylized-facts
+- high-frequency-data
+- market-microstructure
+- long-memory
+- multifractality
+- econophysics
+title: Stylized Facts
+updated: '2026-09-27T01:47:00Z'
 uuid: cbbc8da1-ba00-51a0-8533-90ccf344c00d
-content_hash: sha256:bf4c95c6c6973e48264b8e995af18679777bedaeda1f0d66dc3af1345b56fc42
 ---
 
 <!-- AUTHORED REGION START -->

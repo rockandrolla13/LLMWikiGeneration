@@ -19,6 +19,9 @@ schema_version: 2
 sources:
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
+- sources/eisler-2011-price-impact-order-book-events-market
+- sources/eisler-2012-models-impact-all-order-book-events
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact
 tags:
 - researcher
 - econophysics
@@ -27,7 +30,7 @@ tags:
 - market-microstructure
 - statistical-physics
 title: Jean-Philippe Bouchaud
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: aa440a2c-da0d-5e5f-9350-cabc5938b13f
 ---
 

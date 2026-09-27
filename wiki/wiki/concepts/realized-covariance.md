@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:9595e7caa8dae304074c70a7f19476eb2d1f6f8f555ea74f867bf92247b1380c
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/realized-covariance
@@ -7,17 +8,18 @@ related:
 - concepts/dawid-sebastiani-score
 - concepts/variogram-score
 revision_id: 2
+schema_version: 2
 sources:
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio
+- sources/chang-2021-epps-effect-under-alternative-sampling-schemes
+- sources/chen-2022-multivariate-realized-volatility-forecasting-graph-neural
 tags:
 - high-frequency-data
 - volatility
 - portfolio-selection
 title: Realized Covariance
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 8e162d97-99a2-5ede-b55f-25eeef17a8e0
-content_hash: sha256:9595e7caa8dae304074c70a7f19476eb2d1f6f8f555ea74f867bf92247b1380c
 ---
 
 <!-- AUTHORED REGION START -->

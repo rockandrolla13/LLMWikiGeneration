@@ -13,6 +13,8 @@ revision_id: 1
 schema_version: 2
 sources:
 - sources/cont-2023-cross-impact-ofi
+- sources/coz-2024-when-cross-impact-relevant
+- sources/michael-2022-option-volume-imbalance-predictor-equity-market
 tags:
 - cross-impact
 - price-impact
@@ -21,7 +23,7 @@ tags:
 - lasso
 - network-structure
 title: Cross-Impact
-updated: '2026-08-13T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: c5f23a01-f1e0-503d-a498-ee1848078a70
 ---
 

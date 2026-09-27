@@ -1,26 +1,28 @@
 ---
-title: Sebastian Jaimungal
+affiliations:
+- University of Toronto
+content_hash: sha256:96fb5c976a6929bbfe74ace1929fa27853a2da2bf1be1d197740f15f8af042a9
+created: 2026-04-26 03:00:00+00:00
+entity_type: person
 page_id: entities/sebastian-jaimungal
 page_type: entity
+related:
+- entities/alvaro-cartea
+- concepts/optimal-execution
+- concepts/market-making
 revision_id: 1
-entity_type: person
-created: 2026-04-26 03:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+sources:
+- sources/cartea-2018-enhancing-trading-strategies-order-book-signals
 tags:
 - researcher
 - optimal-execution
 - market-making
 - algorithmic-trading
 - stochastic-control
-affiliations:
-- University of Toronto
-related:
-- entities/alvaro-cartea
-- concepts/optimal-execution
-- concepts/market-making
-schema_version: 2
+title: Sebastian Jaimungal
+updated: '2026-09-27T01:47:00Z'
 uuid: 9bece5b6-00b7-50e6-8ef6-03d990807b2b
-content_hash: sha256:96fb5c976a6929bbfe74ace1929fa27853a2da2bf1be1d197740f15f8af042a9
 ---
 
 <!-- AUTHORED REGION START -->

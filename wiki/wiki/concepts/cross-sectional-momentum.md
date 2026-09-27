@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:8d6a7f24bf28049e88faef81bd3a7b29cc5a7b75a91608c4dd0a1fd0c275321c
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,16 +13,17 @@ related:
 - concepts/statistical-arbitrage
 - concepts/factor-momentum
 revision_id: 1
+schema_version: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 - sources/ehsani-2022-factor-momentum
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
+- sources/scheiber-2017-new-strategies-asset-classes-increased-performance
 tags: []
 title: Cross-Sectional Momentum
-updated: '2026-09-15T00:00:00Z'
+updated: '2026-09-27T01:47:00Z'
 updated_by: creditmacro-batch
-schema_version: 2
 uuid: e83785e5-3469-5e1e-adc8-24190d7d4569
-content_hash: sha256:8d6a7f24bf28049e88faef81bd3a7b29cc5a7b75a91608c4dd0a1fd0c275321c
 ---
 
 <!-- AUTHORED REGION START -->

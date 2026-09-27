@@ -1,18 +1,25 @@
 ---
-title: Market Making
+content_hash: sha256:354ef3d54da9b378e28b28ff02ea8ec589aeeae0ca32d9aee9a1f23ecd8c3384
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/market-making
 page_type: concept
+related:
+- concepts/limit-order-book
+- concepts/liquidity-risk
+- concepts/inventory-risk
+- concepts/adverse-selection
+- concepts/optimal-execution
+- concepts/avellaneda-stoikov-model
+- concepts/internalization-externalization
+- concepts/client-tiering
+- entities/olivier-gueant
+- entities/philippe-bergault
+- entities/alexander-barzykin
+- entities/alvaro-cartea
+- entities/sebastian-jaimungal
 revision_id: 3
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- trading
-- liquidity-provision
-- bid-ask-spread
-- inventory-risk
-- optimal-control
-- fx
-- stochastic-control
+schema_version: 2
 sources:
 - sources/ellersgaard-2018-hedge-tracking-lob
 - sources/fermanian-2017-md2c-corporate-bonds
@@ -30,24 +37,29 @@ sources:
 - sources/cartea-2015-optimal-execution
 - sources/lokin-2024-fill-probabilities
 - sources/cartea-2025-statistical-predictions-trading
-related:
-- concepts/limit-order-book
-- concepts/liquidity-risk
-- concepts/inventory-risk
-- concepts/adverse-selection
-- concepts/optimal-execution
-- concepts/avellaneda-stoikov-model
-- concepts/internalization-externalization
-- concepts/client-tiering
-- entities/olivier-gueant
-- entities/philippe-bergault
-- entities/alexander-barzykin
-- entities/alvaro-cartea
-- entities/sebastian-jaimungal
-mind_map_priority: high
-schema_version: 2
+- sources/bieganowski-2026-explainable-patterns-cryptocurrency-microstructure
+- sources/cartea-2018-enhancing-trading-strategies-order-book-signals
+- sources/dixon-2017-sequence-classification-limit-order-book-recurrent
+- sources/dong-2024-deep-reinforcement-learning-optimizing-order-book
+- sources/fang-2019-design-high-frequency-trading-algorithm-based
+- sources/khubiev-2025-deep-learning-models-meet-financial-data
+- sources/meyer-2019-discovering-market-prices-which-price-formation
+- sources/michael-2022-option-volume-imbalance-predictor-equity-market
+- sources/rubisov-2015-statistical-arbitrage-limit-order-book-imbalance
+- sources/sadighian-2020-extending-deep-reinforcement-learning-frameworks-cryptocurrency
+- sources/wilinski-2026-classifying-clustering-trading-agents
+- sources/xu-2026-when-quotes-crumble-detecting-transient-mechanical
+tags:
+- trading
+- liquidity-provision
+- bid-ask-spread
+- inventory-risk
+- optimal-control
+- fx
+- stochastic-control
+title: Market Making
+updated: '2026-09-27T01:47:00Z'
 uuid: 7dd918fa-2530-5e68-833a-604059707bbe
-content_hash: sha256:354ef3d54da9b378e28b28ff02ea8ec589aeeae0ca32d9aee9a1f23ecd8c3384
 ---
 
 <!-- AUTHORED REGION START -->

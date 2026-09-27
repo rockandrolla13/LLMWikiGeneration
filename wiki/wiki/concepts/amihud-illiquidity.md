@@ -1,21 +1,23 @@
 ---
-title: Amihud Illiquidity
+content_hash: sha256:d8983a19af26b03c8daf3ca302f3cb8f6048bf70604a81e2e9cdb03f853b3d50
+created: 2026-05-21 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/amihud-illiquidity
 page_type: concept
+related: []
 revision_id: 1
-created: 2026-05-21 12:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+schema_version: 2
+sources:
+- sources/coppola-2025-asset-class-liquidity-indicators
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
+- sources/valenzuela-2015-relative-liquidity-future-volatility
 tags:
 - liquidity
 - market-microstructure
 - price-impact
-sources:
-- sources/coppola-2025-asset-class-liquidity-indicators
-related: []
-mind_map_priority: medium
-schema_version: 2
+title: Amihud Illiquidity
+updated: '2026-09-27T01:47:00Z'
 uuid: 76a634d5-c550-55f4-bacd-10bb93c887fd
-content_hash: sha256:d8983a19af26b03c8daf3ca302f3cb8f6048bf70604a81e2e9cdb03f853b3d50
 ---
 
 <!-- AUTHORED REGION START -->

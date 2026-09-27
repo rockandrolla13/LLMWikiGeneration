@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:0cde791ac20e14852709c6fe3a5a11a9cd2b56aded80dd6aa2bc8866f48de294
 created: 2026-04-28 14:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/causal-inference
@@ -53,18 +54,18 @@ related:
 - concepts/unconfoundedness-assumption
 - concepts/unmeasured-confounding-sensitivity-analysis
 revision_id: 3
+schema_version: 2
 sources:
 - sources/koukorinis-2026-draci
+- sources/webster-2023-introduction-mathematics-causal-inference
 tags:
 - causal-inference
 - statistics
 - treatment-effects
 - econometrics
 title: Causal Inference
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 1ce19a53-2d60-5213-87b0-fd1a2c9b86e2
-content_hash: sha256:0cde791ac20e14852709c6fe3a5a11a9cd2b56aded80dd6aa2bc8866f48de294
 ---
 
 <!-- AUTHORED REGION START -->

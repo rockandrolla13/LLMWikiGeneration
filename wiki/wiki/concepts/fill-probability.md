@@ -1,26 +1,28 @@
 ---
-title: Fill Probability
+content_hash: sha256:998402e6283668e5c3f5af414e5c2a056fbeaba8114a2652ff11fade0eb6361d
+created: 2026-04-26 03:00:00+00:00
 page_id: concepts/fill-probability
 page_type: concept
-revision_id: 1
-created: 2026-04-26 03:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- market-making
-- limit-order-book
-- optimal-execution
-- order-flow
-sources:
-- sources/lokin-2024-fill-probabilities
-- sources/cartea-2015-optimal-execution
 related:
 - concepts/limit-order-book
 - concepts/optimal-execution
 - concepts/market-making
 - concepts/avellaneda-stoikov-model
+revision_id: 1
 schema_version: 2
+sources:
+- sources/lokin-2024-fill-probabilities
+- sources/cartea-2015-optimal-execution
+- sources/valenzuela-2015-relative-liquidity-future-volatility
+- sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus
+tags:
+- market-making
+- limit-order-book
+- optimal-execution
+- order-flow
+title: Fill Probability
+updated: '2026-09-27T01:47:00Z'
 uuid: ad8f411b-f870-525f-b660-d264f349c639
-content_hash: sha256:998402e6283668e5c3f5af414e5c2a056fbeaba8114a2652ff11fade0eb6361d
 ---
 
 <!-- AUTHORED REGION START -->

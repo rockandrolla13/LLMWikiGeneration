@@ -22,6 +22,42 @@ sources:
 - sources/hu-2025-ofi-csi300-ou
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
+- sources/angstmann-2026-event-time-order-flow-memory-operational
+- sources/angstmann-2026-revisiting-trade-sign-long-memory-square
+- sources/barardehi-2025-revisiting-shaped-patterns-volatility-price-impacts
+- sources/bechler-2017-order-flows-limit-order-book-resiliency
+- sources/bonart-2018-continuous-efficient-fundamental-price-discrete-order
+- sources/bongaerts-2025-cross-sectional-identification-private-information
+- sources/bozzetto-2026-fee-structure-order-flow-informativeness-cryptocurrency
+- sources/bugaenko-2020-empirical-study-market-impact-conditional-order
+- sources/corradi-2015-liquidity-crises-different-time-scales
+- sources/coz-2024-when-cross-impact-relevant
+- sources/dobrev-2025-order-flow-imbalances-amplification-price-movements
+- sources/dsouza-2003-empirical-analysis-liquidity-order-flow-brokered
+- sources/eisler-2007-limit-order-book-different-time-scales
+- sources/eisler-2011-price-impact-order-book-events-market
+- sources/eisler-2012-models-impact-all-order-book-events
+- sources/evans-2002-order-flow-exchange-rate-dynamics
+- sources/jonuzaj-2024-information-content-book-trade-order-flow
+- sources/lehalle-2019-incorporating-signals-into-optimal-trading
+- sources/li-2023-empirical-analysis-financial-markets-insights-application
+- sources/linna-2026-repurposing-deep-limit-order-book-forecasting
+- sources/lu-2009-essays-behavioral-finance-market-microstructure
+- sources/lu-2023-trade-co-occurrence-trade-flow-decomposition
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell
+- sources/mertens-2021-liquidity-fluctuations-latent-dynamics-price-impact
+- sources/naviglio-2026-explainable-deep-learning-price-trade-dynamics
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact
+- sources/pham-2020-effects-trade-size-market-depth-immediate
+- sources/qin-2026-polymarket-v1-database
+- sources/rola-2025-boltzmann-price-toward-understanding-fair-price
+- sources/takahashi-2025-returns-order-flow-imbalances-intraday-dynamics
+- sources/takahashi-nd-price-impact-order-flow-imbalances
+- sources/vlasiuk-2025-push-response-anomalies-high-frequency-s
+- sources/wu-2012-information-content-euro-bund-futures-options
+- sources/wu-2013-big-data-approach-analyzing-market-volatility
+- sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus
+- sources/zhai-2026-public-trader-identity-adverse-selection-return
 tags:
 - price-impact
 - market-microstructure
@@ -30,7 +66,7 @@ tags:
 - execution-cost
 - limit-order-book
 title: Price Impact
-updated: '2026-09-25T21:37:03Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: 1dbd1f71-72c6-5bc1-8321-f1c674ed3cff
 ---
 

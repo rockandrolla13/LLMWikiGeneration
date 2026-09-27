@@ -15,6 +15,7 @@ revision_id: 1
 schema_version: 2
 sources:
 - sources/cont-2014-price-impact-order-book-events
+- sources/stoikov-2016-reducing-transaction-costs-low-latency-trading
 tags:
 - researcher
 - market-microstructure
@@ -22,7 +23,7 @@ tags:
 - price-impact
 - limit-order-book
 title: Sasha Stoikov
-updated: '2026-09-25T21:37:03Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: 65c5f573-8b48-5dd7-a2ac-a890bee1b577
 ---
 

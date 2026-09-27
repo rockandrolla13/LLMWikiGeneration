@@ -1,5 +1,6 @@
 ---
 aliases: []
+content_hash: sha256:a843788823d6d4f4fadb8c99e8e1e016a4b9c73083c59e23d06a3fed2cf161c1
 created: '2026-06-09T12:00:00Z'
 entity_type: person
 external_ids: {}
@@ -9,15 +10,15 @@ page_id: entities/alexander-philipov
 page_type: entity
 related: []
 revision_id: 1
+schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 tags: []
 title: Alexander Philipov
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-09-27T01:47:00Z'
 updated_by: creditmacro-batch
-schema_version: 2
 uuid: d9888c1d-ff68-5f60-935c-bcbd3c62aa00
-content_hash: sha256:a843788823d6d4f4fadb8c99e8e1e016a4b9c73083c59e23d06a3fed2cf161c1
 ---
 
 <!-- AUTHORED REGION START -->

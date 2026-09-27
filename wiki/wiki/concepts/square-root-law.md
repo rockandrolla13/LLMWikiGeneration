@@ -16,6 +16,12 @@ sources:
 - sources/cont-2014-price-impact-order-book-events
 - sources/maitrier-2026-square-root-impact-framework
 - sources/maitrier-2025-artificial-market-generator
+- sources/angstmann-2026-event-time-order-flow-memory-operational
+- sources/angstmann-2026-revisiting-trade-sign-long-memory-square
+- sources/briola-2021-deep-reinforcement-learning-active-high-frequency
+- sources/bugaenko-2020-empirical-study-market-impact-conditional-order
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact
 tags:
 - square-root-law
 - price-impact
@@ -25,7 +31,7 @@ tags:
 - volatility
 - market-microstructure
 title: Square-Root Law of Market Impact
-updated: '2026-09-25T21:37:03Z'
+updated: '2026-09-27T01:47:00Z'
 uuid: d361d26d-9c7b-5175-b89c-b34a8d15d24b
 ---
 

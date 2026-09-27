@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:a4753fe407bc24456c1619264dfb8fdbfe16d5fd89adc641f6d5d150cf1a244a
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,22 +22,35 @@ related:
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
 revision_id: 4
+schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 - sources/dickerson-2023-bond-risk
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 - sources/ms-2016-03-22-xccy-basis-primer
 - sources/ms-2019-03-04-a-premium-for-size
+- sources/corradi-2015-liquidity-crises-different-time-scales
+- sources/coz-2024-when-cross-impact-relevant
+- sources/dobrev-2025-order-flow-imbalances-amplification-price-movements
+- sources/dsouza-2003-empirical-analysis-liquidity-order-flow-brokered
+- sources/ferreruela-2025-informed-trading-investor-beliefs-consensus-volatility
+- sources/hiremath-2026-early-detection-latent-microstructure-regimes-limit
+- sources/jiang-2015-volume-synchronized-probability-informed-trading-vpin
+- sources/lu-2009-essays-behavioral-finance-market-microstructure
+- sources/nieduzak-2014-ekonometryczna-analiza-prawdopodobienstwa-zawarcia-transakcji-wynikajacych
+- sources/sirignano-2018-deep-learning-limit-order-books
+- sources/turkoglu-2015-natural-time-crash-risk
+- sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
+- sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models
+- sources/wu-2013-big-data-approach-analyzing-market-volatility
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-09-27T01:47:00Z'
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
-content_hash: sha256:a4753fe407bc24456c1619264dfb8fdbfe16d5fd89adc641f6d5d150cf1a244a
 ---
 
 <!-- AUTHORED REGION START -->
