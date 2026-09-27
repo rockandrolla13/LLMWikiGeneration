@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-08-09T14:49:33.724588Z'
+updated: '2026-09-27T01:47:39.943730Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-08-09T14:49:33.720777Z
+Generated: 2026-09-27T01:47:39.940708Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:786a0bbf71bd2d18
+Source hash: sha256:daa315f21def2c83
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,25 +17,38 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-08-09
-Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, contradictions: 0)
+Last updated: 2026-09-27
+Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
 - sources/caprio-2026-steady-but-ai — 2026: Steady, but AI & the Hawks are Circling (Software)
 - sources/ms-2019-03-15-4q18-credit-fundamentals — 4Q18 US Credit Fundamental Review
+- sources/wu-2013-big-data-approach-analyzing-market-volatility — A Big Data Approach to Analyzing Market Volatility
 - sources/ms-2019-01-26-duration-and-curves — A Birdie for the Balance Sheet — Duration and Curves
 - sources/nobrega-2014-kalman-ml-stat-arb — A Combination Forecasting Model Using Machine Learning and Kalman Filter for Statistical Arbitrage
+- sources/bonart-2018-continuous-efficient-fundamental-price-discrete-order — A continuous and efficient fundamental price on the discrete order book grid
+- sources/hirnschall-2020-deep-learning-approach-analyzing-limit-order — A Deep Learning Approach for Analyzing the Limit Order Book
+- sources/alkhamees-2017-directional-change-based-trading-strategy-dynamic — A Directional Change Based Trading Strategy with Dynamic Thresholds
+- sources/fayyaz-2026-frequency-controlled-comparison-tick-minute-based — A Frequency-Controlled Comparison of Tick- and Minute-Based Information Bars for Cryptocurrency Markets
+- sources/gebbie-2026-gabor-epps-uncertainty-principle-traders — A Gabor–Epps uncertainty principle for traders
+- sources/salman-2025-genetic-algorithm-optimization-multi-threshold-trading — A genetic algorithm for the optimization of multi-threshold trading strategies in the directional changes paradigm
 - sources/angelopoulos-2022-gentle-intro — A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
 - sources/stocker-2025-conformal-timeseries-intro — A Gentle Introduction to Conformal Time Series Forecasting
 - sources/ms-2019-03-22-high-yield-hedge — A High Yield Hedge
+- sources/rao-2024-hybrid-lstm-knn-framework-detecting-market — A Hybrid LSTM-KNN Framework for Detecting Market Microstructure Anomalies: Evidence from High-Frequency Jump Behaviors in Credit Default Swap Markets
+- sources/mans-2025-en-lokalt-konkav-och-transient-prispaverkningsmodell — A Locally Concave Transient Price Impact Model and Optimal Execution
 - sources/focardi-2016-statistical-arbitrage-dfm — A New Approach to Statistical Arbitrage: Strategies Based on Dynamic Factor Models of Prices
+- sources/bambade-2019-new-way-compute-probability-informed-trading — A New Way to Compute the Probability of Informed Trading
 - sources/de-moura-2016-pairs-trading — A Pairs Trading Strategy Based on Linear State Space Models
 - sources/moura-2016-pairs-trading-kalman — A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter
 - sources/openai-2025-practical-guide-building-agents — A Practical Guide to Building Agents
+- sources/liu-2025-reproducible-baseline-forecasting-high-frequency-realized — A Reproducible Baseline for Forecasting High-Frequency Realized Volatility with Order-Flow Features
 - sources/bao-2025-review — A Review and Comparative Analysis of Univariate Conformal Regression Methods
+- sources/li-2026-systematic-hyperparameter-analysis-deep-learning-models — A Systematic Hyperparameter Analysis of Deep Learning Models for Limit Order Book Mid-price Prediction
 - sources/shafer-2007-cp-tutorial — A Tutorial on Conformal Prediction
 - sources/xu-2021-bandit-multiple-testing — A unified framework for bandit multiple testing
+- sources/hu-2025-volatility-aware-temporal-transformer-intraday-risk — A Volatility-Aware Temporal Transformer for Intraday Risk Forecasting with Market Microstructure Signals
 - sources/gibbs-2021-aci — Adaptive Conformal Inference Under Distribution Shift
 - sources/zaffran-2022-aci — Adaptive Conformal Predictions for Time Series
 - sources/ms-2020-03-27-add-to-credit — Add to Credit – and How Much Do Markets Lead the Economy?
@@ -52,22 +65,46 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/barzykin-2020-algorithmic-fx-market-making — Algorithmic market making in foreign exchange cash markets
 - sources/barzykin-2024-precious-metals — Algorithmic Market Making in Spot Precious Metals
 - sources/abergel-2017-algorithmic-trading-lob — Algorithmic trading in a microstructural limit order book model
+- sources/adegboye-2022-algorithmic-trading-directional-changes — Algorithmic trading with directional changes
+- sources/bambade-2019-assessment-prediction-quality-vpin — An Assessment of the Prediction Quality of VPIN
 - sources/ms-2019-03-03-an-easing-trio — An Easing Trio (Sunday Start: What's Next in Global Macro)
+- sources/yang-2025-efficient-deep-learning-model-predict-stock — An Efficient deep learning model to Predict Stock Price Movement Based on Limit Order Book
+- sources/dsouza-2003-empirical-analysis-liquidity-order-flow-brokered — An Empirical Analysis of Liquidity and Order Flow in the Brokered Interdealer Market for Government of Canada Bonds
+- sources/li-2023-empirical-analysis-financial-markets-insights-application — An Empirical Analysis on Financial Markets: Insights from the Application of Statistical Physics
+- sources/long-2025-depth-investigation-genetic-programming-under-physical — An In-Depth Investigation of Genetic Programming Under Physical Time and Directional Change Frameworks for Algorithmic Trading
 - sources/he-2023-hf-pairs-chinese-futures — An Innovative High-Frequency Statistical Arbitrage in Chinese Futures Market
+- sources/webster-2023-introduction-mathematics-causal-inference — An Introduction to the Mathematics of Causal Inference
+- sources/zainal-2021-optimal-limit-order-book-prediction-analysis — An Optimal Limit Order Book Prediction Analysis Based on Deep Learning and Pigeon-Inspired Optimizer
+- sources/masi-2026-analysis-synthetic-generation-financial-time-series — Analysis and Synthetic Generation of Financial Time-Series
+- sources/batrinca-2016-analysis-key-drivers-trading-performance — Analysis of Key Drivers of Trading Performance
+- sources/siqueira-2023-analysis-tick-rule-bulk-volume-classification — Analysis of the Tick Rule and Bulk Volume Classification Algorithms in the Brazilian Stock Market
 - sources/sehatpour-2024-green-bonds — Anatomy of Municipal Green Bond Yield Spreads
 - sources/ms-2019-02-24-china-current-account-turning-point — Another Turning Point (Sunday Start: What's Next in Global Macro)
+- sources/siqueira-2023-analise-dos-algoritmos-tick-rule-e — Análise dos Algoritmos Tick Rule e Bulk Volume Classification no Mercado Acionário Brasileiro
+- sources/silva-2005-applications-physics-finance-economics-returns-trading — Applications of Physics to Finance and Economics: Returns, Trading Activity and Income
 - sources/percival-2020-architecture-patterns-python — Architecture Patterns with Python
+- sources/feigin-2015-assessing-informed-trading-measures-against-material — Assessing informed trading measures against material mining progress reports
+- sources/andersen-2013-assessing-measures-order-flow-toxicity-early — Assessing Measures of Order Flow Toxicity and Early Warning Signals for Market Turbulence
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor — Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach
 - sources/coppola-2025-asset-class-liquidity-indicators — Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets
 - sources/ignatiadis-2024-asymptotic-compound-evalues — Asymptotic and compound e-values: multiple testing and empirical Bayes
+- sources/rosenbaum-2010-asymptotic-results-statistical-procedures-time-changed — Asymptotic results and statistical procedures for time-changed Lévy processes sampled at hitting times
 - sources/peters-2026-asynchronous-cir — Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference
 - sources/attention-paper — Attention Is All You Need
+- sources/jung-2025-attention-based-reading-highlighting-forecasting-limit — Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book
+- sources/kisiel-2022-axial-lob-high-frequency-trading-axial — Axial-LOB: High-Frequency Trading with Axial Attention
 - sources/babecky-2014-developed-country-crisis-ewi — Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators
 - sources/mauboussin-2026-bayes-base-rates — Bayes and Base Rates: How History Can Guide Our Assessment of the Future
+- sources/magris-2023-bayesian-bilinear-neural-network-predicting-midprice — Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets
 - sources/hill-2011-bart-causal-inference — Bayesian Nonparametric Modeling for Causal Inference
 - sources/zachos-2018-change-point-detection — Bayesian On-line Change-point Detection: Spatio-temporal point processes
 - sources/antonian-2024-graph-signal-processing — Bayesian Reconstruction and Regression with Multivariate Graph Signals
+- sources/ntakaris-2018-benchmark-dataset-midprice-forecasting-limit-order — Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods
 - sources/osmani-2025-beyond-vibe-coding — Beyond Vibe Coding: From Coder to AI-Era Developer
+- sources/deep-2025-binary-tree-option-pricing-under-market — Binary Tree Option Pricing Under Market Microstructure Effects: A Random Forest Approach
+- sources/guo-2018-bitcoin-volatility-forecasting-glimpse-into-buy — Bitcoin Volatility Forecasting with a Glimpse into Buy and Sell Orders
+- sources/rola-2025-boltzmann-price-toward-understanding-fair-price — Boltzmann Price: Toward Understanding the Fair Price in High-Frequency Markets
+- sources/glattfelder-2022-bridging-gap-decoding-intrinsic-nature-time — Bridging the Gap: Decoding the Intrinsic Nature of Time in Market Data
 - sources/dandekar-2025-build-deepseek-model — Build a DeepSeek Model From Scratch
 - sources/raschka-2024-build-llm-from-scratch — Build a Large Language Model (From Scratch)
 - sources/raj-2025-building-embodied-ai-systems — Building Embodied AI Systems
@@ -76,16 +113,21 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/bouchard-2024-building-llms-production — Building LLMs for Production
 - sources/girten-2024-building-modern-data-databricks — Building Modern Data Applications Using Databricks Lakehouse
 - sources/koukorinis-2024-xantium-business-plan — Business Plan Details for Xantium: Systematic Spread Fixed Income Trading
+- sources/kuhrn-2014-calculating-probability-mid-price-increase-based — Calculating the probability of a mid-price increase based on a stochastic model for order book dynamics
 - sources/hernan-2020-causal-inference-what-if — Causal Inference: What If
 - sources/salmon-1998-causality-and-explanation — Causality and Explanation
 - sources/ms-2019-01-18-china-doing-whatever-it-takes — China – Doing whatever it takes
 - sources/citi-global-theme-book — Citi Global Theme Book
 - sources/schofield-2019-citi-macro-views — Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019
 - sources/romano-2020-aps — Classification with Valid and Adaptive Coverage
+- sources/wilinski-2026-classifying-clustering-trading-agents — Classifying and clustering trading agents
 - sources/anthropic-2025-claude-code-definitive-guide — Claude Code: The Definitive Guide to Agentic Development
 - sources/bergault-2019-multi-asset-market-making — Closed-form approximations in multi-asset market making
+- sources/bacidore-2012-cluster-analysis-evaluating-trading-strategies — Cluster Analysis for Evaluating Trading Strategies
+- sources/zhang-2026-clusterlob-enhancing-trading-strategies-clustering-orders-published — ClusterLOB: enhancing trading strategies by clustering orders in limit order books
 - sources/hermans-2024-code-reading-in-practice — Code Reading in Practice
 - sources/morgan-2025-coding-with-ai — Coding with AI
+- sources/jaddu-2023-combining-deep-learning-order-books-reinforcement — Combining Deep Learning on Order Books with Reinforcement Learning for Profitable Trading
 - sources/ming-2026-demi-supermartingales — Combining e-values using demi-supermartingales
 - sources/gasparin-2025-combining-exchangeable-pvalues — Combining exchangeable p-values
 - sources/dickerson-2024-bond-pitfalls — Common Pitfalls in the Evaluation of Corporate Bond Strategies
@@ -106,6 +148,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/fontana-2023-cp-unified-review — Conformal prediction: A unified review of theory and new challenges
 - sources/romano-2019-cqr — Conformalized Quantile Regression
 - sources/avino-2024-hedging-credit-equity-options — Contingent Claims and Hedging of Credit Risk with Equity Options
+- sources/busetto-2023-continuous-time-modeling-financial-returns-based — Continuous-time modeling of financial returns based on Limit Order Book data
 - sources/sun-2022-copula-cpts — Copula Conformal Prediction for Multi-step Time Series Forecasting
 - sources/optiver-2025-corporate-bond-etf-contraflow — Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passive Flow Distortions
 - sources/ms-2019-04-12-meet-in-the-middle — Corporate Credit Research: Meet in the Middle
@@ -130,9 +173,13 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/ms-2019-02-01-cross-asset-january-recap — Cross-Asset Strategy: Global In the Flow — Highlights from January
 - sources/vovk-2012-cross-conformal — Cross-conformal predictors
 - sources/ruan-2016-mfdcca-gold — Cross-correlations between price and volume in Chinese gold markets
+- sources/cont-2023-cross-impact-ofi — Cross-Impact of Order Flow Imbalance in Equity Markets
+- sources/bongaerts-2025-cross-sectional-identification-private-information — Cross-sectional identification of private information
 - sources/ms-2019-04-05-crossing-the-rubicon-government-bonds — Crossing the Rubicon (Government Bonds)
 - sources/azzalini-2012-data-analysis-and-data-mining — Data Analysis and Data Mining: An Introduction
+- sources/tran-2021-data-normalization-bilinear-structures-high-frequency — Data Normalization for Bilinear Structures in High-Frequency Financial Time-series
 - sources/buzzelli-2024-data-quality-engineering-financial — Data Quality Engineering in Financial Services
+- sources/tran-2019-data-driven-neural-architecture-learning-financial — Data-driven Neural Architecture Learning for Financial Time-series Forecasting
 - sources/petit-2025-data-driven-flow-etf — Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents
 - sources/alhussein-2024-databricks-certified-data-engineer — Databricks Certified Data Engineer Associate Study Guide
 - sources/databricks-spark-knowledge-base — Databricks Spark Knowledge Base
@@ -140,10 +187,30 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks — Datenverwaltung mit Unity Catalog auf Databricks
 - sources/chiah-2019-day-of-week-anomaly-returns — Day-of-the-week effect in anomaly returns: International evidence
 - sources/barzykin-2022-multi-currency-inventory — Dealing with multi-currency inventory risk in FX cash markets
+- sources/passalis-2019-deep-adaptive-input-normalization-price-forecasting — Deep Adaptive Input Normalization for Time Series Forecasting
+- sources/jha-2020-deep-learning-digital-asset-limit-order — Deep Learning for Digital Asset Limit Order Books
+- sources/sirignano-2018-deep-learning-limit-order-books — Deep Learning for Limit Order Books
+- sources/dixon-2018-deep-learning-spatiotemporal-modeling-dynamic-traffic — Deep Learning for Spatio-Temporal Modeling: Dynamic Traffic Flows and High Frequency Trading
+- sources/briola-2020-deep-learning-modeling-limit-order-book — Deep Learning Modelling of the Limit Order Book: A Comparative Perspective
+- sources/khubiev-2025-deep-learning-models-meet-financial-data — Deep Learning Models Meet Financial Data Modalities
+- sources/briola-2025-deep-limit-order-book-forecasting-microstructural — Deep Limit Order Book Forecasting: A microstructural guide
+- sources/kolm-2023-deep-order-flow-imbalance-extracting-alpha — Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book
+- sources/briola-2021-deep-reinforcement-learning-active-high-frequency — Deep Reinforcement Learning for Active High Frequency Trading
+- sources/dong-2024-deep-reinforcement-learning-optimizing-order-book — Deep Reinforcement Learning for Optimizing Order Book Imbalance-Based High-Frequency Trading Strategies
+- sources/george-2025-deep-reinforcement-learning-trading-strategy-development — Deep Reinforcement Learning for Trading Strategy Development on High-Frequency Currency Data Using Directional Changes Sampling
+- sources/sangadiev-2020-deepfolio-convolutional-neural-networks-portfolios-limit — DeepFolio: Convolutional Neural Networks for Portfolios with Limit Order Book Data
+- sources/zhang-2019-deeplob-deep-convolutional-neural-networks-limit — DeepLOB: Deep Convolutional Neural Networks for Limit Order Books
+- sources/fang-2019-design-high-frequency-trading-algorithm-based — Design of High-Frequency Trading Algorithm Based on Machine Learning
 - sources/khraisha-2024-designing-financial-data-architectures — Designing Financial Data Architectures
 - sources/huyen-2022-designing-ml-systems — Designing Machine Learning Systems
 - sources/caelen-2023-developing-apps-gpt4 — Developing Apps with GPT-4 and ChatGPT
+- sources/alkhamees-2019-developing-event-identification-methods-structured-unstructured — Developing event identification methods for structured and unstructured data streams
+- sources/ye-2017-developing-sustainable-trading-strategies-directional-changes — Developing Sustainable Trading Strategies Using Directional Changes with High Frequency Data
+- sources/bakhach-2018-developing-trading-strategies-under-directional-changes — Developing Trading Strategies under the Directional Changes Framework: With Application in the FX Market
 - sources/ms-2011-05-06-differentiation-divergence — Differentiation and Divergence
+- sources/hornek-2025-directional-price-forecasting-continuous-intraday-market — Directional Price Forecasting in the Continuous Intraday Market under Consideration of Neighboring Products and Limit Order Books
+- sources/meyer-2019-discovering-market-prices-which-price-formation — Discovering market prices: Which price formation model best predicts the next trade?
+- sources/gontis-2023-discrete-q-exponential-limit-order-cancellation — Discrete q-Exponential Limit Order Cancellation Time Distribution
 - sources/lei-2018-distribution-free-regression — Distribution-Free Predictive Inference for Regression
 - sources/bates-2021-rcps — Distribution-Free, Risk-Controlling Prediction Sets
 - sources/chernozhukov-2021-distributional-cp — Distributional Conformal Prediction
@@ -154,18 +221,29 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/wang-2022-e-backtesting — E-backtesting
 - sources/ignatiadis-2023-evalues-unnormalized-weights — E-values as unnormalized weights in multiple testing
 - sources/vovk-2020-evalues-calibration-combination — E-values: calibration, combination, and applications
+- sources/hiremath-2026-early-detection-latent-microstructure-regimes-limit — Early Detection of Latent Microstructure Regimes in Limit Order Books
 - sources/ms-2019-02-28-ecb-preview-tltro-funding — ECB Preview: TLTRO Funding on its Way
 - sources/lukac-2026-economic-analysis-through-mathematics — Economic Analysis Through Mathematics: Tools and Techniques for Decision Making
 - sources/piros-2013-economics-investment-decision-makers-workbook — Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics
+- sources/dimitriadis-2022-efficient-sampling-realized-variance-estimation-time — Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models
 - sources/barendse-2026-efficient-tail-interquantile — Efficiently Weighted Estimation of Tail and Interquantile Expectations
+- sources/nieduzak-2014-ekonometryczna-analiza-prawdopodobienstwa-zawarcia-transakcji-wynikajacych — Ekonometryczna analiza prawdopodobieństwa zawarcia transakcji wynikających z napływu informacji – wpływ założeń co do rozkładu stóp zwrotu na zmienność miary VPIN
 - sources/ms-2018-07-09-em-risk-indicator-regime-switching — EM Quant Strategy: EM Risk Indicator - A Regime-Switching Model Approach
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs — EM Quant Strategy: EMFX Quant's Lab - Carry Performs
 - sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits — EM Strategy Update: No Rush for the Exits
+- sources/onofri-2025-emergence-randomness-temporally-aggregated-financial-tick — Emergence of Randomness in Temporally Aggregated Financial Tick Sequences
 - sources/ms-2010-09-15-em-quantitative-quarterly — Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy
 - sources/ms-2019-02-11-emfx-quants-lab-steady-path — EMFX Quant's Lab: Steady Path
+- sources/chomei-2023-empirical-analysis-limit-order-book-modeling — Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities
+- sources/gu-2007-empirical-distributions-chinese-stock-returns-different — Empirical distributions of Chinese stock returns at different microscopic timescales
 - sources/van-zundert-2018-thesis — Empirical Studies on the Cross-Section of Corporate Bond and Stock Markets
+- sources/bugaenko-2020-empirical-study-market-impact-conditional-order — Empirical Study of Market Impact Conditional on Order-Flow Imbalance
 - sources/technical-2025-bond-similarity — Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity, Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation
+- sources/cartea-2018-enhancing-trading-strategies-order-book-signals — Enhancing trading strategies with order book signals
+- sources/lu-2009-essays-behavioral-finance-market-microstructure — Essays on Behavioral Finance and Market Microstructure
 - sources/bratanic-2025-essential-graphrag — Essential GraphRAG
+- sources/mucciante-2022-estimation-high-dimensional-counting-process-without — ESTIMATION OF A HIGH-DIMENSIONAL COUNTING PROCESS WITHOUT PENALTY FOR HIGH-FREQUENCY EVENTS
+- sources/mucciante-2023-estimation-order-book-dependent-hawkes-process — Estimation of an Order Book Dependent Hawkes Process for Large Datasets
 - sources/li-2023-microstructure-noise-efficient-price — Estimation of Common Factors for Microstructure Noise and Efficient Price in a High-Frequency Dual Factor Model
 - sources/ms-2011-11-28-europe-economics-recession-returns — Europe Economics: Recession Returns
 - sources/ms-2019-03-11-europe-surprise-upside — Europe looks set to surprise on the upside
@@ -189,17 +267,28 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/ms-2017-06-23-hy-leveraged-finance-playbook — European High Yield Strategy Monthly Leveraged Finance Playbook — Performance
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook — European High Yield Strategy Monthly Leveraged Finance Playbook — Returns
 - sources/chang-2016-factor-pricing-hf-panels — Evaluating Factor Pricing Models Using High-Frequency Panels
+- sources/hellermann-2026-event-based-limit-order-book-representations — Event-Based Limit Order Book Representations for Probabilistic VWAP Forecasting in Intraday Electricity Markets
+- sources/anantha-2025-event-time-anchor-selection-multi-contract — Event-Time Anchor Selection for Multi-Contract Quoting
+- sources/angstmann-2026-event-time-order-flow-memory-operational — Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables
 - sources/aslam-2020-covid-mfdfa — Evidence of Intraday Multifractality in European Stock Markets during COVID-19 (2020)
 - sources/johnstone-2025-multioutput — Exact and Approximate Conformal Inference for Multi-Output Regression
+- sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus — Execution Alpha of Intraday Liquidity Provision versus Market-on-Close in the S&P 500
 - sources/ilmanen-2011-expected-returns — Expected Returns: An Investor's Guide to Harvesting Market Rewards
+- sources/naviglio-2026-explainable-deep-learning-price-trade-dynamics — Explainable Deep Learning for Price–Trade Dynamics: From Black-Box Forecasts to Effective Parametric Models
+- sources/bieganowski-2026-explainable-patterns-cryptocurrency-microstructure — Explainable Patterns in Cryptocurrency Microstructure
 - sources/vanderweele-2015-explanation-causal-inference — Explanation in Causal Inference: Methods for Mediation and Interaction
+- sources/wang-2025-exploring-microstructural-dynamics-cryptocurrency-limit-order — Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer
+- sources/sadighian-2020-extending-deep-reinforcement-learning-frameworks-cryptocurrency — Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making
 - sources/pasche-2025-extreme-conformal — Extreme Conformal Prediction: Reliable Intervals for High-Impact Events
 - sources/houweling-2017-factor-investing — Factor Investing in the Corporate Bond Market
 - sources/ehsani-2022-factor-momentum — Factor Momentum and the Momentum Factor
 - sources/elton-2004-valuation-corporate-bonds — Factors Affecting the Valuation of Corporate Bonds
 - sources/wang-2021-fdr-control-evalues — False discovery rate control with e-values
 - sources/ms-2013-12-04-faqs-on-corporate-hybrids — FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)
+- sources/ntakaris-2019-feature-engineering-mid-price-prediction-deep — Feature Engineering for Mid-Price Prediction with Deep Learning
 - sources/lancaster-2021-fed-up — Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
+- sources/bethel-2011-federal-market-information-technology-post-flash — Federal Market Information Technology in the Post Flash Crash Era: Roles for Supercomputing
+- sources/bozzetto-2026-fee-structure-order-flow-informativeness-cryptocurrency — Fee Structure and Order Flow Informativeness in the Cryptocurrency Market
 - sources/lokin-2024-fill-probabilities — Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
 - sources/khraisha-2024-financial-data-engineering — Financial Data Engineering: Design and Build Data-Driven Financial Products
 - sources/hilpisch-2021-financial-theory-python — Financial Theory with Python: A Gentle Introduction
@@ -207,12 +296,22 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/grant-2010-forecast-combinations-scoring-rules — Finding Profitable Forecast Combinations Using Probability Scoring Rules
 - sources/graef-2025-firm-specific-systematic-momentum — Firm-specific versus systematic momentum
 - sources/montana-2009-flexible-least-squares — Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage
+- sources/kang-2019-flow-toxicity-highfrequency-trading-its-impact — Flow Toxicity of High Frequency Trading and Its Impact on Price Volatility: Evidence from the KOSPI 200 Futures Market
 - sources/ms-2019-05-17-tariffs-government-bonds — For Whom the Tariffs Toll
+- sources/raffaelli-2026-forecasting-bitcoin-price-movements-multivariate-hawkes — Forecasting Bitcoin price movements using multivariate Hawkes processes and limit order book data
+- sources/bakhach-2016-forecasting-directional-changes-fx-markets — Forecasting Directional Changes in the FX Markets
+- sources/anantha-2024-forecasting-high-frequency-order-flow-imbalance — Forecasting high frequency order flow imbalance using Hawkes processes
+- sources/yang-2021-forecasting-high-frequency-financial-time-series — Forecasting high-frequency financial time series: an adaptive learning approach with the order book data
+- sources/thorburn-2015-forecasting-limit-order-book-price-changes — Forecasting limit order book price changes using change point detection
+- sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models — Forecasting Liquidity Withdrawal with Machine Learning Models
+- sources/makinen-2018-forecasting-jump-arrivals-stock-prices-new — Forecasting of Jump Arrivals in Stock Prices: New Attention-based Network Architecture using Limit Order Book Data
 - sources/omrane-2017-yield-curve-forecasting — Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach
 - sources/guillaume-1997-stylized-facts-fx — From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets
 - sources/reis-2022-fundamentals-data-engineering — Fundamentals of Data Engineering
 - sources/zhi-2024-gaussian-processes-graphs — Gaussian Processes on Graphs (Zhi 2024)
+- sources/sjogren-2021-general-compound-hawkes-processes-mid-price — General Compound Hawkes Processes for Mid-Price Prediction
 - sources/shi-2024-graph-laplacian-learning — Generalizing Graph Laplacian Learning (Shi 2024)
+- sources/gypteau-2015-generating-directional-change-based-trading-strategies — Generating Directional Change Based Trading Strategies with Genetic Programming
 - sources/db-2020-11-05-global-factor-monitor — Global Factor Monitor (Quantitative Musing, 5 November 2020)
 - sources/ms-2019-01-24-global-growth-tracker-dm-underperform — Global Growth Tracker – DMs Underperform More than Expected
 - sources/ms-2020-04-01-in-the-flow-q1-recap — Global In the Flow First Quarter Recap: What a Year This Quarter Has Been
@@ -241,26 +340,45 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/alammar-2024-hands-on-llm — Hands-On Large Language Models
 - sources/mendelevitch-2025-hands-on-rag — Hands-On RAG for Production
 - sources/thomas-2025-hands-on-small-language-models — Hands-on Small Language Models
+- sources/cestari-2023-hawkes-based-cryptocurrency-forecasting-limit-order — Hawkes-based cryptocurrency forecasting via Limit Order Book data
 - sources/namora-2021-hierarchical — Hierarchical Credibility Model
 - sources/stavroyiannis-2017-bitcoin-multifractal — High Frequency Multifractal Properties of Bitcoin
+- sources/rayment-2023-high-frequency-trading-deep-reinforcement-learning — High Frequency Trading with Deep Reinforcement Learning Agents Under a Directional Changes Sampling Framework
 - sources/boffelli-2017-euro-bond-spread-correlations — High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers
 - sources/aitsahalia-2020-hf-factor-models-regressions — High-Frequency Factor Models and Regressions
+- sources/scaillet-2017-high-frequency-jump-analysis-bitcoin-market — High-Frequency Jump Analysis of the Bitcoin Market
+- sources/briola-2024-hlobinformation-persistence-structure-limit-order-books — HLOB – Information Persistence and Structure in Limit Order Books
 - sources/gentzel-2021-osrct-evaluation — How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference
+- sources/tran-2021-how-informative-order-book-beyond-bestlevels — How informative is the Order Book Beyond the Best Levels? Machine Learning Perspective
 - sources/ellenberg-2014-how-not-to-be-wrong — How Not to Be Wrong: The Power of Mathematical Thinking
 - sources/openai-2025-how-openai-uses-codex — How OpenAI Uses Codex
+- sources/wu-2021-how-robust-limit-order-book-representations — How Robust are Limit Order Book Representations under Data Perturbation?
 - sources/anthropic-2025-multi-agent-research-system — How We Built Our Multi-Agent Research System
+- sources/yamamoto-2025-hybrid-cnn-lstm-model-bitcoin-limit — Hybrid CNN-LSTM Model for Bitcoin Limit Order Book Prediction
+- sources/rahman-2024-hybrid-vector-auto-regression-neural-network — Hybrid Vector Auto Regression and Neural Network Model for Order Flow Imbalance Prediction in High-Frequency Trading
 - sources/cao-2023-implied-vol-bond-returns — Implied Volatility Changes and Corporate Bond Returns
 - sources/blier-wong-2024-improved-thresholds — Improved thresholds for e-values
+- sources/adegboye-2021-improving-trend-reversal-estimation-forex-markets — Improving Trend Reversal Estimation in Forex Markets Under a Directional Changes Paradigm with Classification Algorithms
 - sources/tsai-2020-hierarchical-mortality — Incorporating hierarchical credibility theory into modelling of multi-country mortality rates
+- sources/lehalle-2019-incorporating-signals-into-optimal-trading — Incorporating Signals into Optimal Trading
+- sources/vliet-2026-information-arrival-stochastic-clock-intraday-trading — Information Arrival as a Stochastic Clock for Intraday Trading
+- sources/jonuzaj-2024-information-content-book-trade-order-flow — Information Content of Book and Trade Order Flow at Different Trading Volume Time Scales
+- sources/gencay-2004-information-flow-between-volatilities-across-time-scales — Information Flow Between Volatilities Across Time Scales
 - sources/huber-2026-information-flows-trading-networks — Information Flows in Trading Networks
+- sources/scalia-1998-information-transmission-causality-italian-treasury-bond-market — Information transmission and causality in the Italian Treasury bond market
+- sources/lee-2017-informed-trading-futures-markets-during-financial — Informed Trading of Futures Markets During the Financial Crisis: Evidence from the VPIN
+- sources/ferreruela-2025-informed-trading-investor-beliefs-consensus-volatility — Informed trading, investor beliefs consensus and volatility: Evidence from the Limit Order Book dynamics during COVID-19 and short-selling ban
 - sources/ms-2019-01-11-balance-sheet-normalization — Insight into the Balance Sheet
 - sources/kelly-2026-ipca — Instrumented Principal Component Analysis
+- sources/wu-2023-intelligent-trading-strategy-based-improved-directional — Intelligent trading strategy based on improved directional change and regime change detection
 - sources/trinh-2006-lever-framework — Introducing LEVER: A Framework for Scoring LEVeraging Event Risk
 - sources/ms-2018-03-16-credit-bmi — Introducing the Credit Bond Market Indicator (credit-BMI)
 - sources/blount-2025-introduction-to-agents — Introduction to Agents
 - sources/reddi-2024-introduction-ml-systems — Introduction to Machine Learning Systems
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund — Introduction to the Alaph Capital Liquid Macro Credit Fund
+- sources/qureshi-2018-investigating-limit-order-book-characteristics-short — Investigating Limit Order Book Characteristics for Short Term Price Prediction: a Machine Learning Approach
 - sources/ilmanen-2022-investing-amid-low-expected-returns — Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least
+- sources/spears-2020-investment-sizing-deep-learning-prediction-uncertainties — Investment sizing with deep learning prediction uncertainties for high-frequency Eurodollar futures trading
 - sources/chen-2024-jump-clustering-information-flows — Jump Clustering, Information Flows, and Stock Price Efficiency
 - sources/laumann-2021-kernel-tests-nonstationary — Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 - sources/lee-2024-kowcpi — Kernel-based Optimally Weighted Conformal Prediction Intervals
@@ -272,13 +390,27 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/tomak-2024-learning-automl — Learning AutoML
 - sources/misiakos-2025-dag-tfrc — Learning DAGs and Root Causes from Time-Series Data (Misiakos 2025)
 - sources/oshin-2025-learning-langchain — Learning LangChain
+- sources/balagan-2026-learning-polymarket-taker-trade-direction-chain — Learning Polymarket Taker Trade Direction from the On-Chain Tape
 - sources/montalion-2024-learning-systems-thinking — Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals
+- sources/fabre-2025-learning-spoofability-limit-order-books-interpretable — Learning the Spoofability of Limit Order Books With Interpretable Probabilistic Neural Networks
+- sources/kalev-2025-lietf-trading-behavior-during-u-s — Lietf Trading Behavior During U.S. – China Trade War
 - sources/kapadia-2012-limited-arbitrage-equity-credit — Limited arbitrage between equity and credit markets
+- sources/corradi-2015-liquidity-crises-different-time-scales — Liquidity crises on different time scales
+- sources/mertens-2021-liquidity-fluctuations-latent-dynamics-price-impact — Liquidity Fluctuations and the Latent Dynamics of Price Impact
+- sources/xiao-2025-lit-limit-order-book-transformer — LiT: limit order book transformer
+- sources/sfendourakis-2020-lob-modeling-hawkes-processes-state-dependent — LOB Hawkes modeling using processes with a state-dependent factor
+- sources/prata-2024-lob-based-deep-learning-models-stock — LOB-Based Deep Learning Models for Stock Price Trend Prediction: A Benchmark Study
+- sources/linna-2025-lobert-generative-ai-foundation-model-limit — LOBERT: Generative AI Foundation Model for Limit Order Book Messages
 - sources/ms-2019-04-05-long-dated-equity-vol — Long-Dated Vol Lines Up
 - sources/peiris-2025-rnn-har-var — Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory and Non-Linear Realized Volatility Model
+- sources/shabani-2020-low-rank-temporal-attention-augmented-bilinear — Low-Rank Temporal Attention-Augmented Bilinear Network for financial time-series forecasting
+- sources/adegboye-2021-machine-learning-classification-regression-models-predicting — Machine Learning Classification and Regression Models for Predicting Directional Changes Trend Reversal in FX Markets
+- sources/nousi-2019-machine-learning-forecasting-mid-price-movements — Machine Learning for Forecasting Mid Price Movement using Limit Order Book Data
+- sources/ferreira-2020-machine-learning-algorithmic-trading-leading-reinforced — Machine Learning in Algorithmic Trading leading to Reinforced Deep Kalman Filters
 - sources/nunes-2022-ml-fixed-income — Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management
 - sources/fedenia-2021-ml-trade-classifier — Machine Learning in the Corporate Bond Market: A New Classifier
 - sources/saha-2024-muni-bond-ml — Machine Learning-based Relative Valuation of Municipal Bonds
+- sources/toke-2022-marked-point-processes-intensity-ratios-limit — Marked point processes and intensity ratios for limit order book modeling
 - sources/shi-2022-cds-options-comovement — Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces
 - sources/barzykin-2021-fx-dealer-tiers — Market making by an FX dealer: tiers, pricing ladders and hedging rates
 - sources/chaudhury-2024-math-architectures-deep-learning — Math and Architectures of Deep Learning
@@ -287,8 +419,12 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/vovk-2024-merging-sequential-evalues — Merging sequential e-values via martingales
 - sources/hudson-2019-its-healthcare-reporting — Methodology and reporting characteristics of studies using interrupted time series design in healthcare
 - sources/wang-2018-cross-responses — Microscopic Understanding of Cross-Responses Between Stocks
+- sources/calcada-2016-microstructural-changes-befor-macroeconomic-announcements-predictability — Microstructural changes before Macroeconomic Announcements: Predictability of Economic Surprises in the U.S. market
 - sources/gueant-2019-particle-filtering-bonds — Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach
+- sources/ntakaris-2020-mid-price-prediction-based-machine-learning — Mid-price Prediction Based on Machine Learning Methods with Technical and Quantitative Indicators
+- sources/ntakaris-2024-minimal-batch-adaptive-learning-policy-engine — Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading
 - sources/andreou-2020-mixed-frequency-macro-finance — Mixed-Frequency Macro-Finance Factor Models: Theory and Applications
+- sources/eisler-2012-models-impact-all-order-book-events — Models for the impact of all order book events
 - sources/ms-2017-10-13-machine-learning-loan-mod-redefaults — MODs: Machine Learning on Drivers
 - sources/daniel-2016-momentum-crashes — Momentum crashes
 - sources/ms-2016-09-27-momentum-for-diversification — Momentum for Diversification
@@ -304,64 +440,135 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/sadhu-2024-multi-agent-coordination-rl — Multi-Agent Coordination: A Reinforcement Learning Approach
 - sources/yang-2026-multi-distribution-robust-cp — Multi-Distribution Robust Conformal Prediction
 - sources/he-2024-functional-regression — Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commodity Futures Term Structure Dynamics
+- sources/shabani-2022-multi-head-temporal-attention-augmented-bilinear — MULTI-HEAD TEMPORAL ATTENTION-AUGMENTED BILINEAR NETWORK FOR FINANCIAL TIME SERIES PREDICTION
+- sources/zhang-2021-multi-horizon-forecasting-limit-order-books — Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing Units
 - sources/xu-2020-mlofi — Multi-Level Order-Flow Imbalance in a Limit Order Book
+- sources/long-2026-multi-objective-genetic-programming-based-algorithmic — Multi-objective genetic programming-based algorithmic trading, using directional changes and a modified sharpe ratio score for identifying optimal trading strategies
 - sources/huynh-2021-mogp-longevity — Multi-output Gaussian processes for multi-population longevity modelling
 - sources/golub-2014-multiscale-liquidity — Multi-scale Representation of High Frequency Market Liquidity
 - sources/cotturo-2026-multifactor-timing-deep-learning — Multifactor Timing with Deep Learning
 - sources/chi-2024-multiple-testing-negative-dependence — Multiple testing under negative dependence
 - sources/ziel-2019-multivariate-forecasting-evaluation — Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules
+- sources/chen-2022-multivariate-realized-volatility-forecasting-graph-neural — Multivariate Realized Volatility Forecasting with Graph Neural Network
+- sources/turkoglu-2015-natural-time-crash-risk — Natural Time and Crash Risk
+- sources/hu-2026-neural-hidden-markov-model-adaptive-granularity — Neural Hidden Markov Model with Adaptive Granularity Attention for High-Frequency Order Flow Modeling
+- sources/zheng-2022-order-flow-technical-analysis-neural-network — Neural Network and Order Flow, Technical Analysis: Predicting short-term direction of futures contract
+- sources/scheiber-2017-new-strategies-asset-classes-increased-performance — New Strategies and Asset Classes for Increased Performance
 - sources/ubs-2012-next-gen-credit-curves — Next-Generation Credit Curves
+- sources/brutti-2026-noise-robust-orthogonal-clustering-applications-equity-markets — Noise-robust orthogonal clustering and applications to equity markets
 - sources/farinhas-2024-non-exchangeable-crc — Non-Exchangeable Conformal Risk Control
+- sources/angstmann-2026-non-unique-time-market-incompleteness — Non-unique time and market incompleteness
 - sources/vovk-2024-nonparametric-e-tests-symmetry — Nonparametric e-tests of symmetry
+- sources/zhao-2026-novel-trading-algorithms-augmented-intrinsic-time — Novel Trading Algorithms augmented by Intrinsic Time and Machine Learning
+- sources/tsang-2024-nowcasting-directional-change-high-frequency-fx — Nowcasting directional change in high frequency FX markets
 - sources/krishnan-2007-credit-spread-forecast — On Forecasting the Term Structure of Credit Spreads
 - sources/zhang-2024-powerful-p-e-composite — On the existence of powerful p-values and e-values for composite hypotheses
+- sources/dahlhaus-2013-online-spot-volatility-estimation-decomposition-nonlinear — On-line Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
 - sources/ms-2019-02-13-ecb-periphery-one-size — One Size Doesn't Fit All
+- sources/ntakaris-2024-online-high-frequency-trading-stock-forecasting — Online High-Frequency Trading Stock Forecasting with Automated Feature Clustering and Radial Basis Function Neural Networks
 - sources/su-2026-llm-watermark-eprocesses — Online LLM watermark detection via e-processes
 - sources/hore-2026-monotone-density-calibration — Online monotone density estimation and log-optimal calibration
+- sources/young-2026-openmarket-synchronized-polymarket-binance-dataset-high — OpenMarket: A Synchronized Polymarket–Binance Dataset for High-Frequency Prediction-Market Research
 - sources/cartea-2015-optimal-execution — Optimal execution with limit and market orders
 - sources/ellersgaard-2018-hedge-tracking-lob — Optimal Hedge Tracking Portfolios in a Limit Order Book
 - sources/lucic-2024-option-market-making-vol-arbitrage — Optimal Option Market Making and Volatility Arbitrage
 - sources/barzykin-2025-adverse-selection — Optimal Quoting under Adverse Selection and Price Reading
+- sources/palsma-2019-optimising-directional-changes-trading-strategies-different — Optimising Directional Changes trading strategies with different algorithms
+- sources/salman-2023-optimization-trading-strategies-genetic-algorithm-under — Optimization of Trading Strategies Using a Genetic Algorithm under the Directional Changes Paradigm with Multiple Thresholds
+- sources/ntakaris-2023-optimum-output-long-short-term-memory — Optimum Output Long Short-Term Memory Cell for High-Frequency Trading Forecasting
+- sources/michael-2022-option-volume-imbalance-predictor-equity-market — Option Volume Imbalance as a predictor for equity market returns
+- sources/jong-2026-order-book-dynamics-two-dimensional-exit — Order Book Dynamics - Two-Dimensional Exit Problems on a Cryptocurrency Exchange
+- sources/ginebri-2008-order-dynamics-italian-treasury-security-wholesale — Order Dynamics in the Italian Treasury Security Wholesale Secondary Market
+- sources/evans-2002-order-flow-exchange-rate-dynamics — Order Flow and Exchange Rate Dynamics
+- sources/sitaru-2023-decomposed-ofi — Order Flow Decomposition for Price Impact Analysis in Equity Limit Order Books
+- sources/miranda-2019-order-flow-dynamics-prediction-order-cancelation — Order flow dynamics for prediction of order cancelation and applications to detect market manipulation
+- sources/hanke-2015-order-flow-imbalance-effects-german-stock — Order flow imbalance effects on the German stock market
+- sources/dobrev-2025-order-flow-imbalances-amplification-price-movements — Order Flow Imbalances and Amplification of Price Movements: Evidence from U.S. Treasury Markets
 - sources/murphy-2006-order-flow-critique — Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)
+- sources/bechler-2017-order-flows-limit-order-book-resiliency — Order Flows and Limit Order Book Resiliency on the Meso-Scale
+- sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market — Order Imbalance, Liquidity, and Returns of the U.S. Treasury Market
 - sources/lu-2018-market-making — Order-book modelling and market making strategies
+- sources/nittoor-2025-order-flow-filtration-directional-association-short — Order-Flow Filtration and Directional Association with Short-Horizon Returns
 - sources/ms-2015-03-06-bond-market-indicators — Our Bond Market Indicators: A Powerful Systematic Approach
 - sources/zhang-2021-pairs-general-ssm — Pairs Trading with General State Space Models
+- sources/song-2014-parameter-analysis-vpin-volume-synchronized-probability — Parameter Analysis of the VPIN (Volume synchronized Probability of Informed Trading) Metric
+- sources/khadira-2026-path-signatures-universal-feature-extractors-limit — Path Signatures as Universal Feature Extractors for Limit Order Book Mid-Price Prediction
+- sources/glattfelder-2010-patterns-high-frequency-fx-data-discovery — Patterns in high-frequency FX data: Discovery of 12 empirical scaling laws
+- sources/constantinou-2010-periodicities-fx-markets-intrinsic-time — Periodicities of FX Markets in Intrinsic Time
+- sources/qin-2026-polymarket-v1-database — Polymarket-v1 Database
 - sources/zaffran-phd — Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting
 - sources/xu-2024-post-selection-evalue-ci — Post-selection inference for e-value based confidence intervals
 - sources/gift-2021-practical-mlops — Practical MLOps: Operationalizing Machine Learning Models
+- sources/avramov-2025-predictability-corporate-bond-returns-structured-approach — Predictability in Corporate Bond Returns: A Structured Approach
 - sources/bali-2022-bond-ml — Predicting Corporate Bond Returns: Merton Meets Machine Learning
 - sources/feng-2025-predicting-bond-returns — Predicting Individual Corporate Bond Returns
+- sources/das-2026-predicting-stock-price-movements-high-frequency — Predicting Stock Price Movements in High-Frequency Trading
 - sources/duasa-2010-predicting-crisis-recovery — Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis
+- sources/peng-2025-prediction-high-frequency-futures-return-directions — Prediction of high-frequency futures return directions based on the mean uncertainty classification methods: An application in China's future market
 - sources/kim-2020-jackknife-plus-after-bootstrap — Predictive Inference Is Free with the Jackknife+-after-Bootstrap
 - sources/barber-2021-jackknife-plus — Predictive Inference with the Jackknife+
+- sources/takahashi-nd-price-impact-order-flow-imbalances — Price Impact of Order Flow Imbalances
+- sources/zheng-2013-price-jump-prediction-limit-order-book — Price jump prediction in Limit Order Book
+- sources/shternshis-2023-price-predictability-ultra-high-frequency-entropy — Price predictability at ultra-high frequency: Entropy-based randomness test
+- sources/lee-2024-price-predictability-limit-order-book-deep — Price predictability in limit order book with deep learning model
 - sources/dickerson-2023-bond-risk — Priced risk in corporate bonds
+- sources/karyampas-2011-probability-informed-trading-volatility-etf — Probability of Informed Trading and Volatility for an ETF
+- sources/aloud-2016-profitability-directional-change-based-trading-strategies — Profitability of Directional Change Based Trading Strategies: The Case of Saudi Stock Market
+- sources/luo-2011-profitable-opportunities-around-macroeconomic-announcements-u — Profitable Opportunities around Macroeconomic Announcements in the U.S. Treasury Market
 - sources/boonstra-2024-google-prompt-engineering — Prompt Engineering
 - sources/berryman-2024-prompt-engineering-llms — Prompt Engineering for LLMs
+- sources/oomen-2004-properties-realized-variance-pure-jump-process — Properties of Realized Variance for a Pure Jump Process: Calendar Time Sampling versus Business Time Sampling
+- sources/zhai-2026-public-trader-identity-adverse-selection-return — Public Trader Identity: Adverse Selection and Return Predictability
+- sources/vlasiuk-2025-push-response-anomalies-high-frequency-s — Push-response anomalies in high-frequency S&P 500 price series
 - sources/lehman-2007-qcr-quarterly — QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk
 - sources/peters-2026-quantile-diffusions — Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
+- sources/kamm-2026-quantum-weighted-moving-average-predicting-limit — Quantum Weighted Moving Average for Predicting Limit Order Book Trends
+- sources/gould-2016-queue-imbalance-one-tick-ahead-price — Queue Imbalance as a One-Tick-Ahead Price Predictor in a Limit Order Book
 - sources/xie-2026-realized-probability-market-timing — Realized Probability Index is a Better Market Timing Indicator
 - sources/ljungqvist-2012-recursive-macroeconomic-theory — Recursive Macroeconomic Theory
+- sources/stoikov-2016-reducing-transaction-costs-low-latency-trading — Reducing transaction costs with low-latency trading algorithms
+- sources/andersen-2013-reflecting-vpin-dispute — Reflecting on the VPIN Dispute
+- sources/adegboye-2017-regression-genetic-programming-estimating-trend-end — Regression genetic programming for estimating trend end in foreign exchange market
+- sources/valenzuela-2015-relative-liquidity-future-volatility — Relative liquidity and future volatility
+- sources/muyao-2025-representation-learning-limit-order-book-comprehensive — Representation Learning of Limit Order Book: A Comprehensive Study and Benchmarking
+- sources/linna-2026-repurposing-deep-limit-order-book-forecasting — Repurposing Deep Limit Order Book Forecasting for Scenario-Conditioned Market Impact Modeling
+- sources/li-2026-research-high-frequency-financial-transaction-behavior — Research on high-frequency financial transaction behavior recognition and prediction method integrating machine learning
 - sources/blitz-2011-residual-momentum — Residual momentum
+- sources/takahashi-2025-returns-order-flow-imbalances-intraday-dynamics — Returns and Order Flow Imbalances: Intraday Dynamics and Macroeconomic News Effects
 - sources/koukorinis-stylized-facts — Revisiting stylised facts: information clock, persistence, long memory and dependence
+- sources/barardehi-2025-revisiting-shaped-patterns-volatility-price-impacts — Revisiting the ∪-shaped patterns in volatility and price impacts: Novel results using trade-time estimates
+- sources/angstmann-2026-revisiting-trade-sign-long-memory-square — Revisiting Trade-sign Long-memory and Square-root Law price impact
 - sources/bergault-2023-rfq-pricing — RFQ Impact Pricing and Liquidity Dynamics
 - sources/bhansali-2018-right-tail-hedging — Right Tail Hedging: Managing Risk When Markets Melt Up
 - sources/bams-2003-risk-premia-term-structure-panel — Risk premia in the term structure of interest rates: a panel data approach
 - sources/tsagaris-2010-robust-adaptive-portfolio — Robust and Adaptive Algorithms for Online Portfolio Selection
+- sources/yamagishi-2026-run-one-rule-five-clocks-only — Run One Rule on Five Clocks and Only the Direction and the Cost Agree [F055]: The direction stays below a cost of 0.7123 to 0.7304 pips on all five and the cost differs by only 1.0254 times, yet the count differs by 57.4639 times and the duration of a bar by 62.5735 times
+- sources/nortier-2016-second-order-proximal-methods-applied-elastic — Second Order Proximal Methods Applied to Elastic Net Penalised Vector Generalised Linear Models
+- sources/dixon-2017-sequence-classification-limit-order-book-recurrent — Sequence Classification of the Limit Order Book using Recurrent Neural Networks
 - sources/xu-2022-spci — Sequential Predictive Conformal Inference for Time Series
 - sources/sullivan-2025-simulation-models-data-science — Simulation Models for Data Science
 - sources/nelson-2024-swe-for-data-scientists — Software Engineering for Data Scientists
 - sources/winteringham-2025-software-testing-generative-ai — Software Testing with Generative AI
 - sources/ms-2011-11-29-europe-in-the-balance — Sovereign Subjects: Europe in the Balance
 - sources/spec-2012-single-name-fundamental — Specification Draft: Single Name Fundamental Analysis
+- sources/rubisov-2015-statistical-arbitrage-limit-order-book-imbalance — Statistical Arbitrage Using Limit Order Book Imbalance
 - sources/cartea-2025-statistical-predictions-trading — Statistical Predictions of Trading Strategies in Electronic Markets
 - sources/mcelreath-2020-statistical-rethinking — Statistical Rethinking: A Bayesian Course with Examples in R and STAN
+- sources/hu-2025-ofi-csi300-ou — Stochastic Price Dynamics in Response to Order Flow Imbalance: Evidence from CSI 300 Index Futures
+- sources/silva-2007-stochastic-volatility-financial-markets-fluctuating-rate — Stochastic volatility of financial markets as the fluctuating rate of trading: an empirical study
 - sources/gneiting-2007-strictly-proper-scoring-rules — Strictly Proper Scoring Rules, Prediction, and Estimation
+- sources/chen-2019-studying-regime-change-directional-change — Studying Regime Change using Directional Change
 - sources/ms-2020-03-29-full-court-policy-press — Sunday Start | What's Next in Global Macro: A Full-Court Policy Press
+- sources/kijima-2016-svm-enhanced-filtering-model-limit-order — SVM-Enhanced Filtering Model for Limit Order Book Dynamics
 - sources/li-2025-systematic-momentum — Systematic Momentum: A New Class of Price Patterns
 - sources/carver-2015-systematic-trading — Systematic Trading: A unique new method for designing trading and investing systems
+- sources/tran-2018-temporal-attention-augmented-bilinear-network-financial — Temporal Attention augmented Bilinear Network for Financial Time-Series Data Analysis
+- sources/makinde-2026-temporal-kolmogorov-arnold-networks-t-kan — Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha-Decay
+- sources/passalis-2020-temporal-logistic-neural-bag-features-financial — Temporal Logistic Neural Bag-of-Features for Financial Time series Forecasting leveraging Limit Order Book Data
 - sources/kumar-2022-liquidity-adjusted-afns — Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model
 - sources/cai-2023-testing-conditional-independence-time-series — Testing Conditional Independence in Causal Inference for Time Series Data
 - sources/fan-2024-testing-mean-variance-eprocesses — Testing the mean and variance by e-processes
+- sources/wu-2013-testing-vpin-big-data-response-reflecting — Testing VPIN on Big Data -- Response to "Reflecting on the VPIN Dispute"
 - sources/wang-2023-p-star-values — Testing with p*-values: between p-values, mid p-values, and e-values
 - sources/fermanian-2017-md2c-corporate-bonds — The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms
 - sources/pearl-2018-book-of-why — The Book of Why: The New Science of Cause and Effect
@@ -369,33 +576,62 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/martin-2024-credit-curve — The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return
 - sources/collin-dufresne-2001-determinants-credit-spread-changes — The Determinants of Credit Spread Changes
 - sources/wilson-2024-llm-security-playbook — The Developer's Playbook for Large Language Model Security
+- sources/pham-2020-effects-trade-size-market-depth-immediate — The effects of trade size and market depth on immediate price impact in a limit order book market
 - sources/hastie-2009-elements-statistical-learning — The Elements of Statistical Learning
+- sources/chang-2021-epps-effect-under-alternative-sampling-schemes — The Epps effect under alternative sampling schemes
 - sources/pardo-2008-evaluation-optimization-trading-strategies — The Evaluation and Optimization of Trading Strategies
 - sources/mercado-2015-taarss-flow-whisperer — The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1
 - sources/huang-2025-global-credit-spread-puzzle — The Global Credit Spread Puzzle
 - sources/ms-2013-10-30-japanification-or-salvation — The Global Macro Analyst: Japanification or Salvation
 - sources/aleti-2022-high-frequency-factor-zoo — The High-Frequency Factor Zoo
+- sources/indriawan-2019-impact-us-stock-market-opening-price — The Impact of the US Stock Market Opens on Price Discovery of Government Bond Futures
 - sources/nguyen-2026-gammerman-festschrift — The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman
+- sources/wu-2012-information-content-euro-bund-futures-options — The Information Content of the Euro-Bund Futures Option Markets
+- sources/zaznov-2024-intraday-dynamics-predictor-trioflow-fusion-convolutional — The Intraday Dynamics Predictor: A TrioFlow Fusion of Convolutional Layers and Gated Recurrent Units for High-Frequency Price Movement Forecasting
 - sources/chan-2001-level-persistence-growth-rates — The Level and Persistence of Growth Rates
+- sources/eisler-2007-limit-order-book-different-time-scales — The limit order book on different time scales
+- sources/shi-2021-limit-order-book-recreation-model-lobrm — The Limit Order Book Recreation Model (LOBRM): An Extended Analysis
+- sources/shi-2021-lob-recreation-model-predicting-limit-order — The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network
 - sources/gould-2016-long-memory-fx — The Long Memory of Order Flow in the Foreign Exchange Spot Market
 - sources/wang-2025-admissible-merging-evalues — The only admissible way of merging arbitrary e-values
+- sources/su-2021-generalized-ofi — The Price Impact of Generalized Order Flow Imbalance
 - sources/cont-2014-price-impact-order-book-events — The Price Impact of Order Book Events
+- sources/eisler-2011-price-impact-order-book-events-market — The price impact of order book events: market orders, limit orders and cancellations
+- sources/aldrich-2014-random-walk-high-frequency-trading — The Random Walk of High Frequency Trading
 - sources/amadori-2014-relative-informational-efficiency — The Relative Informational Efficiency of Stocks, Options and Credit Default Swaps During the Financial Crisis
 - sources/db-2020-04-23-return-of-the-machines — The Return of the Machines (Quantcraft, 23 April 2020)
+- sources/lucchese-2024-short-term-predictability-returns-order-book — The Short-Term Predictability of Returns in Order Book Markets: A Deep Learning Perspective
+- sources/maitrier-2025-artificial-market-generator — The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility II: An Artificial Market Generator
+- sources/maitrier-2026-square-root-impact-framework — The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility: A Unifying Framework
+- sources/glattfelder-2024-theory-intrinsic-time-primer — The Theory of Intrinsic Time: A Primer
+- sources/gillemot-2006-there-s-more-volatility-than-volume — There’s more to volatility than volume
 - sources/dawson-2020-systems-mental-models — Thinking in Systems and Mental Models: Think Like a Super Thinker
 - sources/meadows-2008-thinking-in-systems — Thinking in Systems: A Primer
 - sources/ms-2020-03-27-fiscal-package-unemployment — Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?
+- sources/berardi-2005-time-foreign-exchange-markets — Time and foreign exchange markets
+- sources/aloud-2016-time-series-analysis-indicators-under-directional — Time Series Analysis Indicators under Directional Changes: The Case of Saudi Stock Market
 - sources/tooley-1997-time-tense-causation — Time, Tense, and Causation
 - sources/ignatiadis-2026-compound-adaptive-bh — Tiny but uniform improvements of adaptive BH procedures via compound e-values
+- sources/berti-2025-tlob-novel-transformer-model-dual-attention — TLOB: A Novel Transformer Model with Dual Attention for Price Trend Prediction with Limit Order Book Data
+- sources/besson-2016-cross-or-not-cross-spread-that — To Cross or Not to Cross the Spread: That Is the Question
+- sources/abdulkarim-2019-topics-market-microstructure — Topics in Market Microstructure
+- sources/wu-2022-towards-robust-representations-limit-orders-books — Towards Robust Representations of Limit Orders Books for Deep Learning Models
+- sources/lipton-2013-trade-arrival-dynamics-quote-imbalance-limit — Trade arrival dynamics and quote imbalance in a limit order book
+- sources/lu-2023-trade-co-occurrence-trade-flow-decomposition — Trade Co-occurrence, Trade Flow Decomposition, and Conditional Order Imbalance in Equity Markets
 - sources/brigida-2019-trade-intensity-liquidity — Trade Intensity and Liquidity
 - sources/nolte-2011-fx-latent-factor-panel-intensity — Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel Intensity Approach
 - sources/ms-2018-11-05-trading-risk-premia-emfx-virp — Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)
+- sources/salman-2022-trading-strategies-optimization-genetic-algorithm-under — Trading Strategies Optimization by Genetic Algorithm under the Directional Changes Paradigm
+- sources/bilokon-2023-transformers-versus-lstms-electronic-trading — Transformers versus LSTMs for Electronic Trading
 - sources/ms-2019-01-25-treasury-market-commentary — Treasury Market Commentary, January 25
 - sources/vovk-2024-true-false-discoveries-evalues — True and false discoveries with independent and sequential e-values
 - sources/ms-2008-08-28-gilt-futures-ctd-option — UK Interest Rate Strategist: Gilt Futures: The Return of the Option
+- sources/bileki-2021-uma-abordagem-com-modelo-de-aprendizado — Uma abordagem com modelo de aprendizado de máquina híbrido para predição de movimentos de preço médio de ativos pelo livro de ofertas
 - sources/angelopoulos-2021-raps — Uncertainty Sets for Image Classifiers using Conformal Prediction
 - sources/avramov-2007-changes-corporate-credit-spreads — Understanding Changes in Corporate Credit Spreads
 - sources/pelger-2015-understanding-systematic-risk — Understanding Systematic Risk: A High-Frequency Approach
+- sources/cestari-2025-univariate-hawkes-based-cryptocurrency-forecasting-limit — Univariate Hawkes-based cryptocurrency forecasting via Limit Order Book data
+- sources/patzelt-2018-universal-scaling-nonlinearity-aggregate-price-impact — Universal scaling and nonlinearity of aggregate price impact in financial markets
 - sources/rehman-2024-green-bonds — Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks
 - sources/ms-2019-02-28-selling-the-rally — US Corporate Credit Strategy Brief: Selling the Rally
 - sources/ms-2019-02-01-credit-strategy-chartbook — US Corporate Credit Strategy Chartbook
@@ -406,13 +642,27 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - sources/ms-2019-03-25-rate-cuts-before-recessions — US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts
 - sources/ms-2018-04-05-funding-market-signals — US Interest Rate Strategy: Funding Market Signals (Correction)
 - sources/ms-2018-02-27-who-buys-treasuries — US Interest Rate Strategy: Who Is Going to Buy Treasuries?
+- sources/tsantekidis-2020-deep-learning-price-prediction-exploiting-stationary — Using Deep Learning for price prediction by exploiting stationary limit order book features
+- sources/tsantekidis-2017-deep-learning-detect-price-change-indications — Using Deep Learning to Detect Price Change Indications in Financial Markets
+- sources/tao-2018-directional-change-information-extraction-financial-market — Using Directional Change for Information Extraction in Financial Market Data
+- sources/mynbaev-2020-full-limit-order-book-price-jump — Using full limit order book for price jump prediction
 - sources/aitsahalia-2017-pca-hf-factor-model — Using Principal Component Analysis to Estimate a High Dimensional Factor Model with High-Frequency Data
 - sources/anon-2024-vector-databases-rag — Utilizing Vector Databases to Enhance RAG Models
 - sources/yegge-2025-vibe-coding — Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond
+- sources/dahlhaus-2016-volatility-decomposition-estimation-time-changed-price — Volatility Decomposition and Estimation in Time-Changed Price Models
+- sources/tunyavetchakit-2016-volatility-decomposition-nonparametric-estimation-spot-volatility — Volatility Decomposition and Nonparametric Estimation of Spot Volatility of Models with Poisson Sampling under Market Microstructure Noise
+- sources/kong-2025-volatility-estimation-agricultural-futures-markets-microstructure — Volatility Estimation in Agricultural Futures Markets: A Microstructure Approach
 - sources/van-zundert-2017-volatility-momentum — Volatility-Adjusted Momentum
+- sources/zaman-2026-volatility-aware-extreme-event-detection-high — Volatility-Aware Extreme Event Detection in High-Frequency Financial Markets
+- sources/he-2016-volume-synchronised-probability-informed-trading-chinese — Volume-Synchronised Probability of Informed Trading on Chinese Index Futures: A Comparative Approach
+- sources/jiang-2015-volume-synchronized-probability-informed-trading-vpin — Volume-Synchronized Probability of Informed Trading (VPIN), Market Volatility, and High-Frequency Liquidity
 - sources/ms-2011-03-28-high-grade-mid-cycle — Weekly Credit Wrap: High Grade, Mid-Cycle
 - sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging — Weekly Credit Wrap: High Yield — Pricing Tomorrow's Deleveraging Today
+- sources/jeon-2026-when-does-order-flow-matter-state — When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures
+- sources/coz-2024-when-cross-impact-relevant — When is cross impact relevant?
+- sources/xu-2026-when-quotes-crumble-detecting-transient-mechanical — When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books
 - sources/chao-2019-etf-flows-prices — Why Do ETF Flows Move Prices?
+- sources/yamagishi-2026-volume-bar-foreign-exchange-identically-tick — 為替の「出来⾼⾜」は、ティック⾜と恒等的に同じものである [F053]
 
 ## Concepts
 - concepts/hundred-percent-reserve-requirement — 100-Percent Reserve Requirement
@@ -485,6 +735,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/bounded-rationality — Bounded Rationality
 - concepts/bregman-divergence — Bregman Divergence
 - concepts/bubble-detection — Bubble Detection
+- concepts/bulk-volume-classification — Bulk Volume Classification
 - concepts/business-cycles — Business Cycles
 - concepts/byte-pair-encoding — Byte Pair Encoding
 - concepts/buhlmann-straub-model — Bühlmann-Straub Model
@@ -576,6 +827,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/cross-asset-rotation — Cross-Asset Rotation Strategy
 - concepts/cross-conformal-prediction — Cross-Conformal Prediction / Jackknife+ / CV+
 - concepts/cross-currency-basis-swap — Cross-Currency Basis Swap
+- concepts/cross-impact — Cross-Impact
 - concepts/cross-sectional-momentum — Cross-Sectional Momentum
 - concepts/currency-exchange-rates — Currency Exchange Rates and Forecasting
 - concepts/curse-of-dimensionality — Curse of Dimensionality
@@ -600,6 +852,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/dependency-inversion-principle — Dependency Inversion Principle
 - concepts/diebold-mariano-test — Diebold-Mariano Test
 - concepts/difference-in-differences — Differences-in-Differences
+- concepts/directional-change — Directional Change
 - concepts/directional-forecasting — Directional Forecasting
 - concepts/discriminant-analysis — Discriminant Analysis and Classification
 - concepts/disposition-effect — Disposition Effect
@@ -633,6 +886,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/energy-score — Energy Score
 - concepts/entity-resolution — Entity Resolution
 - concepts/entry-point-analysis — Entry Point Analysis
+- concepts/epps-effect — Epps Effect
 - concepts/epsilon-operator-counterfactuals — Epsilon-Operator Semantics for Counterfactuals
 - concepts/equity-forward-pricing — Equity Forward Pricing
 - concepts/error-correction-model — Error Correction Model
@@ -642,6 +896,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/etf-flow-tactical-asset-allocation — ETF Flow-Based Tactical Asset Allocation
 - concepts/etf-flows — ETF Flows
 - concepts/evaluation-constraint-counterfactuals — Evaluation Constraint on Counterfactuals
+- concepts/event-clock — Event Clock
 - concepts/event-risk — Event Risk
 - concepts/event-driven-microservices — Event-Driven Microservices
 - concepts/ewmac-carry-trading-rules — EWMAC and Carry Trading Rules
@@ -759,6 +1014,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/interquantile-expectation — Interquantile Expectation
 - concepts/interrupted-time-series-design — Interrupted Time Series Design
 - concepts/interval-score — Interval Score
+- concepts/intrinsic-time — Intrinsic Time
 - concepts/inventory-risk — Inventory Risk
 - concepts/inverse-probability-weighting — Inverse Probability Weighting
 - concepts/ip-weighting-marginal-structural-models — IP Weighting and Marginal Structural Models
@@ -775,6 +1031,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/knowledge-lake — Knowledge Lake
 - concepts/kowcpi — KOWCPI
 - concepts/kriging — Kriging
+- concepts/kyles-lambda — Kyle's Lambda
 - concepts/ladder-of-causation — Ladder of Causation
 - concepts/lagrange-multipliers — Lagrange Multipliers Method
 - concepts/langchain — LangChain
@@ -851,6 +1108,9 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/merton-model — Merton Structural Model
 - concepts/message-bus — Message Bus
 - concepts/metadata-knowledge-graph — Metadata Knowledge Graph
+- concepts/metaorder — Metaorder
+- concepts/micro-price — Micro-Price
+- concepts/mid-price-prediction — Mid-Price Prediction
 - concepts/midas-regression — MIDAS Regression
 - concepts/mrel — Minimum Requirement for Own Funds and Eligible Liabilities (MREL)
 - concepts/minimum-variance-portfolio — Minimum Variance Portfolio
@@ -905,6 +1165,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/optimum-score-estimation — Optimum Score Estimation
 - concepts/option-implied-credit-information — Option-Implied Information in Credit Markets
 - concepts/order-flow — Order Flow
+- concepts/order-flow-imbalance — Order Flow Imbalance
 - concepts/order-flow-prediction — Order Flow Prediction
 - concepts/order-imbalance — Order Imbalance
 - concepts/ornstein-uhlenbeck-process — Ornstein-Uhlenbeck Process
@@ -927,6 +1188,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/positional-embeddings — Positional Embeddings
 - concepts/potential-outcomes — Potential Outcomes and Counterfactual Causal Effects
 - concepts/prediction-intervals — Prediction Intervals
+- concepts/price-impact — Price Impact
 - concepts/principal-components-analysis — Principal Components Analysis
 - concepts/private-credit — Private Credit / Direct Lending
 - concepts/private-credit-leveraged-loans — Private Credit and Leveraged Loans
@@ -937,6 +1199,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/prompt-assembly — Prompt Assembly
 - concepts/prompt-engineering — Prompt Engineering
 - concepts/prompt-injection — Prompt Injection
+- concepts/propagator-model — Propagator Model
 - concepts/propensity-score — Propensity Score
 - concepts/property-graph-model — Property Graph Model
 - concepts/prospect-theory — Prospect Theory
@@ -948,6 +1211,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/quantitative-tightening — Quantitative Tightening
 - concepts/quantum-safe-cryptography — Quantum-Safe Cryptography
 - concepts/quasi-experimental-design — Quasi-Experimental Design
+- concepts/queue-imbalance — Queue Imbalance
 - concepts/rag-evaluation — RAG Evaluation
 - concepts/ramsey-optimal-taxation — Ramsey Optimal Taxation
 - concepts/random-forest — Random Forest
@@ -995,6 +1259,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/role-prompting — Role Prompting
 - concepts/runs-test-growth-consistency — Runs Test for Growth Consistency
 - concepts/sales-growth-base-rates — Sales Growth Base Rates and Value Creation
+- concepts/sampling-clocks — Sampling Clocks
 - concepts/sampling-strategies — Sampling Strategies
 - concepts/schwartz-smith-model — Schwartz-Smith Model
 - concepts/scientific-explanation — Scientific Explanation
@@ -1032,12 +1297,14 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/split-conformal-prediction — Split Conformal Prediction
 - concepts/spread — Spread
 - concepts/spread-per-turn-of-leverage — Spread Per Turn of Leverage
+- concepts/square-root-law — Square-Root Law of Market Impact
 - concepts/state-space-models — State-Space Models
 - concepts/stationarity — Stationarity
 - concepts/statistical-arbitrage — Statistical Arbitrage
 - concepts/step-back-prompting — Step-Back Prompting
 - concepts/stochastic-conditional-intensity — Stochastic Conditional Intensity
 - concepts/stochastic-optimal-control — Stochastic Optimal Control
+- concepts/stochastic-time-change — Stochastic Time Change
 - concepts/stochastic-volatility-with-jumps — Stochastic Volatility with Jumps
 - concepts/stock-price-efficiency — Stock Price Efficiency
 - concepts/stocks-and-flows — Stocks and Flows
@@ -1082,6 +1349,7 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/tool-use — Tool Use
 - concepts/trace-data — TRACE Data
 - concepts/trade-classification — Trade Classification
+- concepts/trade-clock — Trade Clock
 - concepts/trader-clustering — Trader Clustering
 - concepts/training-serving-skew — Training-Serving Skew
 - concepts/transductive-learning — Transductive Learning
@@ -1111,6 +1379,8 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - concepts/volatility-smirk — Volatility Smirk as Informed-Trading Signal
 - concepts/volatility-targeting — Volatility Targeting
 - concepts/volatility-targeting-position-sizing — Volatility-Based Position Sizing
+- concepts/volume-clock — Volume Clock
+- concepts/vpin — VPIN
 - concepts/walk-forward-analysis — Walk-Forward Analysis
 - concepts/wealth-inequality-financialized-capitalism — Wealth Inequality and Financialized Capitalism
 - concepts/weighted-conformal-prediction — Weighted Conformal Prediction (WCP)
@@ -1168,11 +1438,9 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/apache-kafka — Apache Kafka
 - entities/apache-spark — Apache Spark
 - entities/aqr-capital-management — AQR Capital Management
-- entities/arik-ben-dor — Arik Ben Dor
 - entities/arkadiusz-sieron — Arkadiusz Sieroń
 - entities/arnaud-mares — Arnaud Marès
 - entities/aron-becker — Aron Becker
-- entities/arseniy-kukanov — Arseniy Kukanov
 - entities/arthur-saint-guilhem — Arthur Saint Guilhem
 - entities/arturo-geigel — Arturo Geigel
 - entities/ashish-vaswani — Ashish Vaswani
@@ -1262,7 +1530,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/eric-evans — Eric Evans
 - entities/eric-ghysels — Eric Ghysels
 - entities/erica-spear — Erica R. Spear
-- entities/erik-van-leeuwen — Erik van Leeuwen
 - entities/ernest-adams — Ernest Adams
 - entities/european-central-bank — European Central Bank
 - entities/evan-patterson — Evan Patterson
@@ -1335,7 +1602,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/jason-wei — Jason Wei
 - entities/jay-alammar — Jay Alammar
 - entities/jay-forrester — Jay Forrester
-- entities/jay-hyman — Jay Hyman
 - entities/jeen-ng — Jeen Ng
 - entities/jeff-williams — Jeff Williams
 - entities/jemma-hudson — Jemma Hudson
@@ -1376,7 +1642,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/josef-lakonishok — Josef Lakonishok
 - entities/joshua-angrist — Joshua D. Angrist
 - entities/judea-pearl — Judea Pearl
-- entities/juhani-linnainmaa — Juhani T. Linnainmaa
 - entities/juha-seppala — Juha Seppala
 - entities/julie-josse — Julie Josse
 - entities/jorn-steffen-pischke — Jörn-Steffen Pischke
@@ -1403,7 +1668,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/lehman-brothers — Lehman Brothers
 - entities/leon-van-veldhuijzen — Leon van Veldhuijzen
 - entities/leonard-savage — Leonard J. Savage
-- entities/lev-dynkin — Lev Dynkin
 - entities/lightning-ai — Lightning AI
 - entities/lihua-lei — Lihua Lei
 - entities/lindsey-matthews — Lindsey Matthews
@@ -1485,7 +1749,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/nursilah-ahmad — Nursilah Ahmad
 - entities/oreilly-media — O'Reilly Media
 - entities/ofer-mendelevitch — Ofer Mendelevitch
-- entities/olaf-penninga — Olaf Penninga
 - entities/ole-barndorff-nielsen — Ole Barndorff-Nielsen
 - entities/olivier-bizimana — Olivier Bizimana
 - entities/olivier-pasche — Olivier C. Pasche
@@ -1556,7 +1819,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/samuel-n-cohen — Samuel N. Cohen
 - entities/sander-barendse — Sander Barendse
 - entities/sarah-wolfe — Sarah A. Wolfe
-- entities/sasha-stoikov — Sasha Stoikov
 - entities/scikit-learn — scikit-learn
 - entities/sebastian-engelke — Sebastian Engelke
 - entities/sebastian-jaimungal — Sebastian Jaimungal
@@ -1578,7 +1840,6 @@ Total pages: 1594 (sources: 364, concepts: 701, entities: 522, analyses: 7, cont
 - entities/simon-t-bodilsen — Simon T. Bodilsen
 - entities/simona-boffelli — Simona Boffelli
 - entities/simone-vantini — Simone Vantini
-- entities/sina-ehsani — Sina Ehsani
 - entities/sivan-mahadevan — Sivan Mahadevan
 - entities/snorkel-ai — Snorkel AI
 - entities/sophia-sun — Sophia Sun

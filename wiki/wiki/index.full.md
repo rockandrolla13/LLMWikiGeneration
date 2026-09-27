@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index (Full)
-updated: '2026-08-09T14:49:34.492117Z'
+updated: '2026-09-27T01:47:41.266456Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-08-09T14:49:34.490596Z
+Generated: 2026-09-27T01:47:41.263585Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:786a0bbf71bd2d18
+Source hash: sha256:daa315f21def2c83
 Rebuild with: wiki:rebuild
 -->
 
@@ -24,20 +24,35 @@ Master catalog of all pages in this wiki.
 - [[2019 US Credit Outlook: The Bear Has Begun]] - <!-- AUTHORED REGION START -->
 - [[2026: Steady, but AI & the Hawks are Circling (Software)]] - <!-- AUTHORED REGION START -->
 - [[4Q18 US Credit Fundamental Review]] - <!-- AUTHORED REGION START -->
+- [[A Big Data Approach to Analyzing Market Volatility]] - <!-- AUTHORED REGION START -->
 - [[A Birdie for the Balance Sheet — Duration and Curves]] - <!-- AUTHORED REGION START -->
 - [[A Combination Forecasting Model Using Machine Learning and Kalman Filter for Statistical Arbitrage]] - <!-- AUTHORED REGION START -->
+- [[A continuous and efficient fundamental price on the discrete order book grid]] - <!-- AUTHORED REGION START -->
+- [[A Deep Learning Approach for Analyzing the Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[A Directional Change Based Trading Strategy with Dynamic Thresholds]] - <!-- AUTHORED REGION START -->
+- [[A Frequency-Controlled Comparison of Tick- and Minute-Based Information Bars for Cryptocurrency Markets]] - <!-- AUTHORED REGION START -->
+- [[A Gabor–Epps uncertainty principle for traders]] - <!-- AUTHORED REGION START -->
+- [[A genetic algorithm for the optimization of multi-threshold trading strategies in the directional changes paradigm]] - <!-- AUTHORED REGION START -->
 - [[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification]] - <!-- AUTHORED REGION START -->
 - [[A Gentle Introduction to Conformal Time Series Forecasting]] - <!-- AUTHORED REGION START -->
 - [[A High Yield Hedge]] - <!-- AUTHORED REGION START -->
+- [[A Hybrid LSTM-KNN Framework for Detecting Market Microstructure Anomalies: Evidence from High-Frequency Jump Behaviors in Credit Default Swap Markets]] - <!-- AUTHORED REGION START -->
+- [[A Locally Concave Transient Price Impact Model and Optimal Execution]] - <!-- AUTHORED REGION START -->
 - [[A New Approach to Statistical Arbitrage: Strategies Based on Dynamic Factor Models of Prices]] - <!-- AUTHORED REGION START -->
+- [[A New Way to Compute the Probability of Informed Trading]] - <!-- AUTHORED REGION START -->
 - [[A Pairs Trading Strategy Based on Linear State Space Models]] - <!-- AUTHORED REGION START -->
 - [[A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter]] - <!-- AUTHORED REGION START -->
 - [[A Practical Guide to Building Agents]] - <!-- AUTHORED REGION START -->
+- [[A Reproducible Baseline for Forecasting High-Frequency Realized Volatility with Order-Flow Features]] - <!-- AUTHORED REGION START -->
 - [[A Review and Comparative Analysis of Univariate Conformal Regression Methods]] - <!-- AUTHORED REGION START -->
+- [[A Systematic Hyperparameter Analysis of Deep Learning Models for Limit Order Book Mid-price Prediction]] - <!-- AUTHORED REGION START -->
 - [[A Tutorial on Conformal Prediction]] - <!-- AUTHORED REGION START -->
+- [[A unified framework for bandit multiple testing]] - <!-- AUTHORED REGION START -->
+- [[A Volatility-Aware Temporal Transformer for Intraday Risk Forecasting with Market Microstructure Signals]] - <!-- AUTHORED REGION START -->
 - [[Adaptive Conformal Inference Under Distribution Shift]] - <!-- AUTHORED REGION START -->
 - [[Adaptive Conformal Predictions for Time Series]] - <!-- AUTHORED REGION START -->
 - [[Add to Credit – and How Much Do Markets Lead the Economy?]] - <!-- AUTHORED REGION START -->
+- [[Admissible ways of merging p-values under arbitrary dependence]] - <!-- AUTHORED REGION START -->
 - [[Advanced Algorithmic Trading]] - <!-- AUTHORED REGION START -->
 - [[Advanced Analytics and Learning on Temporal Data (AALTD 2024)]] - <!-- AUTHORED REGION START -->
 - [[Advanced Futures Trading Strategies]] - <!-- AUTHORED REGION START -->
@@ -50,21 +65,46 @@ Master catalog of all pages in this wiki.
 - [[Algorithmic market making in foreign exchange cash markets]] - <!-- AUTHORED REGION START -->
 - [[Algorithmic Market Making in Spot Precious Metals]] - <!-- AUTHORED REGION START -->
 - [[Algorithmic trading in a microstructural limit order book model]] - <!-- AUTHORED REGION START -->
+- [[Algorithmic trading with directional changes]] - <!-- AUTHORED REGION START -->
+- [[An Assessment of the Prediction Quality of VPIN]] - <!-- AUTHORED REGION START -->
 - [[An Easing Trio (Sunday Start: What's Next in Global Macro)]] - <!-- AUTHORED REGION START -->
+- [[An Efficient deep learning model to Predict Stock Price Movement Based on Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[An Empirical Analysis of Liquidity and Order Flow in the Brokered Interdealer Market for Government of Canada Bonds]] - <!-- AUTHORED REGION START -->
+- [[An Empirical Analysis on Financial Markets: Insights from the Application of Statistical Physics]] - <!-- AUTHORED REGION START -->
+- [[An In-Depth Investigation of Genetic Programming Under Physical Time and Directional Change Frameworks for Algorithmic Trading]] - <!-- AUTHORED REGION START -->
 - [[An Innovative High-Frequency Statistical Arbitrage in Chinese Futures Market]] - <!-- AUTHORED REGION START -->
+- [[An Introduction to the Mathematics of Causal Inference]] - <!-- AUTHORED REGION START -->
+- [[An Optimal Limit Order Book Prediction Analysis Based on Deep Learning and Pigeon-Inspired Optimizer]] - <!-- AUTHORED REGION START -->
+- [[Analysis and Synthetic Generation of Financial Time-Series]] - <!-- AUTHORED REGION START -->
+- [[Analysis of Key Drivers of Trading Performance]] - <!-- AUTHORED REGION START -->
+- [[Analysis of the Tick Rule and Bulk Volume Classification Algorithms in the Brazilian Stock Market]] - <!-- AUTHORED REGION START -->
 - [[Anatomy of Municipal Green Bond Yield Spreads]] - <!-- AUTHORED REGION START -->
 - [[Another Turning Point (Sunday Start: What's Next in Global Macro)]] - <!-- AUTHORED REGION START -->
+- [[Análise dos Algoritmos Tick Rule e Bulk Volume Classification no Mercado Acionário Brasileiro]] - <!-- AUTHORED REGION START -->
+- [[Applications of Physics to Finance and Economics: Returns, Trading Activity and Income]] - <!-- AUTHORED REGION START -->
 - [[Architecture Patterns with Python]] - <!-- AUTHORED REGION START -->
+- [[Assessing informed trading measures against material mining progress reports]] - <!-- AUTHORED REGION START -->
+- [[Assessing Measures of Order Flow Toxicity and Early Warning Signals for Market Turbulence]] - <!-- AUTHORED REGION START -->
 - [[Assessing Risk Premia in EMFX (Part 1): A Two-Factor Model Approach]] - <!-- AUTHORED REGION START -->
 - [[Asset Class Liquidity Risk Indicators: Timing the Risk in European and US Equity and Bond Markets]] - <!-- AUTHORED REGION START -->
+- [[Asymptotic and compound e-values: multiple testing and empirical Bayes]] - <!-- AUTHORED REGION START -->
+- [[Asymptotic results and statistical procedures for time-changed Lévy processes sampled at hitting times]] - <!-- AUTHORED REGION START -->
 - [[Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference]] - <!-- AUTHORED REGION START -->
 - [[Attention Is All You Need]] - <!-- AUTHORED REGION START -->
+- [[Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[Axial-LOB: High-Frequency Trading with Axial Attention]] - <!-- AUTHORED REGION START -->
 - [[Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]] - <!-- AUTHORED REGION START -->
 - [[Bayes and Base Rates: How History Can Guide Our Assessment of the Future]] - <!-- AUTHORED REGION START -->
+- [[Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets]] - <!-- AUTHORED REGION START -->
 - [[Bayesian Nonparametric Modeling for Causal Inference]] - <!-- AUTHORED REGION START -->
 - [[Bayesian On-line Change-point Detection: Spatio-temporal point processes]] - <!-- AUTHORED REGION START -->
 - [[Bayesian Reconstruction and Regression with Multivariate Graph Signals]] - <!-- AUTHORED REGION START -->
+- [[Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods]] - <!-- AUTHORED REGION START -->
 - [[Beyond Vibe Coding: From Coder to AI-Era Developer]] - <!-- AUTHORED REGION START -->
+- [[Binary Tree Option Pricing Under Market Microstructure Effects: A Random Forest Approach]] - <!-- AUTHORED REGION START -->
+- [[Bitcoin Volatility Forecasting with a Glimpse into Buy and Sell Orders]] - <!-- AUTHORED REGION START -->
+- [[Boltzmann Price: Toward Understanding the Fair Price in High-Frequency Markets]] - <!-- AUTHORED REGION START -->
+- [[Bridging the Gap: Decoding the Intrinsic Nature of Time in Market Data]] - <!-- AUTHORED REGION START -->
 - [[Build a DeepSeek Model From Scratch]] - <!-- AUTHORED REGION START -->
 - [[Build a Large Language Model (From Scratch)]] - <!-- AUTHORED REGION START -->
 - [[Building Embodied AI Systems]] - <!-- AUTHORED REGION START -->
@@ -73,18 +113,28 @@ Master catalog of all pages in this wiki.
 - [[Building LLMs for Production]] - <!-- AUTHORED REGION START -->
 - [[Building Modern Data Applications Using Databricks Lakehouse]] - <!-- AUTHORED REGION START -->
 - [[Business Plan Details for Xantium: Systematic Spread Fixed Income Trading]] - <!-- AUTHORED REGION START -->
+- [[Calculating the probability of a mid-price increase based on a stochastic model for order book dynamics]] - <!-- AUTHORED REGION START -->
 - [[Causal Inference: What If]] - <!-- AUTHORED REGION START -->
 - [[Causality and Explanation]] - <!-- AUTHORED REGION START -->
 - [[China – Doing whatever it takes]] - <!-- AUTHORED REGION START -->
 - [[Citi Global Theme Book]] - <!-- AUTHORED REGION START -->
 - [[Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]] - <!-- AUTHORED REGION START -->
 - [[Classification with Valid and Adaptive Coverage]] - <!-- AUTHORED REGION START -->
+- [[Classifying and clustering trading agents]] - <!-- AUTHORED REGION START -->
 - [[Claude Code: The Definitive Guide to Agentic Development]] - <!-- AUTHORED REGION START -->
 - [[Closed-form approximations in multi-asset market making]] - <!-- AUTHORED REGION START -->
+- [[Cluster Analysis for Evaluating Trading Strategies]] - <!-- AUTHORED REGION START -->
+- [[ClusterLOB: enhancing trading strategies by clustering orders in limit order books]] - <!-- AUTHORED REGION START -->
 - [[Code Reading in Practice]] - <!-- AUTHORED REGION START -->
 - [[Coding with AI]] - <!-- AUTHORED REGION START -->
+- [[Combining Deep Learning on Order Books with Reinforcement Learning for Profitable Trading]] - <!-- AUTHORED REGION START -->
+- [[Combining e-values using demi-supermartingales]] - <!-- AUTHORED REGION START -->
+- [[Combining exchangeable p-values]] - <!-- AUTHORED REGION START -->
 - [[Common Pitfalls in the Evaluation of Corporate Bond Strategies]] - <!-- AUTHORED REGION START -->
+- [[Confidence and discoveries with e-values]] - <!-- AUTHORED REGION START -->
+- [[Confidence intervals for causal effects in sequential decision making]] - <!-- AUTHORED REGION START -->
 - [[Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics]] - <!-- AUTHORED REGION START -->
+- [[Conformal e-prediction in the presence of confounding]] - <!-- AUTHORED REGION START -->
 - [[Conformal Inference for Online Prediction with Arbitrary Distribution Shifts]] - <!-- AUTHORED REGION START -->
 - [[Conformal PID Control for Time Series Prediction]] - <!-- AUTHORED REGION START -->
 - [[Conformal Prediction (CMU Lecture Notes, Spring 2023)]] - <!-- AUTHORED REGION START -->
@@ -98,6 +148,7 @@ Master catalog of all pages in this wiki.
 - [[Conformal prediction: A unified review of theory and new challenges]] - <!-- AUTHORED REGION START -->
 - [[Conformalized Quantile Regression]] - <!-- AUTHORED REGION START -->
 - [[Contingent Claims and Hedging of Credit Risk with Equity Options]] - <!-- AUTHORED REGION START -->
+- [[Continuous-time modeling of financial returns based on Limit Order Book data]] - <!-- AUTHORED REGION START -->
 - [[Copula Conformal Prediction for Multi-step Time Series Forecasting]] - <!-- AUTHORED REGION START -->
 - [[Corporate Bond ETF Contraflow Strategy: A Framework for Exploiting Passive Flow Distortions]] - <!-- AUTHORED REGION START -->
 - [[Corporate Credit Research: Meet in the Middle]] - <!-- AUTHORED REGION START -->
@@ -122,9 +173,13 @@ Master catalog of all pages in this wiki.
 - [[Cross-Asset Strategy: Global In the Flow — Highlights from January]] - <!-- AUTHORED REGION START -->
 - [[Cross-conformal predictors]] - <!-- AUTHORED REGION START -->
 - [[Cross-correlations between price and volume in Chinese gold markets]] - <!-- AUTHORED REGION START -->
+- [[Cross-Impact of Order Flow Imbalance in Equity Markets]] - <!-- AUTHORED REGION START -->
+- [[Cross-sectional identification of private information]] - <!-- AUTHORED REGION START -->
 - [[Crossing the Rubicon (Government Bonds)]] - <!-- AUTHORED REGION START -->
 - [[Data Analysis and Data Mining: An Introduction]] - <!-- AUTHORED REGION START -->
+- [[Data Normalization for Bilinear Structures in High-Frequency Financial Time-series]] - <!-- AUTHORED REGION START -->
 - [[Data Quality Engineering in Financial Services]] - <!-- AUTHORED REGION START -->
+- [[Data-driven Neural Architecture Learning for Financial Time-series Forecasting]] - <!-- AUTHORED REGION START -->
 - [[Data-Driven Trade Flow Decomposition for Exchange-Traded Funds and their Constituents]] - <!-- AUTHORED REGION START -->
 - [[Databricks Certified Data Engineer Associate Study Guide]] - <!-- AUTHORED REGION START -->
 - [[Databricks Spark Knowledge Base]] - <!-- AUTHORED REGION START -->
@@ -132,28 +187,63 @@ Master catalog of all pages in this wiki.
 - [[Datenverwaltung mit Unity Catalog auf Databricks]] - <!-- AUTHORED REGION START -->
 - [[Day-of-the-week effect in anomaly returns: International evidence]] - <!-- AUTHORED REGION START -->
 - [[Dealing with multi-currency inventory risk in FX cash markets]] - <!-- AUTHORED REGION START -->
+- [[Deep Adaptive Input Normalization for Time Series Forecasting]] - <!-- AUTHORED REGION START -->
+- [[Deep Learning for Digital Asset Limit Order Books]] - <!-- AUTHORED REGION START -->
+- [[Deep Learning for Limit Order Books]] - <!-- AUTHORED REGION START -->
+- [[Deep Learning for Spatio-Temporal Modeling: Dynamic Traffic Flows and High Frequency Trading]] - <!-- AUTHORED REGION START -->
+- [[Deep Learning Modelling of the Limit Order Book: A Comparative Perspective]] - <!-- AUTHORED REGION START -->
+- [[Deep Learning Models Meet Financial Data Modalities]] - <!-- AUTHORED REGION START -->
+- [[Deep Limit Order Book Forecasting: A microstructural guide]] - <!-- AUTHORED REGION START -->
+- [[Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book]] - <!-- AUTHORED REGION START -->
+- [[Deep Reinforcement Learning for Active High Frequency Trading]] - <!-- AUTHORED REGION START -->
+- [[Deep Reinforcement Learning for Optimizing Order Book Imbalance-Based High-Frequency Trading Strategies]] - <!-- AUTHORED REGION START -->
+- [[Deep Reinforcement Learning for Trading Strategy Development on High-Frequency Currency Data Using Directional Changes Sampling]] - <!-- AUTHORED REGION START -->
+- [[DeepFolio: Convolutional Neural Networks for Portfolios with Limit Order Book Data]] - <!-- AUTHORED REGION START -->
+- [[DeepLOB: Deep Convolutional Neural Networks for Limit Order Books]] - <!-- AUTHORED REGION START -->
+- [[Design of High-Frequency Trading Algorithm Based on Machine Learning]] - <!-- AUTHORED REGION START -->
 - [[Designing Financial Data Architectures]] - <!-- AUTHORED REGION START -->
 - [[Designing Machine Learning Systems]] - <!-- AUTHORED REGION START -->
 - [[Developing Apps with GPT-4 and ChatGPT]] - <!-- AUTHORED REGION START -->
+- [[Developing event identification methods for structured and unstructured data streams]] - <!-- AUTHORED REGION START -->
+- [[Developing Sustainable Trading Strategies Using Directional Changes with High Frequency Data]] - <!-- AUTHORED REGION START -->
+- [[Developing Trading Strategies under the Directional Changes Framework: With Application in the FX Market]] - <!-- AUTHORED REGION START -->
 - [[Differentiation and Divergence]] - <!-- AUTHORED REGION START -->
+- [[Directional Price Forecasting in the Continuous Intraday Market under Consideration of Neighboring Products and Limit Order Books]] - <!-- AUTHORED REGION START -->
+- [[Discovering market prices: Which price formation model best predicts the next trade?]] - <!-- AUTHORED REGION START -->
+- [[Discrete q-Exponential Limit Order Cancellation Time Distribution]] - <!-- AUTHORED REGION START -->
 - [[Distribution-Free Predictive Inference for Regression]] - <!-- AUTHORED REGION START -->
 - [[Distribution-Free, Risk-Controlling Prediction Sets]] - <!-- AUTHORED REGION START -->
 - [[Distributional Conformal Prediction]] - <!-- AUTHORED REGION START -->
 - [[Do Changes in the Implied Volatility of Stock Options Predict Future Changes in CDS Spreads?]] - <!-- AUTHORED REGION START -->
 - [[Doubly Robust Adaptive Conformal Inference for Causal Effects Under Temporal Dependence]] - <!-- AUTHORED REGION START -->
+- [[DTS (Duration Times Spread) - A New Measure of Spread Exposure in Credit Portfolios]] - <!-- AUTHORED REGION START -->
 - [[Dynamic Modeling of Mean-Reverting Spreads for Statistical Arbitrage]] - <!-- AUTHORED REGION START -->
+- [[E-backtesting]] - <!-- AUTHORED REGION START -->
+- [[E-values as unnormalized weights in multiple testing]] - <!-- AUTHORED REGION START -->
+- [[E-values: calibration, combination, and applications]] - <!-- AUTHORED REGION START -->
+- [[Early Detection of Latent Microstructure Regimes in Limit Order Books]] - <!-- AUTHORED REGION START -->
 - [[ECB Preview: TLTRO Funding on its Way]] - <!-- AUTHORED REGION START -->
 - [[Economic Analysis Through Mathematics: Tools and Techniques for Decision Making]] - <!-- AUTHORED REGION START -->
 - [[Economics for Investment Decision Makers Workbook: Micro, Macro, and International Economics]] - <!-- AUTHORED REGION START -->
+- [[Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models]] - <!-- AUTHORED REGION START -->
 - [[Efficiently Weighted Estimation of Tail and Interquantile Expectations]] - <!-- AUTHORED REGION START -->
+- [[Ekonometryczna analiza prawdopodobieństwa zawarcia transakcji wynikających z napływu informacji – wpływ założeń co do rozkładu stóp zwrotu na zmienność miary VPIN]] - <!-- AUTHORED REGION START -->
 - [[EM Quant Strategy: EM Risk Indicator - A Regime-Switching Model Approach]] - <!-- AUTHORED REGION START -->
 - [[EM Quant Strategy: EMFX Quant's Lab - Carry Performs]] - <!-- AUTHORED REGION START -->
 - [[EM Strategy Update: No Rush for the Exits]] - <!-- AUTHORED REGION START -->
+- [[Emergence of Randomness in Temporally Aggregated Financial Tick Sequences]] - <!-- AUTHORED REGION START -->
 - [[Emerging Markets Quantitative Quarterly: EM Fixed Income and Foreign Exchange Strategy]] - <!-- AUTHORED REGION START -->
 - [[EMFX Quant's Lab: Steady Path]] - <!-- AUTHORED REGION START -->
+- [[Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities]] - <!-- AUTHORED REGION START -->
+- [[Empirical distributions of Chinese stock returns at different microscopic timescales]] - <!-- AUTHORED REGION START -->
 - [[Empirical Studies on the Cross-Section of Corporate Bond and Stock Markets]] - <!-- AUTHORED REGION START -->
+- [[Empirical Study of Market Impact Conditional on Order-Flow Imbalance]] - <!-- AUTHORED REGION START -->
 - [[Enhanced Corporate Bond Similarity Framework: Integrating Random Forest Proximity, Nelson-Siegel Models, Gegenbauer Processes, and G-H Transformation]] - <!-- AUTHORED REGION START -->
+- [[Enhancing trading strategies with order book signals]] - <!-- AUTHORED REGION START -->
+- [[Essays on Behavioral Finance and Market Microstructure]] - <!-- AUTHORED REGION START -->
 - [[Essential GraphRAG]] - <!-- AUTHORED REGION START -->
+- [[ESTIMATION OF A HIGH-DIMENSIONAL COUNTING PROCESS WITHOUT PENALTY FOR HIGH-FREQUENCY EVENTS]] - <!-- AUTHORED REGION START -->
+- [[Estimation of an Order Book Dependent Hawkes Process for Large Datasets]] - <!-- AUTHORED REGION START -->
 - [[Estimation of Common Factors for Microstructure Noise and Efficient Price in a High-Frequency Dual Factor Model]] - <!-- AUTHORED REGION START -->
 - [[Europe Economics: Recession Returns]] - <!-- AUTHORED REGION START -->
 - [[Europe looks set to surprise on the upside]] - <!-- AUTHORED REGION START -->
@@ -177,15 +267,28 @@ Master catalog of all pages in this wiki.
 - [[European High Yield Strategy Monthly Leveraged Finance Playbook — Performance]] - <!-- AUTHORED REGION START -->
 - [[European High Yield Strategy Monthly Leveraged Finance Playbook — Returns]] - <!-- AUTHORED REGION START -->
 - [[Evaluating Factor Pricing Models Using High-Frequency Panels]] - <!-- AUTHORED REGION START -->
+- [[Event-Based Limit Order Book Representations for Probabilistic VWAP Forecasting in Intraday Electricity Markets]] - <!-- AUTHORED REGION START -->
+- [[Event-Time Anchor Selection for Multi-Contract Quoting]] - <!-- AUTHORED REGION START -->
+- [[Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables]] - <!-- AUTHORED REGION START -->
 - [[Evidence of Intraday Multifractality in European Stock Markets during COVID-19 (2020)]] - <!-- AUTHORED REGION START -->
 - [[Exact and Approximate Conformal Inference for Multi-Output Regression]] - <!-- AUTHORED REGION START -->
+- [[Execution Alpha of Intraday Liquidity Provision versus Market-on-Close in the S&P 500]] - <!-- AUTHORED REGION START -->
 - [[Expected Returns: An Investor's Guide to Harvesting Market Rewards]] - <!-- AUTHORED REGION START -->
+- [[Explainable Deep Learning for Price–Trade Dynamics: From Black-Box Forecasts to Effective Parametric Models]] - <!-- AUTHORED REGION START -->
+- [[Explainable Patterns in Cryptocurrency Microstructure]] - <!-- AUTHORED REGION START -->
 - [[Explanation in Causal Inference: Methods for Mediation and Interaction]] - <!-- AUTHORED REGION START -->
+- [[Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer]] - <!-- AUTHORED REGION START -->
+- [[Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making]] - <!-- AUTHORED REGION START -->
 - [[Extreme Conformal Prediction: Reliable Intervals for High-Impact Events]] - <!-- AUTHORED REGION START -->
 - [[Factor Investing in the Corporate Bond Market]] - <!-- AUTHORED REGION START -->
+- [[Factor Momentum and the Momentum Factor]] - <!-- AUTHORED REGION START -->
 - [[Factors Affecting the Valuation of Corporate Bonds]] - <!-- AUTHORED REGION START -->
+- [[False discovery rate control with e-values]] - <!-- AUTHORED REGION START -->
 - [[FAQs on Hybrids — Hybrids Monitor and Relative Value (Corporate Hybrids Playbook)]] - <!-- AUTHORED REGION START -->
+- [[Feature Engineering for Mid-Price Prediction with Deep Learning]] - <!-- AUTHORED REGION START -->
 - [[Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]] - <!-- AUTHORED REGION START -->
+- [[Federal Market Information Technology in the Post Flash Crash Era: Roles for Supercomputing]] - <!-- AUTHORED REGION START -->
+- [[Fee Structure and Order Flow Informativeness in the Cryptocurrency Market]] - <!-- AUTHORED REGION START -->
 - [[Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows]] - <!-- AUTHORED REGION START -->
 - [[Financial Data Engineering: Design and Build Data-Driven Financial Products]] - <!-- AUTHORED REGION START -->
 - [[Financial Theory with Python: A Gentle Introduction]] - <!-- AUTHORED REGION START -->
@@ -193,12 +296,22 @@ Master catalog of all pages in this wiki.
 - [[Finding Profitable Forecast Combinations Using Probability Scoring Rules]] - <!-- AUTHORED REGION START -->
 - [[Firm-specific versus systematic momentum]] - <!-- AUTHORED REGION START -->
 - [[Flexible Least Squares for Temporal Data Mining and Statistical Arbitrage]] - <!-- AUTHORED REGION START -->
+- [[Flow Toxicity of High Frequency Trading and Its Impact on Price Volatility: Evidence from the KOSPI 200 Futures Market]] - <!-- AUTHORED REGION START -->
 - [[For Whom the Tariffs Toll]] - <!-- AUTHORED REGION START -->
+- [[Forecasting Bitcoin price movements using multivariate Hawkes processes and limit order book data]] - <!-- AUTHORED REGION START -->
+- [[Forecasting Directional Changes in the FX Markets]] - <!-- AUTHORED REGION START -->
+- [[Forecasting high frequency order flow imbalance using Hawkes processes]] - <!-- AUTHORED REGION START -->
+- [[Forecasting high-frequency financial time series: an adaptive learning approach with the order book data]] - <!-- AUTHORED REGION START -->
+- [[Forecasting limit order book price changes using change point detection]] - <!-- AUTHORED REGION START -->
+- [[Forecasting Liquidity Withdrawal with Machine Learning Models]] - <!-- AUTHORED REGION START -->
+- [[Forecasting of Jump Arrivals in Stock Prices: New Attention-based Network Architecture using Limit Order Book Data]] - <!-- AUTHORED REGION START -->
 - [[Forecasting the Yield Curve of Bonds: A Government Dynamic Factor Approach]] - <!-- AUTHORED REGION START -->
 - [[From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets]] - <!-- AUTHORED REGION START -->
 - [[Fundamentals of Data Engineering]] - <!-- AUTHORED REGION START -->
 - [[Gaussian Processes on Graphs (Zhi 2024)]] - <!-- AUTHORED REGION START -->
+- [[General Compound Hawkes Processes for Mid-Price Prediction]] - <!-- AUTHORED REGION START -->
 - [[Generalizing Graph Laplacian Learning (Shi 2024)]] - <!-- AUTHORED REGION START -->
+- [[Generating Directional Change Based Trading Strategies with Genetic Programming]] - <!-- AUTHORED REGION START -->
 - [[Global Factor Monitor (Quantitative Musing, 5 November 2020)]] - <!-- AUTHORED REGION START -->
 - [[Global Growth Tracker – DMs Underperform More than Expected]] - <!-- AUTHORED REGION START -->
 - [[Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]] - <!-- AUTHORED REGION START -->
@@ -227,25 +340,45 @@ Master catalog of all pages in this wiki.
 - [[Hands-On Large Language Models]] - <!-- AUTHORED REGION START -->
 - [[Hands-On RAG for Production]] - <!-- AUTHORED REGION START -->
 - [[Hands-on Small Language Models]] - <!-- AUTHORED REGION START -->
+- [[Hawkes-based cryptocurrency forecasting via Limit Order Book data]] - <!-- AUTHORED REGION START -->
 - [[Hierarchical Credibility Model]] - <!-- AUTHORED REGION START -->
 - [[High Frequency Multifractal Properties of Bitcoin]] - <!-- AUTHORED REGION START -->
+- [[High Frequency Trading with Deep Reinforcement Learning Agents Under a Directional Changes Sampling Framework]] - <!-- AUTHORED REGION START -->
 - [[High- and Low-Frequency Correlations in European Government Bond Spreads and Their Macroeconomic Drivers]] - <!-- AUTHORED REGION START -->
 - [[High-Frequency Factor Models and Regressions]] - <!-- AUTHORED REGION START -->
+- [[High-Frequency Jump Analysis of the Bitcoin Market]] - <!-- AUTHORED REGION START -->
+- [[HLOB – Information Persistence and Structure in Limit Order Books]] - <!-- AUTHORED REGION START -->
 - [[How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]] - <!-- AUTHORED REGION START -->
+- [[How informative is the Order Book Beyond the Best Levels? Machine Learning Perspective]] - <!-- AUTHORED REGION START -->
 - [[How Not to Be Wrong: The Power of Mathematical Thinking]] - <!-- AUTHORED REGION START -->
 - [[How OpenAI Uses Codex]] - <!-- AUTHORED REGION START -->
+- [[How Robust are Limit Order Book Representations under Data Perturbation?]] - <!-- AUTHORED REGION START -->
 - [[How We Built Our Multi-Agent Research System]] - <!-- AUTHORED REGION START -->
+- [[Hybrid CNN-LSTM Model for Bitcoin Limit Order Book Prediction]] - <!-- AUTHORED REGION START -->
+- [[Hybrid Vector Auto Regression and Neural Network Model for Order Flow Imbalance Prediction in High-Frequency Trading]] - <!-- AUTHORED REGION START -->
 - [[Implied Volatility Changes and Corporate Bond Returns]] - <!-- AUTHORED REGION START -->
+- [[Improved thresholds for e-values]] - <!-- AUTHORED REGION START -->
+- [[Improving Trend Reversal Estimation in Forex Markets Under a Directional Changes Paradigm with Classification Algorithms]] - <!-- AUTHORED REGION START -->
 - [[Incorporating hierarchical credibility theory into modelling of multi-country mortality rates]] - <!-- AUTHORED REGION START -->
+- [[Incorporating Signals into Optimal Trading]] - <!-- AUTHORED REGION START -->
+- [[Information Arrival as a Stochastic Clock for Intraday Trading]] - <!-- AUTHORED REGION START -->
+- [[Information Content of Book and Trade Order Flow at Different Trading Volume Time Scales]] - <!-- AUTHORED REGION START -->
+- [[Information Flow Between Volatilities Across Time Scales]] - <!-- AUTHORED REGION START -->
 - [[Information Flows in Trading Networks]] - <!-- AUTHORED REGION START -->
+- [[Information transmission and causality in the Italian Treasury bond market]] - <!-- AUTHORED REGION START -->
+- [[Informed Trading of Futures Markets During the Financial Crisis: Evidence from the VPIN]] - <!-- AUTHORED REGION START -->
+- [[Informed trading, investor beliefs consensus and volatility: Evidence from the Limit Order Book dynamics during COVID-19 and short-selling ban]] - <!-- AUTHORED REGION START -->
 - [[Insight into the Balance Sheet]] - <!-- AUTHORED REGION START -->
 - [[Instrumented Principal Component Analysis]] - <!-- AUTHORED REGION START -->
+- [[Intelligent trading strategy based on improved directional change and regime change detection]] - <!-- AUTHORED REGION START -->
 - [[Introducing LEVER: A Framework for Scoring LEVeraging Event Risk]] - <!-- AUTHORED REGION START -->
 - [[Introducing the Credit Bond Market Indicator (credit-BMI)]] - <!-- AUTHORED REGION START -->
 - [[Introduction to Agents]] - <!-- AUTHORED REGION START -->
 - [[Introduction to Machine Learning Systems]] - <!-- AUTHORED REGION START -->
 - [[Introduction to the Alaph Capital Liquid Macro Credit Fund]] - <!-- AUTHORED REGION START -->
+- [[Investigating Limit Order Book Characteristics for Short Term Price Prediction: a Machine Learning Approach]] - <!-- AUTHORED REGION START -->
 - [[Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least]] - <!-- AUTHORED REGION START -->
+- [[Investment sizing with deep learning prediction uncertainties for high-frequency Eurodollar futures trading]] - <!-- AUTHORED REGION START -->
 - [[Jump Clustering, Information Flows, and Stock Price Efficiency]] - <!-- AUTHORED REGION START -->
 - [[Kernel Two-Sample and Independence Tests for Nonstationary Random Processes]] - <!-- AUTHORED REGION START -->
 - [[Kernel-based Optimally Weighted Conformal Prediction Intervals]] - <!-- AUTHORED REGION START -->
@@ -257,22 +390,41 @@ Master catalog of all pages in this wiki.
 - [[Learning AutoML]] - <!-- AUTHORED REGION START -->
 - [[Learning DAGs and Root Causes from Time-Series Data (Misiakos 2025)]] - <!-- AUTHORED REGION START -->
 - [[Learning LangChain]] - <!-- AUTHORED REGION START -->
+- [[Learning Polymarket Taker Trade Direction from the On-Chain Tape]] - <!-- AUTHORED REGION START -->
 - [[Learning Systems Thinking: Essential Non-Linear Skills for Software Professionals]] - <!-- AUTHORED REGION START -->
+- [[Learning the Spoofability of Limit Order Books With Interpretable Probabilistic Neural Networks]] - <!-- AUTHORED REGION START -->
+- [[Lietf Trading Behavior During U.S. – China Trade War]] - <!-- AUTHORED REGION START -->
 - [[Limited arbitrage between equity and credit markets]] - <!-- AUTHORED REGION START -->
+- [[Liquidity crises on different time scales]] - <!-- AUTHORED REGION START -->
+- [[Liquidity Fluctuations and the Latent Dynamics of Price Impact]] - <!-- AUTHORED REGION START -->
+- [[LiT: limit order book transformer]] - <!-- AUTHORED REGION START -->
+- [[LOB Hawkes modeling using processes with a state-dependent factor]] - <!-- AUTHORED REGION START -->
+- [[LOB-Based Deep Learning Models for Stock Price Trend Prediction: A Benchmark Study]] - <!-- AUTHORED REGION START -->
+- [[LOBERT: Generative AI Foundation Model for Limit Order Book Messages]] - <!-- AUTHORED REGION START -->
 - [[Long-Dated Vol Lines Up]] - <!-- AUTHORED REGION START -->
 - [[Loss-Based Bayesian Sequential Prediction of Value-at-Risk with a Long-Memory and Non-Linear Realized Volatility Model]] - <!-- AUTHORED REGION START -->
+- [[Low-Rank Temporal Attention-Augmented Bilinear Network for financial time-series forecasting]] - <!-- AUTHORED REGION START -->
+- [[Machine Learning Classification and Regression Models for Predicting Directional Changes Trend Reversal in FX Markets]] - <!-- AUTHORED REGION START -->
+- [[Machine Learning for Forecasting Mid Price Movement using Limit Order Book Data]] - <!-- AUTHORED REGION START -->
+- [[Machine Learning in Algorithmic Trading leading to Reinforced Deep Kalman Filters]] - <!-- AUTHORED REGION START -->
 - [[Machine Learning in Fixed Income Markets: Forecasting and Portfolio Management]] - <!-- AUTHORED REGION START -->
 - [[Machine Learning in the Corporate Bond Market: A New Classifier]] - <!-- AUTHORED REGION START -->
 - [[Machine Learning-based Relative Valuation of Municipal Bonds]] - <!-- AUTHORED REGION START -->
+- [[Marked point processes and intensity ratios for limit order book modeling]] - <!-- AUTHORED REGION START -->
 - [[Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces]] - <!-- AUTHORED REGION START -->
 - [[Market making by an FX dealer: tiers, pricing ladders and hedging rates]] - <!-- AUTHORED REGION START -->
 - [[Math and Architectures of Deep Learning]] - <!-- AUTHORED REGION START -->
 - [[Mathematical Engineering of Deep Learning]] - <!-- AUTHORED REGION START -->
 - [[Measuring Credit-Spread Risk on a Single Issuer Basis]] - <!-- AUTHORED REGION START -->
+- [[Merging sequential e-values via martingales]] - <!-- AUTHORED REGION START -->
 - [[Methodology and reporting characteristics of studies using interrupted time series design in healthcare]] - <!-- AUTHORED REGION START -->
 - [[Microscopic Understanding of Cross-Responses Between Stocks]] - <!-- AUTHORED REGION START -->
+- [[Microstructural changes before Macroeconomic Announcements: Predictability of Economic Surprises in the U.S. market]] - <!-- AUTHORED REGION START -->
 - [[Mid-Price Estimation for European Corporate Bonds: A Particle Filtering Approach]] - <!-- AUTHORED REGION START -->
+- [[Mid-price Prediction Based on Machine Learning Methods with Technical and Quantitative Indicators]] - <!-- AUTHORED REGION START -->
+- [[Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading]] - <!-- AUTHORED REGION START -->
 - [[Mixed-Frequency Macro-Finance Factor Models: Theory and Applications]] - <!-- AUTHORED REGION START -->
+- [[Models for the impact of all order book events]] - <!-- AUTHORED REGION START -->
 - [[MODs: Machine Learning on Drivers]] - <!-- AUTHORED REGION START -->
 - [[Momentum crashes]] - <!-- AUTHORED REGION START -->
 - [[Momentum for Diversification]] - <!-- AUTHORED REGION START -->
@@ -288,86 +440,198 @@ Master catalog of all pages in this wiki.
 - [[Multi-Agent Coordination: A Reinforcement Learning Approach]] - <!-- AUTHORED REGION START -->
 - [[Multi-Distribution Robust Conformal Prediction]] - <!-- AUTHORED REGION START -->
 - [[Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commodity Futures Term Structure Dynamics]] - <!-- AUTHORED REGION START -->
+- [[MULTI-HEAD TEMPORAL ATTENTION-AUGMENTED BILINEAR NETWORK FOR FINANCIAL TIME SERIES PREDICTION]] - <!-- AUTHORED REGION START -->
+- [[Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing Units]] - <!-- AUTHORED REGION START -->
 - [[Multi-Level Order-Flow Imbalance in a Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[Multi-objective genetic programming-based algorithmic trading, using directional changes and a modified sharpe ratio score for identifying optimal trading strategies]] - <!-- AUTHORED REGION START -->
 - [[Multi-output Gaussian processes for multi-population longevity modelling]] - <!-- AUTHORED REGION START -->
 - [[Multi-scale Representation of High Frequency Market Liquidity]] - <!-- AUTHORED REGION START -->
 - [[Multifactor Timing with Deep Learning]] - <!-- AUTHORED REGION START -->
+- [[Multiple testing under negative dependence]] - <!-- AUTHORED REGION START -->
 - [[Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules]] - <!-- AUTHORED REGION START -->
+- [[Multivariate Realized Volatility Forecasting with Graph Neural Network]] - <!-- AUTHORED REGION START -->
+- [[Natural Time and Crash Risk]] - <!-- AUTHORED REGION START -->
+- [[Neural Hidden Markov Model with Adaptive Granularity Attention for High-Frequency Order Flow Modeling]] - <!-- AUTHORED REGION START -->
+- [[Neural Network and Order Flow, Technical Analysis: Predicting short-term direction of futures contract]] - <!-- AUTHORED REGION START -->
+- [[New Strategies and Asset Classes for Increased Performance]] - <!-- AUTHORED REGION START -->
 - [[Next-Generation Credit Curves]] - <!-- AUTHORED REGION START -->
+- [[Noise-robust orthogonal clustering and applications to equity markets]] - <!-- AUTHORED REGION START -->
 - [[Non-Exchangeable Conformal Risk Control]] - <!-- AUTHORED REGION START -->
+- [[Non-unique time and market incompleteness]] - <!-- AUTHORED REGION START -->
+- [[Nonparametric e-tests of symmetry]] - <!-- AUTHORED REGION START -->
+- [[Novel Trading Algorithms augmented by Intrinsic Time and Machine Learning]] - <!-- AUTHORED REGION START -->
+- [[Nowcasting directional change in high frequency FX markets]] - <!-- AUTHORED REGION START -->
 - [[On Forecasting the Term Structure of Credit Spreads]] - <!-- AUTHORED REGION START -->
+- [[On the existence of powerful p-values and e-values for composite hypotheses]] - <!-- AUTHORED REGION START -->
+- [[On-line Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models]] - <!-- AUTHORED REGION START -->
 - [[One Size Doesn't Fit All]] - <!-- AUTHORED REGION START -->
+- [[Online High-Frequency Trading Stock Forecasting with Automated Feature Clustering and Radial Basis Function Neural Networks]] - <!-- AUTHORED REGION START -->
+- [[Online LLM watermark detection via e-processes]] - <!-- AUTHORED REGION START -->
+- [[Online monotone density estimation and log-optimal calibration]] - <!-- AUTHORED REGION START -->
+- [[OpenMarket: A Synchronized Polymarket–Binance Dataset for High-Frequency Prediction-Market Research]] - <!-- AUTHORED REGION START -->
 - [[Optimal execution with limit and market orders]] - <!-- AUTHORED REGION START -->
 - [[Optimal Hedge Tracking Portfolios in a Limit Order Book]] - <!-- AUTHORED REGION START -->
 - [[Optimal Option Market Making and Volatility Arbitrage]] - <!-- AUTHORED REGION START -->
 - [[Optimal Quoting under Adverse Selection and Price Reading]] - <!-- AUTHORED REGION START -->
+- [[Optimising Directional Changes trading strategies with different algorithms]] - <!-- AUTHORED REGION START -->
+- [[Optimization of Trading Strategies Using a Genetic Algorithm under the Directional Changes Paradigm with Multiple Thresholds]] - <!-- AUTHORED REGION START -->
+- [[Optimum Output Long Short-Term Memory Cell for High-Frequency Trading Forecasting]] - <!-- AUTHORED REGION START -->
+- [[Option Volume Imbalance as a predictor for equity market returns]] - <!-- AUTHORED REGION START -->
+- [[Order Book Dynamics - Two-Dimensional Exit Problems on a Cryptocurrency Exchange]] - <!-- AUTHORED REGION START -->
+- [[Order Dynamics in the Italian Treasury Security Wholesale Secondary Market]] - <!-- AUTHORED REGION START -->
+- [[Order Flow and Exchange Rate Dynamics]] - <!-- AUTHORED REGION START -->
+- [[Order Flow Decomposition for Price Impact Analysis in Equity Limit Order Books]] - <!-- AUTHORED REGION START -->
+- [[Order flow dynamics for prediction of order cancelation and applications to detect market manipulation]] - <!-- AUTHORED REGION START -->
+- [[Order flow imbalance effects on the German stock market]] - <!-- AUTHORED REGION START -->
+- [[Order Flow Imbalances and Amplification of Price Movements: Evidence from U.S. Treasury Markets]] - <!-- AUTHORED REGION START -->
 - [[Order Flow, Transaction Clock and Normality: A Critique of Ané and Geman (2006)]] - <!-- AUTHORED REGION START -->
+- [[Order Flows and Limit Order Book Resiliency on the Meso-Scale]] - <!-- AUTHORED REGION START -->
+- [[Order Imbalance, Liquidity, and Returns of the U.S. Treasury Market]] - <!-- AUTHORED REGION START -->
 - [[Order-book modelling and market making strategies]] - <!-- AUTHORED REGION START -->
+- [[Order-Flow Filtration and Directional Association with Short-Horizon Returns]] - <!-- AUTHORED REGION START -->
 - [[Our Bond Market Indicators: A Powerful Systematic Approach]] - <!-- AUTHORED REGION START -->
 - [[Pairs Trading with General State Space Models]] - <!-- AUTHORED REGION START -->
+- [[Parameter Analysis of the VPIN (Volume synchronized Probability of Informed Trading) Metric]] - <!-- AUTHORED REGION START -->
+- [[Path Signatures as Universal Feature Extractors for Limit Order Book Mid-Price Prediction]] - <!-- AUTHORED REGION START -->
+- [[Patterns in high-frequency FX data: Discovery of 12 empirical scaling laws]] - <!-- AUTHORED REGION START -->
+- [[Periodicities of FX Markets in Intrinsic Time]] - <!-- AUTHORED REGION START -->
+- [[Polymarket-v1 Database]] - <!-- AUTHORED REGION START -->
 - [[Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting]] - <!-- AUTHORED REGION START -->
+- [[Post-selection inference for e-value based confidence intervals]] - <!-- AUTHORED REGION START -->
 - [[Practical MLOps: Operationalizing Machine Learning Models]] - <!-- AUTHORED REGION START -->
+- [[Predictability in Corporate Bond Returns: A Structured Approach]] - <!-- AUTHORED REGION START -->
 - [[Predicting Corporate Bond Returns: Merton Meets Machine Learning]] - <!-- AUTHORED REGION START -->
 - [[Predicting Individual Corporate Bond Returns]] - <!-- AUTHORED REGION START -->
+- [[Predicting Stock Price Movements in High-Frequency Trading]] - <!-- AUTHORED REGION START -->
 - [[Predicting the Global Crisis Recovery Period: Lessons from the 1997 Crisis]] - <!-- AUTHORED REGION START -->
+- [[Prediction of high-frequency futures return directions based on the mean uncertainty classification methods: An application in China's future market]] - <!-- AUTHORED REGION START -->
 - [[Predictive Inference Is Free with the Jackknife+-after-Bootstrap]] - <!-- AUTHORED REGION START -->
 - [[Predictive Inference with the Jackknife+]] - <!-- AUTHORED REGION START -->
+- [[Price Impact of Order Flow Imbalances]] - <!-- AUTHORED REGION START -->
+- [[Price jump prediction in Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[Price predictability at ultra-high frequency: Entropy-based randomness test]] - <!-- AUTHORED REGION START -->
+- [[Price predictability in limit order book with deep learning model]] - <!-- AUTHORED REGION START -->
 - [[Priced risk in corporate bonds]] - <!-- AUTHORED REGION START -->
+- [[Probability of Informed Trading and Volatility for an ETF]] - <!-- AUTHORED REGION START -->
+- [[Profitability of Directional Change Based Trading Strategies: The Case of Saudi Stock Market]] - <!-- AUTHORED REGION START -->
+- [[Profitable Opportunities around Macroeconomic Announcements in the U.S. Treasury Market]] - <!-- AUTHORED REGION START -->
 - [[Prompt Engineering]] - <!-- AUTHORED REGION START -->
 - [[Prompt Engineering for LLMs]] - <!-- AUTHORED REGION START -->
+- [[Properties of Realized Variance for a Pure Jump Process: Calendar Time Sampling versus Business Time Sampling]] - <!-- AUTHORED REGION START -->
+- [[Public Trader Identity: Adverse Selection and Return Predictability]] - <!-- AUTHORED REGION START -->
+- [[Push-response anomalies in high-frequency S&P 500 price series]] - <!-- AUTHORED REGION START -->
 - [[QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk]] - <!-- AUTHORED REGION START -->
 - [[Quantile Processes for Dynamic Risk Modelling in Finance and Insurance]] - <!-- AUTHORED REGION START -->
+- [[Quantum Weighted Moving Average for Predicting Limit Order Book Trends]] - <!-- AUTHORED REGION START -->
+- [[Queue Imbalance as a One-Tick-Ahead Price Predictor in a Limit Order Book]] - <!-- AUTHORED REGION START -->
 - [[Realized Probability Index is a Better Market Timing Indicator]] - <!-- AUTHORED REGION START -->
 - [[Recursive Macroeconomic Theory]] - <!-- AUTHORED REGION START -->
+- [[Reducing transaction costs with low-latency trading algorithms]] - <!-- AUTHORED REGION START -->
+- [[Reflecting on the VPIN Dispute]] - <!-- AUTHORED REGION START -->
+- [[Regression genetic programming for estimating trend end in foreign exchange market]] - <!-- AUTHORED REGION START -->
+- [[Relative liquidity and future volatility]] - <!-- AUTHORED REGION START -->
+- [[Representation Learning of Limit Order Book: A Comprehensive Study and Benchmarking]] - <!-- AUTHORED REGION START -->
+- [[Repurposing Deep Limit Order Book Forecasting for Scenario-Conditioned Market Impact Modeling]] - <!-- AUTHORED REGION START -->
+- [[Research on high-frequency financial transaction behavior recognition and prediction method integrating machine learning]] - <!-- AUTHORED REGION START -->
 - [[Residual momentum]] - <!-- AUTHORED REGION START -->
+- [[Returns and Order Flow Imbalances: Intraday Dynamics and Macroeconomic News Effects]] - <!-- AUTHORED REGION START -->
 - [[Revisiting stylised facts: information clock, persistence, long memory and dependence]] - <!-- AUTHORED REGION START -->
+- [[Revisiting the ∪-shaped patterns in volatility and price impacts: Novel results using trade-time estimates]] - <!-- AUTHORED REGION START -->
+- [[Revisiting Trade-sign Long-memory and Square-root Law price impact]] - <!-- AUTHORED REGION START -->
 - [[RFQ Impact Pricing and Liquidity Dynamics]] - <!-- AUTHORED REGION START -->
 - [[Right Tail Hedging: Managing Risk When Markets Melt Up]] - <!-- AUTHORED REGION START -->
 - [[Risk premia in the term structure of interest rates: a panel data approach]] - <!-- AUTHORED REGION START -->
 - [[Robust and Adaptive Algorithms for Online Portfolio Selection]] - <!-- AUTHORED REGION START -->
+- [[Run One Rule on Five Clocks and Only the Direction and the Cost Agree [F055]: The direction stays below a cost of 0.7123 to 0.7304 pips on all five and the cost differs by only 1.0254 times, yet the count differs by 57.4639 times and the duration of a bar by 62.5735 times]] - <!-- AUTHORED REGION START -->
+- [[Second Order Proximal Methods Applied to Elastic Net Penalised Vector Generalised Linear Models]] - <!-- AUTHORED REGION START -->
+- [[Sequence Classification of the Limit Order Book using Recurrent Neural Networks]] - <!-- AUTHORED REGION START -->
 - [[Sequential Predictive Conformal Inference for Time Series]] - <!-- AUTHORED REGION START -->
 - [[Simulation Models for Data Science]] - <!-- AUTHORED REGION START -->
 - [[Software Engineering for Data Scientists]] - <!-- AUTHORED REGION START -->
 - [[Software Testing with Generative AI]] - <!-- AUTHORED REGION START -->
 - [[Sovereign Subjects: Europe in the Balance]] - <!-- AUTHORED REGION START -->
 - [[Specification Draft: Single Name Fundamental Analysis]] - <!-- AUTHORED REGION START -->
+- [[Statistical Arbitrage Using Limit Order Book Imbalance]] - <!-- AUTHORED REGION START -->
 - [[Statistical Predictions of Trading Strategies in Electronic Markets]] - <!-- AUTHORED REGION START -->
 - [[Statistical Rethinking: A Bayesian Course with Examples in R and STAN]] - <!-- AUTHORED REGION START -->
+- [[Stochastic Price Dynamics in Response to Order Flow Imbalance: Evidence from CSI 300 Index Futures]] - <!-- AUTHORED REGION START -->
+- [[Stochastic volatility of financial markets as the fluctuating rate of trading: an empirical study]] - <!-- AUTHORED REGION START -->
 - [[Strictly Proper Scoring Rules, Prediction, and Estimation]] - <!-- AUTHORED REGION START -->
+- [[Studying Regime Change using Directional Change]] - <!-- AUTHORED REGION START -->
 - [[Sunday Start | What's Next in Global Macro: A Full-Court Policy Press]] - <!-- AUTHORED REGION START -->
+- [[SVM-Enhanced Filtering Model for Limit Order Book Dynamics]] - <!-- AUTHORED REGION START -->
 - [[Systematic Momentum: A New Class of Price Patterns]] - <!-- AUTHORED REGION START -->
 - [[Systematic Trading: A unique new method for designing trading and investing systems]] - <!-- AUTHORED REGION START -->
+- [[Temporal Attention augmented Bilinear Network for Financial Time-Series Data Analysis]] - <!-- AUTHORED REGION START -->
+- [[Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha-Decay]] - <!-- AUTHORED REGION START -->
+- [[Temporal Logistic Neural Bag-of-Features for Financial Time series Forecasting leveraging Limit Order Book Data]] - <!-- AUTHORED REGION START -->
 - [[Term Structure Estimation with Liquidity-Adjusted Affine Nelson Siegel Model]] - <!-- AUTHORED REGION START -->
 - [[Testing Conditional Independence in Causal Inference for Time Series Data]] - <!-- AUTHORED REGION START -->
+- [[Testing the mean and variance by e-processes]] - <!-- AUTHORED REGION START -->
+- [[Testing VPIN on Big Data -- Response to "Reflecting on the VPIN Dispute"]] - <!-- AUTHORED REGION START -->
+- [[Testing with p*-values: between p-values, mid p-values, and e-values]] - <!-- AUTHORED REGION START -->
 - [[The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms]] - <!-- AUTHORED REGION START -->
 - [[The Book of Why: The New Science of Cause and Effect]] - <!-- AUTHORED REGION START -->
 - [[The Co-Movement of Credit Default Swap Spreads, Equity Returns and Volatility: Evidence from Asia-Pacific Markets]] - <!-- AUTHORED REGION START -->
 - [[The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return]] - <!-- AUTHORED REGION START -->
 - [[The Determinants of Credit Spread Changes]] - <!-- AUTHORED REGION START -->
 - [[The Developer's Playbook for Large Language Model Security]] - <!-- AUTHORED REGION START -->
+- [[The effects of trade size and market depth on immediate price impact in a limit order book market]] - <!-- AUTHORED REGION START -->
 - [[The Elements of Statistical Learning]] - <!-- AUTHORED REGION START -->
+- [[The Epps effect under alternative sampling schemes]] - <!-- AUTHORED REGION START -->
 - [[The Evaluation and Optimization of Trading Strategies]] - <!-- AUTHORED REGION START -->
 - [[The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1]] - <!-- AUTHORED REGION START -->
 - [[The Global Credit Spread Puzzle]] - <!-- AUTHORED REGION START -->
 - [[The Global Macro Analyst: Japanification or Salvation]] - <!-- AUTHORED REGION START -->
 - [[The High-Frequency Factor Zoo]] - <!-- AUTHORED REGION START -->
+- [[The Impact of the US Stock Market Opens on Price Discovery of Government Bond Futures]] - <!-- AUTHORED REGION START -->
 - [[The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman]] - <!-- AUTHORED REGION START -->
+- [[The Information Content of the Euro-Bund Futures Option Markets]] - <!-- AUTHORED REGION START -->
+- [[The Intraday Dynamics Predictor: A TrioFlow Fusion of Convolutional Layers and Gated Recurrent Units for High-Frequency Price Movement Forecasting]] - <!-- AUTHORED REGION START -->
 - [[The Level and Persistence of Growth Rates]] - <!-- AUTHORED REGION START -->
+- [[The limit order book on different time scales]] - <!-- AUTHORED REGION START -->
+- [[The Limit Order Book Recreation Model (LOBRM): An Extended Analysis]] - <!-- AUTHORED REGION START -->
+- [[The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network]] - <!-- AUTHORED REGION START -->
 - [[The Long Memory of Order Flow in the Foreign Exchange Spot Market]] - <!-- AUTHORED REGION START -->
+- [[The only admissible way of merging arbitrary e-values]] - <!-- AUTHORED REGION START -->
+- [[The Price Impact of Generalized Order Flow Imbalance]] - <!-- AUTHORED REGION START -->
+- [[The Price Impact of Order Book Events]] - <!-- AUTHORED REGION START -->
+- [[The price impact of order book events: market orders, limit orders and cancellations]] - <!-- AUTHORED REGION START -->
+- [[The Random Walk of High Frequency Trading]] - <!-- AUTHORED REGION START -->
 - [[The Relative Informational Efficiency of Stocks, Options and Credit Default Swaps During the Financial Crisis]] - <!-- AUTHORED REGION START -->
 - [[The Return of the Machines (Quantcraft, 23 April 2020)]] - <!-- AUTHORED REGION START -->
+- [[The Short-Term Predictability of Returns in Order Book Markets: A Deep Learning Perspective]] - <!-- AUTHORED REGION START -->
+- [[The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility II: An Artificial Market Generator]] - <!-- AUTHORED REGION START -->
+- [[The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility: A Unifying Framework]] - <!-- AUTHORED REGION START -->
+- [[The Theory of Intrinsic Time: A Primer]] - <!-- AUTHORED REGION START -->
+- [[There’s more to volatility than volume]] - <!-- AUTHORED REGION START -->
 - [[Thinking in Systems and Mental Models: Think Like a Super Thinker]] - <!-- AUTHORED REGION START -->
 - [[Thinking in Systems: A Primer]] - <!-- AUTHORED REGION START -->
 - [[Thoughts on the Market: Can $2 Trillion Flatten the Unemployment Curve?]] - <!-- AUTHORED REGION START -->
+- [[Time and foreign exchange markets]] - <!-- AUTHORED REGION START -->
+- [[Time Series Analysis Indicators under Directional Changes: The Case of Saudi Stock Market]] - <!-- AUTHORED REGION START -->
 - [[Time, Tense, and Causation]] - <!-- AUTHORED REGION START -->
+- [[Tiny but uniform improvements of adaptive BH procedures via compound e-values]] - <!-- AUTHORED REGION START -->
+- [[TLOB: A Novel Transformer Model with Dual Attention for Price Trend Prediction with Limit Order Book Data]] - <!-- AUTHORED REGION START -->
+- [[To Cross or Not to Cross the Spread: That Is the Question]] - <!-- AUTHORED REGION START -->
+- [[Topics in Market Microstructure]] - <!-- AUTHORED REGION START -->
+- [[Towards Robust Representations of Limit Orders Books for Deep Learning Models]] - <!-- AUTHORED REGION START -->
+- [[Trade arrival dynamics and quote imbalance in a limit order book]] - <!-- AUTHORED REGION START -->
+- [[Trade Co-occurrence, Trade Flow Decomposition, and Conditional Order Imbalance in Equity Markets]] - <!-- AUTHORED REGION START -->
 - [[Trade Intensity and Liquidity]] - <!-- AUTHORED REGION START -->
 - [[Trading Dynamics in the Foreign Exchange Market: A Latent Factor Panel Intensity Approach]] - <!-- AUTHORED REGION START -->
 - [[Trading Risk Premia in EMFX (Part 2): A mixed strategy using Volatility Risk Premia (VIRP)]] - <!-- AUTHORED REGION START -->
+- [[Trading Strategies Optimization by Genetic Algorithm under the Directional Changes Paradigm]] - <!-- AUTHORED REGION START -->
+- [[Transformers versus LSTMs for Electronic Trading]] - <!-- AUTHORED REGION START -->
 - [[Treasury Market Commentary, January 25]] - <!-- AUTHORED REGION START -->
+- [[True and false discoveries with independent and sequential e-values]] - <!-- AUTHORED REGION START -->
 - [[UK Interest Rate Strategist: Gilt Futures: The Return of the Option]] - <!-- AUTHORED REGION START -->
+- [[Uma abordagem com modelo de aprendizado de máquina híbrido para predição de movimentos de preço médio de ativos pelo livro de ofertas]] - <!-- AUTHORED REGION START -->
 - [[Uncertainty Sets for Image Classifiers using Conformal Prediction]] - <!-- AUTHORED REGION START -->
 - [[Understanding Changes in Corporate Credit Spreads]] - <!-- AUTHORED REGION START -->
 - [[Understanding Systematic Risk: A High-Frequency Approach]] - <!-- AUTHORED REGION START -->
+- [[Univariate Hawkes-based cryptocurrency forecasting via Limit Order Book data]] - <!-- AUTHORED REGION START -->
+- [[Universal scaling and nonlinearity of aggregate price impact in financial markets]] - <!-- AUTHORED REGION START -->
 - [[Unraveling the Multiscale Comovement of Green Bonds and Structural Shocks]] - <!-- AUTHORED REGION START -->
 - [[US Corporate Credit Strategy Brief: Selling the Rally]] - <!-- AUTHORED REGION START -->
 - [[US Corporate Credit Strategy Chartbook]] - <!-- AUTHORED REGION START -->
@@ -378,13 +642,27 @@ Master catalog of all pages in this wiki.
 - [[US Interest Rate Strategist: What Also Comes Before Recessions? Rate Cuts]] - <!-- AUTHORED REGION START -->
 - [[US Interest Rate Strategy: Funding Market Signals (Correction)]] - <!-- AUTHORED REGION START -->
 - [[US Interest Rate Strategy: Who Is Going to Buy Treasuries?]] - <!-- AUTHORED REGION START -->
+- [[Using Deep Learning for price prediction by exploiting stationary limit order book features]] - <!-- AUTHORED REGION START -->
+- [[Using Deep Learning to Detect Price Change Indications in Financial Markets]] - <!-- AUTHORED REGION START -->
+- [[Using Directional Change for Information Extraction in Financial Market Data]] - <!-- AUTHORED REGION START -->
+- [[Using full limit order book for price jump prediction]] - <!-- AUTHORED REGION START -->
 - [[Using Principal Component Analysis to Estimate a High Dimensional Factor Model with High-Frequency Data]] - <!-- AUTHORED REGION START -->
 - [[Utilizing Vector Databases to Enhance RAG Models]] - <!-- AUTHORED REGION START -->
 - [[Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond]] - <!-- AUTHORED REGION START -->
+- [[Volatility Decomposition and Estimation in Time-Changed Price Models]] - <!-- AUTHORED REGION START -->
+- [[Volatility Decomposition and Nonparametric Estimation of Spot Volatility of Models with Poisson Sampling under Market Microstructure Noise]] - <!-- AUTHORED REGION START -->
+- [[Volatility Estimation in Agricultural Futures Markets: A Microstructure Approach]] - <!-- AUTHORED REGION START -->
 - [[Volatility-Adjusted Momentum]] - <!-- AUTHORED REGION START -->
+- [[Volatility-Aware Extreme Event Detection in High-Frequency Financial Markets]] - <!-- AUTHORED REGION START -->
+- [[Volume-Synchronised Probability of Informed Trading on Chinese Index Futures: A Comparative Approach]] - <!-- AUTHORED REGION START -->
+- [[Volume-Synchronized Probability of Informed Trading (VPIN), Market Volatility, and High-Frequency Liquidity]] - <!-- AUTHORED REGION START -->
 - [[Weekly Credit Wrap: High Grade, Mid-Cycle]] - <!-- AUTHORED REGION START -->
 - [[Weekly Credit Wrap: High Yield — Pricing Tomorrow's Deleveraging Today]] - <!-- AUTHORED REGION START -->
+- [[When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures]] - <!-- AUTHORED REGION START -->
+- [[When is cross impact relevant?]] - <!-- AUTHORED REGION START -->
+- [[When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books]] - <!-- AUTHORED REGION START -->
 - [[Why Do ETF Flows Move Prices?]] - <!-- AUTHORED REGION START -->
+- [[為替の「出来⾼⾜」は、ティック⾜と恒等的に同じものである [F053]]] - <!-- AUTHORED REGION START -->
 
 ## Entities
 *People, organizations, places.*
@@ -775,6 +1053,7 @@ Master catalog of all pages in this wiki.
 - [[Purva Pruthi]]
 - [[PyTorch]] `ai-engineering, tool`
 - [[Qi Li]]
+- [[Qiuqi Wang]] `researcher, risk-management, e-values, backtesting`
 - [[Quang Vuong]]
 - [[Rainer Pullirsch]] `creditETF, credit-risk, quantitative-research`
 - [[Rangika Peiris]] `researcher`
@@ -803,6 +1082,7 @@ Master catalog of all pages in this wiki.
 - [[Roger Koenker]]
 - [[Rogerio Oliveira]]
 - [[Rose Yu]] `professor, deep-learning, spatiotemporal, time-series, ucsd`
+- [[Ruodu Wang]] `researcher, e-values, risk-measures, multiple-testing, statistics`
 - [[Ryan J. Tibshirani]] `researcher, conformal-prediction, statistics, machine-learning, uc-berkeley, cmu`
 - [[Saad Labyad]] `researcher`
 - [[Sam Elprince]]
@@ -908,6 +1188,7 @@ Master catalog of all pages in this wiki.
 - [[Yu Gui]] `researcher, conformal-prediction, statistics, university-of-chicago`
 - [[Yuqi Yang]] `statistics, conformal-prediction, machine-learning`
 - [[Yuying Sun]] `researcher`
+- [[Ziyu Xu]] `researcher, e-values, multiple-testing, bandits`
 - [[Zongwu Cai]]
 - [[Zrinka Lukač]]
 - [[Álvaro Cartea]] `researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance`
@@ -922,7 +1203,7 @@ Master catalog of all pages in this wiki.
 - [[Adaptive Conformal Inference]] (4 sources)
 - [[Adaptive Prediction Sets (APS)]] (3 sources)
 - [[Additional Tier 1 capital]] (5 sources)
-- [[Adverse Selection]] (2 sources)
+- [[Adverse Selection]] (29 sources)
 - [[AgACI (Aggregated Adaptive Conformal Inference)]] (2 sources)
 - [[Agent-Based Models]] (1 sources)
 - [[Agentic AI]] (1 sources)
@@ -937,10 +1218,11 @@ Master catalog of all pages in this wiki.
 - [[AI Value Creator]] (1 sources)
 - [[AI-Assisted Programming]] (1 sources)
 - [[Algorithmic Trading]] (2 sources)
-- [[Alpha (Predictive Trading Signal)]] (1 sources)
+- [[Alpha (Predictive Trading Signal)]] (13 sources)
 - [[Alpha Correlation and Turnover]] (1 sources)
-- [[Amihud Illiquidity]] (1 sources)
+- [[Amihud Illiquidity]] (3 sources)
 - [[Analyst Forecast Optimism Bias]] (1 sources)
+- [[Anytime-Valid Inference]] (4 sources)
 - [[Approximate Factor Models]] (1 sources)
 - [[ARIMA and GARCH Volatility Models]] (1 sources)
 - [[Asian Financial Crisis of 1997]] (1 sources)
@@ -949,7 +1231,7 @@ Master catalog of all pages in this wiki.
 - [[Asymmetric Laplace Density]] (1 sources)
 - [[At-At Theory of Causal Influence]] (1 sources)
 - [[Austrian Business Cycle Theory]] (1 sources)
-- [[Autocorrelation in Time Series]] (1 sources)
+- [[Autocorrelation in Time Series]] (19 sources)
 - [[Automated Alpha Search]] (1 sources)
 - [[Automatic Prompt Engineering]] (1 sources)
 - [[Autonomous AI Agents]] (1 sources)
@@ -957,7 +1239,7 @@ Master catalog of all pages in this wiki.
 - [[Average treatment effect (ATE)]] (1 sources)
 - [[BAA Corporate Bond Spread]] (2 sources)
 - [[Back-door and Front-door Adjustment]] (1 sources)
-- [[Backtesting]] (1 sources)
+- [[Backtesting]] (39 sources)
 - [[Backward Causation]] (1 sources)
 - [[Balance sheet recession]] (1 sources)
 - [[Bank capital structure seniority]] (1 sources)
@@ -974,16 +1256,17 @@ Master catalog of all pages in this wiki.
 - [[Behavioral Finance]] (8 sources)
 - [[Bespoke CDO]] (1 sources)
 - [[Bias-Variance Trade-off and Model Selection]] (1 sources)
-- [[Bid-Ask Spread]] (2 sources)
+- [[Bid-Ask Spread]] (43 sources)
 - [[Block Conformal Prediction (BCP)]] (1 sources)
 - [[Bond CAPM]] (1 sources)
 - [[Bond Index Inclusion Criteria]] (1 sources)
-- [[Bond Liquidity]] (4 sources)
+- [[Bond Liquidity]] (11 sources)
 - [[Bond Market Segmentation]] (1 sources)
-- [[Bond Momentum]]
+- [[Bond Momentum]] (1 sources)
 - [[Bounded Rationality]] (1 sources)
 - [[Bregman Divergence]] (1 sources)
 - [[Bubble Detection]] (1 sources)
+- [[Bulk Volume Classification]] (10 sources)
 - [[Business Cycles]] (1 sources)
 - [[Byte Pair Encoding]] (1 sources)
 - [[Bühlmann-Straub Model]] (1 sources)
@@ -995,7 +1278,7 @@ Master catalog of all pages in this wiki.
 - [[Causal Attention]] (1 sources)
 - [[Causal DAGs and Structural Classification of Bias]] (1 sources)
 - [[Causal Diagram (DAG)]] (1 sources)
-- [[Causal Inference]] (1 sources)
+- [[Causal Inference]] (2 sources)
 - [[Causal Theory of the Direction of Time]] (1 sources)
 - [[Causation versus Unification in Explanation]] (1 sources)
 - [[CDO Tranches]] (1 sources)
@@ -1047,7 +1330,7 @@ Master catalog of all pages in this wiki.
 - [[Copula and Sklar's Theorem]] (1 sources)
 - [[Copulas]] (1 sources)
 - [[Corporate Bond Liquidity Premium]] (1 sources)
-- [[Corporate Bonds]] (35 sources)
+- [[Corporate Bonds]] (36 sources)
 - [[Corporate Credit Debt Bubble]] (1 sources)
 - [[Corporate Credit Fundamentals]] (1 sources)
 - [[Corporate Hybrid Bonds]] (4 sources)
@@ -1064,7 +1347,7 @@ Master catalog of all pages in this wiki.
 - [[Credit Hedge Ratios with Equity Options]] (1 sources)
 - [[Credit Relative Value]] (1 sources)
 - [[Credit Risk Premium]] (2 sources)
-- [[Credit Spread Changes]] (1 sources)
+- [[Credit Spread Changes]] (2 sources)
 - [[Credit Spread Compression]] (2 sources)
 - [[Credit Spread Curve]] (22 sources)
 - [[Credit Spread Forecasting]] (5 sources)
@@ -1075,7 +1358,8 @@ Master catalog of all pages in this wiki.
 - [[Cross-Asset Rotation Strategy]] (30 sources)
 - [[Cross-Conformal Prediction / Jackknife+ / CV+]] (4 sources)
 - [[Cross-Currency Basis Swap]] (1 sources)
-- [[Cross-Sectional Momentum]] (1 sources)
+- [[Cross-Impact]] (3 sources)
+- [[Cross-Sectional Momentum]] (4 sources)
 - [[Currency Exchange Rates and Forecasting]] (1 sources)
 - [[Curse of Dimensionality]] (1 sources)
 - [[Cypher Query Language]] (1 sources)
@@ -1091,14 +1375,15 @@ Master catalog of all pages in this wiki.
 - [[Debt Overhang and Balance-Sheet Recession]] (1 sources)
 - [[Decision Trees]] (1 sources)
 - [[Decoding Strategies]] (1 sources)
-- [[Deep Learning for Finance]] (1 sources)
+- [[Deep Learning for Finance]] (70 sources)
 - [[Default Rates]] (9 sources)
 - [[Deflation trap]] (1 sources)
 - [[Demand and Supply Analysis]] (1 sources)
 - [[Dense Retrieval]] (1 sources)
 - [[Dependency Inversion Principle]] (1 sources)
-- [[Diebold-Mariano Test]] (1 sources)
+- [[Diebold-Mariano Test]] (2 sources)
 - [[Differences-in-Differences]] (1 sources)
+- [[Directional Change]] (30 sources)
 - [[Directional Forecasting]] (1 sources)
 - [[Discriminant Analysis and Classification]] (1 sources)
 - [[Disposition Effect]] (2 sources)
@@ -1115,8 +1400,11 @@ Master catalog of all pages in this wiki.
 - [[Doubly Robust Estimation]] (4 sources)
 - [[DSGE and Threshold BVAR Counterfactual Analysis]] (1 sources)
 - [[DtACI (Dynamically-tuned Adaptive Conformal Inference)]] (2 sources)
+- [[Duration Times Spread (DTS)]] (2 sources)
 - [[Dynamic Equicorrelation]] (1 sources)
 - [[Dynamic Factor Model]] (2 sources)
+- [[E-process]] (4 sources)
+- [[E-value]] (4 sources)
 - [[Early Warning Indicators]] (1 sources)
 - [[Earnings Growth Persistence]] (1 sources)
 - [[ECB Price Stability Definition]] (1 sources)
@@ -1129,6 +1417,7 @@ Master catalog of all pages in this wiki.
 - [[Energy Score]] (2 sources)
 - [[Entity Resolution]] (2 sources)
 - [[Entry Point Analysis]] (1 sources)
+- [[Epps Effect]] (2 sources)
 - [[Epsilon-Operator Semantics for Counterfactuals]] (1 sources)
 - [[Equity Forward Pricing]] (1 sources)
 - [[Error Correction Model]] (1 sources)
@@ -1136,8 +1425,9 @@ Master catalog of all pages in this wiki.
 - [[ETF Creation/Redemption Arbitrage]] (1 sources)
 - [[ETF Flow Anomalies (Create-to-Lend)]] (1 sources)
 - [[ETF Flow-Based Tactical Asset Allocation]] (1 sources)
-- [[ETF Flows]] (13 sources)
+- [[ETF Flows]] (14 sources)
 - [[Evaluation Constraint on Counterfactuals]] (1 sources)
+- [[Event Clock]] (71 sources)
 - [[Event Risk]] (1 sources)
 - [[Event-Driven Microservices]] (1 sources)
 - [[EWMAC and Carry Trading Rules]] (1 sources)
@@ -1150,22 +1440,24 @@ Master catalog of all pages in this wiki.
 - [[Extreme Value Theory]] (1 sources)
 - [[Eye Tracking in Code Reading]] (1 sources)
 - [[Factor Investing in Corporate Bonds]] (8 sources)
-- [[Factor Models]] (10 sources)
+- [[Factor Models]] (11 sources)
+- [[Factor Momentum]] (3 sources)
 - [[Factor Signals in Credit]] (1 sources)
-- [[Factor Timing]] (1 sources)
+- [[Factor Timing]] (2 sources)
+- [[False Discovery Rate]] (4 sources)
 - [[Fama-French Factors]] (1 sources)
 - [[Fast Mean Reversion]] (1 sources)
-- [[Feature Engineering]] (1 sources)
+- [[Feature Engineering]] (57 sources)
 - [[Feature Store]] (1 sources)
 - [[Feedback Loops]] (2 sources)
 - [[Few-Shot Learning]] (2 sources)
 - [[Few-shot Prompting]] (2 sources)
-- [[Fill Probability]] (2 sources)
+- [[Fill Probability]] (4 sources)
 - [[Financial conditions]] (1 sources)
 - [[Fine-Tuning]] (1 sources)
 - [[Fissler-Ziegel Loss]] (1 sources)
 - [[Flexible Least Squares]] (2 sources)
-- [[Flow Decomposition]] (3 sources)
+- [[Flow Decomposition]] (6 sources)
 - [[Forecast Scaling and Combination]] (1 sources)
 - [[Forward Rate]] (7 sources)
 - [[Foundation Model]] (1 sources)
@@ -1199,7 +1491,7 @@ Master catalog of all pages in this wiki.
 - [[Graph Data Science]] (1 sources)
 - [[Graph Fourier Transform]]
 - [[Graph Laplacian]]
-- [[Graph Neural Networks]]
+- [[Graph Neural Networks]] (2 sources)
 - [[Graph Signal Processing]]
 - [[Graph-Native Machine Learning]] (1 sources)
 - [[GraphRAG]] (1 sources)
@@ -1212,19 +1504,19 @@ Master catalog of all pages in this wiki.
 - [[Half-Life of Adjustment]] (1 sources)
 - [[Hallucination]] (1 sources)
 - [[Hallucination as a Security Risk]] (1 sources)
-- [[Hawkes Processes]] (1 sources)
+- [[Hawkes Processes]] (18 sources)
 - [[Hazard Rate Curve]] (1 sources)
 - [[Heterogeneous Autoregressive Model]] (2 sources)
 - [[Heterogeneous Treatment Effects]] (1 sources)
 - [[Heteroskedasticity]] (2 sources)
 - [[Hexagonal Architecture]] (1 sources)
 - [[Hidden Markov Models for Regime Detection]] (1 sources)
-- [[Hierarchical Clustering]] (1 sources)
+- [[Hierarchical Clustering]] (3 sources)
 - [[Hierarchical Credibility Model]] (2 sources)
 - [[High Performance Computing Credit Subsector]] (1 sources)
 - [[High-Dimensional Data]] (1 sources)
-- [[High-Frequency Data]] (1 sources)
-- [[High-Frequency Trading]] (1 sources)
+- [[High-Frequency Data]] (144 sources)
+- [[High-Frequency Trading]] (100 sources)
 - [[Historical Simulation (Backtesting)]] (1 sources)
 - [[Human-in-the-Loop]] (1 sources)
 - [[Hume's Problem of Causation]] (1 sources)
@@ -1242,7 +1534,7 @@ Master catalog of all pages in this wiki.
 - [[Index Reconstitution]] (2 sources)
 - [[Inference Optimization]] (1 sources)
 - [[Information Ratio]] (1 sources)
-- [[Informed Trading]] (1 sources)
+- [[Informed Trading]] (47 sources)
 - [[Input-Output Analysis]] (1 sources)
 - [[Insecure Output Handling]] (1 sources)
 - [[Instruction Fine-Tuning]] (1 sources)
@@ -1253,13 +1545,14 @@ Master catalog of all pages in this wiki.
 - [[Interquantile Expectation]] (1 sources)
 - [[Interrupted Time Series Design]] (1 sources)
 - [[Interval Score]] (1 sources)
+- [[Intrinsic Time]] (32 sources)
 - [[Inventory Risk]] (6 sources)
 - [[Inverse Probability Weighting]] (1 sources)
 - [[IP Weighting and Marginal Structural Models]] (2 sources)
 - [[Jackknife+ after Bootstrap (J+aB)]] (3 sources)
 - [[Jackknife+ Prediction]] (3 sources)
 - [[Jailbreaking]] (1 sources)
-- [[Jump Clustering]] (1 sources)
+- [[Jump Clustering]] (4 sources)
 - [[Jump-Diffusion Option Pricing]] (1 sources)
 - [[Kalman Filter]] (2 sources)
 - [[Kalman Filter State-Space Estimation]] (1 sources)
@@ -1269,6 +1562,7 @@ Master catalog of all pages in this wiki.
 - [[Knowledge Lake]] (1 sources)
 - [[KOWCPI]] (1 sources)
 - [[Kriging]] (1 sources)
+- [[Kyle's Lambda]] (3 sources)
 - [[Ladder of Causation]] (1 sources)
 - [[Lagrange Multipliers Method]] (1 sources)
 - [[LangChain]] (2 sources)
@@ -1288,11 +1582,11 @@ Master catalog of all pages in this wiki.
 - [[Leverage Ratios]] (1 sources)
 - [[Leveraged Recapitalization]] (1 sources)
 - [[Libor-OIS spread]] (1 sources)
-- [[Limit Order Book]] (9 sources)
+- [[Limit Order Book]] (158 sources)
 - [[Limits to Arbitrage]] (1 sources)
 - [[Linear-Quadratic Control and the Kalman Filter]] (1 sources)
 - [[Linguistic Anti-Patterns]] (1 sources)
-- [[Liquidity Risk]] (5 sources)
+- [[Liquidity Risk]] (19 sources)
 - [[Liquidity Scoring Mechanism]] (1 sources)
 - [[LLM Agent]] (1 sources)
 - [[LLM Application Architecture]] (1 sources)
@@ -1307,13 +1601,13 @@ Master catalog of all pages in this wiki.
 - [[Local Average Treatment Effect (LATE)]] (1 sources)
 - [[Log-Periodic Power Law Market Model]] (1 sources)
 - [[Logarithmic Score]] (1 sources)
-- [[Long Memory]] (4 sources)
+- [[Long Memory]] (14 sources)
 - [[Longevity Risk]] (2 sources)
 - [[Look-ahead Bias]]
 - [[Look-Ahead Bias and Data Mining]] (1 sources)
 - [[Low Expected Returns Challenge]] (1 sources)
 - [[Low-Rank Adaptation]] (1 sources)
-- [[LSTM Networks]] (1 sources)
+- [[LSTM Networks]] (46 sources)
 - [[Machine Learning for Credit Modeling]] (1 sources)
 - [[Macro Cycle Cross-Asset Allocation]] (1 sources)
 - [[Macroeconomic Indicators]] (3 sources)
@@ -1324,9 +1618,9 @@ Master catalog of all pages in this wiki.
 - [[Mark-to-Market Credit Hedging]] (1 sources)
 - [[Market Crash and Liquidity Crisis Dynamics]] (1 sources)
 - [[Market Integration Concordance Measure]] (1 sources)
-- [[Market Making]] (16 sources)
-- [[Market Microstructure]] (5 sources)
-- [[Market Microstructure Noise]]
+- [[Market Making]] (28 sources)
+- [[Market Microstructure]] (160 sources)
+- [[Market Microstructure Noise]] (21 sources)
 - [[Market Structures]] (1 sources)
 - [[Market Timing]] (13 sources)
 - [[Market-Implied Ratings]] (1 sources)
@@ -1341,9 +1635,13 @@ Master catalog of all pages in this wiki.
 - [[Mediation Analysis]] (2 sources)
 - [[Mental Model of Code]] (1 sources)
 - [[Mental Models for Decision-Making]] (1 sources)
+- [[Merging P-values and E-values]] (4 sources)
 - [[Merton Structural Model]] (4 sources)
 - [[Message Bus]] (1 sources)
 - [[Metadata Knowledge Graph]] (1 sources)
+- [[Metaorder]] (8 sources)
+- [[Micro-Price]] (5 sources)
+- [[Mid-Price Prediction]] (14 sources)
 - [[MIDAS Regression]] (2 sources)
 - [[Minimum Requirement for Own Funds and Eligible Liabilities (MREL)]] (1 sources)
 - [[Minimum Variance Portfolio]] (1 sources)
@@ -1364,13 +1662,14 @@ Master catalog of all pages in this wiki.
 - [[Monetary policy easing]] (1 sources)
 - [[Monetary Transmission Mechanism]] (1 sources)
 - [[Multi-Distribution Robust Conformal Prediction]] (1 sources)
-- [[Multi-Head Attention]] (1 sources)
+- [[Multi-Head Attention]] (3 sources)
 - [[Multi-Population Mortality Modelling]] (2 sources)
 - [[Multi-step Conformal Prediction]] (2 sources)
 - [[Multifractal Detrended Fluctuation Analysis (MFDFA)]] (4 sources)
 - [[Multimodal Embeddings]] (1 sources)
 - [[Multimodal RAG]] (1 sources)
 - [[Multimodal Retrieval]] (1 sources)
+- [[Multiple Testing]] (4 sources)
 - [[Multitask Learning]] (1 sources)
 - [[Multivariate Realized Kernel]] (1 sources)
 - [[Nadaraya-Watson Estimator]] (1 sources)
@@ -1393,15 +1692,16 @@ Master catalog of all pages in this wiki.
 - [[Online Conformal Prediction]] (6 sources)
 - [[Ontology]] (1 sources)
 - [[OpenAI API]] (1 sources)
-- [[Optimal Execution]] (2 sources)
+- [[Optimal Execution]] (12 sources)
 - [[Optimum Score Estimation]] (1 sources)
 - [[Option-Implied Information in Credit Markets]] (1 sources)
-- [[Order Flow]] (4 sources)
-- [[Order Flow Prediction]] (1 sources)
-- [[Order Imbalance]] (3 sources)
+- [[Order Flow]] (64 sources)
+- [[Order Flow Imbalance]] (66 sources)
+- [[Order Flow Prediction]] (53 sources)
+- [[Order Imbalance]] (68 sources)
 - [[Ornstein-Uhlenbeck Process]] (2 sources)
 - [[Outright Monetary Transactions]] (1 sources)
-- [[Over-fitting in Back-testing]] (1 sources)
+- [[Over-fitting in Back-testing]] (22 sources)
 - [[Over-the-Counter Markets]] (1 sources)
 - [[Overfitting in Alpha Research]] (1 sources)
 - [[Overfitting of Trading Strategies]] (1 sources)
@@ -1413,12 +1713,13 @@ Master catalog of all pages in this wiki.
 - [[Parameter-Efficient Fine-Tuning]] (2 sources)
 - [[Parameter-Efficient Finetuning]] (1 sources)
 - [[Parent Document Retrieval]] (1 sources)
-- [[Particle Filter]] (1 sources)
+- [[Particle Filter]] (2 sources)
 - [[PEP 8 Style Guide]] (1 sources)
 - [[Phillips Curve]] (1 sources)
 - [[Positional Embeddings]] (1 sources)
 - [[Potential Outcomes and Counterfactual Causal Effects]] (6 sources)
 - [[Prediction Intervals]] (3 sources)
+- [[Price Impact]] (43 sources)
 - [[Principal Components Analysis]] (2 sources)
 - [[Private Credit / Direct Lending]] (2 sources)
 - [[Private Credit and Leveraged Loans]] (1 sources)
@@ -1429,6 +1730,7 @@ Master catalog of all pages in this wiki.
 - [[Prompt Assembly]] (1 sources)
 - [[Prompt Engineering]] (6 sources)
 - [[Prompt Injection]] (4 sources)
+- [[Propagator Model]] (3 sources)
 - [[Propensity Score]] (2 sources)
 - [[Property Graph Model]] (1 sources)
 - [[Prospect Theory]] (1 sources)
@@ -1440,6 +1742,7 @@ Master catalog of all pages in this wiki.
 - [[Quantitative Tightening]] (8 sources)
 - [[Quantum-Safe Cryptography]] (1 sources)
 - [[Quasi-Experimental Design]] (1 sources)
+- [[Queue Imbalance]] (7 sources)
 - [[RAG Evaluation]] (2 sources)
 - [[Ramsey Optimal Taxation]] (1 sources)
 - [[Random Forest]] (2 sources)
@@ -1449,10 +1752,10 @@ Master catalog of all pages in this wiki.
 - [[ReAct]] (1 sources)
 - [[ReAct Agent]] (1 sources)
 - [[ReAct Prompting]] (1 sources)
-- [[Realized Covariance]] (1 sources)
+- [[Realized Covariance]] (3 sources)
 - [[Realized Probability Index]] (1 sources)
-- [[Realized Variance]] (1 sources)
-- [[Recurrent Neural Networks]] (1 sources)
+- [[Realized Variance]] (16 sources)
+- [[Recurrent Neural Networks]] (33 sources)
 - [[Recursive Competitive Equilibrium]] (1 sources)
 - [[Recursive Contracts]] (1 sources)
 - [[Recursive Methods and Dynamic Programming]] (1 sources)
@@ -1487,6 +1790,7 @@ Master catalog of all pages in this wiki.
 - [[Role Prompting]] (1 sources)
 - [[Runs Test for Growth Consistency]] (1 sources)
 - [[Sales Growth Base Rates and Value Creation]] (1 sources)
+- [[Sampling Clocks]] (35 sources)
 - [[Sampling Strategies]] (1 sources)
 - [[Schwartz-Smith Model]] (1 sources)
 - [[Scientific Explanation]] (1 sources)
@@ -1524,12 +1828,14 @@ Master catalog of all pages in this wiki.
 - [[Split Conformal Prediction]] (3 sources)
 - [[Spread]] (3 sources)
 - [[Spread Per Turn of Leverage]] (1 sources)
+- [[Square-Root Law of Market Impact]] (9 sources)
 - [[State-Space Models]] (1 sources)
 - [[Stationarity]] (1 sources)
 - [[Statistical Arbitrage]] (5 sources)
 - [[Step-Back Prompting]] (2 sources)
 - [[Stochastic Conditional Intensity]] (1 sources)
 - [[Stochastic Optimal Control]] (3 sources)
+- [[Stochastic Time Change]] (16 sources)
 - [[Stochastic Volatility with Jumps]] (1 sources)
 - [[Stock Price Efficiency]] (1 sources)
 - [[Stocks and Flows]] (1 sources)
@@ -1541,7 +1847,7 @@ Master catalog of all pages in this wiki.
 - [[Structure of Production]] (1 sources)
 - [[Structured Output]] (1 sources)
 - [[Style Premia (Value, Momentum, Carry, Defensive)]] (5 sources)
-- [[Stylized Facts]] (6 sources)
+- [[Stylized Facts]] (40 sources)
 - [[Sufficient-Cause Interaction (Synergism)]] (1 sources)
 - [[Superforecasting]] (1 sources)
 - [[Survival Probability]] (1 sources)
@@ -1562,6 +1868,7 @@ Master catalog of all pages in this wiki.
 - [[Term Structure Risk Premium]] (13 sources)
 - [[Test in Production]] (1 sources)
 - [[Test-Driven Development]] (2 sources)
+- [[Testing by Betting]] (3 sources)
 - [[Text-to-Cypher Generation]] (1 sources)
 - [[The UnRule (Cutting Losses)]] (1 sources)
 - [[Threat Modeling for LLM Applications]] (1 sources)
@@ -1572,11 +1879,12 @@ Master catalog of all pages in this wiki.
 - [[Tool Calling]] (1 sources)
 - [[Tool Use]] (1 sources)
 - [[TRACE Data]]
-- [[Trade Classification]]
-- [[Trader Clustering]] (1 sources)
+- [[Trade Classification]] (30 sources)
+- [[Trade Clock]] (32 sources)
+- [[Trader Clustering]] (5 sources)
 - [[Training-Serving Skew]] (1 sources)
 - [[Transductive Learning]]
-- [[Transformers]] (3 sources)
+- [[Transformers]] (21 sources)
 - [[Tree of Thoughts]] (1 sources)
 - [[Trend Following]] (7 sources)
 - [[Trust Boundaries]] (1 sources)
@@ -1600,8 +1908,10 @@ Master catalog of all pages in this wiki.
 - [[Venn Predictors]] (2 sources)
 - [[Volatility Risk Premia (VIRP)]] (2 sources)
 - [[Volatility Smirk as Informed-Trading Signal]] (1 sources)
-- [[Volatility Targeting]] (1 sources)
-- [[Volatility-Based Position Sizing]] (1 sources)
+- [[Volatility Targeting]] (2 sources)
+- [[Volatility-Based Position Sizing]] (2 sources)
+- [[Volume Clock]] (21 sources)
+- [[VPIN]] (24 sources)
 - [[Walk-Forward Analysis]] (1 sources)
 - [[Wealth Inequality and Financialized Capitalism]] (1 sources)
 - [[Weighted Conformal Prediction (WCP)]] (4 sources)
@@ -1622,6 +1932,7 @@ Master catalog of all pages in this wiki.
 
 - [[A Credit Universe as a Dynamic Sheaf: Representation and Topology]]
 - [[AI Engineering as a Discipline]]
+- [[Bond Momentum Signal: Findings, Test Plan and Next Steps]]
 - [[Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction]]
 - [[Conformal Prediction with Tukey g-h Transformation]]
 - [[Credit-Spread Determinants: An Empirical and Do-Calculus Reading]]
@@ -1631,15 +1942,15 @@ Master catalog of all pages in this wiki.
 ## Contradictions
 *Disagreements between sources.*
 
-(No contradictions yet)
+- [[Does Factor Momentum Cause Stock Momentum?]]
 
 ---
 
 **Stats**
-- Total sources: 364
-- Total entities: 522
-- Total concepts: 701
-- Total analyses: 7
-- Total contradictions: 0
-- **Total pages: 1594**
-- Last updated: 2026-08-09
+- Total sources: 642
+- Total entities: 525
+- Total concepts: 730
+- Total analyses: 8
+- Total contradictions: 1
+- **Total pages: 1906**
+- Last updated: 2026-09-27

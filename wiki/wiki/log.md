@@ -1763,3 +1763,16 @@ Status: completed
 Created: sources/cont-2014-price-impact-order-book-events, entities/arseniy-kukanov, entities/sasha-stoikov
 Updated: concepts/order-flow-imbalance, concepts/order-imbalance, concepts/price-impact, concepts/square-root-law, concepts/limit-order-book, entities/rama-cont, sources/cont-2023-cross-impact-ofi, sources/xu-2020-mlofi
 Source: arXiv:1011.6402v3, downloaded to raw/ofi-feature-papers/cont-2014-price-impact-order-book-events.pdf
+
+
+---
+
+## [2026-09-27] batch_ingest | Order flow imbalance and order book features on event clocks (244 papers)
+
+Operation ID: op_6cbe9bd4699e
+Status: completed
+Created: 287 pages (244 sources, 14 concepts, 29 entities)
+New concepts: bulk-volume-classification, directional-change, epps-effect, event-clock, intrinsic-time, kyles-lambda, micro-price, mid-price-prediction, queue-imbalance, sampling-clocks, stochastic-time-change, trade-clock, volume-clock, vpin
+Updated: 61 existing pages gained links to the new sources
+Source: raw/ofi-event-clock/ (see manifest.tsv there); papers found through OpenAlex and Semantic Scholar on 2026-09-26, plus papers added by hand
+Not done: MIND_MAP.md was not edited; the new pages have no nodes yet
