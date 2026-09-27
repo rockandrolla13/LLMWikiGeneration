@@ -3,7 +3,7 @@ content_hash: sha256:0f2611ea88cbdc704fdb0b8598989efb0f7545bf5664e577c362a9f50be
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/daniele-marazzina
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/hawkes-processes

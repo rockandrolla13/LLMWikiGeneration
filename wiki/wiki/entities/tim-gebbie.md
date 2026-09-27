@@ -3,7 +3,7 @@ content_hash: sha256:1a63528b46c3fea994114b943bfa5fd4cb7d1d8adccb34742c5888e2b11
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/tim-gebbie
-page_type: entitie
+page_type: entity
 related:
 - concepts/market-microstructure
 - concepts/sampling-clocks

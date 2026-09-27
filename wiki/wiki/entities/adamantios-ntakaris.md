@@ -3,7 +3,7 @@ content_hash: sha256:cffbaaee0c131d5eba3a01685a7defd68bbe8a701a7140a10f23fb63a19
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/adamantios-ntakaris
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

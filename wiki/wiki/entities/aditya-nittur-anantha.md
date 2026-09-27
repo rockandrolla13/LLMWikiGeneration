@@ -3,7 +3,7 @@ content_hash: sha256:58939486f98f34db7fc409aed2f540f00affb0f70b00c34064ac5f38704
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/aditya-nittur-anantha
-page_type: entitie
+page_type: entity
 related:
 - concepts/hawkes-processes
 - concepts/market-microstructure

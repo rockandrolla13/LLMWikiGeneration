@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index (Full)
-updated: '2026-09-27T01:47:41.266456Z'
+updated: '2026-09-27T02:07:54.651125Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-09-27T01:47:41.263585Z
+Generated: 2026-09-27T02:07:54.647907Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:daa315f21def2c83
+Source hash: sha256:f74cee12f1059303
 Rebuild with: wiki:rebuild
 -->
 
@@ -672,7 +672,10 @@ Master catalog of all pages in this wiki.
 - [[Abraham Wald]]
 - [[Adam S Richmond]]
 - [[Adam Virgadamo]]
+- [[Adamantios Ntakaris]] `researcher, market-microstructure`
 - [[Adelchi Azzalini]]
+- [[Adesola Adegboye]] `researcher, market-microstructure`
+- [[Aditya Nittur Anantha]] `researcher, market-microstructure`
 - [[Adrian E. Raftery]]
 - [[Adrian Pizzinga]] `researcher, kalman-filter, state-space-models, pairs-trading, brazil`
 - [[AHL (Man Group)]]
@@ -682,15 +685,18 @@ Master catalog of all pages in this wiki.
 - [[Aleksandr Nozhnitskiy]]
 - [[Alessandro Rinaldo]] `researcher, statistics, high-dimensional, conformal-prediction`
 - [[Alessandro Varaldo]] `researcher`
+- [[Alessio Sancetta]] `researcher, market-microstructure`
 - [[Alexander Barzykin]] `practitioner, market-making, fx, quantitative-finance, hsbc`
 - [[Alexander Dickerson]] `researcher, corporate-bonds, market-microstructure, empirical-finance, methodology`
 - [[Alexander Gammerman]] `researcher, conformal-prediction, foundational, royal-holloway`
 - [[Alexander Philipov]]
 - [[Alexander Wojt]]
+- [[Alexandros Iosifidis]] `researcher, market-microstructure`
 - [[Alvaro Serrano]]
 - [[Amanda Gentzel]]
 - [[Amazon CodeWhisperer]] `ai-engineering, tool`
 - [[Anastasios N. Angelopoulos]] `researcher, conformal-prediction, uncertainty-quantification, machine-learning`
+- [[Anastasios Tefas]] `researcher, market-microstructure`
 - [[Andre F.T. Martins]] `researcher, nlp, machine-learning, uncertainty-quantification, conformal-prediction`
 - [[Andreas Bruckner]]
 - [[Andreas Koukorinis]] `researcher, ucl, conformal-prediction, causal-inference`
@@ -702,6 +708,7 @@ Master catalog of all pages in this wiki.
 - [[Anthropic]] `ai-engineering, organization`
 - [[Anthropic Claude]] `ai-engineering, tool`
 - [[Anton Heese]]
+- [[Antonio Briola]] `researcher, market-microstructure`
 - [[Antonio Farinhas]] `researcher, conformal-prediction, uncertainty-quantification, nlp`
 - [[Antti Ilmanen]]
 - [[Apache Flink]] `ai-engineering, tool`
@@ -714,6 +721,7 @@ Master catalog of all pages in this wiki.
 - [[Arthur Saint Guilhem]]
 - [[Arturo Geigel]] `ai-engineering, person`
 - [[Ashish Vaswani]] `researcher, google`
+- [[Avraam Tsantekidis]] `researcher, market-microstructure`
 - [[Aymeric Dieuleveut]] `researcher, machine-learning, optimization, statistics, conformal-prediction`
 - [[Baiting Chen]] `researcher, conformal-prediction, machine-learning, ucla`
 - [[Benjamin Nabarro]]
@@ -765,7 +773,9 @@ Master catalog of all pages in this wiki.
 - [[Dana Mackenzie]]
 - [[Daniel Kahneman]]
 - [[Daniele Antonucci]]
+- [[Daniele Marazzina]] `researcher, market-microstructure`
 - [[Darrell Duffie]] `researcher`
+- [[Dat Thanh Tran]] `researcher, market-microstructure`
 - [[Databricks]] `data-platform, spark, lakehouse, data-governance, data-engineering`
 - [[David Card]]
 - [[David H. Romer]]
@@ -773,6 +783,7 @@ Master catalog of all pages in this wiki.
 - [[David Harris]]
 - [[David Hume]]
 - [[David Jensen]]
+- [[David Leinweber]] `researcher, market-microstructure`
 - [[David Lewis]]
 - [[Davide E. Avino]]
 - [[DeepSeek]] `ai-engineering, organization`
@@ -786,6 +797,7 @@ Master catalog of all pages in this wiki.
 - [[Donella H. Meadows]]
 - [[Doron Avramov]]
 - [[Dror Feitelson]] `ai-engineering, person`
+- [[E. Wes Bethel]] `researcher, market-microstructure`
 - [[Edward George]]
 - [[Edward Hu]] `ai-engineering, person`
 - [[Edward M. Watts]] `researcher`
@@ -803,6 +815,7 @@ Master catalog of all pages in this wiki.
 - [[Ernest Adams]]
 - [[European Central Bank]]
 - [[Evan Patterson]] `researcher, conformal-prediction, statistics, stanford, applied-category-theory`
+- [[Fabrizio Lillo]] `researcher, market-microstructure`
 - [[FAISS]] `ai-engineering, tool`
 - [[Federal Reserve]]
 - [[Federico Manicardi]]
@@ -877,6 +890,7 @@ Master catalog of all pages in this wiki.
 - [[Jemma Hudson]]
 - [[Jennifer Hill]]
 - [[Jerald E. Pinto]]
+- [[Jeremy Turiel]] `researcher, market-microstructure`
 - [[Jeroen van Zundert]] `researcher, Robeco, corporate-bonds, factor-investing, momentum`
 - [[Jerome Powell]]
 - [[Jesper Rooth]]
@@ -913,6 +927,7 @@ Master catalog of all pages in this wiki.
 - [[Joshua D. Angrist]]
 - [[Judea Pearl]]
 - [[Juha Seppala]]
+- [[Juho Kanniainen]] `researcher, market-microstructure`
 - [[Julie Josse]] `researcher, missing-data, statistics, machine-learning, conformal-prediction`
 - [[Jörn-Steffen Pischke]]
 - [[Karl Pearson]]
@@ -922,6 +937,7 @@ Master catalog of all pages in this wiki.
 - [[Katerina Smidkova]]
 - [[Kelcie Gerson]]
 - [[Kelvin Pang]]
+- [[Kesheng Wu]] `researcher, market-microstructure`
 - [[Kevin Berk]]
 - [[Koichi Sugisaki]]
 - [[Kostas Triantafyllopoulos]] `researcher, bayesian-statistics, state-space-models, kalman-filter, sheffield`
@@ -966,6 +982,7 @@ Master catalog of all pages in this wiki.
 - [[Markus Püschel]] `researcher, professor, signal-processing, causal-discovery, eth-zurich`
 - [[Martin D. Gould]] `researcher, market-microstructure, limit-order-book, foreign-exchange, long-memory`
 - [[Martin Fowler]] `ai-engineering, person`
+- [[Martin Magris]] `researcher, market-microstructure`
 - [[Massimo Rostagno]]
 - [[Matteo Fontana]] `researcher, conformal-prediction, statistics, time-series, functional-data-analysis`
 - [[Matteo Sesia]] `researcher, conformal-prediction, statistics, usc, knockoffs`
@@ -986,6 +1003,7 @@ Master catalog of all pages in this wiki.
 - [[Michael I. Jordan]] `researcher, machine-learning, uc-berkeley, statistics, foundational, conformal-prediction`
 - [[Michael J Wilson]]
 - [[Michael J. Mauboussin]]
+- [[Michael Kampouridis]] `researcher, market-microstructure`
 - [[Michael L. Halls-Moore]]
 - [[Michael Tooley]]
 - [[Michael Zezas]]
@@ -1000,9 +1018,11 @@ Master catalog of all pages in this wiki.
 - [[Minh-Ngoc Tran]] `researcher`
 - [[Mirco Rubin]] `researcher`
 - [[Molly Wharton]]
+- [[Moncef Gabbouj]] `researcher, market-microstructure`
 - [[Moody's]]
 - [[Morgan Stanley]]
 - [[Moritz Schulz]]
+- [[Mostafa Shabani]] `researcher, market-microstructure`
 - [[Murray N. Rothbard]]
 - [[Naomi Poole]]
 - [[Nathaniel Rosenbaum]]
@@ -1011,6 +1031,7 @@ Master catalog of all pages in this wiki.
 - [[Nelson Jantzen]]
 - [[Neo4j]] `ai-engineering, tool`
 - [[Nicola Vitucci]] `ai-engineering, person`
+- [[Nikolaos Passalis]] `researcher, market-microstructure`
 - [[Nikolaus Hautsch]] `researcher`
 - [[Nikunj Kapadia]]
 - [[Nils Reimers]] `ai-engineering, person`
@@ -1029,6 +1050,7 @@ Master catalog of all pages in this wiki.
 - [[Oskar Hane]] `ai-engineering, person`
 - [[OWASP]] `ai-engineering, organization`
 - [[Owen Roberts]]
+- [[Ozgur Salman]] `researcher, market-microstructure`
 - [[Paco Nathan]] `ai-engineering, person`
 - [[Pandas]] `ai-engineering, tool`
 - [[Paolo Batori]]
@@ -1061,6 +1083,7 @@ Master catalog of all pages in this wiki.
 - [[Rashique Rahman]]
 - [[Redis]] `ai-engineering, tool`
 - [[Replit]] `ai-engineering, tool`
+- [[Riccardo Busetto]] `researcher, market-microstructure`
 - [[Richard Gerlach]] `researcher`
 - [[Richard J. Martin]] `fixed-income, credit-spreads, quantitative-finance`
 - [[Rina Foygel Barber]] `researcher, conformal-prediction, statistics, university-of-chicago`
@@ -1098,6 +1121,7 @@ Master catalog of all pages in this wiki.
 - [[Serena Tang]]
 - [[Sewall Wright]]
 - [[Shahraab Ahmad]]
+- [[Shashi Jain]] `researcher, market-microstructure`
 - [[Sheena Shah]]
 - [[Shengfang Tang]]
 - [[Shihao Gu]] `researcher`
@@ -1109,6 +1133,7 @@ Master catalog of all pages in this wiki.
 - [[Silvi Mantri]]
 - [[Simon T. Bodilsen]] `researcher`
 - [[Simona Boffelli]] `researcher`
+- [[Simone Formentin]] `researcher, market-microstructure`
 - [[Simone Vantini]] `researcher, conformal-prediction, functional-data-analysis, statistics, politecnico-di-milano`
 - [[Sivan Mahadevan]]
 - [[Snorkel AI]] `ai-engineering, tool`
@@ -1122,6 +1147,7 @@ Master catalog of all pages in this wiki.
 - [[Stanley Druckenmiller]]
 - [[Stefan J. Huber]] `researcher`
 - [[Stefan Wager]]
+- [[Stefan Zohren]] `researcher, market-microstructure`
 - [[Stephen Bates]] `researcher, conformal-prediction, statistics, uncertainty-quantification`
 - [[Steve Caprio]]
 - [[Steve Wilson]] `ai-engineering, person`
@@ -1136,11 +1162,13 @@ Master catalog of all pages in this wiki.
 - [[Thomas Pearce]]
 - [[tiktoken]] `ai-engineering, tool`
 - [[Tilmann Gneiting]]
+- [[Tim Gebbie]] `researcher, market-microstructure`
 - [[Tim Peters]] `ai-engineering, person`
 - [[Tobias Fissler]] `researcher`
 - [[Tom Brown]] `ai-engineering, person`
 - [[Tom Taulli]] `ai-engineering, person`
 - [[Tomas Havranek]]
+- [[Tomaso Aste]] `researcher, market-microstructure`
 - [[Tomasz Pietrzak]]
 - [[Tomaz Bratanic]] `ai-engineering, person`
 - [[Tony Small]]
@@ -1189,6 +1217,7 @@ Master catalog of all pages in this wiki.
 - [[Yuqi Yang]] `statistics, conformal-prediction, machine-learning`
 - [[Yuying Sun]] `researcher`
 - [[Ziyu Xu]] `researcher, e-values, multiple-testing, bandits`
+- [[Zoltán Eisler]] `researcher, market-microstructure`
 - [[Zongwu Cai]]
 - [[Zrinka Lukač]]
 - [[Álvaro Cartea]] `researcher, optimal-execution, market-making, algorithmic-trading, quantitative-finance`
@@ -1948,9 +1977,9 @@ Master catalog of all pages in this wiki.
 
 **Stats**
 - Total sources: 642
-- Total entities: 525
+- Total entities: 554
 - Total concepts: 730
 - Total analyses: 8
 - Total contradictions: 1
-- **Total pages: 1906**
+- **Total pages: 1935**
 - Last updated: 2026-09-27

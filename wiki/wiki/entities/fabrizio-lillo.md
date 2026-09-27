@@ -3,7 +3,7 @@ content_hash: sha256:37fcac1d9fcd35de36388f7564361340d65a605ea45c0b44216a8789a8a
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/fabrizio-lillo
-page_type: entitie
+page_type: entity
 related:
 - concepts/market-microstructure
 - concepts/high-frequency-data

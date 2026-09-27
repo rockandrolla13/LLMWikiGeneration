@@ -3,7 +3,7 @@ content_hash: sha256:52bfc23bbbed4ae6e49ad49642cebae07431c20897c344060386ea16058
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/jeremy-turiel
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

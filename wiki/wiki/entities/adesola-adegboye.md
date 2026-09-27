@@ -3,7 +3,7 @@ content_hash: sha256:fdaaed320e0c7a091a9e4fb8793b595c706c5d6c5560848412d487598e3
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/adesola-adegboye
-page_type: entitie
+page_type: entity
 related:
 - concepts/intrinsic-time
 - concepts/backtesting

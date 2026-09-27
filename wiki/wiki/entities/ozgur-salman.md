@@ -3,7 +3,7 @@ content_hash: sha256:804da9f0342fe5b2251b617053f67e84778f04a4808102634f6e50b8050
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/ozgur-salman
-page_type: entitie
+page_type: entity
 related:
 - concepts/intrinsic-time
 - concepts/backtesting

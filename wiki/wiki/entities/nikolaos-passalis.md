@@ -3,7 +3,7 @@ content_hash: sha256:0bb72435cda2534e35966c008b4470bf5d5d991f796de729167368dfcb7
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/nikolaos-passalis
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

@@ -3,7 +3,7 @@ content_hash: sha256:2567940815a1f7c0441f645da3768eda95563ac9ebe12d3f410b8488562
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/e-wes-bethel
-page_type: entitie
+page_type: entity
 related:
 - concepts/market-microstructure
 - concepts/vpin

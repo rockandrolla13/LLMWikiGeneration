@@ -3,7 +3,7 @@ content_hash: sha256:10946307fab09a182bc0d8c30d902d65565fb98fdaec2ad992bd3b705ef
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/alessio-sancetta
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/order-flow

@@ -3,7 +3,7 @@ content_hash: sha256:ebc4bdb8e94ddf723ce1f0486fbd41a23722dd8343485b205f544a8df8f
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/moncef-gabbouj
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/event-clock

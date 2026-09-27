@@ -3,7 +3,7 @@ content_hash: sha256:f9c4200a07476b92419759f4272628f8ca75bb3bf09f7a2b630f3b5060f
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/kesheng-wu
-page_type: entitie
+page_type: entity
 related:
 - concepts/market-microstructure
 - concepts/vpin

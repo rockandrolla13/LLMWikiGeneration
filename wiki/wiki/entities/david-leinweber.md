@@ -3,7 +3,7 @@ content_hash: sha256:fc32b274ddc79748ca66393bdcc40f0ee21d632d8430ccf4e92d7c7ab9f
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/david-leinweber
-page_type: entitie
+page_type: entity
 related:
 - concepts/market-microstructure
 - concepts/vpin

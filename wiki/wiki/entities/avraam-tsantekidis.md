@@ -3,7 +3,7 @@ content_hash: sha256:e43d643f9de30471ba2e726006a1959beb0ec8eaa917032ff3306400ba3
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/avraam-tsantekidis
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

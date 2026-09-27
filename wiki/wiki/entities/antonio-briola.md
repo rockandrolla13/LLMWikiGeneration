@@ -3,7 +3,7 @@ content_hash: sha256:28e2362bbd6136c3102cdbc58198d37964b22414b2190eacddd5316b99e
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/antonio-briola
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

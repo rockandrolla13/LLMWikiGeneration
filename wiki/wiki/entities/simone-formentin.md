@@ -3,7 +3,7 @@ content_hash: sha256:6839ba2de2a9463a6d82b2ba8d256c779ad55d2f6a540d63555fafe8f46
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/simone-formentin
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/queue-imbalance

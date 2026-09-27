@@ -3,7 +3,7 @@ content_hash: sha256:837a1d824dcf6d6c4d3273573f417f6f86a6aa4c1069811a890650793fa
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/zoltan-eisler
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/price-impact

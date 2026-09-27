@@ -3,7 +3,7 @@ content_hash: sha256:348fa546da62a97ee0e16d52fecc434f7fd12061422b1ae7946bdb0ef79
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/stefan-zohren
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/deep-learning-for-finance

@@ -3,7 +3,7 @@ content_hash: sha256:71197d00beac0e17a41c076e62227e43fab550879828aced846f034863c
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/riccardo-busetto
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/queue-imbalance

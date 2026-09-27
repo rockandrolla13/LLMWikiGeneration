@@ -3,7 +3,7 @@ content_hash: sha256:d500d4531df3d8f5e7c00da58f33a356f3eaa238d198b13f929fd19cdcc
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/martin-magris
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

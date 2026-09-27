@@ -3,7 +3,7 @@ content_hash: sha256:115c7ff805beb964ae2f3d76ac4a621c5f35cbef6b7f38e27e493a3ebca
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/shashi-jain
-page_type: entitie
+page_type: entity
 related:
 - concepts/hawkes-processes
 - concepts/market-microstructure

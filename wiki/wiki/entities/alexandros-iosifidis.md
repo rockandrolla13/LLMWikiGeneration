@@ -3,7 +3,7 @@ content_hash: sha256:6d7e94eb4029d38da9e9f1bb3ef5a4ca92e932b01d42d136ae54472b419
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/alexandros-iosifidis
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/event-clock

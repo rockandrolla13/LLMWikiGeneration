@@ -3,7 +3,7 @@ content_hash: sha256:27d460473fff8088cdae03651ca28946a87f25726f43c009b39d7eb0112
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/anastasios-tefas
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

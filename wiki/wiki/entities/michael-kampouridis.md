@@ -3,7 +3,7 @@ content_hash: sha256:df7a44007f6f5e30cb8f1a7ff90a51b730c608d484cc66f63a5b23f880f
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/michael-kampouridis
-page_type: entitie
+page_type: entity
 related:
 - concepts/directional-change
 - concepts/backtesting

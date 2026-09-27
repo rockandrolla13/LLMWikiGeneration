@@ -3,7 +3,7 @@ content_hash: sha256:720afa24b9deac09b1123efa867f44541c5e9d693767e9d0189cee5f86e
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/tomaso-aste
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book

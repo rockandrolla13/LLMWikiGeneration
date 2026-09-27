@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-09-27T01:47:39.943730Z'
+updated: '2026-09-27T02:07:53.484281Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-09-27T01:47:39.940708Z
+Generated: 2026-09-27T02:07:53.481334Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:daa315f21def2c83
+Source hash: sha256:f74cee12f1059303
 Rebuild with: wiki:rebuild
 -->
 
@@ -18,7 +18,7 @@ Rebuild with: wiki:rebuild
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
 Last updated: 2026-09-27
-Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, contradictions: 1)
+Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -1402,7 +1402,10 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/abraham-wald — Abraham Wald
 - entities/adam-richmond — Adam S Richmond
 - entities/adam-virgadamo — Adam Virgadamo
+- entities/adamantios-ntakaris — Adamantios Ntakaris
 - entities/adelchi-azzalini — Adelchi Azzalini
+- entities/adesola-adegboye — Adesola Adegboye
+- entities/aditya-nittur-anantha — Aditya Nittur Anantha
 - entities/adrian-raftery — Adrian E. Raftery
 - entities/adrian-pizzinga — Adrian Pizzinga
 - entities/ahl-man-group — AHL (Man Group)
@@ -1412,15 +1415,18 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/aleksandr-nozhnitskiy — Aleksandr Nozhnitskiy
 - entities/alessandro-rinaldo — Alessandro Rinaldo
 - entities/alessandro-varaldo — Alessandro Varaldo
+- entities/alessio-sancetta — Alessio Sancetta
 - entities/alexander-barzykin — Alexander Barzykin
 - entities/alexander-dickerson — Alexander Dickerson
 - entities/alexander-gammerman — Alexander Gammerman
 - entities/alexander-philipov — Alexander Philipov
 - entities/alexander-wojt — Alexander Wojt
+- entities/alexandros-iosifidis — Alexandros Iosifidis
 - entities/alvaro-serrano — Alvaro Serrano
 - entities/amanda-gentzel — Amanda Gentzel
 - entities/amazon-codewhisperer — Amazon CodeWhisperer
 - entities/anastasios-angelopoulos — Anastasios N. Angelopoulos
+- entities/anastasios-tefas — Anastasios Tefas
 - entities/andre-martins — Andre F.T. Martins
 - entities/andreas-bruckner — Andreas Bruckner
 - entities/andreas-koukorinis — Andreas Koukorinis
@@ -1432,6 +1438,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/anthropic — Anthropic
 - entities/anthropic-claude — Anthropic Claude
 - entities/anton-heese — Anton Heese
+- entities/antonio-briola — Antonio Briola
 - entities/antonio-farinhas — Antonio Farinhas
 - entities/antti-ilmanen — Antti Ilmanen
 - entities/apache-flink — Apache Flink
@@ -1444,6 +1451,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/arthur-saint-guilhem — Arthur Saint Guilhem
 - entities/arturo-geigel — Arturo Geigel
 - entities/ashish-vaswani — Ashish Vaswani
+- entities/avraam-tsantekidis — Avraam Tsantekidis
 - entities/aymeric-dieuleveut — Aymeric Dieuleveut
 - entities/baiting-chen — Baiting Chen
 - entities/benjamin-nabarro — Benjamin Nabarro
@@ -1495,7 +1503,9 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/dana-mackenzie — Dana Mackenzie
 - entities/daniel-kahneman — Daniel Kahneman
 - entities/daniele-antonucci — Daniele Antonucci
+- entities/daniele-marazzina — Daniele Marazzina
 - entities/darrell-duffie — Darrell Duffie
+- entities/dat-thanh-tran — Dat Thanh Tran
 - entities/databricks — Databricks
 - entities/david-card — David Card
 - entities/david-romer — David H. Romer
@@ -1503,6 +1513,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/david-harris — David Harris
 - entities/david-hume — David Hume
 - entities/david-jensen — David Jensen
+- entities/david-leinweber — David Leinweber
 - entities/david-lewis — David Lewis
 - entities/davide-avino — Davide E. Avino
 - entities/deepseek — DeepSeek
@@ -1516,6 +1527,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/donella-meadows — Donella H. Meadows
 - entities/doron-avramov — Doron Avramov
 - entities/dror-feitelson — Dror Feitelson
+- entities/e-wes-bethel — E. Wes Bethel
 - entities/edward-george — Edward George
 - entities/edward-hu — Edward Hu
 - entities/edward-watts — Edward M. Watts
@@ -1533,6 +1545,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/ernest-adams — Ernest Adams
 - entities/european-central-bank — European Central Bank
 - entities/evan-patterson — Evan Patterson
+- entities/fabrizio-lillo — Fabrizio Lillo
 - entities/faiss — FAISS
 - entities/federal-reserve — Federal Reserve
 - entities/federico-manicardi — Federico Manicardi
@@ -1607,6 +1620,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/jemma-hudson — Jemma Hudson
 - entities/jennifer-hill — Jennifer Hill
 - entities/jerald-pinto — Jerald E. Pinto
+- entities/jeremy-turiel — Jeremy Turiel
 - entities/jeroen-van-zundert — Jeroen van Zundert
 - entities/jerome-powell — Jerome Powell
 - entities/jesper-rooth — Jesper Rooth
@@ -1643,6 +1657,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/joshua-angrist — Joshua D. Angrist
 - entities/judea-pearl — Judea Pearl
 - entities/juha-seppala — Juha Seppala
+- entities/juho-kanniainen — Juho Kanniainen
 - entities/julie-josse — Julie Josse
 - entities/jorn-steffen-pischke — Jörn-Steffen Pischke
 - entities/karl-pearson — Karl Pearson
@@ -1652,6 +1667,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/katerina-smidkova — Katerina Smidkova
 - entities/kelcie-gerson — Kelcie Gerson
 - entities/kelvin-pang — Kelvin Pang
+- entities/kesheng-wu — Kesheng Wu
 - entities/kevin-berk — Kevin Berk
 - entities/koichi-sugisaki — Koichi Sugisaki
 - entities/kostas-triantafyllopoulos — Kostas Triantafyllopoulos
@@ -1696,6 +1712,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/markus-puschel — Markus Püschel
 - entities/martin-gould — Martin D. Gould
 - entities/martin-fowler — Martin Fowler
+- entities/martin-magris — Martin Magris
 - entities/massimo-rostagno — Massimo Rostagno
 - entities/matteo-fontana — Matteo Fontana
 - entities/matteo-sesia — Matteo Sesia
@@ -1716,6 +1733,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/michael-i-jordan — Michael I. Jordan
 - entities/michael-j-wilson — Michael J Wilson
 - entities/michael-mauboussin — Michael J. Mauboussin
+- entities/michael-kampouridis — Michael Kampouridis
 - entities/michael-halls-moore — Michael L. Halls-Moore
 - entities/michael-tooley — Michael Tooley
 - entities/michael-zezas — Michael Zezas
@@ -1730,9 +1748,11 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/minh-ngoc-tran — Minh-Ngoc Tran
 - entities/mirco-rubin — Mirco Rubin
 - entities/molly-wharton — Molly Wharton
+- entities/moncef-gabbouj — Moncef Gabbouj
 - entities/moodys — Moody's
 - entities/morgan-stanley — Morgan Stanley
 - entities/moritz-schulz — Moritz Schulz
+- entities/mostafa-shabani — Mostafa Shabani
 - entities/murray-rothbard — Murray N. Rothbard
 - entities/naomi-poole — Naomi Poole
 - entities/nathaniel-rosenbaum — Nathaniel Rosenbaum
@@ -1741,6 +1761,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/nelson-jantzen — Nelson Jantzen
 - entities/neo4j — Neo4j
 - entities/nicola-vitucci — Nicola Vitucci
+- entities/nikolaos-passalis — Nikolaos Passalis
 - entities/nikolaus-hautsch — Nikolaus Hautsch
 - entities/nikunj-kapadia — Nikunj Kapadia
 - entities/nils-reimers — Nils Reimers
@@ -1759,6 +1780,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/oskar-hane — Oskar Hane
 - entities/owasp — OWASP
 - entities/owen-roberts — Owen Roberts
+- entities/ozgur-salman — Ozgur Salman
 - entities/paco-nathan — Paco Nathan
 - entities/pandas — Pandas
 - entities/paolo-batori — Paolo Batori
@@ -1791,6 +1813,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/rashique-rahman — Rashique Rahman
 - entities/redis — Redis
 - entities/replit — Replit
+- entities/riccardo-busetto — Riccardo Busetto
 - entities/richard-gerlach — Richard Gerlach
 - entities/richard-martin — Richard J. Martin
 - entities/rina-foygel-barber — Rina Foygel Barber
@@ -1828,6 +1851,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/serena-tang — Serena Tang
 - entities/sewall-wright — Sewall Wright
 - entities/shahraab-ahmad — Shahraab Ahmad
+- entities/shashi-jain — Shashi Jain
 - entities/sheena-shah — Sheena Shah
 - entities/shengfang-tang — Shengfang Tang
 - entities/shihao-gu — Shihao Gu
@@ -1839,6 +1863,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/silvi-mantri — Silvi Mantri
 - entities/simon-t-bodilsen — Simon T. Bodilsen
 - entities/simona-boffelli — Simona Boffelli
+- entities/simone-formentin — Simone Formentin
 - entities/simone-vantini — Simone Vantini
 - entities/sivan-mahadevan — Sivan Mahadevan
 - entities/snorkel-ai — Snorkel AI
@@ -1852,6 +1877,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/stanley-druckenmiller — Stanley Druckenmiller
 - entities/stefan-huber — Stefan J. Huber
 - entities/stefan-wager — Stefan Wager
+- entities/stefan-zohren — Stefan Zohren
 - entities/stephen-bates — Stephen Bates
 - entities/steve-caprio — Steve Caprio
 - entities/steve-wilson — Steve Wilson
@@ -1866,11 +1892,13 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/thomas-pearce — Thomas Pearce
 - entities/tiktoken — tiktoken
 - entities/tilmann-gneiting — Tilmann Gneiting
+- entities/tim-gebbie — Tim Gebbie
 - entities/tim-peters — Tim Peters
 - entities/tobias-fissler — Tobias Fissler
 - entities/tom-brown — Tom Brown
 - entities/tom-taulli — Tom Taulli
 - entities/tomas-havranek — Tomas Havranek
+- entities/tomaso-aste — Tomaso Aste
 - entities/tomasz-pietrzak — Tomasz Pietrzak
 - entities/tomaz-bratanic — Tomaz Bratanic
 - entities/tony-small — Tony Small
@@ -1919,6 +1947,7 @@ Total pages: 1906 (sources: 642, concepts: 730, entities: 525, analyses: 8, cont
 - entities/yuqi-yang — Yuqi Yang
 - entities/yuying-sun — Yuying Sun
 - entities/ziyu-xu — Ziyu Xu
+- entities/zoltan-eisler — Zoltán Eisler
 - entities/zongwu-cai — Zongwu Cai
 - entities/zrinka-lukac — Zrinka Lukač
 - entities/alvaro-cartea — Álvaro Cartea

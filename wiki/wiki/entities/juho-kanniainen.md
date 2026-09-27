@@ -3,7 +3,7 @@ content_hash: sha256:2d129fd44d6cc4020ac45a418f53f2e5437ce718c2b95dc6e2c8cf4e358
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/juho-kanniainen
-page_type: entitie
+page_type: entity
 related:
 - concepts/limit-order-book
 - concepts/event-clock

@@ -3,7 +3,7 @@ content_hash: sha256:9cb2c5ed7dc8288483a66d063e006d120055654dd59e19fa060b510a190
 created: 2026-09-27 01:47:00+00:00
 entity_type: person
 page_id: entities/dat-thanh-tran
-page_type: entitie
+page_type: entity
 related:
 - concepts/event-clock
 - concepts/limit-order-book
