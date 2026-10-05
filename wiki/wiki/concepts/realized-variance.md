@@ -1,11 +1,11 @@
 ---
-content_hash: sha256:3a6a9148479403fdbcc1631a0253e060afadda5ebdb184b102e68ca562aa7981
+content_hash: sha256:e996dfb85132480edfa87215e2b66d1b2ce5e61d8208b4eebf80e6822e35f799
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/realized-variance
 page_type: concept
 related: []
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/peiris-2025-rnn-har-var
@@ -24,12 +24,14 @@ sources:
 - sources/silva-2005-applications-physics-finance-economics-returns-trading
 - sources/tunyavetchakit-2016-volatility-decomposition-nonparametric-estimation-spot-volatility
 - sources/valenzuela-2015-relative-liquidity-future-volatility
+- sources/wang-2013-cds-spreads-variance-risk-premia
 tags:
 - high-frequency-data
 - volatility
 - integrated-variance
 title: Realized Variance
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 5f93d42f-ff3e-5a2a-ab7b-953ab4b8e378
 ---
 
@@ -40,6 +42,7 @@ uuid: 5f93d42f-ff3e-5a2a-ab7b-953ab4b8e378
 
 ## Sources
 
+- [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/peiris-2025-rnn-har-var|Loss-Based Bayesian Sequential VaR with RNN-HAR (2025)]] — supporting; the input variable to the HAR cascade and RNN extensions
 
 ## Related Concepts

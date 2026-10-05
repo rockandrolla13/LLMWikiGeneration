@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:8db4dbba3b1e0f6c372f30dbed1e6f595a22eb49d4679a5644d681e96b319715
+content_hash: sha256:50a9736a0133e9d437f076727110fe346fa905f3501f6a61f77bcbc2bbe0f52b
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,7 +44,7 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
@@ -83,12 +83,15 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 - sources/schofield-2019-citi-macro-views
 - sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
+- sources/dickerson-2026-co-pricing-factor-zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 ---
 
@@ -99,6 +102,8 @@ uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 - [[sources/huber-2026-information-flows-trading-networks|Information Flows in Trading Networks (2026)]] — central; the asset class for the insurer-dealer trading-network analysis
 
 ## Related Concepts

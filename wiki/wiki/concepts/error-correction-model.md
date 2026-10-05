@@ -1,26 +1,28 @@
 ---
-title: Error Correction Model
+content_hash: sha256:e658b5a3a0950bfd284de1e9d08ea95ffb07248c25ff926c0ffb7d5b86c49e05
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/error-correction-model
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
-tags:
-- econometrics
-- time-series
-- cointegration
-- mean-reversion
-sources:
-- sources/duasa-2010-predicting-crisis-recovery
 related:
 - concepts/cointegration
 - concepts/vector-error-correction-model
 - concepts/mean-reversion
 - concepts/half-life-of-adjustment
-mind_map_priority: medium
+revision_id: 2
 schema_version: 2
+sources:
+- sources/duasa-2010-predicting-crisis-recovery
+- sources/carr-2011-american-puts-credit-protection
+tags:
+- econometrics
+- time-series
+- cointegration
+- mean-reversion
+title: Error Correction Model
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: b1f0b92c-f13d-52ae-ad3e-6fffd86aca9d
-content_hash: sha256:4049cd33e8080bfbb4f8a12d5001ec4399820f0a2872dd99142a80ea5eed3e8d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -55,4 +57,7 @@ The equilibrium error is the tradable object. In [[concepts/pairs-trading|pairs 
 
 **Not yet written:** `concepts/vector-autoregression`, `concepts/unit-root`
 
+## Sources
+
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
 <!-- AUTHORED REGION END -->

@@ -1,5 +1,6 @@
 ---
 aliases: []
+content_hash: sha256:2d0798d7205bf5bf7b9cee00afecacf8be12cb665e4dad9ca68818a798a74d23
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -8,20 +9,20 @@ mind_map_priority: low
 page_id: entities/deutsche-bank
 page_type: entity
 related: []
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/db-2019-01-08-fundamental-factors-banks
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/db-2020-04-23-return-of-the-machines
 - sources/db-2020-11-05-global-factor-monitor
 - sources/mercado-2015-taarss-flow-whisperer
+- sources/finger-2002-creditgrades-technical-document
 tags: []
 title: Deutsche Bank
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: d6a01303-7a6f-50b0-ac98-cd242f6b8f66
-content_hash: sha256:927be939a398110c66978370290fc85f0f66f4b4fba818978e214114e8550eea
 ---
 
 <!-- AUTHORED REGION START -->
@@ -56,4 +57,8 @@ the note.
 - [[sources/db-2020-11-05-global-factor-monitor|Global Factor Monitor]]
   (5 November 2020, *Quantitative Musing*) -- monthly risk premia monitor, with a
   factor-valuation-spread study.
+
+## Papers in This Wiki
+
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
 <!-- AUTHORED REGION END -->

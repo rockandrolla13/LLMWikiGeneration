@@ -24,3 +24,8 @@ Created initial wiki structure:
 Operation ID: op_dbdb0a6b5ae4
 
 Ready to ingest sources.
+## 2026-10-05T15:52:32Z batch_ingest
+
+Ingested 12 papers from `raw/capital-structure-arbitrage/` (capital structure arbitrage). Created 55 pages, updated 66.
+
+Operation ID: op_225eb9cd3c09

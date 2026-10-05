@@ -1,10 +1,17 @@
 ---
-title: TRACE Data
+content_hash: sha256:8acde5355f39b084565e03a596950bc915cb62e1ccb2ae1327bf46b3ea07d399
+created: 2026-04-26 02:25:00+00:00
 page_id: concepts/trace-data
 page_type: concept
-revision_id: 1
-created: 2026-04-26 02:25:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/market-microstructure-noise
+- concepts/trade-classification
+- sources/dickerson-2024-bond-pitfalls
+- sources/fedenia-2021-ml-trade-classifier
+revision_id: 2
+schema_version: 2
+sources:
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - TRACE
 - corporate-bonds
@@ -12,14 +19,10 @@ tags:
 - FINRA
 - transaction-data
 - market-microstructure
-related:
-- concepts/market-microstructure-noise
-- concepts/trade-classification
-- sources/dickerson-2024-bond-pitfalls
-- sources/fedenia-2021-ml-trade-classifier
-schema_version: 2
+title: TRACE Data
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 00820d48-f707-5df4-b4da-406a6fc26ac4
-content_hash: sha256:588b4a00da4556532bc70825835763b0e12245acf93b44d97714dc413be08270
 ---
 
 <!-- AUTHORED REGION START -->
@@ -95,6 +98,7 @@ Standard filtering (Dickerson et al. 2024):
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
 - [[sources/fedenia-2021-ml-trade-classifier|Fedenia et al. (2021)]]
 

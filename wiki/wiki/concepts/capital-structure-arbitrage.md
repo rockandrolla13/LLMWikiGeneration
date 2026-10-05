@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:96646774d70ef35eab5b87d2e738715cd2fbe4c8c8b86ecea156ef747619e365
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,17 +12,22 @@ related:
 - concepts/liquidity-risk
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
-revision_id: 1
+revision_id: 2
+schema_version: 2
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
 - sources/kapadia-2012-limited-arbitrage-equity-credit
+- sources/carr-2011-american-puts-credit-protection
+- sources/chan-2023-price-convergence-cds-put-option
+- sources/finger-2002-creditgrades-technical-document
+- sources/lee-2021-cds-momentum-cross-market-spillovers
+- sources/shi-2022-cds-implied-volatility-trading-strategies
+- sources/yu-2006-how-profitable-capital-structure-arbitrage
 tags: []
 title: Capital Structure Arbitrage
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: f813e217-43ab-54a4-92f3-7925808567ff
-content_hash: sha256:9afbdf41ba1afa83cdfd848cedabbfe7e9dd2d0e72bc1b53e57921f73d159bf8
 ---
 
 <!-- AUTHORED REGION START -->
@@ -33,6 +39,12 @@ A convergence-trading strategy that bets on the realignment of a firm's equity a
 
 ## Sources
 
+- [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
+- [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
 - [[sources/ahmad-2014-alaph-liquid-macro-credit-fund|Introduction to the Alaph Capital Liquid Macro Credit Fund]]
 - [[sources/kapadia-2012-limited-arbitrage-equity-credit|Limited arbitrage between equity and credit markets]]
 

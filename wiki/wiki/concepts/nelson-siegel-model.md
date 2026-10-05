@@ -1,25 +1,27 @@
 ---
-title: Nelson-Siegel Model
+content_hash: sha256:542f80e135e4001c6c631944855466202a23bf840f73fdaebaa22da3a5a234e8
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/nelson-siegel-model
 page_type: concept
-revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/credit-spread-curve
+- concepts/z-spread
+- concepts/state-space-models
+revision_id: 2
+schema_version: 2
+sources:
+- sources/technical-2025-bond-similarity
+- sources/chan-2023-price-convergence-cds-put-option
 tags:
 - yield-curves
 - fixed-income
 - econometrics
 - term-structure
-sources:
-- sources/technical-2025-bond-similarity
-related:
-- concepts/credit-spread-curve
-- concepts/z-spread
-- concepts/state-space-models
-mind_map_priority: medium
-schema_version: 2
+title: Nelson-Siegel Model
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 602bad2d-4f43-5b11-8554-a8c0a24b8f12
-content_hash: sha256:a9692945a3235a0c7bf0ac87a406c9ce05cb88fada88b4cecb5aeed6cad208d4
 ---
 
 <!-- AUTHORED REGION START -->
@@ -71,4 +73,7 @@ Treats $\beta_t$ as time-varying state variables:
 - [[concepts/state-space-models|State-Space Models]]
 - [[sources/technical-2025-bond-similarity|Bond Similarity Framework (2025)]]
 
+## Sources
+
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 <!-- AUTHORED REGION END -->

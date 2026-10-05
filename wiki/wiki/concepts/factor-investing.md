@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:7eb7a9153485d7b7ae21d7c9bc80d5644be7e6cd75edf73bf666ad2a1490fc8d
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/factor-investing
 page_type: concept
@@ -31,7 +32,8 @@ related:
 - concepts/trend-following
 - concepts/value-premium
 - sources/houweling-2017-factor-investing
-revision_id: 4
+revision_id: 5
+schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
 - sources/dickerson-2024-bond-pitfalls
@@ -41,6 +43,7 @@ sources:
 - sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
+- sources/dickerson-2026-co-pricing-factor-zoo
 tags:
 - factor-investing
 - corporate-bonds
@@ -50,10 +53,9 @@ tags:
 - momentum
 - low-risk
 title: Factor Investing in Corporate Bonds
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: d37b4007-5179-5d0b-ba63-0f1957858fcd
-content_hash: sha256:4933941937852f4a985c66469032237282bb550385063320758e8419825f4b3f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -119,6 +121,7 @@ Factor investing applies systematic, rules-based strategies to corporate bond ma
 
 ## Sources
 
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
 - [[sources/cotturo-2026-multifactor-timing-deep-learning|Cotturo, Liu & Proner (2026)]] — multifactor timing with multitask deep learning across size/value/momentum/profitability/investment factors

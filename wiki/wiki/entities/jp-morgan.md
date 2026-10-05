@@ -1,5 +1,6 @@
 ---
 aliases: []
+content_hash: sha256:8142f11be276daef5ad5fbc0f30fab00194f45b3648dd352ee7216a859c887ac
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -8,16 +9,16 @@ mind_map_priority: low
 page_id: entities/jp-morgan
 page_type: entity
 related: []
-revision_id: 1
+revision_id: 2
+schema_version: 2
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
+- sources/finger-2002-creditgrades-technical-document
 tags: []
 title: J.P. Morgan
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
-content_hash: sha256:32745fa2a5ed947405f4009de0a2e2d6af6a5c9bb7c573ff7b80e8c9c32be67f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,4 +31,8 @@ content_hash: sha256:32745fa2a5ed947405f4009de0a2e2d6af6a5c9bb7c573ff7b80e8c9c32
 ## Appearances in Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+
+## Papers in This Wiki
+
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
 <!-- AUTHORED REGION END -->

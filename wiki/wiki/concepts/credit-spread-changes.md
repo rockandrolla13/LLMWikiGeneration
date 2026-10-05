@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:c751b6c6a280c9b5315022e106787598dcdea97df5f225b8aeadf75adab6f89e
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -14,17 +15,17 @@ related:
 - concepts/credit-spread-puzzle
 - concepts/default-rates
 - concepts/duration-times-spread
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 - sources/bendor-2007-dts
+- sources/cremers-2008-individual-stock-option-prices-credit-spreads
 tags: []
 title: Credit Spread Changes
-updated: '2026-09-15T00:00:00Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: ff9b7352-acd0-5765-afd4-078e3632029e
-content_hash: sha256:258a4110242d0366dea0e4bfc29be96e50a3834ee27d5d4b36a8f88d82342c3e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -40,6 +41,7 @@ Monthly changes in the yield difference between a corporate bond and a maturity-
 
 ## Sources
 
+- [[sources/cremers-2008-individual-stock-option-prices-credit-spreads|Individual Stock-Option Prices and Credit Spreads]]
 - [[sources/collin-dufresne-2001-determinants-credit-spread-changes|The Determinants of Credit Spread Changes]]
 - [[sources/bendor-2007-dts|DTS (Duration Times Spread) (2007)]]
 

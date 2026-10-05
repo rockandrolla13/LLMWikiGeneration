@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:238bd9c3db5eb5d81a030b17d174e3ade1b30806c16116b739ff6964fc8f5006
+content_hash: sha256:1e0d6f4b1de61c8faf96ce46e79386557c5a63435f38dc779738e99485f7c9c4
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/bid-ask-spread
@@ -9,7 +9,7 @@ related:
 - concepts/market-microstructure
 - concepts/liquidity-risk
 - concepts/avellaneda-stoikov-model
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/bergault-2019-multi-asset-market-making
@@ -55,13 +55,15 @@ sources:
 - sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
 - sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models
 - sources/wu-2012-information-content-euro-bund-futures-options
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - market-microstructure
 - market-making
 - liquidity
 - transaction-costs
 title: Bid-Ask Spread
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 966ebb57-7455-593f-a382-47c52af3d64d
 ---
 
@@ -98,4 +100,7 @@ This is the part that catches researchers. Transaction prices alternate between 
 
 **Not yet written:** `concepts/price-impact`
 
+## Sources
+
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 <!-- AUTHORED REGION END -->

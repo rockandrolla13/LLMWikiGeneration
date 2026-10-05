@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-09-27T02:07:53.484281Z'
+updated: '2026-10-05T15:53:23.240800Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-09-27T02:07:53.481334Z
+Generated: 2026-10-05T15:53:23.235389Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:f74cee12f1059303
+Source hash: sha256:8b66f3e785985ea6
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-09-27
-Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, contradictions: 1)
+Last updated: 2026-10-05
+Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -45,6 +45,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/openai-2025-practical-guide-building-agents — A Practical Guide to Building Agents
 - sources/liu-2025-reproducible-baseline-forecasting-high-frequency-realized — A Reproducible Baseline for Forecasting High-Frequency Realized Volatility with Order-Flow Features
 - sources/bao-2025-review — A Review and Comparative Analysis of Univariate Conformal Regression Methods
+- sources/carr-2011-american-puts-credit-protection — A Simple Robust Link Between American Puts and Credit Protection
 - sources/li-2026-systematic-hyperparameter-analysis-deep-learning-models — A Systematic Hyperparameter Analysis of Deep Learning Models for Limit Order Book Mid-price Prediction
 - sources/shafer-2007-cp-tutorial — A Tutorial on Conformal Prediction
 - sources/xu-2021-bandit-multiple-testing — A unified framework for bandit multiple testing
@@ -79,6 +80,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/batrinca-2016-analysis-key-drivers-trading-performance — Analysis of Key Drivers of Trading Performance
 - sources/siqueira-2023-analysis-tick-rule-bulk-volume-classification — Analysis of the Tick Rule and Bulk Volume Classification Algorithms in the Brazilian Stock Market
 - sources/sehatpour-2024-green-bonds — Anatomy of Municipal Green Bond Yield Spreads
+- sources/bai-2016-anchoring-cds-spreads-firm-fundamentals — Anchoring Credit Default Swap Spreads to Firm Fundamentals
 - sources/ms-2019-02-24-china-current-account-turning-point — Another Turning Point (Sunday Start: What's Next in Global Macro)
 - sources/siqueira-2023-analise-dos-algoritmos-tick-rule-e — Análise dos Algoritmos Tick Rule e Bulk Volume Classification no Mercado Acionário Brasileiro
 - sources/silva-2005-applications-physics-finance-economics-returns-trading — Applications of Physics to Finance and Economics: Returns, Trading Activity and Income
@@ -116,6 +118,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/kuhrn-2014-calculating-probability-mid-price-increase-based — Calculating the probability of a mid-price increase based on a stochastic model for order book dynamics
 - sources/hernan-2020-causal-inference-what-if — Causal Inference: What If
 - sources/salmon-1998-causality-and-explanation — Causality and Explanation
+- sources/lee-2021-cds-momentum-cross-market-spillovers — CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers
 - sources/ms-2019-01-18-china-doing-whatever-it-takes — China – Doing whatever it takes
 - sources/citi-global-theme-book — Citi Global Theme Book
 - sources/schofield-2019-citi-macro-views — Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019
@@ -155,7 +158,9 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/ms-2019-01-25-cause-of-the-pause — Corporate Credit Research: The Cause of the Pause
 - sources/ms-2019-02-13-eurex-futures-rolls — Correction: Global Futures Rolls Report: Eurex Futures Rolls - Mar 19 / Jun 19 Roll
 - sources/schulz-counterfactuals-and-probability — Counterfactuals and Probability
+- sources/wang-2013-cds-spreads-variance-risk-premia — Credit Default Swap Spreads and Variance Risk Premia
 - sources/ms-2014-02-21-corporate-hybrid-primer — Credit Strategy: Corporate Hybrid Primer - 2014 Edition
+- sources/finger-2002-creditgrades-technical-document — CreditGrades Technical Document
 - sources/ms-2020-03-20-risk-parity-deleveraging — Cross-Asset Brief: Risk Parity — Worst Behind Us
 - sources/ms-2020-03-10-cross-asset-moves-context — Cross-Asset Brief: Taking Stock — Recent Moves in Context
 - sources/ms-2020-03-27-add-to-credit-markets-lead-economy — Cross-Asset Dispatches: Add to Credit — and How Much Do Markets Lead the Economy?
@@ -299,6 +304,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/kang-2019-flow-toxicity-highfrequency-trading-its-impact — Flow Toxicity of High Frequency Trading and Its Impact on Price Volatility: Evidence from the KOSPI 200 Futures Market
 - sources/ms-2019-05-17-tariffs-government-bonds — For Whom the Tariffs Toll
 - sources/raffaelli-2026-forecasting-bitcoin-price-movements-multivariate-hawkes — Forecasting Bitcoin price movements using multivariate Hawkes processes and limit order book data
+- sources/bharath-2008-forecasting-default-merton-distance-to-default — Forecasting Default with the Merton Distance to Default Model
 - sources/bakhach-2016-forecasting-directional-changes-fx-markets — Forecasting Directional Changes in the FX Markets
 - sources/anantha-2024-forecasting-high-frequency-order-flow-imbalance — Forecasting high frequency order flow imbalance using Hawkes processes
 - sources/yang-2021-forecasting-high-frequency-financial-time-series — Forecasting high-frequency financial time series: an adaptive learning approach with the order book data
@@ -352,6 +358,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/tran-2021-how-informative-order-book-beyond-bestlevels — How informative is the Order Book Beyond the Best Levels? Machine Learning Perspective
 - sources/ellenberg-2014-how-not-to-be-wrong — How Not to Be Wrong: The Power of Mathematical Thinking
 - sources/openai-2025-how-openai-uses-codex — How OpenAI Uses Codex
+- sources/yu-2006-how-profitable-capital-structure-arbitrage — How Profitable Is Capital Structure Arbitrage?
 - sources/wu-2021-how-robust-limit-order-book-representations — How Robust are Limit Order Book Representations under Data Perturbation?
 - sources/anthropic-2025-multi-agent-research-system — How We Built Our Multi-Agent Research System
 - sources/yamamoto-2025-hybrid-cnn-lstm-model-bitcoin-limit — Hybrid CNN-LSTM Model for Bitcoin Limit Order Book Prediction
@@ -361,6 +368,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/adegboye-2021-improving-trend-reversal-estimation-forex-markets — Improving Trend Reversal Estimation in Forex Markets Under a Directional Changes Paradigm with Classification Algorithms
 - sources/tsai-2020-hierarchical-mortality — Incorporating hierarchical credibility theory into modelling of multi-country mortality rates
 - sources/lehalle-2019-incorporating-signals-into-optimal-trading — Incorporating Signals into Optimal Trading
+- sources/cremers-2008-individual-stock-option-prices-credit-spreads — Individual Stock-Option Prices and Credit Spreads
 - sources/vliet-2026-information-arrival-stochastic-clock-intraday-trading — Information Arrival as a Stochastic Clock for Intraday Trading
 - sources/jonuzaj-2024-information-content-book-trade-order-flow — Information Content of Book and Trade Order Flow at Different Trading Volume Time Scales
 - sources/gencay-2004-information-flow-between-volatilities-across-time-scales — Information Flow Between Volatilities Across Time Scales
@@ -507,6 +515,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/peng-2025-prediction-high-frequency-futures-return-directions — Prediction of high-frequency futures return directions based on the mean uncertainty classification methods: An application in China's future market
 - sources/kim-2020-jackknife-plus-after-bootstrap — Predictive Inference Is Free with the Jackknife+-after-Bootstrap
 - sources/barber-2021-jackknife-plus — Predictive Inference with the Jackknife+
+- sources/chan-2023-price-convergence-cds-put-option — Price Convergence Between Credit Default Swap and Put Option: New Evidence
 - sources/takahashi-nd-price-impact-order-flow-imbalances — Price Impact of Order Flow Imbalances
 - sources/zheng-2013-price-jump-prediction-limit-order-book — Price jump prediction in Limit Order Book
 - sources/shternshis-2023-price-predictability-ultra-high-frequency-entropy — Price predictability at ultra-high frequency: Entropy-based randomness test
@@ -573,6 +582,8 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/fermanian-2017-md2c-corporate-bonds — The Behavior of Dealers and Clients on the European Corporate Bond Market: The Case of Multi-Dealer-to-Client Platforms
 - sources/pearl-2018-book-of-why — The Book of Why: The New Science of Cause and Effect
 - sources/dafonseca-2020-cds-equity-volatility-comovement — The Co-Movement of Credit Default Swap Spreads, Equity Returns and Volatility: Evidence from Asia-Pacific Markets
+- sources/dickerson-2026-co-pricing-factor-zoo — The Co-Pricing Factor Zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis — The Corporate Bond Factor Replication Crisis
 - sources/martin-2024-credit-curve — The credit curve spread I: Fundamental concepts, fitting, par-adjusted spread, and expected return
 - sources/collin-dufresne-2001-determinants-credit-spread-changes — The Determinants of Credit Spread Changes
 - sources/wilson-2024-llm-security-playbook — The Developer's Playbook for Large Language Model Security
@@ -586,6 +597,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - sources/aleti-2022-high-frequency-factor-zoo — The High-Frequency Factor Zoo
 - sources/indriawan-2019-impact-us-stock-market-opening-price — The Impact of the US Stock Market Opens on Price Discovery of Government Bond Futures
 - sources/nguyen-2026-gammerman-festschrift — The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman
+- sources/shi-2022-cds-implied-volatility-trading-strategies — The Information Content of CDS Implied Volatility and Associated Trading Strategies
 - sources/wu-2012-information-content-euro-bund-futures-options — The Information Content of the Euro-Bund Futures Option Markets
 - sources/zaznov-2024-intraday-dynamics-predictor-trioflow-fusion-convolutional — The Intraday Dynamics Predictor: A TrioFlow Fusion of Convolutional Layers and Gated Recurrent Units for High-Frequency Price Movement Forecasting
 - sources/chan-2001-level-persistence-growth-rates — The Level and Persistence of Growth Rates
@@ -751,7 +763,10 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/causal-theory-of-time-direction — Causal Theory of the Direction of Time
 - concepts/causation-versus-unification — Causation versus Unification in Explanation
 - concepts/cdo-tranches — CDO Tranches
+- concepts/cds-holding-period-return — CDS Holding-Period Return
+- concepts/cds-momentum — CDS Momentum
 - concepts/cds-bond-basis — CDS-Bond Basis
+- concepts/cds-implied-volatility — CDS-Implied Volatility
 - concepts/chain-of-thought-prompting — Chain-of-Thought Prompting
 - concepts/chaos-theory — Chaos Theory and Non-linearity
 - concepts/chatgpt — ChatGPT
@@ -822,6 +837,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/credit-spread-forecasting — Credit Spread Forecasting
 - concepts/credit-spread-puzzle — Credit Spread Puzzle
 - concepts/credit-to-gdp-gap — Credit-to-GDP Gap
+- concepts/creditgrades-model — CreditGrades Model
 - concepts/crisis-incidence-real-costs — Crisis Incidence and Real Costs
 - concepts/crisis-signaling-approach — Crisis Signaling Approach
 - concepts/cross-asset-rotation — Cross-Asset Rotation Strategy
@@ -856,6 +872,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/directional-forecasting — Directional Forecasting
 - concepts/discriminant-analysis — Discriminant Analysis and Classification
 - concepts/disposition-effect — Disposition Effect
+- concepts/distance-to-default — Distance to Default
 - concepts/distressed-exchange — Distressed Exchange
 - concepts/distribution-drift — Distribution Drift
 - concepts/distributional-conformal-prediction — Distributional Conformal Prediction
@@ -1040,6 +1057,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/language-model-pretraining — Language Model Pretraining
 - concepts/large-language-model — Large Language Model
 - concepts/large-language-models — Large Language Models
+- concepts/latent-implementation-bias — Latent Implementation Bias
 - concepts/law-of-active-management — Law of Active Management
 - concepts/layer-normalization — Layer Normalization
 - concepts/lbo-risk — LBO Risk
@@ -1120,6 +1138,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/ml-system-design — ML System Design
 - concepts/model-compression — Model Compression
 - concepts/model-offline-evaluation — Model Offline Evaluation
+- concepts/model-free-implied-variance — Model-Free Implied Variance
 - concepts/modular-code-design — Modular Code Design
 - concepts/modular-programming — Modular Programming
 - concepts/systematic-trading-framework — Modular Systematic Trading Framework
@@ -1363,9 +1382,11 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - concepts/ubiquitous-language — Ubiquitous Language
 - concepts/uncertainty-quantification — Uncertainty Quantification
 - concepts/unit-of-work-pattern — Unit of Work Pattern
+- concepts/unit-recovery-claim — Unit Recovery Claim
 - concepts/unscented-kalman-filter — Unscented Kalman Filter
 - concepts/value-premium — Value Premium
 - concepts/value-at-risk — Value-at-Risk
+- concepts/variance-risk-premium — Variance Risk Premium
 - concepts/variogram-score — Variogram Score
 - concepts/vasicek-model — Vasicek Model
 - concepts/vector-database — Vector Database
@@ -1434,6 +1455,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/andrew-watrous — Andrew M Watrous
 - entities/andrew-patton — Andrew Patton
 - entities/andrew-sheets — Andrew Sheets
+- entities/andy-naranjo — Andy Naranjo
 - entities/anna-coppola — Anna Coppola
 - entities/anthropic — Anthropic
 - entities/anthropic-claude — Anthropic Claude
@@ -1457,6 +1479,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/benjamin-nabarro — Benjamin Nabarro
 - entities/bent-flyvbjerg — Bent Flyvbjerg
 - entities/bertopic — BERTopic
+- entities/biao-guo — Biao Guo
 - entities/bob-gregory — Bob Gregory
 - entities/bodha-bhattacharya — Bodha Bhattacharya
 - entities/borek-vasicek — Borek Vasicek
@@ -1477,13 +1500,16 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/chao-wang — Chao Wang
 - entities/chatgpt — ChatGPT
 - entities/chen-xu — Chen Xu
+- entities/cheng-yan — Cheng Yan
 - entities/chetan-ahya — Chetan Ahya
 - entities/chip-huyen — Chip Huyen
 - entities/christian-wolff — Christian C.P. Wolff
+- entities/christian-julliard — Christian Julliard
 - entities/christina-romer — Christina D. Romer
 - entities/christina-nikitopoulos — Christina S. Nikitopoulos
 - entities/christina-zhu — Christina Zhu
 - entities/christopher-sims — Christopher A. Sims
+- entities/christopher-finger — Christopher C. Finger
 - entities/christopher-piros — Christopher D. Piros
 - entities/christopher-r-metli — Christopher R Metli
 - entities/chrysoula-zerva — Chrysoula Zerva
@@ -1515,6 +1541,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/david-jensen — David Jensen
 - entities/david-leinweber — David Leinweber
 - entities/david-lewis — David Lewis
+- entities/david-weinbaum — David Weinbaum
 - entities/davide-avino — Davide E. Avino
 - entities/deepseek — DeepSeek
 - entities/dennis-bams — Dennis Bams
@@ -1523,6 +1550,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/deutsche-bank — Deutsche Bank
 - entities/deutsche-bank-research — Deutsche Bank Research
 - entities/didier-sornette — Didier Sornette
+- entities/ding-rong-chen — Ding-Rong Chen
 - entities/donald-rubin — Donald B. Rubin
 - entities/donella-meadows — Donella H. Meadows
 - entities/doron-avramov — Doron Avramov
@@ -1547,6 +1575,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/evan-patterson — Evan Patterson
 - entities/fabrizio-lillo — Fabrizio Lillo
 - entities/faiss — FAISS
+- entities/fan-yu — Fan Yu
 - entities/federal-reserve — Federal Reserve
 - entities/federico-manicardi — Federico Manicardi
 - entities/felician-stratmann — Felician G Stratmann
@@ -1565,14 +1594,18 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/gareth-peters — Gareth W. Peters
 - entities/gek-teng-khoo — Gek Teng Khoo
 - entities/gemini — Gemini
+- entities/george-pan — George Pan
 - entities/gergana-jostova — Gergana Jostova
+- entities/gfi-group — GFI
 - entities/giacomo-carboni — Giacomo Carboni
 - entities/gianluca-zeni — Gianluca Zeni
 - entities/giovanni-montana — Giovanni Montana
 - entities/giovanni-urga — Giovanni Urga
 - entities/github-copilot — GitHub Copilot
+- entities/giulio-rossetti — Giulio Rossetti
 - entities/glenn-shafer — Glenn Shafer
 - entities/glenn-brier — Glenn W. Brier
+- entities/goldman-sachs — Goldman Sachs
 - entities/google — Google
 - entities/google-gemini — Google Gemini
 - entities/graham-secker — Graham Secker
@@ -1585,6 +1618,8 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/hamel-husain — Hamel Husain
 - entities/hans-redeker — Hans W Redeker
 - entities/hans-w-redeker — Hans W Redeker
+- entities/hao-wang — Hao Wang
+- entities/hao-zhou — Hao Zhou
 - entities/harrison-chase — Harrison Chase
 - entities/harry-percival — Harry Percival
 - entities/hedy-language — Hedy
@@ -1615,9 +1650,11 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/jason-wei — Jason Wei
 - entities/jay-alammar — Jay Alammar
 - entities/jay-forrester — Jay Forrester
+- entities/jean-pierre-lardy — Jean-Pierre Lardy
 - entities/jeen-ng — Jeen Ng
 - entities/jeff-williams — Jeff Williams
 - entities/jemma-hudson — Jemma Hudson
+- entities/jennie-bai — Jennie Bai
 - entities/jennifer-hill — Jennifer Hill
 - entities/jerald-pinto — Jerald E. Pinto
 - entities/jeremy-turiel — Jeremy Turiel
@@ -1647,10 +1684,13 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/john-maynard-keynes — John Maynard Keynes
 - entities/john-mctaggart — John McTaggart
 - entities/john-ousterhout — John Ousterhout
+- entities/john-tierney — John Tierney
 - entities/jonathan-ashworth — Jonathan Ashworth
 - entities/jonathan-graber — Jonathan Graber
 - entities/jonathan-yiangou — Jonathan Yiangou
 - entities/jonghyeok-lee — Jonghyeok Lee
+- entities/jongsub-lee — Jongsub Lee
+- entities/joost-driessen — Joost Driessen
 - entities/jordan-ellenberg — Jordan Ellenberg
 - entities/jorge-zubelli — Jorge Zubelli
 - entities/josef-lakonishok — Josef Lakonishok
@@ -1660,6 +1700,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/juho-kanniainen — Juho Kanniainen
 - entities/julie-josse — Julie Josse
 - entities/jorn-steffen-pischke — Jörn-Steffen Pischke
+- entities/ka-kei-chan — Ka Kei Chan
 - entities/karl-pearson — Karl Pearson
 - entities/karthik-nagalingam — Karthik Nagalingam
 - entities/kaspar-wuthrich — Kaspar Wüthrich
@@ -1687,6 +1728,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/lightning-ai — Lightning AI
 - entities/lihua-lei — Lihua Lei
 - entities/lindsey-matthews — Lindsey Matthews
+- entities/liuren-wu — Liuren Wu
 - entities/llamaindex — LlamaIndex
 - entities/longtail-alpha — LongTail Alpha, LLC
 - entities/louis-chan — Louis K. C. Chan
@@ -1708,8 +1750,10 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/marie-alice-blete — Marie-Alice Blete
 - entities/mario-draghi — Mario Draghi
 - entities/mark-schofield — Mark Schofield
+- entities/markit-group — Markit Group
 - entities/markus-brunnermeier — Markus Brunnermeier
 - entities/markus-puschel — Markus Püschel
+- entities/martijn-cremers — Martijn Cremers
 - entities/martin-gould — Martin D. Gould
 - entities/martin-fowler — Martin Fowler
 - entities/martin-magris — Martin Magris
@@ -1744,6 +1788,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/mike-ludkovski — Mike Ludkovski
 - entities/min-dai — Min Dai
 - entities/ming-lin — Ming Lin
+- entities/ming-tsung-lin — Ming-Tsung Lin
 - entities/minh-trinh — Minh Trinh
 - entities/minh-ngoc-tran — Minh-Ngoc Tran
 - entities/mirco-rubin — Mirco Rubin
@@ -1771,6 +1816,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/oreilly-media — O'Reilly Media
 - entities/ofer-mendelevitch — Ofer Mendelevitch
 - entities/ole-barndorff-nielsen — Ole Barndorff-Nielsen
+- entities/olga-kolokolova — Olga Kolokolova
 - entities/olivier-bizimana — Olivier Bizimana
 - entities/olivier-pasche — Olivier C. Pasche
 - entities/olivier-caelen — Olivier Caelen
@@ -1785,6 +1831,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/pandas — Pandas
 - entities/paolo-batori — Paolo Batori
 - entities/pascal-lavergne — Pascal Lavergne
+- entities/pascal-maenhout — Pascal Maenhout
 - entities/pasquale-diana — Pasquale M Diana
 - entities/patrick-gagliardini — Patrick Gagliardini
 - entities/patrick-houweling — Patrick Houweling
@@ -1800,6 +1847,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/philip-tetlock — Philip E. Tetlock
 - entities/philipp-erfurth — Philipp Erfurth
 - entities/philippe-bergault — Philippe Bergault
+- entities/philippe-mueller — Philippe Mueller
 - entities/pierre-collin-dufresne — Pierre Collin-Dufresne
 - entities/pierre-pinson — Pierre Pinson
 - entities/purva-pruthi — Purva Pruthi
@@ -1817,6 +1865,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/richard-gerlach — Richard Gerlach
 - entities/richard-martin — Richard J. Martin
 - entities/rina-foygel-barber — Rina Foygel Barber
+- entities/riskmetrics-group — RiskMetrics Group
 - entities/rob-thomas — Rob Thomas
 - entities/robert-merton — Robert C. Merton
 - entities/robert-carver — Robert Carver
@@ -1848,6 +1897,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/sebastian-mercado — Sebastian Mercado
 - entities/sebastian-raedler — Sebastian Raedler
 - entities/sebastian-raschka — Sebastian Raschka
+- entities/ser-huang-poon — Ser-Huang Poon
 - entities/serena-tang — Serena Tang
 - entities/sewall-wright — Sewall Wright
 - entities/shahraab-ahmad — Shahraab Ahmad
@@ -1872,7 +1922,9 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/spacy — spaCy
 - entities/sphinx — Sphinx
 - entities/sqlalchemy — SQLAlchemy
+- entities/sreedhar-bharath — Sreedhar T. Bharath
 - entities/srikanth-sankaran — Srikanth Sankaran
+- entities/stace-sirmans — Stace Sirmans
 - entities/stanford-cs-329s — Stanford CS 329S
 - entities/stanley-druckenmiller — Stanley Druckenmiller
 - entities/stefan-huber — Stefan J. Huber
@@ -1890,6 +1942,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/thomas-egan — Thomas Egan
 - entities/thomas-sargent — Thomas J. Sargent
 - entities/thomas-pearce — Thomas Pearce
+- entities/thomas-ta — Thomas Ta
 - entities/tiktoken — tiktoken
 - entities/tilmann-gneiting — Tilmann Gneiting
 - entities/tim-gebbie — Tim Gebbie
@@ -1904,6 +1957,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/tony-small — Tony Small
 - entities/tvm — TVM
 - entities/tyler-vanderweele — Tyler J. VanderWeele
+- entities/tyler-shumway — Tyler Shumway
 - entities/ubs-delta — UBS Delta
 - entities/university-of-aberdeen — University of Aberdeen
 - entities/valeri-voev — Valeri Voev
@@ -1919,6 +1973,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/vishwanath-tirupattur — Vishwanath Tirupattur
 - entities/vishwas-patkar — Vishwas Patkar
 - entities/vishy-tirupattur — Vishy Tirupattur
+- entities/vladimir-finkelstein — Vladimir Finkelstein
 - entities/vladimir-vovk — Vladimir Vovk
 - entities/wanting-low — Wanting Low
 - entities/warren-buffett — Warren Buffett
@@ -1939,11 +1994,14 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/yaniv-romano — Yaniv Romano
 - entities/yanqin-fan — Yanqin Fan
 - entities/yao-xie — Yao Xie
+- entities/yaofei-xu — Yaofei Xu
+- entities/yi-zhou — Yi Zhou
 - entities/yin-cong-zhi — Yin-Cong Zhi
 - entities/yinchu-zhu — Yinchu Zhu
 - entities/ying-fang — Ying Fang
 - entities/ying-jin — Ying Jin
 - entities/yu-gui — Yu Gui
+- entities/yukun-shi — Yukun Shi
 - entities/yuqi-yang — Yuqi Yang
 - entities/yuying-sun — Yuying Sun
 - entities/ziyu-xu — Ziyu Xu
@@ -1956,6 +2014,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - analyses/credit-universe-topology-and-representation — A Credit Universe as a Dynamic Sheaf: Representation and Topology
 - analyses/ai-engineering-as-a-discipline — AI Engineering as a Discipline
 - analyses/bond-momentum-signal-design-and-testing — Bond Momentum Signal: Findings, Test Plan and Next Steps
+- analyses/capital-structure-arbitrage-literature-review — Capital Structure Arbitrage: Literature Review for Bond Signals
 - analyses/conformal-prediction-for-hft-traders — Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction
 - analyses/conformal-tukey-gh-intervals — Conformal Prediction with Tukey g-h Transformation
 - analyses/credit-spread-determinants-causal-reading — Credit-Spread Determinants: An Empirical and Do-Calculus Reading

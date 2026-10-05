@@ -1,31 +1,34 @@
 ---
-title: Multiple Testing
+abstraction_level: intermediate
+concept_type: framework
+content_hash: sha256:8e951b86effb51dbc0eb01a3f7554351cf5baaf8be578b19bead0b81053cda13
+created: 2026-09-16 00:00:00+00:00
+mind_map_priority: high
 page_id: concepts/multiple-testing
 page_type: concept
-concept_type: framework
-abstraction_level: intermediate
-revision_id: 1
-created: 2026-09-16 00:00:00+00:00
-updated: '2026-09-16T00:00:00Z'
-tags:
-- multiple-testing
-- false-discovery-rate
-- e-value
-- dependence
-sources:
-- sources/wang-2021-fdr-control-evalues
-- sources/ignatiadis-2023-evalues-unnormalized-weights
-- sources/vovk-2019-confidence-discoveries-evalues
-- sources/xu-2021-bandit-multiple-testing
 related:
 - concepts/false-discovery-rate
 - concepts/e-value
 - concepts/p-value-merging
 - concepts/null-hypothesis-significance-testing
-mind_map_priority: high
+revision_id: 2
 schema_version: 2
+sources:
+- sources/wang-2021-fdr-control-evalues
+- sources/ignatiadis-2023-evalues-unnormalized-weights
+- sources/vovk-2019-confidence-discoveries-evalues
+- sources/xu-2021-bandit-multiple-testing
+- sources/dickerson-2026-co-pricing-factor-zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
+tags:
+- multiple-testing
+- false-discovery-rate
+- e-value
+- dependence
+title: Multiple Testing
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 0248b831-f205-5bf4-81f2-04d666ca7a19
-content_hash: sha256:1f380d4ac49a730fbf1f4d7bec6ded5359d27dd9adf5c0354907bfa47546680f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -64,4 +67,9 @@ Before constructing a procedure it is worth knowing whether a powerful statistic
 ## Related Concepts
 
 [[concepts/false-discovery-rate|False Discovery Rate]] · [[concepts/e-value|E-value]] · [[concepts/p-value-merging|Merging P-values and E-values]] · [[concepts/null-hypothesis-significance-testing|Null Hypothesis Significance Testing]]
+
+## Sources
+
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 <!-- AUTHORED REGION END -->

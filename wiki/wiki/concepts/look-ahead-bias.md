@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:1cbcfac6bf7a032301f2812307447ad0076a723a5668ec8537548c583ddde80b
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/look-ahead-bias
 page_type: concept
@@ -14,7 +15,10 @@ related:
 - concepts/walk-forward-analysis
 - entities/alexander-dickerson
 - sources/dickerson-2024-bond-pitfalls
-revision_id: 2
+revision_id: 3
+schema_version: 2
+sources:
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - methodology
 - bias
@@ -22,10 +26,9 @@ tags:
 - corporate-bonds
 - data-quality
 title: Look-ahead Bias
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 233d62ed-119f-5800-b2e7-ccc2ac571d15
-content_hash: sha256:acb2817f6a8f5c01e92770fc91aa0a4db09f52be64528ac5ce2b1c1b2b8f8357
 ---
 
 <!-- AUTHORED REGION START -->
@@ -100,6 +103,7 @@ Apply filters using only information available at portfolio formation:
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]
 
 ## Related (credit-macro ingest, 2026-06-09)

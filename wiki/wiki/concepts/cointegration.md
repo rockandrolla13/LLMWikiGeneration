@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:46f8f68f11310ce2644fd73d08fb27e195a10debae0cf1700f0868d413f5e330
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/cointegration
 page_type: concept
@@ -8,11 +9,13 @@ related:
 - concepts/stationarity
 - concepts/statistical-arbitrage
 - concepts/vector-error-correction-model
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/duasa-2010-predicting-crisis-recovery
 - sources/he-2023-hf-pairs-chinese-futures
 - sources/moura-2016-pairs-trading-kalman
+- sources/shi-2022-cds-implied-volatility-trading-strategies
 tags:
 - econometrics
 - time-series
@@ -20,10 +23,9 @@ tags:
 - error-correction
 - unit-root
 title: Cointegration
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 8a225d15-8770-5cd6-bffc-92de351fdba2
-content_hash: sha256:5ee911ba00fbcba0a8745435dd0dc2c59402af4bb069250dcbae12a98dac3481
 ---
 
 <!-- AUTHORED REGION START -->
@@ -156,4 +158,8 @@ OLS estimator of cointegrating vector:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/duasa-2010-predicting-crisis-recovery]]
+
+## Sources
+
+- [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
 <!-- AUTHORED REGION END -->

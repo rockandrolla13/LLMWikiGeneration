@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:4a14b515f09c71e0a19731f9b9c27b8dfb9937869123ab6da8248b6ff105148e
+content_hash: sha256:61bd99b7c019e8c1f9b37b36920e6f18054d4b0acf2aeeacb2b6cef2eee3f494
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/algorithmic-trading
 - concepts/behavioral-finance
 - concepts/trading-strategy-overfitting
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/carver-2015-systematic-trading
@@ -36,10 +36,11 @@ sources:
 - sources/webster-2023-introduction-mathematics-causal-inference
 - sources/ye-2017-developing-sustainable-trading-strategies-directional-changes
 - sources/zhao-2026-novel-trading-algorithms-augmented-intrinsic-time
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags: []
 title: Over-fitting in Back-testing
-updated: '2026-09-27T01:47:00Z'
-updated_by: creditmacro-batch
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 9d33c83b-8b3f-5183-9800-762bc3627c0b
 ---
 
@@ -52,6 +53,7 @@ The tendency of in-sample calibration to select rules/parameters that fit noise 
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/carver-2015-systematic-trading|Systematic Trading: A unique new method for designing trading and investing systems]]
 
 ## Related Concepts

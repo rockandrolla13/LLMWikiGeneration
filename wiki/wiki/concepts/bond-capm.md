@@ -1,25 +1,28 @@
 ---
-title: Bond CAPM
+content_hash: sha256:880cdac989c0260be1541050d0fdcaa94f19f010019b40035850fa10ee3081a5
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: high
 page_id: concepts/bond-capm
 page_type: concept
-revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/factor-models
+- concepts/liquidity-risk
+- concepts/credit-spread-curve
+revision_id: 2
+schema_version: 2
+sources:
+- sources/dickerson-2023-bond-risk
+- sources/dickerson-2026-co-pricing-factor-zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - fixed-income
 - asset-pricing
 - factor-models
 - risk-premium
-sources:
-- sources/dickerson-2023-bond-risk
-related:
-- concepts/factor-models
-- concepts/liquidity-risk
-- concepts/credit-spread-curve
-mind_map_priority: high
-schema_version: 2
+title: Bond CAPM
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 71771b3f-cac2-505c-8ef1-5cab67be2f9a
-content_hash: sha256:7446dbc2b4ef7e87ba45ee84651a3bf762fd95d4ebe32d0fb7494793292d7a58
 ---
 
 <!-- AUTHORED REGION START -->
@@ -74,4 +77,8 @@ Where:
 - [[concepts/liquidity-risk|Liquidity Risk]]
 - [[sources/dickerson-2023-bond-risk|Corporate Bond Risk Factor Pricing (2023)]]
 
+## Sources
+
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 <!-- AUTHORED REGION END -->
