@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:b3887e2191a47d3354aba844fb8dda1a718abab88f9ebc45c2cdfd1e9d9abcb8
+content_hash: sha256:cd5fd775b729e551ecc90711ff8926634372706e507d012b7b3b3d2f68350db7
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -15,7 +15,7 @@ related:
 - concepts/look-ahead-bias
 - concepts/look-ahead-bias-data-mining
 - concepts/overfitting-in-alpha-research
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/halls-moore-advanced-algorithmic-trading
@@ -57,10 +57,11 @@ sources:
 - sources/zaman-2026-volatility-aware-extreme-event-detection-high
 - sources/zhao-2026-novel-trading-algorithms-augmented-intrinsic-time
 - sources/zheng-2022-order-flow-technical-analysis-neural-network
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags: []
 title: Backtesting
-updated: '2026-09-27T01:47:00Z'
-updated_by: creditmacro-batch
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: bbc9c9ed-87ac-53de-97f0-8ae0b892d1b6
 ---
 
@@ -79,6 +80,7 @@ A separate problem from strategy backtesting: checking whether a *risk forecast*
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/halls-moore-advanced-algorithmic-trading|Advanced Algorithmic Trading]]
 - [[sources/wang-2022-e-backtesting|E-backtesting (2022)]]
 - [[sources/fan-2024-testing-mean-variance-eprocesses|Testing the mean and variance by e-processes (2024)]]

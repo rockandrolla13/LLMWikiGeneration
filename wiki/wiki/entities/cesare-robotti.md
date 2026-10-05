@@ -1,24 +1,26 @@
 ---
-title: Cesare Robotti
+content_hash: sha256:6e47ec249e6675b80fc6ca3c3f24ca89a6599cb9e4f3d99c10bb9c49c7e7ae22
+created: 2026-08-06 00:00:00+00:00
+entity_type: person
+mind_map_priority: low
 page_id: entities/cesare-robotti
 page_type: entity
-revision_id: 1
-entity_type: person
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/credit-spread-puzzle
+revision_id: 2
+schema_version: 2
+sources:
+- sources/dickerson-2023-bond-risk
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - researcher
 - asset-pricing
 - corporate-bonds
 - factor-models
-sources:
-- sources/dickerson-2023-bond-risk
-related:
-- concepts/credit-spread-puzzle
-mind_map_priority: low
-schema_version: 2
+title: Cesare Robotti
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 09ae4eec-80d2-5c98-a6f2-e979c3f88e66
-content_hash: sha256:bd192aff591b0861af9832d589dbdb8d3f93559f2f1a6961743cee81a6674119
 ---
 
 <!-- AUTHORED REGION START -->
@@ -46,4 +48,7 @@ The paper argues the bond CAPM is not dominated by more elaborate factor models:
 
 *Coverage here is limited to the single co-authored paper recorded in this wiki. Other work is not yet captured.*
 
+## Papers in This Wiki
+
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 <!-- AUTHORED REGION END -->

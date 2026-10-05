@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:f0b37d5bf8af3371c3861dafe19f8879c6a4ab8d0e16c2d470b9ef4621b75583
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/mean-reversion
 page_type: concept
@@ -33,7 +34,8 @@ related:
 - concepts/term-structure-risk-premium
 - concepts/trend-following
 - concepts/value-premium
-revision_id: 3
+revision_id: 4
+schema_version: 2
 sources:
 - sources/moura-2016-pairs-trading-kalman
 - sources/ms-2011-03-28-high-grade-mid-cycle
@@ -47,16 +49,18 @@ sources:
 - sources/ms-2022-11-04-end-of-trends
 - sources/triantafyllopoulos-2011-mean-reverting-spreads
 - sources/zhang-2021-pairs-general-ssm
+- sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
+- sources/chan-2023-price-convergence-cds-put-option
+- sources/shi-2022-cds-implied-volatility-trading-strategies
 tags:
 - time-series
 - statistical-properties
 - trading-strategies
 - stochastic-processes
 title: Mean Reversion
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: d16f8e8a-9a2f-522d-ba1f-89a050862b70
-content_hash: sha256:e1480d9a2a11037810b90eafc426bbf3c04203541ac818f0f4e2255372d76839
 ---
 
 <!-- AUTHORED REGION START -->
@@ -232,4 +236,10 @@ Non-linear models can capture:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-02-03-self-catalysing-dollar-weakness]], [[sources/ms-2019-02-17-goldilocks-whiplash]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-03-03-an-easing-trio]], [[sources/ms-2020-03-19-volatility-peaks-before-markets-trough]], [[sources/ms-2020-04-01-what-do-recoveries-look-like]], [[sources/ms-2022-11-04-end-of-trends]]
+
+## Sources
+
+- [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
+- [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
 <!-- AUTHORED REGION END -->

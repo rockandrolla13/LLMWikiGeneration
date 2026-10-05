@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:817b59415cead004a50b13ece7f9180b391e437f328455e8b4595af1b0bc8d02
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/survival-probability
@@ -9,19 +10,22 @@ related:
 - concepts/merton-model
 - concepts/reduced-form-credit-models
 - concepts/z-spread
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/martin-2024-credit-curve
+- sources/bharath-2008-forecasting-default-merton-distance-to-default
+- sources/finger-2002-creditgrades-technical-document
+- sources/yu-2006-how-profitable-capital-structure-arbitrage
 tags:
 - credit-risk
 - default-modelling
 - fixed-income
 - probability
 title: Survival Probability
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 47bb07c2-8e8c-544d-af92-6f91bc893aca
-content_hash: sha256:5c32a738cc117126933c869c8af15495415ead55406611f73eafb812cf6903bf
 ---
 
 <!-- AUTHORED REGION START -->
@@ -79,4 +83,10 @@ The survival probability curve $Q(t)$ defines the term structure of credit risk:
 
 - [[concepts/merton-model|merton-model]]
 - [[concepts/reduced-form-credit-models|reduced-form-credit-models]]
+
+## Sources
+
+- [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+- [[sources/bharath-2008-forecasting-default-merton-distance-to-default|Forecasting Default with the Merton Distance to Default Model]]
 <!-- AUTHORED REGION END -->

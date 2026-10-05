@@ -1,19 +1,18 @@
 ---
-title: 'Capital Structure Arbitrage: Literature Review for Bond Signals'
+content_hash: sha256:706b5c823b87fd7fc3b1bb065bf92ddc8e5640fb607824d200c9ba16fa0d0592
+created: '2026-10-05T00:00:00Z'
 page_id: analyses/capital-structure-arbitrage-literature-review
 page_type: analysis
-revision_id: 2
-created: '2026-10-05T00:00:00Z'
-updated: '2026-10-05T12:00:00Z'
-updated_by: deep-research-lit-review-2026-10-05
-tags:
-- capital-structure-arbitrage
-- credit-default-swaps
-- corporate-bonds
-- structural-models
-- implied-volatility
-- lead-lag
-- literature-review
+related:
+- concepts/capital-structure-arbitrage
+- concepts/merton-model
+- concepts/structural-models
+- concepts/limits-to-arbitrage
+- concepts/credit-spread-puzzle
+- concepts/credit-default-swap-spread
+- analyses/bond-momentum-signal-design-and-testing
+revision_id: 3
+schema_version: 2
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
@@ -27,15 +26,29 @@ sources:
 - sources/dickerson-2023-bond-risk
 - sources/dickerson-2024-bond-pitfalls
 - sources/huang-2025-global-credit-spread-puzzle
-related:
-- concepts/capital-structure-arbitrage
-- concepts/merton-model
-- concepts/structural-models
-- concepts/limits-to-arbitrage
-- concepts/credit-spread-puzzle
-- concepts/credit-default-swap-spread
-- analyses/bond-momentum-signal-design-and-testing
-schema_version: 2
+- sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
+- sources/bharath-2008-forecasting-default-merton-distance-to-default
+- sources/carr-2011-american-puts-credit-protection
+- sources/chan-2023-price-convergence-cds-put-option
+- sources/cremers-2008-individual-stock-option-prices-credit-spreads
+- sources/dickerson-2026-co-pricing-factor-zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
+- sources/finger-2002-creditgrades-technical-document
+- sources/lee-2021-cds-momentum-cross-market-spillovers
+- sources/shi-2022-cds-implied-volatility-trading-strategies
+- sources/wang-2013-cds-spreads-variance-risk-premia
+- sources/yu-2006-how-profitable-capital-structure-arbitrage
+tags:
+- capital-structure-arbitrage
+- credit-default-swaps
+- corporate-bonds
+- structural-models
+- implied-volatility
+- lead-lag
+- literature-review
+title: 'Capital Structure Arbitrage: Literature Review for Bond Signals'
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 ---
 
 <!-- AUTHORED REGION START -->
@@ -413,4 +426,18 @@ Screened but not detailed here (lower relevance or no abstract): Procasky (2023)
 - Sandulescu, M. (2020). How integrated are corporate bond and stock markets? Working paper, SSRN 3528252.
 - van Zundert, J., & Driessen, J. (2022). Stocks versus corporate bonds: A cross-sectional puzzle. *JBF, 137*, 106447. https://doi.org/10.1016/j.jbankfin.2022.106447
 
+## Sources Added to the Wiki
+
+- [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
+- [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
+- [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
+- [[sources/cremers-2008-individual-stock-option-prices-credit-spreads|Individual Stock-Option Prices and Credit Spreads]]
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
+- [[sources/bharath-2008-forecasting-default-merton-distance-to-default|Forecasting Default with the Merton Distance to Default Model]]
+- [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
 <!-- AUTHORED REGION END -->

@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:83dd0a988560eed157a4d75687c71516355d4aca98482f24da49455eedee0b47
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -18,7 +19,8 @@ related:
 - concepts/quantitative-easing
 - concepts/risk-premia
 - concepts/yield-curve-steepeners-flatteners
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/bams-2003-risk-premia-term-structure-panel
 - sources/ms-2010-09-15-em-quantitative-quarterly
@@ -33,13 +35,12 @@ sources:
 - sources/ms-2019-02-15-govt-bond-auction-pipeline
 - sources/ms-2019-03-15-bullish-bond-cyclone
 - sources/ms-2019-03-25-rate-cuts-before-recessions
+- sources/dickerson-2026-co-pricing-factor-zoo
 tags: []
 title: Term Structure Risk Premium
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 900be76b-402d-5579-b3ac-065106bcca68
-content_hash: sha256:75486c34f5e77369643898d70172b1c21103524a4c0fbd1fede6ce1ecc9df29d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -51,6 +52,7 @@ The expected excess holding-period return on a longer-maturity bond over the ris
 
 ## Sources
 
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 - [[sources/bams-2003-risk-premia-term-structure-panel|Risk premia in the term structure of interest rates: a panel data approach]]
 
 ## Related Concepts

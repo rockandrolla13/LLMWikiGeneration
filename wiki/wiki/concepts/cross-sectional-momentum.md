@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:8d6a7f24bf28049e88faef81bd3a7b29cc5a7b75a91608c4dd0a1fd0c275321c
+content_hash: sha256:5b3f45a7514f7eeefcf4e71cf8d43255a4ae0dfb5c190d3db71a3d072bf70a8c
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,17 +12,18 @@ related:
 - concepts/factor-investing
 - concepts/statistical-arbitrage
 - concepts/factor-momentum
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 - sources/ehsani-2022-factor-momentum
 - sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 - sources/scheiber-2017-new-strategies-asset-classes-increased-performance
+- sources/lee-2021-cds-momentum-cross-market-spillovers
 tags: []
 title: Cross-Sectional Momentum
-updated: '2026-09-27T01:47:00Z'
-updated_by: creditmacro-batch
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: e83785e5-3469-5e1e-adc8-24190d7d4569
 ---
 
@@ -39,6 +40,7 @@ A relative strategy ranking instruments by recent performance and going long the
 
 ## Sources
 
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]
 - [[sources/ehsani-2022-factor-momentum|Ehsani & Linnainmaa (2022)]]
 

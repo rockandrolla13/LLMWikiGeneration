@@ -1,27 +1,34 @@
 ---
-title: Credit Default Swaps
+content_hash: sha256:414324b632e23992e1ba6cfd7c4df1889fa98acb0b2e8d600ec6cc8d10759c3a
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/credit-default-swaps
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/credit-default-swap-spread
+- concepts/cds-bond-basis
+- concepts/hazard-rate-curve
+revision_id: 2
+schema_version: 2
+sources:
+- sources/shi-2022-cds-options-comovement
+- sources/ubs-2012-next-gen-credit-curves
+- sources/carr-2011-american-puts-credit-protection
+- sources/chan-2023-price-convergence-cds-put-option
+- sources/finger-2002-creditgrades-technical-document
+- sources/lee-2021-cds-momentum-cross-market-spillovers
+- sources/shi-2022-cds-implied-volatility-trading-strategies
+- sources/yu-2006-how-profitable-capital-structure-arbitrage
 tags:
 - credit-default-swaps
 - credit-derivatives
 - credit-risk
 - CDS
 - hazard-rate
-sources:
-- sources/shi-2022-cds-options-comovement
-- sources/ubs-2012-next-gen-credit-curves
-related:
-- concepts/credit-default-swap-spread
-- concepts/cds-bond-basis
-- concepts/hazard-rate-curve
-mind_map_priority: medium
-schema_version: 2
+title: Credit Default Swaps
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 56ee8e83-6a37-510a-a70d-61057edd1005
-content_hash: sha256:03c49bebc20458a102a846ae7fcf1a8e182f4a2ad5c02802282e3a339370e793
 ---
 
 <!-- AUTHORED REGION START -->
@@ -58,4 +65,12 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 - [[sources/dafonseca-2020-cds-equity-volatility-comovement|Da Fonseca & Gottschalk (2020)]] -- equity returns lead CDS at firm level
 - [[sources/hong-2025-implied-vol-cds-korea|Hong & Park (2025)]] -- option IV predicts CDS spread changes
 
+## Sources
+
+- [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
+- [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
 <!-- AUTHORED REGION END -->

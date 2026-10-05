@@ -1,8 +1,8 @@
 ---
+content_hash: sha256:f306fb2a2cfc94ce37e108b6fb00df8e70fb6c3793614e13ac8f0095db563192
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/spillover-effect
 page_type: concept
-source_path: markdown_output/ssrn_id2932937_code158781.md
 related:
 - concepts/asian-financial-crisis-1997
 - concepts/bond-momentum
@@ -11,7 +11,11 @@ related:
 - concepts/residual-momentum
 - concepts/twin-crises
 - sources/haesen-2017-momentum-spillover
-revision_id: 2
+revision_id: 3
+schema_version: 2
+source_path: markdown_output/ssrn_id2932937_code158781.md
+sources:
+- sources/lee-2021-cds-momentum-cross-market-spillovers
 tags:
 - momentum
 - spillover
@@ -19,10 +23,9 @@ tags:
 - corporate-bonds
 - cross-asset
 title: Momentum Spillover Effect
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: b984d866-4af7-5520-95d2-e4d7f8da2359
-content_hash: sha256:440a563af8d943a9abc960e6faebbdc718b35c77fd2242109d2f9d09b0c2234e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -103,6 +106,7 @@ source document 2026-08-09; the previous figures in this table (0.45/0.55/0.65,
 
 ## Sources
 
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
 

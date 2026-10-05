@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:193ec27acc1c1f9c431895c0b5e76d585559dc48fb3c6d75b96721a9c0b0aa54
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/hazard-rate-curve
 page_type: concept
@@ -8,9 +9,11 @@ related:
 - concepts/market-implied-ratings
 - concepts/reduced-form-credit-models
 - concepts/survival-probability
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/ubs-2012-next-gen-credit-curves
+- sources/chan-2023-price-convergence-cds-put-option
 tags:
 - creditETF
 - credit-curves
@@ -18,10 +21,9 @@ tags:
 - CDS
 - bonds
 title: Hazard Rate Curve
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 7e076439-9606-5738-94a8-165a08535131
-content_hash: sha256:528a21edc74c501857508cc1d6e388cd9cb6a4bd10cabebcdcfd49306f614f79
 ---
 
 <!-- AUTHORED REGION START -->
@@ -98,4 +100,8 @@ Using issuer hazard rates, market surfaces can be built covering every rating an
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/reduced-form-credit-models|reduced-form-credit-models]]
+
+## Sources
+
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 <!-- AUTHORED REGION END -->

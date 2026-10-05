@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:ac1ba9f01f76eee8b1ef539c8fb8f2e5bc7d6f2eab6d3f567715e3194e266610
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -17,7 +18,8 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
 - sources/ms-2017-06-23-hy-leveraged-finance-playbook
@@ -28,13 +30,12 @@ sources:
 - sources/ms-2019-03-22-high-yield-hedge
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 - sources/patkar-2026-ms-global-credit-midyear
+- sources/bharath-2008-forecasting-default-merton-distance-to-default
 tags: []
 title: Default Rates
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: bf605565-480c-58dc-950a-27081d4e27e8
-content_hash: sha256:9521dd654c371555b29bd32a742700d815c320798f453efeaf0e9f3490200e0d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -46,6 +47,7 @@ The trailing rate at which credit issuers default; the note forecasts divergent 
 
 ## Sources
 
+- [[sources/bharath-2008-forecasting-default-merton-distance-to-default|Forecasting Default with the Merton Distance to Default Model]]
 - [[sources/patkar-2026-ms-global-credit-midyear|Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]]
 
 ## Related Concepts

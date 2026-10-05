@@ -1,26 +1,34 @@
 ---
-title: Structural Models
+content_hash: sha256:cdec3b804fddf4d5d711725003acb128e6e580934ece3862054a4505f4b889fe
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/structural-models
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/merton-model
+- concepts/credit-spread-puzzle
+- concepts/bond-liquidity
+revision_id: 2
+schema_version: 2
+sources:
+- sources/huang-2025-global-credit-spread-puzzle
+- sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
+- sources/bharath-2008-forecasting-default-merton-distance-to-default
+- sources/carr-2011-american-puts-credit-protection
+- sources/cremers-2008-individual-stock-option-prices-credit-spreads
+- sources/finger-2002-creditgrades-technical-document
+- sources/wang-2013-cds-spreads-variance-risk-premia
+- sources/yu-2006-how-profitable-capital-structure-arbitrage
 tags:
 - structural-models
 - credit-risk
 - merton-model
 - bond-pricing
 - credit-spreads
-sources:
-- sources/huang-2025-global-credit-spread-puzzle
-related:
-- concepts/merton-model
-- concepts/credit-spread-puzzle
-- concepts/bond-liquidity
-mind_map_priority: medium
-schema_version: 2
+title: Structural Models
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: e4ccdaf7-b7e1-5a38-a2c7-36ef8cf53846
-content_hash: sha256:4981a30d23f4ff0795384af39252a1d41b9b9f09af472271dc648930649ce2c0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -55,4 +63,13 @@ Adding liquidity closes much of the gap. Cross-sectional R² rises from 19–35%
 
 **Not yet written:** `concepts/default-boundary`, `concepts/black-cox-model`
 
+## Sources
+
+- [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
+- [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
+- [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+- [[sources/cremers-2008-individual-stock-option-prices-credit-spreads|Individual Stock-Option Prices and Credit Spreads]]
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
+- [[sources/bharath-2008-forecasting-default-merton-distance-to-default|Forecasting Default with the Merton Distance to Default Model]]
+- [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
 <!-- AUTHORED REGION END -->

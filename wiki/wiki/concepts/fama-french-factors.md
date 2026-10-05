@@ -1,22 +1,24 @@
 ---
+content_hash: sha256:d7adb19e8999cdeea2cd6538d49d6dc13627796849dabae77877ed23bc350ea2
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/fama-french-factors
 page_type: concept
 related:
 - concepts/value-premium
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/barendse-2026-efficient-tail-interquantile
+- sources/chan-2023-price-convergence-cds-put-option
 tags:
 - asset-pricing
 - factor-models
 - equity-risk
 title: Fama-French Factors
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 2b63885f-8c75-58cc-b1df-7e262ad2cec2
-content_hash: sha256:d25ec99eb469c18a5df1e29339b6fba5a567142803102aafb03afebb0b3756fc
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +28,7 @@ content_hash: sha256:d25ec99eb469c18a5df1e29339b6fba5a567142803102aafb03afebb0b3
 
 ## Sources
 
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/barendse-2026-efficient-tail-interquantile|Efficiently Weighted Estimation of Tail and Interquantile Expectations (2026)]] — supporting; abnormal returns of size and momentum portfolios are decomposed into tail and interquantile contributions
 
 ## Related Concepts

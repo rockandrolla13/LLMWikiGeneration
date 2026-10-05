@@ -1,24 +1,27 @@
 ---
-title: Leverage Ratios
+content_hash: sha256:58977fc3ecb259ffe067cd078895551b3996ddc2501fabaab4f4fe8998d2ba5f
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/leverage-ratios
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/spread-per-turn-of-leverage
+- concepts/relative-value-analysis
+revision_id: 2
+schema_version: 2
+sources:
+- sources/spec-2012-single-name-fundamental
+- sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
+- sources/wang-2013-cds-spreads-variance-risk-premia
 tags:
 - credit-analysis
 - fundamental-analysis
 - leverage
 - creditETF
-sources:
-- sources/spec-2012-single-name-fundamental
-related:
-- concepts/spread-per-turn-of-leverage
-- concepts/relative-value-analysis
-mind_map_priority: medium
-schema_version: 2
+title: Leverage Ratios
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: b358f0f2-1c29-549a-97d4-2f4fa5ae556f
-content_hash: sha256:80da87dc4a2ad90c6097865b7b7d3576a7b8d351d52b39d72507dd9cb24843c8
 ---
 
 <!-- AUTHORED REGION START -->
@@ -52,4 +55,8 @@ The limitation carries over: this assumes the relationship between spread and le
 
 **Not yet written:** `concepts/interest-coverage-ratio`, `concepts/ebitda`
 
+## Sources
+
+- [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
+- [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
 <!-- AUTHORED REGION END -->

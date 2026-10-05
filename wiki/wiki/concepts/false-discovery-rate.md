@@ -1,30 +1,32 @@
 ---
-title: False Discovery Rate
+abstraction_level: intermediate
+concept_type: definition
+content_hash: sha256:afde2ca08a5f01d568210e87cc00049d537eceedd3022dd4814d9e88701e1002
+created: 2026-09-16 00:00:00+00:00
+mind_map_priority: high
 page_id: concepts/false-discovery-rate
 page_type: concept
-concept_type: definition
-abstraction_level: intermediate
-revision_id: 1
-created: 2026-09-16 00:00:00+00:00
-updated: '2026-09-16T00:00:00Z'
-tags:
-- false-discovery-rate
-- multiple-testing
-- benjamini-hochberg
-- e-bh
+related:
+- concepts/multiple-testing
+- concepts/e-value
+- concepts/p-value-merging
+revision_id: 2
+schema_version: 2
 sources:
 - sources/wang-2021-fdr-control-evalues
 - sources/ignatiadis-2024-asymptotic-compound-evalues
 - sources/chi-2024-multiple-testing-negative-dependence
 - sources/xu-2024-post-selection-evalue-ci
-related:
-- concepts/multiple-testing
-- concepts/e-value
-- concepts/p-value-merging
-mind_map_priority: high
-schema_version: 2
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
+tags:
+- false-discovery-rate
+- multiple-testing
+- benjamini-hochberg
+- e-bh
+title: False Discovery Rate
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 41d2d3da-59e5-5d23-9d6e-05dd486b0d16
-content_hash: sha256:db07755c5b733402e398c8a5c86b1f084072f37a8da094670091a552f80bd749
 ---
 
 <!-- AUTHORED REGION START -->
@@ -58,6 +60,7 @@ Estimating the null proportion $\pi_0$ and running BH at $\alpha/\hat\pi_0$ is s
 
 ## Sources
 
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/wang-2021-fdr-control-evalues|Wang & Ramdas (2022)]] — e-BH.
 - [[sources/ignatiadis-2023-evalues-unnormalized-weights|Ignatiadis et al. (2024)]] — e-values as unnormalized weights.
 - [[sources/chi-2024-multiple-testing-negative-dependence|Chi, Ramdas & Wang (2024)]] — negative dependence.

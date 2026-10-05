@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:0ecfd3e9aa57c76c42bef0e8e4f2ef465cc95f19a7fcb1842f442ada59b75a3c
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/factor-models
@@ -24,7 +25,8 @@ related:
 - concepts/style-premia
 - concepts/trend-following
 - concepts/duration-times-spread
-revision_id: 4
+revision_id: 5
+schema_version: 2
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio
@@ -37,16 +39,17 @@ sources:
 - sources/ms-2018-06-05-emfx-risk-premia-two-factor
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
 - sources/bendor-2007-dts
+- sources/dickerson-2026-co-pricing-factor-zoo
+- sources/dickerson-2026-corporate-bond-factor-replication-crisis
 tags:
 - asset-pricing
 - risk-management
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-09-15T00:00:00Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
-content_hash: sha256:e8e27d8acf7c0fd556291361f3b22dd4191001c8ecd6a4714c7d9e6a6de52548
 ---
 
 <!-- AUTHORED REGION START -->
@@ -131,4 +134,9 @@ Corporate bond factor models face difficulties:
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sources/ms-2017-06-15-bmi2-xbmi-models]], [[sources/ms-2018-03-16-credit-bmi]], [[sources/ms-2018-04-16-credit-bmi-update]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]]
+
+## Sources
+
+- [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+- [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 <!-- AUTHORED REGION END -->

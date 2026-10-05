@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:5bd8893c25335b98a47c8ea4e8b74a52aac0d6efef98d2ea05d43ac1a1e868a7
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/no-arbitrage-restrictions
@@ -6,18 +7,19 @@ page_type: concept
 related:
 - concepts/compound-option-model
 - concepts/merton-model
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
+- sources/carr-2011-american-puts-credit-protection
 tags:
 - asset-pricing
 - sdf
 - machine-learning
 title: No-Arbitrage Restrictions
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 342d92eb-ee02-5664-8734-929c6d9ddca1
-content_hash: sha256:3f3c0c8027c5de1f661f749802406b68e954e2ac7a522a255b2c23351597b126
 ---
 
 <!-- AUTHORED REGION START -->
@@ -27,6 +29,7 @@ content_hash: sha256:3f3c0c8027c5de1f661f749802406b68e954e2ac7a522a255b2c2335159
 
 ## Sources
 
+- [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
 - [[sources/cotturo-2026-multifactor-timing-deep-learning|Multifactor Timing with Deep Learning (2026)]] — supporting; multitask sharing implicitly encodes a common-structure restriction across factor returns
 
 ## Related Concepts

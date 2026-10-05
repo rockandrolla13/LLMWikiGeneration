@@ -1,26 +1,29 @@
 ---
-title: Market-Implied Ratings
+content_hash: sha256:56d25ffa133b899d2aa8ae7575e8661f20000446aa6a1a41aafe10f533cfdb3a
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/market-implied-ratings
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
+related:
+- concepts/hazard-rate-curve
+- concepts/credit-spread-curve
+- concepts/cds-bond-basis
+revision_id: 2
+schema_version: 2
+sources:
+- sources/ubs-2012-next-gen-credit-curves
+- sources/chan-2023-price-convergence-cds-put-option
+- sources/lee-2021-cds-momentum-cross-market-spillovers
 tags:
 - creditETF
 - credit-curves
 - ratings
 - hazard-rate
 - market-implied
-sources:
-- sources/ubs-2012-next-gen-credit-curves
-related:
-- concepts/hazard-rate-curve
-- concepts/credit-spread-curve
-- concepts/cds-bond-basis
-mind_map_priority: medium
-schema_version: 2
+title: Market-Implied Ratings
+updated: '2026-10-05T15:52:32Z'
+updated_by: op_225eb9cd3c09
 uuid: 1efabd02-0243-5ecd-becc-a3133f389a7f
-content_hash: sha256:6464f75c60d8012590134439c3197614dd6efdca8a2149bcc5824afa2050dd26
 ---
 
 <!-- AUTHORED REGION START -->
@@ -53,4 +56,8 @@ A market-implied rating inherits everything priced into the instruments, includi
 
 [[concepts/hazard-rate-curve|Hazard Rate Curve]] · [[concepts/credit-spread-curve|Credit Spread Curve]] · [[concepts/cds-bond-basis|CDS-Bond Basis]] · [[entities/ubs-delta|UBS Delta]]
 
+## Sources
+
+- [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
+- [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 <!-- AUTHORED REGION END -->
