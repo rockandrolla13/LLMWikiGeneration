@@ -18,7 +18,7 @@ Rebuild with: wiki:rebuild
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
 Last updated: 2026-09-27
-Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, contradictions: 1)
+Total pages: 1936 (sources: 642, concepts: 730, entities: 554, analyses: 9, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -1953,6 +1953,7 @@ Total pages: 1935 (sources: 642, concepts: 730, entities: 554, analyses: 8, cont
 - entities/alvaro-cartea — Álvaro Cartea
 
 ## Analyses
+- analyses/capital-structure-arbitrage-literature-review — Capital Structure Arbitrage: Literature Review for Bond Signals
 - analyses/credit-universe-topology-and-representation — A Credit Universe as a Dynamic Sheaf: Representation and Topology
 - analyses/ai-engineering-as-a-discipline — AI Engineering as a Discipline
 - analyses/bond-momentum-signal-design-and-testing — Bond Momentum Signal: Findings, Test Plan and Next Steps
