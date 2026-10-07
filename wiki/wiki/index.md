@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-10-05T15:53:23.240800Z'
+updated: '2026-10-07T18:47:00.755611Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-10-05T15:53:23.235389Z
+Generated: 2026-10-07T18:47:00.752261Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:8b66f3e785985ea6
+Source hash: sha256:ddecae91361fe75f
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-10-05
-Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, contradictions: 1)
+Last updated: 2026-10-07
+Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -182,6 +182,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - sources/bongaerts-2025-cross-sectional-identification-private-information — Cross-sectional identification of private information
 - sources/ms-2019-04-05-crossing-the-rubicon-government-bonds — Crossing the Rubicon (Government Bonds)
 - sources/azzalini-2012-data-analysis-and-data-mining — Data Analysis and Data Mining: An Introduction
+- sources/konieczny-2025-data-engineering-design-patterns — Data Engineering Design Patterns
 - sources/tran-2021-data-normalization-bilinear-structures-high-frequency — Data Normalization for Bilinear Structures in High-Frequency Financial Time-series
 - sources/buzzelli-2024-data-quality-engineering-financial — Data Quality Engineering in Financial Services
 - sources/tran-2019-data-driven-neural-architecture-learning-financial — Data-driven Neural Architecture Learning for Financial Time-series Forecasting
@@ -406,6 +407,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - sources/corradi-2015-liquidity-crises-different-time-scales — Liquidity crises on different time scales
 - sources/mertens-2021-liquidity-fluctuations-latent-dynamics-price-impact — Liquidity Fluctuations and the Latent Dynamics of Price Impact
 - sources/xiao-2025-lit-limit-order-book-transformer — LiT: limit order book transformer
+- sources/aryan-2025-llmops — LLMOps
 - sources/sfendourakis-2020-lob-modeling-hawkes-processes-state-dependent — LOB Hawkes modeling using processes with a state-dependent factor
 - sources/prata-2024-lob-based-deep-learning-models-stock — LOB-Based Deep Learning Models for Stock Price Trend Prediction: A Benchmark Study
 - sources/linna-2025-lobert-generative-ai-foundation-model-limit — LOBERT: Generative AI Foundation Model for Limit Order Book Messages
@@ -421,6 +423,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - sources/toke-2022-marked-point-processes-intensity-ratios-limit — Marked point processes and intensity ratios for limit order book modeling
 - sources/shi-2022-cds-options-comovement — Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces
 - sources/barzykin-2021-fx-dealer-tiers — Market making by an FX dealer: tiers, pricing ladders and hedging rates
+- sources/pathan-2025-mastering-llm-applications-langchain — Mastering LLM Applications with LangChain and Hugging Face
 - sources/chaudhury-2024-math-architectures-deep-learning — Math and Architectures of Deep Learning
 - sources/liquet-2024-mathematical-engineering-deep-learning — Mathematical Engineering of Deep Learning
 - sources/pullirsch-2006-credit-spread-risk — Measuring Credit-Spread Risk on a Single Issuer Basis
@@ -529,6 +532,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - sources/oomen-2004-properties-realized-variance-pure-jump-process — Properties of Realized Variance for a Pure Jump Process: Calendar Time Sampling versus Business Time Sampling
 - sources/zhai-2026-public-trader-identity-adverse-selection-return — Public Trader Identity: Adverse Selection and Return Predictability
 - sources/vlasiuk-2025-push-response-anomalies-high-frequency-s — Push-response anomalies in high-frequency S&P 500 price series
+- sources/janssens-2025-python-polars-definitive-guide — Python Polars: The Definitive Guide
 - sources/lehman-2007-qcr-quarterly — QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk
 - sources/peters-2026-quantile-diffusions — Quantile Processes for Dynamic Risk Modelling in Finance and Insurance
 - sources/kamm-2026-quantum-weighted-moving-average-predicting-limit — Quantum Weighted Moving Average for Predicting Limit Order Book Trends
@@ -706,6 +710,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/anytime-valid-inference — Anytime-Valid Inference
 - concepts/approximate-factor-models — Approximate Factor Models
 - concepts/arima-garch-models — ARIMA and GARCH Volatility Models
+- concepts/as-of-join — As-of Join
 - concepts/asian-financial-crisis-1997 — Asian Financial Crisis of 1997
 - concepts/asset-purchase-programme-duration-extraction — Asset Purchase Programme and Duration Extraction
 - concepts/association-rule-learning — Association Rule Learning
@@ -768,6 +773,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/cds-bond-basis — CDS-Bond Basis
 - concepts/cds-implied-volatility — CDS-Implied Volatility
 - concepts/chain-of-thought-prompting — Chain-of-Thought Prompting
+- concepts/change-data-capture — Change Data Capture
 - concepts/chaos-theory — Chaos Theory and Non-linearity
 - concepts/chatgpt — ChatGPT
 - concepts/cheapest-to-deliver-optionality — Cheapest-to-Deliver Optionality
@@ -856,6 +862,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/dataset-engineering — Dataset Engineering
 - concepts/dawid-sebastiani-score — Dawid-Sebastiani Score
 - concepts/dcc-midas — DCC-MIDAS
+- concepts/dead-letter-pattern — Dead-Letter Pattern
 - concepts/dealer-networks — Dealer Networks
 - concepts/debt-overhang-balance-sheet-recession — Debt Overhang and Balance-Sheet Recession
 - concepts/decision-trees — Decision Trees
@@ -1010,6 +1017,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/hybrid-search — Hybrid Search
 - concepts/hyperscaler-data-center-bond-relative-value — Hyperscaler-Data Center Bond Relative Value
 - concepts/iceberg-model — Iceberg Model
+- concepts/idempotent-data-pipeline — Idempotent Data Pipeline
 - concepts/causal-identifiability-conditions — Identifiability Conditions
 - concepts/illiquidity-premium — Illiquidity Premium
 - concepts/imaging — Imaging
@@ -1057,9 +1065,11 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/language-model-pretraining — Language Model Pretraining
 - concepts/large-language-model — Large Language Model
 - concepts/large-language-models — Large Language Models
+- concepts/late-data-watermark — Late Data Watermark
 - concepts/latent-implementation-bias — Latent Implementation Bias
 - concepts/law-of-active-management — Law of Active Management
 - concepts/layer-normalization — Layer Normalization
+- concepts/lazy-evaluation — Lazy Evaluation
 - concepts/lbo-risk — LBO Risk
 - concepts/learn-then-test — Learn Then Test
 - concepts/lee-carter-model — Lee-Carter Model
@@ -1085,6 +1095,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/llm-workflows — LLM Workflows
 - concepts/llm-as-a-judge — LLM-as-a-Judge
 - concepts/llm-as-judge — LLM-as-Judge
+- concepts/llmops — LLMOps
 - concepts/local-average-treatment-effect — Local Average Treatment Effect (LATE)
 - concepts/log-periodic-power-law — Log-Periodic Power Law Market Model
 - concepts/logarithmic-score — Logarithmic Score
@@ -1179,6 +1190,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/one-factor-term-structure-model — One-Factor Term Structure Model
 - concepts/online-conformal-prediction — Online Conformal Prediction
 - concepts/ontology — Ontology
+- concepts/open-weight-models — Open-Weight Models
 - concepts/openai-api — OpenAI API
 - concepts/optimal-execution — Optimal Execution
 - concepts/optimum-score-estimation — Optimum Score Estimation
@@ -1230,6 +1242,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/quantitative-tightening — Quantitative Tightening
 - concepts/quantum-safe-cryptography — Quantum-Safe Cryptography
 - concepts/quasi-experimental-design — Quasi-Experimental Design
+- concepts/query-pushdown-optimization — Query Pushdown Optimization
 - concepts/queue-imbalance — Queue Imbalance
 - concepts/rag-evaluation — RAG Evaluation
 - concepts/ramsey-optimal-taxation — Ramsey Optimal Taxation
@@ -1372,6 +1385,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - concepts/trader-clustering — Trader Clustering
 - concepts/training-serving-skew — Training-Serving Skew
 - concepts/transductive-learning — Transductive Learning
+- concepts/transfer-learning — Transfer Learning
 - concepts/transformers — Transformers
 - concepts/tree-of-thoughts — Tree of Thoughts
 - concepts/trend-following — Trend Following
@@ -1420,6 +1434,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 ## Entities
 - entities/philip-dawid — A. Philip Dawid
 - entities/aaditya-ramdas — Aaditya Ramdas
+- entities/abi-aryan — Abi Aryan
 - entities/abraham-wald — Abraham Wald
 - entities/adam-richmond — Adam S Richmond
 - entities/adam-virgadamo — Adam Virgadamo
@@ -1446,6 +1461,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/alvaro-serrano — Alvaro Serrano
 - entities/amanda-gentzel — Amanda Gentzel
 - entities/amazon-codewhisperer — Amazon CodeWhisperer
+- entities/amazon-web-services — Amazon Web Services
 - entities/anastasios-angelopoulos — Anastasios N. Angelopoulos
 - entities/anastasios-tefas — Anastasios Tefas
 - entities/andre-martins — Andre F.T. Martins
@@ -1463,6 +1479,8 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/antonio-briola — Antonio Briola
 - entities/antonio-farinhas — Antonio Farinhas
 - entities/antti-ilmanen — Antti Ilmanen
+- entities/apache-airflow — Apache Airflow
+- entities/apache-arrow — Apache Arrow
 - entities/apache-flink — Apache Flink
 - entities/apache-kafka — Apache Kafka
 - entities/apache-spark — Apache Spark
@@ -1476,6 +1494,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/avraam-tsantekidis — Avraam Tsantekidis
 - entities/aymeric-dieuleveut — Aymeric Dieuleveut
 - entities/baiting-chen — Baiting Chen
+- entities/bartosz-konieczny — Bartosz Konieczny
 - entities/benjamin-nabarro — Benjamin Nabarro
 - entities/bent-flyvbjerg — Bent Flyvbjerg
 - entities/bertopic — BERTopic
@@ -1484,6 +1503,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/bodha-bhattacharya — Bodha Bhattacharya
 - entities/borek-vasicek — Borek Vasicek
 - entities/boyao-wu — Boyao Wu
+- entities/bpb-publications — BPB Publications
 - entities/bruna-skarica — Bruna Skarica
 - entities/bruno-scarpa — Bruno Scarpa
 - entities/bryan-kelly — Bryan Kelly
@@ -1544,6 +1564,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/david-weinbaum — David Weinbaum
 - entities/davide-avino — Davide E. Avino
 - entities/deepseek — DeepSeek
+- entities/delta-lake — Delta Lake
 - entities/dennis-bams — Dennis Bams
 - entities/dennis-ulmer — Dennis Ulmer
 - entities/derrick-y-kam — Derrick Y Kam
@@ -1627,6 +1648,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/hugging-face — Hugging Face
 - entities/huggingface-transformers — Hugging Face Transformers
 - entities/hugh-chipman — Hugh Chipman
+- entities/hunaidkhan-pathan — Hunaidkhan Pathan
 - entities/hutchin-hill-capital — Hutchin Hill Capital
 - entities/ian-cooper — Ian Cooper
 - entities/ibm — IBM
@@ -1658,6 +1680,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/jennifer-hill — Jennifer Hill
 - entities/jerald-pinto — Jerald E. Pinto
 - entities/jeremy-turiel — Jeremy Turiel
+- entities/jeroen-janssens — Jeroen Janssens
 - entities/jeroen-van-zundert — Jeroen van Zundert
 - entities/jerome-powell — Jerome Powell
 - entities/jesper-rooth — Jesper Rooth
@@ -1802,6 +1825,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/naomi-poole — Naomi Poole
 - entities/nathaniel-rosenbaum — Nathaniel Rosenbaum
 - entities/national-bureau-of-economic-research — National Bureau of Economic Research
+- entities/nayankumar-gajjar — Nayankumar Gajjar
 - entities/neil-shephard — Neil Shephard
 - entities/nelson-jantzen — Nelson Jantzen
 - entities/neo4j — Neo4j
@@ -1850,6 +1874,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/philippe-mueller — Philippe Mueller
 - entities/pierre-collin-dufresne — Pierre Collin-Dufresne
 - entities/pierre-pinson — Pierre Pinson
+- entities/polars — Polars
 - entities/purva-pruthi — Purva Pruthi
 - entities/pytorch — PyTorch
 - entities/qi-li — Qi Li
@@ -1866,6 +1891,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/richard-martin — Richard J. Martin
 - entities/rina-foygel-barber — Rina Foygel Barber
 - entities/riskmetrics-group — RiskMetrics Group
+- entities/ritchie-vink — Ritchie Vink
 - entities/rob-thomas — Rob Thomas
 - entities/robert-merton — Robert C. Merton
 - entities/robert-carver — Robert Carver
@@ -1939,6 +1965,7 @@ Total pages: 1994 (sources: 654, concepts: 739, entities: 591, analyses: 9, cont
 - entities/tabnine — Tabnine
 - entities/tarek-hamid — Tarek Hamid
 - entities/teresa-busjahn — Teresa Busjahn
+- entities/thijs-nieuwdorp — Thijs Nieuwdorp
 - entities/thomas-egan — Thomas Egan
 - entities/thomas-sargent — Thomas J. Sargent
 - entities/thomas-pearce — Thomas Pearce

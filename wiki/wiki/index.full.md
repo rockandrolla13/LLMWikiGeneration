@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index (Full)
-updated: '2026-10-05T15:53:25.019710Z'
+updated: '2026-10-07T18:47:02.622603Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-10-05T15:53:25.015035Z
+Generated: 2026-10-07T18:47:02.619983Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:8b66f3e785985ea6
+Source hash: sha256:ddecae91361fe75f
 Rebuild with: wiki:rebuild
 -->
 
@@ -182,6 +182,7 @@ Master catalog of all pages in this wiki.
 - [[Cross-sectional identification of private information]] - <!-- AUTHORED REGION START -->
 - [[Crossing the Rubicon (Government Bonds)]] - <!-- AUTHORED REGION START -->
 - [[Data Analysis and Data Mining: An Introduction]] - <!-- AUTHORED REGION START -->
+- [[Data Engineering Design Patterns]] - <!-- AUTHORED REGION START -->
 - [[Data Normalization for Bilinear Structures in High-Frequency Financial Time-series]] - <!-- AUTHORED REGION START -->
 - [[Data Quality Engineering in Financial Services]] - <!-- AUTHORED REGION START -->
 - [[Data-driven Neural Architecture Learning for Financial Time-series Forecasting]] - <!-- AUTHORED REGION START -->
@@ -406,6 +407,7 @@ Master catalog of all pages in this wiki.
 - [[Liquidity crises on different time scales]] - <!-- AUTHORED REGION START -->
 - [[Liquidity Fluctuations and the Latent Dynamics of Price Impact]] - <!-- AUTHORED REGION START -->
 - [[LiT: limit order book transformer]] - <!-- AUTHORED REGION START -->
+- [[LLMOps]] - <!-- AUTHORED REGION START -->
 - [[LOB Hawkes modeling using processes with a state-dependent factor]] - <!-- AUTHORED REGION START -->
 - [[LOB-Based Deep Learning Models for Stock Price Trend Prediction: A Benchmark Study]] - <!-- AUTHORED REGION START -->
 - [[LOBERT: Generative AI Foundation Model for Limit Order Book Messages]] - <!-- AUTHORED REGION START -->
@@ -421,6 +423,7 @@ Master catalog of all pages in this wiki.
 - [[Marked point processes and intensity ratios for limit order book modeling]] - <!-- AUTHORED REGION START -->
 - [[Market Co-movement Between Credit Default Swap Curves and Option Volatility Surfaces]] - <!-- AUTHORED REGION START -->
 - [[Market making by an FX dealer: tiers, pricing ladders and hedging rates]] - <!-- AUTHORED REGION START -->
+- [[Mastering LLM Applications with LangChain and Hugging Face]] - <!-- AUTHORED REGION START -->
 - [[Math and Architectures of Deep Learning]] - <!-- AUTHORED REGION START -->
 - [[Mathematical Engineering of Deep Learning]] - <!-- AUTHORED REGION START -->
 - [[Measuring Credit-Spread Risk on a Single Issuer Basis]] - <!-- AUTHORED REGION START -->
@@ -529,6 +532,7 @@ Master catalog of all pages in this wiki.
 - [[Properties of Realized Variance for a Pure Jump Process: Calendar Time Sampling versus Business Time Sampling]] - <!-- AUTHORED REGION START -->
 - [[Public Trader Identity: Adverse Selection and Return Predictability]] - <!-- AUTHORED REGION START -->
 - [[Push-response anomalies in high-frequency S&P 500 price series]] - <!-- AUTHORED REGION START -->
+- [[Python Polars: The Definitive Guide]] - <!-- AUTHORED REGION START -->
 - [[QCR Quarterly Vol. 2007-Q1: Base Correlation Mapping & Trading Event Risk]] - <!-- AUTHORED REGION START -->
 - [[Quantile Processes for Dynamic Risk Modelling in Finance and Insurance]] - <!-- AUTHORED REGION START -->
 - [[Quantum Weighted Moving Average for Predicting Limit Order Book Trends]] - <!-- AUTHORED REGION START -->
@@ -681,6 +685,7 @@ Master catalog of all pages in this wiki.
 
 - [[A. Philip Dawid]]
 - [[Aaditya Ramdas]] `researcher, conformal-prediction, statistics, cmu, sequential-testing`
+- [[Abi Aryan]] `author`
 - [[Abraham Wald]]
 - [[Adam S Richmond]]
 - [[Adam Virgadamo]]
@@ -707,6 +712,7 @@ Master catalog of all pages in this wiki.
 - [[Alvaro Serrano]]
 - [[Amanda Gentzel]]
 - [[Amazon CodeWhisperer]] `ai-engineering, tool`
+- [[Amazon Web Services]] `organization`
 - [[Anastasios N. Angelopoulos]] `researcher, conformal-prediction, uncertainty-quantification, machine-learning`
 - [[Anastasios Tefas]] `researcher, market-microstructure`
 - [[Andre F.T. Martins]] `researcher, nlp, machine-learning, uncertainty-quantification, conformal-prediction`
@@ -724,6 +730,8 @@ Master catalog of all pages in this wiki.
 - [[Antonio Briola]] `researcher, market-microstructure`
 - [[Antonio Farinhas]] `researcher, conformal-prediction, uncertainty-quantification, nlp`
 - [[Antti Ilmanen]]
+- [[Apache Airflow]] `organization`
+- [[Apache Arrow]] `organization`
 - [[Apache Flink]] `ai-engineering, tool`
 - [[Apache Kafka]] `ai-engineering, tool`
 - [[Apache Spark]] `ai-engineering, tool`
@@ -737,6 +745,7 @@ Master catalog of all pages in this wiki.
 - [[Avraam Tsantekidis]] `researcher, market-microstructure`
 - [[Aymeric Dieuleveut]] `researcher, machine-learning, optimization, statistics, conformal-prediction`
 - [[Baiting Chen]] `researcher, conformal-prediction, machine-learning, ucla`
+- [[Bartosz Konieczny]] `author`
 - [[Benjamin Nabarro]]
 - [[Bent Flyvbjerg]]
 - [[BERTopic]] `ai-engineering, tool`
@@ -745,6 +754,7 @@ Master catalog of all pages in this wiki.
 - [[Bodha Bhattacharya]] `creditETF, quantitative-credit, LBO-risk`
 - [[Borek Vasicek]]
 - [[Boyao Wu]] `researcher`
+- [[BPB Publications]] `organization`
 - [[Bruna Skarica]]
 - [[Bruno Scarpa]]
 - [[Bryan Kelly]] `researcher`
@@ -805,6 +815,7 @@ Master catalog of all pages in this wiki.
 - [[David Weinbaum]] `researcher`
 - [[Davide E. Avino]]
 - [[DeepSeek]] `ai-engineering, organization`
+- [[Delta Lake]] `organization`
 - [[Dennis Bams]]
 - [[Dennis Ulmer]] `researcher, conformal-prediction, uncertainty-quantification, nlp`
 - [[Derrick Y Kam]]
@@ -888,6 +899,7 @@ Master catalog of all pages in this wiki.
 - [[Hugging Face]] `ai-engineering, tool`
 - [[Hugging Face Transformers]] `ai-engineering, tool`
 - [[Hugh Chipman]]
+- [[Hunaidkhan Pathan]] `author`
 - [[Hutchin Hill Capital]]
 - [[Ian Cooper]] `ai-engineering, person`
 - [[IBM]] `ai-engineering, organization`
@@ -919,6 +931,7 @@ Master catalog of all pages in this wiki.
 - [[Jennifer Hill]]
 - [[Jerald E. Pinto]]
 - [[Jeremy Turiel]] `researcher, market-microstructure`
+- [[Jeroen Janssens]] `author`
 - [[Jeroen van Zundert]] `researcher, Robeco, corporate-bonds, factor-investing, momentum`
 - [[Jerome Powell]]
 - [[Jesper Rooth]]
@@ -1063,6 +1076,7 @@ Master catalog of all pages in this wiki.
 - [[Naomi Poole]]
 - [[Nathaniel Rosenbaum]]
 - [[National Bureau of Economic Research]]
+- [[Nayankumar Gajjar]] `author`
 - [[Neil Shephard]] `researcher`
 - [[Nelson Jantzen]]
 - [[Neo4j]] `ai-engineering, tool`
@@ -1111,6 +1125,7 @@ Master catalog of all pages in this wiki.
 - [[Philippe Mueller]] `researcher`
 - [[Pierre Collin-Dufresne]]
 - [[Pierre Pinson]]
+- [[Polars]] `organization`
 - [[Purva Pruthi]]
 - [[PyTorch]] `ai-engineering, tool`
 - [[Qi Li]]
@@ -1127,6 +1142,7 @@ Master catalog of all pages in this wiki.
 - [[Richard J. Martin]] `fixed-income, credit-spreads, quantitative-finance`
 - [[Rina Foygel Barber]] `researcher, conformal-prediction, statistics, university-of-chicago`
 - [[RiskMetrics Group]] `organization`
+- [[Ritchie Vink]] `author`
 - [[Rob Thomas]] `ai-engineering, person`
 - [[Robert C. Merton]]
 - [[Robert Carver]]
@@ -1200,6 +1216,7 @@ Master catalog of all pages in this wiki.
 - [[Tabnine]] `ai-engineering, tool`
 - [[Tarek Hamid]]
 - [[Teresa Busjahn]] `ai-engineering, person`
+- [[Thijs Nieuwdorp]] `author`
 - [[Thomas Egan]]
 - [[Thomas J. Sargent]]
 - [[Thomas Pearce]]
@@ -1284,10 +1301,10 @@ Master catalog of all pages in this wiki.
 - [[Adverse Selection]] (29 sources)
 - [[AgACI (Aggregated Adaptive Conformal Inference)]] (2 sources)
 - [[Agent-Based Models]] (1 sources)
-- [[Agentic AI]] (1 sources)
+- [[Agentic AI]] (2 sources)
 - [[Agentic RAG]] (2 sources)
 - [[Aggregate Pattern]] (1 sources)
-- [[AI Agents]] (1 sources)
+- [[AI Agents]] (2 sources)
 - [[AI Capex Funding]] (2 sources)
 - [[AI Disruption of Software Business Models]] (1 sources)
 - [[AI Engineering]] (1 sources)
@@ -1303,6 +1320,7 @@ Master catalog of all pages in this wiki.
 - [[Anytime-Valid Inference]] (4 sources)
 - [[Approximate Factor Models]] (2 sources)
 - [[ARIMA and GARCH Volatility Models]] (1 sources)
+- [[As-of Join]] (1 sources)
 - [[Asian Financial Crisis of 1997]] (1 sources)
 - [[Asset Purchase Programme and Duration Extraction]] (1 sources)
 - [[Association Rule Learning]] (1 sources)
@@ -1325,7 +1343,7 @@ Master catalog of all pages in this wiki.
 - [[Banking Crisis Early Warning Indicators]] (1 sources)
 - [[Base Correlation]] (1 sources)
 - [[Base Rates and Reference-Class Forecasting]] (1 sources)
-- [[Batch vs Online Prediction]] (1 sources)
+- [[Batch vs Online Prediction]] (2 sources)
 - [[Bayesian Additive Regression Trees (BART)]] (1 sources)
 - [[Bayesian Inference]] (1 sources)
 - [[Bayesian Model Averaging]] (3 sources)
@@ -1365,10 +1383,11 @@ Master catalog of all pages in this wiki.
 - [[CDS-Bond Basis]] (13 sources)
 - [[CDS-Implied Volatility]] (1 sources)
 - [[Chain-of-Thought Prompting]] (6 sources)
+- [[Change Data Capture]] (1 sources)
 - [[Chaos Theory and Non-linearity]] (1 sources)
 - [[ChatGPT]] (1 sources)
 - [[Cheapest-to-Deliver Optionality]] (1 sources)
-- [[Chunking]] (2 sources)
+- [[Chunking]] (3 sources)
 - [[Class Imbalance Handling]] (1 sources)
 - [[Class-Conditional Conformal Prediction]] (1 sources)
 - [[Classification Fine-Tuning]] (1 sources)
@@ -1446,17 +1465,18 @@ Master catalog of all pages in this wiki.
 - [[Curse of Dimensionality]] (1 sources)
 - [[Cypher Query Language]] (1 sources)
 - [[Data Distribution Shift]] (1 sources)
-- [[Data Engineering for ML]] (1 sources)
+- [[Data Engineering for ML]] (3 sources)
 - [[Data Fabric]] (1 sources)
 - [[Data Leakage]] (1 sources)
 - [[Data Poisoning]] (1 sources)
 - [[Dataset Engineering]] (1 sources)
 - [[Dawid-Sebastiani Score]] (1 sources)
 - [[DCC-MIDAS]] (1 sources)
+- [[Dead-Letter Pattern]] (1 sources)
 - [[Dealer Networks]] (1 sources)
 - [[Debt Overhang and Balance-Sheet Recession]] (1 sources)
 - [[Decision Trees]] (1 sources)
-- [[Decoding Strategies]] (1 sources)
+- [[Decoding Strategies]] (2 sources)
 - [[Deep Learning for Finance]] (70 sources)
 - [[Default Rates]] (10 sources)
 - [[Deflation trap]] (1 sources)
@@ -1471,7 +1491,7 @@ Master catalog of all pages in this wiki.
 - [[Disposition Effect]] (2 sources)
 - [[Distance to Default]] (2 sources)
 - [[Distressed Exchange]] (3 sources)
-- [[Distribution Drift]] (3 sources)
+- [[Distribution Drift]] (4 sources)
 - [[Distributional Conformal Prediction]] (1 sources)
 - [[Distributionally Robust Optimization]] (1 sources)
 - [[do-operator and do-calculus]] (1 sources)
@@ -1494,7 +1514,7 @@ Master catalog of all pages in this wiki.
 - [[ECDF Aggregation]] (1 sources)
 - [[Efficient Importance Sampling]] (1 sources)
 - [[Elasticity]] (1 sources)
-- [[Embeddings]] (3 sources)
+- [[Embeddings]] (4 sources)
 - [[Empirical evaluation of causal inference methods]] (1 sources)
 - [[EnbPI (Ensemble batch Prediction Intervals)]] (3 sources)
 - [[Energy Score]] (2 sources)
@@ -1530,21 +1550,21 @@ Master catalog of all pages in this wiki.
 - [[False Discovery Rate]] (5 sources)
 - [[Fama-French Factors]] (2 sources)
 - [[Fast Mean Reversion]] (1 sources)
-- [[Feature Engineering]] (57 sources)
+- [[Feature Engineering]] (58 sources)
 - [[Feature Store]] (1 sources)
 - [[Feedback Loops]] (2 sources)
 - [[Few-Shot Learning]] (2 sources)
 - [[Few-shot Prompting]] (2 sources)
 - [[Fill Probability]] (4 sources)
 - [[Financial conditions]] (1 sources)
-- [[Fine-Tuning]] (1 sources)
+- [[Fine-Tuning]] (3 sources)
 - [[Fissler-Ziegel Loss]] (1 sources)
 - [[Flexible Least Squares]] (2 sources)
 - [[Flow Decomposition]] (6 sources)
 - [[Forecast Scaling and Combination]] (1 sources)
 - [[Forward Rate]] (7 sources)
 - [[Foundation Model]] (1 sources)
-- [[Foundation Models]] (1 sources)
+- [[Foundation Models]] (2 sources)
 - [[Four-Way Effect Decomposition]] (1 sources)
 - [[Fractional Kelly Position Sizing]] (1 sources)
 - [[Fractional-Reserve Banking]] (1 sources)
@@ -1585,7 +1605,7 @@ Master catalog of all pages in this wiki.
 - [[Group-Balanced Conformal Prediction]] (1 sources)
 - [[Growing-Block / Unreality of the Future]] (1 sources)
 - [[Half-Life of Adjustment]] (1 sources)
-- [[Hallucination]] (1 sources)
+- [[Hallucination]] (2 sources)
 - [[Hallucination as a Security Risk]] (1 sources)
 - [[Hawkes Processes]] (18 sources)
 - [[Hazard Rate Curve]] (2 sources)
@@ -1607,6 +1627,7 @@ Master catalog of all pages in this wiki.
 - [[Hybrid Search]] (2 sources)
 - [[Hyperscaler-Data Center Bond Relative Value]] (1 sources)
 - [[Iceberg Model]] (1 sources)
+- [[Idempotent Data Pipeline]] (1 sources)
 - [[Identifiability Conditions]] (2 sources)
 - [[Illiquidity Premium]] (2 sources)
 - [[Imaging]] (1 sources)
@@ -1615,7 +1636,7 @@ Master catalog of all pages in this wiki.
 - [[In-Context Learning]] (2 sources)
 - [[Incomplete-Markets Heterogeneous-Agent (Bewley) Models]] (1 sources)
 - [[Index Reconstitution]] (2 sources)
-- [[Inference Optimization]] (1 sources)
+- [[Inference Optimization]] (2 sources)
 - [[Information Ratio]] (2 sources)
 - [[Informed Trading]] (47 sources)
 - [[Input-Output Analysis]] (1 sources)
@@ -1640,7 +1661,7 @@ Master catalog of all pages in this wiki.
 - [[Kalman Filter]] (2 sources)
 - [[Kalman Filter State-Space Estimation]] (1 sources)
 - [[Kernel Methods]] (4 sources)
-- [[Knowledge Graph]] (1 sources)
+- [[Knowledge Graph]] (2 sources)
 - [[Knowledge Graph Construction]] (1 sources)
 - [[Knowledge Lake]] (1 sources)
 - [[KOWCPI]] (1 sources)
@@ -1648,15 +1669,17 @@ Master catalog of all pages in this wiki.
 - [[Kyle's Lambda]] (3 sources)
 - [[Ladder of Causation]] (1 sources)
 - [[Lagrange Multipliers Method]] (1 sources)
-- [[LangChain]] (2 sources)
+- [[LangChain]] (3 sources)
 - [[LangGraph]] (1 sources)
 - [[LangSmith]] (1 sources)
 - [[Language Model Pretraining]] (1 sources)
 - [[Large Language Model]] (1 sources)
-- [[Large Language Models]] (1 sources)
+- [[Large Language Models]] (2 sources)
+- [[Late Data Watermark]] (1 sources)
 - [[Latent Implementation Bias]] (1 sources)
 - [[Law of Active Management]] (1 sources)
 - [[Layer Normalization]] (1 sources)
+- [[Lazy Evaluation]] (1 sources)
 - [[LBO Risk]] (2 sources)
 - [[Learn Then Test]] (2 sources)
 - [[Lee-Carter Model]] (2 sources)
@@ -1674,14 +1697,15 @@ Master catalog of all pages in this wiki.
 - [[Liquidity Scoring Mechanism]] (1 sources)
 - [[LLM Agent]] (1 sources)
 - [[LLM Application Architecture]] (1 sources)
-- [[LLM Evaluation]] (1 sources)
-- [[LLM Hallucination]] (1 sources)
-- [[LLM Memory]] (1 sources)
-- [[LLM Sampling Controls]] (1 sources)
+- [[LLM Evaluation]] (3 sources)
+- [[LLM Hallucination]] (2 sources)
+- [[LLM Memory]] (2 sources)
+- [[LLM Sampling Controls]] (2 sources)
 - [[LLM Supply Chain Security]] (1 sources)
 - [[LLM Workflows]] (1 sources)
 - [[LLM-as-a-Judge]] (2 sources)
 - [[LLM-as-Judge]] (1 sources)
+- [[LLMOps]] (1 sources)
 - [[Local Average Treatment Effect (LATE)]] (1 sources)
 - [[Log-Periodic Power Law Market Model]] (1 sources)
 - [[Logarithmic Score]] (1 sources)
@@ -1731,7 +1755,7 @@ Master catalog of all pages in this wiki.
 - [[Minimum Variance Portfolio]] (1 sources)
 - [[Missing Data Imputation]] (1 sources)
 - [[Mixed-Frequency Data]] (1 sources)
-- [[ML Monitoring and Observability]] (1 sources)
+- [[ML Monitoring and Observability]] (2 sources)
 - [[ML System Design]] (1 sources)
 - [[Model Compression]] (1 sources)
 - [[Model Offline Evaluation]] (1 sources)
@@ -1776,6 +1800,7 @@ Master catalog of all pages in this wiki.
 - [[One-Factor Term Structure Model]] (1 sources)
 - [[Online Conformal Prediction]] (6 sources)
 - [[Ontology]] (1 sources)
+- [[Open-Weight Models]] (1 sources)
 - [[OpenAI API]] (1 sources)
 - [[Optimal Execution]] (12 sources)
 - [[Optimum Score Estimation]] (1 sources)
@@ -1795,7 +1820,7 @@ Master catalog of all pages in this wiki.
 - [[Panel Data Fixed/Random Effects]] (1 sources)
 - [[Panel Intensity Models]] (1 sources)
 - [[Panel Vector Autoregression]] (2 sources)
-- [[Parameter-Efficient Fine-Tuning]] (2 sources)
+- [[Parameter-Efficient Fine-Tuning]] (4 sources)
 - [[Parameter-Efficient Finetuning]] (1 sources)
 - [[Parent Document Retrieval]] (1 sources)
 - [[Particle Filter]] (2 sources)
@@ -1813,7 +1838,7 @@ Master catalog of all pages in this wiki.
 - [[Program Slicing]] (1 sources)
 - [[Project Finance Data Center Bonds]] (1 sources)
 - [[Prompt Assembly]] (1 sources)
-- [[Prompt Engineering]] (6 sources)
+- [[Prompt Engineering]] (8 sources)
 - [[Prompt Injection]] (4 sources)
 - [[Propagator Model]] (3 sources)
 - [[Propensity Score]] (2 sources)
@@ -1827,6 +1852,7 @@ Master catalog of all pages in this wiki.
 - [[Quantitative Tightening]] (8 sources)
 - [[Quantum-Safe Cryptography]] (1 sources)
 - [[Quasi-Experimental Design]] (1 sources)
+- [[Query Pushdown Optimization]] (1 sources)
 - [[Queue Imbalance]] (7 sources)
 - [[RAG Evaluation]] (2 sources)
 - [[Ramsey Optimal Taxation]] (1 sources)
@@ -1861,7 +1887,7 @@ Master catalog of all pages in this wiki.
 - [[Resilience, Self-Organization, and Hierarchy]] (1 sources)
 - [[Resource Description Framework]] (1 sources)
 - [[Responsible AI]] (1 sources)
-- [[Retrieval-Augmented Generation]] (10 sources)
+- [[Retrieval-Augmented Generation]] (12 sources)
 - [[RFQ Markets]] (3 sources)
 - [[Right Tail Hedging]] (1 sources)
 - [[Risk Parity]] (1 sources)
@@ -1882,7 +1908,7 @@ Master catalog of all pages in this wiki.
 - [[Search and Matching Theory of Unemployment]] (1 sources)
 - [[Search and Optimization Methods]] (1 sources)
 - [[Segmented Regression]] (1 sources)
-- [[Self-Attention]] (2 sources)
+- [[Self-Attention]] (3 sources)
 - [[Self-Consistency]] (1 sources)
 - [[Self-Stabilizing Inflation Regime]] (1 sources)
 - [[Semantic Embeddings]] (1 sources)
@@ -1914,7 +1940,7 @@ Master catalog of all pages in this wiki.
 - [[Spread]] (3 sources)
 - [[Spread Per Turn of Leverage]] (1 sources)
 - [[Square-Root Law of Market Impact]] (9 sources)
-- [[State-Space Models]] (1 sources)
+- [[State-Space Models]] (2 sources)
 - [[Stationarity]] (1 sources)
 - [[Statistical Arbitrage]] (7 sources)
 - [[Step-Back Prompting]] (2 sources)
@@ -1960,7 +1986,7 @@ Master catalog of all pages in this wiki.
 - [[Tick (Pinball) Loss]] (1 sources)
 - [[Time-Varying Regression]] (2 sources)
 - [[Token Embeddings]] (2 sources)
-- [[Tokenization]] (2 sources)
+- [[Tokenization]] (3 sources)
 - [[Tool Calling]] (1 sources)
 - [[Tool Use]] (1 sources)
 - [[TRACE Data]] (1 sources)
@@ -1969,7 +1995,8 @@ Master catalog of all pages in this wiki.
 - [[Trader Clustering]] (5 sources)
 - [[Training-Serving Skew]] (1 sources)
 - [[Transductive Learning]]
-- [[Transformers]] (21 sources)
+- [[Transfer Learning]] (1 sources)
+- [[Transformers]] (23 sources)
 - [[Tree of Thoughts]] (1 sources)
 - [[Trend Following]] (7 sources)
 - [[Trust Boundaries]] (1 sources)
@@ -1991,7 +2018,7 @@ Master catalog of all pages in this wiki.
 - [[Vector Error Correction Model]] (1 sources)
 - [[Vector Indexing]] (1 sources)
 - [[Vector Similarity Search]] (1 sources)
-- [[Vector Store]] (1 sources)
+- [[Vector Store]] (2 sources)
 - [[Venn Predictors]] (2 sources)
 - [[Volatility Risk Premia (VIRP)]] (3 sources)
 - [[Volatility Smirk as Informed-Trading Signal]] (3 sources)
@@ -2035,10 +2062,10 @@ Master catalog of all pages in this wiki.
 ---
 
 **Stats**
-- Total sources: 654
-- Total entities: 591
-- Total concepts: 739
+- Total sources: 658
+- Total entities: 604
+- Total concepts: 749
 - Total analyses: 9
 - Total contradictions: 1
-- **Total pages: 1994**
-- Last updated: 2026-10-05
+- **Total pages: 2021**
+- Last updated: 2026-10-07
