@@ -1,21 +1,22 @@
 ---
-title: Pandas
+content_hash: sha256:1e6d59bf561bcd973003c517aeeb9be2ad4115b0c56f341e4a29dd6f4610f943
+created: '2026-05-17T16:44:06Z'
+entity_type: tool
+mind_map_priority: medium
 page_id: entities/pandas
 page_type: entity
-entity_type: tool
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+revision_id: 2
+schema_version: 2
+sources:
+- sources/nelson-2024-swe-for-data-scientists
+- sources/janssens-2025-python-polars-definitive-guide
 tags:
 - ai-engineering
 - tool
-sources:
-- sources/nelson-2024-swe-for-data-scientists
-mind_map_priority: medium
-schema_version: 2
+title: Pandas
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: dc10a097-3388-5b4b-9700-46585e683fd6
-content_hash: sha256:59ba2903c52747ebd738906a5c6a10671fe29aff640a301488171f9c6b022dc8
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,4 +32,7 @@ Core Python data analysis library used throughout the book's examples (CSV loadi
 
 - [[sources/nelson-2024-swe-for-data-scientists|Software Engineering for Data Scientists]]
 
+## Papers in This Wiki
+
+- [[sources/janssens-2025-python-polars-definitive-guide|Python Polars: The Definitive Guide]]
 <!-- AUTHORED REGION END -->

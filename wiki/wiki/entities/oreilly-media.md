@@ -1,15 +1,13 @@
 ---
-title: O'Reilly Media
+affiliation: Sebastopol, CA
+content_hash: sha256:6884cada9be5ec698488c7c445b1e51a62ceb84f20ca88039b5e086664738151
+created: '2026-05-17T16:44:06Z'
+entity_type: organization
+mind_map_priority: high
 page_id: entities/oreilly-media
 page_type: entity
-entity_type: organization
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- organization
+revision_id: 2
+schema_version: 2
 sources:
 - sources/berryman-2024-prompt-engineering-llms
 - sources/hermans-2024-code-reading-in-practice
@@ -17,11 +15,16 @@ sources:
 - sources/huyen-2025-ai-engineering
 - sources/nelson-2024-swe-for-data-scientists
 - sources/oshin-2025-learning-langchain
-mind_map_priority: high
-affiliation: Sebastopol, CA
-schema_version: 2
+- sources/aryan-2025-llmops
+- sources/janssens-2025-python-polars-definitive-guide
+- sources/konieczny-2025-data-engineering-design-patterns
+tags:
+- ai-engineering
+- organization
+title: O'Reilly Media
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: f5979a18-d37d-51f9-a130-aaa799dbc613
-content_hash: sha256:aed944960e70cdc4ffa08f9c26ce9ccc98842947921b6b3a56f351d1b0f06aae
 ---
 
 <!-- AUTHORED REGION START -->
@@ -44,4 +47,9 @@ Publisher of the book; first edition released December 2024 with 2025 copyright 
 - [[sources/nelson-2024-swe-for-data-scientists|Software Engineering for Data Scientists]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
 
+## Papers in This Wiki
+
+- [[sources/konieczny-2025-data-engineering-design-patterns|Data Engineering Design Patterns]]
+- [[sources/janssens-2025-python-polars-definitive-guide|Python Polars: The Definitive Guide]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 <!-- AUTHORED REGION END -->

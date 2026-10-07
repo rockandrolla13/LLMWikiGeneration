@@ -1,27 +1,29 @@
 ---
-title: Databricks
+content_hash: sha256:51bcdd586a819547e2711f8297855e7d290bdd345a324aaedbfa8fb7f3ca985e
+created: 2026-08-06 00:00:00+00:00
+entity_type: organization
+mind_map_priority: low
 page_id: entities/databricks
 page_type: entity
-revision_id: 1
-entity_type: organization
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related: []
+revision_id: 2
+schema_version: 2
+sources:
+- sources/girten-2024-building-modern-data-databricks
+- sources/databricks-spark-knowledge-base
+- sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
+- sources/alhussein-2024-databricks-certified-data-engineer
+- sources/pathan-2025-mastering-llm-applications-langchain
 tags:
 - data-platform
 - spark
 - lakehouse
 - data-governance
 - data-engineering
-sources:
-- sources/girten-2024-building-modern-data-databricks
-- sources/databricks-spark-knowledge-base
-- sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
-- sources/alhussein-2024-databricks-certified-data-engineer
-related: []
-mind_map_priority: low
-schema_version: 2
+title: Databricks
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 613fbdfb-91d1-5f65-af2c-456218e052d8
-content_hash: sha256:a5f53f6bec6b6f10a5ec4850eacc6a959b8b3edc09d88aae57d4c95e08140dc8
 ---
 
 <!-- AUTHORED REGION START -->
@@ -47,4 +49,7 @@ These are vendor-oriented practitioner books, not independent evaluations. They 
 
 [[sources/girten-2024-building-modern-data-databricks|Building Modern Data Applications Using Databricks Lakehouse]] · [[sources/databricks-spark-knowledge-base|Databricks Spark Knowledge Base]]
 
+## Papers in This Wiki
+
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 <!-- AUTHORED REGION END -->

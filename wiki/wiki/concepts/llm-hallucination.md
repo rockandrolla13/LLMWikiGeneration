@@ -1,20 +1,21 @@
 ---
-title: LLM Hallucination
+content_hash: sha256:0493eb7b5edc17e5c10be68936327046a94a73e3c51c1c39b1e1b654c6fac239
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/llm-hallucination
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/mendelevitch-2025-hands-on-rag
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/aryan-2025-llmops
+tags:
+- ai-engineering
+title: LLM Hallucination
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 30869772-a48a-5b29-81e7-c99a819aa9c9
-content_hash: sha256:0c39a654bc22e4e80e228f38cef52e36b2affe6e65f82dc1aae22a53412c0360
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ Generation by a language model of content that is unsupported by either world kn
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/mendelevitch-2025-hands-on-rag|Hands-On RAG for Production]]
 
 <!-- AUTHORED REGION END -->

@@ -1,24 +1,25 @@
 ---
-title: Large Language Models
+content_hash: sha256:0ac00d0ce212db84fda064394ab3194b6f4b55a77b4c8f9225d1c80720ddfcd6
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/large-language-models
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/self-attention
+- concepts/transformers
+revision_id: 2
+schema_version: 2
+sources:
+- sources/caelen-2023-developing-apps-gpt4
+- sources/aryan-2025-llmops
 tags:
 - ai-engineering
 - self-attention
 - transformers
-sources:
-- sources/caelen-2023-developing-apps-gpt4
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Large Language Models
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: f8a3771f-6edb-5672-bed1-1acd5d50ed30
-content_hash: sha256:0ef0215b3fb40f984cba92be4ba65c364c14e35f0174529ba45697a57bb1aea1
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +31,7 @@ Transformer-based deep learning models trained on massive text corpora to recogn
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/caelen-2023-developing-apps-gpt4|Developing Apps with GPT-4 and ChatGPT]]
 
 ## Related Concepts

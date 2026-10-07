@@ -1,20 +1,21 @@
 ---
-title: LLM Memory
+content_hash: sha256:66494dcadfab45f2d6a5ddc3528e4aec0d8927f0864992535e7fa9ceddcb3f4d
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/llm-memory
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/oshin-2025-learning-langchain
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/aryan-2025-llmops
+tags:
+- ai-engineering
+title: LLM Memory
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: a0840313-c1b3-5dd9-98c0-a53965ffd81d
-content_hash: sha256:8555419e6704c6cd0199a987aea1e20723ccbfcd79ac28063593b59750c77f72
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ Mechanisms for giving stateless LLMs persistent context across turns and session
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
 
 <!-- AUTHORED REGION END -->

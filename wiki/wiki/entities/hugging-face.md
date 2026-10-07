@@ -1,23 +1,25 @@
 ---
-title: Hugging Face
+content_hash: sha256:1fd7d6a59510aa482fd5f95c85f6d25dc50ee0beec821adea4c14ece4f9957e2
+created: '2026-05-17T16:44:06Z'
+entity_type: tool
+mind_map_priority: high
 page_id: entities/hugging-face
 page_type: entity
-entity_type: tool
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- tool
+revision_id: 2
+schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
 - sources/huyen-2025-ai-engineering
 - sources/thomas-2025-ai-value-creators
-mind_map_priority: high
-schema_version: 2
+- sources/aryan-2025-llmops
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+- tool
+title: Hugging Face
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 0c6b8f98-81e4-57d0-bd04-1f69b6b1c3af
-content_hash: sha256:baa399d3aeecea9eeee83f5ed6752d61ef4a26a0f79a5c159ca0830a7a82b3a5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -35,4 +37,8 @@ Listed among framework developers interviewed for the book; central platform for
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
 
+## Papers in This Wiki
+
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 <!-- AUTHORED REGION END -->

@@ -1,20 +1,21 @@
 ---
-title: LLM Sampling Controls
+content_hash: sha256:8af1b90d8267a28aeab9aeb739a9e7f5ca22424574376b83e07ea10500d5fa1b
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/llm-sampling-controls
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/boonstra-2024-google-prompt-engineering
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+title: LLM Sampling Controls
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 4aa80d2a-a5d3-5ab7-ace6-63d9091006cb
-content_hash: sha256:63bcb165b45afbfbb678ba525a9778f6a8c61cad0c7c6777c9b0523f45762921
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ Decoding configuration parameters - temperature, top-K, and top-P (nucleus sampl
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/boonstra-2024-google-prompt-engineering|Prompt Engineering]]
 
 <!-- AUTHORED REGION END -->

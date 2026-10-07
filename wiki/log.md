@@ -29,3 +29,9 @@ Ready to ingest sources.
 Ingested 12 papers from `raw/capital-structure-arbitrage/` (capital structure arbitrage). Created 55 pages, updated 66.
 
 Operation ID: op_225eb9cd3c09
+
+## 2026-10-07T18:46:39Z batch_ingest
+
+Ingested 4 books from `wiki/raw/ai-engineering/` (AI ENGINEERING folder). Created 27 pages, updated 40. The Databricks study guide page gained its converted text.
+
+Operation ID: op_9a030901d060

@@ -1,8 +1,8 @@
 ---
-content_hash: sha256:f7fb11a2c78507429648d7fe18acf65b19d5790dc6eecfe0ad19be1842881935
+content_hash: sha256:21874c1a8c0006294653b954609d4f4b5d90002c8dce796098e4aa0878698eed
 page_id: concepts/transformers
 page_type: concept
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
@@ -26,12 +26,14 @@ sources:
 - sources/shabani-2022-multi-head-temporal-attention-augmented-bilinear
 - sources/xiao-2025-lit-limit-order-book-transformer
 - sources/yang-2025-efficient-deep-learning-model-predict-stock
+- sources/aryan-2025-llmops
+- sources/pathan-2025-mastering-llm-applications-langchain
 tags:
 - architecture
 - deep-learning
 title: Transformers
-updated: '2026-09-27T01:47:00Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: def5c8e1-07f2-58b8-b829-7ec9ded65596
 ---
 
@@ -54,6 +56,8 @@ Foundation for BERT, GPT, and all modern LLMs.
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[attention-paper]]
 
 ## See Also (AI Engineering batch)

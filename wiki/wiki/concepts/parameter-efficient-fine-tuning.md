@@ -1,23 +1,25 @@
 ---
-title: Parameter-Efficient Fine-Tuning
+content_hash: sha256:f08ca5b3f0fc9e8c265a8d2aca98374ca130c6322fafc204a7dfab86d6686c79
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/parameter-efficient-fine-tuning
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- transformers
+related:
+- concepts/transformers
+revision_id: 2
+schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
 - sources/thomas-2025-ai-value-creators
-related:
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+- sources/aryan-2025-llmops
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+- transformers
+title: Parameter-Efficient Fine-Tuning
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 65c13e33-cfa6-58ac-9d35-082d480b8f50
-content_hash: sha256:bc2495aa970c33dbd6462c0518871e0521b96e1f08a01ed8bdc5dec8038e3e9a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +31,8 @@ A family of techniques (LoRA, adapters, prompt-tuning, InstructLab-style alignme
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/alammar-2024-hands-on-llm|Hands-On Large Language Models]]
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
 

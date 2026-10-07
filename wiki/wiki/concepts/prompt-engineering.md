@@ -1,15 +1,14 @@
 ---
-title: Prompt Engineering
+content_hash: sha256:383b5580290875efb68bbe5cb2df758a7714d5d63bc9b50f54aca532c17f6cb9
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: high
 page_id: concepts/prompt-engineering
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- self-attention
-- transformers
+related:
+- concepts/self-attention
+- concepts/transformers
+revision_id: 2
+schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
 - sources/berryman-2024-prompt-engineering-llms
@@ -17,13 +16,16 @@ sources:
 - sources/caelen-2023-developing-apps-gpt4
 - sources/huyen-2025-ai-engineering
 - sources/taulli-2024-ai-assisted-programming
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: high
-schema_version: 2
+- sources/aryan-2025-llmops
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+- self-attention
+- transformers
+title: Prompt Engineering
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 4c0d3dad-d59f-5f9e-beb3-ba42b8cfd477
-content_hash: sha256:3c362186401817a37033003f5f0087eab45c9cf7d101b043f83c3be48ae8b122
 ---
 
 <!-- AUTHORED REGION START -->
@@ -35,6 +37,8 @@ The practice of designing, iterating on, and defending inputs to foundation mode
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/alammar-2024-hands-on-llm|Hands-On Large Language Models]]
 - [[sources/berryman-2024-prompt-engineering-llms|Prompt Engineering for LLMs]]
 - [[sources/boonstra-2024-google-prompt-engineering|Prompt Engineering]]

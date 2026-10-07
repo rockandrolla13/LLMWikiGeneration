@@ -1,15 +1,14 @@
 ---
-title: Retrieval-Augmented Generation
+content_hash: sha256:24c4079cba18459404450498a074d0e38404992c41d7bc1c25a4a724453c4d07
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: high
 page_id: concepts/retrieval-augmented-generation
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- self-attention
-- transformers
+related:
+- concepts/self-attention
+- concepts/transformers
+revision_id: 2
+schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
 - sources/anon-2024-vector-databases-rag
@@ -21,13 +20,16 @@ sources:
 - sources/oshin-2025-learning-langchain
 - sources/taulli-2024-ai-assisted-programming
 - sources/thomas-2025-ai-value-creators
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: high
-schema_version: 2
+- sources/aryan-2025-llmops
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+- self-attention
+- transformers
+title: Retrieval-Augmented Generation
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 036ffd72-a47c-5151-b394-2825ba398afd
-content_hash: sha256:4ffb521040646c3f06beee00c7de67a6c8805cfe88b117c7d688394d807a6423
 ---
 
 <!-- AUTHORED REGION START -->
@@ -39,6 +41,8 @@ An architectural pattern that augments large language models with real-time retr
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/alammar-2024-hands-on-llm|Hands-On Large Language Models]]
 - [[sources/anon-2024-vector-databases-rag|Utilizing Vector Databases to Enhance RAG Models]]
 - [[sources/berryman-2024-prompt-engineering-llms|Prompt Engineering for LLMs]]

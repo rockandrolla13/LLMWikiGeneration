@@ -1,14 +1,18 @@
 ---
-title: Databricks Certified Data Engineer Associate Study Guide
+authors:
+- Derar Alhussein
+content_hash: sha256:debbf07f4596471608e20aa33362d05b394f902616765acb4a0f7e52b50c85e1
+created: 2026-06-19 00:00:00+00:00
+mind_map_priority: medium
 page_id: sources/alhussein-2024-databricks-certified-data-engineer
 page_type: source
-verification:
-  status: unverified
-  unverified_claims: 1
-revision_id: 1
-created: 2026-06-19 00:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-updated_by: batch_ingest_technical_books_2026_06_19
+related: []
+revision_id: 2
+schema_version: 2
+source_path: markdown_output/alhussein-2024-databricks-certified-data-engineer.md
+source_type: book
+sources:
+- sources/alhussein-2024-databricks-certified-data-engineer
 tags:
 - databricks
 - data-engineering
@@ -16,26 +20,23 @@ tags:
 - delta-lake
 - spark
 - data-lakehouse
-sources:
-- sources/alhussein-2024-databricks-certified-data-engineer
-related: []
-mind_map_priority: medium
-authors:
-- Derar Alhussein
-year: 2024
-source_type: book
-schema_version: 2
+title: Databricks Certified Data Engineer Associate Study Guide
+updated: '2026-10-07T18:45:27Z'
+updated_by: ai-engineering-books-2026-10-07
 uuid: 2be04b5a-2403-572f-9f0d-4335fe12ae3e
-content_hash: sha256:40ff840e5dbcd05c40170ad961e37eda21a137ace7e24a569b5335283bcc9c3d
+verification:
+  status: unverified
+  unverified_claims: 1
+year: 2025
 ---
 
 <!-- AUTHORED REGION START -->
 # Databricks Certified Data Engineer Associate Study Guide
 
 **Authors:** Derar Alhussein  
-**Year:** 2024  
+**Year:** 2025 (copyright 2025; first release 2025-02-14. The page name keeps the 2024 of the original ingest so links still resolve.)  
 **Type:** book  
-**Markdown source:** none retained. This page was written by a 2026-06-19 batch ingest that recorded `markdown_output/alhussein-2024-databricks-certified-data-engineer.md`, which was never produced. Claims here are not machine-checkable until the document is converted.
+**Markdown source:** `markdown_output/alhussein-2024-databricks-certified-data-engineer.md`, converted from the EPUB on 2026-10-07. The specific claims on this page (Runtime 13.3 LTS, exam V3, cloud-agnostic scope, the two technical reviewers, the author's decade of experience) were checked against it.
 ## Summary
 
 Databricks Certified Data Engineer Associate Study Guide (O'Reilly, February 2025) by Derar Alhussein is an exam-preparation and practical reference book for the Databricks Data Engineer Associate certification (V3). Drawing on the author's ten-plus years in the data sector, the book covers the Databricks Data Intelligence Platform — an AI-powered data lakehouse built on Apache Spark — through five exam-aligned topic areas: the lakehouse architecture, ELT with Spark SQL and Python, incremental data processing, production pipelines (Delta Live Tables and Databricks Jobs), and data governance (Hive metastore and Unity Catalog). Each chapter closes with sample exam questions whose solutions appear in the appendix. The book targets readers with solid SQL foundations and basic Python familiarity who want to earn the Associate certification and build day-to-day Databricks engineering skills; it deliberately excludes cloud-provider-specific configurations (AWS, Azure, GCP) since the exam is cloud-agnostic. Code examples are hosted on GitHub and are tested against Databricks Runtime 13.3 LTS on classical (non-serverless) compute.

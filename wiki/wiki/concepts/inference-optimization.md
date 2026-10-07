@@ -1,20 +1,21 @@
 ---
-title: Inference Optimization
+content_hash: sha256:cb63083056b3ccad7838fe737404d6febd4e06917e982ce1ad009a8003d176b6
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/inference-optimization
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/huyen-2025-ai-engineering
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/aryan-2025-llmops
+tags:
+- ai-engineering
+title: Inference Optimization
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: a7dcc9d0-4007-57c8-b359-8e7f9ba0747b
-content_hash: sha256:3d4fe90a4c01f3750be7f165143b9c578468806f669ae68161d211458145f7a6
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ Techniques for reducing the latency, cost, and resource footprint of foundation-
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 
 <!-- AUTHORED REGION END -->

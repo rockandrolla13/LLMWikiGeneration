@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:d6ecd1b51868463c5bdc719d49f26989f9e69c7cfbabae3c21b0ab398d14a88e
+content_hash: sha256:a8470356d35830ecc8c54c1baa316f022823293a7e9f80190c6e3091d7197ce6
 created: '2026-05-17T16:44:06Z'
 mind_map_priority: medium
 page_id: concepts/feature-engineering
@@ -7,7 +7,7 @@ page_type: concept
 related:
 - concepts/automated-alpha-search
 - concepts/splines-and-additive-models
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/huyen-2022-designing-ml-systems
@@ -67,11 +67,12 @@ sources:
 - sources/zhang-2019-deeplob-deep-convolutional-neural-networks-limit
 - sources/zhang-2021-multi-horizon-forecasting-limit-order-books
 - sources/zheng-2022-order-flow-technical-analysis-neural-network
+- sources/janssens-2025-python-polars-definitive-guide
 tags:
 - ai-engineering
 title: Feature Engineering
-updated: '2026-09-27T01:47:00Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: da993880-a1db-59f2-bc03-5f5acc636aa0
 ---
 
@@ -84,6 +85,7 @@ The process of transforming raw data into model inputs through operations such a
 
 ## Sources
 
+- [[sources/janssens-2025-python-polars-definitive-guide|Python Polars: The Definitive Guide]]
 - [[sources/huyen-2022-designing-ml-systems|Designing Machine Learning Systems]]
 
 ## Related (credit-macro ingest, 2026-06-09)
