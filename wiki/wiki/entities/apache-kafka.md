@@ -1,23 +1,24 @@
 ---
-title: Apache Kafka
+affiliation: Confluent
+content_hash: sha256:d60f42e79bb36ccc7c6a28a1365832352f27547f55352c30c41b90c27beb2b47
+created: '2026-05-17T16:44:06Z'
+entity_type: tool
+mind_map_priority: medium
 page_id: entities/apache-kafka
 page_type: entity
-entity_type: tool
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- tool
+revision_id: 2
+schema_version: 2
 sources:
 - sources/barrasa-2023-building-knowledge-graphs
 - sources/huyen-2022-designing-ml-systems
-mind_map_priority: medium
-affiliation: Confluent
-schema_version: 2
+- sources/konieczny-2025-data-engineering-design-patterns
+tags:
+- ai-engineering
+- tool
+title: Apache Kafka
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 3ed7bcb5-a064-5f3b-9c96-0c8aa1afa5db
-content_hash: sha256:3141fbd7432c4468900b7534c245a468c636b37f761094152b645b29cc5fc313
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +37,7 @@ Real-time transport repeatedly referenced for moving fresh data from application
 - [[sources/barrasa-2023-building-knowledge-graphs|Building Knowledge Graphs]]
 - [[sources/huyen-2022-designing-ml-systems|Designing Machine Learning Systems]]
 
+## Papers in This Wiki
+
+- [[sources/konieczny-2025-data-engineering-design-patterns|Data Engineering Design Patterns]]
 <!-- AUTHORED REGION END -->

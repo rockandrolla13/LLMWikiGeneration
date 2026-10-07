@@ -1,20 +1,22 @@
 ---
-title: Data Engineering for ML
+content_hash: sha256:acddedad8a7e5a2a127a3cec264d4f6482d2a9e5c3722e09bbb088c428e7b455
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/data-engineering-for-ml
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/huyen-2022-designing-ml-systems
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/janssens-2025-python-polars-definitive-guide
+- sources/konieczny-2025-data-engineering-design-patterns
+tags:
+- ai-engineering
+title: Data Engineering for ML
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 1489edd7-0e3a-5e0c-a4bb-7071d19fbad8
-content_hash: sha256:c1de46000b25c380cbf537f28755c63517542c33436c2ba4a788c7bebba780b0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +28,8 @@ The discipline of building the pipelines, storage, and dataflow patterns (data s
 
 ## Sources
 
+- [[sources/konieczny-2025-data-engineering-design-patterns|Data Engineering Design Patterns]]
+- [[sources/janssens-2025-python-polars-definitive-guide|Python Polars: The Definitive Guide]]
 - [[sources/huyen-2022-designing-ml-systems|Designing Machine Learning Systems]]
 
 <!-- AUTHORED REGION END -->

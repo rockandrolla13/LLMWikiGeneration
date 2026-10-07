@@ -1,22 +1,23 @@
 ---
-title: Decoding Strategies
+content_hash: sha256:4c3c12dac5e016d85c45223d2e2ca220780681ca840e19a0a89179bd9169347e
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/decoding-strategies
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/transformers
+revision_id: 2
+schema_version: 2
+sources:
+- sources/raschka-2024-build-llm-from-scratch
+- sources/pathan-2025-mastering-llm-applications-langchain
 tags:
 - ai-engineering
 - transformers
-sources:
-- sources/raschka-2024-build-llm-from-scratch
-related:
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Decoding Strategies
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: e195fe84-f098-52cd-aa2f-7573ea62cc9f
-content_hash: sha256:3adfd895c33f28a62318e7075f54bdec216e8b798be48cfbc4b7f995719c083b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -28,6 +29,7 @@ Algorithms for sampling tokens from an LLM's output distribution at inference ti
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/raschka-2024-build-llm-from-scratch|Build a Large Language Model (From Scratch)]]
 
 ## Related Concepts

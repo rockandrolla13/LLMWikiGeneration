@@ -1,21 +1,22 @@
 ---
-title: Microsoft
+content_hash: sha256:e8ff54d54b6a85fccc7a029baaf985df21465878f9a835b39cc0724925f9f32b
+created: '2026-05-17T16:44:06Z'
+entity_type: organization
+mind_map_priority: medium
 page_id: entities/microsoft
 page_type: entity
-entity_type: organization
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+revision_id: 2
+schema_version: 2
+sources:
+- sources/mendelevitch-2025-hands-on-rag
+- sources/aryan-2025-llmops
 tags:
 - ai-engineering
 - organization
-sources:
-- sources/mendelevitch-2025-hands-on-rag
-mind_map_priority: medium
-schema_version: 2
+title: Microsoft
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 2b74efe8-fc79-599f-a0f3-65894b7eb8b7
-content_hash: sha256:534a0a3ff255847358d290641a5a43f1abe302baa361ebe045b8f9c7aeec9b74
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,4 +32,7 @@ Credited as the popularizer of GraphRAG, the knowledge-graph-augmented retrieval
 
 - [[sources/mendelevitch-2025-hands-on-rag|Hands-On RAG for Production]]
 
+## Papers in This Wiki
+
+- [[sources/aryan-2025-llmops|LLMOps]]
 <!-- AUTHORED REGION END -->

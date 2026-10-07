@@ -1,24 +1,25 @@
 ---
-title: Foundation Models
+content_hash: sha256:7f4640319ccdf8814ba70c6f997c61308ba3602d1b68750c09d9b3c8b9e078b4
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/foundation-models
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/self-attention
+- concepts/transformers
+revision_id: 2
+schema_version: 2
+sources:
+- sources/huyen-2025-ai-engineering
+- sources/aryan-2025-llmops
 tags:
 - ai-engineering
 - self-attention
 - transformers
-sources:
-- sources/huyen-2025-ai-engineering
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Foundation Models
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: a924b07d-78a1-56e7-bd44-486299bab5cb
-content_hash: sha256:1826aca4f70333e6fd913d6e641dbe6143bb7c5968e18ca1592d029e1fac72f2
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +31,7 @@ Large, pre-trained models (including LLMs and large multimodal models) that serv
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
 
 ## Related Concepts

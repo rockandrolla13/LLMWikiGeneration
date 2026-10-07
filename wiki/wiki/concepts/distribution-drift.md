@@ -1,29 +1,30 @@
 ---
-title: Distribution Drift
+content_hash: sha256:afd68bc8a2744fde1fc948faf9ad168abccf740f354bd60f54da57abbac9a792
+created: 2026-04-26 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/distribution-drift
 page_type: concept
-revision_id: 1
-created: 2026-04-26 12:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-tags:
-- machine-learning
-- time-series
-- non-stationarity
-- model-monitoring
-sources:
-- sources/farinhas-2024-non-exchangeable-crc
-- sources/huyen-2022-designing-ml-systems
-- sources/zaffran-2022-aci
 related:
 - concepts/exchangeability
 - concepts/conformal-prediction
 - concepts/adaptive-conformal-inference
 - concepts/conformal-risk-control
-mind_map_priority: medium
-updated_by: wiki-batch-ai-engineering-2026-05-17
+revision_id: 2
 schema_version: 2
+sources:
+- sources/farinhas-2024-non-exchangeable-crc
+- sources/huyen-2022-designing-ml-systems
+- sources/zaffran-2022-aci
+- sources/aryan-2025-llmops
+tags:
+- machine-learning
+- time-series
+- non-stationarity
+- model-monitoring
+title: Distribution Drift
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 8d3dac69-b457-55db-9969-492f4740f3a5
-content_hash: sha256:bd43cc36d350494ca9f21458a2bc146689c479bf0241e8201a388a397d327a84
 ---
 
 <!-- AUTHORED REGION START -->
@@ -171,4 +172,7 @@ d_TV(Z, Z^i) ≤ 2 d_TV(Z_i, Z_{n+1})
 <!-- wiki-batch-ai-engineering-2026-05-17 -->
 - [[sources/huyen-2022-designing-ml-systems|huyen-2022-designing-ml-systems]]
 
+## Sources
+
+- [[sources/aryan-2025-llmops|LLMOps]]
 <!-- AUTHORED REGION END -->

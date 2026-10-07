@@ -1,26 +1,27 @@
 ---
-title: Embeddings
+content_hash: sha256:ddf147179da9b8bb3f3aa9bae0d9890284d5282c8daaab6faec6d2db39ef0269
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: high
 page_id: concepts/embeddings
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- self-attention
-- transformers
+related:
+- concepts/self-attention
+- concepts/transformers
+revision_id: 2
+schema_version: 2
 sources:
 - sources/caelen-2023-developing-apps-gpt4
 - sources/mendelevitch-2025-hands-on-rag
 - sources/oshin-2025-learning-langchain
-related:
-- concepts/self-attention
-- concepts/transformers
-mind_map_priority: high
-schema_version: 2
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+- self-attention
+- transformers
+title: Embeddings
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: d2a21a66-9f2f-5241-872e-0a4a9481a03a
-content_hash: sha256:550285d6e94ee285a9d727d69e34ce0ec3b98df7eb0a923a667e6cb8ff2e1740
 ---
 
 <!-- AUTHORED REGION START -->
@@ -32,6 +33,7 @@ Dense vector representations of text (or other modalities) that encode semantic 
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/caelen-2023-developing-apps-gpt4|Developing Apps with GPT-4 and ChatGPT]]
 - [[sources/mendelevitch-2025-hands-on-rag|Hands-On RAG for Production]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:314284a6a9b7541518d70d31be93b4f3cf5bb74f55d82a85cd9627babbf3053a
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: high
 page_id: concepts/state-space-models
@@ -13,19 +14,20 @@ related:
 - concepts/recursive-methods-dynamic-programming
 - concepts/schwartz-smith-model
 - entities/gareth-peters
-revision_id: 3
+revision_id: 4
+schema_version: 2
 sources:
 - sources/he-2024-functional-regression
+- sources/aryan-2025-llmops
 tags:
 - time-series
 - filtering
 - econometrics
 - latent-variables
 title: State-Space Models
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 33dd2113-405d-57e1-b527-e6888e03584f
-content_hash: sha256:47a8ddff96ccb7804a0598fd689ba08bbb4d62f321551a0c199fb31b1f86b53f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -107,4 +109,8 @@ Observe many series, few latent factors:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/beta-mixing-processes|beta-mixing-processes]]
+
+## Sources
+
+- [[sources/aryan-2025-llmops|LLMOps]]
 <!-- AUTHORED REGION END -->

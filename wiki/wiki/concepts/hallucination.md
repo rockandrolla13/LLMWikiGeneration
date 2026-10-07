@@ -1,20 +1,21 @@
 ---
-title: Hallucination
+content_hash: sha256:16c35c39d376c4b52b5ad6d14d9bc7105d1286489824efdca444bf0f729f543f
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/hallucination
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/taulli-2024-ai-assisted-programming
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/pathan-2025-mastering-llm-applications-langchain
+tags:
+- ai-engineering
+title: Hallucination
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 40e36dc0-ff36-58e8-87ea-85ca408956bb
-content_hash: sha256:aed538b2eb70b54bc5fa7676c2c88b9c7bcce8625fa924f701acdc0eb3b56fdc
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ An LLM output that is confidently presented but factually wrong or fabricated â€
 
 ## Sources
 
+- [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/taulli-2024-ai-assisted-programming|AI-Assisted Programming]]
 
 <!-- AUTHORED REGION END -->

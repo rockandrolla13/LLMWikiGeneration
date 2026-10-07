@@ -1,20 +1,21 @@
 ---
-title: Knowledge Graph
+content_hash: sha256:fc43f4b91d580d184edebc7f9762be2541d9114c15a9168f92d9b22c154b58c3
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/knowledge-graph
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related: []
+revision_id: 2
+schema_version: 2
 sources:
 - sources/barrasa-2023-building-knowledge-graphs
-related: []
-mind_map_priority: medium
-schema_version: 2
+- sources/aryan-2025-llmops
+tags:
+- ai-engineering
+title: Knowledge Graph
+updated: '2026-10-07T18:46:39Z'
+updated_by: op_9a030901d060
 uuid: 1c0c333f-324d-5fec-997e-611eb7aca930
-content_hash: sha256:3f23726e6688cfe9448367daeea912db77729ac324d5777fae2039e57ab4268e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -26,6 +27,7 @@ A purposeful arrangement of data in which entities are placed in an associative 
 
 ## Sources
 
+- [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/barrasa-2023-building-knowledge-graphs|Building Knowledge Graphs]]
 
 <!-- AUTHORED REGION END -->
