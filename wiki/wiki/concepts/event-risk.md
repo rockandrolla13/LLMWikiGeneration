@@ -1,26 +1,28 @@
 ---
-title: Event Risk
+content_hash: sha256:2af39598348e42fd8c40021743cbe64120167b134868915d7646454f913742b7
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/event-risk
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T17:35:34Z'
+related:
+- concepts/lbo-risk
+- concepts/lever-score
+- concepts/credit-spread-curve
+revision_id: 2
+schema_version: 2
+sources:
+- sources/trinh-2006-lever-framework
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - creditETF
 - event-risk
 - LBO
 - corporate-credit
 - credit-strategy
-sources:
-- sources/trinh-2006-lever-framework
-related:
-- concepts/lbo-risk
-- concepts/lever-score
-- concepts/credit-spread-curve
-mind_map_priority: medium
-schema_version: 2
+title: Event Risk
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 60a1a9e8-f26d-5f85-b135-268ca59b1897
-content_hash: sha256:bf68f693b21b69e73ff363a14b5c561b1f287c2c9a5d8b390e378d42f81d9a5b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -57,4 +59,7 @@ The separation matters. Firm-level vulnerability and market-level willingness to
 
 **Not yet written:** `concepts/leveraged-recapitalization`
 
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

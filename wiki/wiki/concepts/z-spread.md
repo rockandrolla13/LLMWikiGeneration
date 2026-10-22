@@ -1,25 +1,27 @@
 ---
-title: Z-Spread
+content_hash: sha256:f1e201e95ca2b88df2c54f1037933cfa38b26bdbea57a999125db4defeb1e90e
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/z-spread
 page_type: concept
-revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/credit-spread-curve
+- concepts/survival-probability
+- concepts/nelson-siegel-model
+revision_id: 2
+schema_version: 2
+sources:
+- sources/martin-2024-credit-curve
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - fixed-income
 - credit-risk
 - bond-pricing
 - spreads
-sources:
-- sources/martin-2024-credit-curve
-related:
-- concepts/credit-spread-curve
-- concepts/survival-probability
-- concepts/nelson-siegel-model
-mind_map_priority: medium
-schema_version: 2
+title: Z-Spread
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 5b2595b9-ff36-5fd7-8c7d-7921270fce7f
-content_hash: sha256:fe135d14d3bf0098e6cec1686354acb248f32c843ec4054a0229593e32393d4f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -69,4 +71,7 @@ The Z-spread captures:
 - [[concepts/survival-probability|Survival Probability]]
 - [[sources/martin-2024-credit-curve|The Credit Curve Spread I (Martin, 2024)]]
 
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

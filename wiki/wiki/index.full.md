@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index (Full)
-updated: '2026-10-07T18:47:02.622603Z'
+updated: '2026-10-22T15:31:41.373447Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-10-07T18:47:02.619983Z
+Generated: 2026-10-22T15:31:41.367466Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:ddecae91361fe75f
+Source hash: sha256:57a85a2d9f81c1e0
 Rebuild with: wiki:rebuild
 -->
 
@@ -476,6 +476,7 @@ Master catalog of all pages in this wiki.
 - [[On the existence of powerful p-values and e-values for composite hypotheses]] - <!-- AUTHORED REGION START -->
 - [[On-line Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models]] - <!-- AUTHORED REGION START -->
 - [[One Size Doesn't Fit All]] - <!-- AUTHORED REGION START -->
+- [[OneScore: Combining Quantitative and Fundamental Views in Credit]] - <!-- AUTHORED REGION START -->
 - [[Online High-Frequency Trading Stock Forecasting with Automated Feature Clustering and Radial Basis Function Neural Networks]] - <!-- AUTHORED REGION START -->
 - [[Online LLM watermark detection via e-processes]] - <!-- AUTHORED REGION START -->
 - [[Online monotone density estimation and log-optimal calibration]] - <!-- AUTHORED REGION START -->
@@ -573,6 +574,7 @@ Master catalog of all pages in this wiki.
 - [[Studying Regime Change using Directional Change]] - <!-- AUTHORED REGION START -->
 - [[Sunday Start | What's Next in Global Macro: A Full-Court Policy Press]] - <!-- AUTHORED REGION START -->
 - [[SVM-Enhanced Filtering Model for Limit Order Book Dynamics]] - <!-- AUTHORED REGION START -->
+- [[Systematic Investing in Credit]] - <!-- AUTHORED REGION START -->
 - [[Systematic Momentum: A New Class of Price Patterns]] - <!-- AUTHORED REGION START -->
 - [[Systematic Trading: A unique new method for designing trading and investing systems]] - <!-- AUTHORED REGION START -->
 - [[Temporal Attention augmented Bilinear Network for Financial Time-Series Data Analysis]] - <!-- AUTHORED REGION START -->
@@ -697,6 +699,7 @@ Master catalog of all pages in this wiki.
 - [[Adrian Pizzinga]] `researcher, kalman-filter, state-space-models, pairs-trading, brazil`
 - [[AHL (Man Group)]]
 - [[Alaph Capital]]
+- [[Albert Desclée]] `researcher`
 - [[Albert Ziegler]] `ai-engineering, person`
 - [[Alec Radford]] `ai-engineering, person`
 - [[Aleksandr Nozhnitskiy]]
@@ -1188,6 +1191,7 @@ Master catalog of all pages in this wiki.
 - [[Shrina B Poojara]]
 - [[Shunyu Yao]] `ai-engineering, person`
 - [[Silvi Mantri]]
+- [[Simon Polbennikov]] `researcher`
 - [[Simon T. Bodilsen]] `researcher`
 - [[Simona Boffelli]] `researcher`
 - [[Simone Formentin]] `researcher, market-microstructure`
@@ -1314,7 +1318,7 @@ Master catalog of all pages in this wiki.
 - [[AI-Assisted Programming]] (1 sources)
 - [[Algorithmic Trading]] (2 sources)
 - [[Alpha (Predictive Trading Signal)]] (13 sources)
-- [[Alpha Correlation and Turnover]] (1 sources)
+- [[Alpha Correlation and Turnover]] (2 sources)
 - [[Amihud Illiquidity]] (3 sources)
 - [[Analyst Forecast Optimism Bias]] (1 sources)
 - [[Anytime-Valid Inference]] (4 sources)
@@ -1327,7 +1331,7 @@ Master catalog of all pages in this wiki.
 - [[Asymmetric Laplace Density]] (1 sources)
 - [[At-At Theory of Causal Influence]] (1 sources)
 - [[Austrian Business Cycle Theory]] (1 sources)
-- [[Autocorrelation in Time Series]] (19 sources)
+- [[Autocorrelation in Time Series]] (20 sources)
 - [[Automated Alpha Search]] (1 sources)
 - [[Automatic Prompt Engineering]] (1 sources)
 - [[Autonomous AI Agents]] (1 sources)
@@ -1352,12 +1356,12 @@ Master catalog of all pages in this wiki.
 - [[Behavioral Finance]] (8 sources)
 - [[Bespoke CDO]] (1 sources)
 - [[Bias-Variance Trade-off and Model Selection]] (1 sources)
-- [[Bid-Ask Spread]] (44 sources)
+- [[Bid-Ask Spread]] (45 sources)
 - [[Block Conformal Prediction (BCP)]] (1 sources)
 - [[Bond CAPM]] (3 sources)
-- [[Bond Index Inclusion Criteria]] (1 sources)
-- [[Bond Liquidity]] (12 sources)
-- [[Bond Market Segmentation]] (3 sources)
+- [[Bond Index Inclusion Criteria]] (2 sources)
+- [[Bond Liquidity]] (13 sources)
+- [[Bond Market Segmentation]] (4 sources)
 - [[Bond Momentum]] (3 sources)
 - [[Bounded Rationality]] (1 sources)
 - [[Bregman Divergence]] (1 sources)
@@ -1369,8 +1373,8 @@ Master catalog of all pages in this wiki.
 - [[Calibration]] (1 sources)
 - [[Canonical Correlation Analysis]] (1 sources)
 - [[Cantillon Effect and Non-Neutrality of Money]] (1 sources)
-- [[Capital Structure Arbitrage]] (8 sources)
-- [[Carry and Rolldown]] (23 sources)
+- [[Capital Structure Arbitrage]] (9 sources)
+- [[Carry and Rolldown]] (24 sources)
 - [[Causal Attention]] (1 sources)
 - [[Causal DAGs and Structural Classification of Bias]] (1 sources)
 - [[Causal Diagram (DAG)]] (1 sources)
@@ -1380,7 +1384,7 @@ Master catalog of all pages in this wiki.
 - [[CDO Tranches]] (1 sources)
 - [[CDS Holding-Period Return]] (1 sources)
 - [[CDS Momentum]] (1 sources)
-- [[CDS-Bond Basis]] (13 sources)
+- [[CDS-Bond Basis]] (14 sources)
 - [[CDS-Implied Volatility]] (1 sources)
 - [[Chain-of-Thought Prompting]] (6 sources)
 - [[Change Data Capture]] (1 sources)
@@ -1429,7 +1433,7 @@ Master catalog of all pages in this wiki.
 - [[Conversational AI]] (1 sources)
 - [[Copula and Sklar's Theorem]] (1 sources)
 - [[Copulas]] (1 sources)
-- [[Corporate Bond Liquidity Premium]] (1 sources)
+- [[Corporate Bond Liquidity Premium]] (2 sources)
 - [[Corporate Bonds]] (38 sources)
 - [[Corporate Credit Debt Bubble]] (1 sources)
 - [[Corporate Credit Fundamentals]] (2 sources)
@@ -1442,25 +1446,25 @@ Master catalog of all pages in this wiki.
 - [[Credibility Theory]] (2 sources)
 - [[Credible Government Policy and Time Consistency]] (1 sources)
 - [[Credit Default Swap Spread]] (10 sources)
-- [[Credit Default Swaps]] (8 sources)
+- [[Credit Default Swaps]] (9 sources)
 - [[Credit growth]] (1 sources)
-- [[Credit Hedge Ratios with Equity Options]] (3 sources)
-- [[Credit Relative Value]] (3 sources)
-- [[Credit Risk Premium]] (3 sources)
-- [[Credit Spread Changes]] (3 sources)
+- [[Credit Hedge Ratios with Equity Options]] (4 sources)
+- [[Credit Relative Value]] (4 sources)
+- [[Credit Risk Premium]] (4 sources)
+- [[Credit Spread Changes]] (4 sources)
 - [[Credit Spread Compression]] (2 sources)
-- [[Credit Spread Curve]] (22 sources)
-- [[Credit Spread Forecasting]] (5 sources)
+- [[Credit Spread Curve]] (23 sources)
+- [[Credit Spread Forecasting]] (6 sources)
 - [[Credit Spread Puzzle]] (3 sources)
 - [[Credit-to-GDP Gap]] (1 sources)
 - [[CreditGrades Model]] (2 sources)
 - [[Crisis Incidence and Real Costs]] (1 sources)
 - [[Crisis Signaling Approach]] (1 sources)
-- [[Cross-Asset Rotation Strategy]] (30 sources)
+- [[Cross-Asset Rotation Strategy]] (31 sources)
 - [[Cross-Conformal Prediction / Jackknife+ / CV+]] (4 sources)
 - [[Cross-Currency Basis Swap]] (1 sources)
 - [[Cross-Impact]] (3 sources)
-- [[Cross-Sectional Momentum]] (5 sources)
+- [[Cross-Sectional Momentum]] (6 sources)
 - [[Currency Exchange Rates and Forecasting]] (1 sources)
 - [[Curse of Dimensionality]] (1 sources)
 - [[Cypher Query Language]] (1 sources)
@@ -1478,7 +1482,7 @@ Master catalog of all pages in this wiki.
 - [[Decision Trees]] (1 sources)
 - [[Decoding Strategies]] (2 sources)
 - [[Deep Learning for Finance]] (70 sources)
-- [[Default Rates]] (10 sources)
+- [[Default Rates]] (11 sources)
 - [[Deflation trap]] (1 sources)
 - [[Demand and Supply Analysis]] (1 sources)
 - [[Dense Retrieval]] (1 sources)
@@ -1503,7 +1507,7 @@ Master catalog of all pages in this wiki.
 - [[Doubly Robust Estimation]] (4 sources)
 - [[DSGE and Threshold BVAR Counterfactual Analysis]] (1 sources)
 - [[DtACI (Dynamically-tuned Adaptive Conformal Inference)]] (2 sources)
-- [[Duration Times Spread (DTS)]] (2 sources)
+- [[Duration Times Spread (DTS)]] (4 sources)
 - [[Dynamic Equicorrelation]] (1 sources)
 - [[Dynamic Factor Model]] (2 sources)
 - [[E-process]] (4 sources)
@@ -1515,6 +1519,7 @@ Master catalog of all pages in this wiki.
 - [[Efficient Importance Sampling]] (1 sources)
 - [[Elasticity]] (1 sources)
 - [[Embeddings]] (4 sources)
+- [[Empirical Duration]] (1 sources)
 - [[Empirical evaluation of causal inference methods]] (1 sources)
 - [[EnbPI (Ensemble batch Prediction Intervals)]] (3 sources)
 - [[Energy Score]] (2 sources)
@@ -1523,6 +1528,8 @@ Master catalog of all pages in this wiki.
 - [[Epps Effect]] (2 sources)
 - [[Epsilon-Operator Semantics for Counterfactuals]] (1 sources)
 - [[Equity Forward Pricing]] (1 sources)
+- [[Equity Momentum in Credit]] (2 sources)
+- [[Equity Short Interest]] (1 sources)
 - [[Error Correction Model]] (2 sources)
 - [[Error Handling and Logging]] (1 sources)
 - [[ETF Creation/Redemption Arbitrage]] (1 sources)
@@ -1531,9 +1538,10 @@ Master catalog of all pages in this wiki.
 - [[ETF Flows]] (14 sources)
 - [[Evaluation Constraint on Counterfactuals]] (1 sources)
 - [[Event Clock]] (71 sources)
-- [[Event Risk]] (1 sources)
+- [[Event Risk]] (2 sources)
 - [[Event-Driven Microservices]] (1 sources)
 - [[EWMAC and Carry Trading Rules]] (1 sources)
+- [[Excess Spread to Peers (ESP)]] (2 sources)
 - [[Exchangeability]] (2 sources)
 - [[Expectations Hypothesis of the Term Structure]] (6 sources)
 - [[Expected Shortfall]] (1 sources)
@@ -1542,13 +1550,14 @@ Master catalog of all pages in this wiki.
 - [[Extended Kalman Filter]]
 - [[Extreme Value Theory]] (1 sources)
 - [[Eye Tracking in Code Reading]] (1 sources)
-- [[Factor Investing in Corporate Bonds]] (9 sources)
+- [[Factor Investing in Corporate Bonds]] (10 sources)
 - [[Factor Models]] (13 sources)
 - [[Factor Momentum]] (3 sources)
-- [[Factor Signals in Credit]] (3 sources)
-- [[Factor Timing]] (2 sources)
+- [[Factor Signals in Credit]] (5 sources)
+- [[Factor Timing]] (3 sources)
+- [[Fallen Angel]] (1 sources)
 - [[False Discovery Rate]] (5 sources)
-- [[Fama-French Factors]] (2 sources)
+- [[Fama-French Factors]] (3 sources)
 - [[Fast Mean Reversion]] (1 sources)
 - [[Feature Engineering]] (58 sources)
 - [[Feature Store]] (1 sources)
@@ -1608,7 +1617,7 @@ Master catalog of all pages in this wiki.
 - [[Hallucination]] (2 sources)
 - [[Hallucination as a Security Risk]] (1 sources)
 - [[Hawkes Processes]] (18 sources)
-- [[Hazard Rate Curve]] (2 sources)
+- [[Hazard Rate Curve]] (3 sources)
 - [[Heterogeneous Autoregressive Model]] (2 sources)
 - [[Heterogeneous Treatment Effects]] (1 sources)
 - [[Heteroskedasticity]] (2 sources)
@@ -1629,15 +1638,15 @@ Master catalog of all pages in this wiki.
 - [[Iceberg Model]] (1 sources)
 - [[Idempotent Data Pipeline]] (1 sources)
 - [[Identifiability Conditions]] (2 sources)
-- [[Illiquidity Premium]] (2 sources)
+- [[Illiquidity Premium]] (3 sources)
 - [[Imaging]] (1 sources)
 - [[Implied Volatility Skew]] (6 sources)
 - [[Implied Volatility Surface]] (1 sources)
 - [[In-Context Learning]] (2 sources)
 - [[Incomplete-Markets Heterogeneous-Agent (Bewley) Models]] (1 sources)
-- [[Index Reconstitution]] (2 sources)
+- [[Index Reconstitution]] (3 sources)
 - [[Inference Optimization]] (2 sources)
-- [[Information Ratio]] (2 sources)
+- [[Information Ratio]] (3 sources)
 - [[Informed Trading]] (47 sources)
 - [[Input-Output Analysis]] (1 sources)
 - [[Insecure Output Handling]] (1 sources)
@@ -1653,6 +1662,7 @@ Master catalog of all pages in this wiki.
 - [[Inventory Risk]] (6 sources)
 - [[Inverse Probability Weighting]] (1 sources)
 - [[IP Weighting and Marginal Structural Models]] (2 sources)
+- [[Issuer Size Premium]] (1 sources)
 - [[Jackknife+ after Bootstrap (J+aB)]] (3 sources)
 - [[Jackknife+ Prediction]] (3 sources)
 - [[Jailbreaking]] (1 sources)
@@ -1686,15 +1696,16 @@ Master catalog of all pages in this wiki.
 - [[Lender of Last Resort]] (1 sources)
 - [[LEVER Score]] (2 sources)
 - [[Leverage Points]] (1 sources)
-- [[Leverage Ratios]] (3 sources)
+- [[Leverage Ratios]] (4 sources)
 - [[Leveraged Recapitalization]] (1 sources)
 - [[Libor-OIS spread]] (1 sources)
 - [[Limit Order Book]] (158 sources)
 - [[Limits to Arbitrage]] (3 sources)
 - [[Linear-Quadratic Control and the Kalman Filter]] (1 sources)
 - [[Linguistic Anti-Patterns]] (1 sources)
-- [[Liquidity Risk]] (19 sources)
-- [[Liquidity Scoring Mechanism]] (1 sources)
+- [[Liquidity Cost Score (LCS)]] (1 sources)
+- [[Liquidity Risk]] (20 sources)
+- [[Liquidity Scoring Mechanism]] (2 sources)
 - [[LLM Agent]] (1 sources)
 - [[LLM Application Architecture]] (1 sources)
 - [[LLM Evaluation]] (3 sources)
@@ -1715,6 +1726,7 @@ Master catalog of all pages in this wiki.
 - [[Look-Ahead Bias and Data Mining]] (1 sources)
 - [[Low Expected Returns Challenge]] (1 sources)
 - [[Low-Rank Adaptation]] (1 sources)
+- [[Low-Risk Anomaly]] (1 sources)
 - [[LSTM Networks]] (46 sources)
 - [[Machine Learning for Credit Modeling]] (1 sources)
 - [[Macro Cycle Cross-Asset Allocation]] (1 sources)
@@ -1738,13 +1750,13 @@ Master catalog of all pages in this wiki.
 - [[Mathematics of Finance]] (1 sources)
 - [[Max-p Aggregation]] (1 sources)
 - [[MCMC Bayesian Inference]] (2 sources)
-- [[Mean Reversion]] (15 sources)
+- [[Mean Reversion]] (16 sources)
 - [[Mean Reversion in Profitability]] (1 sources)
 - [[Mediation Analysis]] (2 sources)
 - [[Mental Model of Code]] (1 sources)
 - [[Mental Models for Decision-Making]] (1 sources)
 - [[Merging P-values and E-values]] (4 sources)
-- [[Merton Structural Model]] (12 sources)
+- [[Merton Structural Model]] (13 sources)
 - [[Message Bus]] (1 sources)
 - [[Metadata Knowledge Graph]] (1 sources)
 - [[Metaorder]] (8 sources)
@@ -1764,7 +1776,7 @@ Master catalog of all pages in this wiki.
 - [[Modular Programming]] (1 sources)
 - [[Modular Systematic Trading Framework]] (1 sources)
 - [[Momentum and Trend Following]] (2 sources)
-- [[Momentum Spillover Effect]] (1 sources)
+- [[Momentum Spillover Effect]] (2 sources)
 - [[Mondrian Conformal Prediction]] (3 sources)
 - [[Monetary and Fiscal Policy]] (1 sources)
 - [[Monetary Irregular-Deposit Contract]] (1 sources)
@@ -1788,6 +1800,7 @@ Master catalog of all pages in this wiki.
 - [[Negative Interest Rate Policy and Forward Guidance]] (1 sources)
 - [[Negative Interest Rate Policy and the Zero Lower Bound]] (1 sources)
 - [[Nelson-Siegel Model]] (2 sources)
+- [[New-Issue Concession]] (1 sources)
 - [[No-Arbitrage Restrictions]] (2 sources)
 - [[Non-Exchangeable Conformal Prediction (NexCP)]] (3 sources)
 - [[Non-Fundamental Demand Shocks]] (1 sources)
@@ -1827,6 +1840,7 @@ Master catalog of all pages in this wiki.
 - [[PEP 8 Style Guide]] (1 sources)
 - [[Phillips Curve]] (1 sources)
 - [[Positional Embeddings]] (1 sources)
+- [[Post-Earnings-Announcement Drift]] (1 sources)
 - [[Potential Outcomes and Counterfactual Causal Effects]] (6 sources)
 - [[Prediction Intervals]] (3 sources)
 - [[Price Impact]] (43 sources)
@@ -1845,6 +1859,7 @@ Master catalog of all pages in this wiki.
 - [[Property Graph Model]] (1 sources)
 - [[Prospect Theory]] (1 sources)
 - [[Quant and Factor-Driven Markets]] (1 sources)
+- [[Quantamental Investing]] (2 sources)
 - [[Quantile Random Forests]] (1 sources)
 - [[Quantile Regression]] (3 sources)
 - [[Quantile Treatment Effects]] (1 sources)
@@ -1860,6 +1875,7 @@ Master catalog of all pages in this wiki.
 - [[Random Forest Proximity]] (1 sources)
 - [[Randomised Controlled Trial]] (1 sources)
 - [[Ranked Probability Score]] (1 sources)
+- [[Rating-Based Stop-Loss]] (1 sources)
 - [[ReAct]] (1 sources)
 - [[ReAct Agent]] (1 sources)
 - [[ReAct Prompting]] (1 sources)
@@ -1883,7 +1899,7 @@ Master catalog of all pages in this wiki.
 - [[Repository Pattern]] (1 sources)
 - [[Request for Quotes]] (2 sources)
 - [[Reranking]] (2 sources)
-- [[Residual Momentum]]
+- [[Residual Momentum]] (1 sources)
 - [[Resilience, Self-Organization, and Hierarchy]] (1 sources)
 - [[Resource Description Framework]] (1 sources)
 - [[Responsible AI]] (1 sources)
@@ -1891,10 +1907,10 @@ Master catalog of all pages in this wiki.
 - [[RFQ Markets]] (3 sources)
 - [[Right Tail Hedging]] (1 sources)
 - [[Risk Parity]] (1 sources)
-- [[Risk Premia (Expected Return Sources)]] (13 sources)
+- [[Risk Premia (Expected Return Sources)]] (14 sources)
 - [[Risk-Controlling Prediction Sets (RCPS)]] (3 sources)
 - [[Risk-Taking Channel of Monetary Policy]] (1 sources)
-- [[Risk-vs-Mispricing Debate]] (1 sources)
+- [[Risk-vs-Mispricing Debate]] (2 sources)
 - [[RNN-HAR]] (1 sources)
 - [[Robust Portfolio Optimisation]] (1 sources)
 - [[Robustness and Walk-Forward Efficiency]] (1 sources)
@@ -1922,7 +1938,7 @@ Master catalog of all pages in this wiki.
 - [[Service Layer Pattern]] (1 sources)
 - [[Shapley Values]] (1 sources)
 - [[Sheaf Laplacian]]
-- [[Short Volatility Strategies]] (1 sources)
+- [[Short Volatility Strategies]] (2 sources)
 - [[Sign Dependence via Volatility]] (1 sources)
 - [[Similarity Search]] (1 sources)
 - [[Simulated Maximum Likelihood]] (1 sources)
@@ -1933,12 +1949,12 @@ Master catalog of all pages in this wiki.
 - [[Sovereign Debt Sustainability]] (1 sources)
 - [[Spectral Graph Filters]]
 - [[Spectral Graph Wavelets]]
-- [[Speculative-Grade Default Rate]] (1 sources)
+- [[Speculative-Grade Default Rate]] (2 sources)
 - [[Spillover and Interference Effects]] (1 sources)
 - [[Splines and Generalized Additive Models]] (1 sources)
 - [[Split Conformal Prediction]] (3 sources)
 - [[Spread]] (3 sources)
-- [[Spread Per Turn of Leverage]] (1 sources)
+- [[Spread Per Turn of Leverage]] (2 sources)
 - [[Square-Root Law of Market Impact]] (9 sources)
 - [[State-Space Models]] (2 sources)
 - [[Stationarity]] (1 sources)
@@ -1952,7 +1968,7 @@ Master catalog of all pages in this wiki.
 - [[Stocks and Flows]] (1 sources)
 - [[Strategy Optimization]] (1 sources)
 - [[Strictly Proper Scoring Rules]] (2 sources)
-- [[Structural Models]] (8 sources)
+- [[Structural Models]] (9 sources)
 - [[Structural Risk (Funding and Redemption Options)]] (1 sources)
 - [[Structural Vector Autoregression]]
 - [[Structure of Production]] (1 sources)
@@ -1961,12 +1977,12 @@ Master catalog of all pages in this wiki.
 - [[Stylized Facts]] (40 sources)
 - [[Sufficient-Cause Interaction (Synergism)]] (1 sources)
 - [[Superforecasting]] (1 sources)
-- [[Survival Probability]] (4 sources)
+- [[Survival Probability]] (5 sources)
 - [[Survivorship Bias]] (2 sources)
 - [[System Archetypes]] (2 sources)
 - [[System GMM Dynamic Panel Estimation]] (1 sources)
 - [[System Prompting]] (1 sources)
-- [[Systematic Credit Relative Value]] (1 sources)
+- [[Systematic Credit Relative Value]] (2 sources)
 - [[Systematic Diversification]] (1 sources)
 - [[Systems Thinking]] (2 sources)
 - [[Tactical Asset Allocation Relative Strength Signal (TAARSS)]] (1 sources)
@@ -2002,15 +2018,16 @@ Master catalog of all pages in this wiki.
 - [[Trust Boundaries]] (1 sources)
 - [[Truth at a Time]] (1 sources)
 - [[Tukey g-and-h Transformation]] (2 sources)
+- [[Turnover Buffer]] (1 sources)
 - [[Twin Crises]] (1 sources)
 - [[Ubiquitous Language]] (1 sources)
 - [[Uncertainty Quantification]] (2 sources)
 - [[Unit of Work Pattern]] (1 sources)
 - [[Unit Recovery Claim]] (3 sources)
 - [[Unscented Kalman Filter]] (2 sources)
-- [[Value Premium]] (2 sources)
+- [[Value Premium]] (3 sources)
 - [[Value-at-Risk]] (3 sources)
-- [[Variance Risk Premium]] (1 sources)
+- [[Variance Risk Premium]] (2 sources)
 - [[Variogram Score]] (1 sources)
 - [[Vasicek Model]]
 - [[Vector Database]] (2 sources)
@@ -2020,7 +2037,7 @@ Master catalog of all pages in this wiki.
 - [[Vector Similarity Search]] (1 sources)
 - [[Vector Store]] (2 sources)
 - [[Venn Predictors]] (2 sources)
-- [[Volatility Risk Premia (VIRP)]] (3 sources)
+- [[Volatility Risk Premia (VIRP)]] (4 sources)
 - [[Volatility Smirk as Informed-Trading Signal]] (3 sources)
 - [[Volatility Targeting]] (2 sources)
 - [[Volatility-Based Position Sizing]] (2 sources)
@@ -2035,7 +2052,7 @@ Master catalog of all pages in this wiki.
 - [[Yield Curve Forecasting]] (3 sources)
 - [[Yield curve steepeners and flatteners]] (1 sources)
 - [[Yield to Maturity]] (1 sources)
-- [[Z-Spread]] (1 sources)
+- [[Z-Spread]] (2 sources)
 - [[Zero-Coupon Curve]] (2 sources)
 - [[Zero-shot Prompting]] (1 sources)
 - [[Zombie Firms and Zombification]] (1 sources)
@@ -2062,10 +2079,10 @@ Master catalog of all pages in this wiki.
 ---
 
 **Stats**
-- Total sources: 658
-- Total entities: 604
-- Total concepts: 749
+- Total sources: 660
+- Total entities: 606
+- Total concepts: 762
 - Total analyses: 9
 - Total contradictions: 1
-- **Total pages: 2021**
-- Last updated: 2026-10-07
+- **Total pages: 2038**
+- Last updated: 2026-10-22

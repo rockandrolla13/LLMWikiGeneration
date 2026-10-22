@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:efcc925bae8f8c22f2dc720dc6132c72c7f190287d86173291d9fbbb6fda72c8
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -17,7 +18,8 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/risk-premia
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/mercado-2015-taarss-flow-whisperer
@@ -49,13 +51,12 @@ sources:
 - sources/ms-2020-03-27-add-to-credit-markets-lead-economy
 - sources/ms-2020-04-01-in-the-flow-q1-recap
 - sources/ms-2020-04-01-what-do-recoveries-look-like
+- sources/bendor-2021-systematic-investing-in-credit
 tags: []
 title: Cross-Asset Rotation Strategy
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: e572b13f-4429-5f1e-9876-6aa8ca69e2d0
-content_hash: sha256:35d66d9209b782c0a089c6829e60ef09ceee714421a3d53cd6faf804764df84b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -67,6 +68,7 @@ A systematic strategy reallocating across asset classes, regions, sizes, sectors
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/mercado-2015-taarss-flow-whisperer|The Flow Whisperer: TAARSS says prefer a mix of bonds and equities in Q1]]
 
 ## Related Concepts

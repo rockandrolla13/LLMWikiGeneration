@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:f0b37d5bf8af3371c3861dafe19f8879c6a4ab8d0e16c2d470b9ef4621b75583
+content_hash: sha256:f5a5f90a1fcf1019535204adfb2d55d57e758c361cd4a15030745f6c23f5a322
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/mean-reversion
 page_type: concept
@@ -34,7 +34,7 @@ related:
 - concepts/term-structure-risk-premium
 - concepts/trend-following
 - concepts/value-premium
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/moura-2016-pairs-trading-kalman
@@ -52,14 +52,15 @@ sources:
 - sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
 - sources/chan-2023-price-convergence-cds-put-option
 - sources/shi-2022-cds-implied-volatility-trading-strategies
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - time-series
 - statistical-properties
 - trading-strategies
 - stochastic-processes
 title: Mean Reversion
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: d16f8e8a-9a2f-522d-ba1f-89a050862b70
 ---
 
@@ -239,6 +240,7 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]

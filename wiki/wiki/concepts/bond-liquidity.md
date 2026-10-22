@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:1bb0f5007c9e0c154cf56a4508bc8e5ce7ffa066cf865828a78f9109c3983eea
+content_hash: sha256:96548fb8ff5a2a9b96b9965574512dca1235f653f12814d49ec2be6f32e13821
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/bond-liquidity
@@ -9,7 +9,7 @@ related:
 - concepts/structural-models
 - concepts/corporate-bond-liquidity-premium
 - concepts/liquidity-risk
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/huang-2025-global-credit-spread-puzzle
@@ -24,6 +24,7 @@ sources:
 - sources/scalia-1998-information-transmission-causality-italian-treasury-bond-market
 - sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - liquidity
 - corporate-bonds
@@ -31,8 +32,8 @@ tags:
 - credit-spreads
 - market-microstructure
 title: Bond Liquidity
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 98af7bca-952d-5087-b72a-c1d874f057a6
 ---
 
@@ -63,5 +64,6 @@ Illiquidity does not only widen spreads — it corrupts the data. [[sources/dick
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 <!-- AUTHORED REGION END -->

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:5845de7150cc88c0a816f238d824d59859e254d8e6cd8d03f4e43a07463f7939
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/cds-bond-basis
 page_type: concept
@@ -12,7 +13,8 @@ related:
 - concepts/mark-to-market-credit-hedging
 - concepts/option-implied-credit-information
 - concepts/z-spread
-revision_id: 3
+revision_id: 4
+schema_version: 2
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 - sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging
@@ -27,6 +29,7 @@ sources:
 - sources/ms-2020-03-27-add-to-credit-markets-lead-economy
 - sources/pullirsch-2006-credit-spread-risk
 - sources/ubs-2012-next-gen-credit-curves
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - creditETF
 - CDS
@@ -34,10 +37,9 @@ tags:
 - basis-trading
 - relative-value
 title: CDS-Bond Basis
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 82289516-1b9b-5971-818a-d3431175da13
-content_hash: sha256:bf46fb8079c7aad80e7cc231ceaa036b239f49f562093f9e3b41ddbe6ed6948b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -123,4 +125,8 @@ Now also discussed in: [[sources/avino-2024-hedging-credit-equity-options]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging]], [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook]], [[sources/ms-2012-03-12-what-were-watching]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-02-01-credit-strategy-chartbook]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2020-03-25-global-volatility-playbook]], [[sources/ms-2020-03-27-add-to-credit]], [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy]]
+
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

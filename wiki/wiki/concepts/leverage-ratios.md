@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:58977fc3ecb259ffe067cd078895551b3996ddc2501fabaab4f4fe8998d2ba5f
+content_hash: sha256:e3e9712bb94007f076d0650d569520afc06ab05f131bb399fd20c4da5ec25787
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leverage-ratios
@@ -7,20 +7,21 @@ page_type: concept
 related:
 - concepts/spread-per-turn-of-leverage
 - concepts/relative-value-analysis
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/spec-2012-single-name-fundamental
 - sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
 - sources/wang-2013-cds-spreads-variance-risk-premia
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - credit-analysis
 - fundamental-analysis
 - leverage
 - creditETF
 title: Leverage Ratios
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: b358f0f2-1c29-549a-97d4-2f4fa5ae556f
 ---
 
@@ -57,6 +58,7 @@ The limitation carries over: this assumes the relationship between spread and le
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:e4f3ecf72745af67cff50330b5dee04ed509e36dbf6fa5480c4b8072bb94b946
+content_hash: sha256:bd6a509ededd132a9014089d4b62ece8cc343a7f8160590c62fa021d353ae3c2
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,7 +10,7 @@ page_type: concept
 related:
 - concepts/interrupted-time-series-design
 - concepts/segmented-regression
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/hudson-2019-its-healthcare-reporting
@@ -32,10 +32,11 @@ sources:
 - sources/tunyavetchakit-2016-volatility-decomposition-nonparametric-estimation-spot-volatility
 - sources/vlasiuk-2025-push-response-anomalies-high-frequency-s
 - sources/yang-2021-forecasting-high-frequency-financial-time-series
+- sources/bendor-2021-systematic-investing-in-credit
 tags: []
 title: Autocorrelation in Time Series
-updated: '2026-09-27T01:47:00Z'
-updated_by: creditmacro-batch
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 9edfca8b-5977-5bc0-ab59-66fe90d581de
 ---
 
@@ -48,6 +49,7 @@ The correlation of observations collected close together in time, which violates
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/hudson-2019-its-healthcare-reporting|Methodology and reporting characteristics of studies using interrupted time series design in healthcare]]
 
 ## Related Concepts

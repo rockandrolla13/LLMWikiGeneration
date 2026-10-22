@@ -35,3 +35,15 @@ Operation ID: op_225eb9cd3c09
 Ingested 4 books from `wiki/raw/ai-engineering/` (AI ENGINEERING folder). Created 27 pages, updated 40. The Databricks study guide page gained its converted text.
 
 Operation ID: op_9a030901d060
+
+## 2026-10-22T15:27:29Z ingest
+
+Ingested *Systematic Investing in Credit* (Wiley, 2021) from `raw/systematic-investing-credit/`. Created 16 pages, updated 52.
+
+Operation ID: op_955147eb8c65
+
+## 2026-10-22T15:31:24Z ingest
+
+Added a separate page for chapter 19 (OneScore) of *Systematic Investing in Credit*, with Tables 19.2-19.4 transcribed from page images. Updated 11 pages with links.
+
+Operation ID: op_6041749c5f06

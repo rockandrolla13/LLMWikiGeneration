@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:7fcd6abbcc1e687b8a4aabe80d0461fe26e73db4a7c0ba67c524c9e9a74ef9af
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/spread-per-turn-of-leverage
 page_type: concept
@@ -7,19 +8,20 @@ related:
 - concepts/hyperscaler-data-center-bond-relative-value
 - concepts/leverage-ratios
 - concepts/relative-value-analysis
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/spec-2012-single-name-fundamental
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - creditETF
 - relative-value
 - credit-analysis
 - leverage
 title: Spread Per Turn of Leverage
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 97407b42-3953-5317-8066-8ccfb69ea048
-content_hash: sha256:f97e500b4122195d1d43a6ac07664bfafd9abb6e746a8151971c89b81f719b4d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -104,4 +106,8 @@ Similar analysis frameworks use:
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/hyperscaler-data-center-bond-relative-value|hyperscaler-data-center-bond-relative-value]]
+
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

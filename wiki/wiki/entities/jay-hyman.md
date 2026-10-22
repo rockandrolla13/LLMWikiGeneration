@@ -1,6 +1,7 @@
 ---
 affiliations:
 - Lehman Brothers, Quantitative Portfolio Strategy
+content_hash: sha256:bdd42b7b202c8c7f454aef62c973550f1a26a7b3f6450aeca935cd4c3a1488a4
 created: 2026-09-15 00:00:00+00:00
 entity_type: person
 page_id: entities/jay-hyman
@@ -10,18 +11,20 @@ related:
 - entities/lev-dynkin
 - entities/lehman-brothers
 - concepts/duration-times-spread
-revision_id: 1
+revision_id: 3
 schema_version: 2
-uuid: 03478e19-a7f1-5201-b4a9-3810b00dd09a
-content_hash: sha256:7d286db29f6ffb216528b81ab82a1a95c3dbf8120fc27f848c143fb089474955
 sources:
 - sources/bendor-2007-dts
+- sources/bendor-2021-systematic-investing-in-credit
+- sources/bendor-2021-onescore-chapter-19
 tags:
 - researcher
 - corporate-bonds
 - risk-model
 title: Jay Hyman
-updated: '2026-09-15T00:00:00Z'
+updated: '2026-10-22T15:31:24Z'
+updated_by: op_6041749c5f06
+uuid: 03478e19-a7f1-5201-b4a9-3810b00dd09a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,4 +33,9 @@ updated: '2026-09-15T00:00:00Z'
 Co-author of [[sources/bendor-2007-dts|DTS (Duration Times Spread)]] and of *Quantitative Management of Bond Portfolios* (2006), which that paper cites.
 
 Affiliation as stated in the paper: Senior Analyst, Quantitative Portfolio Strategy, [[entities/lehman-brothers|Lehman Brothers]].
+
+## Papers in This Wiki
+
+- [[sources/bendor-2021-onescore-chapter-19|OneScore: Combining Quantitative and Fundamental Views in Credit]] (2021, chapter 19)
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

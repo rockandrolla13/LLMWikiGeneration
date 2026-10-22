@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:193ec27acc1c1f9c431895c0b5e76d585559dc48fb3c6d75b96721a9c0b0aa54
+content_hash: sha256:dfb4c139a8711dabcbcc57e1c5e890e7748e13aa36ef530fe61890b8db93b885
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/hazard-rate-curve
 page_type: concept
@@ -9,11 +9,12 @@ related:
 - concepts/market-implied-ratings
 - concepts/reduced-form-credit-models
 - concepts/survival-probability
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/ubs-2012-next-gen-credit-curves
 - sources/chan-2023-price-convergence-cds-put-option
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - creditETF
 - credit-curves
@@ -21,8 +22,8 @@ tags:
 - CDS
 - bonds
 title: Hazard Rate Curve
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 7e076439-9606-5738-94a8-165a08535131
 ---
 
@@ -103,5 +104,6 @@ Using issuer hazard rates, market surfaces can be built covering every rating an
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 <!-- AUTHORED REGION END -->
