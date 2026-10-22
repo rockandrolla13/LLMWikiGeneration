@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-10-22T15:31:38.113502Z'
+updated: '2026-10-22T21:10:57.683773Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-10-22T15:31:38.110210Z
+Generated: 2026-10-22T21:10:57.680826Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:57a85a2d9f81c1e0
+Source hash: sha256:4328ab583ff8e341
 Rebuild with: wiki:rebuild
 -->
 
@@ -18,7 +18,7 @@ Rebuild with: wiki:rebuild
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
 Last updated: 2026-10-22
-Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, contradictions: 1)
+Total pages: 2069 (sources: 664, concepts: 775, entities: 620, analyses: 9, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -43,6 +43,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - sources/de-moura-2016-pairs-trading — A Pairs Trading Strategy Based on Linear State Space Models
 - sources/moura-2016-pairs-trading-kalman — A Pairs Trading Strategy Based on Linear State Space Models and the Kalman Filter
 - sources/openai-2025-practical-guide-building-agents — A Practical Guide to Building Agents
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance — A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt
 - sources/liu-2025-reproducible-baseline-forecasting-high-frequency-realized — A Reproducible Baseline for Forecasting High-Frequency Realized Volatility with Order-Flow Features
 - sources/bao-2025-review — A Review and Comparative Analysis of Univariate Conformal Regression Methods
 - sources/carr-2011-american-puts-credit-protection — A Simple Robust Link Between American Puts and Credit Protection
@@ -133,6 +134,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - sources/jaddu-2023-combining-deep-learning-order-books-reinforcement — Combining Deep Learning on Order Books with Reinforcement Learning for Profitable Trading
 - sources/ming-2026-demi-supermartingales — Combining e-values using demi-supermartingales
 - sources/gasparin-2025-combining-exchangeable-pvalues — Combining exchangeable p-values
+- sources/israel-2017-common-factors-corporate-bond-returns — Common Factors in Corporate Bond Returns
 - sources/dickerson-2024-bond-pitfalls — Common Pitfalls in the Evaluation of Corporate Bond Strategies
 - sources/vovk-2019-confidence-discoveries-evalues — Confidence and discoveries with e-values
 - sources/vovk-2026-ci-causal-sequential — Confidence intervals for causal effects in sequential decision making
@@ -217,6 +219,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - sources/hornek-2025-directional-price-forecasting-continuous-intraday-market — Directional Price Forecasting in the Continuous Intraday Market under Consideration of Neighboring Products and Limit Order Books
 - sources/meyer-2019-discovering-market-prices-which-price-formation — Discovering market prices: Which price formation model best predicts the next trade?
 - sources/gontis-2023-discrete-q-exponential-limit-order-cancellation — Discrete q-Exponential Limit Order Cancellation Time Distribution
+- sources/whitman-2009-distress-investing — Distress Investing: Principles and Technique
 - sources/lei-2018-distribution-free-regression — Distribution-Free Predictive Inference for Regression
 - sources/bates-2021-rcps — Distribution-Free, Risk-Controlling Prediction Sets
 - sources/chernozhukov-2021-distributional-cp — Distributional Conformal Prediction
@@ -666,6 +669,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - sources/mynbaev-2020-full-limit-order-book-price-jump — Using full limit order book for price jump prediction
 - sources/aitsahalia-2017-pca-hf-factor-model — Using Principal Component Analysis to Estimate a High Dimensional Factor Model with High-Frequency Data
 - sources/anon-2024-vector-databases-rag — Utilizing Vector Databases to Enhance RAG Models
+- sources/correia-2012-value-investing-credit-markets — Value Investing in Credit Markets
 - sources/yegge-2025-vibe-coding — Vibe Coding: Building Production-Grade Software with GenAI, Chat, Agents, and Beyond
 - sources/dahlhaus-2016-volatility-decomposition-estimation-time-changed-price — Volatility Decomposition and Estimation in Time-Changed Price Models
 - sources/tunyavetchakit-2016-volatility-decomposition-nonparametric-estimation-spot-volatility — Volatility Decomposition and Nonparametric Estimation of Spot Volatility of Models with Poisson Sampling under Market Microstructure Noise
@@ -685,6 +689,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 ## Concepts
 - concepts/hundred-percent-reserve-requirement — 100-Percent Reserve Requirement
 - concepts/demographics-debt-disinflation — 3D Challenge
+- concepts/absolute-priority-rule — Absolute Priority Rule
 - concepts/beta-mixing-processes — Absolutely Regular (Beta-Mixing) Processes
 - concepts/adams-thesis — Adams's Thesis
 - concepts/adaptive-conformal-inference — Adaptive Conformal Inference
@@ -733,6 +738,8 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/bank-capital-structure-seniority — Bank capital structure seniority
 - concepts/bank-resolution-bail-in — Bank Resolution and Bail-in
 - concepts/banking-crisis-early-warning-indicators — Banking Crisis Early Warning Indicators
+- concepts/bankruptcy-hazard-model — Bankruptcy Hazard Model
+- concepts/bankruptcy-recovery-analysis — Bankruptcy Recovery Analysis
 - concepts/base-correlation — Base Correlation
 - concepts/base-rates-reference-class-forecasting — Base Rates and Reference-Class Forecasting
 - concepts/batch-vs-online-prediction — Batch vs Online Prediction
@@ -871,6 +878,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/decoding-strategies — Decoding Strategies
 - concepts/deep-learning-for-finance — Deep Learning for Finance
 - concepts/default-rates — Default Rates
+- concepts/default-model-implied-spread-value-signal — Default-Model-Implied Spread Value Signal
 - concepts/deflation-trap — Deflation trap
 - concepts/demand-and-supply-analysis — Demand and Supply Analysis
 - concepts/dense-retrieval — Dense Retrieval
@@ -915,6 +923,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/entry-point-analysis — Entry Point Analysis
 - concepts/epps-effect — Epps Effect
 - concepts/epsilon-operator-counterfactuals — Epsilon-Operator Semantics for Counterfactuals
+- concepts/equity-cushion — Equity Cushion (Enterprise Value Coverage of Debt)
 - concepts/equity-forward-pricing — Equity Forward Pricing
 - concepts/equity-momentum-in-credit — Equity Momentum in Credit
 - concepts/equity-short-interest — Equity Short Interest
@@ -946,6 +955,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/fallen-angel — Fallen Angel
 - concepts/false-discovery-rate — False Discovery Rate
 - concepts/fama-french-factors — Fama-French Factors
+- concepts/fama-macbeth-regression — Fama-MacBeth Regression
 - concepts/fast-mean-reversion — Fast Mean Reversion
 - concepts/feature-engineering — Feature Engineering
 - concepts/feature-store — Feature Store
@@ -965,6 +975,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/four-way-effect-decomposition — Four-Way Effect Decomposition
 - concepts/fractional-kelly-position-sizing — Fractional Kelly Position Sizing
 - concepts/fractional-reserve-banking — Fractional-Reserve Banking
+- concepts/fulcrum-security — Fulcrum Security
 - concepts/full-conformal-prediction — Full (Transductive) Conformal Prediction
 - concepts/function-calling — Function Calling
 - concepts/functional-data-analysis — Functional Data Analysis
@@ -998,6 +1009,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/graphrag — GraphRAG
 - concepts/great-moderation — Great Moderation
 - concepts/green-bond-spreads — Green Bond Spreads
+- concepts/gross-profitability — Gross Profitability
 - concepts/group-factor-models — Group Factor Models
 - concepts/group-balanced-conformal-prediction — Group-Balanced Conformal Prediction
 - concepts/unreality-of-the-future — Growing-Block / Unreality of the Future
@@ -1017,6 +1029,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/high-dimensional-data — High-Dimensional Data
 - concepts/high-frequency-data — High-Frequency Data
 - concepts/high-frequency-trading — High-Frequency Trading
+- concepts/high-yield-covenants — High-Yield Covenants
 - concepts/historical-simulation-backtesting — Historical Simulation (Backtesting)
 - concepts/human-in-the-loop — Human-in-the-Loop
 - concepts/humes-problem-of-causation — Hume's Problem of Causation
@@ -1205,6 +1218,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/openai-api — OpenAI API
 - concepts/optimal-execution — Optimal Execution
 - concepts/optimum-score-estimation — Optimum Score Estimation
+- concepts/option-adjusted-spread — Option-Adjusted Spread (OAS)
 - concepts/option-implied-credit-information — Option-Implied Information in Credit Markets
 - concepts/order-flow — Order Flow
 - concepts/order-flow-imbalance — Order Flow Imbalance
@@ -1284,6 +1298,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/rlhf — Reinforcement Learning from Human Feedback
 - concepts/relative-value-spread-trading — Relative Value / Spread Trading
 - concepts/relative-value-analysis — Relative Value Analysis
+- concepts/reorganization-value — Reorganization Value
 - concepts/repository-pattern — Repository Pattern
 - concepts/request-for-quotes — Request for Quotes
 - concepts/reranking — Reranking
@@ -1358,6 +1373,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/strictly-proper-scoring-rules — Strictly Proper Scoring Rules
 - concepts/structural-models — Structural Models
 - concepts/structural-risk — Structural Risk (Funding and Redemption Options)
+- concepts/structural-subordination — Structural Subordination
 - concepts/structural-vector-autoregression — Structural Vector Autoregression
 - concepts/structure-of-production — Structure of Production
 - concepts/structured-output — Structured Output
@@ -1440,6 +1456,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - concepts/yield-curve-forecasting — Yield Curve Forecasting
 - concepts/yield-curve-steepeners-flatteners — Yield curve steepeners and flatteners
 - concepts/yield-to-maturity — Yield to Maturity
+- concepts/yield-to-worst — Yield-to-Worst and Spread-to-Worst
 - concepts/z-spread — Z-Spread
 - concepts/zero-coupon-curve — Zero-Coupon Curve
 - concepts/zero-shot-prompting — Zero-shot Prompting
@@ -1559,6 +1576,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/colin-lancaster — Colin Lancaster
 - entities/contrast-security — Contrast Security
 - entities/craig-ramsay — Craig R. Ramsay
+- entities/credit-suisse — Credit Suisse
 - entities/cursor — Cursor
 - entities/dacheng-xiu — Dacheng Xiu
 - entities/dan-callahan — Dan Callahan
@@ -1588,6 +1606,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/deutsche-bank-research — Deutsche Bank Research
 - entities/didier-sornette — Didier Sornette
 - entities/ding-rong-chen — Ding-Rong Chen
+- entities/diogo-palhares — Diogo Palhares
 - entities/donald-rubin — Donald B. Rubin
 - entities/donella-meadows — Donella H. Meadows
 - entities/doron-avramov — Doron Avramov
@@ -1617,6 +1636,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/federico-manicardi — Federico Manicardi
 - entities/felician-stratmann — Felician G Stratmann
 - entities/felienne-hermans — Felienne Hermans
+- entities/fernando-diz — Fernando Diz
 - entities/flask — Flask
 - entities/florian-ziel — Florian Ziel
 - entities/forrest-bao — Forrest Bao
@@ -1626,6 +1646,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/fred-liu — Fred Liu
 - entities/frederick-fuchs — Frederick T Fuchs
 - entities/friedrich-hayek — Friedrich A. Hayek
+- entities/ft-press — FT Press
 - entities/fulvio-corsi — Fulvio Corsi
 - entities/gal-mishne — Gal Mishne
 - entities/gareth-peters — Gareth W. Peters
@@ -1672,6 +1693,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/ingmar-nolte — Ingmar Nolte
 - entities/instructlab — InstructLab
 - entities/isaac-gibbs — Isaac Gibbs
+- entities/irem-tuna — İrem Tuna
 - entities/j-spencer-martin — J. Spencer Martin
 - entities/jp-morgan — J.P. Morgan
 - entities/jackie-ineke — Jackie Ineke
@@ -1724,6 +1746,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/john-mctaggart — John McTaggart
 - entities/john-ousterhout — John Ousterhout
 - entities/john-tierney — John Tierney
+- entities/john-wiley-and-sons — John Wiley & Sons
 - entities/jonathan-ashworth — Jonathan Ashworth
 - entities/jonathan-graber — Jonathan Graber
 - entities/jonathan-yiangou — Jonathan Yiangou
@@ -1769,6 +1792,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/lindsey-matthews — Lindsey Matthews
 - entities/liuren-wu — Liuren Wu
 - entities/llamaindex — LlamaIndex
+- entities/london-business-school — London Business School
 - entities/longtail-alpha — LongTail Alpha, LLC
 - entities/louis-chan — Louis K. C. Chan
 - entities/lu-cheng — Lu Cheng
@@ -1786,6 +1810,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/marcus-p-dawson — Marcus P. Dawson
 - entities/marek-rusnak — Marek Rusnak
 - entities/margaux-zaffran — Margaux Zaffran
+- entities/maria-correia — Maria Correia
 - entities/marie-alice-blete — Marie-Alice Blete
 - entities/mario-draghi — Mario Draghi
 - entities/mark-schofield — Mark Schofield
@@ -1795,6 +1820,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/martijn-cremers — Martijn Cremers
 - entities/martin-gould — Martin D. Gould
 - entities/martin-fowler — Martin Fowler
+- entities/martin-j-whitman — Martin J. Whitman
 - entities/martin-magris — Martin Magris
 - entities/massimo-rostagno — Massimo Rostagno
 - entities/matteo-fontana — Matteo Fontana
@@ -1920,11 +1946,13 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/robert-proner — Robert Proner
 - entities/robert-rosener — Robert Rosener
 - entities/robert-goldstein — Robert S. Goldstein
+- entities/robert-s-kricheff — Robert S. Kricheff
 - entities/robert-stalnaker — Robert Stalnaker
 - entities/roberto-motto — Roberto Motto
 - entities/robin-xing — Robin Xing
 - entities/roger-koenker — Roger Koenker
 - entities/rogerio-oliveira — Rogerio Oliveira
+- entities/ronen-israel — Ronen Israel
 - entities/rose-yu — Rose Yu
 - entities/ruodu-wang — Ruodu Wang
 - entities/ryan-tibshirani — Ryan J. Tibshirani
@@ -1934,6 +1962,7 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/sander-barendse — Sander Barendse
 - entities/sarah-wolfe — Sarah A. Wolfe
 - entities/scikit-learn — scikit-learn
+- entities/scott-richardson — Scott Richardson
 - entities/sebastian-engelke — Sebastian Engelke
 - entities/sebastian-jaimungal — Sebastian Jaimungal
 - entities/sebastian-mercado — Sebastian Mercado
@@ -1979,10 +2008,12 @@ Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, cont
 - entities/subadra-rajappa — Subadra Rajappa
 - entities/sung-woen-kang — Sung Woen Kang
 - entities/susan-athey — Susan Athey
+- entities/syracuse-university — Syracuse University (Whitman School of Management)
 - entities/tabnine — Tabnine
 - entities/tarek-hamid — Tarek Hamid
 - entities/teresa-busjahn — Teresa Busjahn
 - entities/thijs-nieuwdorp — Thijs Nieuwdorp
+- entities/third-avenue-management — Third Avenue Management LLC
 - entities/thomas-egan — Thomas Egan
 - entities/thomas-sargent — Thomas J. Sargent
 - entities/thomas-pearce — Thomas Pearce

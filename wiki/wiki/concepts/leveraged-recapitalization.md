@@ -1,25 +1,27 @@
 ---
-title: Leveraged Recapitalization
+content_hash: sha256:7298cf7c47269b5fb6efbf4c7372cb2127b4abea4b81f8d27f95f322cb780675
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/leveraged-recapitalization
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/lbo-risk
+- concepts/event-risk
+- concepts/lever-score
+revision_id: 2
+schema_version: 2
+sources:
+- sources/trinh-2006-lever-framework
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
 tags:
 - event-risk
 - LBO
 - corporate-credit
 - creditETF
-sources:
-- sources/trinh-2006-lever-framework
-related:
-- concepts/lbo-risk
-- concepts/event-risk
-- concepts/lever-score
-mind_map_priority: medium
-schema_version: 2
+title: Leveraged Recapitalization
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: e8811b33-11c1-5036-9ff5-ba3758f8e811
-content_hash: sha256:90ab9f1d4f0108eb1724059a6d0591be3f1966b00449586b6736447a1abedc7c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -47,4 +49,7 @@ Because the driver is the same, the same screen applies. A firm becomes an attra
 
 **Not yet written:** `concepts/change-of-control-covenant`, `concepts/structural-subordination`
 
+## Sources
+
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 <!-- AUTHORED REGION END -->

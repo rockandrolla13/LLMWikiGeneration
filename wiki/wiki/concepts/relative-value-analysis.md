@@ -1,25 +1,27 @@
 ---
-title: Relative Value Analysis
+content_hash: sha256:b50a8c0a533ed58c37511536d24eb59e56a0fb4ee7c246878d97837e5b843bdb
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/relative-value-analysis
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/spread-per-turn-of-leverage
+- concepts/leverage-ratios
+- concepts/credit-relative-value
+revision_id: 2
+schema_version: 2
+sources:
+- sources/spec-2012-single-name-fundamental
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
 tags:
 - relative-value
 - credit-analysis
 - fundamental-analysis
 - creditETF
-sources:
-- sources/spec-2012-single-name-fundamental
-related:
-- concepts/spread-per-turn-of-leverage
-- concepts/leverage-ratios
-- concepts/credit-relative-value
-mind_map_priority: medium
-schema_version: 2
+title: Relative Value Analysis
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 84d0db03-99ee-5449-a88d-178f43c71cf3
-content_hash: sha256:f5174c99540e88ac54e83b8cf4345f3ddd1ba0368360dd346a4aceb32708f6a5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -52,4 +54,7 @@ These screens assume the peer group is the right comparison and that the relatio
 
 **Not yet written:** `concepts/ratings-drift`, `concepts/sector-screening`
 
+## Sources
+
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 <!-- AUTHORED REGION END -->

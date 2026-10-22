@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:a56c706fee547934a6b161201075ff4da860136e8096e7ab46013cd8b5dc1077
+content_hash: sha256:92317a6bc241249d933f72bada4aa21e678440229ccc61373216eee08bd3b156
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,15 +12,16 @@ related:
 - concepts/risk-premia
 - concepts/value-at-risk
 - concepts/volatility-targeting-position-sizing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/carver-2015-systematic-trading
 - sources/spears-2020-investment-sizing-deep-learning-prediction-uncertainties
+- sources/israel-2017-common-factors-corporate-bond-returns
 tags: []
 title: Volatility Targeting
-updated: '2026-09-27T01:47:00Z'
-updated_by: creditmacro-batch
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: a4528e93-7569-5bca-a2a7-6563fdfa134f
 ---
 
@@ -33,6 +34,7 @@ Sizing positions so the portfolio targets a chosen annualised volatility, scalin
 
 ## Sources
 
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/carver-2015-systematic-trading|Systematic Trading: A unique new method for designing trading and investing systems]]
 
 ## Related Concepts

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e9ce09b05d718568ed97f648876fe886e1e2bffa10c00829442d04e4cc328926
+content_hash: sha256:967c059479a11e4a81ac7c47be82e67e0ad17f8b0499ca9e4d3e16e25829d765
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -44,14 +44,15 @@ sources:
 - sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models
 - sources/wu-2013-big-data-approach-analyzing-market-volatility
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/whitman-2009-distress-investing
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -115,5 +116,6 @@ Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

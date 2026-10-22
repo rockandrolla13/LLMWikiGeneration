@@ -1,25 +1,28 @@
 ---
-title: Yield to Maturity
+content_hash: sha256:a654e4dcb5df7ff4e4c7276cb66b137c177225f3345da930ec861328f2c7e853
+created: 2026-04-25 22:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/yield-to-maturity
 page_type: concept
-revision_id: 1
-created: 2026-04-25 22:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/credit-spread-curve
+- concepts/z-spread
+- concepts/green-bond-spreads
+revision_id: 2
+schema_version: 2
+sources:
+- sources/sehatpour-2024-green-bonds
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/whitman-2009-distress-investing
 tags:
 - fixed-income
 - bond-pricing
 - yield-measures
 - fundamentals
-sources:
-- sources/sehatpour-2024-green-bonds
-related:
-- concepts/credit-spread-curve
-- concepts/z-spread
-- concepts/green-bond-spreads
-mind_map_priority: medium
-schema_version: 2
+title: Yield to Maturity
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: acbd6eea-70af-5d69-908c-3f7b1e5f6568
-content_hash: sha256:19262f51196515009d263ec4f6985b699a8f76d62b268bb29e48d326376b11ae
 ---
 
 <!-- AUTHORED REGION START -->
@@ -79,4 +82,8 @@ YTM represents:
 - [[concepts/green-bond-spreads|Green Bond Spreads]]
 - [[sources/sehatpour-2024-green-bonds|Anatomy of Municipal Green Bond Yield Spreads (2024)]]
 
+## Sources
+
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 <!-- AUTHORED REGION END -->

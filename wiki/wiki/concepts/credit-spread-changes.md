@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:7bb908418d08a4e54a850a723b3314b37770b75a067868b9003d3be86e09d493
+content_hash: sha256:c28b8fa290a781dfbaa60104df1c4a3c2b6efc883d05d40f724818dd78d8cca7
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -15,17 +15,18 @@ related:
 - concepts/credit-spread-puzzle
 - concepts/default-rates
 - concepts/duration-times-spread
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
 - sources/bendor-2007-dts
 - sources/cremers-2008-individual-stock-option-prices-credit-spreads
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/correia-2012-value-investing-credit-markets
 tags: []
 title: Credit Spread Changes
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: ff9b7352-acd0-5765-afd4-078e3632029e
 ---
 
@@ -42,6 +43,7 @@ Monthly changes in the yield difference between a corporate bond and a maturity-
 
 ## Sources
 
+- [[sources/correia-2012-value-investing-credit-markets|Value Investing in Credit Markets]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/cremers-2008-individual-stock-option-prices-credit-spreads|Individual Stock-Option Prices and Credit Spreads]]
 - [[sources/collin-dufresne-2001-determinants-credit-spread-changes|The Determinants of Credit Spread Changes]]

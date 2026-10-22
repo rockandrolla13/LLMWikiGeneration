@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e361c42d274478f068938661cd82c5b15a116dc468abe5db56dc8c2aa85e0cc4
+content_hash: sha256:ac8d70d923674f91665af2cc7be913ac06d8d533600ce233d7639f6a032f6b72
 created: 2026-04-26 02:20:00+00:00
 page_id: concepts/bond-momentum
 page_type: concept
@@ -15,20 +15,21 @@ related:
 - concepts/trend-following
 - sources/haesen-2017-momentum-spillover
 - sources/houweling-2017-factor-investing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
 - sources/lee-2021-cds-momentum-cross-market-spillovers
+- sources/israel-2017-common-factors-corporate-bond-returns
 tags:
 - momentum
 - corporate-bonds
 - factor-investing
 - anomalies
 title: Bond Momentum
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 24c7f565-7c35-5502-8f0b-f071d475a18a
 ---
 
@@ -86,6 +87,7 @@ Using firm-specific (idiosyncratic) returns rather than total returns
 
 ## Sources
 
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]

@@ -1,28 +1,30 @@
 ---
-title: Spread
+content_hash: sha256:d8f9877b9d817981cac4ef2e98ff8bf297452b91001e9e5f9ded00daa9c2740b
+created: 2026-08-06 00:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/spread
 page_type: concept
-revision_id: 1
-created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+related:
+- concepts/pairs-trading
+- concepts/mean-reversion
+- concepts/credit-spread-curve
+revision_id: 2
+schema_version: 2
+sources:
+- sources/moura-2016-pairs-trading-kalman
+- sources/triantafyllopoulos-2011-mean-reverting-spreads
+- sources/zhang-2021-pairs-general-ssm
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
 tags:
 - spread
 - pairs-trading
 - mean-reversion
 - statistical-arbitrage
 - fixed-income
-sources:
-- sources/moura-2016-pairs-trading-kalman
-- sources/triantafyllopoulos-2011-mean-reverting-spreads
-- sources/zhang-2021-pairs-general-ssm
-related:
-- concepts/pairs-trading
-- concepts/mean-reversion
-- concepts/credit-spread-curve
-mind_map_priority: medium
-schema_version: 2
+title: Spread
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: ce2ae689-dd3d-53ba-a382-41ef8e909b9e
-content_hash: sha256:4a07a1edf4e84d855e9d971b0f76143e1a271e2e03b80a120d5867a9481eaf7c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -56,4 +58,7 @@ The other sense is the yield a risky bond pays above the risk-free rate. That is
 
 **Not yet written:** `concepts/hedge-ratio`, `concepts/half-life`, `concepts/ornstein-uhlenbeck-process`, `concepts/bid-ask-spread`
 
+## Sources
+
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 <!-- AUTHORED REGION END -->

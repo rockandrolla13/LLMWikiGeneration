@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:eaf36b81afc0447cdf3e7195abfab5945224ac68afe5084066f792c72242d7dc
+content_hash: sha256:d372e546930a7d0081f4371cea5ea3dc41f4eb7c5b3e986ead48efb87718c7d2
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/structural-models
@@ -8,7 +8,7 @@ related:
 - concepts/merton-model
 - concepts/credit-spread-puzzle
 - concepts/bond-liquidity
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/huang-2025-global-credit-spread-puzzle
@@ -20,6 +20,7 @@ sources:
 - sources/wang-2013-cds-spreads-variance-risk-premia
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/correia-2012-value-investing-credit-markets
 tags:
 - structural-models
 - credit-risk
@@ -27,8 +28,8 @@ tags:
 - bond-pricing
 - credit-spreads
 title: Structural Models
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: e4ccdaf7-b7e1-5a38-a2c7-36ef8cf53846
 ---
 
@@ -66,6 +67,7 @@ Adding liquidity closes much of the gap. Cross-sectional R² rises from 19–35%
 
 ## Sources
 
+- [[sources/correia-2012-value-investing-credit-markets|Value Investing in Credit Markets]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]

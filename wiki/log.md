@@ -47,3 +47,9 @@ Operation ID: op_955147eb8c65
 Added a separate page for chapter 19 (OneScore) of *Systematic Investing in Credit*, with Tables 19.2-19.4 transcribed from page images. Updated 11 pages with links.
 
 Operation ID: op_6041749c5f06
+
+## 2026-10-22T21:10:31Z ingest
+
+Ingested 2 papers and 2 books from `raw/fundamental-quantmental/`: *Value Investing in Credit Markets*, *Common Factors in Corporate Bond Returns*, *A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt*, *Distress Investing: Principles and Technique*. Created 31 pages, updated 58.
+
+Operation ID: op_0cdb8cc1f169

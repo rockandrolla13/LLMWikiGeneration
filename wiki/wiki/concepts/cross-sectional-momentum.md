@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:b6e4d64bc76d436db5012efae3ec3794dd5eefd1d448efca6e5bf62170800d43
+content_hash: sha256:9bcdb07e248caf66ab216542844a0fc517a2d0dce344a39f430a8a88f70fc353
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/factor-investing
 - concepts/statistical-arbitrage
 - concepts/factor-momentum
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
@@ -21,10 +21,11 @@ sources:
 - sources/scheiber-2017-new-strategies-asset-classes-increased-performance
 - sources/lee-2021-cds-momentum-cross-market-spillovers
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/israel-2017-common-factors-corporate-bond-returns
 tags: []
 title: Cross-Sectional Momentum
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: e83785e5-3469-5e1e-adc8-24190d7d4569
 ---
 
@@ -41,6 +42,7 @@ A relative strategy ranking instruments by recent performance and going long the
 
 ## Sources
 
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]

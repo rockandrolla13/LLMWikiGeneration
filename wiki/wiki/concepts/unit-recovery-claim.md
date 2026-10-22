@@ -1,26 +1,28 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:82f1561342b7ee358e7e6c58b5ca68c1896e32c1b3b77746cf6ffaf404127a86
+content_hash: sha256:6d4dee71929a4d30784367265487250d42ff3e9ac345b291dc816944daa42f28
 created: '2026-10-05T15:52:11Z'
 page_id: concepts/unit-recovery-claim
 page_type: concept
 related:
 - concepts/credit-default-swaps
 - concepts/capital-structure-arbitrage
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/carr-2011-american-puts-credit-protection
 - sources/chan-2023-price-convergence-cds-put-option
 - sources/shi-2022-cds-implied-volatility-trading-strategies
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/whitman-2009-distress-investing
 tags:
 - credit-default-swaps
 - options
 - credit-risk
 title: Unit Recovery Claim
-updated: '2026-10-05T15:52:11Z'
-updated_by: op_afa4380123f6
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: a2513425-0d49-5511-8ad4-adfaadb45382
 ---
 
@@ -33,6 +35,8 @@ A credit claim that pays one dollar at the default time if default happens befor
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 - [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:a754b860704d3f1e8b57141b648d7bfac58807a98ebf79d7b6c11b417e630ae9
+content_hash: sha256:8f113c46cc9a35aad393460fd06af297a3af68896f2f05504fae4cf67ade5dc2
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/carry-rolldown
@@ -23,7 +23,7 @@ related:
 - concepts/trend-following
 - concepts/volatility-risk-premia
 - concepts/z-spread
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -50,14 +50,15 @@ sources:
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
 - sources/ms-2019-06-28-fx-volatility-playbook
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/whitman-2009-distress-investing
 tags:
 - fixed-income
 - portfolio-management
 - return-decomposition
 - trading-strategies
 title: Carry and Rolldown
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: e350d538-d44a-58db-b0db-1a181dd90ca8
 ---
 
@@ -120,5 +121,6 @@ Now also discussed in: [[sources/ms-2009-11-12-us-rate-strategist]], [[sources/m
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->
