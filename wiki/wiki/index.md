@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-10-07T18:47:00.755611Z'
+updated: '2026-10-22T15:31:38.113502Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-10-07T18:47:00.752261Z
+Generated: 2026-10-22T15:31:38.110210Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:ddecae91361fe75f
+Source hash: sha256:57a85a2d9f81c1e0
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-10-07
-Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, contradictions: 1)
+Last updated: 2026-10-22
+Total pages: 2038 (sources: 660, concepts: 762, entities: 606, analyses: 9, contradictions: 1)
 
 ## Sources
 - sources/ms-2018-11-25-the-bear-has-begun — 2019 US Credit Outlook: The Bear Has Begun
@@ -476,6 +476,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - sources/zhang-2024-powerful-p-e-composite — On the existence of powerful p-values and e-values for composite hypotheses
 - sources/dahlhaus-2013-online-spot-volatility-estimation-decomposition-nonlinear — On-line Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
 - sources/ms-2019-02-13-ecb-periphery-one-size — One Size Doesn't Fit All
+- sources/bendor-2021-onescore-chapter-19 — OneScore: Combining Quantitative and Fundamental Views in Credit
 - sources/ntakaris-2024-online-high-frequency-trading-stock-forecasting — Online High-Frequency Trading Stock Forecasting with Automated Feature Clustering and Radial Basis Function Neural Networks
 - sources/su-2026-llm-watermark-eprocesses — Online LLM watermark detection via e-processes
 - sources/hore-2026-monotone-density-calibration — Online monotone density estimation and log-optimal calibration
@@ -573,6 +574,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - sources/chen-2019-studying-regime-change-directional-change — Studying Regime Change using Directional Change
 - sources/ms-2020-03-29-full-court-policy-press — Sunday Start | What's Next in Global Macro: A Full-Court Policy Press
 - sources/kijima-2016-svm-enhanced-filtering-model-limit-order — SVM-Enhanced Filtering Model for Limit Order Book Dynamics
+- sources/bendor-2021-systematic-investing-in-credit — Systematic Investing in Credit
 - sources/li-2025-systematic-momentum — Systematic Momentum: A New Class of Price Patterns
 - sources/carver-2015-systematic-trading — Systematic Trading: A unique new method for designing trading and investing systems
 - sources/tran-2018-temporal-attention-augmented-bilinear-network-financial — Temporal Attention augmented Bilinear Network for Financial Time-Series Data Analysis
@@ -905,6 +907,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/efficient-importance-sampling — Efficient Importance Sampling
 - concepts/elasticity-economics — Elasticity
 - concepts/embeddings — Embeddings
+- concepts/empirical-duration — Empirical Duration
 - concepts/empirical-evaluation-causal-inference — Empirical evaluation of causal inference methods
 - concepts/enbpi — EnbPI (Ensemble batch Prediction Intervals)
 - concepts/energy-score — Energy Score
@@ -913,6 +916,8 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/epps-effect — Epps Effect
 - concepts/epsilon-operator-counterfactuals — Epsilon-Operator Semantics for Counterfactuals
 - concepts/equity-forward-pricing — Equity Forward Pricing
+- concepts/equity-momentum-in-credit — Equity Momentum in Credit
+- concepts/equity-short-interest — Equity Short Interest
 - concepts/error-correction-model — Error Correction Model
 - concepts/error-handling-and-logging — Error Handling and Logging
 - concepts/etf-creation-redemption-arbitrage — ETF Creation/Redemption Arbitrage
@@ -924,6 +929,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/event-risk — Event Risk
 - concepts/event-driven-microservices — Event-Driven Microservices
 - concepts/ewmac-carry-trading-rules — EWMAC and Carry Trading Rules
+- concepts/excess-spread-to-peers — Excess Spread to Peers (ESP)
 - concepts/exchangeability — Exchangeability
 - concepts/expectations-hypothesis-term-structure — Expectations Hypothesis of the Term Structure
 - concepts/expected-shortfall — Expected Shortfall
@@ -937,6 +943,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/factor-momentum — Factor Momentum
 - concepts/factor-signals-in-credit — Factor Signals in Credit
 - concepts/factor-timing — Factor Timing
+- concepts/fallen-angel — Fallen Angel
 - concepts/false-discovery-rate — False Discovery Rate
 - concepts/fama-french-factors — Fama-French Factors
 - concepts/fast-mean-reversion — Fast Mean Reversion
@@ -1043,6 +1050,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/inventory-risk — Inventory Risk
 - concepts/inverse-probability-weighting — Inverse Probability Weighting
 - concepts/ip-weighting-marginal-structural-models — IP Weighting and Marginal Structural Models
+- concepts/issuer-size-premium — Issuer Size Premium
 - concepts/jackknife-plus-after-bootstrap — Jackknife+ after Bootstrap (J+aB)
 - concepts/jackknife-plus — Jackknife+ Prediction
 - concepts/llm-jailbreaking — Jailbreaking
@@ -1083,6 +1091,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/limits-to-arbitrage — Limits to Arbitrage
 - concepts/linear-quadratic-control-kalman-filter — Linear-Quadratic Control and the Kalman Filter
 - concepts/linguistic-anti-patterns — Linguistic Anti-Patterns
+- concepts/liquidity-cost-score — Liquidity Cost Score (LCS)
 - concepts/liquidity-risk — Liquidity Risk
 - concepts/liquidity-scoring-mechanism — Liquidity Scoring Mechanism
 - concepts/llm-agent — LLM Agent
@@ -1105,6 +1114,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/look-ahead-bias-data-mining — Look-Ahead Bias and Data Mining
 - concepts/low-expected-returns — Low Expected Returns Challenge
 - concepts/low-rank-adaptation — Low-Rank Adaptation
+- concepts/low-risk-anomaly — Low-Risk Anomaly
 - concepts/lstm-networks — LSTM Networks
 - concepts/machine-learning-credit-modeling — Machine Learning for Credit Modeling
 - concepts/macro-cycle-cross-asset-allocation — Macro Cycle Cross-Asset Allocation
@@ -1178,6 +1188,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/negative-interest-rate-policy-forward-guidance — Negative Interest Rate Policy and Forward Guidance
 - concepts/negative-interest-rate-policy — Negative Interest Rate Policy and the Zero Lower Bound
 - concepts/nelson-siegel-model — Nelson-Siegel Model
+- concepts/new-issue-concession — New-Issue Concession
 - concepts/no-arbitrage-restrictions — No-Arbitrage Restrictions
 - concepts/non-exchangeable-conformal-prediction — Non-Exchangeable Conformal Prediction (NexCP)
 - concepts/non-fundamental-demand-shocks — Non-Fundamental Demand Shocks
@@ -1217,6 +1228,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/pep-8-style-guide — PEP 8 Style Guide
 - concepts/phillips-curve — Phillips Curve
 - concepts/positional-embeddings — Positional Embeddings
+- concepts/post-earnings-announcement-drift — Post-Earnings-Announcement Drift
 - concepts/potential-outcomes — Potential Outcomes and Counterfactual Causal Effects
 - concepts/prediction-intervals — Prediction Intervals
 - concepts/price-impact — Price Impact
@@ -1235,6 +1247,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/property-graph-model — Property Graph Model
 - concepts/prospect-theory — Prospect Theory
 - concepts/quant-factor-driven-markets — Quant and Factor-Driven Markets
+- concepts/quantamental-investing — Quantamental Investing
 - concepts/quantile-random-forest — Quantile Random Forests
 - concepts/quantile-regression — Quantile Regression
 - concepts/quantile-treatment-effects — Quantile Treatment Effects
@@ -1250,6 +1263,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/random-forest-proximity — Random Forest Proximity
 - concepts/randomised-controlled-trial — Randomised Controlled Trial
 - concepts/ranked-probability-score — Ranked Probability Score
+- concepts/rating-based-stop-loss — Rating-Based Stop-Loss
 - concepts/react-reasoning-acting — ReAct
 - concepts/react-agent — ReAct Agent
 - concepts/react-prompting — ReAct Prompting
@@ -1392,6 +1406,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - concepts/trust-boundaries — Trust Boundaries
 - concepts/truth-at-a-time — Truth at a Time
 - concepts/tukey-gh-transformation — Tukey g-and-h Transformation
+- concepts/turnover-buffer — Turnover Buffer
 - concepts/twin-crises — Twin Crises
 - concepts/ubiquitous-language — Ubiquitous Language
 - concepts/uncertainty-quantification — Uncertainty Quantification
@@ -1446,6 +1461,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - entities/adrian-pizzinga — Adrian Pizzinga
 - entities/ahl-man-group — AHL (Man Group)
 - entities/alaph-capital — Alaph Capital
+- entities/albert-desclee — Albert Desclée
 - entities/albert-ziegler — Albert Ziegler
 - entities/alec-radford — Alec Radford
 - entities/aleksandr-nozhnitskiy — Aleksandr Nozhnitskiy
@@ -1937,6 +1953,7 @@ Total pages: 2021 (sources: 658, concepts: 749, entities: 604, analyses: 9, cont
 - entities/shrina-poojara — Shrina B Poojara
 - entities/shunyu-yao — Shunyu Yao
 - entities/silvi-mantri — Silvi Mantri
+- entities/simon-polbennikov — Simon Polbennikov
 - entities/simon-t-bodilsen — Simon T. Bodilsen
 - entities/simona-boffelli — Simona Boffelli
 - entities/simone-formentin — Simone Formentin
