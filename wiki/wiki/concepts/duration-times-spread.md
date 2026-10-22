@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:34abb8c6e1f1f53578336dbf84f6d7084e567f4cf6ff03c50c01d7cb1a0afcc5
+content_hash: sha256:160d01d86327c560136963388088ae84a1167804067ed9fe60a634bab69a134b
 created: 2026-09-15 00:00:00+00:00
 mind_map_priority: high
 page_id: concepts/duration-times-spread
@@ -12,20 +12,21 @@ related:
 - concepts/volatility-targeting-position-sizing
 - concepts/bond-momentum
 - concepts/residual-momentum
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/bendor-2007-dts
 - sources/houweling-2017-factor-investing
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/bendor-2021-onescore-chapter-19
 tags:
 - duration-times-spread
 - spread-volatility
 - corporate-bonds
 - risk-model
 title: Duration Times Spread (DTS)
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T15:31:24Z'
+updated_by: op_6041749c5f06
 uuid: b7cc11c4-27e0-5d26-ba5b-5f78ea4aca34
 ---
 
@@ -65,5 +66,6 @@ Volatility forecasts built as DTS times historical relative spread volatility ar
 
 ## Sources
 
+- [[sources/bendor-2021-onescore-chapter-19|OneScore: Combining Quantitative and Fundamental Views in Credit]] (2021, chapter 19)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 affiliations:
 - Lehman Brothers, Quantitative Portfolio Strategy
-content_hash: sha256:1be572ee8bb2fc6b9d2b6ce51d05500e30de2cfac07d9adbb31f9a155a7240bd
+content_hash: sha256:bdd42b7b202c8c7f454aef62c973550f1a26a7b3f6450aeca935cd4c3a1488a4
 created: 2026-09-15 00:00:00+00:00
 entity_type: person
 page_id: entities/jay-hyman
@@ -11,18 +11,19 @@ related:
 - entities/lev-dynkin
 - entities/lehman-brothers
 - concepts/duration-times-spread
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/bendor-2007-dts
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/bendor-2021-onescore-chapter-19
 tags:
 - researcher
 - corporate-bonds
 - risk-model
 title: Jay Hyman
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T15:31:24Z'
+updated_by: op_6041749c5f06
 uuid: 03478e19-a7f1-5201-b4a9-3810b00dd09a
 ---
 
@@ -35,5 +36,6 @@ Affiliation as stated in the paper: Senior Analyst, Quantitative Portfolio Strat
 
 ## Papers in This Wiki
 
+- [[sources/bendor-2021-onescore-chapter-19|OneScore: Combining Quantitative and Fundamental Views in Credit]] (2021, chapter 19)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

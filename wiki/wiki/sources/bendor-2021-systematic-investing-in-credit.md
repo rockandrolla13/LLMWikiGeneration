@@ -5,7 +5,7 @@ authors:
 - Lev Dynkin
 - Jay Hyman
 - Simon Polbennikov
-content_hash: sha256:f2aa370784fe87276494b5ef6b30e2d5db994d5c36fbbba5f2b3acd4b14ef375
+content_hash: sha256:dcc4066eab4bbb2dbd075ff5376ab99786dadb3db99e247963a12c95f53366c3
 created: '2026-10-22T15:27:29Z'
 edition: 1st
 is_early_release: false
@@ -88,7 +88,8 @@ related:
 - entities/lev-dynkin
 - entities/jay-hyman
 - entities/simon-polbennikov
-revision_id: 1
+- sources/bendor-2021-onescore-chapter-19
+revision_id: 2
 schema_version: 2
 source_hash: sha256:3da27977b1a55ad23821c375533cf247df4c4c48f5b837e031bbc7993871f59d
 source_path: markdown_output/bendor-2021-systematic-investing-in-credit.md
@@ -104,8 +105,8 @@ tags:
 - index-inefficiencies
 - dts
 title: Systematic Investing in Credit
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T15:31:24Z'
+updated_by: op_6041749c5f06
 uuid: c6fc5fe5-87f5-598f-8c87-c0b73e24a5c1
 year: 2021
 ---
@@ -569,6 +570,8 @@ Implementation B, turnover budget. Monthly linear optimisation: maximise portfol
 Concepts: [[concepts/systematic-credit-relative-value|Systematic Credit Relative Value]] · [[concepts/factor-signals-in-credit|Factor Signals in Credit]] · [[concepts/duration-times-spread|Duration Times Spread (DTS)]] · [[concepts/cross-sectional-momentum|Cross-Sectional Momentum]] · [[concepts/value-premium|Value Premium]] · [[concepts/factor-investing|Factor Investing in Corporate Bonds]] · [[concepts/bond-liquidity|Bond Liquidity]] · [[concepts/information-ratio|Information Ratio]] · [[concepts/alpha-correlation-turnover|Alpha Correlation and Turnover]] · [[concepts/turnover-buffer|Turnover Buffer]] · [[concepts/liquidity-cost-score|Liquidity Cost Score (LCS)]]
 
 ### Chapter 19. OneScore: Combining Quantitative and Fundamental Views in Credit
+
+**Full chapter notes:** [[sources/bendor-2021-onescore-chapter-19|OneScore (chapter 19 page)]], with the method as steps and Tables 19.2–19.4.
 
 **Question.** How should ESP value and EMC momentum be combined at the issuer level, within sectors, so the output can sit next to fundamental analysts' issuer recommendations, and does the composite work?
 
