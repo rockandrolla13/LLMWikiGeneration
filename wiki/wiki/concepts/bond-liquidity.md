@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:96548fb8ff5a2a9b96b9965574512dca1235f653f12814d49ec2be6f32e13821
+content_hash: sha256:1cc148e277efcf397ea005720c087f0237ae6e32982d18a92976b1c610ce0713
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/bond-liquidity
@@ -9,7 +9,7 @@ related:
 - concepts/structural-models
 - concepts/corporate-bond-liquidity-premium
 - concepts/liquidity-risk
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/huang-2025-global-credit-spread-puzzle
@@ -25,6 +25,8 @@ sources:
 - sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/whitman-2009-distress-investing
 tags:
 - liquidity
 - corporate-bonds
@@ -32,8 +34,8 @@ tags:
 - credit-spreads
 - market-microstructure
 title: Bond Liquidity
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 98af7bca-952d-5087-b72a-c1d874f057a6
 ---
 
@@ -64,6 +66,8 @@ Illiquidity does not only widen spreads — it corrupts the data. [[sources/dick
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 <!-- AUTHORED REGION END -->

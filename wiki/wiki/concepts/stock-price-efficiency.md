@@ -1,21 +1,23 @@
 ---
-title: Stock Price Efficiency
+content_hash: sha256:f956231036db067f0ae43e2a5b4b7814d456376bec0d73a0dd03e6e6c47ef339
+created: 2026-05-21 12:00:00+00:00
+mind_map_priority: medium
 page_id: concepts/stock-price-efficiency
 page_type: concept
-revision_id: 1
-created: 2026-05-21 12:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related: []
+revision_id: 2
+schema_version: 2
+sources:
+- sources/chen-2024-jump-clustering-information-flows
+- sources/whitman-2009-distress-investing
 tags:
 - market-efficiency
 - information-flows
 - price-delay
-sources:
-- sources/chen-2024-jump-clustering-information-flows
-related: []
-mind_map_priority: medium
-schema_version: 2
+title: Stock Price Efficiency
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 6874694a-3dcd-5022-9a01-8c3d07bba5b2
-content_hash: sha256:a0c030b4c958bfcf9b5989fe5443f2dbf8d2a98c8965195ef56c8bdc7ca9e117
 ---
 
 <!-- AUTHORED REGION START -->
@@ -25,6 +27,7 @@ content_hash: sha256:a0c030b4c958bfcf9b5989fe5443f2dbf8d2a98c8965195ef56c8bdc7ca
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/chen-2024-jump-clustering-information-flows|Jump Clustering, Information Flows, and Stock Price Efficiency (2024)]] — central; jump-clustering outperforms Hou-Moskowitz price delay in capturing post-earnings-announcement drift
 
 ## Related Concepts

@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:6bad79705b1f5712afdb40fac279f0ee96ba2d29e20bd53f58f07909b11bd7ad
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -8,16 +9,16 @@ page_id: concepts/credit-growth
 page_type: concept
 related:
 - concepts/default-rates
-revision_id: 1
+revision_id: 2
+schema_version: 2
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes
+- sources/whitman-2009-distress-investing
 tags: []
 title: Credit growth
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 41252490-355b-50e0-b218-32cffccc9698
-content_hash: sha256:7ea701812f436c531f16ceba17ce4d5577f7beb329ecafda00ad5c9f00f11642
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +30,7 @@ The pace of expansion in aggregate financing to the economy, used as a leading i
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/ms-2019-01-18-china-doing-whatever-it-takes|China – Doing whatever it takes]]
 
 ## Related Concepts

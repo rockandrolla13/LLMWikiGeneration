@@ -1,20 +1,21 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:2801eef7e2837f320a57ac83df8598bd25bf8fbe422905d86e04ef88a54ab8fd
+content_hash: sha256:f4ec4f993f644a834ff14ebdb7b7b8268e6022640c6600e580b5ce812feff665
 created: '2026-10-22T15:27:29Z'
 page_id: concepts/low-risk-anomaly
 page_type: concept
 related:
 - concepts/factor-signals-in-credit
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/israel-2017-common-factors-corporate-bond-returns
 tags: []
 title: Low-Risk Anomaly
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 94816e55-e8b4-599d-93a2-b0b8d4594d38
 ---
 
@@ -27,6 +28,7 @@ The finding that lower-risk securities earn higher risk-adjusted returns than hi
 
 ## Sources
 
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021), chapter 1, 11
 
 ## Related Concepts

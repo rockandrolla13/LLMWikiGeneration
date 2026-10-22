@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:f050cdbeb4980798272348418f368b426b3af0dea47cf070106569f10c1eb613
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/lbo-risk
 page_type: concept
@@ -8,20 +9,22 @@ related:
 - concepts/lever-score
 - concepts/leveraged-recapitalization
 - concepts/private-credit
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/lehman-2007-qcr-quarterly
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/whitman-2009-distress-investing
 tags:
 - creditETF
 - event-risk
 - LBO
 - corporate-credit
 title: LBO Risk
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: ec337d61-a180-5719-ac3d-59ce16d596f1
-content_hash: sha256:559d1b2edab4f99b03ca409e5a17c4bfaec04e4aa77d6c0cf6338014bebd9307
 ---
 
 <!-- AUTHORED REGION START -->
@@ -112,4 +115,9 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 
 - [[concepts/high-performance-computing-credit-subsector|high-performance-computing-credit-subsector]]
 - [[concepts/private-credit|private-credit]]
+
+## Sources
+
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 <!-- AUTHORED REGION END -->

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:ee5f3f1d40214bcc50d0825009bcf13203080e76e2e29f3ceda4b4f65f4731a3
+content_hash: sha256:fdc0d4ac1b33fe21d2a3e7bdcd3edd2238c032d79e95af173bc04c3dff5d6d2a
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/credit-default-swaps
@@ -8,7 +8,7 @@ related:
 - concepts/credit-default-swap-spread
 - concepts/cds-bond-basis
 - concepts/hazard-rate-curve
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/shi-2022-cds-options-comovement
@@ -20,6 +20,7 @@ sources:
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/whitman-2009-distress-investing
 tags:
 - credit-default-swaps
 - credit-derivatives
@@ -27,8 +28,8 @@ tags:
 - CDS
 - hazard-rate
 title: Credit Default Swaps
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 56ee8e83-6a37-510a-a70d-61057edd1005
 ---
 
@@ -68,6 +69,7 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 
 ## Sources
 
+- [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]

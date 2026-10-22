@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:cdf342da8da873a9beb42286e4a0eff90f17547ec7459d4e3e242adf035c6f34
+content_hash: sha256:0c1814371160e4bbc8c56c82bb4c2938c781fe1b900f965b68afb8cdd4d5b817
 created: 2026-04-26 02:20:00+00:00
 page_id: concepts/credit-spread-puzzle
 page_type: concept
@@ -19,12 +19,13 @@ related:
 - concepts/option-implied-credit-information
 - concepts/structural-models
 - sources/huang-2025-global-credit-spread-puzzle
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
 - sources/cremers-2008-individual-stock-option-prices-credit-spreads
 - sources/wang-2013-cds-spreads-variance-risk-premia
+- sources/correia-2012-value-investing-credit-markets
 tags:
 - credit-spreads
 - structural-models
@@ -32,8 +33,8 @@ tags:
 - bond-pricing
 - liquidity
 title: Credit Spread Puzzle
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 682793b6-7cd9-5f31-9199-3f410c921991
 ---
 
@@ -111,6 +112,7 @@ Japan shows little evidence of the credit spread puzzle, warranting further inve
 
 ## Sources
 
+- [[sources/correia-2012-value-investing-credit-markets|Value Investing in Credit Markets]] (2012)
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/cremers-2008-individual-stock-option-prices-credit-spreads|Individual Stock-Option Prices and Credit Spreads]]
 - [[sources/huang-2025-global-credit-spread-puzzle|Huang et al. (2025)]]

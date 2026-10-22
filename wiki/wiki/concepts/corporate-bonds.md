@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:50a9736a0133e9d437f076727110fe346fa905f3501f6a61f77bcbc2bbe0f52b
+content_hash: sha256:7219fd90e4494aa9228f0967f4048067b094900e2450f12398e42f069f870383
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,7 +44,7 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
@@ -85,13 +85,15 @@ sources:
 - sources/avramov-2025-predictability-corporate-bond-returns-structured-approach
 - sources/dickerson-2026-co-pricing-factor-zoo
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
+- sources/israel-2017-common-factors-corporate-bond-returns
+- sources/kricheff-2012-pragmatists-guide-leveraged-finance
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 ---
 
@@ -102,6 +104,8 @@ uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 
 ## Sources
 
+- [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 - [[sources/huber-2026-information-flows-trading-networks|Information Flows in Trading Networks (2026)]] — central; the asset class for the insurer-dealer trading-network analysis

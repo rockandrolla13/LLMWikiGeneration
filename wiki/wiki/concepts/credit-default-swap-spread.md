@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:b1553015acf8d7228b297660dbde114a000c30bd77e0b45c2a1cdccc72736d6f
+content_hash: sha256:76d08e256e18acd097e704fd2069dcfffe0c6dc6b53e9b96ce5d731c77569a9f
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
 - concepts/liquidity-risk
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
@@ -24,10 +24,11 @@ sources:
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/wang-2013-cds-spreads-variance-risk-premia
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/correia-2012-value-investing-credit-markets
 tags: []
 title: Credit Default Swap Spread
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 1cd16a56-7835-5b62-acd6-7a5f71d02f40
 ---
 
@@ -40,6 +41,7 @@ The annualized cost of insurance against default on a firm's debt, used as the c
 
 ## Sources
 
+- [[sources/correia-2012-value-investing-credit-markets|Value Investing in Credit Markets]] (2012)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]

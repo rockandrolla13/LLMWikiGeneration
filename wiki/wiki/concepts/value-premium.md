@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:0a4c1607bcef0861fea29db53a997d467629dc4cd152dd9fc0884f17d6378007
+content_hash: sha256:505b7be7047d99bf2ab0b313e706d77f2a783f8aa4084769db0561ba307f4679
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,16 +12,18 @@ related:
 - concepts/factor-investing
 - concepts/fama-french-factors
 - concepts/mean-reversion
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/correia-2012-value-investing-credit-markets
+- sources/israel-2017-common-factors-corporate-bond-returns
 tags: []
 title: Value Premium
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-10-22T21:10:31Z'
+updated_by: op_0cdb8cc1f169
 uuid: 0f61dd20-c5b4-589a-8601-46be299279d9
 ---
 
@@ -34,6 +36,8 @@ The historical outperformance of cheap (high book-to-price) assets over expensiv
 
 ## Sources
 
+- [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
+- [[sources/correia-2012-value-investing-credit-markets|Value Investing in Credit Markets]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/ilmanen-2011-expected-returns|Expected Returns: An Investor's Guide to Harvesting Market Rewards]]
