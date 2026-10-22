@@ -1,6 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
+content_hash: sha256:2c84b7c1915aac479dad553d126ed0a765803b074ba0aaa0a7427d455903a125
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -23,7 +24,8 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 2
+revision_id: 3
+schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/ms-2010-09-15-em-quantitative-quarterly
@@ -38,13 +40,12 @@ sources:
 - sources/ms-2020-03-10-cross-asset-moves-context
 - sources/ms-2020-03-17-cross-asset-playbook-brace-for-recession
 - sources/ms-2020-03-25-global-volatility-playbook
+- sources/bendor-2021-systematic-investing-in-credit
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 23edd06e-71d8-5472-a978-687950c52605
-content_hash: sha256:dca96e027df237a9d84e73338bd911ba6e5ca430fc36508be97e9a3c2b07163c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -56,6 +57,7 @@ The excess expected return over a riskless rate that investors earn for bearing 
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/ilmanen-2011-expected-returns|Expected Returns: An Investor's Guide to Harvesting Market Rewards]]
 
 ## Related Concepts

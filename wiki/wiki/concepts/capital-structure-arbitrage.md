@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:96646774d70ef35eab5b87d2e738715cd2fbe4c8c8b86ecea156ef747619e365
+content_hash: sha256:5a47b17fa9d0b02ef7de20bba27c22ec967ef541c4770d730e1d27d94ad9453e
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/liquidity-risk
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
@@ -23,10 +23,11 @@ sources:
 - sources/lee-2021-cds-momentum-cross-market-spillovers
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/bendor-2021-systematic-investing-in-credit
 tags: []
 title: Capital Structure Arbitrage
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: f813e217-43ab-54a4-92f3-7925808567ff
 ---
 
@@ -39,6 +40,7 @@ A convergence-trading strategy that bets on the realignment of a firm's equity a
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
 - [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:a754b860704d3f1e8b57141b648d7bfac58807a98ebf79d7b6c11b417e630ae9
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/carry-rolldown
@@ -22,7 +23,8 @@ related:
 - concepts/trend-following
 - concepts/volatility-risk-premia
 - concepts/z-spread
-revision_id: 3
+revision_id: 4
+schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
 - sources/martin-2024-credit-curve
@@ -47,16 +49,16 @@ sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
 - sources/ms-2019-06-28-fx-volatility-playbook
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - fixed-income
 - portfolio-management
 - return-decomposition
 - trading-strategies
 title: Carry and Rolldown
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: e350d538-d44a-58db-b0db-1a181dd90ca8
-content_hash: sha256:a81ed469f5418661807445a7f6a5df8444709e042bd59534ec9c4acb65700cb0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -115,4 +117,8 @@ Now also discussed in: [[sources/ilmanen-2011-expected-returns]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2009-11-12-us-rate-strategist]], [[sources/ms-2015-03-06-bond-market-indicators]], [[sources/ms-2016-04-13-euro-sovereign-bond-market-indicators]], [[sources/ms-2016-09-27-momentum-for-diversification]], [[sources/ms-2017-06-15-bmi2-xbmi-models]], [[sources/ms-2018-02-27-who-buys-treasuries]], [[sources/ms-2018-03-16-toward-more-tightening]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2018-11-05-trading-risk-premia-emfx-virp]], [[sources/ms-2019-01-26-duration-and-curves]], [[sources/ms-2019-01-28-european-credit-reluctant-rally]], [[sources/ms-2019-02-03-self-catalysing-dollar-weakness]], [[sources/ms-2019-02-09-dont-miss-the-bull-market]], [[sources/ms-2019-02-11-emfx-quants-lab-steady-path]], [[sources/ms-2019-02-13-eurex-futures-rolls]], [[sources/ms-2019-04-05-crossing-the-rubicon-government-bonds]], [[sources/ms-2019-04-05-long-dated-equity-vol]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2019-05-17-tariffs-government-bonds]], [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs]], [[sources/ms-2019-06-28-fx-volatility-playbook]]
+
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

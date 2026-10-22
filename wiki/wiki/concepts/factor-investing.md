@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:7eb7a9153485d7b7ae21d7c9bc80d5644be7e6cd75edf73bf666ad2a1490fc8d
+content_hash: sha256:b3c14a7fb54b6c06d79b62d025200b699569b8a68a1965dd439406be453b87ab
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/factor-investing
 page_type: concept
@@ -32,7 +32,7 @@ related:
 - concepts/trend-following
 - concepts/value-premium
 - sources/houweling-2017-factor-investing
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
@@ -44,6 +44,7 @@ sources:
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
 - sources/dickerson-2026-co-pricing-factor-zoo
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - factor-investing
 - corporate-bonds
@@ -53,8 +54,8 @@ tags:
 - momentum
 - low-risk
 title: Factor Investing in Corporate Bonds
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: d37b4007-5179-5d0b-ba63-0f1957858fcd
 ---
 
@@ -121,6 +122,7 @@ Factor investing applies systematic, rules-based strategies to corporate bond ma
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
 - [[sources/houweling-2017-factor-investing|Houweling & van Zundert (2017)]]
 - [[sources/dickerson-2024-bond-pitfalls|Dickerson et al. (2024)]]

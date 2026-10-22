@@ -1,8 +1,8 @@
 ---
+content_hash: sha256:b1d3be5b0fa2d70b24dcb0506099c74a61f58278eac33fbb464cb39a024f2556
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/residual-momentum
 page_type: concept
-source_path: markdown_output/ssrn_id2932937_code158781.md
 related:
 - concepts/bond-momentum
 - concepts/spillover-effect
@@ -10,7 +10,11 @@ related:
 - sources/haesen-2017-momentum-spillover
 - concepts/factor-momentum
 - sources/ehsani-2022-factor-momentum
-revision_id: 2
+revision_id: 3
+schema_version: 2
+source_path: markdown_output/ssrn_id2932937_code158781.md
+sources:
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - momentum
 - residual-returns
@@ -18,10 +22,9 @@ tags:
 - risk-management
 - corporate-bonds
 title: Residual Momentum
-updated: '2026-09-15T00:00:00Z'
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: a5b66ad3-9e58-5268-913b-27a594f2d184
-content_hash: sha256:990886d7fee1b64654375e215e3cc5d72f8a4c106c0c0ba66ed350e47de0fe7d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -126,6 +129,7 @@ So the choice of residualising model decides what the signal measures. That matt
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/haesen-2017-momentum-spillover|Haesen et al. (2017)]]
 - [[sources/ehsani-2022-factor-momentum|Ehsani & Linnainmaa (2022)]]
 

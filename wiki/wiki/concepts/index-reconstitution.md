@@ -1,26 +1,28 @@
 ---
-title: Index Reconstitution
+content_hash: sha256:6719c2ebcdccc233772eb90f857423aaf0d556e88391cfbb5cb6a0e3f559bb7a
+created: 2026-05-06 23:35:00+00:00
+mind_map_priority: medium
 page_id: concepts/index-reconstitution
 page_type: concept
-revision_id: 1
-created: 2026-05-06 23:35:00+00:00
-updated: '2026-06-20T01:03:51Z'
+related:
+- concepts/etf-flows
+- concepts/flow-decomposition
+revision_id: 2
+schema_version: 2
+sources:
+- sources/chao-2019-etf-flows-prices
+- sources/optiver-2025-corporate-bond-etf-contraflow
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - etf
 - index-investing
 - passive-investing
 - price-impact
 - russell-reconstitution
-sources:
-- sources/chao-2019-etf-flows-prices
-- sources/optiver-2025-corporate-bond-etf-contraflow
-related:
-- concepts/etf-flows
-- concepts/flow-decomposition
-mind_map_priority: medium
-schema_version: 2
+title: Index Reconstitution
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 6e36961f-58a0-50e1-bd20-9a0b05dfb194
-content_hash: sha256:7491c534d3265b80670e720f8adc8adf15534764e13af23091d88d1c9a4474e9
 ---
 
 <!-- AUTHORED REGION START -->
@@ -82,4 +84,7 @@ When a security is **deleted** from an index:
 - [[sources/chao-2019-etf-flows-prices|Chao et al. (2019)]]
 - [[sources/optiver-2025-corporate-bond-etf-contraflow|Optiver (2025)]]
 
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

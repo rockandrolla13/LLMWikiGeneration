@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:414324b632e23992e1ba6cfd7c4df1889fa98acb0b2e8d600ec6cc8d10759c3a
+content_hash: sha256:ee5f3f1d40214bcc50d0825009bcf13203080e76e2e29f3ceda4b4f65f4731a3
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/credit-default-swaps
@@ -8,7 +8,7 @@ related:
 - concepts/credit-default-swap-spread
 - concepts/cds-bond-basis
 - concepts/hazard-rate-curve
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/shi-2022-cds-options-comovement
@@ -19,6 +19,7 @@ sources:
 - sources/lee-2021-cds-momentum-cross-market-spillovers
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - credit-default-swaps
 - credit-derivatives
@@ -26,8 +27,8 @@ tags:
 - CDS
 - hazard-rate
 title: Credit Default Swaps
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 56ee8e83-6a37-510a-a70d-61057edd1005
 ---
 
@@ -67,6 +68,7 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
 - [[sources/lee-2021-cds-momentum-cross-market-spillovers|CDS Momentum: Slow-Moving Credit Ratings and Cross-Market Spillovers]]

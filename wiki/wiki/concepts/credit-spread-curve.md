@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:46aa6fdfca039e621fc0b3377b74f80609ee8a7c982a54d92dba2dc5b150305a
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: high
 page_id: concepts/credit-spread-curve
@@ -23,7 +24,8 @@ related:
 - concepts/survival-probability
 - concepts/term-structure-risk-premium
 - concepts/z-spread
-revision_id: 3
+revision_id: 4
+schema_version: 2
 sources:
 - sources/martin-2024-credit-curve
 - sources/ms-2009-11-12-us-rate-strategist
@@ -47,16 +49,16 @@ sources:
 - sources/ms-2019-05-23-value-tier2-seniors
 - sources/ms-2020-03-10-cross-asset-moves-context
 - sources/ms-2020-04-01-in-the-flow-q1-recap
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - fixed-income
 - credit-risk
 - bond-pricing
 - yield-curves
 title: Credit Spread Curve
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 9e3ce891-4093-5a06-8ca1-50f2d30caf89
-content_hash: sha256:326dbac9bf0d694399c154ab06f443f2d1167316953da5cf1a40d3d9950896d9
 ---
 
 <!-- AUTHORED REGION START -->
@@ -115,4 +117,8 @@ $$s(t) \approx -\frac{\ln Q(t)}{t} \cdot (1 - R)$$
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2009-11-12-us-rate-strategist]], [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources/ms-2011-04-18-hy-pricing-tomorrows-deleveraging]], [[sources/ms-2012-03-12-what-were-watching]], [[sources/ms-2013-12-04-faqs-on-corporate-hybrids]], [[sources/ms-2014-02-21-corporate-hybrid-primer]], [[sources/ms-2015-11-16-corporate-hybrids-playbook]], [[sources/ms-2016-04-13-euro-sovereign-bond-market-indicators]], [[sources/ms-2017-06-23-ig-fundamentals-in-good-shape]], [[sources/ms-2017-07-10-european-credit-watch]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-01-28-european-credit-reluctant-rally]], [[sources/ms-2019-01-28-european-credit-watch]], [[sources/ms-2019-02-01-credit-strategy-chartbook]], [[sources/ms-2019-02-04-corporate-hybrids-playbook]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-03-15-4q18-credit-fundamentals]], [[sources/ms-2019-04-12-meet-in-the-middle]], [[sources/ms-2019-05-23-value-tier2-seniors]], [[sources/ms-2020-03-10-cross-asset-moves-context]], [[sources/ms-2020-04-01-in-the-flow-q1-recap]]
+
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

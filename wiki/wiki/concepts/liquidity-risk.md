@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:a4753fe407bc24456c1619264dfb8fdbfe16d5fd89adc641f6d5d150cf1a244a
+content_hash: sha256:e9ce09b05d718568ed97f648876fe886e1e2bffa10c00829442d04e4cc328926
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -43,13 +43,15 @@ sources:
 - sources/wang-2012-order-imbalance-liquidity-returns-us-treasury-market
 - sources/wang-2025-forecasting-liquidity-withdraw-machine-learning-models
 - sources/wu-2013-big-data-approach-analyzing-market-volatility
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -110,4 +112,8 @@ Now also discussed in: [[sources/kapadia-2012-limited-arbitrage-equity-credit]]
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms-2019-03-04-a-premium-for-size]]
+
+## Sources
+
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 <!-- AUTHORED REGION END -->

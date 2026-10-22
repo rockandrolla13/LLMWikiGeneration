@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:cdec3b804fddf4d5d711725003acb128e6e580934ece3862054a4505f4b889fe
+content_hash: sha256:eaf36b81afc0447cdf3e7195abfab5945224ac68afe5084066f792c72242d7dc
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/structural-models
@@ -8,7 +8,7 @@ related:
 - concepts/merton-model
 - concepts/credit-spread-puzzle
 - concepts/bond-liquidity
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/huang-2025-global-credit-spread-puzzle
@@ -19,6 +19,7 @@ sources:
 - sources/finger-2002-creditgrades-technical-document
 - sources/wang-2013-cds-spreads-variance-risk-premia
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/bendor-2021-systematic-investing-in-credit
 tags:
 - structural-models
 - credit-risk
@@ -26,8 +27,8 @@ tags:
 - bond-pricing
 - credit-spreads
 title: Structural Models
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: e4ccdaf7-b7e1-5a38-a2c7-36ef8cf53846
 ---
 
@@ -65,6 +66,7 @@ Adding liquidity closes much of the gap. Cross-sectional R² rises from 19–35%
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]

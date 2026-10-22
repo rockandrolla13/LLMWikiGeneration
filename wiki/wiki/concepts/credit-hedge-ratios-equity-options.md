@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:ef03d019ffc4314e6758002863e68d17f17c842fba11cbeccdae6631f7ace705
+content_hash: sha256:59a2d26102dcabde7e39ff66834185d2eadea24c83a403f15701fd1d749ce83e
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,16 +11,17 @@ related:
 - concepts/cds-bond-basis
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 - sources/finger-2002-creditgrades-technical-document
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/bendor-2021-systematic-investing-in-credit
 tags: []
 title: Credit Hedge Ratios with Equity Options
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-10-22T15:27:29Z'
+updated_by: op_955147eb8c65
 uuid: 84e951ea-1440-5ebd-9e01-c83bb824903a
 ---
 
@@ -33,6 +34,7 @@ Theoretical sensitivities of bond credit spread changes to equity put option ret
 
 ## Sources
 
+- [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
 - [[sources/avino-2024-hedging-credit-equity-options|Contingent Claims and Hedging of Credit Risk with Equity Options]]
