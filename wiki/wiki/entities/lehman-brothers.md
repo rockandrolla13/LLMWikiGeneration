@@ -3,9 +3,9 @@ title: Lehman Brothers
 page_id: entities/lehman-brothers
 page_type: entity
 entity_type: institution
-revision_id: 4
+revision_id: 5
 created: 2026-05-05 23:25:00+00:00
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 tags:
 - creditETF
 - investment-bank
@@ -35,6 +35,15 @@ sources:
 - sources/marks-2014-getting-lucky
 - sources/marks-2020-calibrating
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2016-on-the-couch
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-uncertainty
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-sea-change
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-nobody-knows-yet-again
 related:
 - entities/minh-trinh
 - entities/bodha-bhattacharya
@@ -44,8 +53,8 @@ related:
 - concepts/duration-times-spread
 schema_version: 2
 uuid: 0092a0a6-6f80-5542-b20c-7e6e6246f63f
-content_hash: sha256:f84b7dc241f7a6a7e74d8aa624c57f6943e719acdd15e64d2bd2b14eb0513845
-updated_by: op_5167dfe45417
+content_hash: sha256:21c787ad1044d4039cb67e3a1ce261b91529668a584c7e4b12e60045a4fb6d45
+updated_by: op_5d2ccaa20af0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -108,4 +117,13 @@ Despite producing sophisticated quantitative research, Lehman Brothers filed for
 - [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 <!-- AUTHORED REGION END -->

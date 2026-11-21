@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:53e7a60c9d9a663a0139396b29ec75ae0d02c24b2b70841d32cfd97c02fc324b
+content_hash: sha256:2d60415ec9ed9311738ac5c51336994b53e2175a0a784c360b2c099218126bdc
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/jp-morgan
 page_type: entity
 related: []
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
@@ -25,10 +25,13 @@ sources:
 - sources/marks-2025-cockroaches-in-the-coal-mine
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-which-way-now
+- sources/marks-2025-the-calculus-of-value
 tags: []
 title: J.P. Morgan
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
 ---
 
@@ -60,4 +63,7 @@ uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b57b7ce234b59a760b03fe884de65841de1830f4ffb4bfcb79221d973dd77026
+content_hash: sha256:375f08d7bd725b0b4391fd82472a7a071c040cf45aca6dd301526f236364e5b7
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/leverage-and-volatility
@@ -12,7 +12,7 @@ related:
 - concepts/funding-liquidity
 - concepts/hedge-funds
 - concepts/margin-of-safety
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -26,11 +26,13 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-so-much-thats-false-and-nutty
 - sources/marks-2009-touchstones
+- sources/marks-2020-which-way-now
+- sources/marks-2024-the-impact-of-debt
 tags:
 - howard-marks
 title: Leverage and Volatility
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_45a7f7c08e2c
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: 0a60ee69-3491-5027-acb8-0c76728864d7
 ---
 
@@ -56,6 +58,8 @@ Cited in 13 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 
 ## Related Concepts
 

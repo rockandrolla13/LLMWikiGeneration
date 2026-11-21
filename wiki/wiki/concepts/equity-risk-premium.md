@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:793530411f85b3cf269201c57f6b45dd6806dd509e8ef80c85a23df47bdeab20
+content_hash: sha256:fa486dee1ad146fd1bd914e911bb8141663a8d35b05380291aa103ee2789257f
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/equity-risk-premium
@@ -12,7 +12,7 @@ related:
 - concepts/covid-19-market-crisis-2020
 - concepts/asset-bubbles
 - concepts/low-expected-returns
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2000-investment-miscellany
@@ -21,11 +21,13 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2013-the-outlook-for-equities
 - sources/marks-2021-2020-in-review
+- sources/marks-2020-time-for-thinking
+- sources/marks-2025-on-bubble-watch
 tags:
 - howard-marks
 title: Equity Risk Premium and Expected Equity Returns
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 uuid: 0e3bf067-ee94-5262-bb03-1b637ca9ed51
 ---
 
@@ -46,6 +48,8 @@ Cited in 8 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 
 ## Related Concepts
 

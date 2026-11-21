@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/citigroup
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 sources:
 - sources/citi-global-theme-book
 - sources/schofield-2019-citi-macro-views
@@ -40,13 +40,18 @@ sources:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2024-easy-money
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-you-bet
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2026-whats-going-on-in-private-credit
 tags: []
 title: Citigroup
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 schema_version: 2
 uuid: b7dc873a-55f0-55b8-b842-71add8384427
-content_hash: sha256:96b45ee46217d2a80808a0d34944fc5a872d302636468868a514b36d76d35649
+content_hash: sha256:bb542b5740273a90a5a6c763956ea99f0b9ee290aece3a92e8f0e89ac0600d76
 ---
 
 <!-- AUTHORED REGION START -->
@@ -91,4 +96,9 @@ content_hash: sha256:96b45ee46217d2a80808a0d34944fc5a872d302636468868a514b36d76d
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

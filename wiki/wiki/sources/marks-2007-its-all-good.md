@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:26111407069a25015bf57a3efcd1074f070f36f49dee94a81f714440693e8157
+content_hash: sha256:b47cf1f1f8e8b32f4b1fbb452f4c51c73b27bb6211ffde7d5ba1216b20826cd8
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-its-all-good
@@ -55,7 +55,9 @@ related:
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2017-expert-opinion
 - sources/marks-2024-easy-money
-revision_id: 2
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2023-taking-the-temperature
+revision_id: 3
 schema_version: 2
 source_hash: sha256:0d67e5c2f0a452c57acc629ae9337bcbd2eadaa99c3c946c8b5639a0d5c18de9
 source_path: markdown_output/2007-07-16-its-all-good.md
@@ -66,8 +68,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It's All Good
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: 01a968b6-1124-5656-bcb9-b9a10c60aa3b
 ---
 
@@ -164,6 +166,8 @@ July 2007, at the peak of the pre-crisis credit boom. Nearly every asset class a
 - Referred to by [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (December 18, 2014)
 - Referred to by [[sources/marks-2017-expert-opinion|Expert Opinion]] (January 10, 2017)
 - Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
 
 ## Notes on the Source Text
 

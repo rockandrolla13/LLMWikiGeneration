@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:45c9a0112033e78d29a52ac673b510fc0edc8fb8edd716004832ab6a854cd656
+content_hash: sha256:ca45ae3bb444bac67e4016f7a125665d2a1ab2dabff8f97fa063fbac0d155a98
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/high-yield-bonds
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/efficient-market-hypothesis
 - concepts/contrarian-market-timing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -42,11 +42,17 @@ sources:
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2020-you-bet
+- sources/marks-2020-latest-update
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2022-sea-change
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - howard-marks
 title: High Yield Bonds
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 69dc6102-cf79-5873-9a76-608c78fae605
 ---
 
@@ -88,6 +94,12 @@ Cited in 33 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

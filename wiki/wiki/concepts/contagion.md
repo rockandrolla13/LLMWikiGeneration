@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:a3db4939cb5b347bb3b0fdd879cba3e1009050d63e3e5e074a8ecccdd25b17e9
+content_hash: sha256:5e43437c4aec8c99fddbd29a2405effe20466d28f4e089ce41b30fdee3a167b5
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/contagion
@@ -12,7 +12,7 @@ related:
 - concepts/market-crash-liquidity-crisis
 - concepts/global-financial-crisis
 - concepts/funding-liquidity
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2007-its-all-good-really
@@ -21,11 +21,12 @@ sources:
 - sources/marks-2008-the-aviary
 - sources/marks-2008-plan-b
 - sources/marks-2014-the-lessons-of-oil
+- sources/marks-2024-mr-market-miscalculates
 tags:
 - howard-marks
 title: Contagion
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_2e030528c3d4
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 uuid: 2cdcb15d-baf8-5061-97eb-875e5979147d
 ---
 
@@ -46,6 +47,7 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 
 ## Related Concepts
 

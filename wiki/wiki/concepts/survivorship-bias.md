@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/look-ahead-bias
-revision_id: 4
+revision_id: 5
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 - sources/ellenberg-2014-how-not-to-be-wrong
@@ -23,13 +23,14 @@ sources:
 - sources/marks-2012-assessing-performance-records-a-case-study
 - sources/marks-2014-getting-lucky
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2025-on-bubble-watch
 tags: []
 title: Survivorship Bias
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 schema_version: 2
 uuid: 3e887aa9-a345-5175-aaac-73eb69ce4510
-content_hash: sha256:9b4518117d9cf239c33ff6deb4f6ce8d7e9f4bf970457110195f8f68ed613799
+content_hash: sha256:2b7fc57a0644112be62ef212fa4f47e419b23f089fe83d4e9f8b3c9975136a03
 ---
 
 <!-- AUTHORED REGION START -->
@@ -61,4 +62,5 @@ Upward bias in measured growth and persistence arising because calculations cond
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 - [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 <!-- AUTHORED REGION END -->

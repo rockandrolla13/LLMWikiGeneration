@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:43848167e694a2182612de4db9965329d078896de34c3f17e47e4b263d0325be
+content_hash: sha256:790ea40b0ebd593b3f57be0f882f79a80344f62f0b4c1e42f19f2e3da11b146b
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/margin-of-safety
@@ -12,7 +12,7 @@ related:
 - concepts/credit-cycle
 - concepts/leverage-and-volatility
 - concepts/probabilistic-thinking
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -35,11 +35,16 @@ sources:
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2025-gimme-credit
+- sources/marks-2020-uncertainty
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - howard-marks
 title: Margin of Safety
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7acf652407bd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: d8f52e27-ac95-5b78-9907-53b533134f6f
 ---
 
@@ -74,6 +79,11 @@ Cited in 25 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

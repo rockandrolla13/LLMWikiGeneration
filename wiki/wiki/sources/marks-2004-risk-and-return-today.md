@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:49520613e5e9b7356403b418752ebc57f8723acdd17c792fd1f47bb6f410021f
+content_hash: sha256:f7b8bbcd89245d4e4a89d2205f4188bf8aabe096eb208814e4432f2df0e819c8
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-risk-and-return-today
@@ -35,7 +35,8 @@ related:
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2013-ditto
-revision_id: 3
+- sources/marks-2023-taking-the-temperature
+revision_id: 4
 schema_version: 2
 source_hash: sha256:e194a0e1bb8e9ca919ea5ce04cac53e0954b873a63076463bf6ab8a41afdeb43
 source_path: markdown_output/2004-10-27-risk-and-return-today.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk and Return Today
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1173561154c7
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: 8a950711-6144-535f-b623-17a29a1731a1
 ---
 
@@ -124,6 +125,7 @@ Late 2004. The Fed had held short rates at multi-generational lows ("emergency r
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 - Referred to by [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (May 25, 2011)
 - Referred to by [[sources/marks-2013-ditto|Ditto]] (January 7, 2013)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
 
 ## Notes on the Source Text
 

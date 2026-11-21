@@ -10,7 +10,7 @@ related:
 - concepts/bubble-detection
 - concepts/corporate-bonds
 - concepts/sovereign-debt-crisis
-revision_id: 3
+revision_id: 4
 sources:
 - sources/lancaster-2021-fed-up
 - sources/marks-2007-the-race-to-the-bottom
@@ -20,13 +20,14 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2025-is-it-a-bubble
+- sources/marks-2018-the-seven-worst-words-in-the-world
 tags: []
 title: Corporate Credit Debt Bubble
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ad8fe77d6eb0
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_323adc9f2edc
 schema_version: 2
 uuid: 557124f9-4a39-5e1a-a504-891e384710b2
-content_hash: sha256:974f82eceffd9e31ae9e8e904b3948ca1686f2b78193b3cad9d866c0d40a50a0
+content_hash: sha256:d7d84dd82b2f68e10eced45834a7e270e52f5daf06dc457263f7a4a497d1537c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -49,6 +50,7 @@ The buildup of leveraged corporate and sovereign debt enabled by low rates; US c
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
 
 ## Related Concepts
 

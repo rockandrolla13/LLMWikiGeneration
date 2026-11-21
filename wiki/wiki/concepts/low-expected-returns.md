@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1994-risk-in-todays-markets
@@ -36,13 +36,20 @@ sources:
 - sources/marks-2018-latest-thinking
 - sources/marks-2020-coming-into-focus
 - sources/marks-2021-2020-in-review
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2020-time-for-thinking
+- sources/marks-2022-sea-change
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
 tags: []
 title: Low Expected Returns Challenge
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 schema_version: 2
 uuid: bb1f4f08-ebf9-5a91-8212-3cfe94f9876c
-content_hash: sha256:73d6e39dac1f8ce969299d66df3e56df25e5f36d06939bd91fd6abf6c790198f
+content_hash: sha256:fe013596a7357c09d99408b65d1660ce04babd921bba7d8a1e362d0763178375
 ---
 
 <!-- AUTHORED REGION START -->
@@ -87,4 +94,11 @@ The secular condition in which falling discount rates have pushed forward-lookin
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 <!-- AUTHORED REGION END -->

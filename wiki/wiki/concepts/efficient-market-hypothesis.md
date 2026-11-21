@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:b26ddc29444eacccf8f2741f9f7f6083cfc906aba636f2218eb4cc11938435b3
+content_hash: sha256:d065278ef22f24e0e2b8145bec2aad8144b323b4c0a02cffebc4d00dfe866e9e
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/efficient-market-hypothesis
@@ -12,7 +12,7 @@ related:
 - concepts/stock-price-efficiency
 - concepts/high-yield-bonds
 - concepts/contrarian-market-timing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -39,11 +39,16 @@ sources:
 - sources/marks-2015-its-not-easy
 - sources/marks-2018-investing-without-people
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-you-bet
+- sources/marks-2021-something-of-value
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - howard-marks
 title: Efficient Market Hypothesis and Inefficient Markets
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 68c49ea0-5393-59d4-acc8-147fe5facd45
 ---
 
@@ -82,6 +87,11 @@ Cited in 29 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 
 ## Related Concepts
 

@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_id: 3
+revision_id: 4
 sources:
 - sources/schofield-2019-citi-macro-views
 - sources/marks-2008-what-worries-me
@@ -23,13 +23,20 @@ sources:
 - sources/marks-2012-a-fresh-start-hopefully
 - sources/marks-2016-implications-of-the-election
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2016-political-reality
+- sources/marks-2019-this-time-its-different
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-nobody-knows-yet-again
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: Sovereign Debt Sustainability
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: 8e83b7e7-39a2-5b3f-9c0d-323b563bdd28
-content_hash: sha256:fcf7baf9ac566babcc86d2fc18d3bcd3ed7c480a3f746cbaa04b2c2a8242c2d0
+content_hash: sha256:da7bbccf295f1e8776335bab30eb19be621d4384c2f3591e296831ff83704e2e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -56,6 +63,13 @@ The capacity of governments to service rising public debt; public debt has risen
 - [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
 - [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2016-political-reality|Political Reality]] (2016)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 
 ## Related Concepts
 

@@ -18,7 +18,7 @@ related:
 - concepts/regime-switching-models
 - concepts/sovereign-debt-crisis
 - concepts/term-structure-risk-premium
-revision_id: 4
+revision_id: 5
 sources:
 - sources/lancaster-2021-fed-up
 - sources/ms-2009-11-12-us-rate-strategist
@@ -58,13 +58,26 @@ sources:
 - sources/marks-2020-knowledge-of-the-future
 - sources/marks-2020-coming-into-focus
 - sources/marks-2021-2020-in-review
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2019-this-time-its-different
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2019-mysterious
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-latest-update
+- sources/marks-2020-which-way-now
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2020-time-for-thinking
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2022-sea-change
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: Quantitative Easing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: 88ca75d4-25e6-5b90-8f8f-bbe59dd86a12
-content_hash: sha256:ef34e313af79e1fa0de18620f76db9241ed36f9763f79c0cead35e9e78ff21b5
+content_hash: sha256:911bb5292378b9e2a7d2e84a056d97a7648aefd674ca866cdb97748c013093e1
 ---
 
 <!-- AUTHORED REGION START -->
@@ -96,6 +109,19 @@ Central-bank purchases of bonds (and, in crisis, credit) plus repo operations to
 - [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 
 ## Related Concepts
 

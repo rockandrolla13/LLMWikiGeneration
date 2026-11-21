@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:efc10801286c67cb4e408dca25131c7269c976e3a537dda04cf6a643105b98f0
+content_hash: sha256:556e80efbe0f7290683796002ec95f75a82cd90583daf54815cab89d7afb4776
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2005-there-they-go-again
@@ -38,7 +38,9 @@ related:
 - sources/marks-2009-the-long-view
 - sources/marks-2010-all-that-glitters
 - sources/marks-2011-how-quickly-they-forget
-revision_id: 2
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2023-taking-the-temperature
+revision_id: 3
 schema_version: 2
 source_hash: sha256:3244c4052a4b3242169493ef195a9599d00bd2deceb59f0d2df2b7af0878f507
 source_path: markdown_output/2005-05-06-there-they-go-again.md
@@ -49,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: There They Go Again
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: f6819037-756f-5170-8970-4de849f48f3e
 ---
 
@@ -131,6 +133,8 @@ May 2005: low interest rates and risk premiums, a housing boom funded by easy fl
 - Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
 - Referred to by [[sources/marks-2010-all-that-glitters|All That Glitters]] (December 17, 2010)
 - Referred to by [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (May 25, 2011)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
 
 ## Notes on the Source Text
 

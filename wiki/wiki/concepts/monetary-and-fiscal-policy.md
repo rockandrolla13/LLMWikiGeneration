@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/great-moderation
-revision_id: 4
+revision_id: 5
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 - sources/marks-2001-what-lies-ahead
@@ -34,13 +34,29 @@ sources:
 - sources/marks-2020-coming-into-focus
 - sources/marks-2021-2020-in-review
 - sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2016-political-reality
+- sources/marks-2019-this-time-its-different
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2019-mysterious
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-latest-update
+- sources/marks-2020-which-way-now
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2020-time-for-thinking
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-nobody-knows-yet-again
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: Monetary and Fiscal Policy
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_55c9ccd665f7
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: 1e5460ab-b5c6-5362-bad8-0d0150df5a7a
-content_hash: sha256:ef297bf4a15357cd1d6d3acd0603fc375d0d572619f07ea254526cfa0c9321fb
+content_hash: sha256:edc091d61897d73ed66cadef73d15c729391509fb8244e85d3f0fb284a3e7acd
 ---
 
 <!-- AUTHORED REGION START -->
@@ -83,4 +99,20 @@ Central-bank and government tools - interest rates, money supply, taxation, spen
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2016-political-reality|Political Reality]] (2016)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

@@ -9,16 +9,18 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-2017-yet-again
+- sources/marks-2022-conversation-at-panmure-house
 tags: []
 title: Quant and Factor-Driven Markets
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 schema_version: 2
 uuid: 539ea9d8-64a9-5cb2-8245-4f3bccaf85ff
-content_hash: sha256:b3c98cb82ed163bfacfeba540bffdb9a30c3949051b854dc3059c62a9083e3c8
+content_hash: sha256:70c291298826c97a6d7a941764cfc5f61b44c682b5c49d229448d025bacaf3e5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +33,11 @@ The growing influence of systematic quantitative and factor strategies and algor
 ## Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
 
 ## Related Concepts
 

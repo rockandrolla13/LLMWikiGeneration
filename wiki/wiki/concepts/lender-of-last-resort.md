@@ -8,7 +8,7 @@ page_id: concepts/lender-of-last-resort
 page_type: concept
 related:
 - concepts/sovereign-debt-crisis
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ms-2011-11-29-europe-in-the-balance
 - sources/marks-2008-doesnt-make-sense
@@ -16,13 +16,14 @@ sources:
 - sources/marks-2009-will-it-work
 - sources/marks-2020-knowledge-of-the-future
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2020-which-way-now
 tags: []
 title: Lender of Last Resort
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_df4295f1fa0d
 schema_version: 2
 uuid: 4141d858-c8b7-55ae-9ea3-94dc4b1dc3d2
-content_hash: sha256:0f8718a372616e94b6754f80453786b04fb3adad8959b12ce1c4be95a18f5923
+content_hash: sha256:b60b7c810d85d7c1ec6f47d5b6cb4c26c03a9416c875d49431249d68a9b8895e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -43,6 +44,7 @@ An institution that can fund solvent governments in unlimited amount and duratio
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 - [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
 
 ## Related Concepts
 

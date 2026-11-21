@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:881f04c864860b92441dfb2f41374a5c97c09d60d9ff1fc2ccd0697a4d4ee8ae
+content_hash: sha256:78277a24bd54e0701c4e7e81ba4e003b9fe674109aa051679de2b055cf955287
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -13,7 +13,7 @@ related:
 - concepts/factor-investing
 - concepts/factor-models
 - concepts/liquidity-risk
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -29,10 +29,11 @@ sources:
 - sources/marks-2024-easy-money
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-a-look-under-the-hood
+- sources/marks-2026-whats-going-on-in-private-credit
 tags: []
 title: Illiquidity Premium
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_564e135c3d91
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 164c035b-5a5e-54b5-bcd1-fe3cbe776469
 ---
 
@@ -69,4 +70,5 @@ The extra expected return for holding assets that are costly or slow to trade, t
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

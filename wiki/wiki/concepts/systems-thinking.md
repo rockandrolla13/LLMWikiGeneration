@@ -10,17 +10,18 @@ related:
 - concepts/agent-based-models
 - concepts/causal-inference
 - concepts/chaos-theory
-revision_id: 1
+revision_id: 2
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/meadows-2008-thinking-in-systems
+- sources/marks-2022-the-pendulum-in-international-affairs
 tags: []
 title: Systems Thinking
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e14721db41dd
 schema_version: 2
 uuid: 01617fd3-b486-5f3b-8ffe-23aa01c9ae90
-content_hash: sha256:90c1832623941659725a5b8209e15b5cf8913f2210763b6bf6eca87500dd9851
+content_hash: sha256:357a92c1e32c174f0d05fc9f558907c04f3790fd829fc305a83a9b99c3e5d08f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -34,6 +35,10 @@ A way of seeing the world as interconnected wholes - elements, interconnections,
 
 - [[sources/dawson-2020-systems-mental-models|Thinking in Systems and Mental Models: Think Like a Super Thinker]]
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (2022)
 
 ## Related Concepts
 

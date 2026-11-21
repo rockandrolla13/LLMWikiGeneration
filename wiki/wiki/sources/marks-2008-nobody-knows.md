@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:5149709d0faa84e5e19717a88eb00d82b7fe0caa11e902767c3bea44ae0f0645
+content_hash: sha256:2a02da8755fc2d2c6e7d10b8b48591d167bd8a11ae7643d98771a794decf4bae
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-nobody-knows
@@ -40,7 +40,10 @@ related:
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-plan-b
-revision_id: 1
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-nobody-knows-yet-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:24a7c77c00617e452270a903b7b92aa5287a651f39e554e73ac8815dae1d02fa
 source_path: markdown_output/2008-09-19-nobody-knows.md
@@ -51,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Nobody Knows
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_976e9d9d6bca
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: a51b62c3-7ee9-5a17-8fe3-886d7726fab6
 ---
 
@@ -134,6 +137,9 @@ September 2008, the peak of the global financial crisis: the failure or rescue o
 - Refers to [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Refers to [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (March 18, 2008)
 - Referred to by [[sources/marks-2008-plan-b|Plan B]] (September 24, 2008)
+- Referred to by [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (March 3, 2020)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
+- Referred to by [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (April 9, 2025)
 
 ## Notes on the Source Text
 

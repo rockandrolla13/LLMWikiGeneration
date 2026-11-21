@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:575b06b5c19ac79de223369f2f1fc4b259d3348624f5c383b2da126dbe6ac0e6
+content_hash: sha256:2757c89f40b582e8201179053b89a5d8ff64692514bdc0e22d21e0d41bc376d2
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2006-you-cant-eat-irr
@@ -21,7 +21,8 @@ related:
 - entities/oaktree-capital-management
 - sources/marks-2006-risk
 - sources/marks-2006-the-new-paradigm
-revision_id: 1
+- sources/marks-2017-lines-in-the-sand
+revision_id: 2
 schema_version: 2
 source_hash: sha256:584db6034b16512df7ef58c1ea88e1b40e6eb9f2d219e013d36d55a8d3d2785c
 source_path: markdown_output/2006-07-12-you-cant-eat-irr.md
@@ -32,8 +33,8 @@ tags:
 - howard-marks
 - investment-memo
 title: You Can’t Eat IRR
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_e5222ea1b6d9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_c8db64b0d119
 uuid: c15229c8-a214-58a8-9ead-feb4510b8c26
 ---
 
@@ -95,6 +96,7 @@ Mid-2006, during a buoyant credit market with 'an excess of enthusiasm and short
 
 - Refers to [[sources/marks-2006-risk|Risk]] (January 19, 2006)
 - Referred to by [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (October 19, 2006)
+- Referred to by [[sources/marks-2017-lines-in-the-sand|Lines in the Sand]] (April 18, 2017)
 
 ## Notes on the Source Text
 

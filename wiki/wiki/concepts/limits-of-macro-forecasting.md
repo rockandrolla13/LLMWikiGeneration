@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:9f42ee244527f8821eaf799921c84fd7f2e1efb015fe2b669455445507b081b7
+content_hash: sha256:55aca667880c5599d3faa1a91744f99a4e59e44dd5e0c8e7a9b227d119d62fd6
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/limits-of-macro-forecasting
@@ -12,7 +12,7 @@ related:
 - concepts/behavioral-finance
 - concepts/market-timing
 - concepts/monetary-and-fiscal-policy
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -34,11 +34,20 @@ sources:
 - sources/marks-2020-knowledge-of-the-future
 - sources/marks-2022-the-illusion-of-knowledge
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2019-mysterious
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-which-way-now
+- sources/marks-2020-uncertainty
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2022-what-really-matters
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2025-nobody-knows-yet-again
 tags:
 - howard-marks
 title: Limits of Macro Forecasting
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 97e0ab8a-664c-54d1-9a89-84702d923cc8
 ---
 
@@ -72,6 +81,15 @@ Cited in 28 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 
 ## Related Concepts
 

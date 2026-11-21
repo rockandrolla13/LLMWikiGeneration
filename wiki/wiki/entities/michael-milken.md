@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:e83e0d896edac107c931a11b3234583fda5323766efab466d9c75922bce38c5d
+content_hash: sha256:c937016babaf39fb0fce572fe7451be8f279d1e344c34b0a0a194c9d7e197080
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/michael-milken
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1994-how-does-an-inefficient-market-get-that-way
@@ -17,12 +17,14 @@ sources:
 - sources/marks-2020-coming-into-focus
 - sources/marks-2025-gimme-credit
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2022-sea-change
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: Michael Milken
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: cadb3d3e-6212-5fbf-a1f0-214711203e85
 ---
 
@@ -48,4 +50,6 @@ Context from the memos:
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

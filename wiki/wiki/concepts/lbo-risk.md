@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:29c65466b79eca9a186e3f42070441bd82c95098ea418704568012d94895a201
+content_hash: sha256:c5042798d0f9ff7733fa39e4ec028bc61c964b3bb50765f60002663f22047881
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/lbo-risk
 page_type: concept
@@ -9,7 +9,7 @@ related:
 - concepts/lever-score
 - concepts/leveraged-recapitalization
 - concepts/private-credit
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
@@ -29,14 +29,16 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2013-the-race-is-on
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - creditETF
 - event-risk
 - LBO
 - corporate-credit
 title: LBO Risk
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1a21f47b0139
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: ec337d61-a180-5719-ac3d-59ce16d596f1
 ---
 
@@ -149,4 +151,6 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:a0143093a1b26d52500f22c8fb6c1c4cf2f66cb359a59e308e51bd7a146a2408
+content_hash: sha256:4be96c102598a6abb0291f18d7d3a2f06b1a0c8172d96c918f1c1d77c63187de
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/capital-market-line
@@ -12,7 +12,7 @@ related:
 - concepts/negative-interest-rate-policy
 - concepts/natural-vs-neutral-interest-rate
 - concepts/credit-spread-compression
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2004-risk-and-return-today
@@ -21,11 +21,14 @@ sources:
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2010-open-and-shut
 - sources/marks-2020-coming-into-focus
+- sources/marks-2019-mysterious
+- sources/marks-2022-sea-change
+- sources/marks-2024-the-indispensability-of-risk
 tags:
 - howard-marks
 title: The Capital Market Line
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5ebf1dc75f95
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ae7c0e6feec8
 uuid: 72254d97-36d8-554d-8396-b8cc1d2a3213
 ---
 
@@ -46,6 +49,9 @@ Cited in 9 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
 
 ## Related Concepts
 

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:25abb9cfd285f58556e86011afe169ceb57945ae2bc12206efca3d0abfa7bb43
+content_hash: sha256:6ab5a9d884c57f3c7dced30298cf408f96a3766eafce504dfc138a037be32b5b
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,7 +44,7 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 8
+revision_id: 9
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
@@ -99,13 +99,14 @@ sources:
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2025-gimme-credit
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7acf652407bd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 ---
 
@@ -148,4 +149,5 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 <!-- AUTHORED REGION END -->

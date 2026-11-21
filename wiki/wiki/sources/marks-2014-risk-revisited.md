@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:75dc9976d2a874609079f43d49902ac787727a71c2b85cef008bc5f5c87f6c67
+content_hash: sha256:8cf6356992306e6834122cee58e2cb2521e2206c47136f7bf374e34677febbc5
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2014-risk-revisited
@@ -44,7 +44,8 @@ related:
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2015-its-not-easy
-revision_id: 1
+- sources/marks-2016-on-the-couch
+revision_id: 2
 schema_version: 2
 source_hash: sha256:6369bd805419d00efd457a36c848523b0c2f811627751c8b7c993b1180fbf7d4
 source_path: markdown_output/2014-09-03-risk-revisited.md
@@ -55,8 +56,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk Revisited
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_328296cb8f15
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7e0f3c6f2b58
 uuid: 99548517-fef9-558f-b81a-adbfc8c86559
 ---
 
@@ -142,6 +143,7 @@ September 2014, six years after the crisis. The ten-year Treasury yielded about 
 - Refers to [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (July 1, 2003)
 - Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
 - Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
 
 ## Notes on the Source Text
 

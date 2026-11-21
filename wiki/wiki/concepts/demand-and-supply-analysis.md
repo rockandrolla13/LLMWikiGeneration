@@ -7,18 +7,20 @@ mind_map_priority: medium
 page_id: concepts/demand-and-supply-analysis
 page_type: concept
 related: []
-revision_id: 2
+revision_id: 3
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
 - sources/marks-1992-microeconomics-101-supply-demand-convertibles
 - sources/marks-2000-bubble-com
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
 tags: []
 title: Demand and Supply Analysis
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_cdc66933c4ef
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_2e2441561a5f
 schema_version: 2
 uuid: c0b89d77-942f-559a-ae0c-c105f708a17c
-content_hash: sha256:566334e1933a02b3ba55808f9089d12796a96b659440ba7b07b6c969dfcc422f
+content_hash: sha256:7e18d891ee59854071400e8bb7dcb493c8f3d8ff1905de62be6fed3d9237e637
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +38,6 @@ Microeconomic framework analysing how quantity demanded and supplied respond to 
 
 - [[sources/marks-1992-microeconomics-101-supply-demand-convertibles|Microeconomics 101: Supply, Demand and Convertibles]] (1992)
 - [[sources/marks-2000-bubble-com|bubble.com]] (2000)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
 <!-- AUTHORED REGION END -->

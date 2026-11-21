@@ -1,23 +1,26 @@
 ---
-content_hash: sha256:0d89c68738b4a3df6acccf023214095931e2f3056bc547b872feec93141a9f87
+content_hash: sha256:f6379b109415e25eb2f08ac2f7e639ec51cd99827702c7789e9f112c9955f785
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/edward-chancellor
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2000-bubble-com
 - sources/marks-2024-easy-money
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: Edward Chancellor
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 99d75a2c-ec20-5e71-92d9-2992daab9b84
 ---
 
@@ -38,4 +41,7 @@ Context from the memos:
 - [[sources/marks-2000-bubble-com|bubble.com]] (2000)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

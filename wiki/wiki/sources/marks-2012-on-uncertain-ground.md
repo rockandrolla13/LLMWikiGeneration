@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:0b7d5cb7b41f8d6947521e2b1bc7c551f36535e8ceca026e398417c1415ad942
+content_hash: sha256:d1cf064c64e5decf63fd19b18ae944c0622f13c06dc277c5b0627cc92a082c5a
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2012-on-uncertain-ground
@@ -35,7 +35,9 @@ related:
 - sources/marks-2009-the-long-view
 - sources/marks-2012-what-can-we-do-for-you
 - sources/marks-2013-the-role-of-confidence
-revision_id: 1
+- sources/marks-2016-on-the-couch
+- sources/marks-2017-there-they-go-again-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:514b8cb747998f1c89d61c86f913968ee81797e7ba60a434e056988232ad0807
 source_path: markdown_output/2012-09-11-on-uncertain-ground.md
@@ -46,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: On Uncertain Ground
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7d464c3b5ebd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 9f4e6c0b-80ef-5751-857c-70045175a072
 ---
 
@@ -124,6 +126,8 @@ September 2012: slow U.S. recovery with businesses hoarding cash, the approachin
 - Refers to [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
 - Refers to [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (January 10, 2012)
 - Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Source
 

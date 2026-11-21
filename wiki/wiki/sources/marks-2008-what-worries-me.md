@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:84ea8177b88d1829ba72ed56c9113d15fd4169c5ea18634b92225e60a321c601
+content_hash: sha256:35f2e8f3b2359104b4ada5b30c2717b702655a522bde2b16443634c7bc1682dc
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-what-worries-me
@@ -35,7 +35,9 @@ related:
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2012-on-uncertain-ground
 - sources/marks-2016-economic-reality
-revision_id: 2
+- sources/marks-2016-political-reality
+- sources/marks-2021-the-winds-of-change
+revision_id: 3
 schema_version: 2
 source_hash: sha256:2c475bfa0455719857999a5afe3774f42c4e05b92aa2d73de4302d21c15aebda
 source_path: markdown_output/2008-08-28-what-worries-me.md
@@ -46,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What Worries Me
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_490b064f280e
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_27366d2a2d6d
 uuid: 223ac8b5-5bbe-5a35-8ad0-06adbef7ca5d
 ---
 
@@ -124,6 +126,8 @@ Late August 2008, weeks before the Lehman bankruptcy: Fannie Mae and Freddie Mac
 - Referred to by [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (September 7, 2011)
 - Referred to by [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (September 11, 2012)
 - Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
+- Referred to by [[sources/marks-2016-political-reality|Political Reality]] (August 17, 2016)
+- Referred to by [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (November 23, 2021)
 
 ## Notes on the Source Text
 

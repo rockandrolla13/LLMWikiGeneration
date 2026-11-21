@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:c472ff7568788958ec69019c123c60eabbe39a1d92b43726a762b27eed19fe3a
+content_hash: sha256:fb2c7ef54e5ac35278f3019f1cc17a3e22fd70e8b9e8108fc6686e2eebc8fefc
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2026-ai-hurtles-ahead
@@ -33,7 +33,9 @@ related:
 - entities/oaktree-capital-management
 - entities/openai
 - sources/marks-2025-is-it-a-bubble
-revision_id: 1
+- sources/marks-2021-something-of-value
+- sources/marks-2022-sea-change
+revision_id: 2
 schema_version: 2
 source_hash: sha256:1a04b2b4f1a0e08b169b7706a3918f087e1a4b1513dc7fb170926fa470aa2052
 source_path: markdown_output/ai-hurtles-ahead.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: AI Hurtles Ahead
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_fc1f499ba779
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: f4963513-dbf2-5c2d-876a-ab35dc589d54
 ---
 
@@ -122,8 +124,8 @@ Late February 2026, about three months after 'Is It a Bubble?' (December 9). Ope
 ## Related Memos
 
 - Refers to [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (December 9, 2025)
-- Refers to (no page): *Something of Value* (January 11, 2021), page not yet in the wiki. Memo text reference: Something of Value (January 2021)
-- Refers to (no page): *Sea Change* (December 13, 2022), page not yet in the wiki. Memo text reference: Sea Change (referenced as 'the sea change in interest rates')
+- Refers to [[sources/marks-2021-something-of-value|Something of Value]] (January 11, 2021)
+- Refers to [[sources/marks-2022-sea-change|Sea Change]] (December 13, 2022)
 - Refers to (no page): first pandemic memo citing Marc Lipsitch (title not given)
 
 ## Notes on the Source Text

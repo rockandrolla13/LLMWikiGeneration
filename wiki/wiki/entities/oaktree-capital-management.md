@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:69898429b2ae1c5efa60a81fac8819bf8a875bf8387ecc561db16763478ead12
+content_hash: sha256:bfef22376533f22dfde0b4075ef2312b229abd719862e66f3654046692920964
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/oaktree-capital-management
@@ -7,7 +7,7 @@ page_type: entity
 related:
 - entities/howard-marks
 - entities/tcw
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -132,12 +132,53 @@ sources:
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-ai-hurtles-ahead
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2016-on-the-couch
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2016-political-reality
+- sources/marks-2017-lines-in-the-sand
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2019-political-reality-meets-economic-reality
+- sources/marks-2019-this-time-its-different
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2019-mysterious
+- sources/marks-2020-you-bet
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-latest-update
+- sources/marks-2020-which-way-now
+- sources/marks-2020-uncertainty
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2020-not-enough
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2020-time-for-thinking
+- sources/marks-2021-something-of-value
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2022-selling-out
+- sources/marks-2022-the-pendulum-in-international-affairs
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-what-really-matters
+- sources/marks-2022-sea-change
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-nobody-knows-yet-again
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
+- sources/marks-2025-the-calculus-of-value
+- sources/marks-2026-whats-going-on-in-private-credit
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags:
 - investment-firm
 - howard-marks-memos
 title: Oaktree Capital Management
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 uuid: 0d1c875d-0cbd-5f6c-b89c-39b7f8c079d4
 ---
 
@@ -272,4 +313,45 @@ Investment firm whose clients receive Howard Marks's memos; the memo archive is 
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2016-political-reality|Political Reality]] (2016)
+- [[sources/marks-2017-lines-in-the-sand|Lines in the Sand]] (2017)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (2019)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2020-not-enough|Not Enough]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (2022)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

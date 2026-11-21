@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:666be96324da4e6459572e935c292ec9edb1788a9329e7a161f7ff3467510505
+content_hash: sha256:d897e93066ca8e3bbe36d4238883fe1e6748bc18509dcf0ec3583baac98ce3b2
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/factor-models
@@ -25,7 +25,7 @@ related:
 - concepts/style-premia
 - concepts/trend-following
 - concepts/duration-times-spread
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
@@ -43,14 +43,15 @@ sources:
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - asset-pricing
 - risk-management
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_cc075526da31
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
 ---
 
@@ -146,4 +147,5 @@ Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sourc
 
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 - [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 <!-- AUTHORED REGION END -->

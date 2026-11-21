@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:1557a2911a77cba207d5de12c4938f6e41f62a66fa2f114d6bb2fe2cd31e26de
+content_hash: sha256:1debdc33e013cace93df8f3c166684b3cb433081f09c94a0b62f707be64dfb9a
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-the-race-to-the-bottom
@@ -39,7 +39,11 @@ related:
 - sources/marks-2013-the-race-is-on
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2025-cockroaches-in-the-coal-mine
-revision_id: 2
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2026-whats-going-on-in-private-credit
+revision_id: 3
 schema_version: 2
 source_hash: sha256:2fe72d448802f923422ada4194e64293ac9a7e01ea3947fcb7c21c3132555ba4
 source_path: markdown_output/2007-02-14-the-race-to-the-bottom.md
@@ -50,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Race to the Bottom
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: f80b07f8-445f-5de2-80e7-c7a6e637d0c0
 ---
 
@@ -132,6 +136,10 @@ Early 2007, near the peak of the pre-crisis credit boom. A global liquidity glut
 - Referred to by [[sources/marks-2013-the-race-is-on|The Race Is On]] (November 26, 2013)
 - Referred to by [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (May 26, 2022)
 - Referred to by [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (November 6, 2025)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Referred to by [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (September 26, 2018)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
+- Referred to by [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (April 9, 2026)
 
 ## Notes on the Source Text
 

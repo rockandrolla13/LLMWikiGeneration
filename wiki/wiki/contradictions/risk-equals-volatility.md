@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e42956068656d14ca0d4b41afdcb05f47730521fd82743f2e2b7cf22b7c6b95b
+content_hash: sha256:2c2b13613a6722d9625e723a16d6a0089003e3663491987c18ef7bbbb047b96f
 created: '2026-11-21T02:22:43Z'
 page_id: contradictions/risk-equals-volatility
 page_type: contradiction
@@ -8,7 +8,7 @@ related:
 - concepts/volatility-targeting
 - concepts/risk-parity
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
@@ -18,14 +18,15 @@ sources:
 - sources/marks-2006-risk
 - sources/marks-2014-risk-revisited
 - sources/marks-2015-risk-revisited-again
+- sources/marks-2026-whats-going-on-in-private-credit
 status: unresolved
 tags:
 - risk
 - volatility
 - howard-marks
 title: Is Risk the Same as Volatility?
-updated: '2026-11-21T02:40:26Z'
-updated_by: op_ff0a8146276c
+updated: '2026-11-21T02:51:00Z'
+updated_by: op_6e869a823170
 uuid: 192dd27c-b9e6-5c2b-834f-82df35027c1b
 ---
 
@@ -40,7 +41,7 @@ The wiki's [[concepts/volatility-targeting|Volatility Targeting]] page defines t
 
 ## Claim B: risk is the chance of losing money, and volatility is not it
 
-In [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 2001), Howard Marks writes that he does not think risk is synonymous with volatility. Oaktree means by risk the chance of losing its clients' money, and he says the firm does not think about volatility. He also says this kind of risk cannot be quantified, even after the fact. He argues that academics adopted volatility as the measure of risk because it is absolute and quantifiable. In [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (April 2001) he calls volatility "the theoretical definition of risk". He then says forced selling at the bottom can turn it into permanent loss. In [[sources/marks-2006-risk|Risk]] (January 2006) he returns to the point at length. He writes that academics settled on volatility as the proxy for risk "as a matter of convenience", because they needed a number that was objective. He says risk is "first and foremost" the likelihood of losing money. In [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 2014) he restates the argument against "the purported identity between volatility and risk". He says volatility is the academic's choice because it is quantifiable, but that it "falls far short" as the definition of investment risk. He adds that permanent loss is very different from volatility, because an investor can ride out volatility but never gets a chance to undo a permanent loss. [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 2015) repeats the same section. See [[concepts/risk-vs-volatility|Risk Is Not Volatility]].
+In [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 2001), Howard Marks writes that he does not think risk is synonymous with volatility. Oaktree means by risk the chance of losing its clients' money, and he says the firm does not think about volatility. He also says this kind of risk cannot be quantified, even after the fact. He argues that academics adopted volatility as the measure of risk because it is absolute and quantifiable. In [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (April 2001) he calls volatility "the theoretical definition of risk". He then says forced selling at the bottom can turn it into permanent loss. In [[sources/marks-2006-risk|Risk]] (January 2006) he returns to the point at length. He writes that academics settled on volatility as the proxy for risk "as a matter of convenience", because they needed a number that was objective. He says risk is "first and foremost" the likelihood of losing money. In [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 2014) he restates the argument against "the purported identity between volatility and risk". He says volatility is the academic's choice because it is quantifiable, but that it "falls far short" as the definition of investment risk. He adds that permanent loss is very different from volatility, because an investor can ride out volatility but never gets a chance to undo a permanent loss. [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 2015) repeats the same section. In [[sources/marks-2026-whats-going-on-in-private-credit|What's Going on in Private Credit?]] (April 2026) he applies the point to direct lending. He says private loans show little price volatility because there is no market to mark them to. They could be expected to deliver high volatility-adjusted returns, "that’s what Sharpe ratios are", but "I insist strenuously that risk and volatility aren’t the same thing." He says direct loans carry no less credit risk than high yield bonds or broadly syndicated loans, and that the risk just shows up less readily in prices. See [[concepts/risk-vs-volatility|Risk Is Not Volatility]].
 
 ## Where exactly they conflict
 

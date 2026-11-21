@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:57ed6a7ca75703a2f31e725772c53bf387c160cb7aec5c15f7e63e9b052cc058
+content_hash: sha256:73bee41ed3c89af979c260762c0b346b7dfbb13064b94f0c9159df960830f366
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2021-2020-in-review
@@ -36,7 +36,8 @@ related:
 - entities/larry-summers
 - entities/morgan-stanley
 - entities/oaktree-capital-management
-revision_id: 1
+- sources/marks-2021-something-of-value
+revision_id: 2
 schema_version: 2
 source_hash: sha256:3c0f5f7ecc9ab7427ba6af0e01326da7f954723f0775e24391bb5e4bff811af9
 source_path: markdown_output/2020_in_review.md
@@ -47,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: 2020 in Review
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_40380bf071bc
 uuid: a3d2075f-0428-5228-bddd-30ede68e1273
 ---
 
@@ -127,7 +128,7 @@ Early March 2021: vaccines rolling out, the Fed at zero rates and buying bonds a
 ## Related Memos
 
 - Refers to (no page): 2019 in review (prior annual memo)
-- Refers to (no page): *Something of Value* (January 11, 2021), page not yet in the wiki. Memo text reference: Something of Value
+- Refers to [[sources/marks-2021-something-of-value|Something of Value]] (January 11, 2021)
 
 ## Notes on the Source Text
 

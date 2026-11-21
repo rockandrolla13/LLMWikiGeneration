@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:c79b3474c14580f9e9227d5b8ce7ac626e7d4ebfbcef0c1a05a1201492284913
+content_hash: sha256:10efd43ab2910d5b013b6dbb49c36697520a1730bc179b6b6d680ca844cdb920
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/wall-street-journal
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -15,12 +15,13 @@ sources:
 - sources/marks-2001-what-lies-ahead
 - sources/marks-2004-hey-steward
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2024-the-indispensability-of-risk
 tags:
 - publication
 - howard-marks-memos
 title: The Wall Street Journal
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ae7c0e6feec8
 uuid: 20119d94-cfd4-5fb8-81cf-7c230cc272e1
 ---
 
@@ -44,4 +45,5 @@ Context from the memos:
 - [[sources/marks-2001-what-lies-ahead|What Lies Ahead?]] (2001)
 - [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
 <!-- AUTHORED REGION END -->

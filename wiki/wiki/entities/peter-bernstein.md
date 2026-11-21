@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:b83f6577473dde32d6651526ab7b7a715614551e03dafaabbd34200ca5ecc39a
+content_hash: sha256:c792f143f363475b5f76066f01b6a5f56163fb701c48ff02f00775fa8f1987f2
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/peter-bernstein
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -23,12 +23,14 @@ sources:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2017-expert-opinion
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-uncertainty
 tags:
 - person
 - howard-marks-memos
 title: Peter Bernstein
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_09439e612113
 uuid: e50f6ed3-5133-5515-8bde-79b534f66080
 ---
 
@@ -59,4 +61,6 @@ Context from the memos:
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
 <!-- AUTHORED REGION END -->

@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:f683b23d633248c5a4149f17c9f25394c5f65aea3a55c94579dad6ba95f40876
+content_hash: sha256:edefb7c0a0547dd18b5cdc7f7fed115ec0ac5a2f100631e5512d9a7afead6f1f
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/mark-twain
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2005-there-they-go-again
@@ -20,12 +20,14 @@ sources:
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2017-expert-opinion
 - sources/marks-2022-bull-market-rhymes
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2024-the-folly-of-certainty
 tags:
 - person
 - howard-marks-memos
 title: Mark Twain
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_508b5db898e6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ce0dbf3225e4
 uuid: fc0784b2-8fde-5adf-a31b-d8c49431c208
 ---
 
@@ -49,4 +51,6 @@ Person named in 13 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
 <!-- AUTHORED REGION END -->

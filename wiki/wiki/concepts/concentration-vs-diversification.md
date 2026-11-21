@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7944f8dfa326882f03dba7e10083ceb8f9aca5e1a94d370249807d5b1abb4346
+content_hash: sha256:6502f22419a8a9faa0ac5b467eb18bea244f34e0d42521bf7a572e3c98ada1e4
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/concentration-vs-diversification
@@ -12,18 +12,19 @@ related:
 - concepts/active-vs-passive-investing
 - concepts/distressed-debt
 - concepts/behavioral-finance
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2001-notes-from-new-york
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2022-selling-out
 tags:
 - howard-marks
 title: Concentration vs Diversification
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_12d9ba7a7279
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_8c798afd6cba
 uuid: abe326a7-c460-5cce-98f7-702b5cdc7e32
 ---
 
@@ -42,6 +43,7 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2001-notes-from-new-york|Notes from New York]] (2001)
 - [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
 - [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
 
 ## Related Concepts
 

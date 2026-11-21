@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:57beedf1d3ba6b2f83a6027bed5464221e789c4eceaae6521d64b73d2a19a09c
+content_hash: sha256:c4f6a771270ca1e20d0e1d21351cd2f48da088d82aa942c026de6ded4f322a42
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2013-ditto
@@ -37,7 +37,8 @@ related:
 - sources/marks-2007-the-race-to-the-bottom
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2013-the-role-of-confidence
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:d75a6914c5934a785d12ef05825a0b31ae51e80f4f93d5b5c93622f963836c1e
 source_path: markdown_output/2013-01-07-ditto.md
@@ -48,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Ditto
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1173561154c7
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 3af011cd-cd0a-51dd-a5ee-98ecc97891d7
 ---
 
@@ -128,6 +129,7 @@ January 2013, with central banks holding rates near zero. Investors were aware o
 - Refers to [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (February 14, 2007)
 - Refers to [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (October 27, 2004)
 - Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Source
 

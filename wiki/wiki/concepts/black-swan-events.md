@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:54a6b3577a39cfc0dc49661ff1b09534f60eaec9a65f9457f0dad1d8e74d9d58
+content_hash: sha256:e19aef7b021017086f7207b153c5b1d0ed664691e03de085bc28dc1517a78e01
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/black-swan-events
@@ -12,7 +12,7 @@ related:
 - concepts/value-at-risk
 - concepts/probabilistic-thinking
 - concepts/funding-liquidity
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-what-lies-ahead
@@ -28,11 +28,13 @@ sources:
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2020-calibrating
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2024-the-impact-of-debt
 tags:
 - howard-marks
 title: Black Swans and Tail Risk
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_26483cf5fdc6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: 0024d74e-93dc-599b-9e1f-5f12424e2a96
 ---
 
@@ -60,6 +62,8 @@ Cited in 15 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/john-maynard-keynes
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 - sources/marks-2000-were-not-in-1999-anymore-toto
@@ -30,13 +30,20 @@ sources:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2015-its-not-easy
 - sources/marks-2022-i-beg-to-differ
+- sources/marks-2019-this-time-its-different
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
+- sources/marks-2025-the-calculus-of-value
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: John Maynard Keynes
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: 8805ddd0-ab4f-5eaa-a507-152ea4556ff9
-content_hash: sha256:fc85e6cff1e2d980fc8adbf4d848cf7e238f68e3afc02b1b4b6458108267bd6b
+content_hash: sha256:135cbe3c04583952246022bd004f562446da1686be941e57463b1d30780e56ec
 ---
 
 <!-- AUTHORED REGION START -->
@@ -71,4 +78,11 @@ content_hash: sha256:fc85e6cff1e2d980fc8adbf4d848cf7e238f68e3afc02b1b4b645810826
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

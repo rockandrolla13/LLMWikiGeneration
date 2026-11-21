@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:aaaf3bd551c3d3ad1dd63f44f615103420f771ca9393cc213247b8a3cd270008
+content_hash: sha256:1a430132f63e85b606dc7bff7fc1fb8f8f5e41c9767dd28518efdea9dda01c2d
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2014-dare-to-be-great-ii
@@ -37,7 +37,8 @@ related:
 - sources/marks-2015-its-not-easy
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2023-fewer-losers-or-more-winners
-revision_id: 1
+- sources/marks-2016-what-does-the-market-know
+revision_id: 2
 schema_version: 2
 source_hash: sha256:dbb4818a9258152d29344f68cb982469ae391884deb5ac51a54d784fe2980863
 source_path: markdown_output/2014-04-08-dare-to-be-great-ii.md
@@ -48,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Dare to Be Great II
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_12d9ba7a7279
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7eee3fa53f89
 uuid: c52b4cfb-2c17-580a-9f1d-990468aa63a5
 ---
 
@@ -128,6 +129,7 @@ April 2014, a period the memo does not describe in market terms. It references a
 - Referred to by [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (July 26, 2022)
 - Referred to by [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (September 12, 2023)
 - Refers to (no page): Unnamed previous memo 'on the role of luck' (title not given in this memo)
+- Referred to by [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (January 19, 2016)
 
 ## Notes on the Source Text
 

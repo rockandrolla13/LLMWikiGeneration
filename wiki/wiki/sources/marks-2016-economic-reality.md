@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:bb4fc2eb4ee8563f1d844aeefc897c61f597bd10f7b556ad35c6bf55fa2c0574
+content_hash: sha256:fd3c3dac7e4273006195e8b8931749e801831c7c2831208cf3494db6031f6739
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2016-economic-reality
@@ -32,7 +32,12 @@ related:
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2008-what-worries-me
 - sources/marks-2018-latest-thinking
-revision_id: 1
+- sources/marks-2016-political-reality
+- sources/marks-2019-political-reality-meets-economic-reality
+- sources/marks-2022-the-pendulum-in-international-affairs
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-nobody-knows-yet-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:61572f5cef87ec4b96a4433395f12119f37c0974bb3650b8b37424278f804e17
 source_path: markdown_output/economic-reality.md
@@ -43,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Economic Reality
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_490b064f280e
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 759329db-4afc-561d-ac44-99202f31b5fd
 ---
 
@@ -118,6 +123,11 @@ May 2016, during the US presidential primaries, with populist candidates Donald 
 - Refers to [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (October 15, 2008)
 - Refers to [[sources/marks-2008-what-worries-me|What Worries Me]] (August 28, 2008)
 - Referred to by [[sources/marks-2018-latest-thinking|Latest Thinking]] (January 23, 2018)
+- Referred to by [[sources/marks-2016-political-reality|Political Reality]] (August 17, 2016)
+- Referred to by [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (January 30, 2019)
+- Referred to by [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (March 23, 2022)
+- Referred to by [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (September 19, 2024)
+- Referred to by [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (April 9, 2025)
 
 ## Notes on the Source Text
 

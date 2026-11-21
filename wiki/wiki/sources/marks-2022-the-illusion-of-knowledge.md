@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:78835d47f45d282be6ac528ab6afe73653ba24edf07c163fde7ef6ba4e659a33
+content_hash: sha256:63357bfb8dc4a41b051a09dca67ccf1bd50a73e01205e85d5873c4351d7b0f38
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2022-the-illusion-of-knowledge
@@ -36,7 +36,12 @@ related:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2004-us-and-them
-revision_id: 1
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-folly-of-certainty
+revision_id: 2
 schema_version: 2
 source_hash: sha256:49c96a1400003e8fa1b64c312007809ab7348f8366d2113cc7bbe5b788e96639
 source_path: markdown_output/illusion-of-knowledge.md
@@ -47,8 +52,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Illusion of Knowledge
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ce0dbf3225e4
 uuid: b93bf849-0da1-56c4-aced-7ded1ef443f6
 ---
 
@@ -128,9 +133,12 @@ September 2022: high inflation after the pandemic stimulus, aggressive Fed rate 
 - Refers to [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
 - Refers to [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 11, 2001)
 - Refers to [[sources/marks-2004-us-and-them|Us and Them]] (May 7, 2004)
-- Refers to (no page): *Thinking About Macro* (July 29, 2021), page not yet in the wiki. Memo text reference: Thinking About Macro (July 2021)
-- Refers to (no page): *Nobody Knows II* (March 3, 2020), page not yet in the wiki. Memo text reference: Nobody Knows II (March 2020)
+- Refers to [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (July 29, 2021)
+- Refers to [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (March 3, 2020)
 - Refers to (no page): Mastering the Market Cycle (book)
+- Referred to by [[sources/marks-2022-what-really-matters|What Really Matters?]] (November 22, 2022)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
+- Referred to by [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (July 17, 2024)
 
 ## Notes on the Source Text
 

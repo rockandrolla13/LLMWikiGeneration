@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:1cd66b2d19493838907803534956d83636619b4069eda14c1df1b732389a2b6d
+content_hash: sha256:05b1b325fb13302a425d0d57444e93ec968d1000edcf810c6ba048a0f2e4135c
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1994-random-thoughts-identification-investment-opportunities
@@ -24,7 +24,8 @@ related:
 - entities/oaktree-capital-management
 - entities/warren-buffett
 - entities/yogi-berra
-revision_id: 1
+- sources/marks-2016-on-the-couch
+revision_id: 2
 schema_version: 2
 source_hash: sha256:f6fd5f7e91bd2559519f54e455acb0b44880d24fb0c41cea7ca9952e4f2acec4
 source_path: markdown_output/1994-01-24-random-thoughts-on-the-identification-of-inv-opportunities.md
@@ -35,8 +36,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Random Thoughts on the Identification of Investment Opportunities
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_f9e16b20d9fc
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7e0f3c6f2b58
 uuid: 7b822d44-af15-5deb-878a-3eeea44433f4
 ---
 
@@ -97,6 +98,10 @@ Written in January 1994. The memo looks back on the 1990-91 high yield bond pani
 - [[entities/oaktree-capital-management|Oaktree Capital Management]]
 - [[entities/warren-buffett|Warren Buffett]]
 - [[entities/yogi-berra|Yogi Berra]]
+
+## Related Memos
+
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
 
 ## Notes on the Source Text
 

@@ -10,7 +10,7 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/value-at-risk
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1991-first-quarter-performance
@@ -44,13 +44,16 @@ sources:
 - sources/marks-2015-its-not-easy
 - sources/marks-2020-calibrating
 - sources/marks-2022-i-beg-to-differ
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-mr-market-miscalculates
 tags: []
 title: Contrarian Market Timing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 schema_version: 2
 uuid: edc4c7b2-8680-5df3-a3bb-b328fe6315b3
-content_hash: sha256:97290d101019fc2c2ad3ea12f114caee9cf03c48a3841244600679b4ea983642
+content_hash: sha256:2e7e84caa915f08c293c26267761cc403224020c3058baa9e4f0d8f293b12d66
 ---
 
 <!-- AUTHORED REGION START -->
@@ -103,4 +106,7 @@ Tactical adjustment of medium-term exposure based on valuation signals; valuatio
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 <!-- AUTHORED REGION END -->

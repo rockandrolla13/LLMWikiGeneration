@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:d78be89a14865a298cba2cc40efd0ad7e0d0bfa991d7e15da8f1dd1b04f3d8b1
+content_hash: sha256:8113a6b82f4ca9f70dc375c48f9eb46a49d8c9737e2099e53acff55e1295a23d
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/charlie-munger
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2006-risk
@@ -29,12 +29,21 @@ sources:
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2024-easy-money
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-you-bet
+- sources/marks-2020-time-for-thinking
+- sources/marks-2021-something-of-value
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: Charlie Munger
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: f06a504f-73b2-5fdf-9ccd-f38434bc24da
 ---
 
@@ -72,4 +81,13 @@ Context from the memos:
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

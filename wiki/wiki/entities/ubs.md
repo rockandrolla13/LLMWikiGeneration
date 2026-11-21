@@ -1,24 +1,25 @@
 ---
-content_hash: sha256:9a0524abc1ad5e58a1e5d1a0375f1b5f000c2122dec4a72157fd9a0b0ae677ff
+content_hash: sha256:f95dd85666cfa83f74c8b5fd449ce63631048107dcbcda0af21434d0e2fba85e
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/ubs
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2008-now-what
 - sources/marks-2008-whodunit
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2020-uncertainty
 tags:
 - bank
 - howard-marks-memos
 title: UBS
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_09439e612113
 uuid: e6234d54-12a6-5fe1-9631-8c0a65861a19
 ---
 
@@ -40,4 +41,5 @@ Context from the memos:
 - [[sources/marks-2008-now-what|Now What?]] (2008)
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
 <!-- AUTHORED REGION END -->

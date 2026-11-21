@@ -1,24 +1,26 @@
 ---
-content_hash: sha256:cfe2e806396ac32338444fbaae28179f3bb32a8996b4fbc0be4d26783dc1104e
+content_hash: sha256:0aeed038b593a072b2933cf21fa1220ea262481f755f47aafd82f9c17b5ee7e1
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/aig
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-plan-b
 - sources/marks-2015-liquidity
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-nobody-knows-yet-again
 tags:
 - company
 - howard-marks-memos
 title: AIG
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_abfa3ebd137a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 68e31770-adc8-5928-8918-072301be5edf
 ---
 
@@ -40,4 +42,6 @@ Context from the memos:
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
 - [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 <!-- AUTHORED REGION END -->

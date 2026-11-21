@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:92b0f15c840996ce37c66cf490724846aa3c71c7195ab54643ef8a6a1c959cb9
+content_hash: sha256:4fea3c501284936caeee3d13a10c7bb7533539c57f491c221fa9dddae02280bc
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2023-further-thoughts-on-sea-change
@@ -31,7 +31,8 @@ related:
 - entities/john-templeton
 - entities/oaktree-capital-management
 - sources/marks-2024-easy-money
-revision_id: 1
+- sources/marks-2022-sea-change
+revision_id: 2
 schema_version: 2
 source_hash: sha256:ab432b99541f35c5eae7bb5eafce5afdcdd4ca880d94eac70f6863c1e55e72c3
 source_path: markdown_output/further-thoughts-on-sea-change3dda4540-569f-4415-9a5b-004fbabf06d4.md
@@ -42,8 +43,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Further Thoughts on Sea Change
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_55c9ccd665f7
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: 76d19d75-a037-5508-a592-766ff9cde8cc
 ---
 
@@ -122,7 +123,7 @@ Written in May 2023 (market data as of May 30, 2023) and republished October 11,
 ## Related Memos
 
 - Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
-- Refers to (no page): *Sea Change* (December 13, 2022), page not yet in the wiki. Memo text reference: Sea Change (December 2022)
+- Refers to [[sources/marks-2022-sea-change|Sea Change]] (December 13, 2022)
 - Refers to (no page): Further Thoughts on Sea Change client version (May 30, 2023)
 
 ## Notes on the Source Text

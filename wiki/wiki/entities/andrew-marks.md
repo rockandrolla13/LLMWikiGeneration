@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:7b84d60a6abdca02be3646b457f02aad59228c1192f04427b4f3ea2b6b11ff9e
+content_hash: sha256:e4788ca99b6e8081fd9ad1a02dacb88a83a355b09bd9abb315acd882cba9f1e9
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/andrew-marks
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2002-etorres-wisdom
@@ -23,12 +23,21 @@ sources:
 - sources/marks-2023-lessons-from-silicon-valley-bank
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2026-ai-hurtles-ahead
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-you-bet
+- sources/marks-2021-something-of-value
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
 tags:
 - person
 - howard-marks-memos
 title: Andrew Marks
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_fc1f499ba779
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: 01c53d14-7348-5c9d-91d1-ebec733d9c60
 ---
 
@@ -60,4 +69,13 @@ Context from the memos:
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 <!-- AUTHORED REGION END -->

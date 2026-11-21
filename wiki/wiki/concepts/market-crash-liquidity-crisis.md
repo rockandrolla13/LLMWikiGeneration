@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/liquidity-risk
-revision_id: 4
+revision_id: 5
 sources:
 - sources/lancaster-2021-fed-up
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -29,13 +29,18 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-warning-flags
 - sources/marks-2015-liquidity
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-latest-update
+- sources/marks-2020-which-way-now
+- sources/marks-2023-taking-the-temperature
 tags: []
 title: Market Crash and Liquidity Crisis Dynamics
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_abfa3ebd137a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 schema_version: 2
 uuid: 6d437ee1-1dfb-56bf-b1ac-120fbe2505da
-content_hash: sha256:eb61d307e75215f91073af02499e1f6f165dc1934ea935e070ca27b3a7b3d0b1
+content_hash: sha256:64909fbb771f13cbf2b23af2ce66383920e45e52bc620814c59c1de21d598b1b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -73,4 +78,9 @@ The mechanics of a panic: correlations converging to one, evaporating liquidity,
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 <!-- AUTHORED REGION END -->

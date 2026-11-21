@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:86b3c26fa9dd13d546663c68fbc3e45b4ba385f509b944159318f2ad78d7aa1e
+content_hash: sha256:6be6076ffc308cd4bf5ce4a58649a90983c038a1ed16723a3a8095cb8491f694
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-volatility-leverage-dynamite
@@ -40,7 +40,8 @@ related:
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2008-plan-b
-revision_id: 1
+- sources/marks-2024-the-impact-of-debt
+revision_id: 2
 schema_version: 2
 source_hash: sha256:9c9e6cc811d00bdb5a002fa83c5d495441fb413bff74e70f6a36077539f6bae8
 source_path: markdown_output/2008-12-17-volatility-leverage-dynamite.md
@@ -51,8 +52,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Volatility + Leverage = Dynamite
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_03a62e624ff1
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: 5d497111-28b3-5703-970f-1a07a9fbfa66
 ---
 
@@ -134,6 +135,7 @@ December 2008, after Lehman Brothers' bankruptcy and the bailout debate. Leverag
 - Refers to [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (October 9, 1998)
 - Refers to [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (October 15, 2008)
 - Refers to [[sources/marks-2008-plan-b|Plan B]] (September 24, 2008)
+- Referred to by [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (May 8, 2024)
 
 ## Notes on the Source Text
 

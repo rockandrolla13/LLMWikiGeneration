@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:d9fa63b06012b979d1fd8ada36729d28d060ec525b58fabf0e9346b7310546fd
+content_hash: sha256:2d1be71dfcd395027c3b3dbed61b546039374395489443d85cc463a6f0671f83
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -15,7 +15,7 @@ related:
 - concepts/credit-spread-puzzle
 - concepts/default-rates
 - concepts/duration-times-spread
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/collin-dufresne-2001-determinants-credit-spread-changes
@@ -24,10 +24,11 @@ sources:
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/correia-2012-value-investing-credit-markets
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2025-nobody-knows-yet-again
 tags: []
 title: Credit Spread Changes
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: ff9b7352-acd0-5765-afd4-078e3632029e
 ---
 
@@ -53,6 +54,7 @@ Monthly changes in the yield difference between a corporate bond and a maturity-
 ## In Howard Marks's Memos
 
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 
 ## Related Concepts
 

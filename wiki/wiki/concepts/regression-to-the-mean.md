@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/mean-reversion
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ellenberg-2014-how-not-to-be-wrong
 - sources/marks-2001-you-cant-predict-you-can-prepare
@@ -17,13 +17,15 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-hemlines
 - sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2021-something-of-value
+- sources/marks-2023-taking-the-temperature
 tags: []
 title: Regression to the Mean
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_337cea410c0a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 schema_version: 2
 uuid: 7df3f787-72c5-5b05-a42f-9a4e53ab9ed0
-content_hash: sha256:25d1703a8a8c2e7550bc49df7227affd8c5e3b3ccccddfcb9c9b581be9334196
+content_hash: sha256:6683547dd12666eaaea9861e1bffe6140c8880aaea62d316c4342d038aa64a74
 ---
 
 <!-- AUTHORED REGION START -->
@@ -49,4 +51,6 @@ Galton's observation that extreme measurements tend to be followed by less extre
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 <!-- AUTHORED REGION END -->

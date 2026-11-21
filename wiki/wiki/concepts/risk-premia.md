@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:48bf5e4770f4a634f3efc76b9fdcd0ae437a95b0dc633359775cb7b35363200c
+content_hash: sha256:30e6bd03f5b34556f461cbd2883968073b9efcbf043dcf3689dbb599c94731d0
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -24,7 +24,7 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -60,10 +60,14 @@ sources:
 - sources/marks-2013-the-outlook-for-equities
 - sources/marks-2015-its-not-easy
 - sources/marks-2020-coming-into-focus
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2020-time-for-thinking
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-ruminating-on-asset-allocation
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5ebf1dc75f95
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 23edd06e-71d8-5472-a978-687950c52605
 ---
 
@@ -110,4 +114,8 @@ Now also discussed in: [[sources/ms-2010-09-15-em-quantitative-quarterly]], [[so
 - [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 <!-- AUTHORED REGION END -->

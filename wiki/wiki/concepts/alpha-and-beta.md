@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:23b3cc0218ec3e0bc008aa90e0adf3b10ddcbd0365fe2e48f134b53445f1bb02
+content_hash: sha256:f7755dcd8b5f15a06a6569749d4189240ee8acd196b49b1a4c1cad05c4b533a8
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/alpha-and-beta
@@ -12,7 +12,7 @@ related:
 - concepts/efficient-market-hypothesis
 - concepts/index-reconstitution
 - concepts/low-expected-returns
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-safety-first-but-where
@@ -24,11 +24,14 @@ sources:
 - sources/marks-2015-its-not-easy
 - sources/marks-2018-investing-without-people
 - sources/marks-2021-2020-in-review
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-you-bet
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - howard-marks
 title: Alpha and Beta
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 77b16a37-3c4a-5db6-bb0a-eb3a3173b8e5
 ---
 
@@ -52,6 +55,9 @@ Cited in 12 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 
 ## Related Concepts
 

@@ -11,7 +11,7 @@ related:
 - concepts/lbo-risk
 - concepts/liquidity-risk
 - concepts/private-credit-leveraged-loans
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 - sources/patkar-2026-ms-global-credit-midyear
@@ -23,13 +23,19 @@ sources:
 - sources/marks-2024-easy-money
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2017-lines-in-the-sand
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2022-what-really-matters
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2026-whats-going-on-in-private-credit
 tags: []
 title: Private Credit / Direct Lending
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 schema_version: 2
 uuid: f1074503-c63f-5009-b686-dc02f58d6631
-content_hash: sha256:4ee8aefc83fab66a118675cd02224afaf5e9f149fa302890e4650c4474d4ebc4
+content_hash: sha256:09b2f78ef0dfea81e5566e3ec1cded1af392315d91c7903129efd9153715466d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -53,6 +59,12 @@ Non-bank lending to corporations via direct-lending funds and BDCs; the note for
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2017-lines-in-the-sand|Lines in the Sand]] (2017)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:49dee3f74189c84f60709f0964931a50f525eedbfc53f2856ede9c793ed6a931
+content_hash: sha256:5e7fc852ef9ee22c8cf4adfc6f4839b32b63a6e22d893b05d742637317e60778
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2015-risk-revisited-again
@@ -48,7 +48,8 @@ related:
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2022-the-illusion-of-knowledge
-revision_id: 1
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 2
 schema_version: 2
 source_hash: sha256:9962832079668b35ca0cbfeb7991ddb016bf9d7a800b3400dacc98c785df107f
 source_path: markdown_output/2015-06-08-risk-revisited-again.md
@@ -59,8 +60,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk Revisited Again
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_51a8e80ae3c5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: 394a4d52-c7ec-542b-a49e-e23a17c10862
 ---
 
@@ -150,6 +151,7 @@ Mid-2015, about six years after the crisis: ultra-low rates (10-year Treasury ab
 - Refers to [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (December 17, 2007)
 - Refers to [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (July 1, 2003)
 - Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Source
 

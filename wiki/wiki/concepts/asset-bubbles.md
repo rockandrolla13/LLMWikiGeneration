@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:a03af6365351fdb6126137d901eb8f1e81827b95df048b1a7ea3fd1b0c8a4ace
+content_hash: sha256:37f4795ba6dd195efd00fa29a1b38fdda7dab855cf8771ae2f6e6fae43d6727d
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/asset-bubbles
@@ -12,7 +12,7 @@ related:
 - concepts/low-expected-returns
 - concepts/pendulum-of-investor-psychology
 - concepts/business-cycles
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1996-will-it-be-different-this-time
@@ -37,11 +37,19 @@ sources:
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-ai-hurtles-ahead
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2019-this-time-its-different
+- sources/marks-2020-time-for-thinking
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - howard-marks
 title: Asset Bubbles
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: c864fbe8-828f-528d-8a2e-e668565da2e1
 ---
 
@@ -78,6 +86,14 @@ Cited in 30 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

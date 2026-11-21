@@ -11,7 +11,7 @@ related:
 - concepts/credit-spread-changes
 - concepts/credit-spread-curve
 - concepts/government-bond-spreads
-revision_id: 5
+revision_id: 6
 sources:
 - sources/ms-2019-03-22-high-yield-hedge
 - sources/schofield-2019-citi-macro-views
@@ -27,13 +27,15 @@ sources:
 - sources/marks-2021-2020-in-review
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2025-gimme-credit
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2025-the-calculus-of-value
 tags: []
 title: Credit Spread Compression
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7acf652407bd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 schema_version: 2
 uuid: bb71e9f8-500c-51af-ab8b-ded8ebb032e7
-content_hash: sha256:272b0ac44f4be64eb47854ff1b2839977866a5be7c9f0f08ef5f4db4be002685
+content_hash: sha256:b474e50c6fa88785a87ea990a473723be62aa005d3ae1edf4a29e2881b7e55ee
 ---
 
 <!-- AUTHORED REGION START -->
@@ -71,4 +73,6 @@ Now also discussed in: [[sources/ms-2019-03-22-high-yield-hedge]]
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 <!-- AUTHORED REGION END -->

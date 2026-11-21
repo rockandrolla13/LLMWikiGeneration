@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:26f7e3b74825520e8a738cec699fd650db9b6675cf96910d295c7662313698b5
+content_hash: sha256:e639f55184f449783d9fc82d975c7ca96603872e623c1aa88e46934377c2b32a
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/reflexivity
@@ -12,16 +12,19 @@ related:
 - concepts/etf-flows
 - concepts/skepticism
 - concepts/active-vs-passive-investing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2009-touchstones
 - sources/marks-2018-investing-without-people
+- sources/marks-2017-yet-again
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2025-on-bubble-watch
 tags:
 - howard-marks
 title: Reflexivity
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_005ee79cd36a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 uuid: f4a5760b-ce41-5aa8-94ee-5deda67f5690
 ---
 
@@ -38,6 +41,9 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 
 ## Related Concepts
 

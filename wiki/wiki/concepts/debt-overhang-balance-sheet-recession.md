@@ -9,20 +9,21 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_id: 2
+revision_id: 3
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 - sources/marks-2009-the-long-view
 - sources/marks-2009-will-it-work
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2024-the-impact-of-debt
 tags: []
 title: Debt Overhang and Balance-Sheet Recession
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 schema_version: 2
 uuid: 13a54708-b5ef-57be-ad58-689557202811
-content_hash: sha256:e5ed2fa730495ceb24cce49fb92ae9830cb50ae79628647920bcdc5d44666441
+content_hash: sha256:a3b48273289c95fb87d4f1e93e02284bd5a27db0c222f36417508f99143e76b2
 ---
 
 <!-- AUTHORED REGION START -->
@@ -42,6 +43,7 @@ Debt overhang is a debt burden so large the debtor cannot finance future project
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 - [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 
 ## Related Concepts
 

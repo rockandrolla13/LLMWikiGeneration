@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/warren-buffett
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/marks-1994-random-thoughts-identification-investment-opportunities
@@ -78,13 +78,29 @@ sources:
 - sources/marks-2025-cockroaches-in-the-coal-mine
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-uncertainty
+- sources/marks-2021-something-of-value
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-more-on-repealing-the-laws-of-economics
+- sources/marks-2025-the-calculus-of-value
+- sources/marks-2026-whats-going-on-in-private-credit
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: Warren Buffett
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: 2e9fdb00-c846-5b95-bf0c-b2952894bae6
-content_hash: sha256:cc2a68295393b2fe2aecc8c465ffbd816b33973dd7a43c4d6c2f4ca202833e93
+content_hash: sha256:336cc894a63be39d9c423a622d33fd34103f5a392c0f1429620c4abe8ebc8b37
 ---
 
 <!-- AUTHORED REGION START -->
@@ -167,4 +183,20 @@ content_hash: sha256:cc2a68295393b2fe2aecc8c465ffbd816b33973dd7a43c4d6c2f4ca2028
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-more-on-repealing-the-laws-of-economics|More on Repealing the Laws of Economics]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

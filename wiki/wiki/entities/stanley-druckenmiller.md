@@ -8,18 +8,20 @@ mind_map_priority: low
 page_id: entities/stanley-druckenmiller
 page_type: entity
 related: []
-revision_id: 3
+revision_id: 4
 sources:
 - sources/lancaster-2021-fed-up
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2016-go-figure
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: Stanley Druckenmiller
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1d54838b117b
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: c1fabadf-542f-5341-b7a0-239006ca3c96
-content_hash: sha256:3c9a58f1ff57eaea6668517a5851d562ef0aa10559070b6bd76057ac3993560e
+content_hash: sha256:b0261d8735d48fe40bd0c2f468d148e9881102f43ac8c9af6c345c7a781ae1cc
 ---
 
 <!-- AUTHORED REGION START -->
@@ -37,4 +39,6 @@ content_hash: sha256:3c9a58f1ff57eaea6668517a5851d562ef0aa10559070b6bd76057ac399
 
 - [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
 - [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

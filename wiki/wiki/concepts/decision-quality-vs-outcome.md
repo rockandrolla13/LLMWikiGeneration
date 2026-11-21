@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:545d41c6320bcf04c77ce7c395231d65bda21656d786000e3f2360cbef400b1e
+content_hash: sha256:18470b2575766f3d89e052ab2171cf5786fb9c4074ee48f5fd3b73ce79c52f86
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/decision-quality-vs-outcome
@@ -12,7 +12,7 @@ related:
 - concepts/probabilistic-thinking
 - concepts/alternative-histories
 - concepts/superforecasting
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2006-pigweed
@@ -20,11 +20,13 @@ sources:
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2016-go-figure
 - sources/marks-2018-latest-thinking
+- sources/marks-2020-you-bet
+- sources/marks-2022-what-really-matters
 tags:
 - howard-marks
 title: Decision Quality vs Outcome
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5b5f68c843c8
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_19022e5feed4
 uuid: a4925ed3-8ad5-5944-aa40-a1322ac2c8dd
 ---
 
@@ -44,6 +46,8 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2016-go-figure|Go Figure!]] (2016)
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
 
 ## Related Concepts
 

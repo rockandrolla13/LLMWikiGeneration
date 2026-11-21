@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:ace4e8bd76ccfbd75a5f15be3d11c04b913431d1e607a8e6a1a9d07573d8cbd2
+content_hash: sha256:43bc43adea0ca5212dac82875ab470f0cfcc046cc7f959520794a7c3246c1791
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1991-first-quarter-performance
@@ -28,7 +28,10 @@ related:
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2010-open-and-shut
 - sources/marks-1997-are-you-an-investor-or-a-speculator
-revision_id: 3
+- sources/marks-2016-on-the-couch
+- sources/marks-2022-the-pendulum-in-international-affairs
+- sources/marks-2024-mr-market-miscalculates
+revision_id: 4
 schema_version: 2
 source_hash: sha256:70f8a700257e4251ebd950cf6a2143757585d433f5c0219b21061c15610c7421
 source_path: markdown_output/1991-04-11-first-quarter-client-performance.md
@@ -39,8 +42,8 @@ tags:
 - howard-marks
 - investment-memo
 title: First Quarter Performance
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d0083c9c6727
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 uuid: 1588fdbd-9e9a-5267-b85e-379d8c0e4b0c
 ---
 
@@ -106,6 +109,9 @@ Written after the late-1990 sell-off driven by recession fears and the Iraq conf
 - Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 - Referred to by [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (September 3, 1997)
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
+- Referred to by [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (March 23, 2022)
+- Referred to by [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (August 22, 2024)
 
 ## Notes on the Source Text
 

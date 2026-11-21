@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:9a9c5d8ffb676bffd6ba1e7fa992f0d2bb39dab3e3bf87f838d8a2ab036b3876
+content_hash: sha256:880528fc6933ef7be8bd623c6e0184629e37ab7fa91cb396ec1f8d73fec9fd97
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/losing-money-vs-missing-opportunity
@@ -12,7 +12,7 @@ related:
 - concepts/risk-vs-volatility
 - concepts/risk-premia
 - concepts/defensive-investing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2004-risk-and-return-today
@@ -23,11 +23,12 @@ sources:
 - sources/marks-2014-risk-revisited
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2020-calibrating
+- sources/marks-2024-the-indispensability-of-risk
 tags:
 - howard-marks
 title: 'Two Risks: Losing Money vs Missing Opportunity'
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_26483cf5fdc6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ae7c0e6feec8
 uuid: 99aabc46-f4b5-58c3-9aa0-eaba0dd664d1
 ---
 
@@ -50,6 +51,7 @@ Cited in 9 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
 
 ## Related Concepts
 

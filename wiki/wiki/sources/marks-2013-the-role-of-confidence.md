@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b17fc8a15f97b4105cb962c1b2fcca9ce7d20df3bf1f08b480ccfba6e13afb04
+content_hash: sha256:1b472b08526d638ff3b06a5102cdc4245cbc17b644571b5ba5722f129233def2
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2013-the-role-of-confidence
@@ -41,7 +41,9 @@ related:
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2014-the-lessons-of-oil
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2022-the-pendulum-in-international-affairs
+revision_id: 2
 schema_version: 2
 source_hash: sha256:c53705e9ee87656a7016ed35aaaaf7c0f45be9f4283ad928b2194b299dc22f8f
 source_path: markdown_output/2013-08-05-the-role-of-confidence.md
@@ -52,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Role of Confidence
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_cbff77cedec5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e14721db41dd
 uuid: 44734819-5711-5d5e-b5c9-f3de2fb1d715
 ---
 
@@ -140,6 +142,8 @@ August 2013: a slow US recovery five years after the crisis, tax increases and s
 - Referred to by [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (December 18, 2014)
 - Refers to (no page): second memo, 1991 (pendulum of investor psychology)
 - Refers to (no page): NYT article 'Too Much Trust; Too Little Worry'
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Referred to by [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (March 23, 2022)
 
 ## Notes on the Source Text
 

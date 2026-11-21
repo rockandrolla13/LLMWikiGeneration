@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a61360c74432a1cc0bf320a43ef0db9dcad16a26f738d08c3d480331a7c47a12
+content_hash: sha256:83a0a7d6431e6c626cbbad3bf516300748dc2f2a9dfd2e9a8a34733dd42a86b6
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2022-i-beg-to-differ
@@ -33,7 +33,10 @@ related:
 - sources/marks-2014-dare-to-be-great-ii
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2022-the-illusion-of-knowledge
-revision_id: 1
+- sources/marks-2021-something-of-value
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
+revision_id: 2
 schema_version: 2
 source_hash: sha256:a8f314eaea6a5ae88f64ceccd8aacad75ed2ec737f563d2cbc82d8faa8e7932b
 source_path: markdown_output/i-beg-to-differ.md
@@ -44,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: I Beg to Differ
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_19022e5feed4
 uuid: 141995fb-a89e-5e24-857e-f173b000c508
 ---
 
@@ -120,8 +123,9 @@ July 2022. Markets were falling, and investor questions centred on inflation, ho
 - Refers to [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (April 8, 2014)
 - Refers to [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (July 1, 2003)
 - Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
-- Refers to (no page): *Something of Value* (January 11, 2021), page not yet in the wiki. Memo text reference: Something of Value (January 2021)
-- Refers to (no page): *Selling Out* (January 13, 2022), page not yet in the wiki. Memo text reference: Selling Out (January 2022)
+- Refers to [[sources/marks-2021-something-of-value|Something of Value]] (January 11, 2021)
+- Refers to [[sources/marks-2022-selling-out|Selling Out]] (January 13, 2022)
+- Referred to by [[sources/marks-2022-what-really-matters|What Really Matters?]] (November 22, 2022)
 
 ## Notes on the Source Text
 

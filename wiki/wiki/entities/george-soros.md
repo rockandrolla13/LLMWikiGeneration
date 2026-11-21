@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:c80851d892d61da19a9b8b813acb0a12d4b1febb54876b478bd6c382d5f2d704
+content_hash: sha256:70a28203b3349a85128ba41366b9bd3d1f9ab92c5587cbcdc2cee2e895b85218
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/george-soros
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -14,12 +14,16 @@ sources:
 - sources/marks-2008-the-aviary
 - sources/marks-2009-touchstones
 - sources/marks-2018-investing-without-people
+- sources/marks-2017-yet-again
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags:
 - person
 - howard-marks-memos
 title: George Soros
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_005ee79cd36a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 uuid: e623eaab-09fd-58c2-a86c-8588f34600e5
 ---
 
@@ -42,4 +46,8 @@ Context from the memos:
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

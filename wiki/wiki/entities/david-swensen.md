@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:38bd1584bfdbb2fb0f3727ee1ee36fba83539b2e364cc6d217511441ecc25934
+content_hash: sha256:161d4754e1aac26583017cc71af076ec52cc3aec58b7d507a6ed03fe780a88a1
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/david-swensen
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
@@ -17,12 +17,13 @@ sources:
 - sources/marks-2014-dare-to-be-great-ii
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2022-i-beg-to-differ
+- sources/marks-2020-uncertainty
 tags:
 - person
 - howard-marks-memos
 title: David Swensen
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_09439e612113
 uuid: 1995e186-d16f-53d7-be35-79fad47686a4
 ---
 
@@ -48,4 +49,5 @@ Context from the memos:
 - [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
 <!-- AUTHORED REGION END -->

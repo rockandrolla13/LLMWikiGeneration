@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a75983dbc35ad25988da758fda32acb13f4a43bc30e89fb8e378170937bc73c3
+content_hash: sha256:ba45724cdb65edce1457ccb964ddb25b0ff77807afe9e18cd1830358c79c88da
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2020-knowledge-of-the-future
@@ -29,7 +29,8 @@ related:
 - entities/oaktree-capital-management
 - entities/us-treasury
 - sources/marks-2020-calibrating
-revision_id: 1
+- sources/marks-2020-which-way-now
+revision_id: 2
 schema_version: 2
 source_hash: sha256:ab5e98b86197f31eefcc94e90d99a3368538f40904e271d79fbe86496e7c7b04
 source_path: markdown_output/knowledge-of-the-future.md
@@ -40,8 +41,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Knowledge of the Future
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e5b8cb112cd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_df4295f1fa0d
 uuid: d5aa9674-08cc-5fc4-9f97-3aa1acaec25a
 ---
 
@@ -111,7 +112,7 @@ Mid-April 2020, during the COVID-19 lockdowns. Fed funds had been cut to near ze
 ## Related Memos
 
 - Refers to [[sources/marks-2020-calibrating|Calibrating]] (April 6, 2020)
-- Refers to (no page): *Which Way Now?* (March 31, 2020), page not yet in the wiki. Memo text reference: Which Way Now? (March 31, 2020)
+- Refers to [[sources/marks-2020-which-way-now|Which Way Now?]] (March 31, 2020)
 
 ## Notes on the Source Text
 

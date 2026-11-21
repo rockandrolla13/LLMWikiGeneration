@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:bac8af38b1ef077613f29d15bd9518ddc6179afe14be0d0a0bea28c8df19fc75
+content_hash: sha256:920664139e5ef492d572dfa36aaf791bf59edf0cbf884e188537c0d1bd550e2c
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2016-implications-of-the-election
@@ -29,7 +29,8 @@ related:
 - entities/thomas-friedman
 - sources/marks-2012-a-fresh-start-hopefully
 - sources/marks-2016-go-figure
-revision_id: 1
+- sources/marks-2016-political-reality
+revision_id: 2
 schema_version: 2
 source_hash: sha256:03713218c1266974c3a2ac0eaed96bbec0de62e4d680c2310ce2debbcb3ba2e4
 source_path: markdown_output/implications-of-the-election_11716.md
@@ -40,8 +41,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Implications of the Election
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_61fcf8d656a3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_9a655a362255
 uuid: 19c87477-8122-5448-b646-55eb644cbfe7
 ---
 
@@ -111,7 +112,7 @@ Early November 2016, the day before the US presidential election between Donald 
 
 - Refers to [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (November 19, 2012)
 - Referred to by [[sources/marks-2016-go-figure|Go Figure!]] (November 14, 2016)
-- Refers to (no page): *Political Reality* (August 17, 2016), page not yet in the wiki. Memo text reference: Political Reality (August 2016)
+- Refers to [[sources/marks-2016-political-reality|Political Reality]] (August 17, 2016)
 
 ## Notes on the Source Text
 

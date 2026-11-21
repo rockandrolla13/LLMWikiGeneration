@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:82d92da63148d8c282c524b77d5107927081bea58df0f5ee3c2214ff444df527
+content_hash: sha256:15b5e06aa0f97820defacdfa94dae7a3d710d4ac25e8a6850b164307ef4fdf40
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2022-bull-market-rhymes
@@ -33,7 +33,9 @@ related:
 - entities/warren-buffett
 - sources/marks-2004-the-happy-medium
 - sources/marks-2007-the-race-to-the-bottom
-revision_id: 1
+- sources/marks-2016-on-the-couch
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 2
 schema_version: 2
 source_hash: sha256:f8a2835af808788586751b83dc44f564402a6c85123b040dae7f20cdbc59b48a
 source_path: markdown_output/bull-market-rhymes.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Bull Market Rhymes
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_508b5db898e6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: 2682853f-0f77-546d-895b-881584a80e6d
 ---
 
@@ -120,8 +122,9 @@ May 2022. After the pandemic crash of February-March 2020, Fed rate cuts and fis
 
 - Refers to [[sources/marks-2004-the-happy-medium|The Happy Medium]] (July 20, 2004)
 - Refers to [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (February 14, 2007)
-- Refers to (no page): *On the Couch* (January 14, 2016), page not yet in the wiki. Memo text reference: On the Couch (January 2016)
+- Refers to [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
 - Refers to (no page): Mastering the Market Cycle (book)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Notes on the Source Text
 

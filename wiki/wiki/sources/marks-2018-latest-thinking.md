@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b13d5f26d76ce7e5e3709b6151c071c0bd3466865ba1a750e7444dfaa3fd2d3f
+content_hash: sha256:f03a80b8c368db41dd922ac561831a4f600e7459d0afc36da9a12ec03a82dc70
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2018-latest-thinking
@@ -27,7 +27,9 @@ related:
 - entities/warren-buffett
 - sources/marks-1997-are-you-an-investor-or-a-speculator
 - sources/marks-2016-economic-reality
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:ddb04579344c34f4dd7da461246bf8a16946b83eaa33494a4ff2bc8caa6812a3
 source_path: markdown_output/latest-thinking.md
@@ -38,8 +40,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Latest Thinking
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5b5f68c843c8
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5915427acbe6
 uuid: 5a1daf1d-8a0c-5095-bff9-72f8463893b2
 ---
 
@@ -110,8 +112,8 @@ January 2018, about a year into the Trump administration and just after passage 
 
 - Refers to [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (September 3, 1997)
 - Refers to [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
-- Refers to (no page): *There They Go Again . . . Again* (July 26, 2017), page not yet in the wiki. Memo text reference: There They Go Again . . . Again (July 2017)
-- Refers to (no page): *Yet Again?* (September 7, 2017), page not yet in the wiki. Memo text reference: Yet Again? (September 2017)
+- Refers to [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Refers to [[sources/marks-2017-yet-again|Yet Again?]] (September 7, 2017)
 - Refers to (no page): Forthcoming book on cycles, due out in October (title not given in the memo)
 
 ## Notes on the Source Text

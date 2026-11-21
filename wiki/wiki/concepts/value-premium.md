@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:d9d37e4529f533872064c7db4a13abedbbd21fe6ba9c2c7cc924df27a1f79e36
+content_hash: sha256:065751df9a072eda79b74be5e6bf71c94b29a5abae34e50ea105fd0e4b7664a6
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/factor-investing
 - concepts/fama-french-factors
 - concepts/mean-reversion
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -24,10 +24,12 @@ sources:
 - sources/marks-2004-the-happy-medium
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2019-this-time-its-different
+- sources/marks-2021-something-of-value
 tags: []
 title: Value Premium
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_40380bf071bc
 uuid: 0f61dd20-c5b4-589a-8601-46be299279d9
 ---
 
@@ -59,4 +61,6 @@ The historical outperformance of cheap (high book-to-price) assets over expensiv
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
 <!-- AUTHORED REGION END -->

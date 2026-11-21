@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:cc6ce89528fd584df42fe21f5504349b71812f19dcf0eb2b99977bca6a224cd6
+content_hash: sha256:a732177efdf1130c8216029fd0aa120895bea7298e7343b073cfb756b845d712
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/amos-tversky
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1995-how-the-game-should-be-played
@@ -17,12 +17,13 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2012-what-can-we-do-for-you
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2021-thinking-about-macro
 tags:
 - person
 - howard-marks-memos
 title: Amos Tversky
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4faa3f6343c4
 uuid: 1ae334a6-1cbd-5530-a827-8c71797119b1
 ---
 
@@ -47,4 +48,5 @@ Context from the memos:
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
 <!-- AUTHORED REGION END -->

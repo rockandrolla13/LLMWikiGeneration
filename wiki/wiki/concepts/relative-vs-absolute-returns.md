@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:3be1ceb9826388d4c9c1d9bcaa1d44d3d87780e64906f8589a0d4a1a5ad546d1
+content_hash: sha256:828326c7c91a1d012a605556461f05cdfa7a4e50ef0e5016bbad57f2cb520ab3
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/relative-vs-absolute-returns
@@ -12,18 +12,19 @@ related:
 - concepts/alternative-histories
 - concepts/survivorship-bias
 - concepts/luck-vs-skill
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
 - sources/marks-2004-us-and-them
 - sources/marks-2012-assessing-performance-records-a-case-study
 - sources/marks-2025-a-look-under-the-hood
+- sources/marks-2017-there-they-go-again-again
 tags:
 - howard-marks
 title: Relative vs Absolute Returns
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_564e135c3d91
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 03291616-5893-53ba-a1b0-0822c0a1bfd6
 ---
 
@@ -42,6 +43,7 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 - [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
 
 ## Related Concepts
 

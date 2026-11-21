@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:ed8e97fe4cc736432fffaf9901d1237548f04dcbcca3eba9807ac0dcc91c0c50
+content_hash: sha256:4cdbab45e7853754d07e1a772cb2498d77dbeb30284f03aa82d488189175979b
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2018-investing-without-people
@@ -36,7 +36,9 @@ related:
 - sources/marks-2015-liquidity
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2012-its-all-a-big-mistake
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 2
 schema_version: 2
 source_hash: sha256:90dfa0c4adc3221325fb14f48a66562164f44a488d0e8273a24821142f280e59
 source_path: markdown_output/investing-without-people.md
@@ -47,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Investing Without People
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_005ee79cd36a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: db10461e-2dfc-5c1c-b054-f6eaac3ecd2d
 ---
 
@@ -128,7 +130,8 @@ Written in June 2018, roughly nine years into the post-2009 bull market, after a
 - Refers to [[sources/marks-2015-liquidity|Liquidity]] (March 25, 2015)
 - Refers to [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (September 7, 2006)
 - Refers to [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (June 20, 2012)
-- Refers to (no page): *There They Go Again . . . Again* (July 26, 2017), page not yet in the wiki. Memo text reference: There They Go Again . . . Again (July 2017)
+- Refers to [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:6c5e2da2222d6bc5baa24fc5264f0e44702d0605f94782258d7d45d947588806
+content_hash: sha256:6833cf8c24c37a2a2b70c61f77b0aa17d15542a984edc4c2bd04f32ecaeaa0ac
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -18,7 +18,7 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_id: 8
+revision_id: 9
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -52,10 +52,12 @@ sources:
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2020-which-way-now
+- sources/marks-2022-sea-change
 tags: []
 title: Default Rates
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: bf605565-480c-58dc-950a-27081d4e27e8
 ---
 
@@ -103,4 +105,6 @@ Now also discussed in: [[sources/ms-2012-03-09-european-hy-leveraged-finance-pla
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
 <!-- AUTHORED REGION END -->

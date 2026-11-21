@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:6f042bb32ddeae854d4d579be4d93aa682173f51f096eaf7ed1a4c2abe1dd25d
+content_hash: sha256:170fe32c327c53ba750cc849cd2731912ba2e2f1aa9a876bcc1565f3d7e62125
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/second-level-thinking
@@ -12,7 +12,7 @@ related:
 - concepts/market-timing
 - concepts/limits-of-macro-forecasting
 - concepts/efficient-market-hypothesis
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -28,11 +28,17 @@ sources:
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2025-cockroaches-in-the-coal-mine
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2020-you-bet
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-nobody-knows-yet-again
 tags:
 - howard-marks
 title: Second-Level Thinking
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 2ec4a239-2b38-582d-a66e-1248e4d856a3
 ---
 
@@ -60,6 +66,12 @@ Cited in 19 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 
 ## Related Concepts
 

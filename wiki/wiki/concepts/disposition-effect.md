@@ -6,21 +6,22 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/prospect-theory
-revision_id: 3
+revision_id: 4
 sources:
 - sources/bhansali-2018-right-tail-hedging
 - sources/nolte-2011-fx-latent-factor-panel-intensity
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2024-mr-market-miscalculates
 tags:
 - behavioral-finance
 - prospect-theory
 - retail-investors
 title: Disposition Effect
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 schema_version: 2
 uuid: b5ff1f93-cf39-59a4-9970-c926451859da
-content_hash: sha256:6cd545e1424122211e0806e3f4feb6f306f8c7fb46325d0e51edabf0847e6775
-updated_by: op_ba45bcb8afe3
+content_hash: sha256:f9240b0c6a656f5a833c00534f7699b02c40fbf888e7eac790570caee4e946e9
+updated_by: op_62a76cec3e18
 ---
 
 <!-- AUTHORED REGION START -->
@@ -35,6 +36,7 @@ updated_by: op_ba45bcb8afe3
 ## In Howard Marks's Memos
 
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 
 ## Related Concepts
 

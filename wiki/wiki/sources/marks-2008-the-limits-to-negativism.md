@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:03d5ec2d726dec73c514c45c81e00d76156bb311d9fb3c735ac30ef66dcb6cfc
+content_hash: sha256:c3ad85dec0e7082d260e3b5f5881ebe5372d492729e30e4d33fe2434afde405d
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-the-limits-to-negativism
@@ -46,7 +46,10 @@ related:
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2010-warning-flags
 - sources/marks-2016-economic-reality
-revision_id: 2
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
+revision_id: 3
 schema_version: 2
 source_hash: sha256:d95e860a5417638d30b921046e16a5fbdf22d94410be4d93da233e48dc842520
 source_path: markdown_output/2008-10-15-the-limits-to-negativism.md
@@ -57,8 +60,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Limits to Negativism
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_490b064f280e
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 uuid: 2500fa0f-5cb0-5b36-96a7-165cf9e91027
 ---
 
@@ -147,6 +150,9 @@ Mid-October 2008, weeks after Lehman Brothers failed. The commercial paper marke
 - Referred to by [[sources/marks-2010-warning-flags|Warning Flags]] (May 12, 2010)
 - Refers to (no page): October 2008 memo to Opportunities Funds investors (with Bruce Karsh)
 - Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
+- Referred to by [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
+- Referred to by [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (September 22, 2026)
 
 ## Notes on the Source Text
 

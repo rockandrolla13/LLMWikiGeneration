@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d2ccd3d5ec66bcccfd7b01b4324ce0cfead35896332a2a50d809dd4761b1c5fb
+content_hash: sha256:43708268c7f37237d82ecf8ba2c01ae5bb64450147be4b14652345c09c11e14e
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2023-lessons-from-silicon-valley-bank
@@ -39,7 +39,8 @@ related:
 - entities/ubs
 - entities/warren-buffett
 - sources/marks-2011-on-regulation
-revision_id: 1
+- sources/marks-2022-sea-change
+revision_id: 2
 schema_version: 2
 source_hash: sha256:ab233cdd605f940aa9acdea726267704240c8a5b828d4e815810c0b0fec117e1
 source_path: markdown_output/lessons-from-svb.md
@@ -50,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Lessons from Silicon Valley Bank
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: a2c3b54d-e2a6-5f75-8b8a-57a5599629ac
 ---
 
@@ -132,7 +133,7 @@ April 2023, a month after the failures of Silicon Valley Bank and Signature Bank
 ## Related Memos
 
 - Refers to [[sources/marks-2011-on-regulation|On Regulation]] (March 2, 2011)
-- Refers to (no page): *Sea Change* (December 13, 2022), page not yet in the wiki. Memo text reference: Sea Change (December 2022)
+- Refers to [[sources/marks-2022-sea-change|Sea Change]] (December 13, 2022)
 
 ## Notes on the Source Text
 

@@ -1,23 +1,24 @@
 ---
-content_hash: sha256:153f0311cd917c164e7f9266ba2481f0493d3afc1c4b650318a173e1764f6220
+content_hash: sha256:2ddb8f7e48bf490222c5870fccda897dd495fd4b0057a046d9a4897bb6266702
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/paul-krugman
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2009-will-it-work
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2016-on-the-couch
 tags:
 - person
 - howard-marks-memos
 title: Paul Krugman
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7e0f3c6f2b58
 uuid: 762d96ed-e58c-53d9-b9d4-b4a98d0dfd3f
 ---
 
@@ -37,4 +38,5 @@ Context from the memos:
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 - [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
 <!-- AUTHORED REGION END -->

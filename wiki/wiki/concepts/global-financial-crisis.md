@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:ab49ba20ae7caf4ae436d5082a5e20f04a452477f2b8e437890091749608a537
+content_hash: sha256:434f370551d4bc45852cf67e163b0f7c57f989c1bd2845e4f7d8a1fa29043b20
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/global-financial-crisis
@@ -12,7 +12,7 @@ related:
 - concepts/cdo-tranches
 - concepts/moral-hazard
 - concepts/credit-default-swaps
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2005-there-they-go-again
@@ -28,11 +28,12 @@ sources:
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2011-on-regulation
+- sources/marks-2016-what-does-the-market-know
 tags:
 - howard-marks
 title: Global Financial Crisis (2007-2009)
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_670d900bbdbf
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7eee3fa53f89
 uuid: 0a1e92e7-1d4b-56a1-a822-c07a47daad42
 ---
 
@@ -60,6 +61,7 @@ Cited in 14 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7745e0fd025c1e410dba83c3f3539d5acb85dd5500493e49c815bb4bc87c8ed4
+content_hash: sha256:57356d6c29c0f9c10a8e42a390eed90e988b9152ca6766007907d386c19ca58e
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/three-stages-of-a-bull-market
@@ -12,7 +12,7 @@ related:
 - concepts/this-time-is-different
 - concepts/business-cycles
 - concepts/asset-bubbles
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -23,11 +23,15 @@ sources:
 - sources/marks-2013-the-outlook-for-equities
 - sources/marks-2013-the-role-of-confidence
 - sources/marks-2022-bull-market-rhymes
+- sources/marks-2016-on-the-couch
+- sources/marks-2019-this-time-its-different
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2025-on-bubble-watch
 tags:
 - howard-marks
 title: The Three Stages of a Bull Market
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_508b5db898e6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 uuid: 112d168b-8338-50bd-8a12-0903b8b78708
 ---
 
@@ -50,6 +54,10 @@ Cited in 12 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
 - [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 
 ## Related Concepts
 

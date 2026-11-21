@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:01c5fd169974ea82d33f5391b9ce8568c4a130765e77b874239107d34ddff4ae
+content_hash: sha256:daa3f0bb288987149fb6fb819a51b7461cd18e28da528c957bd455a9794fef7e
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/important-and-knowable
@@ -12,18 +12,19 @@ related:
 - concepts/base-rates-reference-class-forecasting
 - concepts/phillips-curve
 - concepts/confirmation-bias
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
 - sources/marks-1996-the-value-of-predictions-ii
 - sources/marks-2017-expert-opinion
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2021-thinking-about-macro
 tags:
 - howard-marks
 title: Important and Knowable
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4faa3f6343c4
 uuid: 1d260af8-4614-5484-aa2f-c5ce67bc5ede
 ---
 
@@ -42,6 +43,7 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
 - [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:cd4ed7a40521288ef6c0535fa7ad605b2fa227d699e66f6a6a38e2143248442b
+content_hash: sha256:cb3d504d75d471c54b2c40f702950c0c6a85ccf693fb10b1de275664ed11ea74
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/alternative-histories
@@ -12,7 +12,7 @@ related:
 - concepts/information-ratio
 - concepts/relative-vs-absolute-returns
 - concepts/irr-and-performance-measurement
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2002-returns-and-how-they-get-that-way
@@ -21,11 +21,12 @@ sources:
 - sources/marks-2012-assessing-performance-records-a-case-study
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2025-a-look-under-the-hood
+- sources/marks-2020-uncertainty-ii
 tags:
 - howard-marks
 title: Alternative Histories
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_564e135c3d91
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_8a92ab89260f
 uuid: 203efcff-331c-5348-9a99-aa2ade165e7d
 ---
 
@@ -46,6 +47,7 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
 
 ## Related Concepts
 

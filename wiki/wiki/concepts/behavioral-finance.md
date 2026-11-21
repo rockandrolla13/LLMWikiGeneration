@@ -25,7 +25,7 @@ related:
 - concepts/tail-risk-premium
 - concepts/value-premium
 - concepts/wealth-inequality-financialized-capitalism
-revision_id: 6
+revision_id: 7
 sources:
 - sources/ms-2016-06-15-1937-38-redux
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers
@@ -93,16 +93,31 @@ sources:
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2016-on-the-couch
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2017-yet-again
+- sources/marks-2020-you-bet
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-uncertainty
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2022-selling-out
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
 tags:
 - behavioral-finance
 - heuristics
 - anomalies
 title: Behavioral Finance
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 schema_version: 2
 uuid: 813248fe-dbe9-53e9-8a05-bbc3e5d7a86b
-content_hash: sha256:259b7a6fa89448d297abc04e9a87f61270142511d1c77648df780cbd7fc1d927
-updated_by: op_bff3bcb6b3ea
+content_hash: sha256:506a290e4329063a1657cc0f0dc978d6c71b5232bde43ef6c4f8f733157d58ee
+updated_by: op_1307d315ef9f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -202,4 +217,19 @@ Now also discussed in: [[sources/ms-2016-06-15-1937-38-redux]], [[sources/ms-201
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 <!-- AUTHORED REGION END -->

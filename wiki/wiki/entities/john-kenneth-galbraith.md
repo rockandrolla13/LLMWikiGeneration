@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:1715dafb6e0390fc2152f51103d8de4a467d6fa24457677a427f95149f2828ba
+content_hash: sha256:5d7578fd4531c5be315549c331ebcbf0893ba90476cef188937309ceaca1ec42
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/john-kenneth-galbraith
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -35,12 +35,18 @@ sources:
 - sources/marks-2024-easy-money
 - sources/marks-2025-cockroaches-in-the-coal-mine
 - sources/marks-2025-is-it-a-bubble
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-uncertainty
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: John Kenneth Galbraith
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ad8fe77d6eb0
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 58cb5035-bf5c-5dc4-9997-be9cb362ef20
 ---
 
@@ -84,4 +90,10 @@ Context from the memos:
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

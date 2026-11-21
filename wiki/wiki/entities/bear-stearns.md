@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:4f522616b27339bbf811b7a1712087ce06d401a90da31e57a2bb5f4e83da955d
+content_hash: sha256:8d8128c843bee49f398a9c4f488023f58a6f6b6414cb4d2422b993f71b515262
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/bear-stearns
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1999-hows-the-market
@@ -19,12 +19,16 @@ sources:
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-plan-b
 - sources/marks-2010-open-and-shut
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-nobody-knows-yet-again
 tags:
 - bank
 - howard-marks-memos
 title: Bear Stearns
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 5e7d4b14-798c-5357-b27a-4060a0ec126d
 ---
 
@@ -52,4 +56,8 @@ Context from the memos:
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:21d31f979306f3c1736cacdb740c48e087575d154e73b454bb66b9e64ac3cc5d
+content_hash: sha256:0d648f8fee2a7e634311bb99f2f1f8162768825c4b95310cf9922b0e1f8a0429
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/price-vs-value
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/nifty-fifty
 - concepts/pendulum-of-investor-psychology
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1992-microeconomics-101-supply-demand-convertibles
@@ -38,11 +38,20 @@ sources:
 - sources/marks-2020-calibrating
 - sources/marks-2020-coming-into-focus
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2017-yet-again
+- sources/marks-2019-mysterious
+- sources/marks-2020-you-bet
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2021-something-of-value
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
 tags:
 - howard-marks
 title: Price vs Intrinsic Value
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 uuid: 6c47cbe8-80c6-5a00-b38a-55704e8c1787
 ---
 
@@ -80,6 +89,15 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 
 ## Related Concepts
 

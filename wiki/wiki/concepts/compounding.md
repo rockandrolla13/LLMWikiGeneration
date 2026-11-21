@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:0be887085c7ca399eb98da9ad6f99a376bcf676dd2e2df50c58cbc8410b73ff0
+content_hash: sha256:d19e9192662802ed1e9765ae537f6dd47acc474009a44c63705333c56270f2a3
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/compounding
@@ -12,14 +12,18 @@ related:
 - concepts/market-timing
 - concepts/limits-of-macro-forecasting
 - concepts/price-vs-value
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2019-mysterious
+- sources/marks-2021-something-of-value
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
 tags:
 - howard-marks
 title: Compounding
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_19022e5feed4
 uuid: 0cd1c1c4-99da-5495-a36c-87423a3e1216
 ---
 
@@ -33,6 +37,11 @@ Growth in which returns earn further returns, so a steady rate produces ever lar
 ## In Howard Marks's Memos
 
 Cited in 4 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
 
 ## Related Concepts
 

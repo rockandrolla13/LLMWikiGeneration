@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:277f725e4f6d08c0e1fdfc8ee3bbc4e0eda7743d9db722502ffa76702efd5fc1
+content_hash: sha256:e0f525d80bef3627e5dd526589816d3a9916396f703a5ac0d4f4d61a7c1be15b
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1990-the-route-to-performance
@@ -22,7 +22,8 @@ related:
 - entities/oaktree-capital-management
 - entities/wall-street-journal
 - sources/marks-2023-fewer-losers-or-more-winners
-revision_id: 2
+- sources/marks-2022-the-pendulum-in-international-affairs
+revision_id: 3
 schema_version: 2
 source_hash: sha256:21c54d9d5f1d855a9a1073b90056266e16fb8acb82515963f2a1e172f8cf43a9
 source_path: markdown_output/1990-10-12-the-route-to-performance.md
@@ -33,8 +34,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Route to Performance
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e14721db41dd
 uuid: d2e83569-3edb-59f8-8dfc-096297050ed1
 ---
 
@@ -97,6 +98,7 @@ Written in October 1990 as an addendum to a third-quarter client letter, prompte
 
 - Refers to (no page): second quarter 1988 letter to convertible clients (referenced, not a titled memo)
 - Referred to by [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (September 12, 2023)
+- Referred to by [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (March 23, 2022)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b763185926c12d075e463548174309a56c4d01b9fa4e0e10e47c06c8a0d07dae
+content_hash: sha256:d7b2379bea1c1f369eb40af9f61c1bf89c9ed4b748d74dfc2e3f40ac970c22ed
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/moral-hazard
@@ -12,7 +12,7 @@ related:
 - concepts/lender-of-last-resort
 - concepts/quantitative-easing
 - concepts/regulatory-pendulum
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2007-the-race-to-the-bottom
@@ -29,11 +29,14 @@ sources:
 - sources/marks-2020-knowledge-of-the-future
 - sources/marks-2020-coming-into-focus
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2019-this-time-its-different
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2020-the-anatomy-of-a-rally
 tags:
 - howard-marks
 title: Moral Hazard
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_399c2383a187
 uuid: 1e92f103-d60e-5f46-80e6-2b6600d21fbf
 ---
 
@@ -62,6 +65,9 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
 
 ## Related Concepts
 

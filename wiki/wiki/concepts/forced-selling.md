@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:de6080f10e8988137fcec7b50052b0b6457b70b9466209b92ee5e70818324a9f
+content_hash: sha256:7b6fb4a07c8cfad81a83d8f1ca2e504c5f896279e18017dd8e655682e222e9f5
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/forced-selling
@@ -12,7 +12,7 @@ related:
 - concepts/funding-liquidity
 - concepts/global-financial-crisis
 - concepts/no-silver-bullet
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -22,11 +22,14 @@ sources:
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2008-now-what
 - sources/marks-2008-the-limits-to-negativism
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-latest-update
+- sources/marks-2020-which-way-now
 tags:
 - howard-marks
 title: Forced Selling
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_470b4c005c8f
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_df4295f1fa0d
 uuid: 06449a15-ded0-59cc-9186-46c4e441a24a
 ---
 
@@ -48,6 +51,9 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
 - [[sources/marks-2008-now-what|Now What?]] (2008)
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
 
 ## Related Concepts
 

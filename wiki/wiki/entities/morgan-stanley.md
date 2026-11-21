@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_id: 5
+revision_id: 6
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 - sources/ms-2009-11-12-us-rate-strategist
@@ -126,13 +126,15 @@ sources:
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2021-2020-in-review
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-time-for-thinking
 tags: []
 title: Morgan Stanley
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_6706dc7efcfb
 schema_version: 2
 uuid: cee4274b-5af8-5394-92b3-8fbd6ec649c4
-content_hash: sha256:1a194da01227f61dc383e3119f9666ed1a5cfe37829cdcd320e6163f0c76832a
+content_hash: sha256:e5f2f4842fc74ebce301aed627c47f5c8b0558dd4b914d937591a05db7134137
 ---
 
 <!-- AUTHORED REGION START -->
@@ -200,4 +202,6 @@ sources directory for `ms-20`.
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:947daf58edaf75fdafb2488763e4e12fdc1cb61e70a9ca28b9e2c5a4d3a23203
+content_hash: sha256:fb2bad5429f1bcfd23248f23405693421103301e80682dfdf1c77e915e5220e4
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/nifty-fifty
@@ -12,7 +12,7 @@ related:
 - concepts/ai-disruption-software-business-models
 - concepts/low-expected-returns
 - concepts/mean-reversion
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1994-random-thoughts-identification-investment-opportunities
@@ -21,11 +21,15 @@ sources:
 - sources/marks-2010-hemlines
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2020-coming-into-focus
+- sources/marks-2020-you-bet
+- sources/marks-2020-time-for-thinking
+- sources/marks-2021-the-winds-of-change
+- sources/marks-2025-on-bubble-watch
 tags:
 - howard-marks
 title: The Nifty Fifty
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5ebf1dc75f95
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 uuid: 5ae8b137-cc1f-57b2-99e6-4367b411e4ce
 ---
 
@@ -46,6 +50,10 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2021-the-winds-of-change|The Winds of Change]] (2021)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 
 ## Related Concepts
 

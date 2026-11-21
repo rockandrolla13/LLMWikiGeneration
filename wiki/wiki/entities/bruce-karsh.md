@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:2d3f742c42571050fdf4435143b9be8e98c85f8182f32b3829202e20e2659314
+content_hash: sha256:2fb408df62ca755ee61ec7755c10e719bfa550b966e8c2c523f3dd44f6f9945c
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/bruce-karsh
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
@@ -27,12 +27,22 @@ sources:
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2024-easy-money
+- sources/marks-2020-uncertainty
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2020-time-for-thinking
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: Bruce Karsh
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: ab691913-ba56-5a46-9261-894dcc31ab72
 ---
 
@@ -68,4 +78,14 @@ Context from the memos:
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

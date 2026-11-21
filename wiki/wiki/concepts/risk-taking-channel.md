@@ -7,7 +7,7 @@ mind_map_priority: medium
 page_id: concepts/risk-taking-channel
 page_type: concept
 related: []
-revision_id: 3
+revision_id: 4
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 - sources/marks-2007-now-its-all-bad
@@ -20,13 +20,14 @@ sources:
 - sources/marks-2013-the-role-of-confidence
 - sources/marks-2020-coming-into-focus
 - sources/marks-2024-easy-money
+- sources/marks-2019-on-the-other-hand
 tags: []
 title: Risk-Taking Channel of Monetary Policy
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_252e6d3fb84e
 schema_version: 2
 uuid: bb85ed81-fd01-58a5-b206-9ac468572dff
-content_hash: sha256:4d29283f7557e4652838d072cec1f9ee9bfc2a3574f5eda782d38e8b2c283d23
+content_hash: sha256:f6884166f2284927e27a11c65cbcd4eeb26578e170f66e55c58ec7fb31e3814f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -52,4 +53,5 @@ The channel operating through changes in agents' perception and pricing of risk;
 - [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
 <!-- AUTHORED REGION END -->

@@ -8,16 +8,17 @@ page_id: concepts/futures-carry
 page_type: concept
 related:
 - concepts/carry-rolldown
-revision_id: 1
+revision_id: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
+- sources/marks-2024-mr-market-miscalculates
 tags: []
 title: Futures Carry
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 schema_version: 2
 uuid: 6b420f95-b7e3-5dd1-b144-1c1e0c534afa
-content_hash: sha256:7806296ff12275ae0317c0847ba5099b0cc46154988941471461fcd5972bb94d
+content_hash: sha256:96275c8d2de0c1d33f1913dab9fe7cbac52c7e9f6c5fb44adec22fd0e5616109
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +31,10 @@ A strategy exploiting the shape of the futures term structure to predict and har
 ## Sources
 
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 
 ## Related Concepts
 

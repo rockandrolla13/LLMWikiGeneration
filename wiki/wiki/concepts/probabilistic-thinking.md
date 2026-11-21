@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:361d371354b78e092112bac654f7b1d915c9bca30d259167a208a0edb67ea596
+content_hash: sha256:18b91c378c21a7acdd489d17a67fd529da86b71dd748d77f52bee8955f24f176
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/probabilistic-thinking
@@ -12,7 +12,7 @@ related:
 - concepts/value-at-risk
 - concepts/decision-quality-vs-outcome
 - concepts/i-know-vs-i-dont-know-school
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2003-whad-ya-know
@@ -27,11 +27,13 @@ sources:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2016-go-figure
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2020-you-bet
+- sources/marks-2020-which-way-now
 tags:
 - howard-marks
 title: Probabilistic Thinking
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_df4295f1fa0d
 uuid: 9aad2f5b-6336-59dc-ade8-a688dca807b6
 ---
 
@@ -58,6 +60,8 @@ Cited in 14 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2016-go-figure|Go Figure!]] (2016)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
 
 ## Related Concepts
 

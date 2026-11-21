@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:5fca3633bdd7c779dfa5637e6aeaf8b43c8dda4cdd471bea91e5b4c50f52d7bb
+content_hash: sha256:5a3d59e100ab12d93cd3bde3d664df670be11e2c438d2f9330a102583d260152
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2015-liquidity
@@ -36,7 +36,10 @@ related:
 - sources/marks-2015-its-not-easy
 - sources/marks-2018-investing-without-people
 - sources/marks-2023-fewer-losers-or-more-winners
-revision_id: 1
+- sources/marks-2016-on-the-couch
+- sources/marks-2021-something-of-value
+- sources/marks-2022-selling-out
+revision_id: 2
 schema_version: 2
 source_hash: sha256:4b22d667648f28de1549bc88db90bd7bea4f573a8a01e885ea5c343598994d56
 source_path: markdown_output/2015-03-25-liquidity.md
@@ -47,8 +50,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Liquidity
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_abfa3ebd137a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_8c798afd6cba
 uuid: e6070265-5bb9-5ca8-a618-0d3f3401eace
 ---
 
@@ -128,6 +131,9 @@ Written in March 2015, with central-bank interest rates near zero pushing retail
 - Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
 - Referred to by [[sources/marks-2018-investing-without-people|Investing Without People]] (June 18, 2018)
 - Referred to by [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (September 12, 2023)
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
+- Referred to by [[sources/marks-2021-something-of-value|Something of Value]] (January 11, 2021)
+- Referred to by [[sources/marks-2022-selling-out|Selling Out]] (January 13, 2022)
 
 ## Notes on the Source Text
 

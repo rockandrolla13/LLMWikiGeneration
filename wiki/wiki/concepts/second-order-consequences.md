@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:2e4ad460bb1ec81215f9cf3d40b7064a0a4dfec60161c33d5190b72deb5f66ec
+content_hash: sha256:cbd5d2178c977e13cb26b5be4f0f2f64653a9dfc03e3dc145f5d224a4694bae9
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/second-order-consequences
@@ -12,17 +12,21 @@ related:
 - concepts/laws-of-economics
 - concepts/tax-policy
 - concepts/reserve-currency-status
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
 - sources/marks-2007-its-all-good-really
 - sources/marks-2016-economic-reality
+- sources/marks-2019-political-reality-meets-economic-reality
+- sources/marks-2024-shall-we-repeal-the-laws-of-economics
+- sources/marks-2025-nobody-knows-yet-again
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags:
 - howard-marks
 title: Second-Order Consequences
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_490b064f280e
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 uuid: e638e063-289d-5456-9842-4799062240be
 ---
 
@@ -40,6 +44,10 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
 - [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
 - [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
+- [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (2019)
+- [[sources/marks-2024-shall-we-repeal-the-laws-of-economics|Shall We Repeal the Laws of Economics?]] (2024)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 
 ## Related Concepts
 

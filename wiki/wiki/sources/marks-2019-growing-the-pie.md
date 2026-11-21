@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:62a48f2936c4613ddc15cc172d779a5e9e06100158c168fdfdd71da2c402bd06
+content_hash: sha256:789c792c375ed6a468a8d427f713da61f7984dbd60430637e830a34d2ed894bf
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2019-growing-the-pie
@@ -21,7 +21,8 @@ related:
 - entities/howard-marks
 - entities/oaktree-capital-management
 - entities/winston-churchill
-revision_id: 1
+- sources/marks-2019-political-reality-meets-economic-reality
+revision_id: 2
 schema_version: 2
 source_hash: sha256:851ac23eedf1a3557dafba44061ec16b6c478237ce4ff433dc17bc5c71394dad
 source_path: markdown_output/growing-the-pie.md
@@ -32,8 +33,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Growing the Pie
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_40cb2493f665
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_dc1e76a3d73c
 uuid: 56151fc8-f09b-5502-bf06-79d67e5bbe41
 ---
 
@@ -96,7 +97,7 @@ April 2019, ahead of the 2020 US election cycle, with populism on the left and r
 
 ## Related Memos
 
-- Refers to (no page): *Political Reality Meets Economic Reality* (January 30, 2019), page not yet in the wiki. Memo text reference: Political Reality Meets Economic Reality (January 2019)
+- Refers to [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (January 30, 2019)
 
 ## Notes on the Source Text
 

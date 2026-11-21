@@ -2,9 +2,9 @@
 title: Extreme Value Theory
 page_id: concepts/extreme-value-theory
 page_type: concept
-revision_id: 3
+revision_id: 4
 created: 2026-04-26 10:00:00+00:00
-updated: '2026-11-21T02:33:11Z'
+updated: '2026-11-21T02:50:17Z'
 tags:
 - statistics
 - risk-management
@@ -15,6 +15,8 @@ tags:
 sources:
 - sources/pasche-2025-extreme-conformal
 - sources/marks-2008-whodunit
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2024-the-impact-of-debt
 related:
 - concepts/generalized-pareto-distribution
 - concepts/conformal-prediction
@@ -23,8 +25,8 @@ related:
 mind_map_priority: high
 schema_version: 2
 uuid: 7b42dd69-9055-53bf-adf0-a88463674150
-content_hash: sha256:da064fa3dd7472a4176411c831b7397825112b73fa11300154ef29cc713de517
-updated_by: op_5b3739af413f
+content_hash: sha256:c336cda0e5e2d21c46e82f768480ed7c307dcc89d09fc7ced9df43da93e582d7
+updated_by: op_7ad632cf3724
 ---
 
 <!-- AUTHORED REGION START -->
@@ -147,6 +149,8 @@ Methods include:
 ## In Howard Marks's Memos
 
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 
 ## Contradictions
 

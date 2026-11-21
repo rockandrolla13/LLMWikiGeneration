@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:bf456f23bc19d557176403c757d78025363ff567884148ca059b03c4a557821a
+content_hash: sha256:2ded1527ce740fc8a6edf6eccab0ed590b9a7d4fb4bf87926f684bdb17e497f5
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2017-expert-opinion
@@ -36,7 +36,9 @@ related:
 - sources/marks-2016-go-figure
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2007-its-all-good
-revision_id: 1
+- sources/marks-2016-political-reality
+- sources/marks-2017-there-they-go-again-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:4ce5d0a738a89fb8495d1d18da58aad6adb997dbe8e5ef9458e74ec652674aaa
 source_path: markdown_output/expert-opinion.md
@@ -47,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Expert Opinion
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_104a4deb2caa
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 2b0da76b-cf2a-521e-a159-c8cd32113649
 ---
 
@@ -128,7 +130,8 @@ January 2017, nine weeks after Donald Trump's election. Brexit, the failed Itali
 - Refers to [[sources/marks-2016-go-figure|Go Figure!]] (November 14, 2016)
 - Refers to [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (October 22, 2015)
 - Refers to [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
-- Refers to (no page): *Political Reality* (August 17, 2016), page not yet in the wiki. Memo text reference: Political Reality (August 2016)
+- Refers to [[sources/marks-2016-political-reality|Political Reality]] (August 17, 2016)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Notes on the Source Text
 

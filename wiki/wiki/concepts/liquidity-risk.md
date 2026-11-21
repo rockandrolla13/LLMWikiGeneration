@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:25c6bcb336a022c3cb22c28565a33f2ac20e1c1db09aac80c3941e0e849e741e
+content_hash: sha256:bd1f54e403a4ed52843bdd12d390ebb3f5eaf3f7edd43a74e90971efede4ba6c
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 9
+revision_id: 10
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -62,14 +62,17 @@ sources:
 - sources/marks-2015-its-not-easy
 - sources/marks-2023-lessons-from-silicon-valley-bank
 - sources/marks-2025-a-look-under-the-hood
+- sources/marks-2016-on-the-couch
+- sources/marks-2020-latest-update
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_564e135c3d91
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -155,4 +158,7 @@ Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 - [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

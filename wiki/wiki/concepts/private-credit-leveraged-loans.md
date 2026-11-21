@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:cd53cd4e65dde63dc0e3c5e454358e9514ab34516d58a2f0a3c649edb659fbff
+content_hash: sha256:afc09a03ebd17cfd5863ef0e8e2b62940f7c12ca3dab79e5d6a5f27d4be1e0d7
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,7 +10,7 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/private-credit
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/caprio-2026-steady-but-ai
@@ -24,10 +24,14 @@ sources:
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2017-lines-in-the-sand
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2026-whats-going-on-in-private-credit
 tags: []
 title: Private Credit and Leveraged Loans
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: d50c105f-4457-5138-b2ad-1b8c50f9787a
 ---
 
@@ -54,6 +58,10 @@ Floating-rate corporate debt held in leveraged-loan indices, BDCs, and private-c
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2017-lines-in-the-sand|Lines in the Sand]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

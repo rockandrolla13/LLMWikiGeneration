@@ -8,16 +8,18 @@ page_id: concepts/fractional-kelly-position-sizing
 page_type: concept
 related:
 - concepts/algorithmic-trading
-revision_id: 1
+revision_id: 2
 sources:
 - sources/koukorinis-2024-xantium-business-plan
+- sources/marks-2020-you-bet
+- sources/marks-2024-the-impact-of-debt
 tags: []
 title: Fractional Kelly Position Sizing
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 schema_version: 2
 uuid: 546169a2-0d09-595d-bdea-70beedeb68aa
-content_hash: sha256:f42f60b46956e3c9ad123e23bde8bada3cbf3cecb5568da459dcdfc2435f0c2f
+content_hash: sha256:04d43e47823f3d45d0fc522497f768a0e2f67e3895dc2516f32fea4d17cde2c1
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +32,11 @@ A bet-sizing framework allocating capital using a scaled-down Kelly criterion vi
 ## Sources
 
 - [[sources/koukorinis-2024-xantium-business-plan|Business Plan Details for Xantium: Systematic Spread Fixed Income Trading]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 
 ## Related Concepts
 

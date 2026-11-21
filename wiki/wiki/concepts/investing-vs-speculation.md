@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:3a1d4b0c5995505681c8878b435d6e063742d0d57d8ce6692c9e6d54c8ce27a2
+content_hash: sha256:b8d3b56035f7c8245aa6700cc951a8cfee68def019e9f67d9d638d885982c797
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/investing-vs-speculation
@@ -12,15 +12,18 @@ related:
 - concepts/private-credit
 - concepts/taking-the-market-temperature
 - concepts/market-timing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2022-what-really-matters
 tags:
 - howard-marks
 title: Investing vs Speculation
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d0083c9c6727
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_19022e5feed4
 uuid: 96efcab6-2fce-5b68-bf83-494aa922cb63
 ---
 
@@ -36,6 +39,9 @@ The difference between buying an asset for its cash flows and value and buying i
 Cited in 4 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
 
 ## Related Concepts
 

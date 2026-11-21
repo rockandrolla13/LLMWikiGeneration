@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:2392cb3b7b5745980a305b7f150e86310263e6d53d733e664b88c50a2f902e20
+content_hash: sha256:667bb33e9184e547c5aae32dfc85451fc46ad3245a7966eb8b6441e9c56ca25c
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2001-you-cant-predict-you-can-prepare
@@ -40,7 +40,10 @@ related:
 - sources/marks-2008-plan-b
 - sources/marks-2010-open-and-shut
 - sources/marks-2024-easy-money
-revision_id: 3
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 4
 schema_version: 2
 source_hash: sha256:1f3ca66105e95a043f05ac0b3a74c9520b0f7e5903d755706c9367805d19a065
 source_path: markdown_output/2001-11-20-you-cant-predict-you-can-prepare.md
@@ -51,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: You Can't Predict. You Can Prepare.
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: 97aecd29-da2f-5f83-950d-b20ee132f333
 ---
 
@@ -134,6 +137,9 @@ November 2001, after the tech bubble burst and the September 11 attacks. The eco
 - Referred to by [[sources/marks-2008-plan-b|Plan B]] (September 24, 2008)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 - Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
+- Referred to by [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (May 28, 2020)
+- Referred to by [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (July 29, 2021)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Notes on the Source Text
 

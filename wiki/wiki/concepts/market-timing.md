@@ -23,7 +23,7 @@ related:
 - concepts/strategy-robustness
 - concepts/taarss
 - concepts/trend-following
-revision_id: 6
+revision_id: 7
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2018-04-16-credit-bmi-update
@@ -62,16 +62,20 @@ sources:
 - sources/marks-2020-calibrating
 - sources/marks-2021-2020-in-review
 - sources/marks-2022-i-beg-to-differ
+- sources/marks-2017-yet-again
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
 tags:
 - trading-strategy
 - directional-forecasting
 - merton
 title: Market Timing
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 schema_version: 2
 uuid: 0e533488-1d4f-5d11-88f1-e5ee03e01fad
-content_hash: sha256:53368ea534812d3b0be1e75b4f35a2247729cf9c9ca63deacf6c22004a16314b
-updated_by: op_d4bb6d5237ea
+content_hash: sha256:8b961d266c8ace3b4be4fbb221b63526fc554b8270452523c789a9cb3eb35851
+updated_by: op_23712691ff54
 ---
 
 <!-- AUTHORED REGION START -->
@@ -133,4 +137,8 @@ Now also discussed in: [[sources/db-2019-03-15-european-equity-strategy-growth-m
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 <!-- AUTHORED REGION END -->

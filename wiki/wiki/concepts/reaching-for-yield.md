@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7ff080c910270ca51d5f19df95e3b995eb2604ffd40967f19d1c465db253d29f
+content_hash: sha256:d148ca516a85e6896f43638137159a29bbae4610dcbe8fd5c7d8177c02dedffc
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/reaching-for-yield
@@ -12,7 +12,7 @@ related:
 - concepts/risk-taking-channel
 - concepts/credit-spread-compression
 - concepts/quantitative-easing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets
@@ -29,11 +29,14 @@ sources:
 - sources/marks-2013-the-race-is-on
 - sources/marks-2020-coming-into-focus
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2019-mysterious
 tags:
 - howard-marks
 title: Reaching for Yield
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4721585526f5
 uuid: 62b7cc49-230c-5898-a896-c71a28a11f82
 ---
 
@@ -62,6 +65,9 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
 
 ## Related Concepts
 

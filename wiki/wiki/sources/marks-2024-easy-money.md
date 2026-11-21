@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:f1dfadb80d8f43b5d373fddd835ba00cc7d3694012b51c58e98167cf2c9fc4e1
+content_hash: sha256:c0bec491d16ea9d40d0baf66565965df43d2cfd0cc5300d2bab7df76755a3691
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2024-easy-money
@@ -34,7 +34,10 @@ related:
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2007-its-all-good
 - sources/marks-2001-you-cant-predict-you-can-prepare
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2022-sea-change
+- sources/marks-2024-the-impact-of-debt
+revision_id: 2
 schema_version: 2
 source_hash: sha256:3b73827f4a917a453727a5bb24b4f4945b2dda3445c59c28fa81af735f165ce7
 source_path: markdown_output/easy-money.md
@@ -45,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Easy Money
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: f5463da4-630f-553c-8f1a-f70a5d2f29e1
 ---
 
@@ -124,9 +127,10 @@ January 2024: after the Fed's 2022-23 hiking cycle left fed funds at 5.25-5.50%,
 - Refers to [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (October 11, 2023)
 - Refers to [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
 - Refers to [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
-- Refers to (no page): *Sea Change* (December 13, 2022), page not yet in the wiki. Memo text reference: Sea Change (December 2022)
-- Refers to (no page): *There They Go Again . . . Again* (July 26, 2017), page not yet in the wiki. Memo text reference: There They Go Again . . . Again (July 2017)
+- Refers to [[sources/marks-2022-sea-change|Sea Change]] (December 13, 2022)
+- Refers to [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 - Refers to (no page): Mastering the Market Cycle (2018 book)
+- Referred to by [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (May 8, 2024)
 
 ## Notes on the Source Text
 

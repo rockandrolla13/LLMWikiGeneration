@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:60a73c1f9917d6a1619f9ebd00ade6498dcf30a3b17bb7df58375c858ea86699
+content_hash: sha256:bf6a7dead4fe15694564430c3e2102740ed65c373bf757b83465259176024399
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/larry-summers
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
@@ -17,12 +17,13 @@ sources:
 - sources/marks-2009-will-it-work
 - sources/marks-2016-implications-of-the-election
 - sources/marks-2021-2020-in-review
+- sources/marks-2019-mysterious
 tags:
 - person
 - howard-marks-memos
 title: Larry Summers
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4721585526f5
 uuid: 5d9b8ed5-70f7-5a35-b577-267ff7cc17e5
 ---
 
@@ -48,4 +49,5 @@ Context from the memos:
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 - [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2019-mysterious|Mysterious]] (2019)
 <!-- AUTHORED REGION END -->

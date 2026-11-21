@@ -2,9 +2,9 @@
 title: Yield Curve
 page_id: concepts/yield-curve
 page_type: concept
-revision_id: 3
+revision_id: 4
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 tags:
 - yield-curve
 - term-structure
@@ -17,6 +17,8 @@ sources:
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2019-this-time-its-different
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 related:
 - concepts/nelson-siegel-model
 - concepts/yield-curve-forecasting
@@ -25,8 +27,8 @@ related:
 mind_map_priority: medium
 schema_version: 2
 uuid: b1d71818-36f9-50f2-b3c5-57456308b30c
-content_hash: sha256:41d617db7d80dc61e27dacac73bb22b4601d1ddc1f01ee45a20df2862b67f01c
-updated_by: op_5167dfe45417
+content_hash: sha256:86236fff6b90cc524157285ee3a350fd19a51eb8a99f1998c7361355c8b1648d
+updated_by: op_3592176627b6
 ---
 
 <!-- AUTHORED REGION START -->
@@ -62,4 +64,6 @@ For discounting you want the [[concepts/zero-coupon-curve|zero-coupon curve]] ra
 
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 <!-- AUTHORED REGION END -->

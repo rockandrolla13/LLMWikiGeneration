@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:5635778d912a792eb5fa3e9abff98e0de0d63c9b30378299d7223570219f0bbd
+content_hash: sha256:3437f627c0b8555865680d10ecb35fcb2d00d1251cdf1263ca4d6c2e38a4595c
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/active-vs-passive-investing
@@ -12,7 +12,7 @@ related:
 - concepts/efficient-market-hypothesis
 - concepts/survivorship-bias
 - concepts/investing-vs-speculation
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -27,11 +27,16 @@ sources:
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2026-ai-hurtles-ahead
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2022-selling-out
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-what-really-matters
 tags:
 - howard-marks
 title: Active vs Passive Investing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_fc1f499ba779
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_19022e5feed4
 uuid: 298a5c1e-11c2-5f50-b822-67cd565f18c0
 ---
 
@@ -58,6 +63,11 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
 
 ## Related Concepts
 

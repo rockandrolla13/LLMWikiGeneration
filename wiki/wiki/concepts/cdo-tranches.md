@@ -2,9 +2,9 @@
 title: CDO Tranches
 page_id: concepts/cdo-tranches
 page_type: concept
-revision_id: 2
+revision_id: 3
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-11-21T02:33:09Z'
+updated: '2026-11-21T02:50:17Z'
 tags:
 - CDO
 - credit-derivatives
@@ -24,14 +24,17 @@ sources:
 - sources/marks-2008-doesnt-make-sense
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2020-latest-update
+- sources/marks-2026-whats-going-on-in-private-credit
 related:
 - concepts/base-correlation
 - concepts/bespoke-cdo
 mind_map_priority: medium
 schema_version: 2
 uuid: f59ff478-1bef-5b35-8e41-fddf81004e75
-content_hash: sha256:cfafe1920d01609efd5bdd5db63c3f518730638a6610462beea7c0115eb2289b
-updated_by: op_da942e9a64b3
+content_hash: sha256:08c6e0a0ce96f4d42a1e65b9823259e910583b0adb9c470b570ef10d69ac4a4e
+updated_by: op_b76f64d1a29a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -79,4 +82,7 @@ Tranches on portfolios that are not the standard indices are covered under [[con
 - [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

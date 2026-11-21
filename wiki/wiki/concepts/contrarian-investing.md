@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b6260cdfcb34a0dc6f204e4f4da9a0d41370f66d3643f2a25c97ecebb07cec39
+content_hash: sha256:e9ca907d4ccca3cae8f8fae1702bf40fa63317c006b9ce791ea6a4f6c32fbe7a
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/contrarian-investing
@@ -12,7 +12,7 @@ related:
 - concepts/price-vs-value
 - concepts/distressed-debt
 - concepts/pendulum-of-investor-psychology
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -43,11 +43,15 @@ sources:
 - sources/marks-2020-calibrating
 - sources/marks-2022-i-beg-to-differ
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2016-on-the-couch
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2017-yet-again
+- sources/marks-2020-nobody-knows-ii
 tags:
 - howard-marks
 title: Contrarian Investing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ac3a896f7d8e
 uuid: d3cb3d8c-93c2-5151-a40c-4ef6cba21596
 ---
 
@@ -90,6 +94,10 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
 
 ## Related Concepts
 

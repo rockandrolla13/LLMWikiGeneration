@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:c3e3ffc07842db8cabd9fb90030cb144e0f711b7b40233bb810accdfd3a9228b
+content_hash: sha256:9aa807881546060077ada2a861b171d824c871bcead0c5c3dcb8cb003230d918
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/capitulation
@@ -12,17 +12,19 @@ related:
 - concepts/asset-bubbles
 - concepts/contrarian-market-timing
 - concepts/market-timing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1996-will-it-be-different-this-time
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2002-quo-vadis
+- sources/marks-2016-on-the-couch
+- sources/marks-2020-latest-update
 tags:
 - howard-marks
 title: Capitulation
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1279f5b8620e
 uuid: 82a96ffb-081a-537f-8fcb-95826687d49b
 ---
 
@@ -40,6 +42,8 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1996-will-it-be-different-this-time|Will It Be Different This Time?]] (1996)
 - [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2020-latest-update|Latest Update]] (2020)
 
 ## Related Concepts
 

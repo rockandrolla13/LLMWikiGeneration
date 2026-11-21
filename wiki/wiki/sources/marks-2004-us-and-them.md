@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:ef1f389db7c836952d4d391532d8c82d169442fddbea066edd2824ec2a215ed2
+content_hash: sha256:75a455d3883baa2c1895ab5dea680ade4bda3be195c0c0682f0a1e1afd59dd5e
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-us-and-them
@@ -35,7 +35,8 @@ related:
 - sources/marks-2009-touchstones
 - sources/marks-2012-what-can-we-do-for-you
 - sources/marks-2022-the-illusion-of-knowledge
-revision_id: 3
+- sources/marks-2021-thinking-about-macro
+revision_id: 4
 schema_version: 2
 source_hash: sha256:b601b628e7f76fea86de8a60d7e939d7757d0930a7c686bc92061c23922428f0
 source_path: markdown_output/2004-05-07-us-and-them.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Us and Them
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4faa3f6343c4
 uuid: 32aa43dd-e2a8-5f2a-9548-2c8809ea50cc
 ---
 
@@ -123,6 +124,7 @@ May 2004, after a strong 2003 rebound. The market had moved sideways for a few m
 - Referred to by [[sources/marks-2009-touchstones|Touchstones]] (November 10, 2009)
 - Referred to by [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (January 10, 2012)
 - Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
+- Referred to by [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (July 29, 2021)
 
 ## Notes on the Source Text
 

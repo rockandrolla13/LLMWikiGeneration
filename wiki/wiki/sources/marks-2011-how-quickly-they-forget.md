@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:39694cc1c42c183365d4f32f9fa461077a3551cdac2ab6b49c0335b4d43d147c
+content_hash: sha256:f34a35e6bdf7c48c3572f3593b9753adbb5f1043eac257db7a95460ef04806ad
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2011-how-quickly-they-forget
@@ -41,7 +41,8 @@ related:
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2003-whats-going-on
 - sources/marks-2011-whats-behind-the-downturn
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:c742660b83e3c295b96f1d111b698a31c7b84e883cb092ab7dcd751d536f1967
 source_path: markdown_output/2011-05-25-how-quickly-they-forget.md
@@ -52,8 +53,8 @@ tags:
 - howard-marks
 - investment-memo
 title: How Quickly They Forget
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 915b99db-8e32-5164-aa9b-54b1df0ff16c
 ---
 
@@ -136,6 +137,7 @@ May 2011: markets had recovered sharply since early 2009 and many indices were n
 - Refers to [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (October 27, 2004)
 - Refers to [[sources/marks-2003-whats-going-on|What's Going On?]] (May 6, 2003)
 - Referred to by [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (September 7, 2011)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:49c53e31505293bfe12261c4f9fe6aebf8b50a4ca9abfe1c492c88687a3001f2
+content_hash: sha256:21ba0f52b0cfc7c32be65ac4a85f9f727f44418b42e65bd23a120267c3747e70
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/credit-cycle
@@ -12,7 +12,7 @@ related:
 - concepts/funding-liquidity
 - concepts/high-yield-covenants
 - concepts/cdo-tranches
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
@@ -37,11 +37,14 @@ sources:
 - sources/marks-2024-easy-money
 - sources/marks-2025-cockroaches-in-the-coal-mine
 - sources/marks-2025-is-it-a-bubble
+- sources/marks-2022-sea-change
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - howard-marks
 title: The Credit Cycle
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ad8fe77d6eb0
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: c5d5691d-0a2e-5580-9bf3-5e2b246153e0
 ---
 
@@ -78,6 +81,9 @@ Cited in 25 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 
 ## Related Concepts
 

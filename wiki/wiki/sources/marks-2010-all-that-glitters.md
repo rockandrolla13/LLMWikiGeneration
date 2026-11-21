@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:f7dbe370fb0a207c984fd376863548be7e4ea84dc8ea836ba0cc0748517367e6
+content_hash: sha256:f238166ed5c3fcf09444836ac102075169b0c4333cf4d8a33719f9cb1a58aa03
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2010-all-that-glitters
@@ -30,7 +30,8 @@ related:
 - sources/marks-2011-on-regulation
 - sources/marks-2011-its-all-very-taxing
 - sources/marks-2014-the-lessons-of-oil
-revision_id: 2
+- sources/marks-2025-the-calculus-of-value
+revision_id: 3
 schema_version: 2
 source_hash: sha256:a316a6ef005818742a2f7c88e4104bf8da63fc8cc5431f4ca0e0fa27bbb840cb
 source_path: markdown_output/2010-12-17-all-that-glitters.md
@@ -41,8 +42,8 @@ tags:
 - howard-marks
 - investment-memo
 title: All That Glitters
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_2e030528c3d4
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 uuid: a5e9e55a-a453-5760-bd12-e413b619fb4a
 ---
 
@@ -114,6 +115,7 @@ December 2010: gold near $1,400 an ounce after doubling in about two years, the 
 - Referred to by [[sources/marks-2011-on-regulation|On Regulation]] (March 2, 2011)
 - Referred to by [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (November 16, 2011)
 - Referred to by [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (December 18, 2014)
+- Referred to by [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (August 13, 2025)
 
 ## Notes on the Source Text
 

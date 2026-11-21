@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:aa5b724cebe4ed325c55e22b7907224fb8dce3605c75ced0465ed3271a2a9f4e
+content_hash: sha256:dd586e84979625e3249633e70ced38e8a68badb9280ab3d36c23f332883c8033
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/skepticism
@@ -12,18 +12,20 @@ related:
 - concepts/global-financial-crisis
 - concepts/taking-the-market-temperature
 - concepts/market-crash-liquidity-crisis
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
 - sources/marks-2008-whodunit
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2009-touchstones
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2023-taking-the-temperature
 tags:
 - howard-marks
 title: Skepticism
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_45a7f7c08e2c
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: bf9a3991-0b43-51ef-8dca-c2ba6362e1b0
 ---
 
@@ -42,6 +44,8 @@ Cited in 6 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 
 ## Related Concepts
 

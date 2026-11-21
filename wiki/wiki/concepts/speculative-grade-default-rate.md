@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:f4b6fd884c5ad36a79cec88df777bd4b102c23a511afc4f7995d699c123435dc
+content_hash: sha256:ae27b6df3d67bfccbeaafe087f1fe2f2d1428c252883d432accf17e16e0e52ce
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
 - concepts/distressed-exchange
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/caprio-2026-steady-but-ai
@@ -23,10 +23,11 @@ sources:
 - sources/marks-2013-high-yield-bonds-today
 - sources/marks-2025-gimme-credit
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2022-sea-change
 tags: []
 title: Speculative-Grade Default Rate
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: ad0cfe8b-dc69-5152-9b61-b1ecd0dd5c89
 ---
 
@@ -51,6 +52,7 @@ The trailing rate at which speculative-grade (high-yield and leveraged-loan) iss
 - [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
 
 ## Related Concepts
 

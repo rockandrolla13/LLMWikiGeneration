@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d23b3a1406d17ad65f39d9874f68662a39be714c6ea3c8ce7b237c44306fe7bc
+content_hash: sha256:eec7eb0f71fb14c3fbef299ba338f8d22dd385d67ca2c3b33ab562ba7989ce12
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2025-cockroaches-in-the-coal-mine
@@ -33,7 +33,9 @@ related:
 - sources/marks-2025-gimme-credit
 - sources/marks-2007-the-race-to-the-bottom
 - sources/marks-2009-the-long-view
-revision_id: 1
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2026-whats-going-on-in-private-credit
+revision_id: 2
 schema_version: 2
 source_hash: sha256:62b80ff4a276a58e9051c77e866cb04f1e1a67f1d9b81f6c7b735b46644a1a3a
 source_path: markdown_output/cockroaches-in-the-coal-mine.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Cockroaches in the Coal Mine
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 15fb1797-2ebc-50cd-a065-7ef0e0f0ea6b
 ---
 
@@ -119,8 +121,9 @@ Autumn 2025, after about sixteen years of largely uninterrupted growth, rising m
 - Refers to [[sources/marks-2025-gimme-credit|Gimme Credit]] (March 6, 2025)
 - Refers to [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (February 14, 2007)
 - Refers to [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
-- Refers to (no page): *What Does the Market Know?* (January 19, 2016), page not yet in the wiki. Memo text reference: What Does the Market Know? (2016)
+- Refers to [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (January 19, 2016)
 - Refers to (no page): Mastering the Market Cycle (book), chapter 'The Cycle in Attitudes Toward Risk'
+- Referred to by [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (April 9, 2026)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b88978dfb1d8048ee6809b841f40dfe5373c88414527870235cb9bd6d76f3e7a
+content_hash: sha256:e710e25d0311869727078279da01d3840fa1f1a1621c5545533acf4c79c3c8cc
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2025-is-it-a-bubble
@@ -39,7 +39,8 @@ related:
 - entities/warren-buffett
 - sources/marks-2000-bubble-com
 - sources/marks-2026-ai-hurtles-ahead
-revision_id: 1
+- sources/marks-2025-on-bubble-watch
+revision_id: 2
 schema_version: 2
 source_hash: sha256:be141d58b6ff5038fac0662ea25baa74167a8874e5a94c4400934faa6a9506c1
 source_path: markdown_output/is-it-a-bubble.md
@@ -50,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Is It a Bubble?
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ad8fe77d6eb0
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e3db49650cca
 uuid: 7e1a2c4c-54d6-5b77-8ebe-435f5d794533
 ---
 
@@ -134,7 +135,7 @@ December 2025: AI stocks drove most S&P 500 gains (Fortune: 75% of gains, 80% of
 
 - Refers to [[sources/marks-2000-bubble-com|bubble.com]] (January 2, 2000)
 - Referred to by [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (February 26, 2026)
-- Refers to (no page): *On Bubble Watch* (January 2, 2025), page not yet in the wiki. Memo text reference: On Bubble Watch (January 2025)
+- Refers to [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (January 2, 2025)
 
 ## Notes on the Source Text
 

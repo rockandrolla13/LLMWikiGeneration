@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:d222d34da70fd1ae860299780c912d7ef2b0ca48153675057b1ad19bcefc7920
+content_hash: sha256:d5d708544881a2ce80f33298017e79692a364066d4f21b53a33c282d723b16be
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/moodys
 page_type: entity
 related: []
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -20,10 +20,14 @@ sources:
 - sources/marks-2011-down-to-the-wire
 - sources/marks-2013-ditto
 - sources/marks-2014-getting-lucky
+- sources/marks-2016-political-reality
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-you-bet
+- sources/marks-2022-sea-change
 tags: []
 title: Moody's
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_519f5c53ebf1
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: 4bdd1ffc-f0da-5e4e-b9da-1a00fecaeb76
 ---
 
@@ -50,4 +54,8 @@ uuid: 4bdd1ffc-f0da-5e4e-b9da-1a00fecaeb76
 - [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
 - [[sources/marks-2013-ditto|Ditto]] (2013)
 - [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2016-political-reality|Political Reality]] (2016)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
 <!-- AUTHORED REGION END -->

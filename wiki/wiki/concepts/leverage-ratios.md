@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:d1a1d89fc9b08eab59c8dccd2ee50ba8390b5a2fdc195a6b75992cacae0c6235
+content_hash: sha256:099fb1b686468d645d1d1a6b58e6a8a5059dc468f68cd40a4d34fb4798aa7ab0
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leverage-ratios
@@ -7,7 +7,7 @@ page_type: concept
 related:
 - concepts/spread-per-turn-of-leverage
 - concepts/relative-value-analysis
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/spec-2012-single-name-fundamental
@@ -24,14 +24,16 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-the-long-view
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2024-the-impact-of-debt
 tags:
 - credit-analysis
 - fundamental-analysis
 - leverage
 - creditETF
 title: Leverage Ratios
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: b358f0f2-1c29-549a-97d4-2f4fa5ae556f
 ---
 
@@ -84,4 +86,6 @@ The limitation carries over: this assumes the relationship between spread and le
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 <!-- AUTHORED REGION END -->

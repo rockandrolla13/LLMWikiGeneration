@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:587632c798a04c8b53fb00b94f15d99ea35372b65dd2268fea2423720f33ff2e
+content_hash: sha256:93d857743d36137fc072985343d82ea664ee01501f966ab9813f42fe7fef1738
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2020-coming-into-focus
@@ -38,7 +38,8 @@ related:
 - entities/microsoft
 - entities/oaktree-capital-management
 - entities/us-treasury
-revision_id: 1
+- sources/marks-2020-time-for-thinking
+revision_id: 2
 schema_version: 2
 source_hash: sha256:1403a9f949525d456d56af449af0881d6c07dec35122bc2e4059779c8403b3af
 source_path: markdown_output/coming-into-focus57a8e688-a1d0-4b59-928e-9e6ff1f8b5a6.md
@@ -49,8 +50,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Coming into Focus
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5ebf1dc75f95
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_6706dc7efcfb
 uuid: 0ba51149-5b18-5963-990e-3a136a6bea3e
 ---
 
@@ -130,9 +131,10 @@ October 2020, seven months into the Covid-19 pandemic and less than a month befo
 
 ## Related Memos
 
-- Refers to (no page): *Time for Thinking* (August 5, 2020), page not yet in the wiki. Memo text reference: Time for Thinking
+- Refers to [[sources/marks-2020-time-for-thinking|Time for Thinking]] (August 5, 2020)
 - Refers to (no page): Mastering the Market Cycle (2018 book)
 - Refers to (no page): Investing in a Low-Return World (presentation)
+- Referred to by [[sources/marks-2020-time-for-thinking|Time for Thinking]] (August 5, 2020)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:4671403ca8ea5d4f55cbc2b1b29ba1d009312525dc93a3f7d8175c9a9b7d1730
+content_hash: sha256:661f8ac9a2044f229e97ec20621efba9130b4e605b98d27931fb4044feb7c5e9
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2005-hindsight-first-please
@@ -36,7 +36,8 @@ related:
 - sources/marks-2008-what-worries-me
 - sources/marks-2008-nobody-knows
 - sources/marks-2009-the-long-view
-revision_id: 2
+- sources/marks-2017-there-they-go-again-again
+revision_id: 3
 schema_version: 2
 source_hash: sha256:77943f50fd7d336e43b2148ca79ccea41395139c29497596f00321404b91db19
 source_path: markdown_output/2005-10-17-hindsight-first-please-or-what-where-they-thinking.md
@@ -47,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Hindsight First, Please (or, What Were They Thinking?)
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_ddd3090263f3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: e35a7eb9-58a0-5969-b6ab-284c22aba113
 ---
 
@@ -126,6 +127,7 @@ October 2005: aftermath of the Bayou hedge fund fraud, S&P 500 about 20% below i
 - Referred to by [[sources/marks-2008-what-worries-me|What Worries Me]] (August 28, 2008)
 - Referred to by [[sources/marks-2008-nobody-knows|Nobody Knows]] (September 19, 2008)
 - Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Notes on the Source Text
 

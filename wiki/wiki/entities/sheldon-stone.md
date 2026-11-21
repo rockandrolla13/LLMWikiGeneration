@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:2c2df821c040ef02bf4fae92006fea829711990648293a04eb16ea36c99098c7
+content_hash: sha256:b8dc65cf0525e9d218d9566f4089046b7a88b7274cddca10e39c13467af82f4c
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/sheldon-stone
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2000-investment-miscellany
@@ -23,12 +23,15 @@ sources:
 - sources/marks-2014-dare-to-be-great-ii
 - sources/marks-2023-lessons-from-silicon-valley-bank
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2017-yet-again
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2024-mr-market-miscalculates
 tags:
 - person
 - howard-marks-memos
 title: Sheldon Stone
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 uuid: 4cdebc2f-d048-5a76-8391-e54a2128002c
 ---
 
@@ -60,4 +63,7 @@ Context from the memos:
 - [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 <!-- AUTHORED REGION END -->

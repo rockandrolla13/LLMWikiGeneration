@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:6e6d42405662d48ac093cd53b67e96c0cf0461865409c54870047504164008dd
+content_hash: sha256:ef05566f136d71cee32686f728c2af4573ff3069ff418dcaa42ee5fe326553d0
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/debt-vs-ownership
@@ -12,7 +12,7 @@ related:
 - concepts/private-credit
 - concepts/sea-change-in-interest-rates
 - concepts/credit-risk-premium
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2010-hemlines
@@ -20,11 +20,12 @@ sources:
 - sources/marks-2023-fewer-losers-or-more-winners
 - sources/marks-2023-further-thoughts-on-sea-change
 - sources/marks-2025-gimme-credit
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - howard-marks
 title: Debt vs Ownership
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7acf652407bd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 28e57b63-eb6c-516d-80d3-a20ecb5fda48
 ---
 
@@ -44,6 +45,7 @@ Cited in 6 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 - [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 - [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 
 ## Related Concepts
 

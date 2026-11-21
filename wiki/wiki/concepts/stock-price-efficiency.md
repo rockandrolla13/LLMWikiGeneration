@@ -1,11 +1,11 @@
 ---
-content_hash: sha256:855237d62366d63b45a93d42fbb79c4299db0b1357cedb6b9743f4d3c154e29c
+content_hash: sha256:5216cad4383392bc4e401aaa54968a86faa48009f433c1d09b3b9cc6e511ef5a
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/stock-price-efficiency
 page_type: concept
 related: []
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/chen-2024-jump-clustering-information-flows
@@ -19,13 +19,18 @@ sources:
 - sources/marks-2005-oaktree-at-ten
 - sources/marks-2014-getting-lucky
 - sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2016-on-the-couch
+- sources/marks-2021-something-of-value
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-what-really-matters
+- sources/marks-2024-the-indispensability-of-risk
 tags:
 - market-efficiency
 - information-flows
 - price-delay
 title: Stock Price Efficiency
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1dd52f7f33d3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ae7c0e6feec8
 uuid: 6874694a-3dcd-5022-9a01-8c3d07bba5b2
 ---
 
@@ -54,4 +59,9 @@ uuid: 6874694a-3dcd-5022-9a01-8c3d07bba5b2
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
 - [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-what-really-matters|What Really Matters?]] (2022)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
 <!-- AUTHORED REGION END -->

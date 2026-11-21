@@ -9,18 +9,19 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/system-archetypes
-revision_id: 2
+revision_id: 3
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/meadows-2008-thinking-in-systems
 - sources/marks-2008-nobody-knows
+- sources/marks-2016-what-does-the-market-know
 tags: []
 title: Feedback Loops
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_976e9d9d6bca
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7eee3fa53f89
 schema_version: 2
 uuid: 0037fa36-f1ce-5d59-a7b9-a3116070eb8b
-content_hash: sha256:78f883745d8c8951498761472e81c8488e78c4b3b91ddcd04ed54e8266204678
+content_hash: sha256:8b85369fe07b1820d97603810696d35ae397ee1d5c08661bf79fb2c04b23f08f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -38,6 +39,7 @@ Closed chains of causation through which a stock influences its own flows; balan
 ## In Howard Marks's Memos
 
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (2016)
 
 ## Related Concepts
 

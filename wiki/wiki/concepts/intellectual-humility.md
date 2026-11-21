@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:98d517bffbe672f39d8b0fdd7f87770d6080177f42660b6bbf1a7f02800bccfa
+content_hash: sha256:e9792e4b26e52bfbc10b3e52b6979dbb32caa0a1d7fc6b47d3eb71f920d145ab
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/intellectual-humility
@@ -12,17 +12,21 @@ related:
 - concepts/radical-uncertainty
 - concepts/confirmation-bias
 - concepts/this-time-is-different
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2000-investment-miscellany
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-uncertainty
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2024-the-folly-of-certainty
 tags:
 - howard-marks
 title: Intellectual Humility
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ce0dbf3225e4
 uuid: 80c5f428-bfaf-5a66-934e-ba4e170648ae
 ---
 
@@ -40,6 +44,10 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:580b11c8a459998b3e0b091a9bd87910830c83344ee2ce84d42c6ec46eae5df0
+content_hash: sha256:fba2cd419df85c025aadf878bb06740dc89893e61c0c5b8d4cb5051c9454093f
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/populism
@@ -12,16 +12,18 @@ related:
 - concepts/globalization-and-protectionism
 - concepts/tax-policy
 - concepts/political-gridlock
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2016-implications-of-the-election
 - sources/marks-2019-growing-the-pie
+- sources/marks-2016-political-reality
+- sources/marks-2019-political-reality-meets-economic-reality
 tags:
 - howard-marks
 title: Populism
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_40cb2493f665
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_dc1e76a3d73c
 uuid: 76ef04d6-c260-5cb7-9ddd-ebef8d9150d4
 ---
 
@@ -38,6 +40,8 @@ Cited in 4 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
 - [[sources/marks-2019-growing-the-pie|Growing the Pie]] (2019)
+- [[sources/marks-2016-political-reality|Political Reality]] (2016)
+- [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (2019)
 
 ## Related Concepts
 

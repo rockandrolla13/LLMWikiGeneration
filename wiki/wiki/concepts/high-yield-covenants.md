@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:2e5d1a153966f15e5cf84e02c991ede5786d419b07183e898c90cd93cffd10ef
+content_hash: sha256:19a3e50b0190a4f3b1ef7accf926f722f3ba34dc3e341c1cd61bdc77cb83391c
 created: '2026-10-22T21:10:31Z'
 page_id: concepts/high-yield-covenants
 page_type: concept
@@ -10,7 +10,7 @@ related:
 - concepts/lbo-risk
 - concepts/leveraged-recapitalization
 - concepts/leverage-ratios
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
@@ -28,10 +28,13 @@ sources:
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2018-investing-without-people
 - sources/marks-2022-bull-market-rhymes
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-you-bet
 tags: []
 title: High-Yield Covenants
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_508b5db898e6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b111442493b7
 uuid: 7ffd0244-0a37-52de-be35-2fe9e7f2c64a
 ---
 
@@ -69,4 +72,7 @@ The rules in a bond indenture or loan agreement that limit what a leveraged issu
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-you-bet|You Bet!]] (2020)
 <!-- AUTHORED REGION END -->

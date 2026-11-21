@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:320bfcbe4ea9a3df0801a0ff6537163298d6a75c8b249050c02e1f7a40532846
+content_hash: sha256:c1999e4b460396d86c8fb4f8963f1d3787fc2933432842149944e9ca0f5df906
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/distressed-debt
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/contrarian-market-timing
 - concepts/contrarian-investing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -45,11 +45,17 @@ sources:
 - sources/marks-2020-calibrating
 - sources/marks-2021-2020-in-review
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2016-on-the-couch
+- sources/marks-2020-which-way-now
+- sources/marks-2020-uncertainty
+- sources/marks-2022-selling-out
+- sources/marks-2022-sea-change
+- sources/marks-2025-nobody-knows-yet-again
 tags:
 - howard-marks
 title: Distressed Debt Investing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5d2ccaa20af0
 uuid: 9e67516d-b484-5d63-a8d6-9acee3e0b878
 ---
 
@@ -94,6 +100,12 @@ Cited in 36 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2022-selling-out|Selling Out]] (2022)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2025-nobody-knows-yet-again|Nobody Knows (Yet Again)]] (2025)
 
 ## Related Concepts
 

@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:0c2841978f7c919e925552291b0df82a56fe817eb5a758cb3c0e8e46960e56bb
+content_hash: sha256:e670e0348cd7280141e5b9c22eede62928679d8e64a431992a2bc7eb6ed2b0f3
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/chuck-prince
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2008-whodunit
@@ -18,12 +18,14 @@ sources:
 - sources/marks-2014-risk-revisited
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2024-easy-money
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - person
 - howard-marks-memos
 title: Chuck Prince
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: ef97f94e-a76c-5e63-8359-bb6fa84b6c88
 ---
 
@@ -50,4 +52,6 @@ Context from the memos:
 - [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

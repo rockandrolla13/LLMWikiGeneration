@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:1bb7f95f9e3e4e054094a0a4fbcda074193b6fd63506bfe6ef3cd7be45bfcc05
+content_hash: sha256:f7e5048ab3a7822e30c338638df8531ff7911fe7f9a8abece9e56f54360225c8
 created: 2026-05-06 23:35:00+00:00
 mind_map_priority: high
 page_id: concepts/etf-flows
@@ -17,7 +17,7 @@ related:
 - concepts/mean-reversion
 - concepts/non-fundamental-demand-shocks
 - concepts/order-imbalance
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/chao-2019-etf-flows-prices
@@ -36,6 +36,9 @@ sources:
 - sources/kalev-2025-lietf-trading-behavior-during-u-s
 - sources/marks-2015-liquidity
 - sources/marks-2018-investing-without-people
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2021-something-of-value
+- sources/marks-2025-on-bubble-watch
 tags:
 - etf
 - passive-investing
@@ -43,9 +46,9 @@ tags:
 - price-impact
 - return-predictability
 title: ETF Flows
-updated: '2026-11-21T02:40:24Z'
+updated: '2026-11-21T02:50:17Z'
 uuid: 3f64dd11-6e5e-54ec-8635-501db69705d9
-updated_by: op_005ee79cd36a
+updated_by: op_e3db49650cca
 ---
 
 <!-- AUTHORED REGION START -->
@@ -116,4 +119,7 @@ Now also discussed in: [[sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits
 
 - [[sources/marks-2015-liquidity|Liquidity]] (2015)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
 <!-- AUTHORED REGION END -->

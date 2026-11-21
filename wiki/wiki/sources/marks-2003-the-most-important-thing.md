@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:f0ad441fc895d9c9b5b95e777e8e5ac76c1efb2c2ec21b52897e542d03c76c59
+content_hash: sha256:d25e7b434dde329b6b136c8fa6c470d57c32588dd1fa8c8c3574042d6f76ae9d
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-the-most-important-thing
@@ -38,7 +38,9 @@ related:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2015-its-not-easy
 - sources/marks-2022-i-beg-to-differ
-revision_id: 3
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 4
 schema_version: 2
 source_hash: sha256:ba890503b17ce87b328a400d4aa8175ded81e3fed8a6518fcd7333b7982c39e4
 source_path: markdown_output/2003-07-01-the-most-important-thing.md
@@ -49,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Most Important Thing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: b47a1391-597e-5863-9184-bf4899179c8b
 ---
 
@@ -130,6 +132,8 @@ Mid-2003, after the late-1990s tech bubble had burst. The memo is a statement of
 - Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
 - Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
 - Referred to by [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (July 26, 2022)
+- Referred to by [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (January 19, 2016)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Notes on the Source Text
 

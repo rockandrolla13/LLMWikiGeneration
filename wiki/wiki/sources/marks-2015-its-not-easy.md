@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:789803fbb3604678ef591bdc3ee077a1ca28fe7a573170a5a646deb48b1d2be0
+content_hash: sha256:e95675bb7efd9d3a687ae0d7f098846de54638eb28b445387cb7fe2f186735ea
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2015-its-not-easy
@@ -37,7 +37,10 @@ related:
 - sources/marks-2015-liquidity
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2015-inspiration-from-the-world-of-sports
-revision_id: 1
+- sources/marks-2016-on-the-couch
+- sources/marks-2016-what-does-the-market-know
+- sources/marks-2024-mr-market-miscalculates
+revision_id: 2
 schema_version: 2
 source_hash: sha256:f4e2764f8d4aa216fd43984f5b89951aa7025df9c8bac445c0b4112ca41042de
 source_path: markdown_output/2015-09-09-its-not-easy.md
@@ -48,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It's Not Easy
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_a32c28b9135a
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 uuid: 0c5812ad-8d2e-5a8a-834d-9b91a6c4b51d
 ---
 
@@ -128,6 +131,9 @@ September 2015, right after a sharp global sell-off triggered by slowing Chinese
 - Refers to [[sources/marks-2015-liquidity|Liquidity]] (March 25, 2015)
 - Refers to [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (July 1, 2003)
 - Referred to by [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (October 22, 2015)
+- Referred to by [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
+- Referred to by [[sources/marks-2016-what-does-the-market-know|What Does the Market Know?]] (January 19, 2016)
+- Referred to by [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (August 22, 2024)
 
 ## Notes on the Source Text
 

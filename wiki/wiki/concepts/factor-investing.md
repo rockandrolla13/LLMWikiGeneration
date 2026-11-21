@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:d9f94b0712e33a3540a3ace04d65fdcab848a0ecab05c1ae8fe7a68654705ac1
+content_hash: sha256:b6b3564fec74feec3dc936f660a4f9a80f5e00ba8b2cb64ca0c3cb4407df34f4
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/factor-investing
 page_type: concept
@@ -32,7 +32,7 @@ related:
 - concepts/trend-following
 - concepts/value-premium
 - sources/houweling-2017-factor-investing
-revision_id: 9
+revision_id: 10
 schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
@@ -49,6 +49,7 @@ sources:
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2018-investing-without-people
 - sources/marks-2022-i-beg-to-differ
+- sources/marks-2021-something-of-value
 tags:
 - factor-investing
 - corporate-bonds
@@ -58,8 +59,8 @@ tags:
 - momentum
 - low-risk
 title: Factor Investing in Corporate Bonds
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d4bb6d5237ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_40380bf071bc
 uuid: d37b4007-5179-5d0b-ba63-0f1957858fcd
 ---
 
@@ -146,4 +147,5 @@ Now also discussed in: [[sources/ms-2016-09-27-momentum-for-diversification]], [
 - [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (2001)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 - [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2021-something-of-value|Something of Value]] (2021)
 <!-- AUTHORED REGION END -->

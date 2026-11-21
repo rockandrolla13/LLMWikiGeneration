@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:12e03d29d1b79076cdbbab54a01b13f0d0e9a54ae1d321b5fb9e2868846364d7
+content_hash: sha256:b44fe3fabbf724a2099cd2df7b69a60cfbfb248bdb397e834971dae5f7cb7193
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -16,7 +16,7 @@ related:
 - concepts/residual-momentum
 - concepts/risk-premia
 - concepts/trend-following
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
@@ -25,10 +25,11 @@ sources:
 - sources/ms-2018-11-05-trading-risk-premia-emfx-virp
 - sources/ms-2019-04-14-low-beta-defensiveness-scorecard
 - sources/israel-2017-common-factors-corporate-bond-returns
+- sources/marks-2017-there-they-go-again-again
 tags: []
 title: Style Premia (Value, Momentum, Carry, Defensive)
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 3026bd18-2c08-52d1-a4d4-f91d69352154
 ---
 
@@ -43,6 +44,10 @@ Four long/short alternative risk premia applied across asset classes - value, mo
 
 - [[sources/israel-2017-common-factors-corporate-bond-returns|Common Factors in Corporate Bond Returns]] (2017)
 - [[sources/ilmanen-2022-investing-amid-low-expected-returns|Investing Amid Low Expected Returns: Making the Most When Markets Offer the Least]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
 
 ## Related Concepts
 

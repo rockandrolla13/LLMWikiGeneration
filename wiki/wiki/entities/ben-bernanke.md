@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:1c982b21fc65ae377533fe46ced7df7778f07f54b419863926de8212b3a1ba2b
+content_hash: sha256:f7b9f0533ffead00890d0c5e7716d7085d33be9071cef38187d75ad84012d8b0
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/ben-bernanke
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2007-its-all-good
@@ -21,12 +21,14 @@ sources:
 - sources/marks-2013-the-role-of-confidence
 - sources/marks-2014-the-lessons-of-oil
 - sources/marks-2017-expert-opinion
+- sources/marks-2016-on-the-couch
+- sources/marks-2020-the-anatomy-of-a-rally
 tags:
 - person
 - howard-marks-memos
 title: Ben Bernanke
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_104a4deb2caa
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_399c2383a187
 uuid: e4fe1e17-0bfc-5d29-8d06-8a1dffb17722
 ---
 
@@ -56,4 +58,6 @@ Context from the memos:
 - [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
 - [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 - [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
 <!-- AUTHORED REGION END -->

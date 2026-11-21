@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:186bbf2e9f03a63a8a2d5b6c7b1874b32a961e137a07e38fb95142576607c656
+content_hash: sha256:babf8963f430f80e7916ab4cb0bec5915e4cba0f57450b62d53b6fd640a8ad28
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2013-the-race-is-on
@@ -33,7 +33,8 @@ related:
 - entities/warren-buffett
 - sources/marks-2007-the-race-to-the-bottom
 - sources/marks-2010-warning-flags
-revision_id: 1
+- sources/marks-2017-there-they-go-again-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:40fbd0460069fdfe300b52bdf1fc72cd35865f64335c35ec75e5d8df58f18c07
 source_path: markdown_output/2013-11-26-the-race-is-on.md
@@ -44,8 +45,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Race Is On
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1a21f47b0139
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_557051ad072b
 uuid: 22852e7b-1ac7-5b9e-bc5d-b091d16e1b3d
 ---
 
@@ -120,6 +121,7 @@ November 2013, several years into post-crisis recovery under central-bank rate s
 
 - Refers to [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (February 14, 2007)
 - Refers to [[sources/marks-2010-warning-flags|Warning Flags]] (May 12, 2010)
+- Referred to by [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (July 26, 2017)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:4555e68b3d0e48505e27ef66626a0107e517ff915946e290758551b652ff8d04
+content_hash: sha256:bc1edfcac84440ff416034effc3e7933bad966d57bd671da89ff9ceaf6922a43
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/fear-of-missing-out
@@ -12,7 +12,7 @@ related:
 - concepts/taking-the-market-temperature
 - concepts/race-to-the-bottom
 - concepts/asset-bubbles
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2000-bubble-com
@@ -20,11 +20,15 @@ sources:
 - sources/marks-2018-latest-thinking
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2025-is-it-a-bubble
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-which-way-now
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2022-sea-change
 tags:
 - howard-marks
 title: Fear of Missing Out (FOMO)
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ad8fe77d6eb0
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 uuid: 49bc2145-a669-5e54-a288-75bf9a787741
 ---
 
@@ -44,6 +48,10 @@ Cited in 9 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
 
 ## Related Concepts
 

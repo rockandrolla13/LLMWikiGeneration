@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:9d404817328db65dad5502464070dc58ead71233670cb6f00baf83260e9a5a81
+content_hash: sha256:d0550d9e80514a9e182f2e46a20f5e3b91efbc74d73e3a1087047bb762fb7385
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/nassim-nicholas-taleb
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2002-returns-and-how-they-get-that-way
@@ -23,12 +23,13 @@ sources:
 - sources/marks-2015-risk-revisited-again
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2025-a-look-under-the-hood
+- sources/marks-2024-the-impact-of-debt
 tags:
 - person
 - howard-marks-memos
 title: Nassim Nicholas Taleb
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_564e135c3d91
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: e49684b7-19b1-5dbd-94c5-a57d293cc4d8
 ---
 
@@ -60,4 +61,5 @@ Context from the memos:
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 <!-- AUTHORED REGION END -->

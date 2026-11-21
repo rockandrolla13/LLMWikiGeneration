@@ -8,18 +8,20 @@ page_id: concepts/phillips-curve
 page_type: concept
 related:
 - concepts/great-moderation
-revision_id: 2
+revision_id: 3
 sources:
 - sources/schofield-2019-citi-macro-views
 - sources/marks-2021-2020-in-review
 - sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2019-this-time-its-different
+- sources/marks-2021-thinking-about-macro
 tags: []
 title: Phillips Curve
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_4faa3f6343c4
 schema_version: 2
 uuid: f9970424-be39-583d-ac76-631a552ed8b6
-content_hash: sha256:78d5c2282b3b875f898beb77d026ca832e394c984d76415e95582ff7b6021d40
+content_hash: sha256:e012308bccff91614c48bcc0cdda414d7c50b6bf38dac772e203e4e3bf2f81b5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -37,6 +39,8 @@ The relationship between economic slack and inflation/wages; argued to be non-li
 
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 - [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
 
 ## Related Concepts
 

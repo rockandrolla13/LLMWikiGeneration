@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:9224c57d2fc60d38a659e8c6b6bc688ca1dc7d1d026436fcdd9ca52b857b6899
+content_hash: sha256:9c7d581b475f72c17ceac514eeec8c2f8c05cbef068c5b70ff8e9748c1e63125
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2016-go-figure
@@ -30,7 +30,8 @@ related:
 - entities/stanley-druckenmiller
 - sources/marks-2016-implications-of-the-election
 - sources/marks-2017-expert-opinion
-revision_id: 1
+- sources/marks-2016-on-the-couch
+revision_id: 2
 schema_version: 2
 source_hash: sha256:61e9064df22b64ae6758d8a67d643ac7318de2d3ce8cdbb27ba7b38f9c382210
 source_path: markdown_output/go-figure.md
@@ -41,8 +42,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Go Figure!
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_1d54838b117b
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7e0f3c6f2b58
 uuid: 54ba8e56-b587-5d55-a478-f5b71fbbc0db
 ---
 
@@ -114,7 +115,7 @@ Mid-November 2016, immediately after Donald Trump's election. The US stock marke
 
 - Refers to [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (November 7, 2016)
 - Referred to by [[sources/marks-2017-expert-opinion|Expert Opinion]] (January 10, 2017)
-- Refers to (no page): *On the Couch* (January 14, 2016), page not yet in the wiki. Memo text reference: On the Couch (January 2016)
+- Refers to [[sources/marks-2016-on-the-couch|On the Couch]] (January 14, 2016)
 
 ## Notes on the Source Text
 

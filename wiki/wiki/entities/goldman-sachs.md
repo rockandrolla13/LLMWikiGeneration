@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:f690f8ccca0d27ca8eca78d1923ba2cd82d0c2bf85e0958d50ba4f69a6a7084a
+content_hash: sha256:501516709e6167c77dc84358092bd8a025c77bc6d26756321a6019c7c3108dde
 created: '2026-10-05T15:52:32Z'
 entity_type: organization
 page_id: entities/goldman-sachs
@@ -14,7 +14,7 @@ related:
 - entities/riskmetrics-group
 - entities/thomas-ta
 - entities/vladimir-finkelstein
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/finger-2002-creditgrades-technical-document
@@ -35,11 +35,13 @@ sources:
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
 tags:
 - organization
 title: Goldman Sachs
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_5915427acbe6
 uuid: 2e29f11e-31d9-52e8-be65-c8e772e1c539
 ---
 
@@ -85,4 +87,6 @@ Affiliation as printed on those papers: Model endorser and co-developer.
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
 <!-- AUTHORED REGION END -->

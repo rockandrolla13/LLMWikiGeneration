@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:299a6c1ee18bc599b8e641323a5eb9fc1fd1266622561331d5d2909d9bac34a3
+content_hash: sha256:77ee6ccb09749ea4d23c2a2996dc3189020638adfe8caabea2f36b46a00e99c6
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/pendulum-of-investor-psychology
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/risk-premia
 - concepts/asset-bubbles
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -58,11 +58,24 @@ sources:
 - sources/marks-2018-latest-thinking
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2016-on-the-couch
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2019-this-time-its-different
+- sources/marks-2020-nobody-knows-ii
+- sources/marks-2020-which-way-now
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2022-the-pendulum-in-international-affairs
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-the-impact-of-debt
+- sources/marks-2024-mr-market-miscalculates
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
 tags:
 - howard-marks
 title: The Pendulum of Investor Psychology
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_331e2472d3a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 uuid: cb41b2dd-cc42-5705-8bab-10dce387a68c
 ---
 
@@ -120,6 +133,19 @@ Cited in 56 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2016-on-the-couch|On the Couch]] (2016)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (2022)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 
 ## Related Concepts
 

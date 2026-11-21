@@ -13,19 +13,21 @@ related:
 - concepts/logarithmic-score
 - concepts/prediction-intervals
 - concepts/strictly-proper-scoring-rules
-revision_id: 2
+revision_id: 3
 sources:
 - sources/zaffran-phd
 - sources/johnstone-2025-multioutput
+- sources/marks-2020-nobody-knows-ii
 tags:
 - machine-learning
 - statistics
 - decision-making
 title: Uncertainty Quantification
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:50:17Z'
 schema_version: 2
 uuid: e87bcfdd-8434-5b88-b0ad-99e2351b40bb
-content_hash: sha256:92d071819c0130f29007bd86e08ff73813a42a896f5c5bf0d7c4a4b5051c5238
+content_hash: sha256:edc711dbc4ada6b5420d29ede8049a65b5135aecaebeb406ff89c5ef0defc98c
+updated_by: op_ac3a896f7d8e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -101,4 +103,8 @@ Key applications:
 - [[concepts/energy-score|energy-score]]
 - [[concepts/logarithmic-score|logarithmic-score]]
 - [[concepts/strictly-proper-scoring-rules|strictly-proper-scoring-rules]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2020-nobody-knows-ii|Nobody Knows II]] (2020)
 <!-- AUTHORED REGION END -->

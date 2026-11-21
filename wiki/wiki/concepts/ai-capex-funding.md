@@ -10,20 +10,22 @@ related:
 - concepts/agentic-ai
 - concepts/corporate-bonds
 - concepts/generative-ai
-revision_id: 2
+revision_id: 3
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
 - sources/patkar-2026-ms-global-credit-midyear
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-ai-hurtles-ahead
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags: []
 title: AI Capex Funding
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 schema_version: 2
 uuid: da7b96fb-6c91-540b-ba8b-c26b3acfd139
-content_hash: sha256:9f0612b0e3adfe9ed8b5746e3086e4656caf8603aaab174526b179b08ca135f1
+content_hash: sha256:2f7fd1343ac219558da6f5efa005e41d72c095e85b10c4a9a4580e654fa5378b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -43,6 +45,8 @@ The macro-credit theme of accelerating AI/hyperscaler capital expenditure fuelin
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (2025)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 
 ## Related Concepts
 

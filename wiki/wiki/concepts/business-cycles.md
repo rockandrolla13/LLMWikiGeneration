@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:b333520cceb11b94c2a0afc5350eea006ab0e3b07da5c1cbc7bbaabc0485c51e
+content_hash: sha256:a7de6ba911f1bfb980864358dc0175e4a77b4dbb7906e916088ef84c7cdb2e77
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -9,7 +9,7 @@ page_id: concepts/business-cycles
 page_type: concept
 related:
 - concepts/great-moderation
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
@@ -27,10 +27,14 @@ sources:
 - sources/marks-2013-ditto
 - sources/marks-2018-latest-thinking
 - sources/marks-2022-bull-market-rhymes
+- sources/marks-2019-this-time-its-different
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2020-time-for-thinking
+- sources/marks-2022-conversation-at-panmure-house
 tags: []
 title: Business Cycles
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_508b5db898e6
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: b8096d92-f75e-5b0f-86bb-be66a9d60e6f
 ---
 
@@ -65,4 +69,8 @@ Recurring fluctuations in aggregate economic activity (expansion, peak, contract
 - [[sources/marks-2013-ditto|Ditto]] (2013)
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2019-this-time-its-different|This Time It's Different]] (2019)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2020-time-for-thinking|Time for Thinking]] (2020)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
 <!-- AUTHORED REGION END -->

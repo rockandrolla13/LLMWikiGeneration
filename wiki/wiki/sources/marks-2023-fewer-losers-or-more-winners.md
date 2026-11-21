@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d33b7391f25ae4281947bceda1f2f6e55348da01000445fef704ed37508a0c5a
+content_hash: sha256:236cb87d78e50b98074a3ea1fb765421ce260b8abf8fe2f36a3f53fb3ff0d56e
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2023-fewer-losers-or-more-winners
@@ -38,7 +38,12 @@ related:
 - sources/marks-2014-dare-to-be-great-ii
 - sources/marks-2015-liquidity
 - sources/marks-2006-risk
-revision_id: 1
+- sources/marks-2022-selling-out
+- sources/marks-2022-what-really-matters
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-the-folly-of-certainty
+revision_id: 2
 schema_version: 2
 source_hash: sha256:1c68e16cfe99c1166757004eb0793eca224df570dc0c2fe775219fc46a58cad8
 source_path: markdown_output/fewer-losers-more-winner.md
@@ -49,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Fewer Losers, or More Winners?
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ce0dbf3225e4
 uuid: 7554fcb0-f0c9-50e1-921b-c630fedccc7f
 ---
 
@@ -130,9 +135,11 @@ September 2023: the 'magnificent seven' tech stocks (Apple, Microsoft, Alphabet,
 - Refers to [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (April 8, 2014)
 - Refers to [[sources/marks-2015-liquidity|Liquidity]] (March 25, 2015)
 - Refers to [[sources/marks-2006-risk|Risk]] (January 19, 2006)
-- Refers to (no page): *Selling Out* (January 13, 2022), page not yet in the wiki. Memo text reference: Selling Out (January 2022)
-- Refers to (no page): *Taking the Temperature* (July 10, 2023), page not yet in the wiki. Memo text reference: Taking the Temperature (July 2023)
-- Refers to (no page): *What Really Matters?* (November 22, 2022), page not yet in the wiki. Memo text reference: What Really Matters? (November 2022)
+- Refers to [[sources/marks-2022-selling-out|Selling Out]] (January 13, 2022)
+- Refers to [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (July 10, 2023)
+- Refers to [[sources/marks-2022-what-really-matters|What Really Matters?]] (November 22, 2022)
+- Referred to by [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (April 17, 2024)
+- Referred to by [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (July 17, 2024)
 
 ## Notes on the Source Text
 

@@ -11,7 +11,7 @@ related:
 - concepts/great-moderation
 - concepts/monetary-transmission-mechanism
 - concepts/quantitative-easing
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ms-2018-11-02-at1-primer-extension-par-calls
 - sources/ms-2019-01-11-balance-sheet-normalization
@@ -22,13 +22,15 @@ sources:
 - sources/ms-2022-11-04-end-of-trends
 - sources/schofield-2019-citi-macro-views
 - sources/marks-2018-latest-thinking
+- sources/marks-2019-on-the-other-hand
+- sources/marks-2022-sea-change
 tags: []
 title: Quantitative Tightening
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5b5f68c843c8
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e29c4bc21715
 schema_version: 2
 uuid: 35cdeb7a-b147-5edf-a079-8def35c0fa3b
-content_hash: sha256:6c020b1202b175cdaa8c8f1ca7ae0f051f1b2e77a29afd146ee106ad2651b601
+content_hash: sha256:0286d75e602e1b76011fd52c83d2d33a073a50191e1f841d13f160b9a9e6557d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -45,6 +47,8 @@ The reduction of central-bank balance sheets via shrinking or negative net asset
 ## In Howard Marks's Memos
 
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2019-on-the-other-hand|On the Other Hand]] (2019)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
 
 ## Related Concepts
 

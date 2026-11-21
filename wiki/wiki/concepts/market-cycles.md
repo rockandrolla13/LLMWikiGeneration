@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:13273679da9bc183ca807ddf7373d816cbfc8edf7b16a380923ba98974a7acc7
+content_hash: sha256:05a05176fc828a9b2d622c39eb72aed1de3ce2247749375901189778f9ffd7e9
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/market-cycles
@@ -12,7 +12,7 @@ related:
 - concepts/asset-bubbles
 - concepts/business-cycles
 - concepts/contrarian-market-timing
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -47,11 +47,16 @@ sources:
 - sources/marks-2020-calibrating
 - sources/marks-2022-bull-market-rhymes
 - sources/marks-2024-easy-money
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-the-anatomy-of-a-rally
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2023-taking-the-temperature
 tags:
 - howard-marks
 title: Market Cycles
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_8fbe6f097537
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_23712691ff54
 uuid: 458b4f5b-1957-5485-9d8f-229a7d62dced
 ---
 
@@ -98,6 +103,11 @@ Cited in 37 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 - [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
 
 ## Related Concepts
 

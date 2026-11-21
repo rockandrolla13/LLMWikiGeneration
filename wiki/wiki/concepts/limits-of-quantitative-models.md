@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:e6a86ad41fd8fa65cf5ac371aef92df425b5694d4cd6f8f236281f23bc7b697f
+content_hash: sha256:29ff7d3532b5b5462fb0d6bfac1d8ab94d1b8465809aa85cc0e9e70961ee3f3b
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/limits-of-quantitative-models
@@ -12,7 +12,7 @@ related:
 - concepts/black-swan-events
 - concepts/losing-money-vs-missing-opportunity
 - concepts/leverage-ratios
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2000-investment-miscellany
@@ -22,11 +22,12 @@ sources:
 - sources/marks-2013-the-role-of-confidence
 - sources/marks-2014-risk-revisited
 - sources/marks-2015-risk-revisited-again
+- sources/marks-2024-mr-market-miscalculates
 tags:
 - howard-marks
 title: Limits of Quantitative Models
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_51a8e80ae3c5
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_62a76cec3e18
 uuid: 3e54e645-b83f-5529-aaad-6fb0fd88be5b
 ---
 
@@ -48,6 +49,7 @@ Cited in 8 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
 - [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
 - [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2024-mr-market-miscalculates|Mr. Market Miscalculates]] (2024)
 
 ## Related Concepts
 

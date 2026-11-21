@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:85c8fa61d1066a4390510fc29727e872fe858eee5a8b8fecd8fad274a8111a38
+content_hash: sha256:83bcd21fc6467de75db01e047b29bcf0a6a26048dc0d6aec9326bd559185eb0a
 created: '2026-05-17T16:44:06Z'
 entity_type: organization
 mind_map_priority: high
@@ -7,7 +7,7 @@ page_id: entities/anthropic
 page_type: entity
 related:
 - entities/anthropic-hh-rlhf
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/huyen-2025-ai-engineering
@@ -17,12 +17,13 @@ sources:
 - sources/marks-2025-is-it-a-bubble
 - sources/marks-2026-ai-hurtles-ahead
 - sources/marks-2026-a-layman-thinks-about-ai
+- sources/marks-2026-whats-going-on-in-private-credit
 tags:
 - ai-engineering
 - organization
 title: Anthropic
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3e1914b14a40
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: 8c25ecbe-9173-5410-911b-8e2657064ab9
 ---
 
@@ -47,4 +48,5 @@ Referenced as a major AI lab whose researchers Huyen interviewed; cited for clos
 - [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 - [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 - [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
+- [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (2026)
 <!-- AUTHORED REGION END -->

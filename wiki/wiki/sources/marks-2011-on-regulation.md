@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:64f7b3e6450a25b5df0d0a79b0e9de7f5d22a51cd5638f9f84efccfba038659b
+content_hash: sha256:164a25e4a2296876d48b97a20931e16c847a8e2887972738f16dd2875e9567bf
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2011-on-regulation
@@ -29,7 +29,8 @@ related:
 - entities/paul-volcker
 - sources/marks-2010-all-that-glitters
 - sources/marks-2023-lessons-from-silicon-valley-bank
-revision_id: 2
+- sources/marks-2022-the-pendulum-in-international-affairs
+revision_id: 3
 schema_version: 2
 source_hash: sha256:77360f31fc68a829be81e64f32795c8d808276726bb2da29c6d20a9f1c8fd0f2
 source_path: markdown_output/2011-03-02-on-regulation.md
@@ -40,8 +41,8 @@ tags:
 - howard-marks
 - investment-memo
 title: On Regulation
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_e14721db41dd
 uuid: f577fe89-0941-595d-a372-2723409f1a04
 ---
 
@@ -112,6 +113,7 @@ March 2011, about 3½ years after the financial crisis surfaced in July 2007. Th
 
 - Refers to [[sources/marks-2010-all-that-glitters|All That Glitters]] (December 17, 2010)
 - Referred to by [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (April 17, 2023)
+- Referred to by [[sources/marks-2022-the-pendulum-in-international-affairs|The Pendulum in International Affairs]] (March 23, 2022)
 
 ## Notes on the Source Text
 

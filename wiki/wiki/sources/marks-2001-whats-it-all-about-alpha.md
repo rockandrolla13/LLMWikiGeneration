@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:8e4a591eedb35e0d0da100784243439eab45e4b2655bcf2765959aa413030670
+content_hash: sha256:70a56cf475cc2a6cd3eea3a931da184b440e6cc7428edab7c523e06bff320d56
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2001-whats-it-all-about-alpha
@@ -32,7 +32,8 @@ related:
 - sources/marks-2004-us-and-them
 - sources/marks-2014-getting-lucky
 - sources/marks-2022-the-illusion-of-knowledge
-revision_id: 2
+- sources/marks-2022-conversation-at-panmure-house
+revision_id: 3
 schema_version: 2
 source_hash: sha256:5501bb9bdcbc9f5667658396263f518b5e7ef9bc6d208623650d11da74da80e4
 source_path: markdown_output/2001-07-11-whats-it-all-about-alpha.md
@@ -43,8 +44,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What's It All About, Alpha?
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_bff3bcb6b3ea
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_ca08604361ca
 uuid: 79788cb1-2645-5f2e-a471-6939e757eb89
 ---
 
@@ -118,6 +119,7 @@ July 2001, after the dot-com bust (Yahoo had fallen to $11 by April 2001). Marks
 - Referred to by [[sources/marks-2004-us-and-them|Us and Them]] (May 7, 2004)
 - Referred to by [[sources/marks-2014-getting-lucky|Getting Lucky]] (January 16, 2014)
 - Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
+- Referred to by [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (June 23, 2022)
 
 ## Notes on the Source Text
 

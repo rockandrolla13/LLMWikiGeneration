@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:64ea57eaa4b5f6fb06374c269f7fe9f8e20f9adba13ca3065596f58cbb9d57e6
+content_hash: sha256:faee91c621dd4d2a23472ea3c8ecbaea129680cc29f927ddd9a7755bfcec119d
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/inflation-hedging
@@ -12,16 +12,19 @@ related:
 - concepts/quantitative-easing
 - concepts/monetary-and-fiscal-policy
 - concepts/sovereign-debt-sustainability
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2021-2020-in-review
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2024-the-folly-of-certainty
+- sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii
 tags:
 - howard-marks
 title: Inflation and Inflation Hedging
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_3592176627b6
 uuid: c4ff62a9-12b9-5921-9a08-5081973710ef
 ---
 
@@ -38,6 +41,9 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2024-the-folly-of-certainty|The Folly of Certainty]] (2024)
+- [[sources/marks-2026-shall-we-repeal-the-laws-of-economics-part-iii|Shall We Repeal the Laws of Economics – Part III]] (2026)
 
 ## Related Concepts
 

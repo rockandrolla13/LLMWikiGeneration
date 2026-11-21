@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:c4c8579c5a2b8477270668462800d649027d78ff359fbfdb90ccc8e857979f02
+content_hash: sha256:da0aa46d659c910d2c7dea03df8a3f7fee2b868801a16a2f8addfe7809510158
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/taking-the-market-temperature
@@ -12,7 +12,7 @@ related:
 - concepts/asset-bubbles
 - concepts/skepticism
 - concepts/market-cycles
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
@@ -23,11 +23,19 @@ sources:
 - sources/marks-2018-latest-thinking
 - sources/marks-2020-coming-into-focus
 - sources/marks-2021-2020-in-review
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2017-yet-again
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-uncertainty-ii
+- sources/marks-2022-conversation-at-panmure-house
+- sources/marks-2022-sea-change
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2025-the-calculus-of-value
 tags:
 - howard-marks
 title: Taking the Market's Temperature
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_3179190e30a9
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_1307d315ef9f
 uuid: 095b661e-9388-5dbd-b9ad-20b27fba73a6
 ---
 
@@ -50,6 +58,14 @@ Cited in 16 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
 - [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 - [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2017-yet-again|Yet Again?]] (2017)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-uncertainty-ii|Uncertainty II]] (2020)
+- [[sources/marks-2022-conversation-at-panmure-house|Conversation at Panmure House]] (2022)
+- [[sources/marks-2022-sea-change|Sea Change]] (2022)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (2025)
 
 ## Related Concepts
 

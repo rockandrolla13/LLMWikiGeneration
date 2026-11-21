@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:fee06d59ecc519cf6913bd72d5b9fbe08ad8ea1e1f618310c0b25b699e266402
+content_hash: sha256:932b1cdc3c33cfc180131863bb5b750aba003fa250a278629cf26582654e93b6
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/defensive-investing
@@ -12,7 +12,7 @@ related:
 - concepts/market-timing
 - concepts/efficient-market-hypothesis
 - concepts/market-cycles
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -32,11 +32,17 @@ sources:
 - sources/marks-2015-inspiration-from-the-world-of-sports
 - sources/marks-2020-calibrating
 - sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2018-the-seven-worst-words-in-the-world
+- sources/marks-2020-uncertainty
+- sources/marks-2021-thinking-about-macro
+- sources/marks-2023-taking-the-temperature
+- sources/marks-2024-the-indispensability-of-risk
+- sources/marks-2024-ruminating-on-asset-allocation
 tags:
 - howard-marks
 title: Defensive Investing
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_ba45bcb8afe3
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_659cfd129512
 uuid: 3135c5ed-6a3d-5bb8-b71e-f21363c8b238
 ---
 
@@ -68,6 +74,12 @@ Cited in 23 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 - [[sources/marks-2020-calibrating|Calibrating]] (2020)
 - [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2018-the-seven-worst-words-in-the-world|The Seven Worst Words in the World]] (2018)
+- [[sources/marks-2020-uncertainty|Uncertainty]] (2020)
+- [[sources/marks-2021-thinking-about-macro|Thinking About Macro]] (2021)
+- [[sources/marks-2023-taking-the-temperature|Taking the Temperature]] (2023)
+- [[sources/marks-2024-the-indispensability-of-risk|The Indispensability of Risk]] (2024)
+- [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (2024)
 
 ## Related Concepts
 

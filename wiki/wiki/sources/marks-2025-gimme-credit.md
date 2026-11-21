@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:237078ebdc9379e53d58ed9b880ff92d2500427afabc505b5e19dbe1c0e1e5bd
+content_hash: sha256:5b4cebed874bb2099d648db883cf5068d02280bdfb4e9a0cd6716dc0263c0ccf
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-2025-gimme-credit
@@ -30,7 +30,11 @@ related:
 - entities/oaktree-capital-management
 - entities/warren-buffett
 - sources/marks-2025-cockroaches-in-the-coal-mine
-revision_id: 1
+- sources/marks-2024-ruminating-on-asset-allocation
+- sources/marks-2025-on-bubble-watch
+- sources/marks-2025-the-calculus-of-value
+- sources/marks-2026-whats-going-on-in-private-credit
+revision_id: 2
 schema_version: 2
 source_hash: sha256:133db9f226359a94989e7582fde16a2af011c6b0eee5078cedcf0755e5086a2b
 source_path: markdown_output/gimme-credit.md
@@ -41,8 +45,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Gimme Credit
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_7acf652407bd
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_b76f64d1a29a
 uuid: c1f35848-6d19-53f5-8953-ba224db5c790
 ---
 
@@ -114,8 +118,10 @@ March 2025: after the 2022 rate hikes lifted HY yields to about 9½%, strong 202
 ## Related Memos
 
 - Referred to by [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (November 6, 2025)
-- Refers to (no page): *Ruminating on Asset Allocation* (October 22, 2024), page not yet in the wiki. Memo text reference: Ruminating on Asset Allocation (October 2024)
-- Refers to (no page): *On Bubble Watch* (January 2, 2025), page not yet in the wiki. Memo text reference: On Bubble Watch (January 2025)
+- Refers to [[sources/marks-2024-ruminating-on-asset-allocation|Ruminating on Asset Allocation]] (October 22, 2024)
+- Refers to [[sources/marks-2025-on-bubble-watch|On Bubble Watch]] (January 2, 2025)
+- Referred to by [[sources/marks-2025-the-calculus-of-value|The Calculus of Value]] (August 13, 2025)
+- Referred to by [[sources/marks-2026-whats-going-on-in-private-credit|What’s Going on in Private Credit?]] (April 9, 2026)
 
 ## Notes on the Source Text
 

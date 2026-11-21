@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:d510003485a1b6582b6765c1be281d341f9c87eb0b7f3cbc599fed471cf68f6e
+content_hash: sha256:20263b5974d4f9658b5a13de9da2a52dd46e5c717752dd9feba00bb7c9273e13
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/behavioral-finance
 - concepts/bond-momentum
 - concepts/factor-investing
-revision_id: 4
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -22,10 +22,12 @@ sources:
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2015-its-not-easy
 - sources/marks-2018-investing-without-people
+- sources/marks-2017-there-they-go-again-again
+- sources/marks-2020-the-anatomy-of-a-rally
 tags: []
 title: Momentum and Trend Following
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_005ee79cd36a
+updated: '2026-11-21T02:51:00Z'
+updated_by: op_6e869a823170
 uuid: 23f83df9-7db5-5679-a759-a15b65641779
 ---
 
@@ -55,4 +57,10 @@ The tendency of recent winners to keep outperforming recent losers over intermed
 - [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
 - [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
 - [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2017-there-they-go-again-again|There They Go Again . . . Again]] (2017)
+- [[sources/marks-2020-the-anatomy-of-a-rally|The Anatomy of a Rally]] (2020)
+
+## Contradictions
+
+- [[contradictions/can-past-prices-predict-returns|Can Past Price Moves Predict Future Returns?]]
 <!-- AUTHORED REGION END -->

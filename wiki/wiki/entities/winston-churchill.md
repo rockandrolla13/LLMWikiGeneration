@@ -1,24 +1,25 @@
 ---
-content_hash: sha256:da5234fa60a7c487970862358e9fa80d282d4f75b5d54dec1553d30ae1993beb
+content_hash: sha256:388f12bbf648fe3936b9b10b7169163e4d056204c2b16d84a1a14def1a510ebf
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/winston-churchill
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
 - sources/marks-2011-its-all-very-taxing
 - sources/marks-2016-economic-reality
 - sources/marks-2019-growing-the-pie
+- sources/marks-2019-political-reality-meets-economic-reality
 tags:
 - person
 - howard-marks-memos
 title: Winston Churchill
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_40cb2493f665
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_dc1e76a3d73c
 uuid: 976117dd-283c-552f-950f-d227f2e19fb0
 ---
 
@@ -40,4 +41,5 @@ Context from the memos:
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 - [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
 - [[sources/marks-2019-growing-the-pie|Growing the Pie]] (2019)
+- [[sources/marks-2019-political-reality-meets-economic-reality|Political Reality Meets Economic Reality]] (2019)
 <!-- AUTHORED REGION END -->

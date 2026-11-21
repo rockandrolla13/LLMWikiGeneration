@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:118ac5eaadfd5df1cabf8faa686985ecfef414fed905f5ad8e1d5535c0db7c23
+content_hash: sha256:712339e3bad5d9732d701aed651fe57ab7e4dffdaf71c2f866c35f96223246b1
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/funding-liquidity
 page_type: concept
 related:
 - concepts/structural-risk
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -23,13 +23,16 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2015-liquidity
 - sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2017-lines-in-the-sand
+- sources/marks-2020-which-way-now
+- sources/marks-2024-the-impact-of-debt
 tags:
 - liquidity
 - brunnermeier-pedersen
 - financial-stability
 title: Funding Liquidity
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_5167dfe45417
+updated: '2026-11-21T02:50:17Z'
+updated_by: op_7ad632cf3724
 uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ---
 
@@ -65,4 +68,7 @@ uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2015-liquidity|Liquidity]] (2015)
 - [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2017-lines-in-the-sand|Lines in the Sand]] (2017)
+- [[sources/marks-2020-which-way-now|Which Way Now?]] (2020)
+- [[sources/marks-2024-the-impact-of-debt|The Impact of Debt]] (2024)
 <!-- AUTHORED REGION END -->
