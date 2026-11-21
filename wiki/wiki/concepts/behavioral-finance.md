@@ -25,7 +25,7 @@ related:
 - concepts/tail-risk-premium
 - concepts/value-premium
 - concepts/wealth-inequality-financialized-capitalism
-revision_id: 5
+revision_id: 6
 sources:
 - sources/ms-2016-06-15-1937-38-redux
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers
@@ -76,16 +76,33 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-hemlines
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2013-ditto
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2015-its-not-easy
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2016-go-figure
+- sources/marks-2018-latest-thinking
+- sources/marks-2020-calibrating
+- sources/marks-2020-knowledge-of-the-future
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2022-i-beg-to-differ
+- sources/marks-2022-the-illusion-of-knowledge
 tags:
 - behavioral-finance
 - heuristics
 - anomalies
 title: Behavioral Finance
-updated: '2026-11-21T02:33:09Z'
+updated: '2026-11-21T02:40:24Z'
 schema_version: 2
 uuid: 813248fe-dbe9-53e9-8a05-bbc3e5d7a86b
-content_hash: sha256:f2198a82ac51d33ed28ae91e6aa2e03f1cd9e3f046dc3486ab08df3c1f389746
-updated_by: op_92a51ddcbfec
+content_hash: sha256:259b7a6fa89448d297abc04e9a87f61270142511d1c77648df780cbd7fc1d927
+updated_by: op_bff3bcb6b3ea
 ---
 
 <!-- AUTHORED REGION START -->
@@ -168,4 +185,21 @@ Now also discussed in: [[sources/ms-2016-06-15-1937-38-redux]], [[sources/ms-201
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->

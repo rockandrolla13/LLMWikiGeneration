@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:d96b44c2e2bcd3907dc20eb6eeee07b037e9ea73327740ca329eff20f3a4ca34
+content_hash: sha256:53e7a60c9d9a663a0139396b29ec75ae0d02c24b2b70841d32cfd97c02fc324b
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/jp-morgan
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
@@ -21,10 +21,14 @@ sources:
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2011-down-to-the-wire
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-a-layman-thinks-about-ai
 tags: []
 title: J.P. Morgan
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
 ---
 
@@ -52,4 +56,8 @@ uuid: b4a9539d-0c23-54be-a9b3-d46419f930db
 - [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 - [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 <!-- AUTHORED REGION END -->

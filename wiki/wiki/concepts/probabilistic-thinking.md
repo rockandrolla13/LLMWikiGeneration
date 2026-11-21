@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:15e44655a31ab04dea4a468d9fdfd752d31730a5d7aa666c07278c62215e039b
+content_hash: sha256:361d371354b78e092112bac654f7b1d915c9bca30d259167a208a0edb67ea596
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/probabilistic-thinking
@@ -12,7 +12,7 @@ related:
 - concepts/value-at-risk
 - concepts/decision-quality-vs-outcome
 - concepts/i-know-vs-i-dont-know-school
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2003-whad-ya-know
@@ -21,11 +21,17 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2016-go-figure
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - howard-marks
 title: Probabilistic Thinking
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 9aad2f5b-6336-59dc-ade8-a688dca807b6
 ---
 
@@ -46,6 +52,12 @@ Cited in 14 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:cc6a9a3623ce6de09a84ea120da81d495c262a3d901cb9a8594f03a725e63310
+content_hash: sha256:b83f6577473dde32d6651526ab7b7a715614551e03dafaabbd34200ca5ecc39a
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/peter-bernstein
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -20,12 +20,15 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-so-much-thats-false-and-nutty
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2017-expert-opinion
+- sources/marks-2022-the-illusion-of-knowledge
 tags:
 - person
 - howard-marks-memos
 title: Peter Bernstein
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 uuid: e50f6ed3-5133-5515-8bde-79b534f66080
 ---
 
@@ -38,7 +41,7 @@ Person named in 16 of the 165 Howard Marks memos in the collection.
 
 Context from the memos:
 
-- *Risk Revisited Again* (2015, page not yet in the wiki): Drawing on Peter Bernstein, Keynes, Leibniz, Minsky and Chesterton, he argues that the future is a probability distribution, not a fixed outcome; that risk means more things can happen than will happen; that knowing probabilities does not tell you the outcome; and that only one of many possibilities will occur.
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015): Drawing on Peter Bernstein, Keynes, Leibniz, Minsky and Chesterton, he argues that the future is a probability distribution, not a fixed outcome; that risk means more things can happen than will happen; that knowing probabilities does not tell you the outcome; and that only one of many possibilities will occur.
 
 ## Appearances in Howard Marks's Memos
 
@@ -53,4 +56,7 @@ Context from the memos:
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->

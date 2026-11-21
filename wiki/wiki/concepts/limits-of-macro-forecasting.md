@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:e60f470acc7f9b6575d2673214902355bf89176cea5d0ee3f9021e70323665ee
+content_hash: sha256:9f42ee244527f8821eaf799921c84fd7f2e1efb015fe2b669455445507b081b7
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/limits-of-macro-forecasting
@@ -12,7 +12,7 @@ related:
 - concepts/behavioral-finance
 - concepts/market-timing
 - concepts/monetary-and-fiscal-policy
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -25,11 +25,20 @@ sources:
 - sources/marks-2003-whad-ya-know
 - sources/marks-2008-nobody-knows
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2012-a-fresh-start-hopefully
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2016-go-figure
+- sources/marks-2017-expert-opinion
+- sources/marks-2020-knowledge-of-the-future
+- sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - howard-marks
 title: Limits of Macro Forecasting
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: 97e0ab8a-664c-54d1-9a89-84702d923cc8
 ---
 
@@ -54,6 +63,15 @@ Cited in 28 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:c5d023aee7ff3d2c37059bd92596deccbfc33f604ee2c76596166ab2707a4aea
+content_hash: sha256:f690f8ccca0d27ca8eca78d1923ba2cd82d0c2bf85e0958d50ba4f69a6a7084a
 created: '2026-10-05T15:52:32Z'
 entity_type: organization
 page_id: entities/goldman-sachs
@@ -14,7 +14,7 @@ related:
 - entities/riskmetrics-group
 - entities/thomas-ta
 - entities/vladimir-finkelstein
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/finger-2002-creditgrades-technical-document
@@ -30,11 +30,16 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2011-on-regulation
+- sources/marks-2013-the-race-is-on
+- sources/marks-2018-investing-without-people
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - organization
 title: Goldman Sachs
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_670d900bbdbf
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: 2e29f11e-31d9-52e8-be65-c8e772e1c539
 ---
 
@@ -75,4 +80,9 @@ Affiliation as printed on those papers: Model endorser and co-developer.
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 <!-- AUTHORED REGION END -->

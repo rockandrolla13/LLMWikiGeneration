@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:25bb0bd14b16b859053bfd06d54c6905db79f402b9e3692c94c3ad00053ea8fd
+content_hash: sha256:49c53e31505293bfe12261c4f9fe6aebf8b50a4ca9abfe1c492c88687a3001f2
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/credit-cycle
@@ -12,7 +12,7 @@ related:
 - concepts/funding-liquidity
 - concepts/high-yield-covenants
 - concepts/cdo-tranches
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
@@ -31,11 +31,17 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2010-warning-flags
 - sources/marks-2010-open-and-shut
+- sources/marks-2013-the-race-is-on
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2024-easy-money
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
 tags:
 - howard-marks
 title: The Credit Cycle
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: c5d5691d-0a2e-5580-9bf3-5e2b246153e0
 ---
 
@@ -66,6 +72,12 @@ Cited in 25 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 
 ## Related Concepts
 

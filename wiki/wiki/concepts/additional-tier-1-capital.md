@@ -12,20 +12,21 @@ related:
 - concepts/corporate-bonds
 - concepts/corporate-hybrid-bonds
 - concepts/mrel
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ms-2014-02-21-corporate-hybrid-primer
 - sources/ms-2018-11-02-at1-primer-extension-par-calls
 - sources/ms-2019-02-15-crr2-agreed-adi-boost-at1
 - sources/ms-2019-04-18-mrel-subordination-brrd2
 - sources/ms-2020-03-11-facing-cycle-picking-swiss
+- sources/marks-2023-lessons-from-silicon-valley-bank
 tags: []
 title: Additional Tier 1 capital
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 schema_version: 2
 uuid: 830c109e-ea2d-5519-a940-e72ce4178946
-content_hash: sha256:6834fe3321679e448f8f74fc1314c10693e81af3a3e47675c7f4e1cfaedfe63c
+content_hash: sha256:59789799474b7ca345dca11ea22a19776a3b60d0d16b784e61639e96fd61a7e3
 ---
 
 <!-- AUTHORED REGION START -->
@@ -42,6 +43,10 @@ Loss-absorbing perpetual bank capital instruments (CoCos) with discretionary cou
 - [[sources/ms-2019-02-15-crr2-agreed-adi-boost-at1|European Banks: CRR2 Agreed; ADI Boost for AT1]]
 - [[sources/ms-2019-04-18-mrel-subordination-brrd2|MREL – Raising the Subordination Stakes]]
 - [[sources/ms-2020-03-11-facing-cycle-picking-swiss|European Banks: Facing the Cycle – Picking Swiss]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 
 ## Related Concepts
 

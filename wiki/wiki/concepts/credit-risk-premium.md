@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:121cd58865e6231c7b4061e27b4c59f7f3f30dac8f102e3f94e8c02780515d7b
+content_hash: sha256:49865871e864c244af88c65b8962f268f9c15504484cc8e1f462a3214faa2730
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
 - concepts/factor-models
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -24,10 +24,14 @@ sources:
 - sources/marks-1994-how-does-an-inefficient-market-get-that-way
 - sources/marks-2006-it-is-what-it-is
 - sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags: []
 title: Credit Risk Premium
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_da942e9a64b3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: 28025f6b-c923-5410-a8af-645e6ca8d991
 ---
 
@@ -59,4 +63,8 @@ The excess return of corporate and non-government debt over default-free governm
 - [[sources/marks-1994-how-does-an-inefficient-market-get-that-way|How Does an Inefficient Market Get That Way?]] (1994)
 - [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:16c4955da88314fd3d573ec2049fe367cf2457c51abd36032f0e22ac0d088ece
+content_hash: sha256:26111407069a25015bf57a3efcd1074f070f36f49dee94a81f714440693e8157
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-its-all-good
@@ -51,7 +51,11 @@ related:
 - sources/marks-2009-the-long-view
 - sources/marks-2009-touchstones
 - sources/marks-2010-warning-flags
-revision_id: 1
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2017-expert-opinion
+- sources/marks-2024-easy-money
+revision_id: 2
 schema_version: 2
 source_hash: sha256:0d67e5c2f0a452c57acc629ae9337bcbd2eadaa99c3c946c8b5639a0d5c18de9
 source_path: markdown_output/2007-07-16-its-all-good.md
@@ -62,8 +66,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It's All Good
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_bf7773906754
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 uuid: 01a968b6-1124-5656-bcb9-b9a10c60aa3b
 ---
 
@@ -156,6 +160,10 @@ July 2007, at the peak of the pre-crisis credit boom. Nearly every asset class a
 - Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
 - Referred to by [[sources/marks-2009-touchstones|Touchstones]] (November 10, 2009)
 - Referred to by [[sources/marks-2010-warning-flags|Warning Flags]] (May 12, 2010)
+- Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
+- Referred to by [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (December 18, 2014)
+- Referred to by [[sources/marks-2017-expert-opinion|Expert Opinion]] (January 10, 2017)
+- Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
 
 ## Notes on the Source Text
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:6ee4cb66ace91bb8f34c3ba13fc58adaee819444ffffea8fb8b1e68a12979f8c
+content_hash: sha256:a56e493cf9ed99006ceef38458e3a14280b4eb8f245b2365f7d5969966e75693
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2000-bubble-com
@@ -28,7 +28,10 @@ related:
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2000-investment-miscellany
 - sources/marks-2000-were-not-in-1999-anymore-toto
-revision_id: 1
+- sources/marks-2016-economic-reality
+- sources/marks-2024-easy-money
+- sources/marks-2025-is-it-a-bubble
+revision_id: 2
 schema_version: 2
 source_hash: sha256:d8c92bbc473ba4c0035905bf1a3ee00d125727367eab98c0a1e5b433b580108b
 source_path: markdown_output/2000-01-02-bubble.md
@@ -39,8 +42,8 @@ tags:
 - howard-marks
 - investment-memo
 title: bubble.com
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_cdc66933c4ef
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: 7c5bfce4-78f9-5a19-a5bc-f0f424226ed3
 ---
 
@@ -109,6 +112,9 @@ Written January 2, 2000, at the height of the technology, Internet and telecom b
 - Referred to by [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (May 1, 2000)
 - Referred to by [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (November 16, 2000)
 - Referred to by [[sources/marks-2000-were-not-in-1999-anymore-toto|We're Not In 1999 Anymore, Toto]] (December 31, 2000)
+- Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
+- Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
+- Referred to by [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (December 9, 2025)
 
 ## Notes on the Source Text
 

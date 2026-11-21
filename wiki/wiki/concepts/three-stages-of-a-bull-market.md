@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b566fb13df49f2c15d3b33a011128ca5725e558d293edf0ae37939b3fdaa1ce5
+content_hash: sha256:7745e0fd025c1e410dba83c3f3539d5acb85dd5500493e49c815bb4bc87c8ed4
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/three-stages-of-a-bull-market
@@ -12,7 +12,7 @@ related:
 - concepts/this-time-is-different
 - concepts/business-cycles
 - concepts/asset-bubbles
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -20,11 +20,14 @@ sources:
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-the-limits-to-negativism
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2022-bull-market-rhymes
 tags:
 - howard-marks
 title: The Three Stages of a Bull Market
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_470b4c005c8f
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_508b5db898e6
 uuid: 112d168b-8338-50bd-8a12-0903b8b78708
 ---
 
@@ -44,6 +47,9 @@ Cited in 12 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 
 ## Related Concepts
 

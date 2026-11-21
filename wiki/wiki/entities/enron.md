@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:7beb8583675e79d9a80d76b18ec4b6a93eba84c1273dee48b6ce30950aece53c
+content_hash: sha256:caf3b7251f66c3e77885e2e919781f16a5d3f805efe9f7488fab4b85449ba589
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/enron
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2002-learning-from-enron
@@ -15,12 +15,14 @@ sources:
 - sources/marks-2003-whats-going-on
 - sources/marks-2004-hey-steward
 - sources/marks-2006-you-cant-eat-irr
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
 tags:
 - company
 - howard-marks-memos
 title: Enron
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_e5222ea1b6d9
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: 82049016-201e-50ba-a71c-5133460a7b86
 ---
 
@@ -44,4 +46,6 @@ Context from the memos:
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
 - [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 <!-- AUTHORED REGION END -->

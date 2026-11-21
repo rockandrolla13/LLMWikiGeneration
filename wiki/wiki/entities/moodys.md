@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:453c99144ced048281c64074b7303d0aacb131fd001736e53c9fdc6547ce5600
+content_hash: sha256:d222d34da70fd1ae860299780c912d7ef2b0ca48153675057b1ad19bcefc7920
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/moodys
 page_type: entity
 related: []
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -18,10 +18,12 @@ sources:
 - sources/marks-2003-whad-ya-know
 - sources/marks-2008-doesnt-make-sense
 - sources/marks-2011-down-to-the-wire
+- sources/marks-2013-ditto
+- sources/marks-2014-getting-lucky
 tags: []
 title: Moody's
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_b1c712ee904a
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_519f5c53ebf1
 uuid: 4bdd1ffc-f0da-5e4e-b9da-1a00fecaeb76
 ---
 
@@ -46,4 +48,6 @@ uuid: 4bdd1ffc-f0da-5e4e-b9da-1a00fecaeb76
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 - [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
 <!-- AUTHORED REGION END -->

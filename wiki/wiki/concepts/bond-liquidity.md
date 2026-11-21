@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:1cc148e277efcf397ea005720c087f0237ae6e32982d18a92976b1c610ce0713
+content_hash: sha256:825b70744d3ec2b6809ad99d6b9867143c00829ef9f0615918f70cd42fd7b829
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/bond-liquidity
@@ -9,7 +9,7 @@ related:
 - concepts/structural-models
 - concepts/corporate-bond-liquidity-premium
 - concepts/liquidity-risk
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/huang-2025-global-credit-spread-puzzle
@@ -27,6 +27,8 @@ sources:
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/whitman-2009-distress-investing
+- sources/marks-2015-liquidity
+- sources/marks-2018-investing-without-people
 tags:
 - liquidity
 - corporate-bonds
@@ -34,8 +36,8 @@ tags:
 - credit-spreads
 - market-microstructure
 title: Bond Liquidity
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 uuid: 98af7bca-952d-5087-b72a-c1d874f057a6
 ---
 
@@ -70,4 +72,9 @@ Illiquidity does not only widen spreads — it corrupts the data. [[sources/dick
 - [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 <!-- AUTHORED REGION END -->

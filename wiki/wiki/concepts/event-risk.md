@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:33df207d1594cc0155fa6ac80c88057fe63941e532736df38e1bc3718828965d
+content_hash: sha256:25a43d84d786fd01ee87ff1a05a6e83a77c0b23592423bd60723166aba5a517d
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/event-risk
@@ -8,13 +8,15 @@ related:
 - concepts/lbo-risk
 - concepts/lever-score
 - concepts/credit-spread-curve
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/marks-2001-notes-from-new-york
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2023-lessons-from-silicon-valley-bank
 tags:
 - creditETF
 - event-risk
@@ -22,8 +24,8 @@ tags:
 - corporate-credit
 - credit-strategy
 title: Event Risk
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_91f1c2c374f4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 uuid: 60a1a9e8-f26d-5f85-b135-268ca59b1897
 ---
 
@@ -69,4 +71,6 @@ The separation matters. Firm-level vulnerability and market-level willingness to
 ## In Howard Marks's Memos
 
 - [[sources/marks-2001-notes-from-new-york|Notes from New York]] (2001)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 <!-- AUTHORED REGION END -->

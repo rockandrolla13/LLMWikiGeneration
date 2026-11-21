@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:d8f9877b9d817981cac4ef2e98ff8bf297452b91001e9e5f9ded00daa9c2740b
+content_hash: sha256:988ac729d5d7fa557ac57bee422e35bfc33c193039023ee8b71970b42c93157b
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/spread
@@ -8,13 +8,14 @@ related:
 - concepts/pairs-trading
 - concepts/mean-reversion
 - concepts/credit-spread-curve
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/moura-2016-pairs-trading-kalman
 - sources/triantafyllopoulos-2011-mean-reverting-spreads
 - sources/zhang-2021-pairs-general-ssm
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/marks-2013-high-yield-bonds-today
 tags:
 - spread
 - pairs-trading
@@ -22,8 +23,8 @@ tags:
 - statistical-arbitrage
 - fixed-income
 title: Spread
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_e2236e7c9bf5
 uuid: ce2ae689-dd3d-53ba-a382-41ef8e909b9e
 ---
 
@@ -61,4 +62,8 @@ The other sense is the yield a risky bond pays above the risk-free rate. That is
 ## Sources
 
 - [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
 <!-- AUTHORED REGION END -->

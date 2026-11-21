@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:79c94fb62c33cfb997f9f27b22e1287bee1c0320e6ce4ea57b3407f7ecc1c64f
+content_hash: sha256:64f7b3e6450a25b5df0d0a79b0e9de7f5d22a51cd5638f9f84efccfba038659b
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2011-on-regulation
@@ -28,7 +28,8 @@ related:
 - entities/oaktree-capital-management
 - entities/paul-volcker
 - sources/marks-2010-all-that-glitters
-revision_id: 1
+- sources/marks-2023-lessons-from-silicon-valley-bank
+revision_id: 2
 schema_version: 2
 source_hash: sha256:77360f31fc68a829be81e64f32795c8d808276726bb2da29c6d20a9f1c8fd0f2
 source_path: markdown_output/2011-03-02-on-regulation.md
@@ -39,8 +40,8 @@ tags:
 - howard-marks
 - investment-memo
 title: On Regulation
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_670d900bbdbf
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 uuid: f577fe89-0941-595d-a372-2723409f1a04
 ---
 
@@ -110,6 +111,7 @@ March 2011, about 3½ years after the financial crisis surfaced in July 2007. Th
 ## Related Memos
 
 - Refers to [[sources/marks-2010-all-that-glitters|All That Glitters]] (December 17, 2010)
+- Referred to by [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (April 17, 2023)
 
 ## Notes on the Source Text
 

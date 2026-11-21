@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:9239c2aab27d3e08acb62fb3dc29534cfe737bbffcfcbed95105f62b97ee5109
+content_hash: sha256:947daf58edaf75fdafb2488763e4e12fdc1cb61e70a9ca28b9e2c5a4d3a23203
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/nifty-fifty
@@ -12,18 +12,20 @@ related:
 - concepts/ai-disruption-software-business-models
 - concepts/low-expected-returns
 - concepts/mean-reversion
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1994-random-thoughts-identification-investment-opportunities
 - sources/marks-2001-safety-first-but-where
 - sources/marks-2007-everyone-knows
 - sources/marks-2010-hemlines
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2020-coming-into-focus
 tags:
 - howard-marks
 title: The Nifty Fifty
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5ebf1dc75f95
 uuid: 5ae8b137-cc1f-57b2-99e6-4367b411e4ce
 ---
 
@@ -42,6 +44,8 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
 - [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 
 ## Related Concepts
 

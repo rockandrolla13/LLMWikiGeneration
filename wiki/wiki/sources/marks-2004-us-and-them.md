@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:99e325673d42d9b2a5b014e2cb614fa7cd68b91f1784a0c9d46dc172154811c1
+content_hash: sha256:ef1f389db7c836952d4d391532d8c82d169442fddbea066edd2824ec2a215ed2
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-us-and-them
@@ -34,7 +34,8 @@ related:
 - sources/marks-2005-there-they-go-again
 - sources/marks-2009-touchstones
 - sources/marks-2012-what-can-we-do-for-you
-revision_id: 2
+- sources/marks-2022-the-illusion-of-knowledge
+revision_id: 3
 schema_version: 2
 source_hash: sha256:b601b628e7f76fea86de8a60d7e939d7757d0930a7c686bc92061c23922428f0
 source_path: markdown_output/2004-05-07-us-and-them.md
@@ -45,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Us and Them
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 uuid: 32aa43dd-e2a8-5f2a-9548-2c8809ea50cc
 ---
 
@@ -121,6 +122,7 @@ May 2004, after a strong 2003 rebound. The market had moved sideways for a few m
 - Referred to by [[sources/marks-2005-there-they-go-again|There They Go Again]] (May 6, 2005)
 - Referred to by [[sources/marks-2009-touchstones|Touchstones]] (November 10, 2009)
 - Referred to by [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (January 10, 2012)
+- Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
 
 ## Notes on the Source Text
 

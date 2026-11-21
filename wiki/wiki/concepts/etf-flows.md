@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:1060907a55411074920c7c3cf2c873ed2627ef2e91fbd9dfbd363593ccba8213
+content_hash: sha256:1bb7f95f9e3e4e054094a0a4fbcda074193b6fd63506bfe6ef3cd7be45bfcc05
 created: 2026-05-06 23:35:00+00:00
 mind_map_priority: high
 page_id: concepts/etf-flows
@@ -17,7 +17,7 @@ related:
 - concepts/mean-reversion
 - concepts/non-fundamental-demand-shocks
 - concepts/order-imbalance
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/chao-2019-etf-flows-prices
@@ -34,6 +34,8 @@ sources:
 - sources/optiver-2025-corporate-bond-etf-contraflow
 - sources/petit-2025-data-driven-flow-etf
 - sources/kalev-2025-lietf-trading-behavior-during-u-s
+- sources/marks-2015-liquidity
+- sources/marks-2018-investing-without-people
 tags:
 - etf
 - passive-investing
@@ -41,8 +43,9 @@ tags:
 - price-impact
 - return-predictability
 title: ETF Flows
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-11-21T02:40:24Z'
 uuid: 3f64dd11-6e5e-54ec-8635-501db69705d9
+updated_by: op_005ee79cd36a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -108,4 +111,9 @@ Clustering trades based on ETF-constituent co-occurrence patterns for portfolio 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2013-11-26-em-strategy-no-rush-for-the-exits]], [[sources/ms-2017-06-23-hy-leveraged-finance-playbook]], [[sources/ms-2017-07-10-european-credit-watch]], [[sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers]], [[sources/ms-2019-01-28-european-credit-watch]], [[sources/ms-2019-02-01-cross-asset-january-recap]], [[sources/ms-2019-02-11-fx-positioning-tracker]], [[sources/ms-2019-02-24-china-current-account-turning-point]], [[sources/ms-2019-03-01-global-in-the-flow-february-recap]], [[sources/ms-2019-04-01-cross-asset-1q-recap]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:50172549c15d8625bad17d358ea6402828d02bc31596b9fc9c5466242d0a19ab
+content_hash: sha256:03d3f19913faa9b1164389be03a7933dc6d9ff2951c12c0d01a1972e6814db66
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/investment-asymmetry
@@ -12,16 +12,18 @@ related:
 - concepts/probabilistic-thinking
 - concepts/active-vs-passive-investing
 - concepts/second-level-thinking
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2004-hedge-funds-a-case-for-caution
 - sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - howard-marks
 title: Investment Asymmetry
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_cc075526da31
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 63eaebbc-2327-5b9f-a6c5-fe1d27d99714
 ---
 
@@ -38,6 +40,8 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 - [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

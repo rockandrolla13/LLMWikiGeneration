@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1994-risk-in-todays-markets
@@ -30,13 +30,19 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2010-hemlines
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2013-the-race-is-on
+- sources/marks-2018-latest-thinking
+- sources/marks-2020-coming-into-focus
+- sources/marks-2021-2020-in-review
 tags: []
 title: Low Expected Returns Challenge
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3179190e30a9
 schema_version: 2
 uuid: bb1f4f08-ebf9-5a91-8212-3cfe94f9876c
-content_hash: sha256:89bc88208632a07e0a3c0e0368405659c297d60795238602ed8ef6fa3ec68ea4
+content_hash: sha256:73d6e39dac1f8ce969299d66df3e56df25e5f36d06939bd91fd6abf6c790198f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -75,4 +81,10 @@ The secular condition in which falling discount rates have pushed forward-lookin
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 <!-- AUTHORED REGION END -->

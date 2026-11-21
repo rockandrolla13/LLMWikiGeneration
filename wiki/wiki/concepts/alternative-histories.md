@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:bb13429e6d999ae142eb2d025db4e50623908ea46ce0e44c84b8f395d15d9677
+content_hash: sha256:cd4ed7a40521288ef6c0535fa7ad605b2fa227d699e66f6a6a38e2143248442b
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/alternative-histories
@@ -12,18 +12,20 @@ related:
 - concepts/information-ratio
 - concepts/relative-vs-absolute-returns
 - concepts/irr-and-performance-measurement
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2006-risk
 - sources/marks-2006-pigweed
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2025-a-look-under-the-hood
 tags:
 - howard-marks
 title: Alternative Histories
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_564e135c3d91
 uuid: 203efcff-331c-5348-9a99-aa2ade165e7d
 ---
 
@@ -42,6 +44,8 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2006-risk|Risk]] (2006)
 - [[sources/marks-2006-pigweed|Pigweed]] (2006)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
 
 ## Related Concepts
 

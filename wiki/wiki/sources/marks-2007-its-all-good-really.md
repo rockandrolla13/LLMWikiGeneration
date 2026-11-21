@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b11216bbf13bc002878b86e79da578e1680de2ddb93f6414a48e3c35dd842229
+content_hash: sha256:5d984c1cf7fdec31c2afb58727848efd14daa4163153383438d9d704b2ede99c
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-its-all-good-really
@@ -35,7 +35,8 @@ related:
 - sources/marks-2006-the-new-paradigm
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2008-the-aviary
-revision_id: 1
+- sources/marks-2013-the-role-of-confidence
+revision_id: 2
 schema_version: 2
 source_hash: sha256:33f726effb76c552889dc5f91a0a1f17ec37acf5f3312939a46232d72c8b5298
 source_path: markdown_output/2007-07-30-its-all-good-really.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It’s All Good . . . Really?
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_7eab212b6e8f
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_cbff77cedec5
 uuid: 950713e5-be80-56b4-b33e-41ebbb23260b
 ---
 
@@ -124,6 +125,7 @@ Late July 2007, the start of the subprime crisis. Subprime delinquencies and for
 - Refers to [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (October 19, 2006)
 - Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
 - Referred to by [[sources/marks-2008-the-aviary|The Aviary]] (May 16, 2008)
+- Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
 
 ## Notes on the Source Text
 

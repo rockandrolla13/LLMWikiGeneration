@@ -8,16 +8,17 @@ page_id: concepts/global-macro-investing
 page_type: concept
 related:
 - concepts/market-timing
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-2017-expert-opinion
 tags: []
 title: Global Macro Investing
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_104a4deb2caa
 schema_version: 2
 uuid: 07ff6d47-b6c6-51c2-89e0-f3dcc426a65f
-content_hash: sha256:eef91833647d404ad8896273ae1398fb8242baf7730b8ea335d3b123a22db190
+content_hash: sha256:594de76a0fb6a9930b002a28944760b5789adefd3833e6c3da68a69e7211cfdc
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +31,10 @@ A discretionary strategy with a broad mandate to trade any instrument across ass
 ## Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
 
 ## Related Concepts
 

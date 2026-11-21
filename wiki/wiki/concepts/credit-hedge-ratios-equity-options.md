@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:8d95a56f7d80e726c24c28aebadc7be69723b0d61654701b1477d7d007008be9
+content_hash: sha256:53c099ec2001c21d60c9175ce0bff99fe8635682c88f420e9829a3453bdd188b
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/cds-bond-basis
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/avino-2024-hedging-credit-equity-options
@@ -19,10 +19,11 @@ sources:
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/marks-2005-a-case-in-point
+- sources/marks-2012-its-all-a-big-mistake
 tags: []
 title: Credit Hedge Ratios with Equity Options
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_a24266aa1879
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_337cea410c0a
 uuid: 84e951ea-1440-5ebd-9e01-c83bb824903a
 ---
 
@@ -49,4 +50,5 @@ Theoretical sensitivities of bond credit spread changes to equity put option ret
 ## In Howard Marks's Memos
 
 - [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
 <!-- AUTHORED REGION END -->

@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/citigroup
 page_type: entity
 related: []
-revision_id: 3
+revision_id: 4
 sources:
 - sources/citi-global-theme-book
 - sources/schofield-2019-citi-macro-views
@@ -33,13 +33,20 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2011-down-to-the-wire
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2013-ditto
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2022-i-beg-to-differ
+- sources/marks-2024-easy-money
 tags: []
 title: Citigroup
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 schema_version: 2
 uuid: b7dc873a-55f0-55b8-b842-71add8384427
-content_hash: sha256:df67823aa159d97fab87180d28a60caed4ba51c5414d69a2642f11f5e51e378b
+content_hash: sha256:96b45ee46217d2a80808a0d34944fc5a872d302636468868a514b36d76d35649
 ---
 
 <!-- AUTHORED REGION START -->
@@ -77,4 +84,11 @@ content_hash: sha256:df67823aa159d97fab87180d28a60caed4ba51c5414d69a2642f11f5e51
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
 <!-- AUTHORED REGION END -->

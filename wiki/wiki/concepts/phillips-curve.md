@@ -8,16 +8,18 @@ page_id: concepts/phillips-curve
 page_type: concept
 related:
 - concepts/great-moderation
-revision_id: 1
+revision_id: 2
 sources:
 - sources/schofield-2019-citi-macro-views
+- sources/marks-2021-2020-in-review
+- sources/marks-2022-the-illusion-of-knowledge
 tags: []
 title: Phillips Curve
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 schema_version: 2
 uuid: f9970424-be39-583d-ac76-631a552ed8b6
-content_hash: sha256:0e4d1a18cb14cc692cc88b14b563346c4c560fff05e6bd8ebd2b23544b9b5fa1
+content_hash: sha256:78d5c2282b3b875f898beb77d026ca832e394c984d76415e95582ff7b6021d40
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +32,11 @@ The relationship between economic slack and inflation/wages; argued to be non-li
 ## Sources
 
 - [[sources/schofield-2019-citi-macro-views|Citi Macro Views: Global Strategy and Macro Theme Book, Q1 2019]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 
 ## Related Concepts
 

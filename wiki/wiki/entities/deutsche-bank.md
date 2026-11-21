@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:43a940c1058261c20926dcc1a4456c30798c7fafa9731b4105193a7a82c1c6b4
+content_hash: sha256:16df3d8ce071d5e7cf1c213073323279ad740a6e22b21be8a307803a9f50e672
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/deutsche-bank
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/db-2019-01-08-fundamental-factors-banks
@@ -22,10 +22,11 @@ sources:
 - sources/marks-2008-whodunit
 - sources/marks-2008-doesnt-make-sense
 - sources/marks-2010-hemlines
+- sources/marks-2013-the-race-is-on
 tags: []
 title: Deutsche Bank
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1a21f47b0139
 uuid: d6a01303-7a6f-50b0-ac98-cd242f6b8f66
 ---
 
@@ -72,4 +73,5 @@ the note.
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
 - [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
 <!-- AUTHORED REGION END -->

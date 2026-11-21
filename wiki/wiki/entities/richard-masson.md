@@ -1,22 +1,26 @@
 ---
-content_hash: sha256:9e42ffe8c6ba8086d690ab3af84d876a162fa470d11ccfc9d723a855d4bac9cc
+content_hash: sha256:e8fecd3ff33948cd146babbd9ee90ad8662b22b1e31d80a65c6769b72b922765
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/richard-masson
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2008-what-worries-me
+- sources/marks-2014-getting-lucky
+- sources/marks-2015-liquidity
+- sources/marks-2018-investing-without-people
+- sources/marks-2022-the-illusion-of-knowledge
 tags:
 - person
 - howard-marks-memos
 title: Richard Masson
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_a3cdb1eba683
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 uuid: de77ca22-fd26-52e2-a3f0-5a31c29a5b20
 ---
 
@@ -35,4 +39,8 @@ Context from the memos:
 
 - [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (2001)
 - [[sources/marks-2008-what-worries-me|What Worries Me]] (2008)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->

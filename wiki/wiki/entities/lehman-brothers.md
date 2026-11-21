@@ -3,9 +3,9 @@ title: Lehman Brothers
 page_id: entities/lehman-brothers
 page_type: entity
 entity_type: institution
-revision_id: 3
+revision_id: 4
 created: 2026-05-05 23:25:00+00:00
-updated: '2026-11-21T02:33:09Z'
+updated: '2026-11-21T02:40:24Z'
 tags:
 - creditETF
 - investment-bank
@@ -31,6 +31,10 @@ sources:
 - sources/marks-2011-on-regulation
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-getting-lucky
+- sources/marks-2020-calibrating
+- sources/marks-2023-lessons-from-silicon-valley-bank
 related:
 - entities/minh-trinh
 - entities/bodha-bhattacharya
@@ -40,8 +44,8 @@ related:
 - concepts/duration-times-spread
 schema_version: 2
 uuid: 0092a0a6-6f80-5542-b20c-7e6e6246f63f
-content_hash: sha256:bf821240d8602f28b86f60181200821b96410dd0bb423ae983195e6b79df2e0d
-updated_by: op_19ff275ee994
+content_hash: sha256:f84b7dc241f7a6a7e74d8aa624c57f6943e719acdd15e64d2bd2b14eb0513845
+updated_by: op_5167dfe45417
 ---
 
 <!-- AUTHORED REGION START -->
@@ -100,4 +104,8 @@ Despite producing sophisticated quantitative research, Lehman Brothers filed for
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 <!-- AUTHORED REGION END -->

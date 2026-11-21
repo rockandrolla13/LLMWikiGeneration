@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:c8b26c6026bd850099a92f4d70a3db831c79b24ba9c95f34fd7af510edac20b9
+content_hash: sha256:03d5ec2d726dec73c514c45c81e00d76156bb311d9fb3c735ac30ef66dcb6cfc
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-the-limits-to-negativism
@@ -45,7 +45,8 @@ related:
 - sources/marks-2009-touchstones
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2010-warning-flags
-revision_id: 1
+- sources/marks-2016-economic-reality
+revision_id: 2
 schema_version: 2
 source_hash: sha256:d95e860a5417638d30b921046e16a5fbdf22d94410be4d93da233e48dc842520
 source_path: markdown_output/2008-10-15-the-limits-to-negativism.md
@@ -56,8 +57,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Limits to Negativism
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_470b4c005c8f
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_490b064f280e
 uuid: 2500fa0f-5cb0-5b36-96a7-165cf9e91027
 ---
 
@@ -145,6 +146,7 @@ Mid-October 2008, weeks after Lehman Brothers failed. The commercial paper marke
 - Referred to by [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (January 22, 2010)
 - Referred to by [[sources/marks-2010-warning-flags|Warning Flags]] (May 12, 2010)
 - Refers to (no page): October 2008 memo to Opportunities Funds investors (with Bruce Karsh)
+- Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
 
 ## Notes on the Source Text
 

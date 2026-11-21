@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:ec96f092b62e54fbd499ce2610f287cda63d8a4f865496b80141a2459968f1b2
+content_hash: sha256:9a9c5d8ffb676bffd6ba1e7fa992f0d2bb39dab3e3bf87f838d8a2ab036b3876
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/losing-money-vs-missing-opportunity
@@ -12,18 +12,22 @@ related:
 - concepts/risk-vs-volatility
 - concepts/risk-premia
 - concepts/defensive-investing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2009-so-much-thats-false-and-nutty
 - sources/marks-2010-warning-flags
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2020-calibrating
 tags:
 - howard-marks
 title: 'Two Risks: Losing Money vs Missing Opportunity'
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_26483cf5fdc6
 uuid: 99aabc46-f4b5-58c3-9aa0-eaba0dd664d1
 ---
 
@@ -42,6 +46,10 @@ Cited in 9 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
 
 ## Related Concepts
 

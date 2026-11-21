@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:46df174cd58bf221e1f4a0aae7db62ca45ed3e878b9ae4fd8fc4a2e31b3c65c2
+content_hash: sha256:a03af6365351fdb6126137d901eb8f1e81827b95df048b1a7ea3fd1b0c8a4ace
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/asset-bubbles
@@ -12,7 +12,7 @@ related:
 - concepts/low-expected-returns
 - concepts/pendulum-of-investor-psychology
 - concepts/business-cycles
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1996-will-it-be-different-this-time
@@ -28,11 +28,20 @@ sources:
 - sources/marks-2007-its-all-good
 - sources/marks-2009-the-long-view
 - sources/marks-2009-touchstones
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2020-coming-into-focus
+- sources/marks-2021-2020-in-review
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-ai-hurtles-ahead
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - howard-marks
 title: Asset Bubbles
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_45a7f7c08e2c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: c864fbe8-828f-528d-8a2e-e668565da2e1
 ---
 
@@ -60,6 +69,15 @@ Cited in 30 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2007-its-all-good|It's All Good]] (2007)
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

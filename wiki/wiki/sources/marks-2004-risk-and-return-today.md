@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:76525961b40ba8a342e54a03931f0b8eca904456d3e795a8ad7bdc5f1ef1cb01
+content_hash: sha256:49520613e5e9b7356403b418752ebc57f8723acdd17c792fd1f47bb6f410021f
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-risk-and-return-today
@@ -34,7 +34,8 @@ related:
 - sources/marks-2009-the-long-view
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
-revision_id: 2
+- sources/marks-2013-ditto
+revision_id: 3
 schema_version: 2
 source_hash: sha256:e194a0e1bb8e9ca919ea5ce04cac53e0954b873a63076463bf6ab8a41afdeb43
 source_path: markdown_output/2004-10-27-risk-and-return-today.md
@@ -45,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk and Return Today
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1173561154c7
 uuid: 8a950711-6144-535f-b623-17a29a1731a1
 ---
 
@@ -122,6 +123,7 @@ Late 2004. The Fed had held short rates at multi-generational lows ("emergency r
 - Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 - Referred to by [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (May 25, 2011)
+- Referred to by [[sources/marks-2013-ditto|Ditto]] (January 7, 2013)
 
 ## Notes on the Source Text
 

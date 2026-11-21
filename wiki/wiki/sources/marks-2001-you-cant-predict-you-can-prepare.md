@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:3cec217a1af9ab8fd9a39269637984e8409b676288ed6304f9d553605432bb74
+content_hash: sha256:2392cb3b7b5745980a305b7f150e86310263e6d53d733e664b88c50a2f902e20
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2001-you-cant-predict-you-can-prepare
@@ -39,7 +39,8 @@ related:
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-plan-b
 - sources/marks-2010-open-and-shut
-revision_id: 2
+- sources/marks-2024-easy-money
+revision_id: 3
 schema_version: 2
 source_hash: sha256:1f3ca66105e95a043f05ac0b3a74c9520b0f7e5903d755706c9367805d19a065
 source_path: markdown_output/2001-11-20-you-cant-predict-you-can-prepare.md
@@ -50,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: You Can't Predict. You Can Prepare.
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 uuid: 97aecd29-da2f-5f83-950d-b20ee132f333
 ---
 
@@ -132,6 +133,7 @@ November 2001, after the tech bubble burst and the September 11 attacks. The eco
 - Referred to by [[sources/marks-2008-nobody-knows|Nobody Knows]] (September 19, 2008)
 - Referred to by [[sources/marks-2008-plan-b|Plan B]] (September 24, 2008)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
+- Referred to by [[sources/marks-2024-easy-money|Easy Money]] (January 9, 2024)
 
 ## Notes on the Source Text
 

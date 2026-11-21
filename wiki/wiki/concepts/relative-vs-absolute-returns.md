@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:95e50f3c09efeff04015ea45309ad06ad7c1d65ea8f9abc68ce4c003d04b3dfc
+content_hash: sha256:3be1ceb9826388d4c9c1d9bcaa1d44d3d87780e64906f8589a0d4a1a5ad546d1
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/relative-vs-absolute-returns
@@ -12,17 +12,18 @@ related:
 - concepts/alternative-histories
 - concepts/survivorship-bias
 - concepts/luck-vs-skill
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
 - sources/marks-2004-us-and-them
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2025-a-look-under-the-hood
 tags:
 - howard-marks
 title: Relative vs Absolute Returns
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_564e135c3d91
 uuid: 03291616-5893-53ba-a1b0-0822c0a1bfd6
 ---
 
@@ -40,6 +41,7 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1990-the-route-to-performance|The Route to Performance]] (1990)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
 
 ## Related Concepts
 

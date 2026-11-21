@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:8fb9c081be83e8865bb05e3366e31e36d277dd445f7e8f0aa3767aaa1f8be21b
+content_hash: sha256:bab0c4a0807de6b5c553a71918e4b64e75dcef3e096316d347fbe8bbea14309a
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/deep-learning-for-finance
 page_type: concept
 related:
 - concepts/automated-alpha-search
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
@@ -79,14 +79,16 @@ sources:
 - sources/zhang-2021-multi-horizon-forecasting-limit-order-books
 - sources/zhao-2026-novel-trading-algorithms-augmented-intrinsic-time
 - sources/zheng-2022-order-flow-technical-analysis-neural-network
+- sources/marks-2018-investing-without-people
 tags:
 - machine-learning
 - deep-learning
 - asset-pricing
 - return-prediction
 title: Deep Learning for Finance
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-11-21T02:40:24Z'
 uuid: cc8ca8f6-5bb4-5f2c-b761-5347359179eb
+updated_by: op_005ee79cd36a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -97,6 +99,10 @@ uuid: cc8ca8f6-5bb4-5f2c-b761-5347359179eb
 ## Sources
 
 - [[sources/cotturo-2026-multifactor-timing-deep-learning|Multifactor Timing with Deep Learning (2026)]] — central; the DMT architecture combining macro and financial LSTMs with multitask heads is the paper's central contribution
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 
 ## Related Concepts
 

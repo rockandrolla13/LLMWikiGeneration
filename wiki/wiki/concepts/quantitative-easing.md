@@ -18,7 +18,7 @@ related:
 - concepts/regime-switching-models
 - concepts/sovereign-debt-crisis
 - concepts/term-structure-risk-premium
-revision_id: 3
+revision_id: 4
 sources:
 - sources/lancaster-2021-fed-up
 - sources/ms-2009-11-12-us-rate-strategist
@@ -49,13 +49,22 @@ sources:
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2010-open-and-shut
 - sources/marks-2010-all-that-glitters
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2013-ditto
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2013-the-race-is-on
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2016-economic-reality
+- sources/marks-2020-knowledge-of-the-future
+- sources/marks-2020-coming-into-focus
+- sources/marks-2021-2020-in-review
 tags: []
 title: Quantitative Easing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_e28e3a15c822
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3179190e30a9
 schema_version: 2
 uuid: 88ca75d4-25e6-5b90-8f8f-bbe59dd86a12
-content_hash: sha256:86074de0dd9bb08ecd8810472ca810db11c435ef1f3fc462c14812caa9790fc0
+content_hash: sha256:ef34e313af79e1fa0de18620f76db9241ed36f9763f79c0cead35e9e78ff21b5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -78,6 +87,15 @@ Central-bank purchases of bonds (and, in crisis, credit) plus repo operations to
 - [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2010-all-that-glitters|All That Glitters]] (2010)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 
 ## Related Concepts
 

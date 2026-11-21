@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:b998c7c2734a9495874e28a173b14d662a726110743c93cfed42c968ccc7e47f
+content_hash: sha256:9e274b5cc51f75b4b6f06f96d6f9cc6c4dbaf281746ab5adc922303bcba92c05
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/credit-default-swaps
@@ -8,7 +8,7 @@ related:
 - concepts/credit-default-swap-spread
 - concepts/cds-bond-basis
 - concepts/hazard-rate-curve
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/shi-2022-cds-options-comovement
@@ -27,6 +27,7 @@ sources:
 - sources/marks-2008-the-aviary
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-plan-b
+- sources/marks-2015-liquidity
 tags:
 - credit-default-swaps
 - credit-derivatives
@@ -34,8 +35,8 @@ tags:
 - CDS
 - hazard-rate
 title: Credit Default Swaps
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_f506432cc7df
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_abfa3ebd137a
 uuid: 56ee8e83-6a37-510a-a70d-61057edd1005
 ---
 
@@ -92,4 +93,5 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
 <!-- AUTHORED REGION END -->

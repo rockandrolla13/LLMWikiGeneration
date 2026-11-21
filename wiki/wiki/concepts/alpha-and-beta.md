@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:354dfce202e60c91a3d28a192a137076264a8f3e162efc8026ddd94239eab0c3
+content_hash: sha256:23b3cc0218ec3e0bc008aa90e0adf3b10ddcbd0365fe2e48f134b53445f1bb02
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/alpha-and-beta
@@ -12,7 +12,7 @@ related:
 - concepts/efficient-market-hypothesis
 - concepts/index-reconstitution
 - concepts/low-expected-returns
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2001-safety-first-but-where
@@ -20,11 +20,15 @@ sources:
 - sources/marks-2002-quo-vadis
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2015-its-not-easy
+- sources/marks-2018-investing-without-people
+- sources/marks-2021-2020-in-review
 tags:
 - howard-marks
 title: Alpha and Beta
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_cc075526da31
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3179190e30a9
 uuid: 77b16a37-3c4a-5db6-bb0a-eb3a3173b8e5
 ---
 
@@ -44,6 +48,10 @@ Cited in 12 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 - [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 
 ## Related Concepts
 

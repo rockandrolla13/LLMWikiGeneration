@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:0267bd7028e6b0c0972d1b10603c347e467184877048e8869eb3a61fe5fd956f
+content_hash: sha256:d65c95f76ce6714f485f4ce8691f13e66bd8ad26bdedb27f973ffc30bb2b7f2d
 created: 2026-05-06 23:35:00+00:00
 mind_map_priority: medium
 page_id: concepts/index-reconstitution
@@ -7,13 +7,15 @@ page_type: concept
 related:
 - concepts/etf-flows
 - concepts/flow-decomposition
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/chao-2019-etf-flows-prices
 - sources/optiver-2025-corporate-bond-etf-contraflow
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/marks-2001-safety-first-but-where
+- sources/marks-2018-investing-without-people
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - etf
 - index-investing
@@ -21,8 +23,8 @@ tags:
 - price-impact
 - russell-reconstitution
 title: Index Reconstitution
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_874dd5e7eac0
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 6e36961f-58a0-50e1-bd20-9a0b05dfb194
 ---
 
@@ -92,4 +94,6 @@ When a security is **deleted** from an index:
 ## In Howard Marks's Memos
 
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 <!-- AUTHORED REGION END -->

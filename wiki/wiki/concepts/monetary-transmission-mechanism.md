@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/great-moderation
 - concepts/quantitative-tightening
-revision_id: 2
+revision_id: 3
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
+- sources/marks-2016-economic-reality
 tags: []
 title: Monetary Transmission Mechanism
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_490b064f280e
 schema_version: 2
 uuid: 6c150d32-d5c5-5d16-acba-8afe531119c6
-content_hash: sha256:6c6ebd0747fdb58125e2d42de280fad8508a63fd3ed355f2d184aff6e3adac41
+content_hash: sha256:e3f6d916aab71f231efdc5e769609b28a76e8858474ebea9a466a5e87aa2e957
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +32,10 @@ The process through which central-bank policy affects the economy via multiple c
 ## Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
 
 ## Related Concepts
 

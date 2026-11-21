@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:8290710b82b26dcd4d9a591dbd929c750e0da5f5caa123280e246496a28153a4
+content_hash: sha256:3745725c70344205c23736a3c741516ae4e646d2fb22585de67c122e23c640f2
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-now-its-all-bad
@@ -45,7 +45,8 @@ related:
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2000-investment-miscellany
 - sources/marks-2008-doesnt-make-sense
-revision_id: 1
+- sources/marks-2013-the-role-of-confidence
+revision_id: 2
 schema_version: 2
 source_hash: sha256:a4ee6850a75f2ed0a3afb16d52ff4f840a0644cf09c98591f50d2e8dd5258592
 source_path: markdown_output/2007-09-10-now-its-all-bad.md
@@ -56,8 +57,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Now It’s All Bad?
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_9af1f34bc0c6
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_cbff77cedec5
 uuid: 9de9ed31-0434-562f-9556-f93ee17de6c3
 ---
 
@@ -144,6 +145,7 @@ Summer 2007, the start of the global financial crisis: rising subprime delinquen
 - Refers to [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Refers to [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (November 16, 2000)
 - Referred to by [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (July 31, 2008)
+- Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
 
 ## Notes on the Source Text
 

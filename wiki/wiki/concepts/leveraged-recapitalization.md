@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:ca74153416ba9175029f85d0f1fb614292a7b95f1162ba830056f9975f9303e5
+content_hash: sha256:ea6f4cabb5ac94fd0cbd1fb767492387268886f36d6dc2369d03097b6acd0e18
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leveraged-recapitalization
@@ -8,7 +8,7 @@ related:
 - concepts/lbo-risk
 - concepts/event-risk
 - concepts/lever-score
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
@@ -23,14 +23,15 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2013-the-race-is-on
 tags:
 - event-risk
 - LBO
 - corporate-credit
 - creditETF
 title: Leveraged Recapitalization
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1a21f47b0139
 uuid: e8811b33-11c1-5036-9ff5-ba3758f8e811
 ---
 
@@ -75,4 +76,5 @@ Because the driver is the same, the same screen applies. A firm becomes an attra
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
 <!-- AUTHORED REGION END -->

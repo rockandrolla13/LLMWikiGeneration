@@ -9,19 +9,22 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/calibration
-revision_id: 2
+revision_id: 3
 sources:
 - sources/mauboussin-2026-bayes-base-rates
 - sources/marks-1993-the-value-of-predictions
 - sources/marks-1996-the-value-of-predictions-ii
 - sources/marks-2003-whad-ya-know
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2017-expert-opinion
+- sources/marks-2022-the-illusion-of-knowledge
 tags: []
 title: Superforecasting
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_2d6d51cf93e3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 schema_version: 2
 uuid: 2fd35d31-6b64-5769-8eae-5ce08b48db35
-content_hash: sha256:e9dde9c95d5140ded714029428241d8e71dd9c1553b514da079fa672ac2f9926
+content_hash: sha256:ff683ee5eb44138581e5082572f9ba4444d9caf893350a31c32532354905e395
 ---
 
 <!-- AUTHORED REGION START -->
@@ -45,4 +48,7 @@ The Good Judgment Project finding that a small fraction of forecasters make cons
 - [[sources/marks-1993-the-value-of-predictions|The Value of Predictions, or Where'd All This Rain Come From?]] (1993)
 - [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->

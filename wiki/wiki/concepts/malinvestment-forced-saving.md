@@ -8,16 +8,20 @@ page_id: concepts/malinvestment-forced-saving
 page_type: concept
 related:
 - concepts/bubble-detection
-revision_id: 1
+revision_id: 2
 sources:
 - sources/huertadesoto-2006-money-bank-credit
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2024-easy-money
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2026-ai-hurtles-ahead
 tags: []
 title: Malinvestment and Forced Saving
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_fc1f499ba779
 schema_version: 2
 uuid: 2fea0c01-9eb5-5b60-8568-61bf3cd3925c
-content_hash: sha256:1053888aee860db5c51b819b9a520db6ede6ef88291e63410afe4a4629eb8004
+content_hash: sha256:123afd2a975a628810c49029ea0740be17330fd33d98b2fd1bc2e56dcbb8f5ef
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +34,13 @@ Misallocation of capital into projects made profitable only by artificially low 
 ## Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 
 ## Related Concepts
 

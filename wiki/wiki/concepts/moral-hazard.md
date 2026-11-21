@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:982de84f6a2a9d2b27717b0ed223756a81d3caac322c1bf28586487a0d4c92f7
+content_hash: sha256:b763185926c12d075e463548174309a56c4d01b9fa4e0e10e47c06c8a0d07dae
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/moral-hazard
@@ -12,7 +12,7 @@ related:
 - concepts/lender-of-last-resort
 - concepts/quantitative-easing
 - concepts/regulatory-pendulum
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2007-the-race-to-the-bottom
@@ -26,11 +26,14 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2011-on-regulation
+- sources/marks-2020-knowledge-of-the-future
+- sources/marks-2020-coming-into-focus
+- sources/marks-2023-lessons-from-silicon-valley-bank
 tags:
 - howard-marks
 title: Moral Hazard
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_670d900bbdbf
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 uuid: 1e92f103-d60e-5f46-80e6-2b6600d21fbf
 ---
 
@@ -56,6 +59,9 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 
 ## Related Concepts
 

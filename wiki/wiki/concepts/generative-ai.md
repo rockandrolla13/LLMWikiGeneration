@@ -7,18 +7,19 @@ related:
 - concepts/ai-capex-funding
 - concepts/ai-disruption-software-business-models
 - concepts/transformers
-revision_id: 2
+revision_id: 3
 sources:
 - sources/thomas-2025-ai-value-creators
+- sources/marks-2026-ai-hurtles-ahead
 tags:
 - ai-engineering
 - transformers
 title: Generative AI
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_fc1f499ba779
 schema_version: 2
 uuid: 9e4a65de-7758-5a28-9b8c-d3c1a1328293
-content_hash: sha256:cc94d63bbf451da334d11de387f07fc65b9ab8585667d052f1528d4ca9495b37
+content_hash: sha256:bf427f4080de03df99bff29485b616356a308309cc03ea7189de1327328a43f1
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +32,10 @@ AI systems built on large language and multimodal models that produce new conten
 ## Sources
 
 - [[sources/thomas-2025-ai-value-creators|AI Value Creators]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 
 ## Related Concepts
 

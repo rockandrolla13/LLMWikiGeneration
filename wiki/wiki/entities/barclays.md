@@ -1,21 +1,22 @@
 ---
-content_hash: sha256:b809f40ad61a3b7a74ae42dd45f69e46b9f8bd14dbbe492f138d0eee7f6429dd
+content_hash: sha256:509d5c814fbffca025e70132f6a90f855a67e17987a36bf0715ca73f7482e0e7
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/barclays
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2011-on-regulation
+- sources/marks-2025-gimme-credit
 tags:
 - bank
 - howard-marks-memos
 title: Barclays
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_670d900bbdbf
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7acf652407bd
 uuid: 0130892c-485b-5625-a7e0-a8b2c1c2f2e5
 ---
 
@@ -34,4 +35,5 @@ Context from the memos:
 ## Appearances in Howard Marks's Memos
 
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 <!-- AUTHORED REGION END -->

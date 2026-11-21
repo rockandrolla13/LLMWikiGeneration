@@ -7,16 +7,17 @@ mind_map_priority: medium
 page_id: concepts/unreality-of-the-future
 page_type: concept
 related: []
-revision_id: 1
+revision_id: 2
 sources:
 - sources/tooley-1997-time-tense-causation
+- sources/marks-2020-knowledge-of-the-future
 tags: []
 title: Growing-Block / Unreality of the Future
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e5b8cb112cd
 schema_version: 2
 uuid: a5940008-ea7a-5db0-bacb-e03fe4cdd61d
-content_hash: sha256:7c2d2d9407fa1076e5d0c569a44f1ddcb512cb618d51652180db1bccbb16ce61
+content_hash: sha256:1a73a597c4315bb5237eff4bcad98d6462dc72747c98b3474de8541e9693225e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,4 +30,8 @@ The thesis that past and present are real but the future is not, so the totality
 ## Sources
 
 - [[sources/tooley-1997-time-tense-causation|Time, Tense, and Causation]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
 <!-- AUTHORED REGION END -->

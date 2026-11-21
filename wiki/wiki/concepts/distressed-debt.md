@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:59c93a9f02ca39b489c5241c05bd52cc7f880d80e79baf0db4d0c97127fa75ad
+content_hash: sha256:320bfcbe4ea9a3df0801a0ff6537163298d6a75c8b249050c02e1f7a40532846
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/distressed-debt
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/contrarian-market-timing
 - concepts/contrarian-investing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -36,11 +36,20 @@ sources:
 - sources/marks-2008-now-what
 - sources/marks-2009-will-it-work
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2015-liquidity
+- sources/marks-2020-calibrating
+- sources/marks-2021-2020-in-review
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - howard-marks
 title: Distressed Debt Investing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 9e67516d-b484-5d63-a8d6-9acee3e0b878
 ---
 
@@ -76,6 +85,15 @@ Cited in 36 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-now-what|Now What?]] (2008)
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

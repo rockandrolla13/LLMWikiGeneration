@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/global-tactical-asset-allocation
 - concepts/minimum-variance-portfolio
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ms-2020-03-20-risk-parity-deleveraging
+- sources/marks-2013-the-role-of-confidence
 tags: []
 title: Risk Parity
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_cbff77cedec5
 schema_version: 2
 uuid: 4942b85e-0d3d-53ac-93e1-f742cfa68d4a
-content_hash: sha256:64b4b04b68b4843bac1b3fa9426527860d693ca9bb4242e3206fb6269b3171ae
+content_hash: sha256:724bea06cd5c9c5c68956bc31355513b2438539cf58eeb4b3203d063d4837ed0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +32,10 @@ A portfolio construction approach allocating risk equally across assets, often u
 ## Sources
 
 - [[sources/ms-2020-03-20-risk-parity-deleveraging|Cross-Asset Brief: Risk Parity — Worst Behind Us]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
 
 ## Related Concepts
 

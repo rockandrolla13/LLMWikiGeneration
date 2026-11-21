@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/sovereign-debt-crisis
-revision_id: 2
+revision_id: 3
 sources:
 - sources/schofield-2019-citi-macro-views
 - sources/marks-2008-what-worries-me
@@ -20,13 +20,16 @@ sources:
 - sources/marks-2011-down-to-the-wire
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2011-its-all-very-taxing
+- sources/marks-2012-a-fresh-start-hopefully
+- sources/marks-2016-implications-of-the-election
+- sources/marks-2026-a-layman-thinks-about-ai
 tags: []
 title: Sovereign Debt Sustainability
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_8d15ae0b087d
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 schema_version: 2
 uuid: 8e83b7e7-39a2-5b3f-9c0d-323b563bdd28
-content_hash: sha256:932ec8f2a0a53e9cbd186285ca734723887676275cba0d7c3237b432e1ad2b26
+content_hash: sha256:fcf7baf9ac566babcc86d2fc18d3bcd3ed7c480a3f746cbaa04b2c2a8242c2d0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -50,6 +53,9 @@ The capacity of governments to service rising public debt; public debt has risen
 - [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
+- [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
+- [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

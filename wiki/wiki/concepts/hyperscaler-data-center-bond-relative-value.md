@@ -10,16 +10,18 @@ related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
 - concepts/spread-per-turn-of-leverage
-revision_id: 1
+revision_id: 2
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-a-layman-thinks-about-ai
 tags: []
 title: Hyperscaler-Data Center Bond Relative Value
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 schema_version: 2
 uuid: c71ad500-23bd-554e-b092-8f7d9b3a70bf
-content_hash: sha256:d7e503df2e31042c4e5270e7b3076017fb268da33d92a5444dfd8922f1e5a67a
+content_hash: sha256:dd4f4afa18926191d222ed7f8d98088802cb35b35dfc4afdc78d16f63fd8debe
 ---
 
 <!-- AUTHORED REGION START -->
@@ -32,6 +34,11 @@ A framework pairing each data-center or HPC project bond against the bonds of it
 ## Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

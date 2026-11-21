@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:e17703db972805d662861172638b05b8c321b4dca5f2495b6b0da7f2959d2e6d
+content_hash: sha256:45c9a0112033e78d29a52ac673b510fc0edc8fb8edd716004832ab6a854cd656
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/high-yield-bonds
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/efficient-market-hypothesis
 - concepts/contrarian-market-timing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -32,11 +32,21 @@ sources:
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2013-ditto
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2020-calibrating
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags:
 - howard-marks
 title: High Yield Bonds
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: 69dc6102-cf79-5873-9a76-608c78fae605
 ---
 
@@ -68,6 +78,16 @@ Cited in 33 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 
 ## Related Concepts
 

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:eeb5463a58e74ffddbd4acbde00839682dd3defb63049ac25b83fbb9727ba9ce
+content_hash: sha256:25c6bcb336a022c3cb22c28565a33f2ac20e1c1db09aac80c3941e0e849e741e
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 8
+revision_id: 9
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -55,14 +55,21 @@ sources:
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-plan-b
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-liquidity
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2015-its-not-easy
+- sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2025-a-look-under-the-hood
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_564e135c3d91
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -141,4 +148,11 @@ Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms
 - [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
 <!-- AUTHORED REGION END -->

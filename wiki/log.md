@@ -575,3 +575,255 @@ Operation ID: op_0e59657812a3
 Contradiction check for Howard Marks memos, chunk 2. Found one new direct conflict: Marks says models are of very limited use in measuring investment risk at the extremes, while the Extreme Value Theory page says EVT gives accurate estimation in the tails. Also added *Risk* (2006) as evidence to the existing risk-versus-volatility contradiction. Created 1 page, updated 3.
 
 Operation ID: op_5b3739af413f
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Are You An Investor or a Speculator?* (September 3, 1997) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 18.
+
+Operation ID: op_d0083c9c6727
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *It’s All a Big Mistake* (June 20, 2012) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 20.
+
+Operation ID: op_337cea410c0a
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *On Uncertain Ground* (September 11, 2012) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 24.
+
+Operation ID: op_7d464c3b5ebd
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *A Fresh Start (Hopefully)* (November 19, 2012) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 12.
+
+Operation ID: op_f3866d9ef80e
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Ditto* (January 7, 2013) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_1173561154c7
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *High Yield Bonds Today* (February 21, 2013) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 14.
+
+Operation ID: op_e2236e7c9bf5
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *The Outlook for Equities* (March 13, 2013) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 15.
+
+Operation ID: op_7e8447d5b5b5
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *The Role of Confidence* (August 5, 2013) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 28.
+
+Operation ID: op_cbff77cedec5
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *The Race Is On* (November 26, 2013) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_1a21f47b0139
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Getting Lucky* (January 16, 2014) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_519f5c53ebf1
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Dare to Be Great II* (April 8, 2014) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 22.
+
+Operation ID: op_12d9ba7a7279
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Risk Revisited* (September 3, 2014) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 31.
+
+Operation ID: op_328296cb8f15
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *The Lessons of Oil* (December 18, 2014) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_2e030528c3d4
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Liquidity* (March 25, 2015) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_abfa3ebd137a
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Risk Revisited Again* (June 8, 2015) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 35.
+
+Operation ID: op_51a8e80ae3c5
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *It's Not Easy* (September 9, 2015) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_a32c28b9135a
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Inspiration from the World of Sports* (October 22, 2015) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_1dd52f7f33d3
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Economic Reality* (May 26, 2016) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 21.
+
+Operation ID: op_490b064f280e
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Implications of the Election* (November 7, 2016) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 17.
+
+Operation ID: op_61fcf8d656a3
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Go Figure!* (November 14, 2016) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 18.
+
+Operation ID: op_1d54838b117b
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Expert Opinion* (January 10, 2017) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 24.
+
+Operation ID: op_104a4deb2caa
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Latest Thinking* (January 23, 2018) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 15.
+
+Operation ID: op_5b5f68c843c8
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Investing Without People* (June 18, 2018) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 24.
+
+Operation ID: op_005ee79cd36a
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Growing the Pie* (April 1, 2019) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 11.
+
+Operation ID: op_40cb2493f665
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Calibrating* (April 6, 2020) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 20.
+
+Operation ID: op_26483cf5fdc6
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Knowledge of the Future* (April 14, 2020) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 18.
+
+Operation ID: op_3e5b8cb112cd
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Coming into Focus* (October 13, 2020) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 28.
+
+Operation ID: op_5ebf1dc75f95
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *2020 in Review* (March 4, 2021) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_3179190e30a9
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Bull Market Rhymes* (May 26, 2022) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_508b5db898e6
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *I Beg to Differ* (July 26, 2022) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 21.
+
+Operation ID: op_d4bb6d5237ea
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *The Illusion of Knowledge* (September 8, 2022) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 24.
+
+Operation ID: op_bff3bcb6b3ea
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Lessons from Silicon Valley Bank* (April 17, 2023) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 29.
+
+Operation ID: op_5167dfe45417
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Fewer Losers, or More Winners?* (September 12, 2023) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_ba45bcb8afe3
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Further Thoughts on Sea Change* (October 11, 2023) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 20.
+
+Operation ID: op_55c9ccd665f7
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Easy Money* (January 9, 2024) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 23.
+
+Operation ID: op_8fbe6f097537
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Gimme Credit* (March 6, 2025) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 19.
+
+Operation ID: op_7acf652407bd
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *A Look Under the Hood* (October 28, 2025) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 11.
+
+Operation ID: op_564e135c3d91
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Cockroaches in the Coal Mine* (November 6, 2025) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 22.
+
+Operation ID: op_331e2472d3a9
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *Is It a Bubble?* (December 9, 2025) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 28.
+
+Operation ID: op_ad8fe77d6eb0
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *AI Hurtles Ahead* (February 26, 2026) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 22.
+
+Operation ID: op_fc1f499ba779
+
+## 2026-11-21T02:40:24Z ingest
+
+Ingested the Howard Marks memo *A Layman Thinks About AI* (November 11, 2026) from `raw/howard-marks-memos/`, chunk 3 of 4. Created 1 page, updated 26.
+
+Operation ID: op_3e1914b14a40
+
+## 2026-11-21T02:40:26Z update
+
+Contradiction check for Howard Marks memos, chunk 3. Found no new direct conflict with existing non-Marks concept pages. Added *Risk Revisited* (2014) and *Risk Revisited Again* (2015) as evidence to the existing risk-versus-volatility contradiction, including Marks's concession that volatility is one form of risk. Created 0 pages, updated 1.
+
+Operation ID: op_ff0a8146276c

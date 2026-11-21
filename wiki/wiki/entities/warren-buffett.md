@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/warren-buffett
 page_type: entity
 related: []
-revision_id: 3
+revision_id: 4
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/marks-1994-random-thoughts-identification-investment-opportunities
@@ -55,13 +55,36 @@ sources:
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2011-its-all-very-taxing
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2013-ditto
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2013-the-race-is-on
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-liquidity
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2015-its-not-easy
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2017-expert-opinion
+- sources/marks-2018-latest-thinking
+- sources/marks-2020-calibrating
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-a-look-under-the-hood
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-a-layman-thinks-about-ai
 tags: []
 title: Warren Buffett
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 schema_version: 2
 uuid: 2e9fdb00-c846-5b95-bf0c-b2952894bae6
-content_hash: sha256:8ee0290066c4597fad28860173993c3fbb9b5153eb4c4fe523f6e5186d920863
+content_hash: sha256:cc2a68295393b2fe2aecc8c465ffbd816b33973dd7a43c4d6c2f4ca202833e93
 ---
 
 <!-- AUTHORED REGION START -->
@@ -121,4 +144,27 @@ content_hash: sha256:8ee0290066c4597fad28860173993c3fbb9b5153eb4c4fe523f6e5186d9
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 <!-- AUTHORED REGION END -->

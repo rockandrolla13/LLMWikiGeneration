@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:3c60535d5b4c392469daf31c58fe9f5153be69a468fbe3cc2dea11d3a4e576ef
+content_hash: sha256:40ff188f90563da9729df99d6ee38053963bb22d5b1e0751b9e8bc01bfe0992a
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,7 +10,7 @@ page_type: concept
 related:
 - concepts/liquidity-risk
 - concepts/statistical-arbitrage
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/kapadia-2012-limited-arbitrage-equity-credit
@@ -18,10 +18,11 @@ sources:
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/israel-2017-common-factors-corporate-bond-returns
 - sources/whitman-2009-distress-investing
+- sources/marks-2012-its-all-a-big-mistake
 tags: []
 title: Limits to Arbitrage
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_337cea410c0a
 uuid: 57af9647-c416-560e-9d07-fb746bcf81bb
 ---
 
@@ -39,6 +40,10 @@ Frictions - funding constraints, market illiquidity, idiosyncratic-risk exposure
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/kapadia-2012-limited-arbitrage-equity-credit|Limited arbitrage between equity and credit markets]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
 
 ## Related Concepts
 

@@ -7,7 +7,7 @@ mind_map_priority: medium
 page_id: concepts/risk-taking-channel
 page_type: concept
 related: []
-revision_id: 2
+revision_id: 3
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
 - sources/marks-2007-now-its-all-bad
@@ -15,13 +15,18 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2013-ditto
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2020-coming-into-focus
+- sources/marks-2024-easy-money
 tags: []
 title: Risk-Taking Channel of Monetary Policy
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 schema_version: 2
 uuid: bb85ed81-fd01-58a5-b206-9ac468572dff
-content_hash: sha256:8e1c82012092b8ca4285a13d4cc31b2eec079ded49af162d5ed76989ebf1169a
+content_hash: sha256:4d29283f7557e4652838d072cec1f9ee9bfc2a3574f5eda782d38e8b2c283d23
 ---
 
 <!-- AUTHORED REGION START -->
@@ -42,4 +47,9 @@ The channel operating through changes in agents' perception and pricing of risk;
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
 <!-- AUTHORED REGION END -->

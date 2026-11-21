@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e7dfd282189948952a143aa54fdafb2f9663155459765c984ddb5a61850e7d83
+content_hash: sha256:25abb9cfd285f58556e86011afe169ceb57945ae2bc12206efca3d0abfa7bb43
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,7 +44,7 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
@@ -95,13 +95,17 @@ sources:
 - sources/marks-2001-safety-first-but-where
 - sources/marks-2003-whats-going-on
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2025-gimme-credit
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7acf652407bd
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 ---
 
@@ -140,4 +144,8 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 <!-- AUTHORED REGION END -->

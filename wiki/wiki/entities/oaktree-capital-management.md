@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:44e85610aa76786b93df166141b6881926fea616e9b3db856f9ddc959bb5859a
+content_hash: sha256:69898429b2ae1c5efa60a81fac8819bf8a875bf8387ecc561db16763478ead12
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/oaktree-capital-management
@@ -7,7 +7,7 @@ page_type: entity
 related:
 - entities/howard-marks
 - entities/tcw
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -91,12 +91,53 @@ sources:
 - sources/marks-2011-its-all-very-taxing
 - sources/marks-2012-what-can-we-do-for-you
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2012-a-fresh-start-hopefully
+- sources/marks-2013-ditto
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2013-the-race-is-on
+- sources/marks-2014-getting-lucky
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-risk-revisited
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2015-liquidity
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2015-its-not-easy
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2016-economic-reality
+- sources/marks-2016-implications-of-the-election
+- sources/marks-2016-go-figure
+- sources/marks-2017-expert-opinion
+- sources/marks-2018-latest-thinking
+- sources/marks-2018-investing-without-people
+- sources/marks-2019-growing-the-pie
+- sources/marks-2020-calibrating
+- sources/marks-2020-knowledge-of-the-future
+- sources/marks-2020-coming-into-focus
+- sources/marks-2021-2020-in-review
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2022-i-beg-to-differ
+- sources/marks-2022-the-illusion-of-knowledge
+- sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2024-easy-money
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-a-look-under-the-hood
+- sources/marks-2025-cockroaches-in-the-coal-mine
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-ai-hurtles-ahead
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - investment-firm
 - howard-marks-memos
 title: Oaktree Capital Management
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: 0d1c875d-0cbd-5f6c-b89c-39b7f8c079d4
 ---
 
@@ -190,4 +231,45 @@ Investment firm whose clients receive Howard Marks's memos; the memo archive is 
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
+- [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2019-growing-the-pie|Growing the Pie]] (2019)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2020-knowledge-of-the-future|Knowledge of the Future]] (2020)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 <!-- AUTHORED REGION END -->

@@ -23,7 +23,7 @@ related:
 - concepts/strategy-robustness
 - concepts/taarss
 - concepts/trend-following
-revision_id: 5
+revision_id: 6
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2018-04-16-credit-bmi-update
@@ -53,16 +53,25 @@ sources:
 - sources/marks-2003-the-feelings-mutual
 - sources/marks-2005-oaktree-at-ten
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2016-go-figure
+- sources/marks-2018-latest-thinking
+- sources/marks-2020-calibrating
+- sources/marks-2021-2020-in-review
+- sources/marks-2022-i-beg-to-differ
 tags:
 - trading-strategy
 - directional-forecasting
 - merton
 title: Market Timing
-updated: '2026-11-21T02:33:09Z'
+updated: '2026-11-21T02:40:24Z'
 schema_version: 2
 uuid: 0e533488-1d4f-5d11-88f1-e5ee03e01fad
-content_hash: sha256:a46e35f1ecf1a76074064d1ebe690704892b97e6235eced948908908b640a66e
-updated_by: op_19ff275ee994
+content_hash: sha256:53368ea534812d3b0be1e75b4f35a2247729cf9c9ca63deacf6c22004a16314b
+updated_by: op_d4bb6d5237ea
 ---
 
 <!-- AUTHORED REGION START -->
@@ -115,4 +124,13 @@ Now also discussed in: [[sources/db-2019-03-15-european-equity-strategy-growth-m
 - [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 <!-- AUTHORED REGION END -->

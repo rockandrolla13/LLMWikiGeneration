@@ -16,7 +16,7 @@ related:
 - concepts/quantitative-easing
 - concepts/sovereign-debt-sustainability
 - concepts/twin-crises
-revision_id: 4
+revision_id: 5
 sources:
 - sources/boffelli-2017-euro-bond-spread-correlations
 - sources/ms-2010-09-15-em-quantitative-quarterly
@@ -29,16 +29,20 @@ sources:
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2011-its-all-very-taxing
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2012-a-fresh-start-hopefully
+- sources/marks-2016-economic-reality
 tags:
 - sovereign-debt
 - european-crisis
 - fiscal-stress
 title: Sovereign Debt Crisis
-updated: '2026-11-21T02:33:09Z'
+updated: '2026-11-21T02:40:24Z'
 schema_version: 2
 uuid: 1a33c3c3-1bc1-5039-b7df-e2c553ba8e7a
-content_hash: sha256:44695a869ca57a782193e980127d471340e63b9e3d25f685193098d69d0dc884
-updated_by: op_19ff275ee994
+content_hash: sha256:5394ba1356a23ba2484b53d835a8e371cdb5abac02aca61fd27991c7371054f9
+updated_by: op_490b064f280e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -58,6 +62,10 @@ updated_by: op_19ff275ee994
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
+- [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
 
 ## Related Concepts
 

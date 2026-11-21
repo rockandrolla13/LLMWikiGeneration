@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:833228b5f54474f57fa0b186f72144274f6d821b0472046ac29a5cdc45e88e65
+content_hash: sha256:2e5d1a153966f15e5cf84e02c991ede5786d419b07183e898c90cd93cffd10ef
 created: '2026-10-22T21:10:31Z'
 page_id: concepts/high-yield-covenants
 page_type: concept
@@ -10,7 +10,7 @@ related:
 - concepts/lbo-risk
 - concepts/leveraged-recapitalization
 - concepts/leverage-ratios
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
@@ -23,10 +23,15 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2010-open-and-shut
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2013-the-race-is-on
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2018-investing-without-people
+- sources/marks-2022-bull-market-rhymes
 tags: []
 title: High-Yield Covenants
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_508b5db898e6
 uuid: 7ffd0244-0a37-52de-be35-2fe9e7f2c64a
 ---
 
@@ -59,4 +64,9 @@ The rules in a bond indenture or loan agreement that limit what a leveraged issu
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 <!-- AUTHORED REGION END -->

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:0e32312fc371bb36381ce371ac093764175749f5383dd61feeba80bec6c55a19
+content_hash: sha256:29c65466b79eca9a186e3f42070441bd82c95098ea418704568012d94895a201
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/lbo-risk
 page_type: concept
@@ -9,7 +9,7 @@ related:
 - concepts/lever-score
 - concepts/leveraged-recapitalization
 - concepts/private-credit
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
@@ -28,14 +28,15 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2010-warning-flags
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2013-the-race-is-on
 tags:
 - creditETF
 - event-risk
 - LBO
 - corporate-credit
 title: LBO Risk
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1a21f47b0139
 uuid: ec337d61-a180-5719-ac3d-59ce16d596f1
 ---
 
@@ -147,4 +148,5 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
 <!-- AUTHORED REGION END -->

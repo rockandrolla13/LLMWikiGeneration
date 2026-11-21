@@ -10,7 +10,7 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/value-at-risk
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1991-first-quarter-performance
@@ -38,13 +38,19 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-hemlines
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2015-its-not-easy
+- sources/marks-2020-calibrating
+- sources/marks-2022-i-beg-to-differ
 tags: []
 title: Contrarian Market Timing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d4bb6d5237ea
 schema_version: 2
 uuid: edc4c7b2-8680-5df3-a3bb-b328fe6315b3
-content_hash: sha256:a6deaab42355145c69e4bae58700958dcad961ca6964f708e1abab08562bbd07
+content_hash: sha256:97290d101019fc2c2ad3ea12f114caee9cf03c48a3841244600679b4ea983642
 ---
 
 <!-- AUTHORED REGION START -->
@@ -91,4 +97,10 @@ Tactical adjustment of medium-term exposure based on valuation signals; valuatio
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 <!-- AUTHORED REGION END -->

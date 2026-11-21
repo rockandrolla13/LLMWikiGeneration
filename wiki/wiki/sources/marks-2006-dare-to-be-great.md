@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a97d5f72cd39a589f32bf1803333fa13afb4385457402799cf1adf3ffea006ee
+content_hash: sha256:2006a8084a9bedb62832c393f926e64255c9c8723f2f473b49f8d5b031cd18a9
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2006-dare-to-be-great
@@ -32,7 +32,13 @@ related:
 - entities/william-sharpe
 - sources/marks-2006-the-new-paradigm
 - sources/marks-2007-everyone-knows
-revision_id: 1
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2015-its-not-easy
+- sources/marks-2018-investing-without-people
+- sources/marks-2022-i-beg-to-differ
+revision_id: 2
 schema_version: 2
 source_hash: sha256:403fdb10931fcb7a80e9f7a8e5120dce3b1cd659ce50e2688e2f26e28de33507
 source_path: markdown_output/2006-09-07-dare-to-be-great.md
@@ -43,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Dare to Be Great
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_e00ef076e356
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d4bb6d5237ea
 uuid: 0e06fad3-5fe5-5fcf-97b1-b0b7bbbb29fc
 ---
 
@@ -117,6 +123,12 @@ September 2006, a period of abundant capital in which, as Marks puts it, everyon
 
 - Referred to by [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (October 19, 2006)
 - Referred to by [[sources/marks-2007-everyone-knows|Everyone Knows]] (April 26, 2007)
+- Referred to by [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (April 8, 2014)
+- Referred to by [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 3, 2014)
+- Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
+- Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
+- Referred to by [[sources/marks-2018-investing-without-people|Investing Without People]] (June 18, 2018)
+- Referred to by [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (July 26, 2022)
 
 ## Notes on the Source Text
 

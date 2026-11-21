@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:da1bffa118fbc707c90d8543f07b8680c13472c31fe20f724122e47a6757a144
+content_hash: sha256:aed9660422bb62417d416e07e29da4379a4aadb2465528336132857b216be3e6
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/irr-and-performance-measurement
@@ -12,18 +12,19 @@ related:
 - concepts/survivorship-bias
 - concepts/risk-vs-volatility
 - concepts/private-credit
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2006-returns-absolute-returns-and-risk
 - sources/marks-2006-you-cant-eat-irr
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2025-a-look-under-the-hood
 tags:
 - howard-marks
 title: IRR and Performance Measurement
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_564e135c3d91
 uuid: 4711c93a-1aaf-5989-b658-a0c67fb48bac
 ---
 
@@ -42,6 +43,7 @@ Cited in 6 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
 - [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2025-a-look-under-the-hood|A Look Under the Hood]] (2025)
 
 ## Related Concepts
 

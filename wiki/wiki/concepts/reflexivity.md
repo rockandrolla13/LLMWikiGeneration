@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:7572af2ee2ba03e790cd96e6c12d5b364bcf7ece081f9e8970abe869d1219953
+content_hash: sha256:26f7e3b74825520e8a738cec699fd650db9b6675cf96910d295c7662313698b5
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/reflexivity
@@ -12,15 +12,16 @@ related:
 - concepts/etf-flows
 - concepts/skepticism
 - concepts/active-vs-passive-investing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2009-touchstones
+- sources/marks-2018-investing-without-people
 tags:
 - howard-marks
 title: Reflexivity
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_45a7f7c08e2c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 uuid: f4a5760b-ce41-5aa8-94ee-5deda67f5690
 ---
 
@@ -36,6 +37,7 @@ George Soros's idea that market prices and participants' beliefs influence the f
 Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 
 ## Related Concepts
 

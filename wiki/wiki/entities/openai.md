@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:9d7697d496184381d8c550b03a8a9229f5f92ba0187119aeb07bd55c754f43ea
+content_hash: sha256:7792783235e57e9086e1f13fa3479449538a8f397dff21609bb50a62f0ecdcdc
 created: '2026-05-17T16:44:06Z'
 entity_type: organization
 mind_map_priority: high
@@ -7,7 +7,7 @@ page_id: entities/openai
 page_type: entity
 related:
 - entities/gpt-2
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/berryman-2024-prompt-engineering-llms
@@ -21,12 +21,15 @@ sources:
 - sources/wilson-2024-llm-security-playbook
 - sources/aryan-2025-llmops
 - sources/liu-2025-build-fine-tune-small-language-model
+- sources/marks-2025-is-it-a-bubble
+- sources/marks-2026-ai-hurtles-ahead
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - ai-engineering
 - organization
 title: OpenAI
-updated: '2026-11-21T02:00:24Z'
-updated_by: op_faa1492c417c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: 8bf5efdd-df50-56a7-9287-660cdbe05282
 ---
 
@@ -55,4 +58,10 @@ Creators of GPT-2/3/4, ChatGPT, tiktoken, and InstructGPT. Their open-source GPT
 
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 <!-- AUTHORED REGION END -->

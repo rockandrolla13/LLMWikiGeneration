@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:6cb9d248f4757cf738727f6f746f87b1f335e0a5e5a1220e5d0fe95a76b1e572
+content_hash: sha256:277f725e4f6d08c0e1fdfc8ee3bbc4e0eda7743d9db722502ffa76702efd5fc1
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1990-the-route-to-performance
@@ -21,7 +21,8 @@ related:
 - entities/howard-marks
 - entities/oaktree-capital-management
 - entities/wall-street-journal
-revision_id: 1
+- sources/marks-2023-fewer-losers-or-more-winners
+revision_id: 2
 schema_version: 2
 source_hash: sha256:21c54d9d5f1d855a9a1073b90056266e16fb8acb82515963f2a1e172f8cf43a9
 source_path: markdown_output/1990-10-12-the-route-to-performance.md
@@ -32,8 +33,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Route to Performance
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_9066df6d204f
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: d2e83569-3edb-59f8-8dfc-096297050ed1
 ---
 
@@ -95,6 +96,7 @@ Written in October 1990 as an addendum to a third-quarter client letter, prompte
 ## Related Memos
 
 - Refers to (no page): second quarter 1988 letter to convertible clients (referenced, not a titled memo)
+- Referred to by [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (September 12, 2023)
 
 ## Notes on the Source Text
 

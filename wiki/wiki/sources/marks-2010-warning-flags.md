@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:99d216d654ded1db5fe5c6bac77f1412a42577cda9b08288a6b8577cef0f4ff1
+content_hash: sha256:d6e098e4e82c64f6e7a7bf3a6f81dfeca14ffad2e692e7d1d2f5c8fde7921bc8
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2010-warning-flags
@@ -37,7 +37,8 @@ related:
 - sources/marks-2007-its-all-good
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2010-open-and-shut
-revision_id: 1
+- sources/marks-2013-the-race-is-on
+revision_id: 2
 schema_version: 2
 source_hash: sha256:952ddcbe90e5565efa7d7524fba232aab01f7330965226e43ad4ef1478743f71
 source_path: markdown_output/2010-05-12-warning-flags.md
@@ -48,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Warning Flags
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_2e8de85786cb
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1a21f47b0139
 uuid: e9e4a6c1-61e5-5eea-b1c9-e47aa73dc1b3
 ---
 
@@ -128,6 +129,7 @@ Written April to May 2010, about 18 months after the Lehman bankruptcy. High yie
 - Refers to [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (January 22, 2010)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 - Refers to (no page): Too Much Trust, Too Little Worry (DealBook article, October 5, 2009)
+- Referred to by [[sources/marks-2013-the-race-is-on|The Race Is On]] (November 26, 2013)
 
 ## Notes on the Source Text
 

@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/liquidity-risk
-revision_id: 3
+revision_id: 4
 sources:
 - sources/lancaster-2021-fed-up
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -28,13 +28,14 @@ sources:
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-touchstones
 - sources/marks-2010-warning-flags
+- sources/marks-2015-liquidity
 tags: []
 title: Market Crash and Liquidity Crisis Dynamics
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_2e8de85786cb
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_abfa3ebd137a
 schema_version: 2
 uuid: 6d437ee1-1dfb-56bf-b1ac-120fbe2505da
-content_hash: sha256:7f9734786f945f0fc5efb8e3fb024380350b464dfc5ac26711db862ef66a49b1
+content_hash: sha256:eb61d307e75215f91073af02499e1f6f165dc1934ea935e070ca27b3a7b3d0b1
 ---
 
 <!-- AUTHORED REGION START -->
@@ -71,4 +72,5 @@ The mechanics of a panic: correlations converging to one, evaporating liquidity,
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
 <!-- AUTHORED REGION END -->

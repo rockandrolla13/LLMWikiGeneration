@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:a2720f9a73ef3a884d46e59ce629fad2a31984acdd24fe53686e364643c1a4bd
+content_hash: sha256:3a1d4b0c5995505681c8878b435d6e063742d0d57d8ce6692c9e6d54c8ce27a2
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/investing-vs-speculation
@@ -12,14 +12,15 @@ related:
 - concepts/private-credit
 - concepts/taking-the-market-temperature
 - concepts/market-timing
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-1997-are-you-an-investor-or-a-speculator
 tags:
 - howard-marks
 title: Investing vs Speculation
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d0083c9c6727
 uuid: 96efcab6-2fce-5b68-bf83-494aa922cb63
 ---
 
@@ -33,6 +34,8 @@ The difference between buying an asset for its cash flows and value and buying i
 ## In Howard Marks's Memos
 
 Cited in 4 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
 
 ## Related Concepts
 

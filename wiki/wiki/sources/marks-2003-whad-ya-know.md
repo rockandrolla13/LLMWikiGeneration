@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:36e310b4699b16dd633df7e6bd27bb12c6ffdff272379cfd603cefd74a7a0125
+content_hash: sha256:d26cd92aabc108a06b4b5e1cf76c4a71b21c26baa318c2f4f8d610b5e28c5f96
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-whad-ya-know
@@ -36,7 +36,8 @@ related:
 - entities/warren-buffett
 - sources/marks-1996-the-value-of-predictions-ii
 - sources/marks-2002-etorres-wisdom
-revision_id: 1
+- sources/marks-2013-ditto
+revision_id: 2
 schema_version: 2
 source_hash: sha256:732e222f737ea63874ac3d21168a27eac9e85893f3e420ccb5492e790284ae83
 source_path: markdown_output/2003-03-11-whad-ya-know.md
@@ -47,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Whad’Ya Know?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_2d6d51cf93e3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1173561154c7
 uuid: 189be6e0-a291-59de-8502-e6e5f4da39a7
 ---
 
@@ -127,6 +128,7 @@ March 2003, at the tail of a three-year bear market after the TMT bubble burst, 
 - Refers to [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (July 22, 1996)
 - Refers to [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (September 4, 2002)
 - Refers to (no page): Lessons from Distressed Debt
+- Referred to by [[sources/marks-2013-ditto|Ditto]] (January 7, 2013)
 
 ## Notes on the Source Text
 

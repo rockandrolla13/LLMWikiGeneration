@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:eee3ed7f747a105e7e074619712f3d6a63b237012dc49d2aefa59606c5b4f0f5
+content_hash: sha256:ace4e8bd76ccfbd75a5f15be3d11c04b913431d1e607a8e6a1a9d07573d8cbd2
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1991-first-quarter-performance
@@ -27,7 +27,8 @@ related:
 - sources/marks-2007-its-all-good
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2010-open-and-shut
-revision_id: 2
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+revision_id: 3
 schema_version: 2
 source_hash: sha256:70f8a700257e4251ebd950cf6a2143757585d433f5c0219b21061c15610c7421
 source_path: markdown_output/1991-04-11-first-quarter-client-performance.md
@@ -38,8 +39,8 @@ tags:
 - howard-marks
 - investment-memo
 title: First Quarter Performance
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d0083c9c6727
 uuid: 1588fdbd-9e9a-5267-b85e-379d8c0e4b0c
 ---
 
@@ -104,6 +105,7 @@ Written after the late-1990 sell-off driven by recession fears and the Iraq conf
 - Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
 - Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
+- Referred to by [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (September 3, 1997)
 
 ## Notes on the Source Text
 

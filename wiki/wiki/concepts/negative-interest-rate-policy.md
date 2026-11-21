@@ -7,16 +7,17 @@ mind_map_priority: medium
 page_id: concepts/negative-interest-rate-policy
 page_type: concept
 related: []
-revision_id: 1
+revision_id: 2
 sources:
 - sources/sieron-2021-monetary-policy-after-great-recession
+- sources/marks-2020-coming-into-focus
 tags: []
 title: Negative Interest Rate Policy and the Zero Lower Bound
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5ebf1dc75f95
 schema_version: 2
 uuid: ed238642-1f44-5053-91a8-14b86eaa3ff8
-content_hash: sha256:bd0059b5d3636a29c56a466dcb387b4ef862b964b250a8dcd2a151fb4470116d
+content_hash: sha256:c3d40ea4c8825544f8edcef627291e8b4ee5271665ebc1507e9317898bd61697
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,4 +30,8 @@ NIRP maintains the policy rate below zero; the zero/effective lower bound limits
 ## Sources
 
 - [[sources/sieron-2021-monetary-policy-after-great-recession|Monetary Policy after the Great Recession: The Role of Interest Rates]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 <!-- AUTHORED REGION END -->

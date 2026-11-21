@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:937c5f33aabd5b1bba75e7b0804df6ae1532f7e7c205c8a4e9960a2f5896d093
+content_hash: sha256:61e23e013bb6697a53323aa93df590eacd8a2935b83c6bfdd640d0b0403e6f15
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2012-what-can-we-do-for-you
@@ -32,7 +32,8 @@ related:
 - entities/warren-buffett
 - sources/marks-2004-us-and-them
 - sources/marks-2007-the-race-to-the-bottom
-revision_id: 1
+- sources/marks-2012-on-uncertain-ground
+revision_id: 2
 schema_version: 2
 source_hash: sha256:e6874f8b09e84ccf07ea6e810362878432f61a722f5e1d906a4ca96f7f093db3
 source_path: markdown_output/2012-01-10-what-can-we-do-for-you.md
@@ -43,8 +44,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What Can We Do For You?
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7d464c3b5ebd
 uuid: bba510e8-f1fb-5e29-b289-f43ccef59af0
 ---
 
@@ -117,6 +118,7 @@ January 2012, during the European sovereign debt crisis, with talk of a US doubl
 
 - Refers to [[sources/marks-2004-us-and-them|Us and Them]] (May 7, 2004)
 - Refers to [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (February 14, 2007)
+- Referred to by [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (September 11, 2012)
 
 ## Notes on the Source Text
 

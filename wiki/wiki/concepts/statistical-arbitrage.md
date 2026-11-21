@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:3900e218f457bef1c0f6a40fbd8de5f23c0cc551f09f66f348f8f128e3e7895f
+content_hash: sha256:f095654dd8f80dd80ca1e06b92923b79c18416fb98d30050de8ca939fca9f509
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/statistical-arbitrage
 page_type: concept
@@ -25,7 +25,7 @@ related:
 - concepts/regime-switching-models
 - concepts/relative-value-spread-trading
 - concepts/systematic-credit-relative-value
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/he-2023-hf-pairs-chinese-futures
@@ -35,14 +35,15 @@ sources:
 - sources/zhang-2021-pairs-general-ssm
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/marks-2018-investing-without-people
 tags:
 - quantitative-finance
 - trading-strategies
 - mean-reversion
 - market-neutral
 title: Statistical Arbitrage
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 uuid: d40cf5c3-b99b-5f99-be94-ada09a3b8816
 ---
 
@@ -169,4 +170,8 @@ Now also discussed in: [[sources/ms-2018-07-09-em-risk-indicator-regime-switchin
 
 - [[sources/yu-2006-how-profitable-capital-structure-arbitrage|How Profitable Is Capital Structure Arbitrage?]]
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d15134082e9471dacb77c169401667bf2819bdc58d66cadf1badf4411ca81c7e
+content_hash: sha256:4997d011ce845f9cddf73b777cc74463bc00f82ee9c3182bf80917cc94853b73
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-whats-your-game-plan
@@ -21,7 +21,8 @@ related:
 - entities/warren-buffett
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2009-so-much-thats-false-and-nutty
-revision_id: 2
+- sources/marks-2015-inspiration-from-the-world-of-sports
+revision_id: 3
 schema_version: 2
 source_hash: sha256:e6d8d9f21a6a857856ae688e4ecd00701d012033b9fc8d64a9a20667001cf6ed
 source_path: markdown_output/2003-09-05-whats-your-game-plan.md
@@ -32,8 +33,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What's Your Game Plan?
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_da942e9a64b3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1dd52f7f33d3
 uuid: e75acddc-3d53-582b-80df-8a1d320cc51d
 ---
 
@@ -95,6 +96,7 @@ September 2003, after the 2000-02 bear market and a period of very high distress
 
 - Referred to by [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (October 27, 2004)
 - Referred to by [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (July 8, 2009)
+- Referred to by [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (October 22, 2015)
 
 ## Notes on the Source Text
 

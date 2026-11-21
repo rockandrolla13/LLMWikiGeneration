@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:4011c9746b6c09fd6b38b2419c99cb751fcf96fa671a888ae8510db3f64bb58b
+content_hash: sha256:48bf5e4770f4a634f3efc76b9fdcd0ae437a95b0dc633359775cb7b35363200c
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -24,7 +24,7 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -57,10 +57,13 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2010-warning-flags
 - sources/marks-2010-open-and-shut
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2015-its-not-easy
+- sources/marks-2020-coming-into-focus
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5ebf1dc75f95
 uuid: 23edd06e-71d8-5472-a978-687950c52605
 ---
 
@@ -104,4 +107,7 @@ Now also discussed in: [[sources/ms-2010-09-15-em-quantitative-quarterly]], [[so
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
 <!-- AUTHORED REGION END -->

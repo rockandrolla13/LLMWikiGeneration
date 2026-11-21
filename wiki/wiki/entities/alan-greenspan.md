@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:024e59f07f1a33fbe168c30b18afd35df2ebd5cb5a326e41c8dbacc699eed2ed
+content_hash: sha256:070839db498ac6fd5063b9fd72f9afb689f8ee002843f0d1ddbeced46e2b7508
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/alan-greenspan
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -26,12 +26,15 @@ sources:
 - sources/marks-2011-on-regulation
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2025-is-it-a-bubble
 tags:
 - person
 - howard-marks-memos
 title: Alan Greenspan
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: 7493b8de-3451-5f93-94c5-11a1284d351b
 ---
 
@@ -66,4 +69,7 @@ Context from the memos:
 - [[sources/marks-2011-on-regulation|On Regulation]] (2011)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 <!-- AUTHORED REGION END -->

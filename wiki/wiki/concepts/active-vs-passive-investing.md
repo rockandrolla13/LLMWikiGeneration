@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7dc4386f16927ae41fe7ec7a3f7f376245c1c770c672ade862e7cbdf41003826
+content_hash: sha256:5635778d912a792eb5fa3e9abff98e0de0d63c9b30378299d7223570219f0bbd
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/active-vs-passive-investing
@@ -12,7 +12,7 @@ related:
 - concepts/efficient-market-hypothesis
 - concepts/survivorship-bias
 - concepts/investing-vs-speculation
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -21,11 +21,17 @@ sources:
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2003-whats-your-game-plan
 - sources/marks-2003-the-feelings-mutual
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2014-getting-lucky
+- sources/marks-2018-investing-without-people
+- sources/marks-2022-i-beg-to-differ
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2026-ai-hurtles-ahead
 tags:
 - howard-marks
 title: Active vs Passive Investing
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_fc1f499ba779
 uuid: 298a5c1e-11c2-5f50-b822-67cd565f18c0
 ---
 
@@ -46,6 +52,12 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 - [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (2003)
 - [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:86a5072c50b7200a99f9940776ddf29210ca5392f8677df63450e7726708c249
+content_hash: sha256:299a6c1ee18bc599b8e641323a5eb9fc1fd1266622561331d5d2909d9bac34a3
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/pendulum-of-investor-psychology
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/risk-premia
 - concepts/asset-bubbles
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -48,11 +48,21 @@ sources:
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2012-a-fresh-start-hopefully
+- sources/marks-2013-ditto
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2013-the-race-is-on
+- sources/marks-2018-latest-thinking
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags:
 - howard-marks
 title: The Pendulum of Investor Psychology
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: cb41b2dd-cc42-5705-8bab-10dce387a68c
 ---
 
@@ -100,6 +110,16 @@ Cited in 56 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2012-a-fresh-start-hopefully|A Fresh Start (Hopefully)]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 
 ## Related Concepts
 

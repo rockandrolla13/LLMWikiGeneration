@@ -10,16 +10,18 @@ related:
 - concepts/algorithmic-trading
 - concepts/etf-flows
 - concepts/statistical-arbitrage
-revision_id: 1
+revision_id: 2
 sources:
 - sources/koukorinis-2024-xantium-business-plan
+- sources/marks-2015-liquidity
+- sources/marks-2018-investing-without-people
 tags: []
 title: ETF Creation/Redemption Arbitrage
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 schema_version: 2
 uuid: e19154ba-cc57-553b-9163-52baae07acfb
-content_hash: sha256:e6e481c2ef456d0678a3206d368d1a141319dc397edb3b5afe95c332c0738257
+content_hash: sha256:4fc2d5aeba5c8a5e466fae55d9c1808a8d338bcee89c78e230190012eac98aad
 ---
 
 <!-- AUTHORED REGION START -->
@@ -32,6 +34,11 @@ A statistical-arbitrage strategy exploiting mispricing between a corporate bond 
 ## Sources
 
 - [[sources/koukorinis-2024-xantium-business-plan|Business Plan Details for Xantium: Systematic Spread Fixed Income Trading]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 
 ## Related Concepts
 

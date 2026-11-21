@@ -12,7 +12,7 @@ related:
 - concepts/tick-loss
 - concepts/volatility-targeting
 - concepts/volatility-targeting-position-sizing
-revision_id: 5
+revision_id: 6
 sources:
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact
 - sources/ms-2020-03-20-risk-parity-deleveraging
@@ -22,17 +22,19 @@ sources:
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2008-whodunit
 - sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
 tags:
 - risk-management
 - quantile
 - basel
 - regulatory-capital
 title: Value-at-Risk
-updated: '2026-11-21T02:33:11Z'
+updated: '2026-11-21T02:40:24Z'
 schema_version: 2
 uuid: 35fb663c-32ca-5759-8347-bdaf6e85ff7a
-content_hash: sha256:027a52a1f60e1f61ab2817d74f79982ee07b32901f723cd4f8fe016872b2d3ec
-updated_by: op_5b3739af413f
+content_hash: sha256:9181519f5e9665e35fc0f50e3decfbd2262af8aef121c0e5c85373d94e97dc11
+updated_by: op_51a8e80ae3c5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -51,6 +53,8 @@ updated_by: op_5b3739af413f
 - [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
 
 ## Related Concepts
 

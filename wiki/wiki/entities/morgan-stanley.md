@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 - sources/ms-2009-11-12-us-rate-strategist
@@ -124,13 +124,15 @@ sources:
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-plan-b
 - sources/marks-2008-the-limits-to-negativism
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2021-2020-in-review
 tags: []
 title: Morgan Stanley
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_470b4c005c8f
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3179190e30a9
 schema_version: 2
 uuid: cee4274b-5af8-5394-92b3-8fbd6ec649c4
-content_hash: sha256:8c8f8465280ac35e1776ee6e47d64a2d396750f974c3cdfa90a299b4ea5dbd0f
+content_hash: sha256:1a194da01227f61dc383e3119f9666ed1a5cfe37829cdcd320e6163f0c76832a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -196,4 +198,6 @@ sources directory for `ms-20`.
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 <!-- AUTHORED REGION END -->

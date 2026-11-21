@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:0776b78737b13c89b03dbbbe5c6597239e1fd9309e0cd6c7b1b548daec649a9d
+content_hash: sha256:5de90849ffb34bb8ca81786f922197d565ece5ee6c9b7c8b5196fdd993595ffc
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2000-investment-miscellany
@@ -35,7 +35,8 @@ related:
 - sources/marks-2004-the-happy-medium
 - sources/marks-2006-pigweed
 - sources/marks-2007-now-its-all-bad
-revision_id: 2
+- sources/marks-2015-liquidity
+revision_id: 3
 schema_version: 2
 source_hash: sha256:969ec163cd0e6706caceca968daa0855e94eff1e75fa79cf55df88772802c121
 source_path: markdown_output/2000-11-16-investment-miscellany.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Investment Miscellany
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_9af1f34bc0c6
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_abfa3ebd137a
 uuid: 6515ed96-6a02-5803-9e9e-59dad2f480b5
 ---
 
@@ -125,6 +126,7 @@ November 2000, after the tech/IPO bubble crested in March 2000. Dot-com firms su
 - Refers to (no page): the venture capital memo (title not given)
 - Referred to by [[sources/marks-2006-pigweed|Pigweed]] (December 7, 2006)
 - Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
+- Referred to by [[sources/marks-2015-liquidity|Liquidity]] (March 25, 2015)
 
 ## Notes on the Source Text
 

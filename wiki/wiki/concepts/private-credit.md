@@ -11,19 +11,25 @@ related:
 - concepts/lbo-risk
 - concepts/liquidity-risk
 - concepts/private-credit-leveraged-loans
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 - sources/patkar-2026-ms-global-credit-midyear
 - sources/marks-2006-you-cant-eat-irr
 - sources/marks-2006-the-new-paradigm
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2024-easy-money
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags: []
 title: Private Credit / Direct Lending
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_b193186712da
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 schema_version: 2
 uuid: f1074503-c63f-5009-b686-dc02f58d6631
-content_hash: sha256:ecd8e1d789381dadd35c1a87cf7cd49ab60c7d1217c84bf7146032ab63165c3a
+content_hash: sha256:4ee8aefc83fab66a118675cd02224afaf5e9f149fa302890e4650c4474d4ebc4
 ---
 
 <!-- AUTHORED REGION START -->
@@ -41,6 +47,12 @@ Non-bank lending to corporations via direct-lending funds and BDCs; the note for
 
 - [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
 - [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 
 ## Related Concepts
 

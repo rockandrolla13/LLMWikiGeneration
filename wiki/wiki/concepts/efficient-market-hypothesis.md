@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:58bcd6919dde0c86208434aca8af36d57589004f57f1e927b6b3cbd1cf7e6fc2
+content_hash: sha256:b26ddc29444eacccf8f2741f9f7f6083cfc906aba636f2218eb4cc11938435b3
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/efficient-market-hypothesis
@@ -12,7 +12,7 @@ related:
 - concepts/stock-price-efficiency
 - concepts/high-yield-bonds
 - concepts/contrarian-market-timing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -34,11 +34,16 @@ sources:
 - sources/marks-2006-returns-absolute-returns-and-risk
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2008-whodunit
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2014-getting-lucky
+- sources/marks-2015-its-not-easy
+- sources/marks-2018-investing-without-people
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - howard-marks
 title: Efficient Market Hypothesis and Inefficient Markets
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_a6f883c918b1
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 68c49ea0-5393-59d4-acc8-147fe5facd45
 ---
 
@@ -72,6 +77,11 @@ Cited in 29 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
 - [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

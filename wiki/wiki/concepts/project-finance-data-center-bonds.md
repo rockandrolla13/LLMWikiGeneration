@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/corporate-bonds
 - concepts/credit-spread-curve
-revision_id: 1
+revision_id: 2
 sources:
 - sources/hamid-2026-ai-capex-funding-bond-matrix
+- sources/marks-2026-a-layman-thinks-about-ai
 tags: []
 title: Project Finance Data Center Bonds
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 schema_version: 2
 uuid: dfe621e5-5037-5673-845f-d018a1ee34e3
-content_hash: sha256:1483c5dad8bae454a38a13de2ecf8f67205e4752e67b60636184e055d29a3bab
+content_hash: sha256:731ee44567a3c9c28d858c9b999a193d2630a1540d23967d555ace90cf1593a5
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +32,10 @@ Bonds issued at the data-center project level backed by single- or multi-tenant 
 ## Sources
 
 - [[sources/hamid-2026-ai-capex-funding-bond-matrix|AI Capex Funding: Data Center - Hyperscaler Bond Matrix Version 1.0]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

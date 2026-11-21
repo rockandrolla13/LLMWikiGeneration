@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7b72240b1e63d2ad76d2644045b765cde0b11601a64b8ffc66493b16304fed85
+content_hash: sha256:b66bc8c22bf2a4be399302da24b89968454b7225875414f3e8f151cebe937103
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/laws-of-economics
@@ -12,14 +12,15 @@ related:
 - concepts/second-order-consequences
 - concepts/elasticity-economics
 - concepts/populism
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2016-economic-reality
 tags:
 - howard-marks
 title: The Laws of Economics
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_490b064f280e
 uuid: d8475f39-39cb-5dec-b35e-6d497c436400
 ---
 
@@ -33,6 +34,8 @@ Marks's series asking whether policymakers can 'repeal' basic economic relations
 ## In Howard Marks's Memos
 
 Cited in 6 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2016-economic-reality|Economic Reality]] (2016)
 
 ## Related Concepts
 

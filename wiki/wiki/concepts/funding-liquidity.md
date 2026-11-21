@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:421681b8446b57607550fe23a21be1c4c7f408e8ebf2c4dcd1b93272d7f3311f
+content_hash: sha256:118ac5eaadfd5df1cabf8faa686985ecfef414fed905f5ad8e1d5535c0db7c23
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/funding-liquidity
 page_type: concept
 related:
 - concepts/structural-risk
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -21,13 +21,15 @@ sources:
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-the-long-view
+- sources/marks-2015-liquidity
+- sources/marks-2023-lessons-from-silicon-valley-bank
 tags:
 - liquidity
 - brunnermeier-pedersen
 - financial-stability
 title: Funding Liquidity
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_ddd3090263f3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ---
 
@@ -61,4 +63,6 @@ uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 - [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 <!-- AUTHORED REGION END -->

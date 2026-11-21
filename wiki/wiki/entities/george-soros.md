@@ -1,24 +1,25 @@
 ---
-content_hash: sha256:dcd7c7da6a706f32ad2b76d025786d00e4c9e3d742e6807b766d447f32c2365f
+content_hash: sha256:c80851d892d61da19a9b8b813acb0a12d4b1febb54876b478bd6c382d5f2d704
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/george-soros
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2008-the-aviary
 - sources/marks-2009-touchstones
+- sources/marks-2018-investing-without-people
 tags:
 - person
 - howard-marks-memos
 title: George Soros
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_45a7f7c08e2c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 uuid: e623eaab-09fd-58c2-a86c-8588f34600e5
 ---
 
@@ -40,4 +41,5 @@ Context from the memos:
 - [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 <!-- AUTHORED REGION END -->

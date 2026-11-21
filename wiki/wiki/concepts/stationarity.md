@@ -2,9 +2,9 @@
 title: Stationarity
 page_id: concepts/stationarity
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+updated: '2026-11-21T02:40:24Z'
 tags:
 - econometrics
 - time-series
@@ -12,6 +12,7 @@ tags:
 - cointegration
 sources:
 - sources/laumann-2021-kernel-tests-nonstationary
+- sources/marks-2022-the-illusion-of-knowledge
 related:
 - concepts/cointegration
 - concepts/mean-reversion
@@ -20,7 +21,8 @@ related:
 mind_map_priority: medium
 schema_version: 2
 uuid: 663bd3f8-e14c-5faf-92dc-e0d0250b6d9d
-content_hash: sha256:c5ee59a37ad3cb6cc6f316182c57f33d5860cdb661447384ab55fc875ca71f98
+content_hash: sha256:5dcdffe35444b93cdae1a0ca867a9c62e53c1252599077c038276274f70258d4
+updated_by: op_bff3bcb6b3ea
 ---
 
 <!-- AUTHORED REGION START -->
@@ -60,4 +62,7 @@ Note also that stationarity is not clock-independent: [[concepts/stylized-facts|
 
 **Not yet written:** `concepts/unit-root`, `concepts/adf-test`, `concepts/nonstationarity`
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:407d6aac5c85ed1c700bd1a9f6b92859feb74b0169a61d06ca0e22b2390bf962
+content_hash: sha256:cb4f007db6daba72466da7187b50fad057790b8f25c7b9b92b92e74c7eb259d6
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-the-happy-medium
@@ -35,7 +35,9 @@ related:
 - sources/marks-2000-investment-miscellany
 - sources/marks-2007-its-all-good
 - sources/marks-2010-open-and-shut
-revision_id: 2
+- sources/marks-2013-ditto
+- sources/marks-2022-bull-market-rhymes
+revision_id: 3
 schema_version: 2
 source_hash: sha256:6b35081176f4187320ac4ddc7065ea2c8b1be5dc46e10c35a13b4c31734bc05f
 source_path: markdown_output/2004-07-21-the-happy-medium.md
@@ -46,8 +48,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Happy Medium
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d36e1cadbff4
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_508b5db898e6
 uuid: 904e7da5-ae1a-5cf3-b45e-bd7e23e37165
 ---
 
@@ -124,6 +126,8 @@ Written in July 2004, two years after the mid-2002 trough caused by the corporat
 - Refers to [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (November 16, 2000)
 - Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
 - Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
+- Referred to by [[sources/marks-2013-ditto|Ditto]] (January 7, 2013)
+- Referred to by [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (May 26, 2022)
 
 ## Notes on the Source Text
 

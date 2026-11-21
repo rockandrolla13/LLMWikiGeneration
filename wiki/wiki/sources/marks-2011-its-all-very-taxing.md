@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:62e68830403a05b010a21d3e0a0fe8871c735c7ca166bde7e194fda60774354e
+content_hash: sha256:92564b41cfb5a31e0fb01e45038d4106e6e175ab8d2fdaea913c350809785e0f
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2011-its-all-very-taxing
@@ -27,7 +27,8 @@ related:
 - entities/warren-buffett
 - entities/winston-churchill
 - sources/marks-2010-all-that-glitters
-revision_id: 1
+- sources/marks-2016-economic-reality
+revision_id: 2
 schema_version: 2
 source_hash: sha256:16a23ee4e602abd73ea2a76d4165f012407890e1fd476241cf65c5e5aa0371f9
 source_path: markdown_output/2011-11-16-its-all-very-taxing.md
@@ -38,8 +39,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It's All Very Taxing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_8d15ae0b087d
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_490b064f280e
 uuid: 1257977b-4829-5e9c-b931-fd2c4864a351
 ---
 
@@ -108,6 +109,7 @@ November 2011. After a contentious summer debt-ceiling fight that led S&P to dow
 ## Related Memos
 
 - Refers to [[sources/marks-2010-all-that-glitters|All That Glitters]] (December 17, 2010)
+- Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
 
 ## Notes on the Source Text
 

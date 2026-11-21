@@ -1,11 +1,11 @@
 ---
-content_hash: sha256:d39848859ecbf969f4c3949ec578b4bd9fd9b5eca8713bd78a15a63a2a023060
+content_hash: sha256:ee34d85361f5c7e05165e72fd83ff53c156874516bbf9c7ab99335fbc2495c36
 created: '2026-05-17T16:44:06Z'
 entity_type: tool
 mind_map_priority: high
 page_id: entities/hugging-face
 page_type: entity
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
@@ -14,12 +14,13 @@ sources:
 - sources/aryan-2025-llmops
 - sources/pathan-2025-mastering-llm-applications-langchain
 - sources/liu-2025-build-fine-tune-small-language-model
+- sources/marks-2025-is-it-a-bubble
 tags:
 - ai-engineering
 - tool
 title: Hugging Face
-updated: '2026-11-21T02:00:24Z'
-updated_by: op_faa1492c417c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: 0c6b8f98-81e4-57d0-bd04-1f69b6b1c3af
 ---
 
@@ -43,4 +44,8 @@ Listed among framework developers interviewed for the book; central platform for
 - [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:5ed7471d330ecc712a3b1111ae94b53884fed72a8165611afc1fe15ae0b81dbb
+content_hash: sha256:1c982b21fc65ae377533fe46ced7df7778f07f54b419863926de8212b3a1ba2b
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/ben-bernanke
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2007-its-all-good
@@ -17,12 +17,16 @@ sources:
 - sources/marks-2010-tell-me-im-wrong
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2010-hemlines
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2017-expert-opinion
 tags:
 - person
 - howard-marks-memos
 title: Ben Bernanke
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_104a4deb2caa
 uuid: e4fe1e17-0bfc-5d29-8d06-8a1dffb17722
 ---
 
@@ -48,4 +52,8 @@ Context from the memos:
 - [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 - [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (2012)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
 <!-- AUTHORED REGION END -->

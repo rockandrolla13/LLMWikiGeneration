@@ -8,16 +8,18 @@ mind_map_priority: low
 page_id: entities/friedrich-hayek
 page_type: entity
 related: []
-revision_id: 1
+revision_id: 2
 sources:
 - sources/huertadesoto-2006-money-bank-credit
+- sources/marks-2024-easy-money
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags: []
 title: Friedrich A. Hayek
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 schema_version: 2
 uuid: 872bccbd-edb6-59fa-a1a1-b462657da9ca
-content_hash: sha256:c73beec54344c7f6f4faf7b508939ce344695738eade46b00d269ea5694ca847
+content_hash: sha256:89a3d99e5703855159aca8e813dd87233b33848a0d9e3f1146a7df8d7d1d6bde
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,4 +32,9 @@ content_hash: sha256:c73beec54344c7f6f4faf7b508939ce344695738eade46b00d269ea5694
 ## Appearances in Sources
 
 - [[sources/huertadesoto-2006-money-bank-credit|Money, Bank Credit, and Economic Cycles]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 <!-- AUTHORED REGION END -->

@@ -2,19 +2,20 @@
 title: Autonomous AI Agents
 page_id: concepts/autonomous-ai-agents
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_fc1f499ba779
 tags:
 - ai-engineering
 sources:
 - sources/taulli-2024-ai-assisted-programming
+- sources/marks-2026-ai-hurtles-ahead
 related: []
 mind_map_priority: medium
 schema_version: 2
 uuid: 0a6c2a12-2c77-5717-aa42-789365ab2e3a
-content_hash: sha256:67a970006fc9a0aaf46076a0a280d9428910f24f22bbf734b8ae01596497824e
+content_hash: sha256:3d3a237a7eed68d65cd582025bfe47cc187e57bf95505064085155adc1de92df
 ---
 
 <!-- AUTHORED REGION START -->
@@ -28,4 +29,7 @@ Systems that wrap an LLM with planning, memory, and tool-use loops so the model 
 
 - [[sources/taulli-2024-ai-assisted-programming|AI-Assisted Programming]]
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2026-ai-hurtles-ahead|AI Hurtles Ahead]] (2026)
 <!-- AUTHORED REGION END -->

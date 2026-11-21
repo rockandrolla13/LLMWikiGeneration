@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:986fa799be825b8156943da175b5e85bd65e381e07e422b4c1f1e77b9676a1f4
+content_hash: sha256:6c5e2da2222d6bc5baa24fc5264f0e44702d0605f94782258d7d45d947588806
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -18,7 +18,7 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -47,10 +47,15 @@ sources:
 - sources/marks-2008-whodunit
 - sources/marks-2008-the-aviary
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2013-high-yield-bonds-today
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2023-fewer-losers-or-more-winners
+- sources/marks-2025-gimme-credit
+- sources/marks-2025-cockroaches-in-the-coal-mine
 tags: []
 title: Default Rates
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: bf605565-480c-58dc-950a-27081d4e27e8
 ---
 
@@ -93,4 +98,9 @@ Now also discussed in: [[sources/ms-2012-03-09-european-hy-leveraged-finance-pla
 - [[sources/marks-2008-whodunit|Whodunit]] (2008)
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2013-high-yield-bonds-today|High Yield Bonds Today]] (2013)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
+- [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (2025)
 <!-- AUTHORED REGION END -->

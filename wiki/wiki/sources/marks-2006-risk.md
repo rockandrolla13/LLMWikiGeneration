@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:fc458332b0dbf454b04e21ffd5b2e5adae6386c71370dd79a0d5928634bc56ba
+content_hash: sha256:0e621041b6cfee97015d746b952d10448be301bb6b04f935433ff07ee64347d5
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2006-risk
@@ -40,7 +40,10 @@ related:
 - sources/marks-2006-pigweed
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2009-so-much-thats-false-and-nutty
-revision_id: 1
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2023-fewer-losers-or-more-winners
+revision_id: 2
 schema_version: 2
 source_hash: sha256:7590a94f8617d4acb3714d3958b6a44bb2fdd44e461138506155157bb11f3617
 source_path: markdown_output/2006-01-19-risk.md
@@ -51,8 +54,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_30fd531433cd
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: db4fca3d-d473-56cf-8b45-f24d6569638c
 ---
 
@@ -135,6 +138,9 @@ January 2006, a benign period in markets. The memo is conceptual rather than a m
 - Referred to by [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (December 17, 2007)
 - Referred to by [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (July 8, 2009)
 - Refers to (no page): an earlier memo (unnamed) that quoted Keynes on speculators vs investors
+- Referred to by [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 3, 2014)
+- Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
+- Referred to by [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (September 12, 2023)
 
 ## Notes on the Source Text
 

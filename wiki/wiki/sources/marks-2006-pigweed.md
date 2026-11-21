@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:ec2992b350a9cf95cc54f8c254b1e3210ab218d0f475dec03bd3c9c488ae1542
+content_hash: sha256:ab553c4a5dd8be26f6a7801dc4f3144ee4f5e8b0ed578e008b6853e17ea4c24c
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2006-pigweed
@@ -35,7 +35,8 @@ related:
 - sources/marks-2007-now-its-all-bad
 - sources/marks-2008-the-aviary
 - sources/marks-2012-assessing-performance-records-a-case-study
-revision_id: 1
+- sources/marks-2015-inspiration-from-the-world-of-sports
+revision_id: 2
 schema_version: 2
 source_hash: sha256:1e4e23ca3ab98ccb6b9f28ce9f00299098362933877f41993fca4ce3ef5d751f
 source_path: markdown_output/2006-12-07-pigweed.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Pigweed
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_bcced4c23f2d
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1dd52f7f33d3
 uuid: 738acd89-a5f6-5500-b7e6-dfca3a388ce5
 ---
 
@@ -124,6 +125,7 @@ Late 2006: hedge funds were proliferating and using more leverage to reach retur
 - Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
 - Referred to by [[sources/marks-2008-the-aviary|The Aviary]] (May 16, 2008)
 - Referred to by [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (February 15, 2012)
+- Referred to by [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (October 22, 2015)
 
 ## Notes on the Source Text
 

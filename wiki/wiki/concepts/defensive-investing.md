@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:addea5a1bf76f0a7a96bb335d228dd500758bc8c43bcfd7249ecc15736c80ae4
+content_hash: sha256:fee06d59ecc519cf6913bd72d5b9fbe08ad8ea1e1f618310c0b25b699e266402
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/defensive-investing
@@ -12,7 +12,7 @@ related:
 - concepts/market-timing
 - concepts/efficient-market-hypothesis
 - concepts/market-cycles
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -28,11 +28,15 @@ sources:
 - sources/marks-2005-there-they-go-again
 - sources/marks-2012-what-can-we-do-for-you
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2020-calibrating
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - howard-marks
 title: Defensive Investing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ba45bcb8afe3
 uuid: 3135c5ed-6a3d-5bb8-b71e-f21363c8b238
 ---
 
@@ -60,6 +64,10 @@ Cited in 23 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

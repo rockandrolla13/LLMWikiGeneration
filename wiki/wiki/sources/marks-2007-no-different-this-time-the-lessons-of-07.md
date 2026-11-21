@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:095fd282f039a63b7fc299344448f9b05dfcf3cbc47f65eadb9bbc47d931c9bd
+content_hash: sha256:f57cd2ef81024dffb1fe6b6140046115cd4cd1d5361b8e6dfdbe55258a99f68e
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-no-different-this-time-the-lessons-of-07
@@ -49,7 +49,9 @@ related:
 - sources/marks-2008-whodunit
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-the-aviary
-revision_id: 1
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+revision_id: 2
 schema_version: 2
 source_hash: sha256:cb84dff264c4769bc1ca2e671f1938863b8d2baf969bcc39edaca3aa97334f67
 source_path: markdown_output/2007-12-17-no-different-this-time-the-lessons-of-07.md
@@ -60,8 +62,8 @@ tags:
 - howard-marks
 - investment-memo
 title: No Different This Time – The Lessons of ‘07
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_d04ab7aa3c00
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_51a8e80ae3c5
 uuid: 4139525c-c6a0-56ad-87a2-aab7455583e0
 ---
 
@@ -153,6 +155,8 @@ December 2007, early in the global financial crisis. Subprime mortgage defaults 
 - Referred to by [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (March 18, 2008)
 - Referred to by [[sources/marks-2008-the-aviary|The Aviary]] (May 16, 2008)
 - Refers to (no page): an August 1996 memo on economists' forecasts (title not given)
+- Referred to by [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 3, 2014)
+- Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
 
 ## Notes on the Source Text
 

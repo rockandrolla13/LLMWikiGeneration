@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:c25327b4b722d1a79cc815a262397d673e1d5fdb4dbdc98533fbfdec06427b58
+content_hash: sha256:02ed4febad3de28e644c896b4be3447608e1f3968f1b1150026ea47f9e2fd66b
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/luck-vs-skill
@@ -12,7 +12,7 @@ related:
 - concepts/alternative-histories
 - concepts/macroeconomic-indicators
 - concepts/survivorship-bias
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1996-the-value-of-predictions-ii
@@ -20,11 +20,15 @@ sources:
 - sources/marks-2004-us-and-them
 - sources/marks-2006-pigweed
 - sources/marks-2012-assessing-performance-records-a-case-study
+- sources/marks-2014-getting-lucky
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2017-expert-opinion
+- sources/marks-2023-further-thoughts-on-sea-change
 tags:
 - howard-marks
 title: Luck vs Skill
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_0e59657812a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_55c9ccd665f7
 uuid: c85b2cdf-d32e-558c-80c2-86074acf1f28
 ---
 
@@ -44,6 +48,10 @@ Cited in 11 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2006-pigweed|Pigweed]] (2006)
 - [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
 
 ## Related Concepts
 

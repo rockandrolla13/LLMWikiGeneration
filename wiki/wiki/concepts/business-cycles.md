@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:7eb8d23c9a0a5affb168dad65accc7f35a7d5d03aa0073b4d852346659ca6943
+content_hash: sha256:b333520cceb11b94c2a0afc5350eea006ab0e3b07da5c1cbc7bbaabc0485c51e
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -9,7 +9,7 @@ page_id: concepts/business-cycles
 page_type: concept
 related:
 - concepts/great-moderation
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
@@ -24,10 +24,13 @@ sources:
 - sources/marks-2006-it-is-what-it-is
 - sources/marks-2008-doesnt-make-sense
 - sources/marks-2009-the-long-view
+- sources/marks-2013-ditto
+- sources/marks-2018-latest-thinking
+- sources/marks-2022-bull-market-rhymes
 tags: []
 title: Business Cycles
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_ddd3090263f3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_508b5db898e6
 uuid: b8096d92-f75e-5b0f-86bb-be66a9d60e6f
 ---
 
@@ -59,4 +62,7 @@ Recurring fluctuations in aggregate economic activity (expansion, peak, contract
 - [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
 - [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2018-latest-thinking|Latest Thinking]] (2018)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
 <!-- AUTHORED REGION END -->

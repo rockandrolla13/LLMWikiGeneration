@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:41a41ccb57487730ab9f624789940cc8d6b1628cd4614de0a45f9da8af438472
+content_hash: sha256:e5e7e9bab910875fa392f27f3ba227db0fcc9cce373e595d71c7de5748b67c1a
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/yield-to-maturity
@@ -8,21 +8,22 @@ related:
 - concepts/credit-spread-curve
 - concepts/z-spread
 - concepts/green-bond-spreads
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/sehatpour-2024-green-bonds
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/whitman-2009-distress-investing
 - sources/marks-2010-hemlines
+- sources/marks-2025-gimme-credit
 tags:
 - fixed-income
 - bond-pricing
 - yield-measures
 - fundamentals
 title: Yield to Maturity
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7acf652407bd
 uuid: acbd6eea-70af-5d69-908c-3f7b1e5f6568
 ---
 
@@ -91,4 +92,5 @@ YTM represents:
 ## In Howard Marks's Memos
 
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 <!-- AUTHORED REGION END -->

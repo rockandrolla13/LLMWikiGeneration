@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:fa5ed3a89077cc44ab3385f750a6a9e8f7d25bbde5d81db46e67ba2072ed36c2
+content_hash: sha256:8caa162affc56cdad730bfaa8341c92e60a1f2e89dcd791c8c093247a0a09a32
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/career-risk-and-agency-problems
@@ -12,7 +12,7 @@ related:
 - concepts/value-at-risk
 - concepts/alternative-histories
 - concepts/confirmation-bias
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2003-the-feelings-mutual
@@ -21,11 +21,15 @@ sources:
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2006-the-new-paradigm
 - sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2017-expert-opinion
+- sources/marks-2022-i-beg-to-differ
 tags:
 - howard-marks
 title: Career Risk and Agency Problems
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_da942e9a64b3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d4bb6d5237ea
 uuid: 53321973-6a58-5b0b-9c65-c7a344ba7bce
 ---
 
@@ -46,6 +50,10 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
 - [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 
 ## Related Concepts
 

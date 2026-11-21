@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7cccc852f7d711ece4f1a7cd349c9c0e5a58d1a1f1b29fb02de80adc83e9a189
+content_hash: sha256:b6260cdfcb34a0dc6f204e4f4da9a0d41370f66d3643f2a25c97ecebb07cec39
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/contrarian-investing
@@ -12,7 +12,7 @@ related:
 - concepts/price-vs-value
 - concepts/distressed-debt
 - concepts/pendulum-of-investor-psychology
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -33,11 +33,21 @@ sources:
 - sources/marks-2009-touchstones
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2012-what-can-we-do-for-you
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2012-its-all-a-big-mistake
+- sources/marks-2013-ditto
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2014-dare-to-be-great-ii
+- sources/marks-2015-liquidity
+- sources/marks-2015-inspiration-from-the-world-of-sports
+- sources/marks-2020-calibrating
+- sources/marks-2022-i-beg-to-differ
+- sources/marks-2023-lessons-from-silicon-valley-bank
 tags:
 - howard-marks
 title: Contrarian Investing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_19ff275ee994
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_5167dfe45417
 uuid: d3cb3d8c-93c2-5151-a40c-4ef6cba21596
 ---
 
@@ -70,6 +80,16 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-touchstones|Touchstones]] (2009)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2012-its-all-a-big-mistake|It’s All a Big Mistake]] (2012)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2014-dare-to-be-great-ii|Dare to Be Great II]] (2014)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
 
 ## Related Concepts
 

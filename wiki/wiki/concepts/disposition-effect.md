@@ -6,19 +6,21 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/prospect-theory
-revision_id: 2
+revision_id: 3
 sources:
 - sources/bhansali-2018-right-tail-hedging
 - sources/nolte-2011-fx-latent-factor-panel-intensity
+- sources/marks-2023-fewer-losers-or-more-winners
 tags:
 - behavioral-finance
 - prospect-theory
 - retail-investors
 title: Disposition Effect
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:40:24Z'
 schema_version: 2
 uuid: b5ff1f93-cf39-59a4-9970-c926451859da
-content_hash: sha256:02ece428e441dd9163f19b2e75d8d4c5fd3f2d84cd76c698c60b0dc2eb18edd3
+content_hash: sha256:6cd545e1424122211e0806e3f4feb6f306f8c7fb46325d0e51edabf0847e6775
+updated_by: op_ba45bcb8afe3
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +31,10 @@ content_hash: sha256:02ece428e441dd9163f19b2e75d8d4c5fd3f2d84cd76c698c60b0dc2eb1
 ## Sources
 
 - [[sources/nolte-2011-fx-latent-factor-panel-intensity|Trading Dynamics in the FX Market: A Latent Factor Panel Intensity Approach (2011)]] — central; documents portfolio-level disposition effect varying with investor sophistication
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2023-fewer-losers-or-more-winners|Fewer Losers, or More Winners?]] (2023)
 
 ## Related Concepts
 

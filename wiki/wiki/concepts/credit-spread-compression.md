@@ -11,7 +11,7 @@ related:
 - concepts/credit-spread-changes
 - concepts/credit-spread-curve
 - concepts/government-bond-spreads
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ms-2019-03-22-high-yield-hedge
 - sources/schofield-2019-citi-macro-views
@@ -23,13 +23,17 @@ sources:
 - sources/marks-2007-its-all-good
 - sources/marks-2007-no-different-this-time-the-lessons-of-07
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2013-the-race-is-on
+- sources/marks-2021-2020-in-review
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2025-gimme-credit
 tags: []
 title: Credit Spread Compression
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7acf652407bd
 schema_version: 2
 uuid: bb71e9f8-500c-51af-ab8b-ded8ebb032e7
-content_hash: sha256:b7a2c777ef8efaba0b66d39b2500ef2e19ab6f60beb97af416ccfbb85153abe7
+content_hash: sha256:272b0ac44f4be64eb47854ff1b2839977866a5be7c9f0f08ef5f4db4be002685
 ---
 
 <!-- AUTHORED REGION START -->
@@ -63,4 +67,8 @@ Now also discussed in: [[sources/ms-2019-03-22-high-yield-hedge]]
 - [[sources/marks-2007-its-all-good|It's All Good]] (2007)
 - [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2025-gimme-credit|Gimme Credit]] (2025)
 <!-- AUTHORED REGION END -->

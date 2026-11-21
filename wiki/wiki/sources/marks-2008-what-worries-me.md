@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:1a9a5bdda716b110b6a4055fd71e6022538edf555d9be667dd34c087dec35ec3
+content_hash: sha256:84ea8177b88d1829ba72ed56c9113d15fd4169c5ea18634b92225e60a321c601
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-what-worries-me
@@ -33,7 +33,9 @@ related:
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2010-all-that-glitters
 - sources/marks-2011-whats-behind-the-downturn
-revision_id: 1
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2016-economic-reality
+revision_id: 2
 schema_version: 2
 source_hash: sha256:2c475bfa0455719857999a5afe3774f42c4e05b92aa2d73de4302d21c15aebda
 source_path: markdown_output/2008-08-28-what-worries-me.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What Worries Me
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_a3cdb1eba683
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_490b064f280e
 uuid: 223ac8b5-5bbe-5a35-8ad0-06adbef7ca5d
 ---
 
@@ -120,6 +122,8 @@ Late August 2008, weeks before the Lehman bankruptcy: Fannie Mae and Freddie Mac
 - Referred to by [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (July 19, 2010)
 - Referred to by [[sources/marks-2010-all-that-glitters|All That Glitters]] (December 17, 2010)
 - Referred to by [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (September 7, 2011)
+- Referred to by [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (September 11, 2012)
+- Referred to by [[sources/marks-2016-economic-reality|Economic Reality]] (May 26, 2016)
 
 ## Notes on the Source Text
 

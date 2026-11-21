@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:e092a0fa456d9053b27712c3fa826684a37d127b6b8e4f96577ada8f8493b954
+content_hash: sha256:d6546cab6c6651c083f56087a3b72962544cfa3a0e0bc519113b77d8e99f2856
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/jeremy-siegel
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2000-irrational-exuberance
@@ -19,12 +19,13 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2009-so-much-thats-false-and-nutty
 - sources/marks-2010-hemlines
+- sources/marks-2013-the-outlook-for-equities
 tags:
 - person
 - howard-marks-memos
 title: Jeremy Siegel
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_7e8447d5b5b5
 uuid: 5dae16e0-4c40-5e46-a6d1-c86cc03dc82a
 ---
 
@@ -51,4 +52,5 @@ Context from the memos:
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (2013)
 <!-- AUTHORED REGION END -->

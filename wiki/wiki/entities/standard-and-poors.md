@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:60dcd0c77552f71ebc3be6671c83e7403df93f6f77ed3f5d6cc8e5d87e132c2c
+content_hash: sha256:1941165f119c80c649bae1c38935c33154df868eb703caf6747ce0e016430a14
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/standard-and-poors
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2005-a-case-in-point
@@ -16,12 +16,13 @@ sources:
 - sources/marks-2010-warning-flags
 - sources/marks-2011-whats-behind-the-downturn
 - sources/marks-2011-its-all-very-taxing
+- sources/marks-2013-ditto
 tags:
 - rating-agency
 - howard-marks-memos
 title: Standard & Poor's
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_8d15ae0b087d
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1173561154c7
 uuid: 065aa4f2-89b8-5c37-b1bf-22a0d735815b
 ---
 
@@ -41,4 +42,5 @@ Credit rating agency named in 8 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 - [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
 <!-- AUTHORED REGION END -->

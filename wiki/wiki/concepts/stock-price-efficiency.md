@@ -1,11 +1,11 @@
 ---
-content_hash: sha256:3a12ac70166954153354b96be6296a487981c530dee3798f4acce8c6cd6867b9
+content_hash: sha256:855237d62366d63b45a93d42fbb79c4299db0b1357cedb6b9743f4d3c154e29c
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/stock-price-efficiency
 page_type: concept
 related: []
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/chen-2024-jump-clustering-information-flows
@@ -17,13 +17,15 @@ sources:
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2003-whad-ya-know
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2014-getting-lucky
+- sources/marks-2015-inspiration-from-the-world-of-sports
 tags:
 - market-efficiency
 - information-flows
 - price-delay
 title: Stock Price Efficiency
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_9cb10a955893
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1dd52f7f33d3
 uuid: 6874694a-3dcd-5022-9a01-8c3d07bba5b2
 ---
 
@@ -50,4 +52,6 @@ uuid: 6874694a-3dcd-5022-9a01-8c3d07bba5b2
 - [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2014-getting-lucky|Getting Lucky]] (2014)
+- [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (2015)
 <!-- AUTHORED REGION END -->

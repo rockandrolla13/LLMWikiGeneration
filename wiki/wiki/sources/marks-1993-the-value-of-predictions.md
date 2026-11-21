@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:e2eaa3e895c854d83126872b8c6285e9d90c58cbda31b6cc42110fe492c62e36
+content_hash: sha256:9fa44f9f1c33e19f7e3c293962479a3595db8252a8cb90dc59e1c223c8351100
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1993-the-value-of-predictions
@@ -25,7 +25,8 @@ related:
 - entities/john-kenneth-galbraith
 - entities/tcw
 - sources/marks-1996-the-value-of-predictions-ii
-revision_id: 1
+- sources/marks-2022-the-illusion-of-knowledge
+revision_id: 2
 schema_version: 2
 source_hash: sha256:e5b58d5195b5a9b8ee2d01c84d0150ba5859f6bb5c9e9045a420488e16f80c7e
 source_path: markdown_output/1993-02-15-the-value-of-predictions-or-where-39-d-all-this-rain-come-from.md
@@ -36,8 +37,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Value of Predictions, or Where'd All This Rain Come From?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_e89bec2d22f2
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 uuid: 652cf97b-2072-5e36-bd4f-3c0575840a5e
 ---
 
@@ -104,6 +105,7 @@ Written in February 1993, after the 1989-1990 high yield bond collapse (recessio
 ## Related Memos
 
 - Referred to by [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (July 22, 1996)
+- Referred to by [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (September 8, 2022)
 
 ## Notes on the Source Text
 

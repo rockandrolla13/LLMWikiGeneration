@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:9b5e0b899b09ffc729b8530ad130ca7a137bcdea51c11627cbf6912079958049
+content_hash: sha256:e1a964992960e599f95e05c7c1b8ad64d9fc2485ecc7595f5c2343aae1c5641c
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2008-the-tide-goes-out
@@ -48,7 +48,9 @@ related:
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-the-limits-to-negativism
 - sources/marks-2009-touchstones
-revision_id: 1
+- sources/marks-2013-the-outlook-for-equities
+- sources/marks-2013-the-role-of-confidence
+revision_id: 2
 schema_version: 2
 source_hash: sha256:47eb6fd8b5bb2e28376172e2c4cea4f255519e1fe67c924bbe168d06d30617c8
 source_path: markdown_output/2008-03-18-the-tide-goes-out.md
@@ -59,8 +61,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Tide Goes Out
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_4def79096428
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_cbff77cedec5
 uuid: e19a38bd-d240-5abe-9d22-c175ae44008b
 ---
 
@@ -150,6 +152,8 @@ March 2008, after the credit crunch that began in summer 2007 and in the days of
 - Referred to by [[sources/marks-2008-nobody-knows|Nobody Knows]] (September 19, 2008)
 - Referred to by [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (October 15, 2008)
 - Referred to by [[sources/marks-2009-touchstones|Touchstones]] (November 10, 2009)
+- Referred to by [[sources/marks-2013-the-outlook-for-equities|The Outlook for Equities]] (March 13, 2013)
+- Referred to by [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (August 5, 2013)
 
 ## Notes on the Source Text
 

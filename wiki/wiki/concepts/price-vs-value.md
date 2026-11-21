@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:09e8232f47eafcba6413723d4d523ff4f0aeb88eb1564e8a7299da84197303be
+content_hash: sha256:21d31f979306f3c1736cacdb740c48e087575d154e73b454bb66b9e64ac3cc5d
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/price-vs-value
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/nifty-fifty
 - concepts/pendulum-of-investor-psychology
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1992-microeconomics-101-supply-demand-convertibles
@@ -32,11 +32,17 @@ sources:
 - sources/marks-2010-all-that-glitters
 - sources/marks-2011-how-quickly-they-forget
 - sources/marks-2011-whats-behind-the-downturn
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2013-ditto
+- sources/marks-2015-its-not-easy
+- sources/marks-2020-calibrating
+- sources/marks-2020-coming-into-focus
+- sources/marks-2026-a-layman-thinks-about-ai
 tags:
 - howard-marks
 title: Price vs Intrinsic Value
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_1b155030eb6c
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3e1914b14a40
 uuid: 6c47cbe8-80c6-5a00-b38a-55704e8c1787
 ---
 
@@ -68,6 +74,12 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2010-all-that-glitters|All That Glitters]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 - [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2013-ditto|Ditto]] (2013)
+- [[sources/marks-2015-its-not-easy|It's Not Easy]] (2015)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2020-coming-into-focus|Coming into Focus]] (2020)
+- [[sources/marks-2026-a-layman-thinks-about-ai|A Layman Thinks About AI]] (2026)
 
 ## Related Concepts
 

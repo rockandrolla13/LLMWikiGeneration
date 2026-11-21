@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:f673e0fe345dcfec66ab668034032bbb0df686c5edaa28c21796e7891653a017
+content_hash: sha256:a3db4939cb5b347bb3b0fdd879cba3e1009050d63e3e5e074a8ecccdd25b17e9
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/contagion
@@ -12,7 +12,7 @@ related:
 - concepts/market-crash-liquidity-crisis
 - concepts/global-financial-crisis
 - concepts/funding-liquidity
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2007-its-all-good-really
@@ -20,11 +20,12 @@ sources:
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-the-aviary
 - sources/marks-2008-plan-b
+- sources/marks-2014-the-lessons-of-oil
 tags:
 - howard-marks
 title: Contagion
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_f506432cc7df
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_2e030528c3d4
 uuid: 2cdcb15d-baf8-5061-97eb-875e5979147d
 ---
 
@@ -44,6 +45,7 @@ Cited in 7 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
 - [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (2014)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:e99cb1f473b588141617d7aaeaca9e0eec320544f4b008b79de4be38bd80c9ce
+content_hash: sha256:f0ad441fc895d9c9b5b95e777e8e5ac76c1efb2c2ec21b52897e542d03c76c59
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-the-most-important-thing
@@ -33,7 +33,12 @@ related:
 - entities/tcw
 - entities/warren-buffett
 - sources/marks-2010-hemlines
-revision_id: 2
+- sources/marks-2014-risk-revisited
+- sources/marks-2014-the-lessons-of-oil
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2015-its-not-easy
+- sources/marks-2022-i-beg-to-differ
+revision_id: 3
 schema_version: 2
 source_hash: sha256:ba890503b17ce87b328a400d4aa8175ded81e3fed8a6518fcd7333b7982c39e4
 source_path: markdown_output/2003-07-01-the-most-important-thing.md
@@ -44,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Most Important Thing
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_fed0f2b9acba
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d4bb6d5237ea
 uuid: b47a1391-597e-5863-9184-bf4899179c8b
 ---
 
@@ -120,6 +125,11 @@ Mid-2003, after the late-1990s tech bubble had burst. The memo is a statement of
 ## Related Memos
 
 - Referred to by [[sources/marks-2010-hemlines|Hemlines]] (September 10, 2010)
+- Referred to by [[sources/marks-2014-risk-revisited|Risk Revisited]] (September 3, 2014)
+- Referred to by [[sources/marks-2014-the-lessons-of-oil|The Lessons of Oil]] (December 18, 2014)
+- Referred to by [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (June 8, 2015)
+- Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
+- Referred to by [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (July 26, 2022)
 
 ## Notes on the Source Text
 

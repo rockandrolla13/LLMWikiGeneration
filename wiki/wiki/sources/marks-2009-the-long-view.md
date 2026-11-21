@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d027c25baf10316665fc0885434a39b985cf34e68d875838fdc49dac4380bc67
+content_hash: sha256:51f257082d35bb64eb6a17cd94661435f3f1772d650b7d88c0ae05310981c6ca
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2009-the-long-view
@@ -42,7 +42,9 @@ related:
 - sources/marks-2009-so-much-thats-false-and-nutty
 - sources/marks-2010-its-greek-to-me
 - sources/marks-2011-whats-behind-the-downturn
-revision_id: 1
+- sources/marks-2012-on-uncertain-ground
+- sources/marks-2025-cockroaches-in-the-coal-mine
+revision_id: 2
 schema_version: 2
 source_hash: sha256:d41d475b871894cfff4884bd76c2af6584cb8167c4fdeffb5fc135f8752f4063
 source_path: markdown_output/2009-01-09-the-long-view.md
@@ -53,8 +55,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Long View
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_ddd3090263f3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: 5da6c732-fdfc-5876-9add-699b9660fc5e
 ---
 
@@ -139,6 +141,8 @@ January 2009, after the Lehman collapse and the 2008 credit crisis: S&P 500 down
 - Referred to by [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (July 19, 2010)
 - Referred to by [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (September 7, 2011)
 - Refers to (no page): previous memo on leverage (named only as 'My last memo')
+- Referred to by [[sources/marks-2012-on-uncertain-ground|On Uncertain Ground]] (September 11, 2012)
+- Referred to by [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (November 6, 2025)
 
 ## Notes on the Source Text
 

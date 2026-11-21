@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:9f03ef34c2fbad9ff3f3ca057ca2ea9d22e5808c4dfdde2e03bc5a6bf3ec9970
+content_hash: sha256:1144ab3c89bfb0b1411f3eb9a7054ee647d8543fde480cf4fea528a0aea42c71
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/long-term-capital-management
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
@@ -30,12 +30,15 @@ sources:
 - sources/marks-2008-nobody-knows
 - sources/marks-2008-volatility-leverage-dynamite
 - sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2014-risk-revisited
+- sources/marks-2015-risk-revisited-again
+- sources/marks-2018-investing-without-people
 tags:
 - investment-firm
 - howard-marks-memos
 title: Long-Term Capital Management
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_da942e9a64b3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_005ee79cd36a
 uuid: f287e44c-f359-56d7-9e34-9310fc6ee2d6
 ---
 
@@ -73,4 +76,7 @@ Context from the memos:
 - [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 - [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 - [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2014-risk-revisited|Risk Revisited]] (2014)
+- [[sources/marks-2015-risk-revisited-again|Risk Revisited Again]] (2015)
+- [[sources/marks-2018-investing-without-people|Investing Without People]] (2018)
 <!-- AUTHORED REGION END -->

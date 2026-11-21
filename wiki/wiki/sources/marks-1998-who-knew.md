@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:ebf42eafe9abee7e817fcc72e9718bc7e3f1ca14e4dd421cb31ee484556f7628
+content_hash: sha256:93df4f9f2bb13917a93e38a716a6e3ce1401786ea972da8ee10ab153463109f2
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1998-who-knew
@@ -24,7 +24,8 @@ related:
 - entities/howard-marks
 - entities/oaktree-capital-management
 - entities/peter-bernstein
-revision_id: 1
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+revision_id: 2
 schema_version: 2
 source_hash: sha256:e509bcb8531d6826b61843428bf2495b5b775958ae2be54617e85397c6bf88cf
 source_path: markdown_output/1998-01-08-who-knew.md
@@ -35,8 +36,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Who Knew?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_af4bc57d125a
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d0083c9c6727
 uuid: a298e404-44db-5ff5-810e-4f75acb35aa9
 ---
 
@@ -101,7 +102,7 @@ Written in early January 1998, a few months into the Asian financial crisis. Asi
 
 ## Related Memos
 
-- Refers to (no page): *Are You An Investor or a Speculator?* (September 3, 1997), page not yet in the wiki. Memo text reference: Marks memo of September 3, 1997 (title not given in the text)
+- Refers to [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (September 3, 1997)
 
 ## Source
 

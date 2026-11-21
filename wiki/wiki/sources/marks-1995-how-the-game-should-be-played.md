@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a5bdf73da2a229f14ec79cea4798fb49d0282723309157c72746b614cc281b99
+content_hash: sha256:cc68d0afde52ed1d1e8d62613221afeee06d51ae773f0ca342339fb6ba9f7034
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1995-how-the-game-should-be-played
@@ -20,7 +20,8 @@ related:
 - entities/amos-tversky
 - entities/howard-marks
 - entities/oaktree-capital-management
-revision_id: 1
+- sources/marks-2015-inspiration-from-the-world-of-sports
+revision_id: 2
 schema_version: 2
 source_hash: sha256:beaf3c1e21ad4dde5f0747c26c338b937671f1d3ec086c9164e8ebdd42942636
 source_path: markdown_output/1995-05-26-how-the-game-should-be-played.md
@@ -31,8 +32,8 @@ tags:
 - howard-marks
 - investment-memo
 title: How the Game Should Be Played
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_11ed2f60efbf
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1dd52f7f33d3
 uuid: 76e31206-cf54-581c-b6c1-2ada40fe5b9a
 ---
 
@@ -91,6 +92,7 @@ Mid-1995, just after the founding of Oaktree. The memo explains the new firm's p
 ## Related Memos
 
 - Refers to (no page): Unnamed 1990 memo rebutting the 'top 5% / bottom 5%' manager (title not given)
+- Referred to by [[sources/marks-2015-inspiration-from-the-world-of-sports|Inspiration from the World of Sports]] (October 22, 2015)
 
 ## Notes on the Source Text
 

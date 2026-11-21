@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:91bb37c7675e163ba2da6f3bba8dba24d68b6d65ec5469bfc2393bb651498873
+content_hash: sha256:d44d48784e2c37f4c4938af63a68def088afd00b360e693700df39fd12232ae3
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-everyone-knows
@@ -35,7 +35,8 @@ related:
 - sources/marks-2006-dare-to-be-great
 - sources/marks-2005-there-they-go-again
 - sources/marks-2007-its-all-good
-revision_id: 1
+- sources/marks-2015-its-not-easy
+revision_id: 2
 schema_version: 2
 source_hash: sha256:f9725e0acc70acba9d104b719aadd68a14c40b6d1ac23e497c18fe966fb6966b
 source_path: markdown_output/2007-04-26-everyone-knows.md
@@ -46,8 +47,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Everyone Knows
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_437c0f4000b7
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_a32c28b9135a
 uuid: 273f02ba-8dfe-5f11-af16-9b7654b1dd18
 ---
 
@@ -123,6 +124,7 @@ Written April 26, 2007, after the condo boom had deflated and before the wider 2
 - Refers to [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (September 7, 2006)
 - Refers to [[sources/marks-2005-there-they-go-again|There They Go Again]] (May 6, 2005)
 - Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
+- Referred to by [[sources/marks-2015-its-not-easy|It's Not Easy]] (September 9, 2015)
 
 ## Notes on the Source Text
 

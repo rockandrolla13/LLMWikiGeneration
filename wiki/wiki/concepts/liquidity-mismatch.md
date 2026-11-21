@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:6f265214806330a75b48f970e2e0352b5c2e6b2dffbbf4196fbaeff8f22bb095
+content_hash: sha256:472163d9fef27df9dc78119fd65096ec1f91e41e8e5bd2a8bdc74cf0dba3b171
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/liquidity-mismatch
@@ -12,17 +12,20 @@ related:
 - concepts/illiquidity-premium
 - concepts/regulatory-pendulum
 - concepts/credit-default-swaps
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2004-hedge-funds-a-case-for-caution
 - sources/marks-2006-pigweed
 - sources/marks-2008-plan-b
+- sources/marks-2015-liquidity
+- sources/marks-2023-lessons-from-silicon-valley-bank
+- sources/marks-2024-easy-money
 tags:
 - howard-marks
 title: Liquidity Mismatch
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_f506432cc7df
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 uuid: b45d2fa7-1902-5db6-aa06-567a3bf6b85f
 ---
 
@@ -40,6 +43,9 @@ Cited in 8 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 - [[sources/marks-2006-pigweed|Pigweed]] (2006)
 - [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2015-liquidity|Liquidity]] (2015)
+- [[sources/marks-2023-lessons-from-silicon-valley-bank|Lessons from Silicon Valley Bank]] (2023)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
 
 ## Related Concepts
 

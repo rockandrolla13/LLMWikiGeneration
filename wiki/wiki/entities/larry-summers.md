@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:72505bd592b37b295cf7b990053a77fa2ffc8ed0284b45063ce442974fcb604e
+content_hash: sha256:60a73c1f9917d6a1619f9ebd00ade6498dcf30a3b17bb7df58375c858ea86699
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/larry-summers
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
@@ -15,12 +15,14 @@ sources:
 - sources/marks-2008-the-tide-goes-out
 - sources/marks-2008-what-worries-me
 - sources/marks-2009-will-it-work
+- sources/marks-2016-implications-of-the-election
+- sources/marks-2021-2020-in-review
 tags:
 - person
 - howard-marks-memos
 title: Larry Summers
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_caa3f31a036e
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_3179190e30a9
 uuid: 5d9b8ed5-70f7-5a35-b577-267ff7cc17e5
 ---
 
@@ -34,7 +36,7 @@ Person named in 9 of the 165 Howard Marks memos in the collection.
 Context from the memos:
 
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998): Early October 1998: LTCM had just been restructured with additional investment from 14 financial institutions amid fears of a threat to the world financial system; emerging-market economies and currencies were sliding despite U.S. policy efforts (Rubin and Summers); non-Treasury bond prices had fallen while Treasurys rallied.
-- *2020 in Review* (2021, page not yet in the wiki): Larry Summers had warned of inflation risk from the stimulus.
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021): Larry Summers had warned of inflation risk from the stimulus.
 
 ## Appearances in Howard Marks's Memos
 
@@ -44,4 +46,6 @@ Context from the memos:
 - [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
 - [[sources/marks-2008-what-worries-me|What Worries Me]] (2008)
 - [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
+- [[sources/marks-2016-implications-of-the-election|Implications of the Election]] (2016)
+- [[sources/marks-2021-2020-in-review|2020 in Review]] (2021)
 <!-- AUTHORED REGION END -->

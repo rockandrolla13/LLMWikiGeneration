@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:58098ff634646312d9f4293ba722e1e50c94e2f0207ddd78ce07703651d6e12c
+content_hash: sha256:1557a2911a77cba207d5de12c4938f6e41f62a66fa2f114d6bb2fe2cd31e26de
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-the-race-to-the-bottom
@@ -35,7 +35,11 @@ related:
 - sources/marks-2009-the-long-view
 - sources/marks-2009-touchstones
 - sources/marks-2012-what-can-we-do-for-you
-revision_id: 1
+- sources/marks-2013-ditto
+- sources/marks-2013-the-race-is-on
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2025-cockroaches-in-the-coal-mine
+revision_id: 2
 schema_version: 2
 source_hash: sha256:2fe72d448802f923422ada4194e64293ac9a7e01ea3947fcb7c21c3132555ba4
 source_path: markdown_output/2007-02-14-the-race-to-the-bottom.md
@@ -46,8 +50,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Race to the Bottom
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_a43d488ffb22
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_331e2472d3a9
 uuid: f80b07f8-445f-5de2-80e7-c7a6e637d0c0
 ---
 
@@ -124,6 +128,10 @@ Early 2007, near the peak of the pre-crisis credit boom. A global liquidity glut
 - Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
 - Referred to by [[sources/marks-2009-touchstones|Touchstones]] (November 10, 2009)
 - Referred to by [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (January 10, 2012)
+- Referred to by [[sources/marks-2013-ditto|Ditto]] (January 7, 2013)
+- Referred to by [[sources/marks-2013-the-race-is-on|The Race Is On]] (November 26, 2013)
+- Referred to by [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (May 26, 2022)
+- Referred to by [[sources/marks-2025-cockroaches-in-the-coal-mine|Cockroaches in the Coal Mine]] (November 6, 2025)
 
 ## Notes on the Source Text
 

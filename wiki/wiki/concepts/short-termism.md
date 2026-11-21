@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:8424d1798275e731677d291672bd999d77635deed91118bfaf2751ed159c9f09
+content_hash: sha256:e0472ea59d9a87f249a100b6a9068936f3ca4ebb19d3261e9f1ce1af28cfe3ca
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/short-termism
@@ -10,17 +10,18 @@ related:
 - concepts/sovereign-debt-sustainability
 - concepts/contrarian-investing
 - concepts/monetary-and-fiscal-policy
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-2008-doesnt-make-sense
 - sources/marks-2008-what-worries-me
 - sources/marks-2010-id-rather-be-wrong
+- sources/marks-2022-i-beg-to-differ
 tags:
 - howard-marks
 title: Short-Termism
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_3ad4bbbdf7f5
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_d4bb6d5237ea
 uuid: 57a944f0-fcc7-5ab8-8407-a226046fc06f
 ---
 
@@ -38,6 +39,7 @@ Cited in 4 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 - [[sources/marks-2008-what-worries-me|What Worries Me]] (2008)
 - [[sources/marks-2010-id-rather-be-wrong|I'd Rather Be Wrong]] (2010)
+- [[sources/marks-2022-i-beg-to-differ|I Beg to Differ]] (2022)
 
 ## Related Concepts
 

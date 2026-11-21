@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:e1420c9f2601f46b63597b42118ae68f4f2b8b1c0cf2c733240a9e809546555f
+content_hash: sha256:3fcc12b6ceda63fa6f30eda25b4fe51a6e0cd0c477937630509458046b21a5d6
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/this-time-is-different
@@ -12,7 +12,7 @@ related:
 - concepts/credit-spread-compression
 - concepts/pendulum-of-investor-psychology
 - concepts/three-stages-of-a-bull-market
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1996-will-it-be-different-this-time
@@ -22,11 +22,14 @@ sources:
 - sources/marks-2005-there-they-go-again
 - sources/marks-2007-its-all-good
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2023-further-thoughts-on-sea-change
+- sources/marks-2025-is-it-a-bubble
 tags:
 - howard-marks
 title: '''This Time Is Different'''
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_ad8fe77d6eb0
 uuid: 8577fb25-7bef-58e5-b925-6c4ddefab77c
 ---
 
@@ -48,6 +51,9 @@ Cited in 16 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2007-its-all-good|It's All Good]] (2007)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2023-further-thoughts-on-sea-change|Further Thoughts on Sea Change]] (2023)
+- [[sources/marks-2025-is-it-a-bubble|Is It a Bubble?]] (2025)
 
 ## Related Concepts
 

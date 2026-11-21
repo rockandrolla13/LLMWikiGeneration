@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:047826a5ad429bf53f27c2a18304b8384c31846bb86224c805c27aa44a8eb9ce
+content_hash: sha256:13273679da9bc183ca807ddf7373d816cbfc8edf7b16a380923ba98974a7acc7
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/market-cycles
@@ -12,7 +12,7 @@ related:
 - concepts/asset-bubbles
 - concepts/business-cycles
 - concepts/contrarian-market-timing
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -41,11 +41,17 @@ sources:
 - sources/marks-2009-the-long-view
 - sources/marks-2010-hemlines
 - sources/marks-2011-how-quickly-they-forget
+- sources/marks-1997-are-you-an-investor-or-a-speculator
+- sources/marks-2013-the-role-of-confidence
+- sources/marks-2013-the-race-is-on
+- sources/marks-2020-calibrating
+- sources/marks-2022-bull-market-rhymes
+- sources/marks-2024-easy-money
 tags:
 - howard-marks
 title: Market Cycles
-updated: '2026-11-21T02:33:09Z'
-updated_by: op_92a51ddcbfec
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_8fbe6f097537
 uuid: 458b4f5b-1957-5485-9d8f-229a7d62dced
 ---
 
@@ -86,6 +92,12 @@ Cited in 37 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2009-the-long-view|The Long View]] (2009)
 - [[sources/marks-2010-hemlines|Hemlines]] (2010)
 - [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-1997-are-you-an-investor-or-a-speculator|Are You An Investor or a Speculator?]] (1997)
+- [[sources/marks-2013-the-role-of-confidence|The Role of Confidence]] (2013)
+- [[sources/marks-2013-the-race-is-on|The Race Is On]] (2013)
+- [[sources/marks-2020-calibrating|Calibrating]] (2020)
+- [[sources/marks-2022-bull-market-rhymes|Bull Market Rhymes]] (2022)
+- [[sources/marks-2024-easy-money|Easy Money]] (2024)
 
 ## Related Concepts
 

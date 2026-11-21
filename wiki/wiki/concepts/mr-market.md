@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:d4e967c4652d431d96b7f4598179208ce8542527e02644fcd9a5ac9eecadce6c
+content_hash: sha256:ef07a3d8b7a89d3aa6fd187eba492e55a8d219078f739ec2fc671e25d8ef86bb
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/mr-market
@@ -12,14 +12,15 @@ related:
 - concepts/this-time-is-different
 - concepts/efficient-market-hypothesis
 - concepts/behavioral-finance
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2016-go-figure
 tags:
 - howard-marks
 title: Mr. Market and the Voting Machine
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_1d54838b117b
 uuid: 38110886-13f6-5146-9ba8-a06355bc6f94
 ---
 
@@ -33,6 +34,8 @@ Graham's images for the market's moods: a manic-depressive partner who offers pr
 ## In Howard Marks's Memos
 
 Cited in 5 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2016-go-figure|Go Figure!]] (2016)
 
 ## Related Concepts
 

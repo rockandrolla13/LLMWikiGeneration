@@ -9,19 +9,21 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/quantitative-easing
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 - sources/ms-2019-02-15-ongoing-weakness
 - sources/ms-2019-03-01-bank-funding-focus
 - sources/marks-1996-the-value-of-predictions-ii
+- sources/marks-2017-expert-opinion
+- sources/marks-2022-the-illusion-of-knowledge
 tags: []
 title: Macroeconomic Indicators
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ac75b33ed2a3
+updated: '2026-11-21T02:40:24Z'
+updated_by: op_bff3bcb6b3ea
 schema_version: 2
 uuid: f143ea46-59eb-5860-99f2-cb68a5d81d9d
-content_hash: sha256:d4648d92d38670cffb7c2a3e41702587ae2770baa5813e0893765f9df3673c9a
+content_hash: sha256:e1ebde08660d55bbdd983993a1da3db8bb1cc6ed37ef32e0ab83bfdd7c52cf79
 ---
 
 <!-- AUTHORED REGION START -->
@@ -45,4 +47,6 @@ Released economic data series (PMIs, Ifo, HICP, labour reports) used to assess t
 ## In Howard Marks's Memos
 
 - [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
+- [[sources/marks-2017-expert-opinion|Expert Opinion]] (2017)
+- [[sources/marks-2022-the-illusion-of-knowledge|The Illusion of Knowledge]] (2022)
 <!-- AUTHORED REGION END -->
