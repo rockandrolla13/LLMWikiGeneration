@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:cfdcf8e717fb81c0729f7a530daea6a482c997c76cb20156cb40d583dbdfdf6b
+content_hash: sha256:047826a5ad429bf53f27c2a18304b8384c31846bb86224c805c27aa44a8eb9ce
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/market-cycles
@@ -12,7 +12,7 @@ related:
 - concepts/asset-bubbles
 - concepts/business-cycles
 - concepts/contrarian-market-timing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -32,11 +32,20 @@ sources:
 - sources/marks-2005-there-they-go-again
 - sources/marks-2005-a-case-in-point
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2007-its-all-good
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-now-what
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-nobody-knows
+- sources/marks-2009-the-long-view
+- sources/marks-2010-hemlines
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - howard-marks
 title: Market Cycles
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 458b4f5b-1957-5485-9d8f-229a7d62dced
 ---
 
@@ -68,6 +77,15 @@ Cited in 37 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:e796f87646cd5699f2b44569e1c1014503f8f68387152d155655ee9aa6b42305
+content_hash: sha256:a9b64aaab2a2fa4f3fd9a1f6ec1e80fc87158fc8127e714bc1c7ae9deaa935ef
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2001-safety-first-but-where
@@ -39,7 +39,8 @@ related:
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2002-returns-and-how-they-get-that-way
-revision_id: 1
+- sources/marks-2009-so-much-thats-false-and-nutty
+revision_id: 2
 schema_version: 2
 source_hash: sha256:0cb0b4d2a729128d4d7205672bdc9eb0caac7c663eb22363634ec1d0c52a4f44
 source_path: markdown_output/2001-04-10-safety-first-but-where.md
@@ -50,8 +51,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Safety First . . . But Where?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_874dd5e7eac0
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_da942e9a64b3
 uuid: bc2b8d37-8a85-57b2-9f47-54c1004a47e7
 ---
 
@@ -132,6 +133,7 @@ April 2001, after the 1999/early-2000 tech-stock peak and the 2000 downturn. Ind
 - Referred to by [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 11, 2001)
 - Referred to by [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (September 4, 2002)
 - Referred to by [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (November 11, 2002)
+- Referred to by [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (July 8, 2009)
 
 ## Notes on the Source Text
 

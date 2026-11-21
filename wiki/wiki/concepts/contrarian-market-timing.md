@@ -10,7 +10,7 @@ related:
 - concepts/market-timing
 - concepts/mean-reversion
 - concepts/value-at-risk
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1991-first-quarter-performance
@@ -30,13 +30,21 @@ sources:
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2004-us-and-them
 - sources/marks-2004-the-happy-medium
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-everyone-knows
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-touchstones
+- sources/marks-2010-hemlines
+- sources/marks-2012-what-can-we-do-for-you
 tags: []
 title: Contrarian Market Timing
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_b820cde81c72
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 schema_version: 2
 uuid: edc4c7b2-8680-5df3-a3bb-b328fe6315b3
-content_hash: sha256:5c155f1eb9e7f273f320b00c02ce905a4978144b337f633474fc9e8a2cca7a53
+content_hash: sha256:a6deaab42355145c69e4bae58700958dcad961ca6964f708e1abab08562bbd07
 ---
 
 <!-- AUTHORED REGION START -->
@@ -75,4 +83,12 @@ Tactical adjustment of medium-term exposure based on valuation signals; valuatio
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 <!-- AUTHORED REGION END -->

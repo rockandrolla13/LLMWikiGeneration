@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:61bd99b7c019e8c1f9b37b36920e6f18054d4b0acf2aeeacb2b6cef2eee3f494
+content_hash: sha256:8b26ab085cac7ea62f41b0db133385386e272a921488c2ebb48a8da764a01a8b
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,7 +11,7 @@ related:
 - concepts/algorithmic-trading
 - concepts/behavioral-finance
 - concepts/trading-strategy-overfitting
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/carver-2015-systematic-trading
@@ -37,10 +37,11 @@ sources:
 - sources/ye-2017-developing-sustainable-trading-strategies-directional-changes
 - sources/zhao-2026-novel-trading-algorithms-augmented-intrinsic-time
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
+- sources/marks-2007-now-its-all-bad
 tags: []
 title: Over-fitting in Back-testing
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_9af1f34bc0c6
 uuid: 9d33c83b-8b3f-5183-9800-762bc3627c0b
 ---
 
@@ -55,6 +56,10 @@ The tendency of in-sample calibration to select rules/parameters that fit noise 
 
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/carver-2015-systematic-trading|Systematic Trading: A unique new method for designing trading and investing systems]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
 
 ## Related Concepts
 

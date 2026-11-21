@@ -9,17 +9,18 @@ page_type: concept
 related:
 - concepts/causal-inference
 - concepts/system-archetypes
-revision_id: 1
+revision_id: 2
 sources:
 - sources/dawson-2020-systems-mental-models
 - sources/meadows-2008-thinking-in-systems
+- sources/marks-2008-nobody-knows
 tags: []
 title: Feedback Loops
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_976e9d9d6bca
 schema_version: 2
 uuid: 0037fa36-f1ce-5d59-a7b9-a3116070eb8b
-content_hash: sha256:999d2329b956608feaf4e8fbe5ccb2d0bcd3ba4912a5235929ac63e21cbf2fd6
+content_hash: sha256:78f883745d8c8951498761472e81c8488e78c4b3b91ddcd04ed54e8266204678
 ---
 
 <!-- AUTHORED REGION START -->
@@ -33,6 +34,10 @@ Closed chains of causation through which a stock influences its own flows; balan
 
 - [[sources/dawson-2020-systems-mental-models|Thinking in Systems and Mental Models: Think Like a Super Thinker]]
 - [[sources/meadows-2008-thinking-in-systems|Thinking in Systems: A Primer]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
 
 ## Related Concepts
 

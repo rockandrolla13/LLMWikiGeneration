@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:89a00654d6b8c337d41aabe0b8b8d317a08effddca714f25c2be8faa0896a6b3
+content_hash: sha256:59c93a9f02ca39b489c5241c05bd52cc7f880d80e79baf0db4d0c97127fa75ad
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/distressed-debt
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/contrarian-market-timing
 - concepts/contrarian-investing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -30,11 +30,17 @@ sources:
 - sources/marks-2003-whats-your-game-plan
 - sources/marks-2004-the-happy-medium
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2006-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-its-all-good
+- sources/marks-2008-now-what
+- sources/marks-2009-will-it-work
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - howard-marks
 title: Distressed Debt Investing
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 9e67516d-b484-5d63-a8d6-9acee3e0b878
 ---
 
@@ -64,6 +70,12 @@ Cited in 36 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (2003)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 
 ## Related Concepts
 

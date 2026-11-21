@@ -10,16 +10,18 @@ related:
 - concepts/behavioral-finance
 - concepts/minimum-variance-portfolio
 - concepts/value-at-risk
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ilmanen-2011-expected-returns
+- sources/marks-2008-the-aviary
+- sources/marks-2008-volatility-leverage-dynamite
 tags: []
 title: Tail Risk and Volatility Selling
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_03a62e624ff1
 schema_version: 2
 uuid: 082ef3f1-eab8-5161-9688-0f626f37844d
-content_hash: sha256:adefbf3d3993833c28c62fee26d6711b18bc0fe597e8852df2c0c6a8b8e98862
+content_hash: sha256:8c12768694b296eea0fb8c101894ae5a580c5adad793ff7e777fb147e0f64c58
 ---
 
 <!-- AUTHORED REGION START -->
@@ -32,6 +34,11 @@ Premia for bearing volatility, correlation, and negative-skewness shocks; explai
 ## Sources
 
 - [[sources/ilmanen-2011-expected-returns|Expected Returns: An Investor's Guide to Harvesting Market Rewards]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
 
 ## Related Concepts
 

@@ -25,7 +25,7 @@ related:
 - concepts/tail-risk-premium
 - concepts/value-premium
 - concepts/wealth-inequality-financialized-capitalism
-revision_id: 4
+revision_id: 5
 sources:
 - sources/ms-2016-06-15-1937-38-redux
 - sources/ms-2019-01-02-global-in-the-flow-2018-by-the-numbers
@@ -64,16 +64,28 @@ sources:
 - sources/marks-2004-the-happy-medium
 - sources/marks-2005-there-they-go-again
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-everyone-knows
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2009-touchstones
+- sources/marks-2010-hemlines
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - behavioral-finance
 - heuristics
 - anomalies
 title: Behavioral Finance
-updated: '2026-11-21T02:22:02Z'
+updated: '2026-11-21T02:33:09Z'
 schema_version: 2
 uuid: 813248fe-dbe9-53e9-8a05-bbc3e5d7a86b
-content_hash: sha256:44f9bc41b552814a06bdc7e4916a9284a6d46b6bf103950b1e95f96eadbb76a9
-updated_by: op_6123799129d3
+content_hash: sha256:f2198a82ac51d33ed28ae91e6aa2e03f1cd9e3f046dc3486ab08df3c1f389746
+updated_by: op_92a51ddcbfec
 ---
 
 <!-- AUTHORED REGION START -->
@@ -144,4 +156,16 @@ Now also discussed in: [[sources/ms-2016-06-15-1937-38-redux]], [[sources/ms-201
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

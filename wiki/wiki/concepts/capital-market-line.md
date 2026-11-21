@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:f9e23af8d46c16dfde68038487c1d74483de25d00b17b772191f5ce2f783a989
+content_hash: sha256:0e09e3db55aa19887e9ced495a346c8262ce48b41714574ae2505bc86892ab8b
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/capital-market-line
@@ -12,16 +12,19 @@ related:
 - concepts/negative-interest-rate-policy
 - concepts/natural-vs-neutral-interest-rate
 - concepts/credit-spread-compression
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2005-there-they-go-again
+- sources/marks-2006-risk
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2010-open-and-shut
 tags:
 - howard-marks
 title: The Capital Market Line
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: 72254d97-36d8-554d-8396-b8cc1d2a3213
 ---
 
@@ -38,6 +41,9 @@ Cited in 9 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 
 ## Related Concepts
 

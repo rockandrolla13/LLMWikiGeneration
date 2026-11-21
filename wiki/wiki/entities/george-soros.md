@@ -1,22 +1,24 @@
 ---
-content_hash: sha256:d582e0c509f25dde828d68ad4fec05181db3e9a8cdb1adb153bc623e4ac53552
+content_hash: sha256:dcd7c7da6a706f32ad2b76d025786d00e4c9e3d742e6807b766d447f32c2365f
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/george-soros
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-2000-irrational-exuberance
+- sources/marks-2008-the-aviary
+- sources/marks-2009-touchstones
 tags:
 - person
 - howard-marks-memos
 title: George Soros
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_45a7f7c08e2c
 uuid: e623eaab-09fd-58c2-a86c-8588f34600e5
 ---
 
@@ -36,4 +38,6 @@ Context from the memos:
 
 - [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
 - [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:9510fbb70c3dc7658b28ce246a3e28dbef88882c846fd4b0c9488649b9e8a393
+content_hash: sha256:86a5072c50b7200a99f9940776ddf29210ca5392f8677df63450e7726708c249
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/pendulum-of-investor-psychology
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/risk-premia
 - concepts/asset-bubbles
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -29,11 +29,30 @@ sources:
 - sources/marks-2003-whats-going-on
 - sources/marks-2004-the-happy-medium
 - sources/marks-2004-risk-and-return-today
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-its-all-good
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-the-aviary
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-the-long-view
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2009-touchstones
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2010-warning-flags
+- sources/marks-2010-its-greek-to-me
+- sources/marks-2010-hemlines
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-on-regulation
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: The Pendulum of Investor Psychology
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: cb41b2dd-cc42-5705-8bab-10dce387a68c
 ---
 
@@ -62,6 +81,25 @@ Cited in 56 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

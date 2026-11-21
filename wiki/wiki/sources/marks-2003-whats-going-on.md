@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:936bdbd95efe13f7ec9c345bc0b5b47e55321b23db897231508a20ba9e92c53c
+content_hash: sha256:f8abb28f6ba9151f64273cfd30e0e59a7090f5381b8dae11a83641250fcdc2d2
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-whats-going-on
@@ -29,7 +29,9 @@ related:
 - entities/warren-buffett
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2004-risk-and-return-today
-revision_id: 1
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
+revision_id: 2
 schema_version: 2
 source_hash: sha256:71f81490421e560435c09ef8d2d397a411d59f7a9dd27b68656137d6458c34c7
 source_path: markdown_output/2003-05-16-whats-going-on.md
@@ -40,8 +42,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What's Going On?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_1f0a47d4a688
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: f224ff71-cf0e-59d7-9539-7139aede1435
 ---
 
@@ -112,6 +114,8 @@ Spring 2003, after the 2000-02 equity bear market and the 2002 wave of corporate
 
 - Refers to [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Referred to by [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (October 27, 2004)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
+- Referred to by [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (May 25, 2011)
 
 ## Notes on the Source Text
 

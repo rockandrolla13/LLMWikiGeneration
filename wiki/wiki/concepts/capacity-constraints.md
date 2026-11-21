@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:78a93bbf2e28827330d23386d919396e0093cb349c066cd7264ddce51df1bbce
+content_hash: sha256:6abd430490a69dd890f85ada48ca6abc2a8dfdb70670f7edbdba1b6357f6b4b2
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/capacity-constraints
@@ -12,7 +12,7 @@ related:
 - concepts/i-know-vs-i-dont-know-school
 - concepts/efficient-market-hypothesis
 - concepts/survivorship-bias
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2003-the-most-important-thing
@@ -20,11 +20,12 @@ sources:
 - sources/marks-2004-hedge-funds-a-case-for-caution
 - sources/marks-2005-oaktree-at-ten
 - sources/marks-2005-a-case-in-point
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
 tags:
 - howard-marks
 title: Capacity Constraints and Asset Growth
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d04ab7aa3c00
 uuid: a0558ac4-9521-5774-b738-5664d4469a33
 ---
 
@@ -44,6 +45,7 @@ Cited in 8 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
 - [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
 
 ## Related Concepts
 

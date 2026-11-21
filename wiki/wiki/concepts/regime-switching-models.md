@@ -12,7 +12,7 @@ related:
 - concepts/mean-reversion
 - concepts/quantitative-easing
 - concepts/statistical-arbitrage
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ms-2018-07-09-em-risk-indicator-regime-switching
 - sources/ms-2019-02-13-ecb-periphery-one-size
@@ -20,13 +20,14 @@ sources:
 - sources/ms-2019-06-03-emfx-quants-lab-carry-performs
 - sources/ms-2020-04-01-in-the-flow-q1-recap
 - sources/ms-2020-04-03-deeper-drop-slower-climb
+- sources/marks-2008-the-aviary
 tags: []
 title: Regime-Switching Models
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_5b81674d72ee
 schema_version: 2
 uuid: 659bca37-0214-556b-b02f-cfc6b272290a
-content_hash: sha256:5a6aea9bb0e3e084a561a196a82fbe0fd910ceec4a5e7e150bf216675ea5a9f7
+content_hash: sha256:cb9038680a35652e9ceda3f87d1d078b404be2d5ce30639ff7ffd04889297f05
 ---
 
 <!-- AUTHORED REGION START -->
@@ -44,6 +45,10 @@ Statistical models that classify markets into discrete states (e.g. risk-seeking
 - [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs|EM Quant Strategy: EMFX Quant's Lab - Carry Performs]]
 - [[sources/ms-2020-04-01-in-the-flow-q1-recap|Global In the Flow First Quarter Recap: What a Year This Quarter Has Been]]
 - [[sources/ms-2020-04-03-deeper-drop-slower-climb|US Economics: Deeper Drop, Slower Climb]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 
 ## Related Concepts
 

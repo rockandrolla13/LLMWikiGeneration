@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:d11106ecfb1bbd6433d58b2ab47937621c8752dfc1b41ee9481aaff65a334502
+content_hash: sha256:986fa799be825b8156943da175b5e85bd65e381e07e422b4c1f1e77b9676a1f4
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -18,7 +18,7 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -40,10 +40,17 @@ sources:
 - sources/marks-2000-were-not-in-1999-anymore-toto
 - sources/marks-2004-the-happy-medium
 - sources/marks-2004-risk-and-return-today
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-everyone-knows
+- sources/marks-2007-its-all-good
+- sources/marks-2008-now-what
+- sources/marks-2008-whodunit
+- sources/marks-2008-the-aviary
+- sources/marks-2011-how-quickly-they-forget
 tags: []
 title: Default Rates
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ddd90e2111da
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: bf605565-480c-58dc-950a-27081d4e27e8
 ---
 
@@ -79,4 +86,11 @@ Now also discussed in: [[sources/ms-2012-03-09-european-hy-leveraged-finance-pla
 - [[sources/marks-2000-were-not-in-1999-anymore-toto|We're Not In 1999 Anymore, Toto]] (2000)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

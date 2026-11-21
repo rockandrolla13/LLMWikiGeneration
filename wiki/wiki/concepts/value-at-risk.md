@@ -12,21 +12,27 @@ related:
 - concepts/tick-loss
 - concepts/volatility-targeting
 - concepts/volatility-targeting-position-sizing
-revision_id: 3
+revision_id: 5
 sources:
 - sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact
 - sources/ms-2020-03-20-risk-parity-deleveraging
 - sources/peiris-2025-rnn-har-var
+- sources/marks-2006-risk
+- sources/marks-2006-pigweed
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-whodunit
+- sources/marks-2009-so-much-thats-false-and-nutty
 tags:
 - risk-management
 - quantile
 - basel
 - regulatory-capital
 title: Value-at-Risk
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:33:11Z'
 schema_version: 2
 uuid: 35fb663c-32ca-5759-8347-bdaf6e85ff7a
-content_hash: sha256:0542dc1e618ed135dffa62edb2d8a8d4bfd877937e5550e8bea756ad90718637
+content_hash: sha256:027a52a1f60e1f61ab2817d74f79982ee07b32901f723cd4f8fe016872b2d3ec
+updated_by: op_5b3739af413f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -37,6 +43,14 @@ content_hash: sha256:0542dc1e618ed135dffa62edb2d8a8d4bfd877937e5550e8bea756ad907
 ## Sources
 
 - [[sources/peiris-2025-rnn-har-var|Loss-Based Bayesian Sequential VaR with RNN-HAR (2025)]] — central; the direct forecasting target via quantile loss
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 
 ## Related Concepts
 
@@ -54,4 +68,8 @@ content_hash: sha256:0542dc1e618ed135dffa62edb2d8a8d4bfd877937e5550e8bea756ad907
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2019-01-13-cross-asset-playbook-turning-points-intact]], [[sources/ms-2020-03-20-risk-parity-deleveraging]]
+
+## Contradictions
+
+- [[contradictions/can-financial-tail-risk-be-estimated|Can Models Estimate Financial Tail Risk?]]
 <!-- AUTHORED REGION END -->

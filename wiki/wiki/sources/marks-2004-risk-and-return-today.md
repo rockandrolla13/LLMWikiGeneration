@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:6277bd13b0b50d517bd8def96b3f725a7a2496b7f75a1e1928b9045081414b35
+content_hash: sha256:76525961b40ba8a342e54a03931f0b8eca904456d3e795a8ad7bdc5f1ef1cb01
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-risk-and-return-today
@@ -29,7 +29,12 @@ related:
 - sources/marks-2003-whats-going-on
 - sources/marks-2003-whats-your-game-plan
 - sources/marks-2005-there-they-go-again
-revision_id: 1
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2009-the-long-view
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
+revision_id: 2
 schema_version: 2
 source_hash: sha256:e194a0e1bb8e9ca919ea5ce04cac53e0954b873a63076463bf6ab8a41afdeb43
 source_path: markdown_output/2004-10-27-risk-and-return-today.md
@@ -40,8 +45,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Risk and Return Today
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ddd90e2111da
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 8a950711-6144-535f-b623-17a29a1731a1
 ---
 
@@ -112,6 +117,11 @@ Late 2004. The Fed had held short rates at multi-generational lows ("emergency r
 - Refers to [[sources/marks-2003-whats-going-on|What's Going On?]] (May 6, 2003)
 - Refers to [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (September 5, 2003)
 - Referred to by [[sources/marks-2005-there-they-go-again|There They Go Again]] (May 6, 2005)
+- Referred to by [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (March 27, 2006)
+- Referred to by [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (December 17, 2007)
+- Referred to by [[sources/marks-2009-the-long-view|The Long View]] (January 9, 2009)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
+- Referred to by [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (May 25, 2011)
 
 ## Notes on the Source Text
 

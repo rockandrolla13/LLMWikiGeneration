@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_id: 3
+revision_id: 4
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 - sources/ms-2009-11-12-us-rate-strategist
@@ -119,13 +119,18 @@ sources:
 - sources/patkar-2026-ms-global-credit-midyear
 - sources/marks-2003-whad-ya-know
 - sources/marks-2003-the-feelings-mutual
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2008-the-aviary
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
+- sources/marks-2008-the-limits-to-negativism
 tags: []
 title: Morgan Stanley
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_7c9f9dd3f756
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_470b4c005c8f
 schema_version: 2
 uuid: cee4274b-5af8-5394-92b3-8fbd6ec649c4
-content_hash: sha256:bb67fea063a4b5e5be1ff56c1ed0444197a9de93d18d816e31ae266f442df0a4
+content_hash: sha256:8c8f8465280ac35e1776ee6e47d64a2d396750f974c3cdfa90a299b4ea5dbd0f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -186,4 +191,9 @@ sources directory for `ms-20`.
 
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 <!-- AUTHORED REGION END -->

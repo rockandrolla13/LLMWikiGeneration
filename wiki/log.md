@@ -323,3 +323,255 @@ Operation ID: op_6123799129d3
 Contradiction check for Howard Marks memos, chunk 1. Found one direct conflict: Marks says risk is not volatility, while the Volatility Targeting page treats volatility as the risk held constant. Created 1 page, updated 2.
 
 Operation ID: op_766924c6f271
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Risk* (January 19, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 25.
+
+Operation ID: op_30fd531433cd
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *It Is What It Is* (March 27, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 22.
+
+Operation ID: op_2a7f6c57f1f3
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Returns, Absolute Returns and Risk* (June 13, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 17.
+
+Operation ID: op_cc075526da31
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *You Can’t Eat IRR* (July 12, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 9.
+
+Operation ID: op_e5222ea1b6d9
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Dare to Be Great* (September 7, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 20.
+
+Operation ID: op_e00ef076e356
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The New Paradigm* (October 19, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 23.
+
+Operation ID: op_b193186712da
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Pigweed* (December 7, 2006) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 20.
+
+Operation ID: op_bcced4c23f2d
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The Race to the Bottom* (February 14, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 17.
+
+Operation ID: op_a43d488ffb22
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Everyone Knows* (April 26, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 23.
+
+Operation ID: op_437c0f4000b7
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *It's All Good* (July 16, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 34.
+
+Operation ID: op_bf7773906754
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *It’s All Good . . . Really?* (July 30, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 20.
+
+Operation ID: op_7eab212b6e8f
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Now It’s All Bad?* (September 10, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 32.
+
+Operation ID: op_9af1f34bc0c6
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *No Different This Time – The Lessons of ‘07* (December 17, 2007) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 33.
+
+Operation ID: op_d04ab7aa3c00
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Now What?* (January 10, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 29.
+
+Operation ID: op_015df367babe
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Whodunit* (February 20, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 33.
+
+Operation ID: op_a6f883c918b1
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The Tide Goes Out* (March 18, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 29.
+
+Operation ID: op_4def79096428
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The Aviary* (May 16, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 28.
+
+Operation ID: op_5b81674d72ee
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Doesn’t Make Sense* (July 31, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 21.
+
+Operation ID: op_6134e762def7
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *What Worries Me* (August 28, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 17.
+
+Operation ID: op_a3cdb1eba683
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Nobody Knows* (September 19, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 27.
+
+Operation ID: op_976e9d9d6bca
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Plan B* (September 24, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 26.
+
+Operation ID: op_f506432cc7df
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The Limits to Negativism* (October 15, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 28.
+
+Operation ID: op_470b4c005c8f
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Volatility + Leverage = Dynamite* (December 17, 2008) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 28.
+
+Operation ID: op_03a62e624ff1
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *The Long View* (January 9, 2009) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 27.
+
+Operation ID: op_ddd3090263f3
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Will It Work?* (March 5, 2009) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 19.
+
+Operation ID: op_caa3f31a036e
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *So Much That's False and Nutty* (July 8, 2009) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 34.
+
+Operation ID: op_da942e9a64b3
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Touchstones* (November 10, 2009) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 33.
+
+Operation ID: op_45a7f7c08e2c
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Tell Me I’m Wrong* (January 22, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 21.
+
+Operation ID: op_fe49e5946552
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *I'd Rather Be Wrong* (March 17, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 10.
+
+Operation ID: op_3ad4bbbdf7f5
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Warning Flags* (May 12, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 23.
+
+Operation ID: op_2e8de85786cb
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *It's Greek to Me* (July 19, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 18.
+
+Operation ID: op_3076bd322a96
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Hemlines* (September 10, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 23.
+
+Operation ID: op_fed0f2b9acba
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Open and Shut* (December 1, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 27.
+
+Operation ID: op_d36e1cadbff4
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *All That Glitters* (December 17, 2010) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 14.
+
+Operation ID: op_e28e3a15c822
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *On Regulation* (March 2, 2011) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 17.
+
+Operation ID: op_670d900bbdbf
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *How Quickly They Forget* (May 25, 2011) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 29.
+
+Operation ID: op_92a51ddcbfec
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Down to the Wire* (July 21, 2011) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 17.
+
+Operation ID: op_b1c712ee904a
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *What's Behind the Downturn?* (September 7, 2011) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 20.
+
+Operation ID: op_1b155030eb6c
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *It's All Very Taxing* (November 16, 2011) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 16.
+
+Operation ID: op_8d15ae0b087d
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *What Can We Do For You?* (January 10, 2012) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 21.
+
+Operation ID: op_19ff275ee994
+
+## 2026-11-21T02:33:09Z ingest
+
+Ingested the Howard Marks memo *Assessing Performance Records – A Case Study* (February 15, 2012) from `raw/howard-marks-memos/`, chunk 2 of 4. Created 1 page, updated 14.
+
+Operation ID: op_0e59657812a3
+
+## 2026-11-21T02:33:11Z update
+
+Contradiction check for Howard Marks memos, chunk 2. Found one new direct conflict: Marks says models are of very limited use in measuring investment risk at the extremes, while the Extreme Value Theory page says EVT gives accurate estimation in the tails. Also added *Risk* (2006) as evidence to the existing risk-versus-volatility contradiction. Created 1 page, updated 3.
+
+Operation ID: op_5b3739af413f

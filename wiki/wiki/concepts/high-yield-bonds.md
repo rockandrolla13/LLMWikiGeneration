@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:c2e09082907ab5a91e3a6e3fabbba10311d36288aa3fef0225108142a9926e14
+content_hash: sha256:e17703db972805d662861172638b05b8c321b4dca5f2495b6b0da7f2959d2e6d
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/high-yield-bonds
@@ -12,7 +12,7 @@ related:
 - concepts/default-rates
 - concepts/efficient-market-hypothesis
 - concepts/contrarian-market-timing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -26,11 +26,17 @@ sources:
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2003-whats-going-on
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2006-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-everyone-knows
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: High Yield Bonds
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: 69dc6102-cf79-5873-9a76-608c78fae605
 ---
 
@@ -56,6 +62,12 @@ Cited in 33 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

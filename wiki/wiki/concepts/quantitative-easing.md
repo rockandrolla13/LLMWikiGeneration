@@ -18,7 +18,7 @@ related:
 - concepts/regime-switching-models
 - concepts/sovereign-debt-crisis
 - concepts/term-structure-risk-premium
-revision_id: 2
+revision_id: 3
 sources:
 - sources/lancaster-2021-fed-up
 - sources/ms-2009-11-12-us-rate-strategist
@@ -42,13 +42,20 @@ sources:
 - sources/ms-2020-03-29-full-court-policy-press
 - sources/ms-2020-04-03-deeper-drop-slower-climb
 - sources/ms-2020-04-03-global-macro-commentary-covid
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-will-it-work
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2010-warning-flags
+- sources/marks-2010-its-greek-to-me
+- sources/marks-2010-open-and-shut
+- sources/marks-2010-all-that-glitters
 tags: []
 title: Quantitative Easing
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_e28e3a15c822
 schema_version: 2
 uuid: 88ca75d4-25e6-5b90-8f8f-bbe59dd86a12
-content_hash: sha256:1516682e262c16beb66669e29127643767847cf9e8f9b1bb74dbf584652a949c
+content_hash: sha256:86074de0dd9bb08ecd8810472ca810db11c435ef1f3fc462c14812caa9790fc0
 ---
 
 <!-- AUTHORED REGION START -->
@@ -61,6 +68,16 @@ Central-bank purchases of bonds (and, in crisis, credit) plus repo operations to
 ## Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2010-all-that-glitters|All That Glitters]] (2010)
 
 ## Related Concepts
 

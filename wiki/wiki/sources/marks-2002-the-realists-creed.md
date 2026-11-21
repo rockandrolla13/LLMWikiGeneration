@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b745d05788feea2eb37c9c6adee8cfde27086c3c78d9f0f52fe25532c6011367
+content_hash: sha256:50bd5943d60c33f040904df2a5b942a55b25c3e9fa67a33e721d89344041bac1
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2002-the-realists-creed
@@ -32,7 +32,8 @@ related:
 - entities/warren-buffett
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2004-us-and-them
-revision_id: 1
+- sources/marks-2010-hemlines
+revision_id: 2
 schema_version: 2
 source_hash: sha256:8eb5dd0ead9f7cb848b576085c16b37eace60e8b1a93fee8df10bdc912cafe30
 source_path: markdown_output/2002-05-31-the-realists-creed.md
@@ -43,8 +44,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Realist's Creed
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_8392ba3946db
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: 9bf310a7-44ea-53aa-8c3a-7feb02340047
 ---
 
@@ -118,6 +119,7 @@ Spring 2002, after the technology/telecom bubble burst: the NASDAQ had fallen si
 
 - Referred to by [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (November 11, 2002)
 - Referred to by [[sources/marks-2004-us-and-them|Us and Them]] (May 7, 2004)
+- Referred to by [[sources/marks-2010-hemlines|Hemlines]] (September 10, 2010)
 
 ## Notes on the Source Text
 

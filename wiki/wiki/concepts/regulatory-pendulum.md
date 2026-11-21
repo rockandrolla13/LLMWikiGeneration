@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:da387bd39d3ec04d3b5c867925c30a6dea084a6c8edc5bda2c58a19ec37d7e78
+content_hash: sha256:40577b67748564bb42e398e143eeb61f7253b5e23f89284e35da7db95ec0d9a4
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/regulatory-pendulum
@@ -12,14 +12,17 @@ related:
 - concepts/credit-default-swaps
 - concepts/liquidity-mismatch
 - concepts/moral-hazard
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2008-the-aviary
+- sources/marks-2009-will-it-work
+- sources/marks-2011-on-regulation
 tags:
 - howard-marks
 title: The Regulatory Pendulum
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_670d900bbdbf
 uuid: 95c4487e-5788-53d2-9844-881ced0965da
 ---
 
@@ -33,6 +36,10 @@ The swing between heavy regulation after crises and deregulation in calm times. 
 ## In Howard Marks's Memos
 
 Cited in 5 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
+- [[sources/marks-2011-on-regulation|On Regulation]] (2011)
 
 ## Related Concepts
 

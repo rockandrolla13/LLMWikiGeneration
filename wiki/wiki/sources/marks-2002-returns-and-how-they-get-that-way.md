@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a069b391fd68a583ec40ed025e12d1b14c718449d39642054fd9c19b17669c6d
+content_hash: sha256:b72161ee5aa12e8ad98ad1d3fe8504e379b46326053d38c2df9497005216884f
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2002-returns-and-how-they-get-that-way
@@ -33,7 +33,8 @@ related:
 - sources/marks-2002-the-realists-creed
 - sources/marks-2000-investment-miscellany
 - sources/marks-2004-us-and-them
-revision_id: 1
+- sources/marks-2008-the-aviary
+revision_id: 2
 schema_version: 2
 source_hash: sha256:5947eaa401b6ccfee3549ca8128828045b29ea8cda842b77bccb260e9e4b307c
 source_path: markdown_output/2002-11-11-returns-and-how-they-get-that-way.md
@@ -44,8 +45,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Returns and How They Get That Way
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_59e9d99b8e82
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_5b81674d72ee
 uuid: 3c90be23-cdd8-5c8e-b12b-cd8160020b7e
 ---
 
@@ -120,6 +121,7 @@ Late 2002, near the end of the post-2000 bear market. Marks notes that even afte
 - Refers to [[sources/marks-2002-the-realists-creed|The Realist's Creed]] (May 31, 2002)
 - Refers to [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (November 16, 2000)
 - Referred to by [[sources/marks-2004-us-and-them|Us and Them]] (May 7, 2004)
+- Referred to by [[sources/marks-2008-the-aviary|The Aviary]] (May 16, 2008)
 
 ## Notes on the Source Text
 

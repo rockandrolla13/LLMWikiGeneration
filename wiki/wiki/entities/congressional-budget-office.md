@@ -1,20 +1,23 @@
 ---
-content_hash: sha256:8acdc426f8f54750f1c9157ccb8327db229dce929dd8d38b26e70d9152014633
+content_hash: sha256:6abf4a831c33a8ecfdb1df87b87841d0b0e30ad9b0235ee4293786d40d8a63b8
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/congressional-budget-office
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2010-id-rather-be-wrong
+- sources/marks-2011-down-to-the-wire
+- sources/marks-2011-its-all-very-taxing
 tags:
 - government-agency
 - howard-marks-memos
 title: Congressional Budget Office
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_8d15ae0b087d
 uuid: 4e121ef2-94b8-5863-8a7a-94caca3eb20d
 ---
 
@@ -24,4 +27,10 @@ uuid: 4e121ef2-94b8-5863-8a7a-94caca3eb20d
 ## Notes
 
 Government agency named in 4 of the 165 Howard Marks memos in the collection.
+
+## Appearances in Howard Marks's Memos
+
+- [[sources/marks-2010-id-rather-be-wrong|I'd Rather Be Wrong]] (2010)
+- [[sources/marks-2011-down-to-the-wire|Down to the Wire]] (2011)
+- [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 <!-- AUTHORED REGION END -->

@@ -1,21 +1,22 @@
 ---
-content_hash: sha256:99c99a68460e653c190719a8eb1dd3e478ab42906cf4dde15e711380731eb400
+content_hash: sha256:46194be6e0a4a8362fee4da0bd11127aec348efb4a4a6e92348266955721fb6c
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/winston-churchill
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2011-its-all-very-taxing
 tags:
 - person
 - howard-marks-memos
 title: Winston Churchill
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_8d15ae0b087d
 uuid: 976117dd-283c-552f-950f-d227f2e19fb0
 ---
 
@@ -34,4 +35,5 @@ Context from the memos:
 ## Appearances in Howard Marks's Memos
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 <!-- AUTHORED REGION END -->

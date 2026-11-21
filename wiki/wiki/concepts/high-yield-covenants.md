@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:faec9d30d4fc70ae9795553453c95607dfb34721d6944fe1e06648062d7e12e7
+content_hash: sha256:833228b5f54474f57fa0b186f72144274f6d821b0472046ac29a5cdc45e88e65
 created: '2026-10-22T21:10:31Z'
 page_id: concepts/high-yield-covenants
 page_type: concept
@@ -10,17 +10,23 @@ related:
 - concepts/lbo-risk
 - concepts/leveraged-recapitalization
 - concepts/leverage-ratios
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/marks-2002-learning-from-enron
 - sources/marks-2004-hey-steward
 - sources/marks-2004-the-happy-medium
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good
+- sources/marks-2008-now-what
+- sources/marks-2010-warning-flags
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
 tags: []
 title: High-Yield Covenants
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_b820cde81c72
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 7ffd0244-0a37-52de-be35-2fe9e7f2c64a
 ---
 
@@ -47,4 +53,10 @@ The rules in a bond indenture or loan agreement that limit what a leveraged issu
 - [[sources/marks-2002-learning-from-enron|Learning From Enron]] (2002)
 - [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

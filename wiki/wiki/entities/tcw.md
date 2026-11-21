@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:f6782a0ea8b4d459673929521d75d8d1c52ccdca59fc0ae2e54a620cc45f9ae0
+content_hash: sha256:b550c1e6681e1cd28b591373803930e5429db2a1518ca9255cf325e5f075de43
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/tcw
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -14,12 +14,14 @@ sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-the-tide-goes-out
 tags:
 - investment-firm
 - howard-marks-memos
 title: TCW
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_4def79096428
 uuid: ce21be14-1e9b-5c44-a62b-6d367cc1ab65
 ---
 
@@ -42,4 +44,6 @@ Context from the memos:
 - [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
 <!-- AUTHORED REGION END -->

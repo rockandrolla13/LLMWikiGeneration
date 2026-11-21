@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:7f76207ed9e0ff5ff0d223abec9b86b5765b8d24adceb86177c0f97e4e147709
+content_hash: sha256:da1bffa118fbc707c90d8543f07b8680c13472c31fe20f724122e47a6757a144
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/irr-and-performance-measurement
@@ -12,15 +12,18 @@ related:
 - concepts/survivorship-bias
 - concepts/risk-vs-volatility
 - concepts/private-credit
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2002-etorres-wisdom
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-you-cant-eat-irr
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags:
 - howard-marks
 title: IRR and Performance Measurement
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 4711c93a-1aaf-5989-b658-a0c67fb48bac
 ---
 
@@ -36,6 +39,9 @@ The problems of judging returns, especially in private funds. Marks's 'You Can't
 Cited in 6 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 
 ## Related Concepts
 

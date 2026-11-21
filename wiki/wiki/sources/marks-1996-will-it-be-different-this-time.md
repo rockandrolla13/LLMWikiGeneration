@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:6fa8d7a8489396e15d1629ebb2141764a31a238cbb06b0ae538bb805e7d04f68
+content_hash: sha256:56eb71b19a4cead1506e450fbd3e001ad084dff81d1770fe69e2581636679dc0
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1996-will-it-be-different-this-time
@@ -26,7 +26,8 @@ related:
 - entities/oaktree-capital-management
 - sources/marks-1996-the-value-of-predictions-ii
 - sources/marks-2001-you-cant-predict-you-can-prepare
-revision_id: 1
+- sources/marks-2007-its-all-good
+revision_id: 2
 schema_version: 2
 source_hash: sha256:18f286797d2095cfe361f60bb52592f7b6c837ddc8f1f86d915e999b00d69872
 source_path: markdown_output/1996-11-25-will-it-be-different-this-time.md
@@ -37,8 +38,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Will It Be Different This Time?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_5e2b964a342e
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_bf7773906754
 uuid: 91b1f8a0-2fd6-5f0c-82dd-5d5e52df2350
 ---
 
@@ -105,6 +106,7 @@ Late 1996 bull market: the expansion was 67 months old, the Dow hit a record 654
 
 - Refers to [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (July 22, 1996)
 - Referred to by [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
+- Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
 
 ## Notes on the Source Text
 

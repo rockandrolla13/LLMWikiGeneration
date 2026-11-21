@@ -1,6 +1,6 @@
 ---
 aliases: []
-content_hash: sha256:2d0798d7205bf5bf7b9cee00afecacf8be12cb665e4dad9ca68818a798a74d23
+content_hash: sha256:43a940c1058261c20926dcc1a4456c30798c7fafa9731b4105193a7a82c1c6b4
 created: '2026-06-09T12:00:00Z'
 entity_type: organization
 external_ids: {}
@@ -9,7 +9,7 @@ mind_map_priority: low
 page_id: entities/deutsche-bank
 page_type: entity
 related: []
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/db-2019-01-08-fundamental-factors-banks
@@ -18,10 +18,14 @@ sources:
 - sources/db-2020-11-05-global-factor-monitor
 - sources/mercado-2015-taarss-flow-whisperer
 - sources/finger-2002-creditgrades-technical-document
+- sources/marks-2006-pigweed
+- sources/marks-2008-whodunit
+- sources/marks-2008-doesnt-make-sense
+- sources/marks-2010-hemlines
 tags: []
 title: Deutsche Bank
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: d6a01303-7a6f-50b0-ac98-cd242f6b8f66
 ---
 
@@ -61,4 +65,11 @@ the note.
 ## Papers in This Wiki
 
 - [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
 <!-- AUTHORED REGION END -->

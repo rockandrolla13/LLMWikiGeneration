@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:4ddef56c253373d553600b94b4169e6a7957f555fb0c5c607e1f1d4e7d60c424
+content_hash: sha256:407d6aac5c85ed1c700bd1a9f6b92859feb74b0169a61d06ca0e22b2390bf962
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-the-happy-medium
@@ -33,7 +33,9 @@ related:
 - sources/marks-1991-first-quarter-performance
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2000-investment-miscellany
-revision_id: 1
+- sources/marks-2007-its-all-good
+- sources/marks-2010-open-and-shut
+revision_id: 2
 schema_version: 2
 source_hash: sha256:6b35081176f4187320ac4ddc7065ea2c8b1be5dc46e10c35a13b4c31734bc05f
 source_path: markdown_output/2004-07-21-the-happy-medium.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Happy Medium
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_b820cde81c72
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: 904e7da5-ae1a-5cf3-b45e-bd7e23e37165
 ---
 
@@ -120,6 +122,8 @@ Written in July 2004, two years after the mid-2002 trough caused by the corporat
 - Refers to [[sources/marks-1991-first-quarter-performance|First Quarter Performance]] (April 11, 1991)
 - Refers to [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Refers to [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (November 16, 2000)
+- Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 
 ## Notes on the Source Text
 

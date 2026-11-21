@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:565ed38fe929cda1128b6d07a5de231774a171b4df67f6253d18cb74241e0a4f
+content_hash: sha256:800cbd364142722d0a006b5d890be831b9f3ed3ff612496a1a65c8c96051f700
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1994-risk-in-todays-markets-revisited
@@ -29,7 +29,8 @@ related:
 - entities/tcw
 - sources/marks-1994-risk-in-todays-markets
 - sources/marks-1991-first-quarter-performance
-revision_id: 1
+- sources/marks-2008-volatility-leverage-dynamite
+revision_id: 2
 schema_version: 2
 source_hash: sha256:aa0806b50d06c73fb569523080ddbca62e0350af511960742acb0aa846f59452
 source_path: markdown_output/1994-04-11-risk-in-todays-markets-revisted.md
@@ -40,8 +41,8 @@ tags:
 - howard-marks
 - investment-memo
 title: '"Risk in Today''s Markets" Revisited'
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_7b242489f75c
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_03a62e624ff1
 uuid: f20d100a-b71b-5ed2-a58c-ee732f863312
 ---
 
@@ -112,6 +113,7 @@ Early 1994 bond market rout. The Federal Reserve raised short rates on February 
 
 - Refers to [[sources/marks-1994-risk-in-todays-markets|Risk in Today's Markets]] (February 17, 1994)
 - Refers to [[sources/marks-1991-first-quarter-performance|First Quarter Performance]] (April 11, 1991)
+- Referred to by [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (December 17, 2008)
 
 ## Notes on the Source Text
 

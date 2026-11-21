@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/look-ahead-bias
-revision_id: 2
+revision_id: 3
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 - sources/ellenberg-2014-how-not-to-be-wrong
@@ -18,13 +18,16 @@ sources:
 - sources/marks-2003-the-feelings-mutual
 - sources/marks-2004-us-and-them
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags: []
 title: Survivorship Bias
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ca5d5f0c5ce3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 schema_version: 2
 uuid: 3e887aa9-a345-5175-aaac-73eb69ce4510
-content_hash: sha256:0072fc403589ee9a87ce7060738de79956ea72a19550d9a348b954808d8da036
+content_hash: sha256:d9d99717e86a5b367bdfa1be999d0041b266872c2d86d0a43bac120b11e853b3
 ---
 
 <!-- AUTHORED REGION START -->
@@ -51,4 +54,7 @@ Upward bias in measured growth and persistence arising because calculations cond
 - [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 <!-- AUTHORED REGION END -->

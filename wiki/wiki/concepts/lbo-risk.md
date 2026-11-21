@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:036536b79e6c4f07c4810380317778f7573c261da20189f2412869bc2c4c3367
+content_hash: sha256:0e32312fc371bb36381ce371ac093764175749f5383dd61feeba80bec6c55a19
 created: 2026-05-05 23:20:00+00:00
 page_id: concepts/lbo-risk
 page_type: concept
@@ -9,7 +9,7 @@ related:
 - concepts/lever-score
 - concepts/leveraged-recapitalization
 - concepts/private-credit
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
@@ -17,14 +17,25 @@ sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/whitman-2009-distress-investing
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-you-cant-eat-irr
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-now-what
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2010-warning-flags
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - creditETF
 - event-risk
 - LBO
 - corporate-credit
 title: LBO Risk
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_6123799129d3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: ec337d61-a180-5719-ac3d-59ce16d596f1
 ---
 
@@ -125,4 +136,15 @@ The [[concepts/lever-score|LEVER framework]] provides systematic scoring:
 ## In Howard Marks's Memos
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

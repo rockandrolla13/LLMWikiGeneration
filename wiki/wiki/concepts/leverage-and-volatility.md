@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:9958f5f3e1c52e5dc6ae5ff0a2400f839635aa96e0364011f4153ffc164d1d0a
+content_hash: sha256:b57b7ce234b59a760b03fe884de65841de1830f4ffb4bfcb79221d973dd77026
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/leverage-and-volatility
@@ -12,17 +12,25 @@ related:
 - concepts/funding-liquidity
 - concepts/hedge-funds
 - concepts/margin-of-safety
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2003-the-most-important-thing
+- sources/marks-2006-you-cant-eat-irr
+- sources/marks-2006-pigweed
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2009-touchstones
 tags:
 - howard-marks
 title: Leverage and Volatility
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_45a7f7c08e2c
 uuid: 0a60ee69-3491-5027-acb8-0c76728864d7
 ---
 
@@ -40,6 +48,14 @@ Cited in 13 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
 
 ## Related Concepts
 

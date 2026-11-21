@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:22870a52e2e05c1bd269eb2b118943407917bca9b439570c64d9cf01832cda02
+content_hash: sha256:666be96324da4e6459572e935c292ec9edb1788a9329e7a161f7ff3467510505
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/factor-models
@@ -25,7 +25,7 @@ related:
 - concepts/style-premia
 - concepts/trend-following
 - concepts/duration-times-spread
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
@@ -42,14 +42,15 @@ sources:
 - sources/dickerson-2026-co-pricing-factor-zoo
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
 - sources/marks-2002-returns-and-how-they-get-that-way
+- sources/marks-2006-returns-absolute-returns-and-risk
 tags:
 - asset-pricing
 - risk-management
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_59e9d99b8e82
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_cc075526da31
 uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
 ---
 
@@ -144,4 +145,5 @@ Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sourc
 ## In Howard Marks's Memos
 
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:52dbb5f6c8beade4c0586e8de5582f0743d40aed29bd23feb0e719c61bc02ec8
+content_hash: sha256:9239c2aab27d3e08acb62fb3dc29534cfe737bbffcfcbed95105f62b97ee5109
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/nifty-fifty
@@ -12,16 +12,18 @@ related:
 - concepts/ai-disruption-software-business-models
 - concepts/low-expected-returns
 - concepts/mean-reversion
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-random-thoughts-identification-investment-opportunities
 - sources/marks-2001-safety-first-but-where
+- sources/marks-2007-everyone-knows
+- sources/marks-2010-hemlines
 tags:
 - howard-marks
 title: The Nifty Fifty
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: 5ae8b137-cc1f-57b2-99e6-4367b411e4ce
 ---
 
@@ -38,6 +40,8 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-1994-random-thoughts-identification-investment-opportunities|Random Thoughts on the Identification of Investment Opportunities]] (1994)
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
 
 ## Related Concepts
 

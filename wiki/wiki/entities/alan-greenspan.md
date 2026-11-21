@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:49e0936392713adc1d0b432d74f84601075219969b13d6fbcab1e52c6b383212
+content_hash: sha256:024e59f07f1a33fbe168c30b18afd35df2ebd5cb5a326e41c8dbacc699eed2ed
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/alan-greenspan
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
@@ -16,12 +16,22 @@ sources:
 - sources/marks-2002-learning-from-enron
 - sources/marks-2002-quo-vadis
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2007-its-all-good
+- sources/marks-2008-whodunit
+- sources/marks-2008-the-aviary
+- sources/marks-2009-the-long-view
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2009-touchstones
+- sources/marks-2011-on-regulation
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2011-whats-behind-the-downturn
 tags:
 - person
 - howard-marks-memos
 title: Alan Greenspan
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_1b155030eb6c
 uuid: 7493b8de-3451-5f93-94c5-11a1284d351b
 ---
 
@@ -46,4 +56,14 @@ Context from the memos:
 - [[sources/marks-2002-learning-from-enron|Learning From Enron]] (2002)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 <!-- AUTHORED REGION END -->

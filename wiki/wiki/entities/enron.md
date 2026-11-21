@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:20d5a0c131d64d9323723b6e5b464a6e07be4c570975b0369fd7ad1ee3ee6769
+content_hash: sha256:7beb8583675e79d9a80d76b18ec4b6a93eba84c1273dee48b6ce30950aece53c
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/enron
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2002-learning-from-enron
@@ -14,12 +14,13 @@ sources:
 - sources/marks-2002-quo-vadis
 - sources/marks-2003-whats-going-on
 - sources/marks-2004-hey-steward
+- sources/marks-2006-you-cant-eat-irr
 tags:
 - company
 - howard-marks-memos
 title: Enron
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_e5222ea1b6d9
 uuid: 82049016-201e-50ba-a71c-5133460a7b86
 ---
 
@@ -42,4 +43,5 @@ Context from the memos:
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
 <!-- AUTHORED REGION END -->

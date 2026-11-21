@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:ad054487cf77c8afa487592adf04ad82696e0845ca3a0a2b9c64084a2491a021
+content_hash: sha256:9a5633424ebd8c14ee824a13d83bed8a2e9d29bcb431af511304997be749bf94
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/decision-quality-vs-outcome
@@ -12,14 +12,15 @@ related:
 - concepts/probabilistic-thinking
 - concepts/alternative-histories
 - concepts/superforecasting
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2006-pigweed
 tags:
 - howard-marks
 title: Decision Quality vs Outcome
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_bcced4c23f2d
 uuid: a4925ed3-8ad5-5944-aa40-a1322ac2c8dd
 ---
 
@@ -33,6 +34,8 @@ The point that a good decision can lead to a bad outcome and a bad decision to a
 ## In Howard Marks's Memos
 
 Cited in 7 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
 
 ## Related Concepts
 

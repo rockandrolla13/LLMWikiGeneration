@@ -8,16 +8,17 @@ page_id: concepts/wealth-inequality-financialized-capitalism
 page_type: concept
 related:
 - concepts/behavioral-finance
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-2011-its-all-very-taxing
 tags: []
 title: Wealth Inequality and Financialized Capitalism
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_8d15ae0b087d
 schema_version: 2
 uuid: a864199c-fed2-597c-a2a9-ec7bf0c16a3e
-content_hash: sha256:96adfe23f943c79a9fd2d68b56b91225f7527ac41ca7d3257feec95c645851dc
+content_hash: sha256:4b6716e427daf7c707f447296564c8bb2b232c4143eb1ed48e6e2d186e1ab9ab
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,6 +31,10 @@ Lancaster's moral-commentary thread on extreme wealth concentration, negative-yi
 ## Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 
 ## Related Concepts
 

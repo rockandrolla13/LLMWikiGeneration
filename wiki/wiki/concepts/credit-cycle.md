@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:820debcb8e63dfb23208672588ee77c1887aa3f9b51a2410d6c86912476ba87b
+content_hash: sha256:25bb0bd14b16b859053bfd06d54c6905db79f402b9e3692c94c3ad00053ea8fd
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/credit-cycle
@@ -12,18 +12,30 @@ related:
 - concepts/funding-liquidity
 - concepts/high-yield-covenants
 - concepts/cdo-tranches
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2004-the-happy-medium
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-now-what
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-the-aviary
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-the-long-view
+- sources/marks-2010-warning-flags
+- sources/marks-2010-open-and-shut
 tags:
 - howard-marks
 title: The Credit Cycle
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: c5d5691d-0a2e-5580-9bf3-5e2b246153e0
 ---
 
@@ -42,6 +54,18 @@ Cited in 25 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (2001)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 
 ## Related Concepts
 

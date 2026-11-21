@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:03385a591a908f435ed684ada781799aa8183175b82fe292e3b03e22ea758a65
+content_hash: sha256:eee3ed7f747a105e7e074619712f3d6a63b237012dc49d2aefa59606c5b4f0f5
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1991-first-quarter-performance
@@ -24,7 +24,10 @@ related:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2004-the-happy-medium
-revision_id: 1
+- sources/marks-2007-its-all-good
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2010-open-and-shut
+revision_id: 2
 schema_version: 2
 source_hash: sha256:70f8a700257e4251ebd950cf6a2143757585d433f5c0219b21061c15610c7421
 source_path: markdown_output/1991-04-11-first-quarter-client-performance.md
@@ -35,8 +38,8 @@ tags:
 - howard-marks
 - investment-memo
 title: First Quarter Performance
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_0c94d67d5aae
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: 1588fdbd-9e9a-5267-b85e-379d8c0e4b0c
 ---
 
@@ -98,6 +101,9 @@ Written after the late-1990 sell-off driven by recession fears and the Iraq conf
 - Referred to by [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (April 11, 1994)
 - Referred to by [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Referred to by [[sources/marks-2004-the-happy-medium|The Happy Medium]] (July 20, 2004)
+- Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
+- Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 
 ## Notes on the Source Text
 

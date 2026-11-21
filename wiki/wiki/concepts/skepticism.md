@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:f924287e80916598abaec5dded61dc4d40b3b461e34b92a95cb7694ae3897819
+content_hash: sha256:aa5b724cebe4ed325c55e22b7907224fb8dce3605c75ced0465ed3271a2a9f4e
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/skepticism
@@ -12,15 +12,18 @@ related:
 - concepts/global-financial-crisis
 - concepts/taking-the-market-temperature
 - concepts/market-crash-liquidity-crisis
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2008-whodunit
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-touchstones
 tags:
 - howard-marks
 title: Skepticism
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_45a7f7c08e2c
 uuid: bf9a3991-0b43-51ef-8dca-c2ba6362e1b0
 ---
 
@@ -36,6 +39,9 @@ Questioning what seems too good to be true, and also what seems too bad to be tr
 Cited in 6 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
 
 ## Related Concepts
 

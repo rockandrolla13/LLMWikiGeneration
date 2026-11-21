@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:5bef71f4e179e6ee372fda3753cfbbdf6fbeaf82ce4dab6ca2fbc88a3c03c1fd
+content_hash: sha256:4011c9746b6c09fd6b38b2419c99cb751fcf96fa671a888ae8510db3f64bb58b
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -24,7 +24,7 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -46,10 +46,21 @@ sources:
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2005-there-they-go-again
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-risk
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-everyone-knows
+- sources/marks-2007-its-all-good-really
+- sources/marks-2009-the-long-view
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2009-touchstones
+- sources/marks-2010-warning-flags
+- sources/marks-2010-open-and-shut
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_6123799129d3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: 23edd06e-71d8-5472-a978-687950c52605
 ---
 
@@ -82,4 +93,15 @@ Now also discussed in: [[sources/ms-2010-09-15-em-quantitative-quarterly]], [[so
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
 <!-- AUTHORED REGION END -->

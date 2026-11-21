@@ -1,23 +1,27 @@
 ---
-content_hash: sha256:645cab2ad7cada716837cf19178e05c763f88e47867d544057e573eb7bcb747e
+content_hash: sha256:dfb0edc75a16522da135a2e88ac3323e875742d0c03323cb4d9b1eea100d9aed
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/sheldon-stone
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2000-investment-miscellany
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2006-risk
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2009-touchstones
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - person
 - howard-marks-memos
 title: Sheldon Stone
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 4cdebc2f-d048-5a76-8391-e54a2128002c
 ---
 
@@ -38,4 +42,8 @@ Context from the memos:
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

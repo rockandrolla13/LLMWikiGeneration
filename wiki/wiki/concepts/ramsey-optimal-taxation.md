@@ -7,16 +7,17 @@ mind_map_priority: medium
 page_id: concepts/ramsey-optimal-taxation
 page_type: concept
 related: []
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ljungqvist-2012-recursive-macroeconomic-theory
+- sources/marks-2011-its-all-very-taxing
 tags: []
 title: Ramsey Optimal Taxation
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_8d15ae0b087d
 schema_version: 2
 uuid: 2b79fd73-b4b6-5e0b-81cd-d47458c9ab89
-content_hash: sha256:02bb74259e0e9934f1125c59a7afc214a10a3654e299ef25d7c11de030d04c26
+content_hash: sha256:de909b4310ee2e5b864764fc046fdaf676b685762a8c43485d5bca17f94b9c77
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,4 +30,8 @@ Choosing distorting taxes to maximize welfare, solved via the primal approach ov
 ## Sources
 
 - [[sources/ljungqvist-2012-recursive-macroeconomic-theory|Recursive Macroeconomic Theory]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2011-its-all-very-taxing|It's All Very Taxing]] (2011)
 <!-- AUTHORED REGION END -->

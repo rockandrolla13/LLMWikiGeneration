@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:ccdcefc596dbb3968a03d0045bd53ad424ece37e85829e30f610694e2098d198
+content_hash: sha256:348a46aff029804b0f756b60f60c853282bee6cc250f855b7b98237f21cf3af1
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/second-order-consequences
@@ -12,15 +12,16 @@ related:
 - concepts/laws-of-economics
 - concepts/tax-policy
 - concepts/reserve-currency-status
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2007-its-all-good-really
 tags:
 - howard-marks
 title: Second-Order Consequences
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_7eab212b6e8f
 uuid: e638e063-289d-5456-9842-4799062240be
 ---
 
@@ -36,6 +37,7 @@ The indirect, later effects of an action, especially of a policy intervention. M
 Cited in 7 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
 
 ## Related Concepts
 

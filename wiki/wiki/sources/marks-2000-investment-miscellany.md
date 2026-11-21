@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:a1b9fdf45ee6a7eaf9c66441b9ce8a99bbf6fe9782190194baeccd64a1dfd3ff
+content_hash: sha256:0776b78737b13c89b03dbbbe5c6597239e1fd9309e0cd6c7b1b548daec649a9d
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2000-investment-miscellany
@@ -33,7 +33,9 @@ related:
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2004-the-happy-medium
-revision_id: 1
+- sources/marks-2006-pigweed
+- sources/marks-2007-now-its-all-bad
+revision_id: 2
 schema_version: 2
 source_hash: sha256:969ec163cd0e6706caceca968daa0855e94eff1e75fa79cf55df88772802c121
 source_path: markdown_output/2000-11-16-investment-miscellany.md
@@ -44,8 +46,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Investment Miscellany
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_c718163031fc
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_9af1f34bc0c6
 uuid: 6515ed96-6a02-5803-9e9e-59dad2f480b5
 ---
 
@@ -121,6 +123,8 @@ November 2000, after the tech/IPO bubble crested in March 2000. Dot-com firms su
 - Referred to by [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (November 11, 2002)
 - Referred to by [[sources/marks-2004-the-happy-medium|The Happy Medium]] (July 20, 2004)
 - Refers to (no page): the venture capital memo (title not given)
+- Referred to by [[sources/marks-2006-pigweed|Pigweed]] (December 7, 2006)
+- Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
 
 ## Notes on the Source Text
 

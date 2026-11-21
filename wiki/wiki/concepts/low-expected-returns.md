@@ -9,7 +9,7 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/market-timing
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ilmanen-2022-investing-amid-low-expected-returns
 - sources/marks-1994-risk-in-todays-markets
@@ -23,13 +23,20 @@ sources:
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2005-there-they-go-again
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-its-all-good
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2009-the-long-view
+- sources/marks-2010-hemlines
+- sources/marks-2011-how-quickly-they-forget
 tags: []
 title: Low Expected Returns Challenge
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_6123799129d3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 schema_version: 2
 uuid: bb1f4f08-ebf9-5a91-8212-3cfe94f9876c
-content_hash: sha256:88aefcab45e312a259ab9ba66cbd81aa5386b809cf8bf14becb55fe416f21830
+content_hash: sha256:89bc88208632a07e0a3c0e0368405659c297d60795238602ed8ef6fa3ec68ea4
 ---
 
 <!-- AUTHORED REGION START -->
@@ -61,4 +68,11 @@ The secular condition in which falling discount rates have pushed forward-lookin
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

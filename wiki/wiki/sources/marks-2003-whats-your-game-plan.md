@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:14a3cb4bc63e74eda8a7afed04049db987dd20a7bbccd9cbc70ec959d691bc2c
+content_hash: sha256:d15134082e9471dacb77c169401667bf2819bdc58d66cadf1badf4411ca81c7e
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-whats-your-game-plan
@@ -20,7 +20,8 @@ related:
 - entities/oaktree-capital-management
 - entities/warren-buffett
 - sources/marks-2004-risk-and-return-today
-revision_id: 1
+- sources/marks-2009-so-much-thats-false-and-nutty
+revision_id: 2
 schema_version: 2
 source_hash: sha256:e6d8d9f21a6a857856ae688e4ecd00701d012033b9fc8d64a9a20667001cf6ed
 source_path: markdown_output/2003-09-05-whats-your-game-plan.md
@@ -31,8 +32,8 @@ tags:
 - howard-marks
 - investment-memo
 title: What's Your Game Plan?
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_0c3117d21142
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_da942e9a64b3
 uuid: e75acddc-3d53-582b-80df-8a1d320cc51d
 ---
 
@@ -93,6 +94,7 @@ September 2003, after the 2000-02 bear market and a period of very high distress
 ## Related Memos
 
 - Referred to by [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (October 27, 2004)
+- Referred to by [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (July 8, 2009)
 
 ## Notes on the Source Text
 

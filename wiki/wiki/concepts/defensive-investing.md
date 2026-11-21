@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:d0cfbe84e2cdbdebcde5b827411a2829f356069bec8e689780d933a1907efee4
+content_hash: sha256:addea5a1bf76f0a7a96bb335d228dd500758bc8c43bcfd7249ecc15736c80ae4
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/defensive-investing
@@ -12,7 +12,7 @@ related:
 - concepts/market-timing
 - concepts/efficient-market-hypothesis
 - concepts/market-cycles
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -26,11 +26,13 @@ sources:
 - sources/marks-2004-us-and-them
 - sources/marks-2005-oaktree-at-ten
 - sources/marks-2005-there-they-go-again
+- sources/marks-2012-what-can-we-do-for-you
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags:
 - howard-marks
 title: Defensive Investing
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 3135c5ed-6a3d-5bb8-b71e-f21363c8b238
 ---
 
@@ -56,6 +58,8 @@ Cited in 23 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 
 ## Related Concepts
 

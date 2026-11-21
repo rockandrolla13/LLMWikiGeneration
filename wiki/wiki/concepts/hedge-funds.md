@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:4e3d2288981c775150718c12da90ca79e5d1766e21a72563d9c63f0fc545a8cd
+content_hash: sha256:cfbec540e82b9614892acb642b589e323639fc49c56e372121f1743f2183c7a9
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/hedge-funds
@@ -12,7 +12,7 @@ related:
 - concepts/risk-premia
 - concepts/low-expected-returns
 - concepts/relative-value-spread-trading
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
@@ -21,11 +21,16 @@ sources:
 - sources/marks-2002-the-realists-creed
 - sources/marks-2004-hedge-funds-a-case-for-caution
 - sources/marks-2004-risk-and-return-today
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2006-pigweed
+- sources/marks-2009-so-much-thats-false-and-nutty
 tags:
 - howard-marks
 title: Hedge Funds
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_da942e9a64b3
 uuid: ef060fdc-c344-5568-a8da-977e5f7cb879
 ---
 
@@ -46,6 +51,11 @@ Cited in 11 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-the-realists-creed|The Realist's Creed]] (2002)
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:c51c0d0bb6f411782573580b0ece4877d5df8e3d8207a12cf753081de0293cfb
+content_hash: sha256:0d9dd655934f788f0ca8a9f9792e7318c639ca732dea473bb23d87b8fb1e0668
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/second-level-thinking
@@ -12,18 +12,20 @@ related:
 - concepts/market-timing
 - concepts/limits-of-macro-forecasting
 - concepts/efficient-market-hypothesis
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
 - sources/marks-1996-the-value-of-predictions-ii
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2002-quo-vadis
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-everyone-knows
 tags:
 - howard-marks
 title: Second-Level Thinking
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_437c0f4000b7
 uuid: 2ec4a239-2b38-582d-a66e-1248e4d856a3
 ---
 
@@ -42,6 +44,8 @@ Cited in 19 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
 - [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (2001)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
 
 ## Related Concepts
 

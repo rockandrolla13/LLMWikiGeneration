@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:9721da7091e59c757ee1a80d07883cc91d4ae80f72460c26c9372238095e153f
+content_hash: sha256:c5d023aee7ff3d2c37059bd92596deccbfc33f604ee2c76596166ab2707a4aea
 created: '2026-10-05T15:52:32Z'
 entity_type: organization
 page_id: entities/goldman-sachs
@@ -14,7 +14,7 @@ related:
 - entities/riskmetrics-group
 - entities/thomas-ta
 - entities/vladimir-finkelstein
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/finger-2002-creditgrades-technical-document
@@ -22,11 +22,19 @@ sources:
 - sources/marks-2000-bubble-com
 - sources/marks-2000-investment-miscellany
 - sources/marks-2002-quo-vadis
+- sources/marks-2008-whodunit
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-the-aviary
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2011-on-regulation
 tags:
 - organization
 title: Goldman Sachs
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_3c8f1100b558
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_670d900bbdbf
 uuid: 2e29f11e-31d9-52e8-be65-c8e772e1c539
 ---
 
@@ -59,4 +67,12 @@ Affiliation as printed on those papers: Model endorser and co-developer.
 - [[sources/marks-2000-bubble-com|bubble.com]] (2000)
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2011-on-regulation|On Regulation]] (2011)
 <!-- AUTHORED REGION END -->

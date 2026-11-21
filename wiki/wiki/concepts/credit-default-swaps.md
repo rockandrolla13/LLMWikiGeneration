@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:fdc0d4ac1b33fe21d2a3e7bdcd3edd2238c032d79e95af173bc04c3dff5d6d2a
+content_hash: sha256:b998c7c2734a9495874e28a173b14d662a726110743c93cfed42c968ccc7e47f
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/credit-default-swaps
@@ -8,7 +8,7 @@ related:
 - concepts/credit-default-swap-spread
 - concepts/cds-bond-basis
 - concepts/hazard-rate-curve
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/shi-2022-cds-options-comovement
@@ -21,6 +21,12 @@ sources:
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/whitman-2009-distress-investing
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-its-all-good
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-the-aviary
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
 tags:
 - credit-default-swaps
 - credit-derivatives
@@ -28,8 +34,8 @@ tags:
 - CDS
 - hazard-rate
 title: Credit Default Swaps
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_f506432cc7df
 uuid: 56ee8e83-6a37-510a-a70d-61057edd1005
 ---
 
@@ -77,4 +83,13 @@ CDS and bonds price the same credit differently; the gap is the [[concepts/cds-b
 - [[sources/finger-2002-creditgrades-technical-document|CreditGrades Technical Document]]
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/carr-2011-american-puts-credit-protection|A Simple Robust Link Between American Puts and Credit Protection]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
 <!-- AUTHORED REGION END -->

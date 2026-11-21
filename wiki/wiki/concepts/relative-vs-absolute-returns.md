@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:9e79f3ff52555dadbe0bea2a4883e1365a147aed5d47a22d45d9ef6bd690c319
+content_hash: sha256:95e50f3c09efeff04015ea45309ad06ad7c1d65ea8f9abc68ce4c003d04b3dfc
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/relative-vs-absolute-returns
@@ -12,16 +12,17 @@ related:
 - concepts/alternative-histories
 - concepts/survivorship-bias
 - concepts/luck-vs-skill
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
 - sources/marks-2004-us-and-them
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags:
 - howard-marks
 title: Relative vs Absolute Returns
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 03291616-5893-53ba-a1b0-0822c0a1bfd6
 ---
 
@@ -38,6 +39,7 @@ Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-1990-the-route-to-performance|The Route to Performance]] (1990)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 
 ## Related Concepts
 

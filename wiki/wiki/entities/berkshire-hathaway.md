@@ -1,24 +1,28 @@
 ---
-content_hash: sha256:ff7c8a91a9b66689ffc39b0decaa183ba868c14c74e7ed2d40d7c2eee2c4b069
+content_hash: sha256:df05b6a0bc808d70e0d430c897a1daaee0719ea40ea114b76033048fe9046500
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/berkshire-hathaway
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2003-whats-going-on
 - sources/marks-2003-whats-your-game-plan
 - sources/marks-2004-hey-steward
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2008-plan-b
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - investment-firm
 - howard-marks-memos
 title: Berkshire Hathaway
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: f5f0a3f4-dc9c-5625-b172-12fb2bdeeb18
 ---
 
@@ -39,4 +43,8 @@ Context from the memos:
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (2003)
 - [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

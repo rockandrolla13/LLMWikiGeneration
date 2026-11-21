@@ -1,20 +1,22 @@
 ---
-content_hash: sha256:d8c302b738065fb952fa91a407a9265f3760890dceb77205ae035d363e4c02e4
+content_hash: sha256:8770cb4c3d7d4484a403ed6424dd66596511fd0700bae5a9e5180381f9d51bbb
 created: '2026-11-21T02:22:01Z'
 entity_type: organization
 page_id: entities/us-treasury
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2008-what-worries-me
+- sources/marks-2008-plan-b
 tags:
 - government-agency
 - howard-marks-memos
 title: U.S. Treasury
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_f506432cc7df
 uuid: 2b145b7d-6db3-5385-b976-4b89d244e9c2
 ---
 
@@ -24,4 +26,9 @@ uuid: 2b145b7d-6db3-5385-b976-4b89d244e9c2
 ## Notes
 
 Government agency named in 9 of the 165 Howard Marks memos in the collection.
+
+## Appearances in Howard Marks's Memos
+
+- [[sources/marks-2008-what-worries-me|What Worries Me]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
 <!-- AUTHORED REGION END -->

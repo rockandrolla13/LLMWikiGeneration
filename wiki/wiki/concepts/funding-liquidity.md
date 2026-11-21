@@ -1,24 +1,33 @@
 ---
-content_hash: sha256:bc45585cd1c287bca769b89a446dde5de75da25aeca1a8160adcb89b4f4a8772
+content_hash: sha256:421681b8446b57607550fe23a21be1c4c7f408e8ebf2c4dcd1b93272d7f3311f
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/funding-liquidity
 page_type: concept
 related:
 - concepts/structural-risk
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 - sources/whitman-2009-distress-investing
 - sources/marks-2000-investment-miscellany
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-now-what
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-the-long-view
 tags:
 - liquidity
 - brunnermeier-pedersen
 - financial-stability
 title: Funding Liquidity
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_c718163031fc
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_ddd3090263f3
 uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ---
 
@@ -43,4 +52,13 @@ uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ## In Howard Marks's Memos
 
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
 <!-- AUTHORED REGION END -->

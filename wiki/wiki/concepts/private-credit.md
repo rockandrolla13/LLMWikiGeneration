@@ -11,17 +11,19 @@ related:
 - concepts/lbo-risk
 - concepts/liquidity-risk
 - concepts/private-credit-leveraged-loans
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ms-2019-03-11-untested-cycle-corporate-risk
 - sources/patkar-2026-ms-global-credit-midyear
+- sources/marks-2006-you-cant-eat-irr
+- sources/marks-2006-the-new-paradigm
 tags: []
 title: Private Credit / Direct Lending
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_b193186712da
 schema_version: 2
 uuid: f1074503-c63f-5009-b686-dc02f58d6631
-content_hash: sha256:f0cf0ce3bd26a496d9374cd692f37de382da866ab2d4a49efb1c89c8fb27b103
+content_hash: sha256:ecd8e1d789381dadd35c1a87cf7cd49ab60c7d1217c84bf7146032ab63165c3a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -34,6 +36,11 @@ Non-bank lending to corporations via direct-lending funds and BDCs; the note for
 ## Sources
 
 - [[sources/patkar-2026-ms-global-credit-midyear|Morgan Stanley Global Credit Webcast - May 2026: Debating the Mid-Year Outlook]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
 
 ## Related Concepts
 

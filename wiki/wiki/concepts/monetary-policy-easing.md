@@ -8,17 +8,20 @@ page_id: concepts/monetary-policy-easing
 page_type: concept
 related:
 - concepts/quantitative-easing
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ms-2019-01-18-china-doing-whatever-it-takes
 - sources/marks-2001-what-lies-ahead
+- sources/marks-2008-now-what
+- sources/marks-2008-whodunit
+- sources/marks-2008-doesnt-make-sense
 tags: []
 title: Monetary policy easing
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_5f221941f6b0
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_6134e762def7
 schema_version: 2
 uuid: 5c73f72d-67a8-55bf-b3f1-13c29cc2b71a
-content_hash: sha256:4bc0d100c365722b62659ee427a5251169c52edfc3685e64cd1756e63f3c72d1
+content_hash: sha256:3ef554311f4088d2b1c7087a699b2789368f5f9e0f92a370e8932c1040a6106d
 ---
 
 <!-- AUTHORED REGION START -->
@@ -39,4 +42,7 @@ Central bank actions such as rate and reserve-requirement cuts and liquidity fac
 ## In Howard Marks's Memos
 
 - [[sources/marks-2001-what-lies-ahead|What Lies Ahead?]] (2001)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
 <!-- AUTHORED REGION END -->

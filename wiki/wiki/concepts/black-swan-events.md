@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:6be1fa62593723590a4f4a21da15b3551497d1fe5a88c4bdb2c304b14aaa23cb
+content_hash: sha256:b3810596ab6714f35cd5da7db3f80bd2e6cdbed5ccba7394b7f7942f768417a8
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/black-swan-events
@@ -12,15 +12,23 @@ related:
 - concepts/value-at-risk
 - concepts/probabilistic-thinking
 - concepts/funding-liquidity
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2001-what-lies-ahead
+- sources/marks-2006-risk
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-the-aviary
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2011-whats-behind-the-downturn
 tags:
 - howard-marks
 title: Black Swans and Tail Risk
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_1b155030eb6c
 uuid: 0024d74e-93dc-599b-9e1f-5f12424e2a96
 ---
 
@@ -36,6 +44,14 @@ Rare, extreme events that lie outside normal expectations and models, a term Mar
 Cited in 15 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2001-what-lies-ahead|What Lies Ahead?]] (2001)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 
 ## Related Concepts
 

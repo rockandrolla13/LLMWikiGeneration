@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:725e3c5ca9028b6122bad2e5f932ffe9d82d68a72f429a26f6a17de40451cf32
+content_hash: sha256:85e700def21daf54200dcd8c82e4a0655f390ed996fcad939b152b2d7190e292
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/capitalism-and-free-markets
@@ -12,14 +12,15 @@ related:
 - concepts/populism
 - concepts/laws-of-economics
 - concepts/second-order-consequences
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2008-the-aviary
 tags:
 - howard-marks
 title: Capitalism and Free Markets
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_5b81674d72ee
 uuid: 79460527-de51-5f60-8e82-5811c8d8adf6
 ---
 
@@ -33,6 +34,8 @@ Marks's defence of market economies as the best system for growing the pie, whil
 ## In Howard Marks's Memos
 
 Cited in 5 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
 
 ## Related Concepts
 

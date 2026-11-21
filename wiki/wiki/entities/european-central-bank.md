@@ -8,17 +8,18 @@ mind_map_priority: low
 page_id: entities/european-central-bank
 page_type: entity
 related: []
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ms-2019-02-28-ecb-preview-tltro-funding
 - sources/rostagno-2021-ecb-monetary-policy-crisis
+- sources/marks-2010-its-greek-to-me
 tags: []
 title: European Central Bank
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_3076bd322a96
 schema_version: 2
 uuid: a43ffb16-3218-5bf6-899e-8ed4b59f15e6
-content_hash: sha256:c26149dac1976c97e76d5e52949befaa292ab3161447c9537c6c0b60912422b7
+content_hash: sha256:66db9425a95049c99b825ef14fd591de688a3e9f8b3dea7ddb64bfcdd0d59e47
 ---
 
 <!-- AUTHORED REGION START -->
@@ -35,4 +36,8 @@ content_hash: sha256:c26149dac1976c97e76d5e52949befaa292ab3161447c9537c6c0b60912
 ## Added by credit-macro ingest (2026-06-09)
 
 Also appears in: [[sources/ms-2019-02-28-ecb-preview-tltro-funding]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2010-its-greek-to-me|It's Greek to Me]] (2010)
 <!-- AUTHORED REGION END -->

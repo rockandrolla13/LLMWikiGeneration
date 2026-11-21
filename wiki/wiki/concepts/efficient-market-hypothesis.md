@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: theory
-content_hash: sha256:ec421e900c024dc871309b7b8580d973ad9dbbf91b3b1c8b2a8cf52a44835137
+content_hash: sha256:58bcd6919dde0c86208434aca8af36d57589004f57f1e927b6b3cbd1cf7e6fc2
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/efficient-market-hypothesis
@@ -12,7 +12,7 @@ related:
 - concepts/stock-price-efficiency
 - concepts/high-yield-bonds
 - concepts/contrarian-market-timing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -31,11 +31,14 @@ sources:
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2004-us-and-them
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2006-returns-absolute-returns-and-risk
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2008-whodunit
 tags:
 - howard-marks
 title: Efficient Market Hypothesis and Inefficient Markets
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_a6f883c918b1
 uuid: 68c49ea0-5393-59d4-acc8-147fe5facd45
 ---
 
@@ -66,6 +69,9 @@ Cited in 29 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
 
 ## Related Concepts
 

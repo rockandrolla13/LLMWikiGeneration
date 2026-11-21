@@ -1,21 +1,22 @@
 ---
-content_hash: sha256:e920adbf2967113cbde4b037fda3b2671180a7135a0a18f031dbc3fba2c17d68
+content_hash: sha256:4db344ea101477fb4543197fe17ac08997ddc2d24938ca6e316a0e715402e167
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/henry-kaufman
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1998-genius-isnt-enough
+- sources/marks-2010-tell-me-im-wrong
 tags:
 - person
 - howard-marks-memos
 title: Henry Kaufman
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fe49e5946552
 uuid: cac62e67-0a64-5ead-ba64-5398009ba822
 ---
 
@@ -33,4 +34,5 @@ Context from the memos:
 ## Appearances in Howard Marks's Memos
 
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 <!-- AUTHORED REGION END -->

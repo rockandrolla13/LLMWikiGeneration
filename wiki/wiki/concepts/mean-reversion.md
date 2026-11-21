@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:16061dd66f9e82094fad9f9adaaf00e9d1fa5f5c45da39343105612bf38d5590
+content_hash: sha256:f98ab011f62badb1d78f8f2c398de8b1182b5acf13fac9f225119a1ec561dc13
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/mean-reversion
 page_type: concept
@@ -34,7 +34,7 @@ related:
 - concepts/term-structure-risk-premium
 - concepts/trend-following
 - concepts/value-premium
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/moura-2016-pairs-trading-kalman
@@ -56,14 +56,15 @@ sources:
 - sources/correia-2012-value-investing-credit-markets
 - sources/marks-1991-first-quarter-performance
 - sources/marks-2003-whats-going-on
+- sources/marks-2010-hemlines
 tags:
 - time-series
 - statistical-properties
 - trading-strategies
 - stochastic-processes
 title: Mean Reversion
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_1f0a47d4a688
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: d16f8e8a-9a2f-522d-ba1f-89a050862b70
 ---
 
@@ -253,4 +254,5 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 
 - [[sources/marks-1991-first-quarter-performance|First Quarter Performance]] (1991)
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
 <!-- AUTHORED REGION END -->

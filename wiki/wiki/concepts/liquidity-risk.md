@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:eb953e36855c7f51fb98bbc56112a03af026b18d8e15a66d6c31a0e8333ee0e4
+content_hash: sha256:eeb5463a58e74ffddbd4acbde00839682dd3defb63049ac25b83fbb9727ba9ce
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -49,14 +49,20 @@ sources:
 - sources/marks-2000-irrational-exuberance
 - sources/marks-2000-investment-miscellany
 - sources/marks-2004-the-happy-medium
+- sources/marks-2006-risk
+- sources/marks-2006-pigweed
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-plan-b
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_b820cde81c72
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -129,4 +135,10 @@ Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms
 - [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2006-risk|Risk]] (2006)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 <!-- AUTHORED REGION END -->

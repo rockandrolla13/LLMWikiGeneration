@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:acfd8a9a904b7b626b6fd08ea4279554b5f140df20877a1f581a699ce5685ce3
+content_hash: sha256:de6080f10e8988137fcec7b50052b0b6457b70b9466209b92ee5e70818324a9f
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/forced-selling
@@ -12,17 +12,21 @@ related:
 - concepts/funding-liquidity
 - concepts/global-financial-crisis
 - concepts/no-silver-bullet
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets-revisited
 - sources/marks-2000-investment-miscellany
 - sources/marks-2005-a-case-in-point
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-now-what
+- sources/marks-2008-the-limits-to-negativism
 tags:
 - howard-marks
 title: Forced Selling
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_470b4c005c8f
 uuid: 06449a15-ded0-59cc-9186-46c4e441a24a
 ---
 
@@ -40,6 +44,10 @@ Cited in 10 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
 
 ## Related Concepts
 

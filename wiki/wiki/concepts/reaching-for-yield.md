@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:61b3eee01df231584ae26130aced644025bb57c67ce3905486062642bbd2255e
+content_hash: sha256:de2ffcae58300b0bd2533ce1333294d65ad926a2201263986b6829b4d07229d1
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/reaching-for-yield
@@ -12,18 +12,23 @@ related:
 - concepts/risk-taking-channel
 - concepts/credit-spread-compression
 - concepts/quantitative-easing
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1994-risk-in-todays-markets
 - sources/marks-2003-whats-going-on
 - sources/marks-2004-risk-and-return-today
 - sources/marks-2005-there-they-go-again
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - howard-marks
 title: Reaching for Yield
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: 62b7cc49-230c-5898-a896-c71a28a11f82
 ---
 
@@ -42,6 +47,11 @@ Cited in 17 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 - [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 
 ## Related Concepts
 

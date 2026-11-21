@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:f17e3659fa522a65c515eeacabe0221fedc43d2ca1d2c20b4f01d105177d4895
+content_hash: sha256:d9d37e4529f533872064c7db4a13abedbbd21fe6ba9c2c7cc924df27a1f79e36
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/factor-investing
 - concepts/fama-french-factors
 - concepts/mean-reversion
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -22,10 +22,12 @@ sources:
 - sources/israel-2017-common-factors-corporate-bond-returns
 - sources/marks-2004-us-and-them
 - sources/marks-2004-the-happy-medium
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags: []
 title: Value Premium
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_b820cde81c72
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 0f61dd20-c5b4-589a-8601-46be299279d9
 ---
 
@@ -55,4 +57,6 @@ The historical outperformance of cheap (high book-to-price) assets over expensiv
 
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 <!-- AUTHORED REGION END -->

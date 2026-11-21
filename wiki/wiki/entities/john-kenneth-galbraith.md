@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:aea603088e5a863767a6d1358e0298d64d3a63f8cfaff609f4050b2d42ee2cdb
+content_hash: sha256:99c1540b34c5270a29e9c4a805aadc5791b036aff12c186727a3defc65ebf025
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/john-kenneth-galbraith
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -15,12 +15,19 @@ sources:
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2005-there-they-go-again
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2008-nobody-knows
+- sources/marks-2009-the-long-view
+- sources/marks-2009-touchstones
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - person
 - howard-marks-memos
 title: John Kenneth Galbraith
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: 58cb5035-bf5c-5dc4-9997-be9cb362ef20
 ---
 
@@ -44,4 +51,11 @@ Context from the memos:
 - [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (2001)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 <!-- AUTHORED REGION END -->

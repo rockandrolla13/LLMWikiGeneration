@@ -10,16 +10,21 @@ related:
 - concepts/bubble-detection
 - concepts/corporate-bonds
 - concepts/sovereign-debt-crisis
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-the-long-view
 tags: []
 title: Corporate Credit Debt Bubble
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_ddd3090263f3
 schema_version: 2
 uuid: 557124f9-4a39-5e1a-a504-891e384710b2
-content_hash: sha256:46a73333d51e8a7b7cb4cfbfc5b76def47f7c5a7f14f04df954eac8e40822001
+content_hash: sha256:52840b81f486ae9367999a24a1ca8713e02c02700f1262ca8d64229cb72bf546
 ---
 
 <!-- AUTHORED REGION START -->
@@ -32,6 +37,14 @@ The buildup of leveraged corporate and sovereign debt enabled by low rates; US c
 ## Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
 
 ## Related Concepts
 

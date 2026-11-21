@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: metric
-content_hash: sha256:73775615e43ab6091df88cbca6e0b7d0ba75e4bc200a7ab789f63786eedab819
+content_hash: sha256:27d72e5517ed9a8cc512b9cc825731c336a57bd15bbe558467692f63104fc771
 created: '2026-10-22T21:10:31Z'
 page_id: concepts/yield-to-worst
 page_type: concept
@@ -9,14 +9,15 @@ related:
 - concepts/yield-to-maturity
 - concepts/spread
 - concepts/z-spread
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/marks-2011-whats-behind-the-downturn
 tags: []
 title: Yield-to-Worst and Spread-to-Worst
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_1b155030eb6c
 uuid: 16114dfb-8377-57bb-bd34-9fc711b7ea1d
 ---
 
@@ -30,6 +31,10 @@ Yield-to-worst is the lowest yield across every call date and the maturity date 
 ## Sources
 
 - [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 
 ## Related Concepts
 

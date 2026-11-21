@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:8221294b4e7c042c4b94d663d8d6f5fdc1e61a23fb7f1b8819b3b02fa41cee36
+content_hash: sha256:e6dcc63d7b4d5e888a9c3ab3ff6fe6c8be8519eb5394ecd45d67e3df5800c645
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/inflation-hedging
@@ -12,14 +12,15 @@ related:
 - concepts/quantitative-easing
 - concepts/monetary-and-fiscal-policy
 - concepts/sovereign-debt-sustainability
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2010-tell-me-im-wrong
 tags:
 - howard-marks
 title: Inflation and Inflation Hedging
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fe49e5946552
 uuid: c4ff62a9-12b9-5921-9a08-5081973710ef
 ---
 
@@ -33,6 +34,8 @@ Marks's discussions of whether inflation is transitory or persistent and which a
 ## In Howard Marks's Memos
 
 Cited in 5 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
 
 ## Related Concepts
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:811f236110f5a88b53ccd6016d24b1e98ccbff4a02441b673484d4b7fd2c1b10
+content_hash: sha256:3cec217a1af9ab8fd9a39269637984e8409b676288ed6304f9d553605432bb74
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2001-you-cant-predict-you-can-prepare
@@ -34,7 +34,12 @@ related:
 - sources/marks-1996-will-it-be-different-this-time
 - sources/marks-2003-whats-going-on
 - sources/marks-2004-the-happy-medium
-revision_id: 1
+- sources/marks-2007-its-all-good
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
+- sources/marks-2010-open-and-shut
+revision_id: 2
 schema_version: 2
 source_hash: sha256:1f3ca66105e95a043f05ac0b3a74c9520b0f7e5903d755706c9367805d19a065
 source_path: markdown_output/2001-11-20-you-cant-predict-you-can-prepare.md
@@ -45,8 +50,8 @@ tags:
 - howard-marks
 - investment-memo
 title: You Can't Predict. You Can Prepare.
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_df379eb7be07
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: 97aecd29-da2f-5f83-950d-b20ee132f333
 ---
 
@@ -122,6 +127,11 @@ November 2001, after the tech bubble burst and the September 11 attacks. The eco
 - Refers to [[sources/marks-1996-will-it-be-different-this-time|Will It Be Different This Time?]] (November 25, 1996)
 - Referred to by [[sources/marks-2003-whats-going-on|What's Going On?]] (May 6, 2003)
 - Referred to by [[sources/marks-2004-the-happy-medium|The Happy Medium]] (July 20, 2004)
+- Referred to by [[sources/marks-2007-its-all-good|It's All Good]] (July 16, 2007)
+- Referred to by [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (September 10, 2007)
+- Referred to by [[sources/marks-2008-nobody-knows|Nobody Knows]] (September 19, 2008)
+- Referred to by [[sources/marks-2008-plan-b|Plan B]] (September 24, 2008)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 
 ## Notes on the Source Text
 

@@ -1,24 +1,31 @@
 ---
-content_hash: sha256:38b26ef123ab1aeb703b67105e986377fd915e216b37175d12ab4d4f2b60a45d
+content_hash: sha256:cc6a9a3623ce6de09a84ea120da81d495c262a3d901cb9a8594f03a725e63310
 created: '2026-11-21T02:22:01Z'
 entity_type: person
 page_id: entities/peter-bernstein
 page_type: entity
 related:
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1998-who-knew
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2003-whad-ya-know
 - sources/marks-2005-there-they-go-again
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2007-everyone-knows
+- sources/marks-2007-its-all-good
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-so-much-thats-false-and-nutty
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - person
 - howard-marks-memos
 title: Peter Bernstein
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: e50f6ed3-5133-5515-8bde-79b534f66080
 ---
 
@@ -39,4 +46,11 @@ Context from the memos:
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

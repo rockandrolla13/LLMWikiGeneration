@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/factor-investing
 - concepts/minimum-variance-portfolio
-revision_id: 1
+revision_id: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
+- sources/marks-2006-risk
 tags: []
 title: Systematic Diversification
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_30fd531433cd
 schema_version: 2
 uuid: b705ccf6-42ab-57ef-a507-bdae04cd21b5
-content_hash: sha256:3c979ba7433ae261d881b928aed950a0da4c40ff054a4a8b437c375cf0e411e8
+content_hash: sha256:00d587a506a1a1e8d2848f3668cc77928a03dbf00cd7c9ff6e6bec70e18479ea
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,6 +32,10 @@ The principle that spreading risk across many futures markets, multiple uncorrel
 ## Sources
 
 - [[sources/carver-2023-advanced-futures-trading-strategies|Advanced Futures Trading Strategies]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-risk|Risk]] (2006)
 
 ## Related Concepts
 

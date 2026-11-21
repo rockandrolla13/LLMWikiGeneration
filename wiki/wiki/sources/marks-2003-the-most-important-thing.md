@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:08a75d059807af56f60672a1166c6b8dbd00a05d391c2ad84045f35ea4c45d63
+content_hash: sha256:e99cb1f473b588141617d7aaeaca9e0eec320544f4b008b79de4be38bd80c9ce
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2003-the-most-important-thing
@@ -32,7 +32,8 @@ related:
 - entities/sheldon-stone
 - entities/tcw
 - entities/warren-buffett
-revision_id: 1
+- sources/marks-2010-hemlines
+revision_id: 2
 schema_version: 2
 source_hash: sha256:ba890503b17ce87b328a400d4aa8175ded81e3fed8a6518fcd7333b7982c39e4
 source_path: markdown_output/2003-07-01-the-most-important-thing.md
@@ -43,8 +44,8 @@ tags:
 - howard-marks
 - investment-memo
 title: The Most Important Thing
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_8b825e33848c
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: b47a1391-597e-5863-9184-bf4899179c8b
 ---
 
@@ -115,6 +116,10 @@ Mid-2003, after the late-1990s tech bubble had burst. The memo is a statement of
 - [[entities/sheldon-stone|Sheldon Stone]]
 - [[entities/tcw|TCW]]
 - [[entities/warren-buffett|Warren Buffett]]
+
+## Related Memos
+
+- Referred to by [[sources/marks-2010-hemlines|Hemlines]] (September 10, 2010)
 
 ## Notes on the Source Text
 

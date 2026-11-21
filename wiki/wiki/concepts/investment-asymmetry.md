@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:926c54d86be437c9c690d9f2657e9016ac091143b73d69c44ed0bd2212237651
+content_hash: sha256:50172549c15d8625bad17d358ea6402828d02bc31596b9fc9c5466242d0a19ab
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/investment-asymmetry
@@ -12,15 +12,16 @@ related:
 - concepts/probabilistic-thinking
 - concepts/active-vs-passive-investing
 - concepts/second-level-thinking
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2006-returns-absolute-returns-and-risk
 tags:
 - howard-marks
 title: Investment Asymmetry
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_cc075526da31
 uuid: 63eaebbc-2327-5b9f-a6c5-fe1d27d99714
 ---
 
@@ -36,6 +37,7 @@ Capturing more of the market's upside than its downside. Marks argues that every
 Cited in 5 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2006-returns-absolute-returns-and-risk|Returns, Absolute Returns and Risk]] (2006)
 
 ## Related Concepts
 

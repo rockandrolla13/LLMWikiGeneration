@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:2d679d26bcda2bb561548454d15d89911fba26bdb53a82d3f79fd9ed65311189
+content_hash: sha256:082fc95c176ff1bb71441c0ca3b6a5eb004de8de5a58f59718b44c6ca5471b8d
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,17 +10,18 @@ page_type: concept
 related:
 - concepts/backtesting
 - concepts/factor-models
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/tulchinsky-2020-finding-alphas
 - sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/marks-2002-returns-and-how-they-get-that-way
+- sources/marks-2012-assessing-performance-records-a-case-study
 tags: []
 title: Information Ratio
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_59e9d99b8e82
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_0e59657812a3
 uuid: 1989a684-b2eb-5f7b-b1d6-420c5070f32b
 ---
 
@@ -45,4 +46,5 @@ The ratio of an alpha's mean return to the standard deviation of its returns; th
 ## In Howard Marks's Memos
 
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
+- [[sources/marks-2012-assessing-performance-records-a-case-study|Assessing Performance Records – A Case Study]] (2012)
 <!-- AUTHORED REGION END -->

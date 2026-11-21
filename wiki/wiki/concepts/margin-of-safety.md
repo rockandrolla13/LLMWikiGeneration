@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:96904b1dd597a9a627d757703bafda4033982cfc890cc0ea107be3a343d6362e
+content_hash: sha256:7966e43134fdf5526774b709720964d578c42abb4f356bd6080aaab068999a36
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/margin-of-safety
@@ -12,7 +12,7 @@ related:
 - concepts/credit-cycle
 - concepts/leverage-and-volatility
 - concepts/probabilistic-thinking
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1990-the-route-to-performance
@@ -22,11 +22,20 @@ sources:
 - sources/marks-2003-the-most-important-thing
 - sources/marks-2004-us-and-them
 - sources/marks-2005-there-they-go-again
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-touchstones
+- sources/marks-2010-tell-me-im-wrong
+- sources/marks-2010-warning-flags
+- sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: Margin of Safety
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: d8f52e27-ac95-5b78-9907-53b533134f6f
 ---
 
@@ -48,6 +57,15 @@ Cited in 25 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-tell-me-im-wrong|Tell Me I’m Wrong]] (2010)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

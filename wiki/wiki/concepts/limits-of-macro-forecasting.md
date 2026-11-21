@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:aa3e82afa5b42e36ebd2dd94c811d97cba9f77da248a7f19559cb82116a4a3c1
+content_hash: sha256:e60f470acc7f9b6575d2673214902355bf89176cea5d0ee3f9021e70323665ee
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/limits-of-macro-forecasting
@@ -12,7 +12,7 @@ related:
 - concepts/behavioral-finance
 - concepts/market-timing
 - concepts/monetary-and-fiscal-policy
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1993-the-value-of-predictions
@@ -23,11 +23,13 @@ sources:
 - sources/marks-2002-the-realists-creed
 - sources/marks-2002-quo-vadis
 - sources/marks-2003-whad-ya-know
+- sources/marks-2008-nobody-knows
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: Limits of Macro Forecasting
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: 97e0ab8a-664c-54d1-9a89-84702d923cc8
 ---
 
@@ -50,6 +52,8 @@ Cited in 28 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-the-realists-creed|The Realist's Creed]] (2002)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

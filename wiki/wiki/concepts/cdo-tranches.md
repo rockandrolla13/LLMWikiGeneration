@@ -2,9 +2,9 @@
 title: CDO Tranches
 page_id: concepts/cdo-tranches
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+updated: '2026-11-21T02:33:09Z'
 tags:
 - CDO
 - credit-derivatives
@@ -13,13 +13,25 @@ tags:
 - creditETF
 sources:
 - sources/lehman-2007-qcr-quarterly
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-its-all-good
+- sources/marks-2007-its-all-good-really
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2007-no-different-this-time-the-lessons-of-07
+- sources/marks-2008-now-what
+- sources/marks-2008-whodunit
+- sources/marks-2008-doesnt-make-sense
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-so-much-thats-false-and-nutty
 related:
 - concepts/base-correlation
 - concepts/bespoke-cdo
 mind_map_priority: medium
 schema_version: 2
 uuid: f59ff478-1bef-5b35-8e41-fddf81004e75
-content_hash: sha256:fe614fd8f1d59c23fdd894870641430d6ceafb9312c3240d20340372727870dd
+content_hash: sha256:cfafe1920d01609efd5bdd5db63c3f518730638a6610462beea7c0115eb2289b
+updated_by: op_da942e9a64b3
 ---
 
 <!-- AUTHORED REGION START -->
@@ -54,4 +66,17 @@ Tranches on portfolios that are not the standard indices are covered under [[con
 
 **Not yet written:** `concepts/correlation-skew`, `concepts/gaussian-copula`, `concepts/expected-tranche-loss`
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2007-its-all-good-really|It’s All Good . . . Really?]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2007-no-different-this-time-the-lessons-of-07|No Different This Time – The Lessons of ‘07]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-so-much-thats-false-and-nutty|So Much That's False and Nutty]] (2009)
 <!-- AUTHORED REGION END -->

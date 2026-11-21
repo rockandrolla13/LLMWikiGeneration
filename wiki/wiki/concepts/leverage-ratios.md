@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:37ff6cf5a9c2947b901f0ab55e773f742d80a86587c8fe333055d50a4d46658a
+content_hash: sha256:553c7e955fcd7ea76db95641e1afc0883c76c5f97620f3e4ec48292ee8a18363
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leverage-ratios
@@ -7,7 +7,7 @@ page_type: concept
 related:
 - concepts/spread-per-turn-of-leverage
 - concepts/relative-value-analysis
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/spec-2012-single-name-fundamental
@@ -19,14 +19,18 @@ sources:
 - sources/whitman-2009-distress-investing
 - sources/marks-1998-genius-isnt-enough
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2006-pigweed
+- sources/marks-2007-its-all-good
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-the-long-view
 tags:
 - credit-analysis
 - fundamental-analysis
 - leverage
 - creditETF
 title: Leverage Ratios
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ca5d5f0c5ce3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_ddd3090263f3
 uuid: b358f0f2-1c29-549a-97d4-2f4fa5ae556f
 ---
 
@@ -74,4 +78,8 @@ The limitation carries over: this assumes the relationship between spread and le
 
 - [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
 <!-- AUTHORED REGION END -->

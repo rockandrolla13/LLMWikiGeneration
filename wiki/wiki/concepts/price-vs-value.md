@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b7446f6960a4045fdab476959053be560c66666e50181909824107d1a17e1a88
+content_hash: sha256:09e8232f47eafcba6413723d4d523ff4f0aeb88eb1564e8a7299da84197303be
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/price-vs-value
@@ -12,7 +12,7 @@ related:
 - concepts/contrarian-market-timing
 - concepts/nifty-fifty
 - concepts/pendulum-of-investor-psychology
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1992-microeconomics-101-supply-demand-convertibles
@@ -24,11 +24,19 @@ sources:
 - sources/marks-2002-the-realists-creed
 - sources/marks-2002-returns-and-how-they-get-that-way
 - sources/marks-2003-the-most-important-thing
+- sources/marks-2007-everyone-knows
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-will-it-work
+- sources/marks-2010-hemlines
+- sources/marks-2010-all-that-glitters
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2011-whats-behind-the-downturn
 tags:
 - howard-marks
 title: Price vs Intrinsic Value
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_1b155030eb6c
 uuid: 6c47cbe8-80c6-5a00-b38a-55704e8c1787
 ---
 
@@ -52,6 +60,14 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-the-realists-creed|The Realist's Creed]] (2002)
 - [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
+- [[sources/marks-2010-all-that-glitters|All That Glitters]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 
 ## Related Concepts
 

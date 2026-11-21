@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:e9249c96feddadf135093dd75584a84947f29a5e99b28b7a80ec9361cdad3903
+content_hash: sha256:13e9b681097c39f827c90a7dcab6710ef3be0765b6630f6b4c78b153721c3aec
 created: '2026-11-21T02:22:43Z'
 page_id: contradictions/risk-equals-volatility
 page_type: contradiction
@@ -8,21 +8,22 @@ related:
 - concepts/volatility-targeting
 - concepts/risk-parity
 - entities/howard-marks
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2001-whats-it-all-about-alpha
 - sources/marks-2001-safety-first-but-where
 - sources/carver-2015-systematic-trading
 - sources/israel-2017-common-factors-corporate-bond-returns
+- sources/marks-2006-risk
 status: unresolved
 tags:
 - risk
 - volatility
 - howard-marks
 title: Is Risk the Same as Volatility?
-updated: '2026-11-21T02:22:43Z'
-updated_by: op_766924c6f271
+updated: '2026-11-21T02:33:11Z'
+updated_by: op_5b3739af413f
 uuid: 192dd27c-b9e6-5c2b-834f-82df35027c1b
 ---
 
@@ -37,7 +38,7 @@ The wiki's [[concepts/volatility-targeting|Volatility Targeting]] page defines t
 
 ## Claim B: risk is the chance of losing money, and volatility is not it
 
-In [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 2001), Howard Marks writes that he does not think risk is synonymous with volatility. Oaktree means by risk the chance of losing its clients' money, and he says the firm does not think about volatility. He also says this kind of risk cannot be quantified, even after the fact. He argues that academics adopted volatility as the measure of risk because it is absolute and quantifiable. In [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (April 2001) he calls volatility "the theoretical definition of risk". He then says forced selling at the bottom can turn it into permanent loss. See [[concepts/risk-vs-volatility|Risk Is Not Volatility]].
+In [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (July 2001), Howard Marks writes that he does not think risk is synonymous with volatility. Oaktree means by risk the chance of losing its clients' money, and he says the firm does not think about volatility. He also says this kind of risk cannot be quantified, even after the fact. He argues that academics adopted volatility as the measure of risk because it is absolute and quantifiable. In [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (April 2001) he calls volatility "the theoretical definition of risk". He then says forced selling at the bottom can turn it into permanent loss. In [[sources/marks-2006-risk|Risk]] (January 2006) he returns to the point at length. He writes that academics settled on volatility as the proxy for risk "as a matter of convenience", because they needed a number that was objective. He says risk is "first and foremost" the likelihood of losing money. See [[concepts/risk-vs-volatility|Risk Is Not Volatility]].
 
 ## Where exactly they conflict
 

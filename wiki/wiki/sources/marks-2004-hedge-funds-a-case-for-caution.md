@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:d30722cae7b3c5a1efa6dd746e843e0847ded66628926fccecebae497005c2ed
+content_hash: sha256:4d6a2ea51b41a7b28bcf7a0293cf5eff81caaa2589692c38b6b4b9a14394c53e
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-2004-hedge-funds-a-case-for-caution
@@ -25,7 +25,9 @@ related:
 - entities/oaktree-capital-management
 - entities/wall-street-journal
 - sources/marks-2005-a-case-in-point
-revision_id: 1
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2006-pigweed
+revision_id: 2
 schema_version: 2
 source_hash: sha256:a91dddeaa8d5bb97d617b22453d05322a6d49edb6692bf0cb6ea3ce4e958c09b
 source_path: markdown_output/2004-10-06-hedge-funds-a-case-for-caution.md
@@ -36,8 +38,8 @@ tags:
 - howard-marks
 - investment-memo
 title: 'Hedge Funds: A Case for Caution'
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_ca5d5f0c5ce3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_bcced4c23f2d
 uuid: f676ed56-7854-5201-a228-2b5efd565a96
 ---
 
@@ -104,6 +106,8 @@ Autumn 2004: after the 2000-02 bear market, money market yields were about 1%, T
 ## Related Memos
 
 - Referred to by [[sources/marks-2005-a-case-in-point|A Case in Point]] (June 6, 2005)
+- Referred to by [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (October 19, 2006)
+- Referred to by [[sources/marks-2006-pigweed|Pigweed]] (December 7, 2006)
 
 ## Notes on the Source Text
 

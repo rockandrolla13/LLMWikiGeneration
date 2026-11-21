@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:fcf3d841a1ecefc3364f1d521c07138220353284e79044d1457818feff1b78f2
+content_hash: sha256:e7dfd282189948952a143aa54fdafb2f9663155459765c984ddb5a61850e7d83
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/corporate-bonds
@@ -44,7 +44,7 @@ related:
 - concepts/reduced-form-credit-models
 - concepts/risk-premia
 - concepts/speculative-grade-default-rate
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/avramov-2007-changes-corporate-credit-spreads
@@ -94,13 +94,14 @@ sources:
 - sources/marks-2000-investment-miscellany
 - sources/marks-2001-safety-first-but-where
 - sources/marks-2003-whats-going-on
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - fixed-income
 - credit-risk
 - otc-markets
 title: Corporate Bonds
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_1f0a47d4a688
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: 0e0d129d-f5ed-5206-a782-68945c670b88
 ---
 
@@ -138,4 +139,5 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 - [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
 - [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 <!-- AUTHORED REGION END -->

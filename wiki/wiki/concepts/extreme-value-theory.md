@@ -2,9 +2,9 @@
 title: Extreme Value Theory
 page_id: concepts/extreme-value-theory
 page_type: concept
-revision_id: 1
+revision_id: 3
 created: 2026-04-26 10:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:33:11Z'
 tags:
 - statistics
 - risk-management
@@ -14,6 +14,7 @@ tags:
 - extreme-events
 sources:
 - sources/pasche-2025-extreme-conformal
+- sources/marks-2008-whodunit
 related:
 - concepts/generalized-pareto-distribution
 - concepts/conformal-prediction
@@ -22,7 +23,8 @@ related:
 mind_map_priority: high
 schema_version: 2
 uuid: 7b42dd69-9055-53bf-adf0-a88463674150
-content_hash: sha256:38be93c74efc7f1e46a4f8f4a5e4c904cf86567d754a4e2477dc4efce32553e9
+content_hash: sha256:da064fa3dd7472a4176411c831b7397825112b73fa11300154ef29cc713de517
+updated_by: op_5b3739af413f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -142,4 +144,11 @@ Methods include:
 - [[concepts/prediction-intervals|Prediction Intervals]]
 - [[concepts/coverage-guarantee|Coverage Guarantee]]
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+
+## Contradictions
+
+- [[contradictions/can-financial-tail-risk-be-estimated|Can Models Estimate Financial Tail Risk?]]
 <!-- AUTHORED REGION END -->

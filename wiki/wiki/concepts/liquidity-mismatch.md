@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:6bf0c4118b902501d9c619426869ba0c2305272262b2e3fbbc262ed50fb300f8
+content_hash: sha256:6f265214806330a75b48f970e2e0352b5c2e6b2dffbbf4196fbaeff8f22bb095
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/liquidity-mismatch
@@ -12,15 +12,17 @@ related:
 - concepts/illiquidity-premium
 - concepts/regulatory-pendulum
 - concepts/credit-default-swaps
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2004-hedge-funds-a-case-for-caution
+- sources/marks-2006-pigweed
+- sources/marks-2008-plan-b
 tags:
 - howard-marks
 title: Liquidity Mismatch
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_f506432cc7df
 uuid: b45d2fa7-1902-5db6-aa06-567a3bf6b85f
 ---
 
@@ -36,6 +38,8 @@ Funding long-term or illiquid assets with short-term or callable money. Marks tr
 Cited in 8 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
+- [[sources/marks-2006-pigweed|Pigweed]] (2006)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
 
 ## Related Concepts
 

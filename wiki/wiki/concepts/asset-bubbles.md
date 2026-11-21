@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: phenomenon
-content_hash: sha256:3c79e8e67291a29934932bb38577073708ee3600d5a1bf4a3af9a84ed30ce4a4
+content_hash: sha256:46df174cd58bf221e1f4a0aae7db62ca45ed3e878b9ae4fd8fc4a2e31b3c65c2
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/asset-bubbles
@@ -12,7 +12,7 @@ related:
 - concepts/low-expected-returns
 - concepts/pendulum-of-investor-psychology
 - concepts/business-cycles
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1996-will-it-be-different-this-time
@@ -24,11 +24,15 @@ sources:
 - sources/marks-2001-you-cant-predict-you-can-prepare
 - sources/marks-2002-quo-vadis
 - sources/marks-2005-there-they-go-again
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2007-its-all-good
+- sources/marks-2009-the-long-view
+- sources/marks-2009-touchstones
 tags:
 - howard-marks
 title: Asset Bubbles
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_45a7f7c08e2c
 uuid: c864fbe8-828f-528d-8a2e-e668565da2e1
 ---
 
@@ -52,6 +56,10 @@ Cited in 30 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (2001)
 - [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 - [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2007-its-all-good|It's All Good]] (2007)
+- [[sources/marks-2009-the-long-view|The Long View]] (2009)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
 
 ## Related Concepts
 

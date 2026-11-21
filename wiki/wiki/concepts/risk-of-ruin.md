@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:b5027efc3c7a1d951bd0c22e5067d2bd8263780d0977d311c1ec205e9f5bd065
+content_hash: sha256:99127d2c00daef0e88e57bb4bbe6fe310d4c372541de8efd55f3f462ba10ba06
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/risk-of-ruin
@@ -12,14 +12,17 @@ related:
 - concepts/regulatory-pendulum
 - concepts/debt-overhang-balance-sheet-recession
 - concepts/funding-liquidity
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2008-the-aviary
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-will-it-work
 tags:
 - howard-marks
 title: Risk of Ruin and Survival
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_caa3f31a036e
 uuid: 7a685b76-9ca3-57fb-bf41-e4399bc0405e
 ---
 
@@ -33,6 +36,10 @@ The danger that a single bad outcome ends the game, however good the average out
 ## In Howard Marks's Memos
 
 Cited in 7 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-will-it-work|Will It Work?]] (2009)
 
 ## Related Concepts
 

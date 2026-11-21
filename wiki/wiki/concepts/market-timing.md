@@ -23,7 +23,7 @@ related:
 - concepts/strategy-robustness
 - concepts/taarss
 - concepts/trend-following
-revision_id: 4
+revision_id: 5
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2018-04-16-credit-bmi-update
@@ -52,16 +52,17 @@ sources:
 - sources/marks-2003-whats-your-game-plan
 - sources/marks-2003-the-feelings-mutual
 - sources/marks-2005-oaktree-at-ten
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - trading-strategy
 - directional-forecasting
 - merton
 title: Market Timing
-updated: '2026-11-21T02:22:02Z'
+updated: '2026-11-21T02:33:09Z'
 schema_version: 2
 uuid: 0e533488-1d4f-5d11-88f1-e5ee03e01fad
-content_hash: sha256:23af26e8f6baecc9bec8ab5cc028a8174f1e1ec94ec8564bd9fb37f8e8671133
-updated_by: op_9cb10a955893
+content_hash: sha256:a46e35f1ecf1a76074064d1ebe690704892b97e6235eced948908908b640a66e
+updated_by: op_19ff275ee994
 ---
 
 <!-- AUTHORED REGION START -->
@@ -113,4 +114,5 @@ Now also discussed in: [[sources/db-2019-03-15-european-equity-strategy-growth-m
 - [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (2003)
 - [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
 - [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 <!-- AUTHORED REGION END -->

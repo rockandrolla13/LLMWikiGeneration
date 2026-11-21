@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:d1ff92ae2d9259ee519216f740d7a952ac30537316f58ec6dcdebb136279c29d
+content_hash: sha256:03d749a383a75ce5f07b7b9ea48dd07a2962cab4333fd0819309aa873ce4d94a
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/taking-the-market-temperature
@@ -12,15 +12,17 @@ related:
 - concepts/asset-bubbles
 - concepts/skepticism
 - concepts/market-cycles
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: Taking the Market's Temperature
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: 095b661e-9388-5dbd-b9ad-20b27fba73a6
 ---
 
@@ -36,6 +38,8 @@ Marks's alternative to forecasting: 'we may never know where we're going, but we
 Cited in 16 of the 165 Howard Marks memos in the collection.
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

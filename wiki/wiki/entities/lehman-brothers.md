@@ -3,9 +3,9 @@ title: Lehman Brothers
 page_id: entities/lehman-brothers
 page_type: entity
 entity_type: institution
-revision_id: 2
+revision_id: 3
 created: 2026-05-05 23:25:00+00:00
-updated: '2026-11-21T02:22:02Z'
+updated: '2026-11-21T02:33:09Z'
 tags:
 - creditETF
 - investment-bank
@@ -17,6 +17,20 @@ sources:
 - sources/marks-2001-safety-first-but-where
 - sources/marks-2003-whad-ya-know
 - sources/marks-2003-the-most-important-thing
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-whodunit
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-the-aviary
+- sources/marks-2008-nobody-knows
+- sources/marks-2008-plan-b
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2009-touchstones
+- sources/marks-2010-warning-flags
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-on-regulation
+- sources/marks-2011-how-quickly-they-forget
+- sources/marks-2012-what-can-we-do-for-you
 related:
 - entities/minh-trinh
 - entities/bodha-bhattacharya
@@ -26,8 +40,8 @@ related:
 - concepts/duration-times-spread
 schema_version: 2
 uuid: 0092a0a6-6f80-5542-b20c-7e6e6246f63f
-content_hash: sha256:ea498b5c10495d637af5ae6810c9d95b5388bff70062ec8d5c50bed0aabfdcc4
-updated_by: op_8b825e33848c
+content_hash: sha256:bf821240d8602f28b86f60181200821b96410dd0bb423ae983195e6b79df2e0d
+updated_by: op_19ff275ee994
 ---
 
 <!-- AUTHORED REGION START -->
@@ -72,4 +86,18 @@ Despite producing sophisticated quantitative research, Lehman Brothers filed for
 - [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
 - [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 - [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-whodunit|Whodunit]] (2008)
+- [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (2008)
+- [[sources/marks-2008-the-aviary|The Aviary]] (2008)
+- [[sources/marks-2008-nobody-knows|Nobody Knows]] (2008)
+- [[sources/marks-2008-plan-b|Plan B]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-on-regulation|On Regulation]] (2011)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 <!-- AUTHORED REGION END -->

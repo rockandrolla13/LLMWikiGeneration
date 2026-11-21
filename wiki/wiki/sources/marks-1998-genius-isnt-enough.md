@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:1d3184f8150521d3ca26fa1b02b516991a8912a14a0070b4ad128359ac310a61
+content_hash: sha256:61bc19f3de915a8d6eb30aa6b6656d6313e59946e0d69d4490ee6e9d9a8f13dd
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1998-genius-isnt-enough
@@ -35,7 +35,10 @@ related:
 - entities/warren-buffett
 - sources/marks-1994-risk-in-todays-markets
 - sources/marks-2001-you-cant-predict-you-can-prepare
-revision_id: 1
+- sources/marks-2008-the-tide-goes-out
+- sources/marks-2008-volatility-leverage-dynamite
+- sources/marks-2010-open-and-shut
+revision_id: 2
 schema_version: 2
 source_hash: sha256:c3b3a4e627b409f46c04df500107d355acc8354da3db0a751d152e4ed52882b0
 source_path: markdown_output/1998-10-09-genius-isn-39-t-enough.md
@@ -46,8 +49,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_a006f7d03b12
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_d36e1cadbff4
 uuid: fc61b9b9-46f5-5be1-96eb-4f3b1cf96d36
 ---
 
@@ -126,6 +129,9 @@ Early October 1998: LTCM had just been restructured with additional investment f
 - Referred to by [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (November 20, 2001)
 - Refers to (no page): *Are You An Investor or a Speculator?* (September 3, 1997), page not yet in the wiki. Memo text reference: Are You an Investor or a Speculator (September 3, 1997)
 - Refers to (no page): April 1998 piece on alternative investments (untitled in text)
+- Referred to by [[sources/marks-2008-the-tide-goes-out|The Tide Goes Out]] (March 18, 2008)
+- Referred to by [[sources/marks-2008-volatility-leverage-dynamite|Volatility + Leverage = Dynamite]] (December 17, 2008)
+- Referred to by [[sources/marks-2010-open-and-shut|Open and Shut]] (December 1, 2010)
 
 ## Notes on the Source Text
 

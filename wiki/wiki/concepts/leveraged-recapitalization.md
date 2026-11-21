@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:93f020e11a53246afa165e28ff60d52bdaf4bb98864b582b5e3098d6cf873700
+content_hash: sha256:ca74153416ba9175029f85d0f1fb614292a7b95f1162ba830056f9975f9303e5
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leveraged-recapitalization
@@ -8,20 +8,29 @@ related:
 - concepts/lbo-risk
 - concepts/event-risk
 - concepts/lever-score
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/marks-2005-hindsight-first-please
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-you-cant-eat-irr
+- sources/marks-2006-the-new-paradigm
+- sources/marks-2007-the-race-to-the-bottom
+- sources/marks-2007-now-its-all-bad
+- sources/marks-2008-now-what
+- sources/marks-2010-warning-flags
+- sources/marks-2010-open-and-shut
+- sources/marks-2011-how-quickly-they-forget
 tags:
 - event-risk
 - LBO
 - corporate-credit
 - creditETF
 title: Leveraged Recapitalization
-updated: '2026-11-21T02:22:02Z'
-updated_by: op_6123799129d3
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_92a51ddcbfec
 uuid: e8811b33-11c1-5036-9ff5-ba3758f8e811
 ---
 
@@ -57,4 +66,13 @@ Because the driver is the same, the same screen applies. A firm becomes an attra
 ## In Howard Marks's Memos
 
 - [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-you-cant-eat-irr|You Can’t Eat IRR]] (2006)
+- [[sources/marks-2006-the-new-paradigm|The New Paradigm]] (2006)
+- [[sources/marks-2007-the-race-to-the-bottom|The Race to the Bottom]] (2007)
+- [[sources/marks-2007-now-its-all-bad|Now It’s All Bad?]] (2007)
+- [[sources/marks-2008-now-what|Now What?]] (2008)
+- [[sources/marks-2010-warning-flags|Warning Flags]] (2010)
+- [[sources/marks-2010-open-and-shut|Open and Shut]] (2010)
+- [[sources/marks-2011-how-quickly-they-forget|How Quickly They Forget]] (2011)
 <!-- AUTHORED REGION END -->

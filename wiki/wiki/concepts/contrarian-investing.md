@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:90a85924b0ed4acb7e92ea56da8c50f593c331c5fb65afc554adc49e8aa74af5
+content_hash: sha256:7cccc852f7d711ece4f1a7cd349c9c0e5a58d1a1f1b29fb02de80adc83e9a189
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/contrarian-investing
@@ -12,7 +12,7 @@ related:
 - concepts/price-vs-value
 - concepts/distressed-debt
 - concepts/pendulum-of-investor-psychology
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/marks-1991-first-quarter-performance
@@ -25,11 +25,19 @@ sources:
 - sources/marks-2002-etorres-wisdom
 - sources/marks-2004-us-and-them
 - sources/marks-2004-the-happy-medium
+- sources/marks-2006-it-is-what-it-is
+- sources/marks-2006-dare-to-be-great
+- sources/marks-2007-everyone-knows
+- sources/marks-2008-doesnt-make-sense
+- sources/marks-2008-the-limits-to-negativism
+- sources/marks-2009-touchstones
+- sources/marks-2011-whats-behind-the-downturn
+- sources/marks-2012-what-can-we-do-for-you
 tags:
 - howard-marks
 title: Contrarian Investing
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_19ff275ee994
 uuid: d3cb3d8c-93c2-5151-a40c-4ef6cba21596
 ---
 
@@ -54,6 +62,14 @@ Cited in 32 of the 165 Howard Marks memos in the collection.
 - [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
 - [[sources/marks-2004-us-and-them|Us and Them]] (2004)
 - [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2006-it-is-what-it-is|It Is What It Is]] (2006)
+- [[sources/marks-2006-dare-to-be-great|Dare to Be Great]] (2006)
+- [[sources/marks-2007-everyone-knows|Everyone Knows]] (2007)
+- [[sources/marks-2008-doesnt-make-sense|Doesn’t Make Sense]] (2008)
+- [[sources/marks-2008-the-limits-to-negativism|The Limits to Negativism]] (2008)
+- [[sources/marks-2009-touchstones|Touchstones]] (2009)
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
+- [[sources/marks-2012-what-can-we-do-for-you|What Can We Do For You?]] (2012)
 
 ## Related Concepts
 

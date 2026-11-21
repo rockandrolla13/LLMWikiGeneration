@@ -25,7 +25,7 @@ related:
 - concepts/sovereign-debt-crisis
 - concepts/sovereign-debt-sustainability
 - concepts/term-structure-risk-premium
-revision_id: 3
+revision_id: 4
 sources:
 - sources/boffelli-2017-euro-bond-spread-correlations
 - sources/ms-2008-08-28-gilt-futures-ctd-option
@@ -58,15 +58,17 @@ sources:
 - sources/ms-2019-05-17-tariffs-government-bonds
 - sources/ms-2020-04-03-global-macro-commentary-covid
 - sources/ms-2022-11-04-end-of-trends
+- sources/marks-2011-whats-behind-the-downturn
 tags:
 - sovereign-debt
 - fixed-income
 - spreads
 title: Government Bond Spreads
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:33:09Z'
 schema_version: 2
 uuid: 00f8cc44-6f79-5d64-a079-47abc1a21d47
-content_hash: sha256:2f01072b304b20316976cafffa341831486eddfdcb1fbd447c9535a6d2b12470
+content_hash: sha256:ce6c05f98e6b19f7881c934d64ad3cbdf12777ad943db0d68010f4eeae93da28
+updated_by: op_1b155030eb6c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -77,6 +79,10 @@ content_hash: sha256:2f01072b304b20316976cafffa341831486eddfdcb1fbd447c9535a6d2b
 ## Sources
 
 - [[sources/boffelli-2017-euro-bond-spread-correlations|High- and Low-Frequency Correlations in European Government Bond Spreads (2017)]] — supporting; the dependent quantity whose high- and low-frequency correlations are modeled
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2011-whats-behind-the-downturn|What's Behind the Downturn?]] (2011)
 
 ## Related Concepts
 

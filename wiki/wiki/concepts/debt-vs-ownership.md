@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:1cfc588b24b3564df1f8bb04d82af5f4b82ac773c810aea2c29cfcc527ebf120
+content_hash: sha256:7b17c97fbcdfb8d6062f3bd89f25badf21f712b1843add179fdd45877f4cd37c
 created: '2026-11-21T02:22:01Z'
 mind_map_priority: medium
 page_id: concepts/debt-vs-ownership
@@ -12,14 +12,15 @@ related:
 - concepts/private-credit
 - concepts/sea-change-in-interest-rates
 - concepts/credit-risk-premium
-revision_id: 1
+revision_id: 2
 schema_version: 2
-sources: []
+sources:
+- sources/marks-2010-hemlines
 tags:
 - howard-marks
 title: Debt vs Ownership
-updated: '2026-11-21T02:22:01Z'
-updated_by: op_efb7fb6d1ea5
+updated: '2026-11-21T02:33:09Z'
+updated_by: op_fed0f2b9acba
 uuid: 28e57b63-eb6c-516d-80d3-a20ecb5fda48
 ---
 
@@ -33,6 +34,8 @@ Marks's view that there are only two basic asset classes: owning something (equi
 ## In Howard Marks's Memos
 
 Cited in 6 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-2010-hemlines|Hemlines]] (2010)
 
 ## Related Concepts
 
