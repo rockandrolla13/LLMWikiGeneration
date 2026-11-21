@@ -1,12 +1,12 @@
 ---
-content_hash: sha256:51bcdd586a819547e2711f8297855e7d290bdd345a324aaedbfa8fb7f3ca985e
+content_hash: sha256:20ae72d0e1ca2a9466ca32e228d9b71d69b27e69bd29941df2e29e27ec55cc1b
 created: 2026-08-06 00:00:00+00:00
 entity_type: organization
 mind_map_priority: low
 page_id: entities/databricks
 page_type: entity
 related: []
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/girten-2024-building-modern-data-databricks
@@ -14,6 +14,7 @@ sources:
 - sources/sreekumar-2024-datenverwaltung-unity-catalog-databricks
 - sources/alhussein-2024-databricks-certified-data-engineer
 - sources/pathan-2025-mastering-llm-applications-langchain
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - data-platform
 - spark
@@ -21,8 +22,8 @@ tags:
 - data-governance
 - data-engineering
 title: Databricks
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 613fbdfb-91d1-5f65-af2c-456218e052d8
 ---
 
@@ -52,4 +53,5 @@ These are vendor-oriented practitioner books, not independent evaluations. They 
 ## Papers in This Wiki
 
 - [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,11 +1,13 @@
 ---
-content_hash: sha256:24534a4f97711ef7c6022dfc974b55c05f5b598d6ec42abb15941266b697f8ad
+content_hash: sha256:9d7697d496184381d8c550b03a8a9229f5f92ba0187119aeb07bd55c754f43ea
 created: '2026-05-17T16:44:06Z'
 entity_type: organization
 mind_map_priority: high
 page_id: entities/openai
 page_type: entity
-revision_id: 2
+related:
+- entities/gpt-2
+revision_id: 4
 schema_version: 2
 sources:
 - sources/berryman-2024-prompt-engineering-llms
@@ -18,12 +20,13 @@ sources:
 - sources/thomas-2025-ai-value-creators
 - sources/wilson-2024-llm-security-playbook
 - sources/aryan-2025-llmops
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - ai-engineering
 - organization
 title: OpenAI
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 8bf5efdd-df50-56a7-9287-660cdbe05282
 ---
 
@@ -51,4 +54,5 @@ Creators of GPT-2/3/4, ChatGPT, tiktoken, and InstructGPT. Their open-source GPT
 ## Papers in This Wiki
 
 - [[sources/aryan-2025-llmops|LLMOps]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

@@ -1,22 +1,24 @@
 ---
-title: Layer Normalization
+content_hash: sha256:2ef53b8ea41b4fed07689c6bf9b90edc737ee4ddcf2e65ec4e0619ae698efa3e
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/layer-normalization
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/transformers
+- concepts/rmsnorm
+revision_id: 2
+schema_version: 2
+sources:
+- sources/raschka-2024-build-llm-from-scratch
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - ai-engineering
 - transformers
-sources:
-- sources/raschka-2024-build-llm-from-scratch
-related:
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Layer Normalization
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 942f27d5-964a-5992-b9e1-c7b8fdb446f4
-content_hash: sha256:346b718c68b21952d62dd4962bcb4649ffe5e911b468535f5a823ef2cf03a5e6
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +31,7 @@ A normalization technique that rescales activations to zero mean and unit varian
 ## Sources
 
 - [[sources/raschka-2024-build-llm-from-scratch|Build a Large Language Model (From Scratch)]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Uses pre-LayerNorm in the GPT-2-style chapters and replaces it with [[concepts/rmsnorm|RMSNorm]] in Ch 8.
 
 ## Related Concepts
 

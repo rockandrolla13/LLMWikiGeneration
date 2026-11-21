@@ -1,14 +1,19 @@
 ---
-title: Hands-on Small Language Models
+authors:
+- Alexander Thomas
+content_hash: sha256:3deeab1932d64835d5792446f1b9cdd221ebc0c3a6eb521036ffd3434009d11c
+created: 2026-06-19 00:00:00+00:00
+mind_map_priority: medium
 page_id: sources/thomas-2025-hands-on-small-language-models
 page_type: source
-verification:
-  status: unverified
-  unverified_claims: 0
-revision_id: 1
-created: 2026-06-19 00:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-updated_by: batch_ingest_technical_books_2_2026_06_19
+related:
+- sources/liu-2025-build-fine-tune-small-language-model
+- concepts/small-language-models
+revision_id: 3
+schema_version: 2
+source_type: book
+sources:
+- sources/thomas-2025-hands-on-small-language-models
 tags:
 - small-language-models
 - slm
@@ -26,17 +31,14 @@ tags:
 - huggingface
 - sparql
 - nlp
-sources:
-- sources/thomas-2025-hands-on-small-language-models
-related: []
-mind_map_priority: medium
-authors:
-- Alexander Thomas
-year: 2025
-source_type: book
-schema_version: 2
+title: Hands-on Small Language Models
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 9d2fad09-0235-5558-b5fa-94b5855fc251
-content_hash: sha256:4c58a50da17f13088091fdf5f9dc48ec562bf31fa88c10973225cd82b350435b
+verification:
+  status: unverified
+  unverified_claims: 0
+year: 2025
 ---
 
 <!-- AUTHORED REGION START -->
@@ -103,4 +105,8 @@ Early-release O'Reilly book (first release 2026-01-21, first edition January 202
 - Is the Theoros codebase publicly available in a GitHub repository?
 - The ISBN listed (979-8-341-67068-6) differs slightly from the errata URL ISBN (9798341670723) — which is correct?
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

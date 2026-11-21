@@ -53,3 +53,9 @@ Operation ID: op_6041749c5f06
 Ingested 2 papers and 2 books from `raw/fundamental-quantmental/`: *Value Investing in Credit Markets*, *Common Factors in Corporate Bond Returns*, *A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt*, *Distress Investing: Principles and Technique*. Created 31 pages, updated 58.
 
 Operation ID: op_0cdb8cc1f169
+
+## 2026-11-21T02:00:24Z ingest
+
+Ingested *How to Build and Fine-Tune a Small Language Model* (J. Paul Liu, Leanpub, 2025) from `raw/small-language-models/`. Created 24 pages (8 concepts, 14 entities, 1 contradiction), updated 36.
+
+Operation ID: op_faa1492c417c

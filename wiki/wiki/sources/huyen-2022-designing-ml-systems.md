@@ -1,23 +1,15 @@
 ---
-title: Designing Machine Learning Systems
-page_id: sources/huyen-2022-designing-ml-systems
-page_type: source
-source_path: markdown_output/huyen-2022-designing-ml-systems.md
-source_type: book
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Chip Huyen
-year: 2022
-publisher: O'Reilly Media
+content_hash: sha256:e8761067aebf433aefbbc4d8284c77b69ae0b464a10fc2b2963126f51abbd90c
+created: '2026-05-17T16:44:06Z'
 edition: 1st
 is_early_release: false
+mind_map_priority: medium
 page_count_estimate: 386
-tags:
-- ai-engineering
-- software-engineering
+page_id: sources/huyen-2022-designing-ml-systems
+page_type: source
+publisher: O'Reilly Media
 related:
 - concepts/batch-vs-online-prediction
 - concepts/class-imbalance-handling
@@ -41,10 +33,19 @@ related:
 - entities/snorkel-ai
 - entities/stanford-cs-329s
 - entities/tvm
-mind_map_priority: medium
+- contradictions/int8-quantization-speedup-small-models
+revision_id: 2
 schema_version: 2
+source_path: markdown_output/huyen-2022-designing-ml-systems.md
+source_type: book
+tags:
+- ai-engineering
+- software-engineering
+title: Designing Machine Learning Systems
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: b51ab7f3-ad8e-561b-9b71-4c43d0a2afe1
-content_hash: sha256:1271f8e774211f04887e8bc83662fa877dceeece5a436a885178623a5c473f6c
+year: 2022
 ---
 
 <!-- AUTHORED REGION START -->

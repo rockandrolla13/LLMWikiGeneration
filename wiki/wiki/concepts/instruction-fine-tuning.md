@@ -1,22 +1,25 @@
 ---
-title: Instruction Fine-Tuning
+content_hash: sha256:d311e692b12f8be1a1a6379b459ed39831920f3c65adc9d4cd92e470bc494385
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/instruction-fine-tuning
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/transformers
+- concepts/direct-preference-optimization
+- entities/stanford-alpaca
+revision_id: 3
+schema_version: 2
+sources:
+- sources/raschka-2024-build-llm-from-scratch
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - ai-engineering
 - transformers
-sources:
-- sources/raschka-2024-build-llm-from-scratch
-related:
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Instruction Fine-Tuning
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 4a7be65f-a6ad-5ed9-90a1-50dad4e0945c
-content_hash: sha256:2be776b2b6a0d672eee21482b7cf6933c3949071ddfc158211b3882254797b7f
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +32,7 @@ Supervised fine-tuning of a pretrained LLM on (instruction, response) pairs form
 ## Sources
 
 - [[sources/raschka-2024-build-llm-from-scratch|Build a Large Language Model (From Scratch)]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Full SFT on Alpaca with the loss computed only on response tokens. Here SFT is followed by a DPO stage rather than being the last step.
 
 ## Related Concepts
 

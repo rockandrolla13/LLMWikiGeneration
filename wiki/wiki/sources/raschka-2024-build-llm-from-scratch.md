@@ -1,23 +1,15 @@
 ---
-title: Build a Large Language Model (From Scratch)
-page_id: sources/raschka-2024-build-llm-from-scratch
-page_type: source
-source_path: markdown_output/raschka-2024-build-llm-from-scratch.md
-source_type: book
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Sebastian Raschka
-year: 2024
-publisher: Manning
+content_hash: sha256:a7d2c39ddd9910f4cbb930f5d0688a399e2ac18ff511cbdf1004452a223bed4a
+created: '2026-05-17T16:44:06Z'
 edition: 1st
 is_early_release: false
+mind_map_priority: medium
 page_count_estimate: 370
-tags:
-- ai-engineering
-- llm
+page_id: sources/raschka-2024-build-llm-from-scratch
+page_type: source
+publisher: Manning
 related:
 - concepts/byte-pair-encoding
 - concepts/causal-attention
@@ -41,10 +33,19 @@ related:
 - entities/pytorch
 - entities/sebastian-raschka
 - entities/tiktoken
-mind_map_priority: medium
+- sources/liu-2025-build-fine-tune-small-language-model
+revision_id: 2
 schema_version: 2
+source_path: markdown_output/raschka-2024-build-llm-from-scratch.md
+source_type: book
+tags:
+- ai-engineering
+- llm
+title: Build a Large Language Model (From Scratch)
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 2616b43b-ca78-5a71-9469-01e84f3b6d37
-content_hash: sha256:fabab54fc87a9338364fd4c7632742bd101c8b5674e84030b9b71b1455e0ba2f
+year: 2024
 ---
 
 <!-- AUTHORED REGION START -->
@@ -116,4 +117,8 @@ Python-fluent ML engineers, researchers, and advanced students who want a mechan
 - [[entities/lightning-ai|Lightning AI]]
 - [[entities/edward-hu|Edward Hu]]
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

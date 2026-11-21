@@ -1,20 +1,23 @@
 ---
-title: Attention Is All You Need
-page_id: sources/attention-paper
-page_type: source
-revision_id: 1
-tags:
-- transformers
-- attention
-- deep-learning
 authors:
 - Vaswani
 - Shazeer
 - Parmar
+content_hash: sha256:79a877e28618de1c7155a6ad48f2368aa98e8ac58c447b06b5ac4c900bad8354
+page_id: sources/attention-paper
+page_type: source
+related:
+- sources/liu-2025-build-fine-tune-small-language-model
+revision_id: 2
 schema_version: 2
+tags:
+- transformers
+- attention
+- deep-learning
+title: Attention Is All You Need
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: dbc09409-2de1-5ea4-bd16-aaa62303a759
-content_hash: sha256:a448ac1bf5a54250cb7c811608c69136e33ae4e274093edc881f435285b2f1f7
-updated: '2026-06-20T01:03:51Z'
 ---
 
 <!-- AUTHORED REGION START -->
@@ -35,5 +38,6 @@ The Transformer architecture relies entirely on [[self-attention]] mechanisms. T
 - [[Ashish Vaswani]]
 - [[self-attention]]
 - [[transformers]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 
 <!-- AUTHORED REGION END -->

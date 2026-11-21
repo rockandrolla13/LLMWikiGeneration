@@ -1,22 +1,23 @@
 ---
-title: Byte Pair Encoding
+content_hash: sha256:2c58a1206ae9051d798f47179681f7b9c807f19503fd21282efcd6191a06a3c7
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/byte-pair-encoding
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/transformers
+revision_id: 2
+schema_version: 2
+sources:
+- sources/raschka-2024-build-llm-from-scratch
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - ai-engineering
 - transformers
-sources:
-- sources/raschka-2024-build-llm-from-scratch
-related:
-- concepts/transformers
-mind_map_priority: medium
-schema_version: 2
+title: Byte Pair Encoding
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 19957008-6a51-5ade-a2fc-1534aef26481
-content_hash: sha256:af77c251cd79f5c985c70af11a908ed90a3aa78562a518c4a8114e49b81f477e
 ---
 
 <!-- AUTHORED REGION START -->
@@ -29,6 +30,7 @@ A subword tokenization algorithm (used in GPT-2/3 via the tiktoken library) that
 ## Sources
 
 - [[sources/raschka-2024-build-llm-from-scratch|Build a Large Language Model (From Scratch)]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Demonstrates GPT-2's byte-level BPE and trains a 32,000-token ByteLevel BPE on OpenWebText (5.64 characters per token).
 
 ## Related Concepts
 

@@ -1,22 +1,24 @@
 ---
-title: Reinforcement Learning from Human Feedback
+content_hash: sha256:104d706636d6780f66e713e4968982e3114b9eeed9f54e8be19352edb6a75625
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: high
 page_id: concepts/rlhf
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
+related:
+- concepts/direct-preference-optimization
+revision_id: 2
+schema_version: 2
 sources:
 - sources/berryman-2024-prompt-engineering-llms
 - sources/caelen-2023-developing-apps-gpt4
 - sources/huyen-2025-ai-engineering
-related: []
-mind_map_priority: high
-schema_version: 2
+- sources/liu-2025-build-fine-tune-small-language-model
+tags:
+- ai-engineering
+title: Reinforcement Learning from Human Feedback
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 4b8a6f80-9118-5ffa-82b2-fbd13cc3d648
-content_hash: sha256:d5b1927e97edc1817679cfd532ed0faadd01a4ab758254fcad1591af174443e6
 ---
 
 <!-- AUTHORED REGION START -->
@@ -31,5 +33,6 @@ A post-training technique that aligns a model with human preferences by training
 - [[sources/berryman-2024-prompt-engineering-llms|Prompt Engineering for LLMs]]
 - [[sources/caelen-2023-developing-apps-gpt4|Developing Apps with GPT-4 and ChatGPT]]
 - [[sources/huyen-2025-ai-engineering|AI Engineering]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Ch 10 contrasts RLHF (reward model plus PPO) with [[concepts/direct-preference-optimization|DPO]] and implements DPO.
 
 <!-- AUTHORED REGION END -->

@@ -1,4 +1,5 @@
 ---
+content_hash: sha256:6e9b616281f95924a1475461ac5fc305b5771be53b97591c672666662d8d2ecd
 created: 2026-04-10 18:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/calibration
@@ -16,7 +17,9 @@ related:
 - concepts/strictly-proper-scoring-rules
 - concepts/superforecasting
 - concepts/uncertainty-quantification
-revision_id: 2
+- sources/liu-2025-build-fine-tune-small-language-model
+revision_id: 3
+schema_version: 2
 sources:
 - sources/zaffran-phd
 tags:
@@ -24,10 +27,9 @@ tags:
 - uncertainty-quantification
 - model-evaluation
 title: Calibration
-updated: '2026-06-20T01:03:51Z'
-schema_version: 2
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 123e3bed-25a4-5673-bbff-ebfa1ddd4d1e
-content_hash: sha256:6e9b616281f95924a1475461ac5fc305b5771be53b97591c672666662d8d2ecd
 ---
 
 <!-- AUTHORED REGION START -->

@@ -1,21 +1,23 @@
 ---
-content_hash: sha256:0258c7e1bbca11f9434070dab3ec8190676f3e636d04a4c8f6abb75c587d2464
+content_hash: sha256:f9301c7fd7860a22918776655fa2b1c41f8eb373df353b39c0bb8cdca16ba4c5
 created: '2026-05-17T16:44:06Z'
 mind_map_priority: medium
 page_id: concepts/llm-evaluation
 page_type: concept
-related: []
-revision_id: 2
+related:
+- concepts/perplexity
+revision_id: 3
 schema_version: 2
 sources:
 - sources/berryman-2024-prompt-engineering-llms
 - sources/aryan-2025-llmops
 - sources/pathan-2025-mastering-llm-applications-langchain
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - ai-engineering
 title: LLM Evaluation
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 0a38e0dd-2469-5539-9cbf-e155b93d0d7b
 ---
 
@@ -31,5 +33,6 @@ Combined offline (test suites, LLM-as-judge, surgical code-completion benchmarks
 - [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/berryman-2024-prompt-engineering-llms|Prompt Engineering for LLMs]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Ch 7 evaluates a small model with perplexity, token accuracy, n-gram baselines, repetition and diversity scores and a readiness gate.
 
 <!-- AUTHORED REGION END -->

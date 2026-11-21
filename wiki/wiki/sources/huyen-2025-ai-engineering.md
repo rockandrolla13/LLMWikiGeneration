@@ -1,22 +1,15 @@
 ---
-title: AI Engineering
-page_id: sources/huyen-2025-ai-engineering
-page_type: source
-source_path: markdown_output/huyen-2025-ai-engineering.md
-source_type: book
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Chip Huyen
-year: 2025
-publisher: O'Reilly Media
+content_hash: sha256:a45d10c5865e818fbb38c77db62c051e57ad8cc870f1902c8f8829b3a0141b9e
+created: '2026-05-17T16:44:06Z'
 edition: 1st
 is_early_release: false
+mind_map_priority: medium
 page_count_estimate: 530
-tags:
-- ai-engineering
+page_id: sources/huyen-2025-ai-engineering
+page_type: source
+publisher: O'Reilly Media
 related:
 - concepts/ai-agents
 - concepts/ai-engineering
@@ -40,10 +33,19 @@ related:
 - entities/openai
 - entities/oreilly-media
 - entities/patrick-lewis
-mind_map_priority: medium
+- sources/liu-2025-build-fine-tune-small-language-model
+- contradictions/int8-quantization-speedup-small-models
+revision_id: 3
 schema_version: 2
+source_path: markdown_output/huyen-2025-ai-engineering.md
+source_type: book
+tags:
+- ai-engineering
+title: AI Engineering
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: f4d5140b-af2e-5854-ab96-ea5863d6cf04
-content_hash: sha256:15e54bca10eb752b4e1b8ebde405e14d322ebf336c30ad55a71b09250e50f695
+year: 2025
 ---
 
 <!-- AUTHORED REGION START -->
@@ -119,4 +121,8 @@ AI/ML engineers and software engineers building production applications on top o
 - [[entities/patrick-lewis|Patrick Lewis]]
 - [[entities/luke-metz|Luke Metz]]
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

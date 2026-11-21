@@ -1,14 +1,19 @@
 ---
-title: Build a DeepSeek Model From Scratch
+authors:
+- Raj Abhijit Dandekar
+- Rajat Dandekar
+content_hash: sha256:4fc62abd53f623891d93a289844209796df963a391cd47ab2ca360feb354db36
+created: 2026-06-19 00:00:00+00:00
+mind_map_priority: high
 page_id: sources/dandekar-2025-build-deepseek-model
 page_type: source
-verification:
-  status: unverified
-  unverified_claims: 2
-revision_id: 1
-created: 2026-06-19 00:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-updated_by: batch_ingest_technical_books_2026_06_19
+related:
+- sources/liu-2025-build-fine-tune-small-language-model
+revision_id: 2
+schema_version: 2
+source_type: book
+sources:
+- sources/dandekar-2025-build-deepseek-model
 tags:
 - llm
 - deepseek
@@ -17,18 +22,14 @@ tags:
 - attention-mechanisms
 - reinforcement-learning
 - quantization
-sources:
-- sources/dandekar-2025-build-deepseek-model
-related: []
-mind_map_priority: high
-authors:
-- Raj Abhijit Dandekar
-- Rajat Dandekar
-year: 2025
-source_type: book
-schema_version: 2
+title: Build a DeepSeek Model From Scratch
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 5140ce07-e5ef-5b60-938f-98c48d6056fb
-content_hash: sha256:be8a26d3a2fd53caaa937f58ba5c3ebbec3154a19f89a42ef73024d1715a2602
+verification:
+  status: unverified
+  unverified_claims: 2
+year: 2025
 ---
 
 <!-- AUTHORED REGION START -->
@@ -76,4 +77,8 @@ Build a DeepSeek Model From Scratch (MEAP edition, 2025) by Raj Abhijit Dandekar
 - How does DeepSeek's Pure RL post-training step (which develops reasoning without explicit human guidance) compare mechanistically to RLHF used by OpenAI, and what are the trade-offs?
 - Given that distilled models as small as 1.5B parameters are described as 'highly performant,' what is the minimum scale at which the MLA and MoE architectural innovations provide meaningful benefits over standard Transformer components?
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

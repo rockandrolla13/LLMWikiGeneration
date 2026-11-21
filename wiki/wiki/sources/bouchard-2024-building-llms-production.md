@@ -1,14 +1,18 @@
 ---
-title: Building LLMs for Production
+authors:
+- Louis-François Bouchard
+content_hash: sha256:10ded49eb16363c9bc7549d2f0aacf0c76da319098d5ee440a0c148880788450
+created: 2026-06-19 00:00:00+00:00
+mind_map_priority: high
 page_id: sources/bouchard-2024-building-llms-production
 page_type: source
-verification:
-  status: unverified
-  unverified_claims: 0
-revision_id: 1
-created: 2026-06-19 00:00:00+00:00
-updated: '2026-06-20T01:03:51Z'
-updated_by: batch_ingest_technical_books_2026_06_19
+related:
+- sources/liu-2025-build-fine-tune-small-language-model
+revision_id: 2
+schema_version: 2
+source_type: book
+sources:
+- sources/bouchard-2024-building-llms-production
 tags:
 - llm
 - production-ai
@@ -17,17 +21,14 @@ tags:
 - prompt-engineering
 - langchain
 - llamaindex
-sources:
-- sources/bouchard-2024-building-llms-production
-related: []
-mind_map_priority: high
-authors:
-- Louis-François Bouchard
-year: 2024
-source_type: book
-schema_version: 2
+title: Building LLMs for Production
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 9c222600-1da3-52f5-9e5c-7307f36b6a94
-content_hash: sha256:a89879bc38b3085e14feb2388c4315549a1b7650dc434414617b51aecbfc0077
+verification:
+  status: unverified
+  unverified_claims: 0
+year: 2024
 ---
 
 <!-- AUTHORED REGION START -->
@@ -80,4 +81,8 @@ Building LLMs for Production (2024) by Louis-François Bouchard, Louie Peters, a
 - What are the long-term maintenance costs of production RAG pipelines versus fine-tuned models when underlying data distributions drift?
 - To what extent do framework abstractions like LangChain and LlamaIndex obscure failure modes that practitioners need to understand at the model level?
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

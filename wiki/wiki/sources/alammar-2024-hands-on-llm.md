@@ -1,24 +1,16 @@
 ---
-title: Hands-On Large Language Models
-page_id: sources/alammar-2024-hands-on-llm
-page_type: source
-source_path: markdown_output/alammar-2024-hands-on-llm.md
-source_type: book
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
 authors:
 - Jay Alammar
 - Maarten Grootendorst
-year: 2024
-publisher: O'Reilly Media
+content_hash: sha256:12da3a2f45682da303dd435c1ce5ef3e715fc491b77e53999ba7cb45259da855
+created: '2026-05-17T16:44:06Z'
 edition: 1st
 is_early_release: false
+mind_map_priority: medium
 page_count_estimate: 408
-tags:
-- ai-engineering
-- llm
+page_id: sources/alammar-2024-hands-on-llm
+page_type: source
+publisher: O'Reilly Media
 related:
 - concepts/chain-of-thought-prompting
 - concepts/contrastive-learning
@@ -42,10 +34,21 @@ related:
 - entities/langchain
 - entities/maarten-grootendorst
 - entities/nils-reimers
-mind_map_priority: medium
+- sources/liu-2025-build-fine-tune-small-language-model
+- concepts/rotary-position-embeddings
+- concepts/grouped-query-attention
+revision_id: 4
 schema_version: 2
+source_path: markdown_output/alammar-2024-hands-on-llm.md
+source_type: book
+tags:
+- ai-engineering
+- llm
+title: Hands-On Large Language Models
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 8c362acb-aa40-58e8-bc08-af2ce6d1bb28
-content_hash: sha256:dbfdca51a1aefbc25b88afb24c53a77883836841c16dfee70a36688cd3e3ddc0
+year: 2024
 ---
 
 <!-- AUTHORED REGION START -->
@@ -119,4 +122,8 @@ Python-fluent ML practitioners and data scientists who want a visual, code-along
 - [[entities/ashish-vaswani|Ashish Vaswani]]
 - [[entities/bertopic|BERTopic]]
 
+
+## Related Sources
+
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025)
 <!-- AUTHORED REGION END -->

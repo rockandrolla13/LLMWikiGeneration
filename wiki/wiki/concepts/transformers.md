@@ -1,8 +1,13 @@
 ---
-content_hash: sha256:21874c1a8c0006294653b954609d4f4b5d90002c8dce796098e4aa0878698eed
+content_hash: sha256:6e99e4a6c82bd6acfe01324b73601dd318c6495deceda07226a3f54f509a2661
 page_id: concepts/transformers
 page_type: concept
-revision_id: 2
+related:
+- concepts/rotary-position-embeddings
+- concepts/grouped-query-attention
+- concepts/rmsnorm
+- concepts/swiglu
+revision_id: 3
 schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
@@ -28,12 +33,13 @@ sources:
 - sources/yang-2025-efficient-deep-learning-model-predict-stock
 - sources/aryan-2025-llmops
 - sources/pathan-2025-mastering-llm-applications-langchain
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - architecture
 - deep-learning
 title: Transformers
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: def5c8e1-07f2-58b8-b829-7ec9ded65596
 ---
 
@@ -59,6 +65,7 @@ Foundation for BERT, GPT, and all modern LLMs.
 - [[sources/pathan-2025-mastering-llm-applications-langchain|Mastering LLM Applications with LangChain and Hugging Face]]
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[attention-paper]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Builds decoder-only transformers in two styles: GPT-2 (Ch 2-7) and MiniMind (Ch 8-10).
 
 ## See Also (AI Engineering batch)
 <!-- wiki-batch-ai-engineering-2026-05-17 -->

@@ -1,19 +1,23 @@
 ---
-content_hash: sha256:d61e2abb98fe8d05d1259e4628eb3567fa1e82aadcc519cd2eb3cd330433e2d1
+content_hash: sha256:608f25bea4a440168ca8fa528d7c40cbcef560e5a97ce72afe846d75297e23b2
 page_id: concepts/self-attention
 page_type: concept
-revision_id: 2
+related:
+- concepts/rotary-position-embeddings
+- concepts/grouped-query-attention
+revision_id: 3
 schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
 - sources/raschka-2024-build-llm-from-scratch
 - sources/aryan-2025-llmops
+- sources/liu-2025-build-fine-tune-small-language-model
 tags:
 - attention
 - neural-networks
 title: Self-Attention
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-21T02:00:24Z'
+updated_by: op_faa1492c417c
 uuid: 5507fdbd-74c5-53c4-ad1d-2ce157bc6528
 ---
 
@@ -33,6 +37,7 @@ Self-attention computes relationships between all positions in a sequence.
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[attention-paper|Attention Is All You Need]]
 - [[Ashish Vaswani]]
+- [[sources/liu-2025-build-fine-tune-small-language-model|How to Build and Fine-Tune a Small Language Model]] (2025): Ch 2 builds masked self-attention step by step, following Karpathy's character-level GPT.
 
 ## Related
 
