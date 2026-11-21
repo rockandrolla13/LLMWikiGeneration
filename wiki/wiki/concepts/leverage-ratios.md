@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:6bf48863ba4e94ed8cef9cf8aae365357185cec0861fb5cbba86abac33d0ac15
+content_hash: sha256:37ff6cf5a9c2947b901f0ab55e773f742d80a86587c8fe333055d50a4d46658a
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leverage-ratios
@@ -7,7 +7,7 @@ page_type: concept
 related:
 - concepts/spread-per-turn-of-leverage
 - concepts/relative-value-analysis
-revision_id: 4
+revision_id: 5
 schema_version: 2
 sources:
 - sources/spec-2012-single-name-fundamental
@@ -17,14 +17,16 @@ sources:
 - sources/israel-2017-common-factors-corporate-bond-returns
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/whitman-2009-distress-investing
+- sources/marks-1998-genius-isnt-enough
+- sources/marks-2004-hedge-funds-a-case-for-caution
 tags:
 - credit-analysis
 - fundamental-analysis
 - leverage
 - creditETF
 title: Leverage Ratios
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_ca5d5f0c5ce3
 uuid: b358f0f2-1c29-549a-97d4-2f4fa5ae556f
 ---
 
@@ -67,4 +69,9 @@ The limitation carries over: this assumes the relationship between spread and le
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
 - [[sources/wang-2013-cds-spreads-variance-risk-premia|Credit Default Swap Spreads and Variance Risk Premia]]
 - [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
+- [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 <!-- AUTHORED REGION END -->

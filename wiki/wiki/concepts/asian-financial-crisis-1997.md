@@ -9,16 +9,18 @@ page_type: concept
 related:
 - concepts/sovereign-debt-crisis
 - concepts/spillover-effect
-revision_id: 1
+revision_id: 2
 sources:
 - sources/duasa-2010-predicting-crisis-recovery
+- sources/marks-1998-who-knew
+- sources/marks-1998-genius-isnt-enough
 tags: []
 title: Asian Financial Crisis of 1997
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_a006f7d03b12
 schema_version: 2
 uuid: 9471d1f8-e175-58c9-a6e4-671eed920c08
-content_hash: sha256:805ddb50a25abcddfcd3560e0a01ea2d011e04dc7e5d990d33fd3a30eb3e13d7
+content_hash: sha256:3e097e2f41ed62a5aa39dc7b2b01efb3569774a1403eda4d52e77169737d4acc
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +38,9 @@ The 1997-1998 crisis that severely affected Southeast Asian economies including 
 
 - [[concepts/sovereign-debt-crisis|sovereign-debt-crisis]]
 - [[concepts/spillover-effect|spillover-effect]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1998-who-knew|Who Knew?]] (1998)
+- [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
 <!-- AUTHORED REGION END -->

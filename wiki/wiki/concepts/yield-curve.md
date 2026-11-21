@@ -2,9 +2,9 @@
 title: Yield Curve
 page_id: concepts/yield-curve
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+updated: '2026-11-21T02:22:02Z'
 tags:
 - yield-curve
 - term-structure
@@ -15,6 +15,7 @@ sources:
 - sources/omrane-2017-yield-curve-forecasting
 - sources/krishnan-2007-credit-spread-forecast
 - sources/ms-2017-01-28-rates-strategist-duration-and-curves
+- sources/marks-2004-risk-and-return-today
 related:
 - concepts/nelson-siegel-model
 - concepts/yield-curve-forecasting
@@ -23,7 +24,8 @@ related:
 mind_map_priority: medium
 schema_version: 2
 uuid: b1d71818-36f9-50f2-b3c5-57456308b30c
-content_hash: sha256:fc894ac19b366dfbb6076458d3e21386960839d6f07c9f785746b713f40a401c
+content_hash: sha256:bf53ca88bf96123f34e506c2aa61f604f0e607ac04c94456e6cfb598b5f9a6d8
+updated_by: op_ddd90e2111da
 ---
 
 <!-- AUTHORED REGION START -->
@@ -55,4 +57,7 @@ For discounting you want the [[concepts/zero-coupon-curve|zero-coupon curve]] ra
 
 **Not yet written:** `concepts/diebold-li-model`, `concepts/affine-term-structure-models`, `concepts/term-structure`
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 <!-- AUTHORED REGION END -->

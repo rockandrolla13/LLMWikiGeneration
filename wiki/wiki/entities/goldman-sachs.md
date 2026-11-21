@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:c257f8ffe386560e5d22c99f6117c79c5d246a0b045a93239210e5db3421db46
+content_hash: sha256:9721da7091e59c757ee1a80d07883cc91d4ae80f72460c26c9372238095e153f
 created: '2026-10-05T15:52:32Z'
 entity_type: organization
 page_id: entities/goldman-sachs
@@ -14,15 +14,19 @@ related:
 - entities/riskmetrics-group
 - entities/thomas-ta
 - entities/vladimir-finkelstein
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/finger-2002-creditgrades-technical-document
+- sources/marks-1998-genius-isnt-enough
+- sources/marks-2000-bubble-com
+- sources/marks-2000-investment-miscellany
+- sources/marks-2002-quo-vadis
 tags:
 - organization
 title: Goldman Sachs
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_3c8f1100b558
 uuid: 2e29f11e-31d9-52e8-be65-c8e772e1c539
 ---
 
@@ -48,4 +52,11 @@ Affiliation as printed on those papers: Model endorser and co-developer.
 - [[entities/riskmetrics-group|RiskMetrics Group]]
 - [[entities/thomas-ta|Thomas Ta]]
 - [[entities/vladimir-finkelstein|Vladimir Finkelstein]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
+- [[sources/marks-2000-bubble-com|bubble.com]] (2000)
+- [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
+- [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
 <!-- AUTHORED REGION END -->

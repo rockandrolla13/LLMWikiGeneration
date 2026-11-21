@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:2c84b7c1915aac479dad553d126ed0a765803b074ba0aaa0a7427d455903a125
+content_hash: sha256:5bef71f4e179e6ee372fda3753cfbbdf6fbeaf82ce4dab6ca2fbc88a3c03c1fd
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -24,7 +24,7 @@ related:
 - concepts/value-at-risk
 - concepts/volatility-risk-premia
 - concepts/volatility-targeting
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/ilmanen-2011-expected-returns
@@ -41,10 +41,15 @@ sources:
 - sources/ms-2020-03-17-cross-asset-playbook-brace-for-recession
 - sources/ms-2020-03-25-global-volatility-playbook
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/marks-1994-risk-in-todays-markets
+- sources/marks-2004-the-happy-medium
+- sources/marks-2004-risk-and-return-today
+- sources/marks-2005-there-they-go-again
+- sources/marks-2005-hindsight-first-please
 tags: []
 title: Risk Premia (Expected Return Sources)
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_6123799129d3
 uuid: 23edd06e-71d8-5472-a978-687950c52605
 ---
 
@@ -69,4 +74,12 @@ The excess expected return over a riskless rate that investors earn for bearing 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2010-09-15-em-quantitative-quarterly]], [[sources/ms-2011-05-06-differentiation-divergence]], [[sources/ms-2013-12-04-faqs-on-corporate-hybrids]], [[sources/ms-2018-06-05-emfx-risk-premia-two-factor]], [[sources/ms-2018-11-05-trading-risk-premia-emfx-virp]], [[sources/ms-2019-02-11-emfx-quants-lab-steady-path]], [[sources/ms-2019-03-04-a-premium-for-size]], [[sources/ms-2019-04-05-long-dated-equity-vol]], [[sources/ms-2019-04-07-cross-asset-playbook-late-cycle-weaker-dollar]], [[sources/ms-2020-03-10-cross-asset-moves-context]], [[sources/ms-2020-03-17-cross-asset-playbook-brace-for-recession]], [[sources/ms-2020-03-25-global-volatility-playbook]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1994-risk-in-todays-markets|Risk in Today's Markets]] (1994)
+- [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
+- [[sources/marks-2005-there-they-go-again|There They Go Again]] (2005)
+- [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
 <!-- AUTHORED REGION END -->

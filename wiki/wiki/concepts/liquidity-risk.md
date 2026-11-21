@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:967c059479a11e4a81ac7c47be82e67e0ad17f8b0499ca9e4d3e16e25829d765
+content_hash: sha256:eb953e36855c7f51fb98bbc56112a03af026b18d8e15a66d6c31a0e8333ee0e4
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/liquidity-risk
@@ -21,7 +21,7 @@ related:
 - concepts/risk-premia
 - concepts/statistical-arbitrage
 - concepts/term-structure-risk-premium
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
@@ -45,14 +45,18 @@ sources:
 - sources/wu-2013-big-data-approach-analyzing-market-volatility
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/whitman-2009-distress-investing
+- sources/marks-1994-risk-in-todays-markets-revisited
+- sources/marks-2000-irrational-exuberance
+- sources/marks-2000-investment-miscellany
+- sources/marks-2004-the-happy-medium
 tags:
 - fixed-income
 - risk-management
 - market-microstructure
 - trading
 title: Liquidity Risk
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_b820cde81c72
 uuid: 47e7be12-ab35-5549-b347-0d0a46218226
 ---
 
@@ -118,4 +122,11 @@ Now also discussed in: [[sources/ms-2016-03-22-xccy-basis-primer]], [[sources/ms
 
 - [[sources/whitman-2009-distress-investing|Distress Investing: Principles and Technique]] (2009)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
+- [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
+- [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
+- [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:f3d04a0ba6e400e175a5f1104939afece65de92a439fd5ed61f2bf16fc15746b
+content_hash: sha256:7c86473daa2a378733667501e53395cbf43274dba6f225c0492afa136a2d406c
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,15 +10,17 @@ page_type: concept
 related:
 - concepts/mean-reversion
 - concepts/statistical-arbitrage
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/carver-2023-advanced-futures-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
+- sources/marks-1998-genius-isnt-enough
+- sources/marks-2005-a-case-in-point
 tags: []
 title: Relative Value / Spread Trading
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_a24266aa1879
 uuid: 2eca6928-c360-5466-9d67-e67d3a7add60
 ---
 
@@ -38,4 +40,9 @@ Strategies trading the relative price of two or more related futures (spreads, t
 
 - [[concepts/mean-reversion|mean-reversion]]
 - [[concepts/statistical-arbitrage|statistical-arbitrage]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1998-genius-isnt-enough|Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)]] (1998)
+- [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
 <!-- AUTHORED REGION END -->

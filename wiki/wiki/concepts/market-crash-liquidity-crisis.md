@@ -9,16 +9,19 @@ page_type: concept
 related:
 - concepts/bubble-detection
 - concepts/liquidity-risk
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-1994-risk-in-todays-markets-revisited
+- sources/marks-2000-investment-miscellany
+- sources/marks-2004-the-happy-medium
 tags: []
 title: Market Crash and Liquidity Crisis Dynamics
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_b820cde81c72
 schema_version: 2
 uuid: 6d437ee1-1dfb-56bf-b1ac-120fbe2505da
-content_hash: sha256:4fea12986cb904669069e4f820c52cae8603f64a400d7cfc0b2181a9e19557f3
+content_hash: sha256:b18cb90f7eb216efc75a0bbf05dc60016fcd1d0987c585b99de1a8a8009aec6b
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +39,10 @@ The mechanics of a panic: correlations converging to one, evaporating liquidity,
 
 - [[concepts/bubble-detection|bubble-detection]]
 - [[concepts/liquidity-risk|liquidity-risk]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1994-risk-in-todays-markets-revisited|"Risk in Today's Markets" Revisited]] (1994)
+- [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
+- [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 <!-- AUTHORED REGION END -->

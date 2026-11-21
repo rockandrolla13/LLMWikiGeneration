@@ -8,7 +8,7 @@ mind_map_priority: low
 page_id: entities/morgan-stanley
 page_type: entity
 related: []
-revision_id: 2
+revision_id: 3
 sources:
 - sources/ms-2008-08-28-gilt-futures-ctd-option
 - sources/ms-2009-11-12-us-rate-strategist
@@ -117,13 +117,15 @@ sources:
 - sources/ms-2020-04-03-global-macro-commentary-covid
 - sources/ms-2022-11-04-end-of-trends
 - sources/patkar-2026-ms-global-credit-midyear
+- sources/marks-2003-whad-ya-know
+- sources/marks-2003-the-feelings-mutual
 tags: []
 title: Morgan Stanley
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_7c9f9dd3f756
 schema_version: 2
 uuid: cee4274b-5af8-5394-92b3-8fbd6ec649c4
-content_hash: sha256:adc0d6af97648fa4368c509cea0d659696973303eec588f9a8314b03981f4e34
+content_hash: sha256:bb67fea063a4b5e5be1ff56c1ed0444197a9de93d18d816e31ae266f442df0a4
 ---
 
 <!-- AUTHORED REGION START -->
@@ -180,4 +182,8 @@ matters, trace it to the underlying data rather than resting on the note.
 The full set is in the `sources:` field above. To enumerate by date, grep the
 sources directory for `ms-20`.
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
+- [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
 <!-- AUTHORED REGION END -->

@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:4da0187e9d2cf0a791f8b25a3421bc602f44e472cd3fe217e2e1e442553b69fc
+content_hash: sha256:9c50f7dd6cac43acbd3eca532040a90f49b6d4231dce099f737abf2e0a689f40
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/adverse-selection
 page_type: concept
@@ -9,7 +9,7 @@ related:
 - concepts/client-tiering
 - concepts/limit-order-book
 - entities/olivier-gueant
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/barzykin-2025-adverse-selection
@@ -41,14 +41,16 @@ sources:
 - sources/wurzer-2026-execution-alpha-intraday-liquidity-provision-versus
 - sources/xu-2026-when-quotes-crumble-detecting-transient-mechanical
 - sources/zhai-2026-public-trader-identity-adverse-selection-return
+- sources/marks-2003-the-feelings-mutual
 tags:
 - market-making
 - information-asymmetry
 - trading
 - market-microstructure
 title: Adverse Selection
-updated: '2026-09-27T01:47:00Z'
+updated: '2026-11-21T02:22:02Z'
 uuid: d728f155-d525-5123-8578-ca0abf6bbeec
+updated_by: op_7c9f9dd3f756
 ---
 
 <!-- AUTHORED REGION START -->
@@ -188,4 +190,7 @@ From [[sources/barzykin-2021-fx-dealer-tiers]] (HSBC data):
 - [[sources/barzykin-2025-adverse-selection|Barzykin et al. (2025)]]
 - [[sources/barzykin-2021-fx-dealer-tiers|Barzykin et al. (2021)]]
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
 <!-- AUTHORED REGION END -->

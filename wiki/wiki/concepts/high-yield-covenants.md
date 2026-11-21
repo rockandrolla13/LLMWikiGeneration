@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: framework
-content_hash: sha256:092c4ad1330a381ce1712a595158378dd11a7cf273e2fbc8f657f81af1a390dd
+content_hash: sha256:faec9d30d4fc70ae9795553453c95607dfb34721d6944fe1e06648062d7e12e7
 created: '2026-10-22T21:10:31Z'
 page_id: concepts/high-yield-covenants
 page_type: concept
@@ -10,14 +10,17 @@ related:
 - concepts/lbo-risk
 - concepts/leveraged-recapitalization
 - concepts/leverage-ratios
-revision_id: 1
+revision_id: 2
 schema_version: 2
 sources:
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/marks-2002-learning-from-enron
+- sources/marks-2004-hey-steward
+- sources/marks-2004-the-happy-medium
 tags: []
 title: High-Yield Covenants
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_b820cde81c72
 uuid: 7ffd0244-0a37-52de-be35-2fe9e7f2c64a
 ---
 
@@ -38,4 +41,10 @@ The rules in a bond indenture or loan agreement that limit what a leveraged issu
 - [[concepts/lbo-risk|LBO Risk]]
 - [[concepts/leveraged-recapitalization|Leveraged Recapitalization]]
 - [[concepts/leverage-ratios|Leverage Ratios]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2002-learning-from-enron|Learning From Enron]] (2002)
+- [[sources/marks-2004-hey-steward|Hey, Steward!!]] (2004)
+- [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
 <!-- AUTHORED REGION END -->

@@ -8,16 +8,17 @@ mind_map_priority: low
 page_id: entities/stanley-druckenmiller
 page_type: entity
 related: []
-revision_id: 1
+revision_id: 2
 sources:
 - sources/lancaster-2021-fed-up
+- sources/marks-2000-irrational-exuberance
 tags: []
 title: Stanley Druckenmiller
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_612ddb349480
 schema_version: 2
 uuid: c1fabadf-542f-5341-b7a0-239006ca3c96
-content_hash: sha256:0d6250f560624da1573e8b874334451411579dcf858c73855d41897de2ba7641
+content_hash: sha256:8500d0b23957591603178f88948dd5f296a41824e8c244785d957924bce1b3af
 ---
 
 <!-- AUTHORED REGION START -->
@@ -30,4 +31,8 @@ content_hash: sha256:0d6250f560624da1573e8b874334451411579dcf858c73855d41897de2b
 ## Appearances in Sources
 
 - [[sources/lancaster-2021-fed-up|Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2000-irrational-exuberance|Irrational Exuberance]] (2000)
 <!-- AUTHORED REGION END -->

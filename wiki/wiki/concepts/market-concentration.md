@@ -1,0 +1,47 @@
+---
+abstraction_level: intermediate
+concept_type: phenomenon
+content_hash: sha256:42bbf85ced948884dd6974ca837220daed38033ad99c487677eb5c08843df074
+created: '2026-11-21T02:22:01Z'
+mind_map_priority: medium
+page_id: concepts/market-concentration
+page_type: concept
+related:
+- concepts/ai-capex-funding
+- concepts/survivorship-bias
+- concepts/asset-bubbles
+- concepts/price-vs-value
+- concepts/pendulum-of-investor-psychology
+revision_id: 1
+schema_version: 2
+sources:
+- sources/marks-1999-hows-the-market
+tags:
+- howard-marks
+title: Market Concentration
+updated: '2026-11-21T02:22:01Z'
+updated_by: op_efb7fb6d1ea5
+uuid: 354f7595-1246-5788-84be-626208b30aa6
+---
+
+<!-- AUTHORED REGION START -->
+# Market Concentration
+
+## Definition
+
+A small number of stocks making up a large share of index value and returns, as with the FAANGs and later the 'Magnificent Seven'. Marks sees anointed 'super-stocks' as a bull-market sign that echoes the Nifty Fifty.
+
+## In Howard Marks's Memos
+
+Cited in 4 of the 165 Howard Marks memos in the collection.
+
+- [[sources/marks-1999-hows-the-market|How's the Market?]] (1999)
+
+## Related Concepts
+
+- [[concepts/ai-capex-funding|AI Capex Funding]]
+- [[concepts/survivorship-bias|Survivorship Bias]]
+- [[concepts/asset-bubbles|Asset Bubbles]]
+- [[concepts/price-vs-value|Price vs Intrinsic Value]]
+- [[concepts/pendulum-of-investor-psychology|The Pendulum of Investor Psychology]]
+<!-- AUTHORED REGION END -->

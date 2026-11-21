@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:6719c2ebcdccc233772eb90f857423aaf0d556e88391cfbb5cb6a0e3f559bb7a
+content_hash: sha256:0267bd7028e6b0c0972d1b10603c347e467184877048e8869eb3a61fe5fd956f
 created: 2026-05-06 23:35:00+00:00
 mind_map_priority: medium
 page_id: concepts/index-reconstitution
@@ -7,12 +7,13 @@ page_type: concept
 related:
 - concepts/etf-flows
 - concepts/flow-decomposition
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/chao-2019-etf-flows-prices
 - sources/optiver-2025-corporate-bond-etf-contraflow
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/marks-2001-safety-first-but-where
 tags:
 - etf
 - index-investing
@@ -20,8 +21,8 @@ tags:
 - price-impact
 - russell-reconstitution
 title: Index Reconstitution
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_874dd5e7eac0
 uuid: 6e36961f-58a0-50e1-bd20-9a0b05dfb194
 ---
 
@@ -87,4 +88,8 @@ When a security is **deleted** from an index:
 ## Sources
 
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
 <!-- AUTHORED REGION END -->

@@ -9,17 +9,22 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/look-ahead-bias
-revision_id: 1
+revision_id: 2
 sources:
 - sources/chan-2001-level-persistence-growth-rates
 - sources/ellenberg-2014-how-not-to-be-wrong
+- sources/marks-2000-were-not-in-1999-anymore-toto
+- sources/marks-2002-returns-and-how-they-get-that-way
+- sources/marks-2003-the-feelings-mutual
+- sources/marks-2004-us-and-them
+- sources/marks-2004-hedge-funds-a-case-for-caution
 tags: []
 title: Survivorship Bias
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_ca5d5f0c5ce3
 schema_version: 2
 uuid: 3e887aa9-a345-5175-aaac-73eb69ce4510
-content_hash: sha256:efbfe703463592cebedf22df6d2cc3a37d2759e31b601747539cbd6d05cae2f3
+content_hash: sha256:0072fc403589ee9a87ce7060738de79956ea72a19550d9a348b954808d8da036
 ---
 
 <!-- AUTHORED REGION START -->
@@ -38,4 +43,12 @@ Upward bias in measured growth and persistence arising because calculations cond
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/look-ahead-bias|look-ahead-bias]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2000-were-not-in-1999-anymore-toto|We're Not In 1999 Anymore, Toto]] (2000)
+- [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
+- [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
+- [[sources/marks-2004-us-and-them|Us and Them]] (2004)
+- [[sources/marks-2004-hedge-funds-a-case-for-caution|Hedge Funds: A Case for Caution]] (2004)
 <!-- AUTHORED REGION END -->

@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/great-moderation
-revision_id: 1
+revision_id: 2
 sources:
 - sources/piros-2013-economics-investment-decision-makers-workbook
+- sources/marks-2001-what-lies-ahead
 tags: []
 title: Monetary and Fiscal Policy
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_5f221941f6b0
 schema_version: 2
 uuid: 1e5460ab-b5c6-5362-bad8-0d0150df5a7a
-content_hash: sha256:83b8e658af6194e8b6e1547c6ed4f4f67f9794d18b8f5c020544a53ba0f1d7f6
+content_hash: sha256:c13be8827f5bad2217d7c89b48758fa1730b8d66f6c40a0c8fc55197c460dd34
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +37,8 @@ Central-bank and government tools - interest rates, money supply, taxation, spen
 
 - [[concepts/government-bond-spreads|government-bond-spreads]]
 - [[concepts/great-moderation|great-moderation]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2001-what-lies-ahead|What Lies Ahead?]] (2001)
 <!-- AUTHORED REGION END -->

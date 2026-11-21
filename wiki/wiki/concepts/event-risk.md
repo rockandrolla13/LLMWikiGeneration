@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:2b83cb37843cb17747d37735629173368376d6fcaa5c113aa63cb007b41bf86c
+content_hash: sha256:33df207d1594cc0155fa6ac80c88057fe63941e532736df38e1bc3718828965d
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/event-risk
@@ -8,12 +8,13 @@ related:
 - concepts/lbo-risk
 - concepts/lever-score
 - concepts/credit-spread-curve
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/marks-2001-notes-from-new-york
 tags:
 - creditETF
 - event-risk
@@ -21,8 +22,8 @@ tags:
 - corporate-credit
 - credit-strategy
 title: Event Risk
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_91f1c2c374f4
 uuid: 60a1a9e8-f26d-5f85-b135-268ca59b1897
 ---
 
@@ -64,4 +65,8 @@ The separation matters. Firm-level vulnerability and market-level willingness to
 
 - [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
 - [[sources/bendor-2021-systematic-investing-in-credit|Systematic Investing in Credit]] (2021)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2001-notes-from-new-york|Notes from New York]] (2001)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:12eb253d8cdb871267032ff4ceabaab67c89e686cc7e40e072ce7c464c7a88d9
+content_hash: sha256:2d679d26bcda2bb561548454d15d89911fba26bdb53a82d3f79fd9ed65311189
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -10,16 +10,17 @@ page_type: concept
 related:
 - concepts/backtesting
 - concepts/factor-models
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/tulchinsky-2020-finding-alphas
 - sources/bai-2016-anchoring-cds-spreads-firm-fundamentals
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/marks-2002-returns-and-how-they-get-that-way
 tags: []
 title: Information Ratio
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_59e9d99b8e82
 uuid: 1989a684-b2eb-5f7b-b1d6-420c5070f32b
 ---
 
@@ -40,4 +41,8 @@ The ratio of an alpha's mean return to the standard deviation of its returns; th
 
 - [[concepts/backtesting|backtesting]]
 - [[concepts/factor-models|factor-models]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 <!-- AUTHORED REGION END -->

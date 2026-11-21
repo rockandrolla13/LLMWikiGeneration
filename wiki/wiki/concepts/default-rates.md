@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:b4b42d73937a2f9d43161bf375d3c031693e616acbe86344c24aff71daa9de28
+content_hash: sha256:d11106ecfb1bbd6433d58b2ab47937621c8752dfc1b41ee9481aaff65a334502
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -18,7 +18,7 @@ related:
 - concepts/liquidity-risk
 - concepts/machine-learning-credit-modeling
 - concepts/sovereign-debt-crisis
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/ms-2012-03-09-european-hy-leveraged-finance-playbook
@@ -34,10 +34,16 @@ sources:
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
 - sources/whitman-2009-distress-investing
+- sources/marks-1990-the-route-to-performance
+- sources/marks-1991-first-quarter-performance
+- sources/marks-1994-how-does-an-inefficient-market-get-that-way
+- sources/marks-2000-were-not-in-1999-anymore-toto
+- sources/marks-2004-the-happy-medium
+- sources/marks-2004-risk-and-return-today
 tags: []
 title: Default Rates
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_ddd90e2111da
 uuid: bf605565-480c-58dc-950a-27081d4e27e8
 ---
 
@@ -64,4 +70,13 @@ The trailing rate at which credit issuers default; the note forecasts divergent 
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2012-03-09-european-hy-leveraged-finance-playbook]], [[sources/ms-2017-06-23-hy-leveraged-finance-playbook]], [[sources/ms-2017-10-13-machine-learning-loan-mod-redefaults]], [[sources/ms-2018-11-25-the-bear-has-begun]], [[sources/ms-2019-03-11-untested-cycle-corporate-risk]], [[sources/ms-2019-03-15-4q18-credit-fundamentals]], [[sources/ms-2019-03-22-high-yield-hedge]], [[sources/ms-2020-04-03-deeper-drop-slower-climb]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1990-the-route-to-performance|The Route to Performance]] (1990)
+- [[sources/marks-1991-first-quarter-performance|First Quarter Performance]] (1991)
+- [[sources/marks-1994-how-does-an-inefficient-market-get-that-way|How Does an Inefficient Market Get That Way?]] (1994)
+- [[sources/marks-2000-were-not-in-1999-anymore-toto|We're Not In 1999 Anymore, Toto]] (2000)
+- [[sources/marks-2004-the-happy-medium|The Happy Medium]] (2004)
+- [[sources/marks-2004-risk-and-return-today|Risk and Return Today]] (2004)
 <!-- AUTHORED REGION END -->

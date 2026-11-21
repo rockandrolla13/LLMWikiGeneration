@@ -2,9 +2,9 @@
 title: Yield Curve Forecasting
 page_id: concepts/yield-curve-forecasting
 page_type: concept
-revision_id: 1
+revision_id: 2
 created: 2026-08-06 00:00:00+00:00
-updated: '2026-08-06T19:48:23Z'
+updated: '2026-11-21T02:22:02Z'
 tags:
 - yield-curve
 - forecasting
@@ -15,6 +15,7 @@ sources:
 - sources/omrane-2017-yield-curve-forecasting
 - sources/nunes-2022-ml-fixed-income
 - sources/krishnan-2007-credit-spread-forecast
+- sources/marks-1996-the-value-of-predictions-ii
 related:
 - concepts/yield-curve
 - concepts/nelson-siegel-model
@@ -22,7 +23,8 @@ related:
 mind_map_priority: medium
 schema_version: 2
 uuid: 91425cfd-c844-5630-a272-40f5e024e74e
-content_hash: sha256:e5996dcb33816eedbd2d39cc00e06e00c7dc42c09f1d7badd4d14b4608475c77
+content_hash: sha256:11822d80b8fd6ca6e57ca337ee649e4919c627fff0417d7d1b89bf8ada42ef58
+updated_by: op_ac75b33ed2a3
 ---
 
 <!-- AUTHORED REGION START -->
@@ -58,4 +60,7 @@ The model wins at six and twelve months and loses at one, which the authors attr
 
 **Not yet written:** `concepts/diebold-li-model`, `concepts/dynamic-factor-model`, `concepts/lstm`, `concepts/random-walk-benchmark`
 
+## In Howard Marks's Memos
+
+- [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
 <!-- AUTHORED REGION END -->

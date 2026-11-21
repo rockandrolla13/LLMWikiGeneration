@@ -23,7 +23,7 @@ related:
 - concepts/strategy-robustness
 - concepts/taarss
 - concepts/trend-following
-revision_id: 3
+revision_id: 4
 sources:
 - sources/db-2019-03-15-european-equity-strategy-growth-momentum
 - sources/ms-2018-04-16-credit-bmi-update
@@ -38,15 +38,30 @@ sources:
 - sources/ms-2020-03-27-add-to-credit-markets-lead-economy
 - sources/ms-2020-04-01-what-do-recoveries-look-like
 - sources/xie-2026-realized-probability-market-timing
+- sources/marks-1993-the-value-of-predictions
+- sources/marks-1995-how-the-game-should-be-played
+- sources/marks-1996-the-value-of-predictions-ii
+- sources/marks-1996-will-it-be-different-this-time
+- sources/marks-1998-who-knew
+- sources/marks-2000-bubble-com
+- sources/marks-2001-you-cant-predict-you-can-prepare
+- sources/marks-2002-quo-vadis
+- sources/marks-2002-etorres-wisdom
+- sources/marks-2003-whad-ya-know
+- sources/marks-2003-the-most-important-thing
+- sources/marks-2003-whats-your-game-plan
+- sources/marks-2003-the-feelings-mutual
+- sources/marks-2005-oaktree-at-ten
 tags:
 - trading-strategy
 - directional-forecasting
 - merton
 title: Market Timing
-updated: '2026-06-20T01:03:51Z'
+updated: '2026-11-21T02:22:02Z'
 schema_version: 2
 uuid: 0e533488-1d4f-5d11-88f1-e5ee03e01fad
-content_hash: sha256:5f9a54e9db01f278914100ac4c0e33fbcc4fd29cd70c942d0c869e1e54fff0ed
+content_hash: sha256:23af26e8f6baecc9bec8ab5cc028a8174f1e1ec94ec8564bd9fb37f8e8671133
+updated_by: op_9cb10a955893
 ---
 
 <!-- AUTHORED REGION START -->
@@ -81,4 +96,21 @@ content_hash: sha256:5f9a54e9db01f278914100ac4c0e33fbcc4fd29cd70c942d0c869e1e54f
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/db-2019-03-15-european-equity-strategy-growth-momentum]], [[sources/ms-2018-04-16-credit-bmi-update]], [[sources/ms-2018-07-09-em-risk-indicator-regime-switching]], [[sources/ms-2018-11-01-cross-asset-october-recap]], [[sources/ms-2019-02-11-cross-asset-playbook-fundamental-problems]], [[sources/ms-2019-02-11-fx-positioning-tracker]], [[sources/ms-2019-02-28-selling-the-rally]], [[sources/ms-2019-04-01-cross-asset-1q-recap]], [[sources/ms-2019-04-29-melt-up-skepticism]], [[sources/ms-2020-03-19-volatility-peaks-before-markets-trough]], [[sources/ms-2020-03-27-add-to-credit-markets-lead-economy]], [[sources/ms-2020-04-01-what-do-recoveries-look-like]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1993-the-value-of-predictions|The Value of Predictions, or Where'd All This Rain Come From?]] (1993)
+- [[sources/marks-1995-how-the-game-should-be-played|How the Game Should Be Played]] (1995)
+- [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
+- [[sources/marks-1996-will-it-be-different-this-time|Will It Be Different This Time?]] (1996)
+- [[sources/marks-1998-who-knew|Who Knew?]] (1998)
+- [[sources/marks-2000-bubble-com|bubble.com]] (2000)
+- [[sources/marks-2001-you-cant-predict-you-can-prepare|You Can't Predict. You Can Prepare.]] (2001)
+- [[sources/marks-2002-quo-vadis|Quo Vadis?]] (2002)
+- [[sources/marks-2002-etorres-wisdom|Etorre's Wisdom]] (2002)
+- [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
+- [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
+- [[sources/marks-2003-whats-your-game-plan|What's Your Game Plan?]] (2003)
+- [[sources/marks-2003-the-feelings-mutual|The Feeling's Mutual]] (2003)
+- [[sources/marks-2005-oaktree-at-ten|Oaktree at Ten]] (2005)
 <!-- AUTHORED REGION END -->

@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:5a47b17fa9d0b02ef7de20bba27c22ec967ef541c4770d730e1d27d94ad9453e
+content_hash: sha256:8daa60b7d2d1a8d8c6a91899aa45a734f060681b8c32b6c675aa4dca26299477
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -12,7 +12,7 @@ related:
 - concepts/liquidity-risk
 - concepts/pairs-trading
 - concepts/statistical-arbitrage
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/ahmad-2014-alaph-liquid-macro-credit-fund
@@ -24,10 +24,11 @@ sources:
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/marks-2005-a-case-in-point
 tags: []
 title: Capital Structure Arbitrage
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_a24266aa1879
 uuid: f813e217-43ab-54a4-92f3-7925808567ff
 ---
 
@@ -64,4 +65,7 @@ A convergence-trading strategy that bets on the realignment of a firm's equity a
 - [[sources/amadori-2014-relative-informational-efficiency|Amadori et al. (2014)]] -- which market leads is regime-dependent, not fixed
 - [[sources/dafonseca-2020-cds-equity-volatility-comovement|Da Fonseca & Gottschalk (2020)]] -- linkage is clean at firm level, muddy at index level
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
 <!-- AUTHORED REGION END -->

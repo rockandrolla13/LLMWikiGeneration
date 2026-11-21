@@ -1,7 +1,7 @@
 ---
 abstraction_level: intermediate
 concept_type: technique
-content_hash: sha256:59a2d26102dcabde7e39ff66834185d2eadea24c83a403f15701fd1d749ce83e
+content_hash: sha256:8d95a56f7d80e726c24c28aebadc7be69723b0d61654701b1477d7d007008be9
 created: '2026-06-09T12:00:00Z'
 mind_map_category: null
 mind_map_priority: medium
@@ -11,17 +11,18 @@ related:
 - concepts/cds-bond-basis
 - concepts/corporate-bonds
 - concepts/credit-spread-puzzle
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/avino-2024-hedging-credit-equity-options
 - sources/finger-2002-creditgrades-technical-document
 - sources/yu-2006-how-profitable-capital-structure-arbitrage
 - sources/bendor-2021-systematic-investing-in-credit
+- sources/marks-2005-a-case-in-point
 tags: []
 title: Credit Hedge Ratios with Equity Options
-updated: '2026-10-22T15:27:29Z'
-updated_by: op_955147eb8c65
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_a24266aa1879
 uuid: 84e951ea-1440-5ebd-9e01-c83bb824903a
 ---
 
@@ -44,4 +45,8 @@ Theoretical sensitivities of bond credit spread changes to equity put option ret
 - [[concepts/cds-bond-basis|cds-bond-basis]]
 - [[concepts/corporate-bonds|corporate-bonds]]
 - [[concepts/credit-spread-puzzle|credit-spread-puzzle]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2005-a-case-in-point|A Case in Point]] (2005)
 <!-- AUTHORED REGION END -->

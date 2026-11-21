@@ -9,16 +9,17 @@ page_type: concept
 related:
 - concepts/behavioral-finance
 - concepts/mental-model-of-code
-revision_id: 1
+revision_id: 2
 sources:
 - sources/dawson-2020-systems-mental-models
+- sources/marks-1995-how-the-game-should-be-played
 tags: []
 title: Mental Models for Decision-Making
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_11ed2f60efbf
 schema_version: 2
 uuid: 8c0bb76c-3495-5b5c-83a9-67b469918748
-content_hash: sha256:2100b3394e77a186b1ba1e5ebced76ef0fcf2c9d0b70330d2b552a4d627b116f
+content_hash: sha256:c9965dee29120f6273e987e8efe307020a3977b2c009df8eae1d25597b3a84c9
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +37,8 @@ Internal, necessarily incomplete representations of reality that shape perceptio
 
 - [[concepts/behavioral-finance|behavioral-finance]]
 - [[concepts/mental-model-of-code|mental-model-of-code]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1995-how-the-game-should-be-played|How the Game Should Be Played]] (1995)
 <!-- AUTHORED REGION END -->

@@ -3,9 +3,9 @@ title: Lehman Brothers
 page_id: entities/lehman-brothers
 page_type: entity
 entity_type: institution
-revision_id: 1
+revision_id: 2
 created: 2026-05-05 23:25:00+00:00
-updated: '2026-09-15T00:00:00Z'
+updated: '2026-11-21T02:22:02Z'
 tags:
 - creditETF
 - investment-bank
@@ -14,6 +14,9 @@ sources:
 - sources/trinh-2006-lever-framework
 - sources/lehman-2007-qcr-quarterly
 - sources/bendor-2007-dts
+- sources/marks-2001-safety-first-but-where
+- sources/marks-2003-whad-ya-know
+- sources/marks-2003-the-most-important-thing
 related:
 - entities/minh-trinh
 - entities/bodha-bhattacharya
@@ -23,7 +26,8 @@ related:
 - concepts/duration-times-spread
 schema_version: 2
 uuid: 0092a0a6-6f80-5542-b20c-7e6e6246f63f
-content_hash: sha256:319619fc9ce297c31a35d94159dad231dff8c38d8b68c4753d7c510a9dc25299
+content_hash: sha256:ea498b5c10495d637af5ae6810c9d95b5388bff70062ec8d5c50bed0aabfdcc4
+updated_by: op_8b825e33848c
 ---
 
 <!-- AUTHORED REGION START -->
@@ -63,4 +67,9 @@ A separate group from QCR, headed by [[entities/lev-dynkin|Lev Dynkin]]. With Ro
 
 Despite producing sophisticated quantitative research, Lehman Brothers filed for bankruptcy on September 15, 2008, in the largest bankruptcy filing in U.S. history. The firm's research and methodologies were subsequently absorbed by Barclays and Nomura.
 
+## In Howard Marks's Memos
+
+- [[sources/marks-2001-safety-first-but-where|Safety First . . . But Where?]] (2001)
+- [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
+- [[sources/marks-2003-the-most-important-thing|The Most Important Thing]] (2003)
 <!-- AUTHORED REGION END -->

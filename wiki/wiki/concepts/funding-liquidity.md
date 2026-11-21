@@ -1,23 +1,24 @@
 ---
-content_hash: sha256:a4f4674a8fc71a3be1cab6740d601e6641f406b13779a19afe334df3711d1e8b
+content_hash: sha256:bc45585cd1c287bca769b89a446dde5de75da25aeca1a8160adcb89b4f4a8772
 created: 2026-05-21 12:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/funding-liquidity
 page_type: concept
 related:
 - concepts/structural-risk
-revision_id: 3
+revision_id: 4
 schema_version: 2
 sources:
 - sources/coppola-2025-asset-class-liquidity-indicators
 - sources/whitman-2009-distress-investing
+- sources/marks-2000-investment-miscellany
 tags:
 - liquidity
 - brunnermeier-pedersen
 - financial-stability
 title: Funding Liquidity
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_c718163031fc
 uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ---
 
@@ -38,4 +39,8 @@ uuid: 79ee332e-3c8c-5b8f-93fd-efcde9dc1764
 ## Related (credit-macro ingest, 2026-06-09)
 
 - [[concepts/structural-risk|structural-risk]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2000-investment-miscellany|Investment Miscellany]] (2000)
 <!-- AUTHORED REGION END -->

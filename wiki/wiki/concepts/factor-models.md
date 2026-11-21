@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:0ecfd3e9aa57c76c42bef0e8e4f2ef465cc95f19a7fcb1842f442ada59b75a3c
+content_hash: sha256:22870a52e2e05c1bd269eb2b118943407917bca9b439570c64d9cf01832cda02
 created: 2026-04-25 22:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/factor-models
@@ -25,7 +25,7 @@ related:
 - concepts/style-premia
 - concepts/trend-following
 - concepts/duration-times-spread
-revision_id: 5
+revision_id: 6
 schema_version: 2
 sources:
 - sources/andreou-2020-mixed-frequency-macro-finance
@@ -41,14 +41,15 @@ sources:
 - sources/bendor-2007-dts
 - sources/dickerson-2026-co-pricing-factor-zoo
 - sources/dickerson-2026-corporate-bond-factor-replication-crisis
+- sources/marks-2002-returns-and-how-they-get-that-way
 tags:
 - asset-pricing
 - risk-management
 - portfolio-theory
 - quantitative-finance
 title: Factor Models
-updated: '2026-10-05T15:52:32Z'
-updated_by: op_225eb9cd3c09
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_59e9d99b8e82
 uuid: 46bbce7e-7716-5800-ba8f-4317dd2a38c6
 ---
 
@@ -139,4 +140,8 @@ Now also discussed in: [[sources/ms-2015-03-06-bond-market-indicators]], [[sourc
 
 - [[sources/dickerson-2026-corporate-bond-factor-replication-crisis|The Corporate Bond Factor Replication Crisis]]
 - [[sources/dickerson-2026-co-pricing-factor-zoo|The Co-Pricing Factor Zoo]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2002-returns-and-how-they-get-that-way|Returns and How They Get That Way]] (2002)
 <!-- AUTHORED REGION END -->

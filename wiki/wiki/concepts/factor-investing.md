@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:ff3a4f4d8f58122812ea4b6b39a4a2e2a1fbd584127015d057a93cc7a8a9b2e6
+content_hash: sha256:d0e25dd97d4ec65a23df3296d9a2c8428cf929777cb8ea21878079110377c3ce
 created: 2026-04-26 02:25:00+00:00
 page_id: concepts/factor-investing
 page_type: concept
@@ -32,7 +32,7 @@ related:
 - concepts/trend-following
 - concepts/value-premium
 - sources/houweling-2017-factor-investing
-revision_id: 7
+revision_id: 8
 schema_version: 2
 sources:
 - sources/cotturo-2026-multifactor-timing-deep-learning
@@ -46,6 +46,7 @@ sources:
 - sources/dickerson-2026-co-pricing-factor-zoo
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/israel-2017-common-factors-corporate-bond-returns
+- sources/marks-2001-whats-it-all-about-alpha
 tags:
 - factor-investing
 - corporate-bonds
@@ -55,8 +56,8 @@ tags:
 - momentum
 - low-risk
 title: Factor Investing in Corporate Bonds
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_0036e96b5f8d
 uuid: d37b4007-5179-5d0b-ba63-0f1957858fcd
 ---
 
@@ -137,4 +138,8 @@ Now also discussed in: [[sources/ilmanen-2022-investing-amid-low-expected-return
 ## Added by credit-macro ingest (2026-06-09)
 
 Now also discussed in: [[sources/ms-2016-09-27-momentum-for-diversification]], [[sources/ms-2019-03-10-cross-asset-playbook-overpricing-goldilocks]], [[sources/ms-2019-04-14-low-beta-defensiveness-scorecard]], [[sources/ms-2019-06-03-emfx-quants-lab-carry-performs]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2001-whats-it-all-about-alpha|What's It All About, Alpha?]] (2001)
 <!-- AUTHORED REGION END -->

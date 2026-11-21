@@ -8,16 +8,17 @@ page_id: concepts/mean-reversion-in-profitability
 page_type: concept
 related:
 - concepts/mean-reversion
-revision_id: 1
+revision_id: 2
 sources:
 - sources/chan-2001-level-persistence-growth-rates
+- sources/marks-2003-whad-ya-know
 tags: []
 title: Mean Reversion in Profitability
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_2d6d51cf93e3
 schema_version: 2
 uuid: 663538c9-d907-5398-87ac-9d4b3a80eb6a
-content_hash: sha256:03e378a1f70ed6ab9fce23824ea2f645faba81eebd0ae19a9170998fb5303338
+content_hash: sha256:bcfc99179f4cf080683de3083c5dcd658c888f1cf9b99436ee1224df52f2a9ae
 ---
 
 <!-- AUTHORED REGION START -->
@@ -34,4 +35,8 @@ The tendency for competitive pressures to dissipate abnormal profits over time, 
 ## Related Concepts
 
 - [[concepts/mean-reversion|mean-reversion]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2003-whad-ya-know|Whad’Ya Know?]] (2003)
 <!-- AUTHORED REGION END -->

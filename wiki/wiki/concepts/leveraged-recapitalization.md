@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:7298cf7c47269b5fb6efbf4c7372cb2127b4abea4b81f8d27f95f322cb780675
+content_hash: sha256:93f020e11a53246afa165e28ff60d52bdaf4bb98864b582b5e3098d6cf873700
 created: 2026-08-06 00:00:00+00:00
 mind_map_priority: medium
 page_id: concepts/leveraged-recapitalization
@@ -8,19 +8,20 @@ related:
 - concepts/lbo-risk
 - concepts/event-risk
 - concepts/lever-score
-revision_id: 2
+revision_id: 3
 schema_version: 2
 sources:
 - sources/trinh-2006-lever-framework
 - sources/kricheff-2012-pragmatists-guide-leveraged-finance
+- sources/marks-2005-hindsight-first-please
 tags:
 - event-risk
 - LBO
 - corporate-credit
 - creditETF
 title: Leveraged Recapitalization
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_6123799129d3
 uuid: e8811b33-11c1-5036-9ff5-ba3758f8e811
 ---
 
@@ -52,4 +53,8 @@ Because the driver is the same, the same screen applies. A firm becomes an attra
 ## Sources
 
 - [[sources/kricheff-2012-pragmatists-guide-leveraged-finance|A Pragmatist's Guide to Leveraged Finance: Credit Analysis for Bonds and Bank Debt]] (2012)
+
+## In Howard Marks's Memos
+
+- [[sources/marks-2005-hindsight-first-please|Hindsight First, Please (or, What Were They Thinking?)]] (2005)
 <!-- AUTHORED REGION END -->

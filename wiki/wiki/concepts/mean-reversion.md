@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:40b59336b949d1b0595bc1988053e4ec47471535db9b43dc94a47edab6f1834f
+content_hash: sha256:16061dd66f9e82094fad9f9adaaf00e9d1fa5f5c45da39343105612bf38d5590
 created: 2026-04-26 03:00:00+00:00
 page_id: concepts/mean-reversion
 page_type: concept
@@ -34,7 +34,7 @@ related:
 - concepts/term-structure-risk-premium
 - concepts/trend-following
 - concepts/value-premium
-revision_id: 6
+revision_id: 7
 schema_version: 2
 sources:
 - sources/moura-2016-pairs-trading-kalman
@@ -54,14 +54,16 @@ sources:
 - sources/shi-2022-cds-implied-volatility-trading-strategies
 - sources/bendor-2021-systematic-investing-in-credit
 - sources/correia-2012-value-investing-credit-markets
+- sources/marks-1991-first-quarter-performance
+- sources/marks-2003-whats-going-on
 tags:
 - time-series
 - statistical-properties
 - trading-strategies
 - stochastic-processes
 title: Mean Reversion
-updated: '2026-10-22T21:10:31Z'
-updated_by: op_0cdb8cc1f169
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_1f0a47d4a688
 uuid: d16f8e8a-9a2f-522d-ba1f-89a050862b70
 ---
 
@@ -246,4 +248,9 @@ Now also discussed in: [[sources/ms-2011-03-28-high-grade-mid-cycle]], [[sources
 - [[sources/shi-2022-cds-implied-volatility-trading-strategies|The Information Content of CDS Implied Volatility and Associated Trading Strategies]]
 - [[sources/chan-2023-price-convergence-cds-put-option|Price Convergence Between Credit Default Swap and Put Option: New Evidence]]
 - [[sources/bai-2016-anchoring-cds-spreads-firm-fundamentals|Anchoring Credit Default Swap Spreads to Firm Fundamentals]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1991-first-quarter-performance|First Quarter Performance]] (1991)
+- [[sources/marks-2003-whats-going-on|What's Going On?]] (2003)
 <!-- AUTHORED REGION END -->

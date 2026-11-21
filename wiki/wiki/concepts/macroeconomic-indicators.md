@@ -9,18 +9,19 @@ page_type: concept
 related:
 - concepts/government-bond-spreads
 - concepts/quantitative-easing
-revision_id: 1
+revision_id: 2
 sources:
 - sources/ms-2010-06-04-european-macro-indicators-guide
 - sources/ms-2019-02-15-ongoing-weakness
 - sources/ms-2019-03-01-bank-funding-focus
+- sources/marks-1996-the-value-of-predictions-ii
 tags: []
 title: Macroeconomic Indicators
-updated: '2026-06-20T01:03:51Z'
-updated_by: creditmacro-batch
+updated: '2026-11-21T02:22:02Z'
+updated_by: op_ac75b33ed2a3
 schema_version: 2
 uuid: f143ea46-59eb-5860-99f2-cb68a5d81d9d
-content_hash: sha256:1f228e9b16d94cbd58ffaf44e23bdd3b5214d3619aed1a873d40ed851cc6f8fd
+content_hash: sha256:d4648d92d38670cffb7c2a3e41702587ae2770baa5813e0893765f9df3673c9a
 ---
 
 <!-- AUTHORED REGION START -->
@@ -40,4 +41,8 @@ Released economic data series (PMIs, Ifo, HICP, labour reports) used to assess t
 
 - [[concepts/government-bond-spreads|government-bond-spreads]]
 - [[concepts/quantitative-easing|quantitative-easing]]
+
+## In Howard Marks's Memos
+
+- [[sources/marks-1996-the-value-of-predictions-ii|The Value of Predictions II (or "Give That Man a Cigar")]] (1996)
 <!-- AUTHORED REGION END -->
