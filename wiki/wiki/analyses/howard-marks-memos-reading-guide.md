@@ -1,6 +1,6 @@
 ---
 content_hash: sha256:c65536f208f71edb2eaea818ff6a70e806a253c762368963d8d0da3728e14ec7
-created: '2026-11-21T00:00:00Z'
+created: '2026-11-21T03:06:49Z'
 mind_map_priority: high
 page_id: analyses/howard-marks-memos-reading-guide
 page_type: analysis
@@ -121,8 +121,9 @@ tags:
 - reading-guide
 - synthesis
 title: Howard Marks Memos Reading Guide
-updated: '2026-11-21T00:00:00Z'
-updated_by: team-marks-mindmap-reading-guide
+updated: '2026-11-21T03:10:30Z'
+updated_by: op_ed3afe75f427
+uuid: 21a6ff54-e918-522a-bc48-3efbacb088e6
 ---
 
 <!-- AUTHORED REGION START -->

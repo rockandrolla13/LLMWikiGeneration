@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:93df4f9f2bb13917a93e38a716a6e3ce1401786ea972da8ee10ab153463109f2
+content_hash: sha256:37640bc8e272baa7669c059e408bb7e631395617184fc7cd4c819f624bd29c80
 created: '2026-11-21T02:22:02Z'
 mind_map_priority: medium
 page_id: sources/marks-1998-who-knew
@@ -25,7 +25,7 @@ related:
 - entities/oaktree-capital-management
 - entities/peter-bernstein
 - sources/marks-1997-are-you-an-investor-or-a-speculator
-revision_id: 2
+revision_id: 3
 schema_version: 2
 source_hash: sha256:e509bcb8531d6826b61843428bf2495b5b775958ae2be54617e85397c6bf88cf
 source_path: markdown_output/1998-01-08-who-knew.md
@@ -36,8 +36,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Who Knew?
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d0083c9c6727
+updated: '2026-11-21T03:12:54Z'
+updated_by: op_01769a88b372
 uuid: a298e404-44db-5ff5-810e-4f75acb35aa9
 ---
 
@@ -76,7 +76,7 @@ Written in early January 1998, a few months into the Asian financial crisis. Asi
 
 > it's most prudent to be optimistic when no one else is, and it can be highly profitable. But it can be dangerous to be optimistic when everyone else is, and very costly.
 
-> Things will nevergo right forever.
+> Things will never go right forever.
 
 > Prices near highs and optimism in bloom -- that's a dangerous combination, especially with perceived risk on the rise.
 

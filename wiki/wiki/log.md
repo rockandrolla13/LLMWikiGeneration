@@ -1776,3 +1776,29 @@ New concepts: bulk-volume-classification, directional-change, epps-effect, event
 Updated: 61 existing pages gained links to the new sources
 Source: raw/ofi-event-clock/ (see manifest.tsv there); papers found through OpenAlex and Semantic Scholar on 2026-09-26, plus papers added by hand
 Not done: MIND_MAP.md was not edited; the new pages have no nodes yet
+
+
+---
+
+## [2026-11-21] update | Registered analyses/howard-marks-memos-reading-guide; replaced placeholder timestamps
+
+Operation ID: op_ed3afe75f427
+Status: completed
+Created: analyses/howard-marks-memos-reading-guide
+
+
+---
+
+## [2026-11-21] update | Fixed 2 quote typos and 1 unsupported date range in Howard Marks source pages
+
+Operation ID: op_01769a88b372
+Status: completed
+Updated: sources/marks-1997-are-you-an-investor-or-a-speculator, sources/marks-1998-who-knew, sources/marks-2007-its-all-good
+
+
+---
+
+## [2026-11-21] rebuild | Rebuilt index.md, index.full.md
+
+Operation ID: op_59f5414b3ad5
+Status: completed

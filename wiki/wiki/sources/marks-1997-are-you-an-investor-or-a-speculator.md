@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:e352f3795e9932502f0bc7252ef27747e0da1c4b97072a0cc6675b9ff005d3f8
+content_hash: sha256:66713746485160467ab0aeb6b8c3bfefd39af185c7c1d261d50b038c6b4bb350
 created: '2026-11-21T02:40:24Z'
 mind_map_priority: medium
 page_id: sources/marks-1997-are-you-an-investor-or-a-speculator
@@ -27,7 +27,7 @@ related:
 - entities/warren-buffett
 - sources/marks-1991-first-quarter-performance
 - sources/marks-2018-latest-thinking
-revision_id: 1
+revision_id: 2
 schema_version: 2
 source_hash: sha256:38c280cad43c37c7954d4bcb417a16e91a67b3f421dfb49424b0090d3b5317c2
 source_path: markdown_output/are-you-an-investor-or-a-speculator.md
@@ -38,8 +38,8 @@ tags:
 - howard-marks
 - investment-memo
 title: Are You An Investor or a Speculator?
-updated: '2026-11-21T02:40:24Z'
-updated_by: op_d0083c9c6727
+updated: '2026-11-21T03:12:54Z'
+updated_by: op_01769a88b372
 uuid: 49465c0a-79eb-5c41-afbb-d0ae985f3708
 ---
 
@@ -80,7 +80,7 @@ September 1997, late in the 1990s bull market. The Dow had reached about 8,200 i
 
 > Bought when "riskless," this paper proved to be a disaster; purchased off the trash heap, we found it very attractive.
 
-> "We're not expecting any surprises,"people say, and that has become our new favorite oxymoron.
+> "We're not expecting any surprises," people say, and that has become our new favorite oxymoron.
 
 ## Concepts
 

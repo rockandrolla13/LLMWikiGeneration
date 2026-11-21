@@ -1,7 +1,7 @@
 ---
 authors:
 - Howard Marks
-content_hash: sha256:b47cf1f1f8e8b32f4b1fbb452f4c51c73b27bb6211ffde7d5ba1216b20826cd8
+content_hash: sha256:400a7a4e9138019a7da4b9e3e66f02a85f4b46523b095f1b0d4fe8749e9d28d0
 created: '2026-11-21T02:33:09Z'
 mind_map_priority: medium
 page_id: sources/marks-2007-its-all-good
@@ -57,7 +57,7 @@ related:
 - sources/marks-2024-easy-money
 - sources/marks-2017-there-they-go-again-again
 - sources/marks-2023-taking-the-temperature
-revision_id: 3
+revision_id: 4
 schema_version: 2
 source_hash: sha256:0d67e5c2f0a452c57acc629ae9337bcbd2eadaa99c3c946c8b5639a0d5c18de9
 source_path: markdown_output/2007-07-16-its-all-good.md
@@ -68,8 +68,8 @@ tags:
 - howard-marks
 - investment-memo
 title: It's All Good
-updated: '2026-11-21T02:50:17Z'
-updated_by: op_23712691ff54
+updated: '2026-11-21T03:12:54Z'
+updated_by: op_01769a88b372
 uuid: 01a968b6-1124-5656-bcb9-b9a10c60aa3b
 ---
 
@@ -80,7 +80,7 @@ uuid: 01a968b6-1124-5656-bcb9-b9a10c60aa3b
 
 ## Summary
 
-Marks argues that the cycle of 2003-2007 was the strongest, broadest and most heated upswing he had seen, because almost every asset class and country rose together and investors assumed it would continue. He restates his pendulum model of investor psychology and the polar opposites it swings between, warns that 'it's different this time' is a prerequisite for extremes, and stresses that even ideal fundamentals can become overpriced. Most of the memo attacks the period's financial innovation: structured products (CDOs, CLOs, CPDOs), 'selling onward' that separated loan origination from ownership and created moral hazard, covenant-lite and toggle debt, and mega-buyouts built on cheap leverage and optionality for the general partners. He predicts rising defaults and a large distressed LBO opportunity, lists what might end the upswing, and notes the first cracks: subprime delinquencies, two failed Bear Stearns funds, and pulled low-grade debt deals.
+Marks argues that the cycle of the preceding few years was the strongest, broadest and most heated upswing he had seen, because almost every asset class and country rose together and investors assumed it would continue. He restates his pendulum model of investor psychology and the polar opposites it swings between, warns that 'it's different this time' is a prerequisite for extremes, and stresses that even ideal fundamentals can become overpriced. Most of the memo attacks the period's financial innovation: structured products (CDOs, CLOs, CPDOs), 'selling onward' that separated loan origination from ownership and created moral hazard, covenant-lite and toggle debt, and mega-buyouts built on cheap leverage and optionality for the general partners. He predicts rising defaults and a large distressed LBO opportunity, lists what might end the upswing, and notes the first cracks: subprime delinquencies, two failed Bear Stearns funds, and pulled low-grade debt deals.
 
 ## Key Ideas
 
