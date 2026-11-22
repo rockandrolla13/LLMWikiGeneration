@@ -89,6 +89,33 @@ March 2006, mid-credit-boom. Risk premiums were thin across high yield, real est
 
 > High past returns don’t imply high future returns; more likely, they’ve borrowed from the future.
 
+## Poor Man's Guide to Market Assessment
+
+Marks's instruction: for each pair, tick the description that best fits today. "If you find that most of your checkmarks are in the left-hand column, as I do, hold on to your wallet." The left column describes a hot market. The right column describes a cold one. Recovered from PDF p. 5.
+
+| Item | Hot (left) | Cold (right) |
+|---|---|---|
+| Economy | Vibrant | Sluggish |
+| Outlook | Positive | Negative |
+| Lenders | Eager | Reticent |
+| Capital markets | Loose | Tight |
+| Capital | Plentiful | Scarce |
+| Terms | Easy | Restrictive |
+| Interest rates | Low | High |
+| Spreads | Narrow | Wide |
+| Investors | Optimistic / Sanguine / Eager to buy | Pessimistic / Distressed / Uninterested in buying |
+| Asset owners | Happy to hold | Rushing for the exits |
+| Sellers | Few | Many |
+| Markets | Crowded | Starved for attention |
+| Funds | Hard to gain entry / New ones daily / GPs hold the cards on terms | Open to anyone / Only the best can raise money / LPs have bargaining power |
+| Recent performance | Strong | Weak |
+| Asset prices | High | Low |
+| Prospective returns | Low | High |
+| Risk | High | Low |
+| Popular qualities | Aggressiveness / Broad reach | Caution and discipline / Selectivity |
+| The right qualities | Caution and discipline / Selectivity | Aggressiveness / Broad reach |
+| Available mistakes | Buying too much / Paying up / Taking too much risk | Buying too little / Walking away / Taking too little risk |
+
 ## Concepts
 
 - [[concepts/asset-bubbles|Asset Bubbles]]
@@ -124,7 +151,7 @@ March 2006, mid-credit-boom. Risk premiums were thin across high yield, real est
 
 ## Notes on the Source Text
 
-- The 'Poor Man's Guide to Market Assessment' table is mangled in the markdown; check the PDF before reproducing it. Date printed at end of memo.
+- The 'Poor Man's Guide to Market Assessment' table is mangled in the markdown because the vertical Oaktree copyright watermark interleaves with the rows. The table above was recovered from the PDF with `pdftotext -layout` (p. 5). Date printed at end of memo.
 
 ## Source
 
