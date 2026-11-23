@@ -1,5 +1,5 @@
 ---
-content_hash: sha256:24c4079cba18459404450498a074d0e38404992c41d7bc1c25a4a724453c4d07
+content_hash: sha256:6e738c0a9423ca35f31c4c1d1cc2ff9f2bb21487638c15207aa88fec4bf8d2a9
 created: '2026-05-17T16:44:06Z'
 mind_map_priority: high
 page_id: concepts/retrieval-augmented-generation
@@ -7,7 +7,9 @@ page_type: concept
 related:
 - concepts/self-attention
 - concepts/transformers
-revision_id: 2
+- concepts/llm-knowledge-bases
+- sources/karpathy-2026-llm-knowledge-bases-tweets
+revision_id: 3
 schema_version: 2
 sources:
 - sources/alammar-2024-hands-on-llm
@@ -22,13 +24,14 @@ sources:
 - sources/thomas-2025-ai-value-creators
 - sources/aryan-2025-llmops
 - sources/pathan-2025-mastering-llm-applications-langchain
+- sources/karpathy-2026-llm-knowledge-bases-tweets
 tags:
 - ai-engineering
 - self-attention
 - transformers
 title: Retrieval-Augmented Generation
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-23T14:43:11Z'
+updated_by: op_5c91b297008c
 uuid: 036ffd72-a47c-5151-b394-2825ba398afd
 ---
 
@@ -59,4 +62,7 @@ An architectural pattern that augments large language models with real-time retr
 - [[concepts/self-attention]]
 - [[concepts/transformers]]
 
+## When RAG Is Not Needed
+
+Karpathy reports that for a personal LLM wiki of about ~100 articles the agent answered complex questions without a retrieval system, using index files and short summaries it maintained itself. He also prefers whole documents in the context window over RAG for reading. See [[sources/karpathy-2026-llm-knowledge-bases-tweets|Karpathy on Obsidian, Second Brains and LLM Knowledge Bases]].
 <!-- AUTHORED REGION END -->

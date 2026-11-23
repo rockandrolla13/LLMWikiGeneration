@@ -1,22 +1,24 @@
 ---
-title: Continual Learning
+content_hash: sha256:dcce05c2453e7acf6979b0ba07bab8d9cb597b1ff5195c9af73815026c24fc3a
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/continual-learning
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
+related:
+- concepts/data-distribution-shift
+- sources/karpathy-2026-llm-knowledge-bases-tweets
+revision_id: 2
+schema_version: 2
+sources:
+- sources/huyen-2022-designing-ml-systems
+- sources/karpathy-2026-llm-knowledge-bases-tweets
 tags:
 - ai-engineering
 - data-distribution-shift
-sources:
-- sources/huyen-2022-designing-ml-systems
-related:
-- concepts/data-distribution-shift
-mind_map_priority: medium
-schema_version: 2
+title: Continual Learning
+updated: '2026-11-23T14:43:11Z'
+updated_by: op_5c91b297008c
 uuid: 65e70fa8-fdb9-5a34-a8fe-2c623f0be190
-content_hash: sha256:b1f5cbb8a27e0fe631a972656ff8b9278a4c54d42582c20855433b81dbab33ec
 ---
 
 <!-- AUTHORED REGION START -->
@@ -34,4 +36,7 @@ An infrastructure pattern that lets teams update deployed models on demand (stat
 
 - [[concepts/data-distribution-shift]]
 
+## Memory Ops and Weight Updates
+
+Karpathy suggests adding memory operations as tools during RL training, and expects that more exotic long-term memory which changes the weights will be needed, by analogy with learning during sleep. He also floats fine-tuning a model on a personal wiki so it "knows" the content in its weights. See [[sources/karpathy-2026-llm-knowledge-bases-tweets|Karpathy on Obsidian, Second Brains and LLM Knowledge Bases]].
 <!-- AUTHORED REGION END -->

@@ -1,20 +1,23 @@
 ---
-content_hash: sha256:66494dcadfab45f2d6a5ddc3528e4aec0d8927f0864992535e7fa9ceddcb3f4d
+content_hash: sha256:765ca503e93593155e248227e3e6a88fd6631c4b23933261398cf4076cbed88b
 created: '2026-05-17T16:44:06Z'
 mind_map_priority: medium
 page_id: concepts/llm-memory
 page_type: concept
-related: []
-revision_id: 2
+related:
+- concepts/llm-knowledge-bases
+- sources/karpathy-2026-llm-knowledge-bases-tweets
+revision_id: 3
 schema_version: 2
 sources:
 - sources/oshin-2025-learning-langchain
 - sources/aryan-2025-llmops
+- sources/karpathy-2026-llm-knowledge-bases-tweets
 tags:
 - ai-engineering
 title: LLM Memory
-updated: '2026-10-07T18:46:39Z'
-updated_by: op_9a030901d060
+updated: '2026-11-23T14:43:11Z'
+updated_by: op_5c91b297008c
 uuid: a0840313-c1b3-5dd9-98c0-a53965ffd81d
 ---
 
@@ -30,4 +33,7 @@ Mechanisms for giving stateless LLMs persistent context across turns and session
 - [[sources/aryan-2025-llmops|LLMOps]]
 - [[sources/oshin-2025-learning-langchain|Learning LangChain]]
 
+## Explicit, File-Based Memory
+
+Karpathy argues for memory as an explicit artifact: a wiki of markdown files the user can inspect and edit, usable with any AI, instead of memory held implicitly inside one provider. He also notes that very long single conversations hurt speed and quality, and suggests a well-implemented memory feature with active, agentic context management. See [[concepts/llm-knowledge-bases|LLM Knowledge Bases]] and [[sources/karpathy-2026-llm-knowledge-bases-tweets|Karpathy on Obsidian, Second Brains and LLM Knowledge Bases]].
 <!-- AUTHORED REGION END -->

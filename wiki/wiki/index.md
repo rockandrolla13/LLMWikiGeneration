@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-11-21T03:13:06.945889Z'
+updated: '2026-11-23T14:43:23.770859Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-11-21T03:13:06.942378Z
+Generated: 2026-11-23T14:43:23.766002Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:7f3e9580e731db55
+Source hash: sha256:1e8c4026817bfe55
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-11-21
-Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, contradictions: 5)
+Last updated: 2026-11-23
+Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, contradictions: 5)
 
 ## Sources
 - sources/marks-1994-risk-in-todays-markets-revisited — "Risk in Today's Markets" Revisited
@@ -451,6 +451,7 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 - sources/marks-2012-its-all-a-big-mistake — It’s All a Big Mistake
 - sources/marks-2007-its-all-good-really — It’s All Good . . . Really?
 - sources/chen-2024-jump-clustering-information-flows — Jump Clustering, Information Flows, and Stock Price Efficiency
+- sources/karpathy-2026-llm-knowledge-bases-tweets — Karpathy on Obsidian, Second Brains and LLM Knowledge Bases
 - sources/laumann-2021-kernel-tests-nonstationary — Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 - sources/lee-2024-kowcpi — Kernel-based Optimally Weighted Conformal Prediction Intervals
 - sources/dai-2019-knowing-factors-or-loadings — Knowing Factors or Factor Loadings, or Neither? Evaluating Estimators of Large Covariance Matrices with Noisy and Asynchronous Data
@@ -1156,6 +1157,7 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 - concepts/feedback-loops — Feedback Loops
 - concepts/few-shot-learning — Few-Shot Learning
 - concepts/few-shot-prompting — Few-shot Prompting
+- concepts/file-over-app — File Over App
 - concepts/fill-probability — Fill Probability
 - concepts/financial-conditions — Financial conditions
 - concepts/fine-tuning — Fine-Tuning
@@ -1322,6 +1324,7 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 - concepts/llm-application-architecture — LLM Application Architecture
 - concepts/llm-evaluation — LLM Evaluation
 - concepts/llm-hallucination — LLM Hallucination
+- concepts/llm-knowledge-bases — LLM Knowledge Bases
 - concepts/llm-memory — LLM Memory
 - concepts/llm-sampling-controls — LLM Sampling Controls
 - concepts/llm-supply-chain-security — LLM Supply Chain Security
@@ -2006,8 +2009,8 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 - entities/jacob-nell — Jacob Nell
 - entities/jakub-mateju — Jakub Mateju
 - entities/james-egan — James Egan
-- entities/james-k-lord — James K Lord
 - entities/james-lord — James K Lord
+- entities/james-k-lord — James K Lord
 - entities/james-robins — James M. Robins
 - entities/jan-babecky — Jan Babecky
 - entities/jan-kozak — Jan Kozak
@@ -2210,6 +2213,7 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 - entities/nursilah-ahmad — Nursilah Ahmad
 - entities/oreilly-media — O'Reilly Media
 - entities/oaktree-capital-management — Oaktree Capital Management
+- entities/obsidian — Obsidian
 - entities/ofer-mendelevitch — Ofer Mendelevitch
 - entities/ole-barndorff-nielsen — Ole Barndorff-Nielsen
 - entities/olga-kolokolova — Olga Kolokolova
@@ -2447,6 +2451,7 @@ Total pages: 2432 (sources: 830, concepts: 869, entities: 719, analyses: 9, cont
 ## Analyses
 - analyses/credit-universe-topology-and-representation — A Credit Universe as a Dynamic Sheaf: Representation and Topology
 - analyses/ai-engineering-as-a-discipline — AI Engineering as a Discipline
+- analyses/bond-momentum-signal-design-and-testing — Bond Momentum Signal: Findings, Test Plan and Next Steps
 - analyses/capital-structure-arbitrage-literature-review — Capital Structure Arbitrage: Literature Review for Bond Signals
 - analyses/conformal-prediction-for-hft-traders — Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction
 - analyses/conformal-tukey-gh-intervals — Conformal Prediction with Tukey g-h Transformation

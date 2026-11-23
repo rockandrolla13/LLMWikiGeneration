@@ -1079,3 +1079,9 @@ Operation ID: op_3592176627b6
 Contradiction check for Howard Marks memos, chunk 4. Found one new direct conflict: in *What Does the Market Know?* (2016) Marks says price movements convey no consistently helpful message about future prices, while the Momentum and Trend Following page says trend-following is profitable across asset classes. Also added *What's Going on in Private Credit?* (2026) as evidence to the existing risk-versus-volatility contradiction. Created 1 page, updated 4.
 
 Operation ID: op_6e869a823170
+
+## 2026-11-23T14:43:11Z ingest
+
+Ingested Karpathy's curated tweets on Obsidian, note taking and LLM knowledge bases from `raw/karpathy-tweets/obsidian-second-brain.md`. Created 4 pages, updated 4.
+
+Operation ID: op_5c91b297008c
