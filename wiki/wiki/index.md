@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index
-updated: '2026-11-23T14:43:23.770859Z'
+updated: '2026-11-24T23:30:17.799580Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-11-23T14:43:23.766002Z
+Generated: 2026-11-24T23:30:17.794961Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:1e8c4026817bfe55
+Source hash: sha256:92c9dafa133dc439
 Rebuild with: wiki:rebuild
 -->
 
@@ -17,8 +17,8 @@ Rebuild with: wiki:rebuild
 # Wiki Index (Summary)
 *Auto-generated. For full index see [index.full.md](index.full.md).*
 
-Last updated: 2026-11-23
-Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, contradictions: 5)
+Last updated: 2026-11-24
+Total pages: 2441 (sources: 833, concepts: 872, entities: 720, analyses: 11, contradictions: 5)
 
 ## Sources
 - sources/marks-1994-risk-in-todays-markets-revisited — "Risk in Today's Markets" Revisited
@@ -105,6 +105,7 @@ Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, con
 - sources/peters-2026-asynchronous-cir — Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference
 - sources/attention-paper — Attention Is All You Need
 - sources/jung-2025-attention-based-reading-highlighting-forecasting-limit — Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book
+- sources/karpathy-2026-autoresearch — Autoresearch (Karpathy, 2026)
 - sources/kisiel-2022-axial-lob-high-frequency-trading-axial — Axial-LOB: High-Frequency Trading with Axial Attention
 - sources/babecky-2014-developed-country-crisis-ewi — Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators
 - sources/mauboussin-2026-bayes-base-rates — Bayes and Base Rates: How History Can Guide Our Assessment of the Future
@@ -455,6 +456,7 @@ Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, con
 - sources/laumann-2021-kernel-tests-nonstationary — Kernel Two-Sample and Independence Tests for Nonstationary Random Processes
 - sources/lee-2024-kowcpi — Kernel-based Optimally Weighted Conformal Prediction Intervals
 - sources/dai-2019-knowing-factors-or-loadings — Knowing Factors or Factor Loadings, or Neither? Evaluating Estimators of Large Covariance Matrices with Noisy and Asynchronous Data
+- sources/anthropic-2026-knowledge-graph-construction-cookbook — Knowledge Graph Construction with Claude (Anthropic Cookbook)
 - sources/marks-2020-knowledge-of-the-future — Knowledge of the Future
 - sources/pelger-2019-large-dimensional-hf-factor-model — Large-Dimensional Factor Modeling Based on High-Frequency Observations
 - sources/bodilsen-2025-hf-dynamic-factor-portfolio — Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model
@@ -900,6 +902,7 @@ Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, con
 - concepts/automated-alpha-search — Automated Alpha Search
 - concepts/automatic-prompt-engineering — Automatic Prompt Engineering
 - concepts/autonomous-ai-agents — Autonomous AI Agents
+- concepts/autoresearch — Autoresearch
 - concepts/avellaneda-stoikov-model — Avellaneda-Stoikov Model
 - concepts/average-treatment-effect — Average treatment effect (ATE)
 - concepts/baa-corporate-bond-spread — BAA Corporate Bond Spread
@@ -2451,6 +2454,7 @@ Total pages: 2437 (sources: 831, concepts: 871, entities: 720, analyses: 10, con
 ## Analyses
 - analyses/credit-universe-topology-and-representation — A Credit Universe as a Dynamic Sheaf: Representation and Topology
 - analyses/ai-engineering-as-a-discipline — AI Engineering as a Discipline
+- analyses/autoresearch-for-equity-to-credit-modelling — Autoresearch for Equity-to-Credit Modelling
 - analyses/bond-momentum-signal-design-and-testing — Bond Momentum Signal: Findings, Test Plan and Next Steps
 - analyses/capital-structure-arbitrage-literature-review — Capital Structure Arbitrage: Literature Review for Bond Signals
 - analyses/conformal-prediction-for-hft-traders — Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction

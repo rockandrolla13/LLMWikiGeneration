@@ -1085,3 +1085,9 @@ Operation ID: op_6e869a823170
 Ingested Karpathy's curated tweets on Obsidian, note taking and LLM knowledge bases from `raw/karpathy-tweets/obsidian-second-brain.md`. Created 4 pages, updated 4.
 
 Operation ID: op_5c91b297008c
+
+## 2026-11-24T23:30:14Z ingest
+
+Ingested the Anthropic knowledge-graph cookbook (`raw/anthropic-kg-cookbook/guide.md`) and Karpathy's autoresearch (`raw/karpathy-autoresearch/program.md`), with an analysis applying autoresearch to equity-to-credit modelling. Created 4 pages, updated 7.
+
+Operation IDs: op_53f181d9343b (cookbook), op_29b013ce1082 (autoresearch, source bundle `raw/karpathy-autoresearch/source.md`)

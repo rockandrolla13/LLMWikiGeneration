@@ -1,23 +1,25 @@
 ---
-title: Entity Resolution
+content_hash: sha256:37ad10c40f04dd6ca4641bae9f4097c05f7435c79744e4832e798a74d9c677e5
+created: '2026-05-17T16:44:06Z'
+mind_map_priority: medium
 page_id: concepts/entity-resolution
 page_type: concept
-revision_id: 1
-created: '2026-05-17T16:44:06Z'
-updated: '2026-06-20T01:03:51Z'
-updated_by: wiki-batch-ai-engineering-2026-05-17
-tags:
-- ai-engineering
-- knowledge-graph-construction
+related:
+- concepts/knowledge-graph-construction
+- sources/anthropic-2026-knowledge-graph-construction-cookbook
+revision_id: 2
+schema_version: 2
 sources:
 - sources/barrasa-2023-building-knowledge-graphs
 - sources/bratanic-2025-essential-graphrag
-related:
-- concepts/knowledge-graph-construction
-mind_map_priority: medium
-schema_version: 2
+- sources/anthropic-2026-knowledge-graph-construction-cookbook
+tags:
+- ai-engineering
+- knowledge-graph-construction
+title: Entity Resolution
+updated: '2026-11-24T23:30:14Z'
+updated_by: op_53f181d9343b
 uuid: cb0844a6-5ea1-55c0-a2dc-20daa9cc5879
-content_hash: sha256:645e06732998d41439f86372d95671057d237e34add506d2ec20ef556ee09c17
 ---
 
 <!-- AUTHORED REGION START -->
@@ -36,4 +38,7 @@ The process of determining whether two or more records refer to the same real-wo
 
 - [[concepts/knowledge-graph-construction]]
 
+## LLM Clustering With Descriptions
+
+The Anthropic cookbook resolves entities by asking Claude to cluster names of one type, using the one-sentence description written for each entity at extraction time. This catches aliases with no shared characters ("Edwin Aldrin" and "Buzz Aldrin") and keeps apart entities that only share a name. Its stated failure modes are names dropped from every cluster and over-merging (a mission folded into its program). At scale it blocks candidates first by cheap signals and resolves within blocks of 50 to 100. See [[sources/anthropic-2026-knowledge-graph-construction-cookbook|Knowledge Graph Construction with Claude (Anthropic Cookbook)]].
 <!-- AUTHORED REGION END -->

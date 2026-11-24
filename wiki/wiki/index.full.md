@@ -2,14 +2,14 @@
 generated: true
 page_type: index
 title: Wiki Index (Full)
-updated: '2026-11-23T14:43:26.928753Z'
+updated: '2026-11-24T23:30:19.866969Z'
 ---
 
 <!--
 AUTO-GENERATED FILE - DO NOT EDIT MANUALLY
-Generated: 2026-11-23T14:43:26.925109Z
+Generated: 2026-11-24T23:30:19.862247Z
 Generator: llm-wiki 0.1.0
-Source hash: sha256:1e8c4026817bfe55
+Source hash: sha256:92c9dafa133dc439
 Rebuild with: wiki:rebuild
 -->
 
@@ -105,6 +105,7 @@ Master catalog of all pages in this wiki.
 - [[Asynchronous Regime-Switching Multivariate CIR Spot-Rate Models via Onsager–Machlup Topological HMM Inference]] - <!-- AUTHORED REGION START -->
 - [[Attention Is All You Need]] - <!-- AUTHORED REGION START -->
 - [[Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book]] - <!-- AUTHORED REGION START -->
+- [[Autoresearch (Karpathy, 2026)]] - <!-- AUTHORED REGION START -->
 - [[Axial-LOB: High-Frequency Trading with Axial Attention]] - <!-- AUTHORED REGION START -->
 - [[Banking, debt, and currency crises in developed countries: Stylized facts and early warning indicators]] - <!-- AUTHORED REGION START -->
 - [[Bayes and Base Rates: How History Can Guide Our Assessment of the Future]] - <!-- AUTHORED REGION START -->
@@ -455,6 +456,7 @@ Master catalog of all pages in this wiki.
 - [[Kernel Two-Sample and Independence Tests for Nonstationary Random Processes]] - <!-- AUTHORED REGION START -->
 - [[Kernel-based Optimally Weighted Conformal Prediction Intervals]] - <!-- AUTHORED REGION START -->
 - [[Knowing Factors or Factor Loadings, or Neither? Evaluating Estimators of Large Covariance Matrices with Noisy and Asynchronous Data]] - <!-- AUTHORED REGION START -->
+- [[Knowledge Graph Construction with Claude (Anthropic Cookbook)]] - <!-- AUTHORED REGION START -->
 - [[Knowledge of the Future]] - <!-- AUTHORED REGION START -->
 - [[Large-Dimensional Factor Modeling Based on High-Frequency Observations]] - <!-- AUTHORED REGION START -->
 - [[Large-Dimensional Portfolio Selection with a High-Frequency-Based Dynamic Factor Model]] - <!-- AUTHORED REGION START -->
@@ -1623,9 +1625,10 @@ Master catalog of all pages in this wiki.
 - [[At-At Theory of Causal Influence]] (1 sources)
 - [[Austrian Business Cycle Theory]] (2 sources)
 - [[Autocorrelation in Time Series]] (20 sources)
-- [[Automated Alpha Search]] (1 sources)
+- [[Automated Alpha Search]] (2 sources)
 - [[Automatic Prompt Engineering]] (1 sources)
-- [[Autonomous AI Agents]] (2 sources)
+- [[Autonomous AI Agents]] (3 sources)
+- [[Autoresearch]] (1 sources)
 - [[Avellaneda-Stoikov Model]] (3 sources)
 - [[Average treatment effect (ATE)]] (1 sources)
 - [[BAA Corporate Bond Spread]] (3 sources)
@@ -1838,7 +1841,7 @@ Master catalog of all pages in this wiki.
 - [[Empirical evaluation of causal inference methods]] (1 sources)
 - [[EnbPI (Ensemble batch Prediction Intervals)]] (3 sources)
 - [[Energy Score]] (2 sources)
-- [[Entity Resolution]] (2 sources)
+- [[Entity Resolution]] (3 sources)
 - [[Entry Point Analysis]] (1 sources)
 - [[Epps Effect]] (2 sources)
 - [[Epsilon-Operator Semantics for Counterfactuals]] (1 sources)
@@ -2007,7 +2010,7 @@ Master catalog of all pages in this wiki.
 - [[Kalman Filter State-Space Estimation]] (1 sources)
 - [[Kernel Methods]] (4 sources)
 - [[Knowledge Graph]] (2 sources)
-- [[Knowledge Graph Construction]] (1 sources)
+- [[Knowledge Graph Construction]] (2 sources)
 - [[Knowledge Lake]] (1 sources)
 - [[KOWCPI]] (1 sources)
 - [[Kriging]] (1 sources)
@@ -2178,7 +2181,7 @@ Master catalog of all pages in this wiki.
 - [[Outright Monetary Transactions]] (1 sources)
 - [[Over-fitting in Back-testing]] (24 sources)
 - [[Over-the-Counter Markets]] (1 sources)
-- [[Overfitting in Alpha Research]] (2 sources)
+- [[Overfitting in Alpha Research]] (3 sources)
 - [[Overfitting of Trading Strategies]] (1 sources)
 - [[OWASP Top 10 for LLM Applications]] (1 sources)
 - [[Pairs Trading]] (5 sources)
@@ -2457,6 +2460,7 @@ Master catalog of all pages in this wiki.
 
 - [[A Credit Universe as a Dynamic Sheaf: Representation and Topology]]
 - [[AI Engineering as a Discipline]]
+- [[Autoresearch for Equity-to-Credit Modelling]]
 - [[Bond Momentum Signal: Findings, Test Plan and Next Steps]]
 - [[Capital Structure Arbitrage: Literature Review for Bond Signals]]
 - [[Conformal Prediction for Algorithmic and HFT Traders: A Gentle Introduction]]
@@ -2478,10 +2482,10 @@ Master catalog of all pages in this wiki.
 ---
 
 **Stats**
-- Total sources: 831
+- Total sources: 833
 - Total entities: 720
-- Total concepts: 871
-- Total analyses: 10
+- Total concepts: 872
+- Total analyses: 11
 - Total contradictions: 5
-- **Total pages: 2437**
-- Last updated: 2026-11-23
+- **Total pages: 2441**
+- Last updated: 2026-11-24
